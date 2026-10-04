@@ -7,6 +7,13 @@
     "ref": "CE (1978)"
   },
   {
+    "id": "estado",
+    "termino": "Estado",
+    "def": "La organización política de un país: el conjunto de sus instituciones y poderes públicos (Cortes, Gobierno, tribunales…). Ojo: según el contexto, «Estado» puede significar todo el país organizado o solo la Administración central, por oposición a las Comunidades Autónomas y a los entes locales.",
+    "ejemplo": "«El Estado tiene competencia exclusiva en defensa» se refiere a la Administración central, no a Aragón ni a los ayuntamientos.",
+    "ref": "Arts. 1 y 137 CE"
+  },
+  {
     "id": "ordenamiento-juridico",
     "termino": "Ordenamiento jurídico",
     "def": "El conjunto de todas las normas que están en vigor en un país: Constitución, leyes, reglamentos, ordenanzas… Funciona como un edificio con pisos: unas normas mandan sobre otras.",
