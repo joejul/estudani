@@ -14,7 +14,8 @@ Estado: **20 de los 21 temas** del Anexo I (falta **ofimática**, aplazada). 337
 - **Esquema visual**: 11 diagramas (mosaico de Títulos, línea de tiempo, pirámide de normas, barras de mayorías, comparativas, cajas anidadas, flujos de reforma).
 - **Asociar ideas**: 18 mapas de ideas (idea central + pistas por tipo: quién, dice, cifra, trampa). Las preguntas resaltan las palabras clave y enlazan con su idea; hay un entrenamiento «pistas → idea» con repaso espaciado.
 - **Test** con 3 opciones (como el examen real; el Tema 1 conserva 4), justificación y artículo. **Los errores restan** y existe «No contesto».
-- **Repaso espaciado** (cajas tipo Leitner: 0, 1, 2, 4, 8, 16, 32, 64 días), test rápido, simulacro con cronómetro y «mis fallos».
+- **Repaso espaciado** solo de lo estudiado: entran los epígrafes marcados como estudiados y las preguntas ya respondidas; el selector de temas permite activar o apagar temas a mano.
+- **Repaso espaciado (detalle)** (cajas tipo Leitner: 0, 1, 2, 4, 8, 16, 32, 64 días), test rápido, simulacro con cronómetro y «mis fallos».
 - Progreso guardado en el dispositivo + copia de seguridad en Ajustes.
 
 ## Ejecutar en local

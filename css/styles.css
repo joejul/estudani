@@ -408,3 +408,11 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 .examen { border-color: var(--bad); border-width: 2px; }
 .contexto { background: var(--info-soft); border-left: 5px solid var(--brand); border-radius: 12px; padding: 10px 14px; margin: 10px 0; }
 .contexto summary { cursor: pointer; font-weight: 700; }
+
+/* ---------- selector de temas del repaso ---------- */
+.sel-lista { margin: 10px 0 4px; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.sel-t { display: flex; gap: 12px; align-items: center; padding: 12px 14px; border-bottom: 1px solid var(--line); cursor: pointer; background: var(--card); }
+.sel-t:last-child { border-bottom: 0; }
+.sel-t input { flex: none; width: 26px; height: 26px; accent-color: var(--brand); }
+.sel-x { display: flex; flex-direction: column; min-width: 0; }
+.sel-x small { color: var(--muted); }

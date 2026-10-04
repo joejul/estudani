@@ -143,6 +143,42 @@
      "Personal de Oficios va en Servicios Especiales, no en Subalterna"
     ]
    ]
+  },
+  {
+   "id": "h-regimen",
+   "epi": "e2",
+   "titulo": "Régimen de los funcionarios locales",
+   "art": "Arts. 92-93 LBRL",
+   "resumen": "Normas aplicables, funciones reservadas y retribuciones.",
+   "confunde": [
+    "h-personal"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Se rigen por la LBRL, el TREBEP, la legislación estatal y la autonómica"
+    ],
+    [
+     "d",
+     "Puestos de trabajo: con carácter general, personal funcionario"
+    ],
+    [
+     "q",
+     "Potestades públicas: solo funcionarios de carrera"
+    ],
+    [
+     "d",
+     "Retribuciones básicas: misma estructura e idéntica cuantía que en toda la función pública"
+    ],
+    [
+     "q",
+     "Retribuciones complementarias: su cuantía global la fija el Pleno"
+    ],
+    [
+     "t",
+     "Básicas iguales en toda España; complementarias, el Pleno dentro de los límites del Estado"
+    ]
+   ]
   }
  ],
  "esquema": [

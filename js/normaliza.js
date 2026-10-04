@@ -39,6 +39,9 @@ export function normalizaTema(t) {
     });
     // las anotaciones hub/claves de las preguntas pueden venir aparte (tema 1) o en la propia pregunta (compacto)
     t.preguntas.forEach((q) => Object.assign(q, (v.preguntas && v.preguntas[q.id]) || {}));
+    // cada pregunta pertenece al epígrafe de su idea (hub): sirve para los tests por epígrafe y para el repaso
+    const epiDeHub = Object.fromEntries((v.hubs || []).map((h) => [h.id, h.epi]));
+    t.preguntas.forEach((q) => { if (!q.epi && q.hub && epiDeHub[q.hub]) q.epi = epiDeHub[q.hub]; });
   }
   return t;
 }

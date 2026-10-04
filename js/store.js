@@ -58,6 +58,19 @@ export function setAjuste(clave, valor) {
 }
 export const penalizacion = () => (PENALIZACIONES[estado.ajustes.penalizacion] || PENALIZACIONES['1/3']).valor;
 
+// ---------- temas incluidos en el repaso ----------
+// true/false = elección manual del estudiante; undefined = automático (según lo estudiado)
+export const repasoTema = (n) => (estado.ajustes.repaso || {})[n];
+export function setRepasoTema(n, valor) {
+  estado.ajustes.repaso = estado.ajustes.repaso || {};
+  estado.ajustes.repaso[n] = !!valor;
+  guardar();
+}
+export function resetRepaso() {
+  estado.ajustes.repaso = {};
+  guardar();
+}
+
 // ---------- preguntas ----------
 export const infoPregunta = (id) => estado.preguntas[id] || null;
 

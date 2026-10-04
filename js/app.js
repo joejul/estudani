@@ -80,6 +80,34 @@ const infoTema = (n) => D.temas.temas.find((t) => t.n === n);
 const idsTema = (n) => (D.tema[n] ? D.tema[n].preguntas.map((q) => q.id) : []);
 const todasIds = () => D.preguntas.map((q) => q.id);
 
+// ---- qué entra en el repaso: lo estudiado o con progreso (o lo que el estudiante active a mano) ----
+const epiDe = (q) => q.epi || (D.hubById[q.hub] && D.hubById[q.hub].epi);
+function estadoTema(n) {
+  const t = D.tema[n];
+  const hechos = t.epigrafes.filter((e) => store.leccionHecha(n, e.id)).length;
+  const visto = idsTema(n).some((id) => store.infoPregunta(id));
+  return { hechos, total: t.epigrafes.length, estado: hechos === t.epigrafes.length ? 'completo' : hechos > 0 || visto ? 'progreso' : 'nuevo' };
+}
+function temaActivo(n) {
+  const ov = store.repasoTema(n);
+  return ov !== undefined ? ov : estadoTema(n).estado !== 'nuevo';
+}
+function elegible(q) {
+  const ov = store.repasoTema(q.tema);
+  if (ov === false) return false;
+  if (ov === true) return true;
+  const e = epiDe(q);
+  return !!store.infoPregunta(q.id) || !!(e && store.leccionHecha(q.tema, e));
+}
+const idsRepaso = () => D.preguntas.filter(elegible).map((q) => q.id);
+function hubElegible(h) {
+  const ov = store.repasoTema(h.tema);
+  if (ov === false) return false;
+  if (ov === true) return true;
+  return !!store.infoPregunta(`a:${h.id}`) || store.leccionHecha(h.tema, h.epi);
+}
+const nTemasRepaso = () => Object.keys(D.tema).filter((n) => temaActivo(+n)).length;
+
 // ---------------------------------------------------------------- utilidades
 function barajar(a) {
   const r = a.slice();
@@ -152,8 +180,9 @@ function tabsHtml() {
 // ---------------------------------------------------------------- inicio
 function vistaInicio() {
   const ids = todasIds();
-  const pend = store.pendientesHoy(ids).length;
-  const nuevas = Math.min(store.nuevas(ids).length, 10);
+  const rep = idsRepaso();
+  const pend = store.pendientesHoy(rep).length;
+  const nuevas = Math.min(store.nuevas(rep).length, 10);
   const r = store.resumen(ids);
   const dias = Math.max(0, Math.ceil((OBJETIVO_EXAMEN - new Date()) / 86400000));
   const abiertos = Object.values(D.tema).sort((a, b) => a.n - b.n);
@@ -180,7 +209,8 @@ function vistaInicio() {
     <section class="card">
       <h3>Repaso de hoy</h3>
       <p class="big">${pend}<span class="muted"> pendientes</span> · ${nuevas}<span class="muted"> nuevas</span></p>
-      <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>${pend + nuevas === 0 ? 'Todo al día 🎉' : 'Empezar repaso'}</button>
+      <p class="tiny muted">${nTemasRepaso() ? `De ${nTemasRepaso()} tema${nTemasRepaso() > 1 ? 's' : ''} que has estudiado o empezado.` : 'Marca un epígrafe como estudiado para empezar a repasar.'}</p>
+      <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>${pend + nuevas === 0 ? (nTemasRepaso() ? 'Todo al día 🎉' : 'Aún no hay nada que repasar') : 'Empezar repaso'}</button>
     </section>
 
     <section class="card">
@@ -421,10 +451,30 @@ function cuerpoTestTema(n, t) {
 }
 
 // ---------------------------------------------------------------- hub de test / repaso
+function selectorTemas() {
+  const filas = Object.values(D.tema)
+    .sort((a, b) => a.n - b.n)
+    .map((t) => {
+      const e = estadoTema(t.n);
+      const elig = idsTema(t.n).filter((id) => elegible(D.qById[id]));
+      const pendT = store.pendientesHoy(elig).length;
+      const etq = e.estado === 'completo' ? 'Completo' : e.estado === 'progreso' ? `En progreso · ${e.hechos}/${e.total} epígrafes` : 'Sin empezar';
+      const manual = store.repasoTema(t.n) !== undefined ? ' · manual' : '';
+      return `<label class="sel-t"><input type="checkbox" data-act="toggle-tema" data-tema="${t.n}" ${temaActivo(t.n) ? 'checked' : ''} aria-label="Incluir el tema ${t.n} en el repaso">
+        <span class="sel-x"><strong>${icHtml(t.titulo, infoTema(t.n).ic)}Tema ${t.n} · ${esc(t.titulo)}</strong><small>${etq}${pendT ? ` · ${pendT} pendientes` : ''}${manual}</small></span></label>`;
+    })
+    .join('');
+  return `<section class="card"><h3>Temas del repaso</h3>
+    <p class="muted">El «Repaso de hoy» solo pregunta lo que ya has estudiado: los epígrafes marcados como estudiados y las preguntas que ya has respondido. Activa o desactiva temas a mano cuando quieras.</p>
+    <div class="sel-lista">${filas}</div>
+    <button class="btn small" data-act="repaso-auto">Volver a automático</button></section>`;
+}
+
 function vistaRepaso() {
   const ids = todasIds();
-  const pend = store.pendientesHoy(ids).length;
-  const nuevas = Math.min(store.nuevas(ids).length, 10);
+  const rep = idsRepaso();
+  const pend = store.pendientesHoy(rep).length;
+  const nuevas = Math.min(store.nuevas(rep).length, 10);
   const fallos = store.falladas(ids).length;
   const trampas = D.preguntas.filter((q) => q.tipo === 'trampa').length;
   const html = `
@@ -432,6 +482,7 @@ function vistaRepaso() {
       <p class="muted">Las preguntas vuelven justo cuando estás a punto de olvidarlas. Es lo que más rinde por minuto de estudio.</p>
       <p class="big">${pend}<span class="muted"> pendientes</span> · ${nuevas}<span class="muted"> nuevas</span></p>
       <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>Repaso de hoy</button></section>
+    ${selectorTemas()}
     <section class="card"><h3>Test rápido</h3><p class="muted">10 preguntas mezcladas, con corrección inmediata. Ideal para 5 minutos.</p>
       <button class="btn" data-act="empezar" data-modo="rapido">Empezar (10)</button></section>
     <section class="card"><h3>Simulacro tipo examen</h3><p class="muted">Sin corrección hasta el final, con cronómetro y <strong>penalización por fallo</strong>. Practica cuándo dejar en blanco.</p>
@@ -466,14 +517,15 @@ function empezar(modo, p = {}) {
   else if (modo === 'trampas') { pool = D.preguntas.filter((q) => delTema(q) && q.tipo === 'trampa'); titulo = 'Preguntas trampa'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
   else if (modo === 'fallos') { const ids = new Set(store.falladas(todasIds())); pool = D.preguntas.filter((q) => ids.has(q.id) && delTema(q)); titulo = 'Mis fallos'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
   else if (modo === 'repaso') {
-    const debidas = store.pendientesHoy(todasIds()).map((id) => D.qById[id]);
-    const nuevas = barajar(store.nuevas(todasIds()).map((id) => D.qById[id])).slice(0, 10);
+    const rep = idsRepaso();
+    const debidas = store.pendientesHoy(rep).map((id) => D.qById[id]);
+    const nuevas = barajar(store.nuevas(rep).map((id) => D.qById[id])).slice(0, 10);
     pool = [...barajar(debidas).slice(0, 30), ...nuevas];
     titulo = 'Repaso de hoy'; volver = '#/';
   }
   else if (modo === 'hub') { pool = D.preguntas.filter((q) => q.hub === p.hub); titulo = 'Esta idea'; volver = `#/tema/${n}/asociar/${p.hub}`; }
   else if (modo === 'asociar') {
-    const hubs = D.hubs.filter((h) => !n || h.tema === n);
+    const hubs = D.hubs.filter((h) => (n ? h.tema === n : hubElegible(h)));
     const ids = hubs.map((h) => `a:${h.id}`);
     const debidas = new Set(store.pendientesHoy(ids));
     const nuevas = new Set(store.nuevas(ids));
@@ -770,6 +822,8 @@ document.addEventListener('click', (e) => {
         items: barajar(pool).map((q) => ({ q, orden: barajar(q.o.map((_, i) => i)), sel: undefined, hecho: false })) };
       return ir('#/quiz');
     }
+    case 'toggle-tema': { store.setRepasoTema(+d.tema, el.checked); const y = window.scrollY; route(); window.scrollTo(0, y); return; }
+    case 'repaso-auto': { store.resetRepaso(); const y = window.scrollY; route(); window.scrollTo(0, y); return aviso('Repaso en automático'); }
     case 'flash': return el.classList.toggle('open');
     case 'hecho': { const ya = store.leccionHecha(+d.tema, d.epi); store.marcarLeccion(+d.tema, d.epi, !ya); const y = window.scrollY; route(); window.scrollTo(0, y); return aviso(ya ? 'Marcado como pendiente' : '¡Epígrafe estudiado!'); }
     case 'cerrar-hoja': return cerrarHoja();
