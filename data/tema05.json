@@ -76,7 +76,8 @@
     "Derechos (13) · relación electrónica: optativa para personas físicas, obligatoria para jurídicas, colegiados, etc. (14)",
     "Lengua (15) · Registro Electrónico General (16)",
     "Presentación: registro electrónico · Correos · consulados · oficinas de asistencia · otros (16.4)"
-   ]
+   ],
+   "ic": "📏"
   },
   {
    "id": "e1",
@@ -133,7 +134,8 @@
    "esquema": [
     "Resolver y notificar (21.1) · plazo ≤ 6 meses (21.2) · 3 meses si no hay plazo (21.3)",
     "Silencio: positivo (regla) · negativo (petición, dominio público, medio ambiente, responsabilidad patrimonial)"
-   ]
+   ],
+   "ic": "🤐"
   },
   {
    "id": "e2",
@@ -219,7 +221,8 @@
     "Horas: hábiles, ≤ 24 h · Días: hábiles (sin sábados, domingos ni festivos) · Meses y años: mismo día de vencimiento",
     "Último día inhábil → siguiente hábil",
     "Ampliación ≤ mitad (32) · Urgencia: mitad, salvo solicitudes y recursos (33)"
-   ]
+   ],
+   "ic": "⏳"
   }
  ],
  "mapa": {

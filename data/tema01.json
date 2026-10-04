@@ -1,711 +1,1742 @@
 {
-  "n": 1,
-  "titulo": "La Constitución española",
-  "fuente": "Constitución Española de 1978 (BOE-A-1978-31229), texto consolidado descargado de la API de datos abiertos del BOE.",
-  "verificado": "2026-10-04",
-  "notaVerificacion": "Las fechas del 15-jun-1977 (elecciones constituyentes), 31-oct-1978 (aprobación por las Cortes) y 6-dic-1978 (referéndum) no figuran en el texto del BOE; proceden de la historia constitucional. La sanción (27-dic-1978) y la entrada en vigor (29-dic-1978) sí se han comprobado en el texto consolidado.",
-  "epigrafes": [
+ "n": 1,
+ "titulo": "La Constitución española",
+ "fuente": "Constitución Española de 1978 (BOE-A-1978-31229), texto consolidado descargado de la API de datos abiertos del BOE.",
+ "verificado": "2026-10-04",
+ "notaVerificacion": "Las fechas del 15-jun-1977 (elecciones constituyentes), 31-oct-1978 (aprobación por las Cortes) y 6-dic-1978 (referéndum) no figuran en el texto del BOE; proceden de la historia constitucional. La sanción (27-dic-1978) y la entrada en vigor (29-dic-1978) sí se han comprobado en el texto consolidado.",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Antes de empezar: el mapa del terreno",
+   "subtitulo": "Conceptos que necesitas para entender cualquier artículo",
+   "clave": [
+    "Tres poderes",
+    "Jerarquía normativa",
+    "Ley orgánica vs. ordinaria",
+    "Decreto-ley vs. decreto legislativo",
+    "Mayoría simple, absoluta y reforzada"
+   ],
+   "bloques": [
     {
-      "id": "e0",
-      "titulo": "Antes de empezar: el mapa del terreno",
-      "subtitulo": "Conceptos que necesitas para entender cualquier artículo",
-      "clave": ["Tres poderes", "Jerarquía normativa", "Ley orgánica vs. ordinaria", "Decreto-ley vs. decreto legislativo", "Mayoría simple, absoluta y reforzada"],
-      "bloques": [
-        { "t": "p", "x": "Casi todas las preguntas de oposición usan palabras que parecen difíciles pero son sencillas. Si dominas estas ideas, los artículos se leen solos. Toca cualquier [[glosario|término subrayado]] para ver su definición." },
-        { "t": "h", "x": "1. El poder se reparte en tres" },
-        { "t": "p", "x": "Para que nadie lo tenga todo, el poder del [[estado|Estado]] se divide en tres ([[poderes-estado|separación de poderes]]):" },
-        { "t": "tabla", "cols": ["Poder", "Qué hace", "Quién", "Artículo"], "filas": [
-          ["Legislativo", "Hace las leyes, aprueba los Presupuestos y controla al Gobierno", "[[cortes-generales|Cortes Generales]] (Congreso + Senado)", "66"],
-          ["Ejecutivo", "Dirige la política y la Administración; aplica las leyes", "Gobierno", "97"],
-          ["Judicial", "Juzga y hace ejecutar lo juzgado", "Jueces y Tribunales", "117"]
-        ]},
-        { "t": "h", "x": "2. Las normas tienen pisos: la jerarquía" },
-        { "t": "p", "x": "Imagina un edificio. En el piso más alto está la [[constitucion|Constitución]]. Debajo, las leyes. Debajo de las leyes, los [[reglamento|reglamentos]]. Una norma de un piso no puede contradecir a la de un piso superior ([[jerarquia-normativa|jerarquía normativa]])." },
-        { "t": "tabla", "cols": ["Piso", "Normas", "Las dicta"], "filas": [
-          ["1 (arriba)", "Constitución", "Poder constituyente"],
-          ["2", "Leyes: [[ley-organica|orgánicas]], [[ley-ordinaria|ordinarias]]; [[decreto-ley|decretos-leyes]]; [[decreto-legislativo|decretos legislativos]]", "Cortes Generales; el Gobierno en los dos últimos casos"],
-          ["3", "[[reglamento|Reglamentos]] (Real Decreto, órdenes, ordenanzas municipales…)", "Gobierno y Administraciones"]
-        ]},
-        { "t": "trampa", "x": "La ley orgánica NO está «por encima» de la ordinaria. Están en el mismo piso: la orgánica regula unas materias reservadas y necesita una mayoría mayor. Si te preguntan «¿qué ley tiene rango superior?», cuidado." },
-        { "t": "h", "x": "3. Cuatro tipos de norma con rango de ley" },
-        { "t": "lista", "items": [
-          "**[[ley-organica|Ley orgánica]]** (art. 81): derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas en la Constitución. Mayoría absoluta del Congreso en votación final sobre el conjunto.",
-          "**[[ley-ordinaria|Ley ordinaria]]**: todo lo demás. Mayoría simple.",
-          "**[[decreto-ley|Decreto-ley]]** (art. 86): lo dicta el Gobierno por «extraordinaria y urgente necesidad». Provisional: el Congreso lo convalida o lo deroga en 30 días.",
-          "**[[decreto-legislativo|Decreto legislativo]]** (arts. 82-85): lo dicta el Gobierno porque las Cortes se lo han encargado (delegación)."
-        ]},
-        { "t": "ejemplo", "x": "Un truco para no confundirlos: el decreto-ley nace de la **urgencia** (el Gobierno actúa solo, y luego el Congreso lo revisa). El decreto legislativo nace de la **delegación** (las Cortes dicen antes: «te encargo redactar esto»)." },
-        { "t": "h", "x": "4. Las mayorías: ¿cuántos votos hacen falta?" },
-        { "t": "tabla", "cols": ["Mayoría", "Qué significa", "Ejemplo en el Congreso (350)"], "filas": [
-          ["[[mayoria-simple|Simple]]", "Más votos a favor que en contra", "Depende de cuántos voten"],
-          ["[[mayoria-absoluta|Absoluta]]", "Más de la mitad de todos los miembros", "176"],
-          ["[[mayorias-reforzadas|Tres quintos]]", "3/5 de los miembros", "210"],
-          ["[[mayorias-reforzadas|Dos tercios]]", "2/3 de los miembros", "234"]
-        ]},
-        { "t": "trampa", "x": "Mayoría absoluta = más de la mitad **de todos los miembros**, vengan o no a votar. Con 350 diputados, 175 es justo la mitad y NO basta: hacen falta 176." }
-      ],
-      "flash": [
-        { "q": "¿Cuáles son los tres poderes y quién ejerce cada uno?", "a": "Legislativo (Cortes Generales), ejecutivo (Gobierno) y judicial (Jueces y Tribunales)." },
-        { "q": "¿Qué diferencia hay entre decreto-ley y decreto legislativo?", "a": "El decreto-ley lo dicta el Gobierno por urgencia y debe ser convalidado por el Congreso en 30 días. El decreto legislativo lo dicta el Gobierno por delegación expresa de las Cortes." },
-        { "q": "¿Qué mayoría se necesita para una ley orgánica y cuántos votos son en un Congreso de 350?", "a": "Mayoría absoluta del Congreso en una votación final sobre el conjunto: 176 votos." }
-      ],
-      "esquema": [
-        "Poderes: legislativo (Cortes), ejecutivo (Gobierno), judicial (Jueces)",
-        "Jerarquía: Constitución > leyes > reglamentos",
-        "Rango de ley: orgánica (art. 81), ordinaria, decreto-ley (art. 86), decreto legislativo (arts. 82-85)",
-        "Mayorías: simple < absoluta (176/350) < 3/5 (210) < 2/3 (234)"
-      ]
+     "t": "p",
+     "x": "Casi todas las preguntas de oposición usan palabras que parecen difíciles pero son sencillas. Si dominas estas ideas, los artículos se leen solos. Toca cualquier [[glosario|término subrayado]] para ver su definición."
     },
     {
-      "id": "e1",
-      "titulo": "Qué es la Constitución y cómo se elaboró y aprobó",
-      "subtitulo": "Del proceso constituyente al BOE",
-      "clave": ["Norma suprema", "Cortes constituyentes (1977)", "Aprobación 31-oct-1978", "Referéndum 6-dic-1978", "Sanción 27-dic-1978", "BOE y vigor 29-dic-1978"],
-      "bloques": [
-        { "t": "p", "x": "La [[constitucion|Constitución]] es la norma que organiza el país: dice cómo se reparte el poder, qué derechos tenemos y cómo se hacen las demás normas. La de 1978 se hizo para pasar a un sistema democrático." },
-        { "t": "h", "x": "Los pasos, en orden" },
-        { "t": "tabla", "cols": ["Fecha", "Qué ocurre"], "filas": [
-          ["15-jun-1977", "Elecciones generales: las Cortes elegidas asumen la tarea de redactar la Constitución (Cortes constituyentes)."],
-          ["1977-78", "Una comisión de siete ponentes elabora el borrador (los «padres de la Constitución») y se debate en Congreso y Senado."],
-          ["31-oct-1978", "Las Cortes aprueban el texto definitivo."],
-          ["6-dic-1978", "Los ciudadanos la ratifican en [[referendum|referéndum]]."],
-          ["27-dic-1978", "El Rey la sanciona ([[sancion-promulgacion|sanción]])."],
-          ["29-dic-1978", "Se publica en el [[boe|BOE]] y entra en vigor ese mismo día."]
-        ]},
-        { "t": "key", "x": "Aprueban las Cortes → ratifica el pueblo en referéndum → sanciona el Rey → se publica en el BOE → entra en vigor el mismo día de la publicación (disposición final)." },
-        { "t": "trampa", "x": "La Constitución NO entró en vigor el día del referéndum (6-dic) ni el de la sanción (27-dic), sino el de su publicación en el BOE (29-dic-1978). Es una pregunta clásica." },
-        { "t": "ejemplo", "x": "Piensa en una ley como un contrato: primero se discute (Cortes), luego se firma (sanción), después se anuncia al público (BOE) y solo entonces obliga a todos." }
-      ],
-      "flash": [
-        { "q": "¿Qué dos fechas separan la aprobación en Cortes y el referéndum?", "a": "31 de octubre de 1978 (Cortes) y 6 de diciembre de 1978 (referéndum)." },
-        { "q": "¿Cuándo entró en vigor y por qué ese día?", "a": "El 29 de diciembre de 1978, día de su publicación en el BOE, porque lo dice la disposición final." }
-      ],
-      "esquema": [
-        "15-jun-1977: elecciones → Cortes constituyentes",
-        "31-oct-1978: aprobación por las Cortes",
-        "6-dic-1978: referéndum",
-        "27-dic-1978: sanción del Rey",
-        "29-dic-1978: BOE y entrada en vigor"
-      ]
+     "t": "h",
+     "x": "1. El poder se reparte en tres"
     },
     {
-      "id": "e2",
-      "titulo": "Estructura de la Constitución",
-      "subtitulo": "Preámbulo, Título preliminar, diez Títulos y disposiciones",
-      "clave": ["Preámbulo", "Título preliminar", "10 Títulos (I-X)", "169 artículos", "4 adicionales, 9 transitorias, 1 derogatoria, 1 final", "Reforma: arts. 166-169"],
-      "bloques": [
-        { "t": "p", "x": "Estructura completa: **Preámbulo + Título preliminar + 10 Títulos + 169 artículos + 4 disposiciones adicionales + 9 transitorias + 1 derogatoria + 1 final.** (Las [[disposiciones-finales|disposiciones finales]] son las «cláusulas de cierre».)" },
-        { "t": "tabla", "cols": ["Título", "Contenido", "Arts."], "filas": [
-          ["Preliminar", "Principios básicos", "1-9"],
-          ["I", "Derechos y deberes fundamentales", "10-55"],
-          ["II", "La Corona", "56-65"],
-          ["III", "Las Cortes Generales", "66-96"],
-          ["IV", "Gobierno y Administración", "97-107"],
-          ["V", "Relaciones Gobierno–Cortes", "108-116"],
-          ["VI", "Poder Judicial", "117-127"],
-          ["VII", "Economía y Hacienda", "128-136"],
-          ["VIII", "Organización territorial del Estado", "137-158"],
-          ["IX", "Tribunal Constitucional", "159-165"],
-          ["X", "Reforma constitucional", "166-169"]
-        ]},
-        { "t": "ejemplo", "x": "Para recordar el orden, quédate con las iniciales: **D**erechos · **C**orona · **C**ortes · **G**obierno · **R**elaciones · **J**udicial · **H**acienda · **T**erritorio · **T**ribunal Constitucional · **R**eforma (D-C-C-G-R-J-H-T-T-R). Inventa una frase con esas letras: la que crees tú se te queda mejor que la de un libro." },
-        { "t": "h", "x": "Bonus: cómo se reforma la Constitución (Título X)" },
-        { "t": "tabla", "cols": ["", "Reforma ordinaria (art. 167)", "Reforma agravada (art. 168)"], "filas": [
-          ["Cuándo", "Cualquier parte NO protegida", "Revisión total, o parcial que afecte al Título preliminar, al Cap. II Sección 1.ª del Título I, o al Título II"],
-          ["Mayoría", "[[mayorias-reforzadas|3/5]] de cada Cámara", "[[mayorias-reforzadas|2/3]] de cada Cámara (aprueba el principio)"],
-          ["Disolución de las Cortes", "No", "Sí, inmediata; las nuevas Cámaras ratifican y aprueban con 2/3"],
-          ["Referéndum", "Solo si lo pide 1/10 de los miembros de una Cámara (en 15 días)", "Obligatorio"]
-        ]},
-        { "t": "trampa", "x": "Una reforma que toca el Título preliminar se tramita por el procedimiento agravado (art. 168). Y no se puede iniciar ninguna reforma en tiempo de guerra o de estado de alarma, excepción o sitio (art. 169)." }
-      ],
-      "flash": [
-        { "q": "¿Cuántos Títulos y cuántos artículos tiene la CE?", "a": "Título preliminar + 10 Títulos (I-X) y 169 artículos." },
-        { "q": "¿Qué Título regula la organización territorial del Estado?", "a": "El Título VIII (arts. 137-158)." },
-        { "q": "¿Qué mayoría exige la reforma ordinaria y cuál la agravada?", "a": "Ordinaria: 3/5 de cada Cámara (art. 167). Agravada: 2/3 de cada Cámara, disolución, nueva ratificación y referéndum obligatorio (art. 168)." }
-      ],
-      "esquema": [
-        "Preámbulo + Título preliminar + Títulos I-X",
-        "169 artículos · 4 DA · 9 DT · 1 DD · 1 DF",
-        "Reforma ordinaria (167): 3/5 de cada Cámara, referéndum si lo pide 1/10",
-        "Reforma agravada (168): 2/3 + disolución + 2/3 + referéndum obligatorio",
-        "Art. 169: no reformar en guerra ni en estados excepcionales"
-      ]
+     "t": "p",
+     "x": "Para que nadie lo tenga todo, el poder del [[estado|Estado]] se divide en tres ([[poderes-estado|separación de poderes]]):"
     },
     {
-      "id": "e3",
-      "titulo": "El Título preliminar (arts. 1 a 9)",
-      "subtitulo": "Los cimientos del sistema",
-      "clave": ["Estado social y democrático de Derecho", "Valores superiores", "Soberanía en el pueblo", "Monarquía parlamentaria", "Unidad y autonomía", "Lenguas", "Principios del art. 9.3"],
-      "bloques": [
-        { "t": "p", "x": "Son solo 9 artículos, pero son los más preguntados. Cada uno responde a una pregunta sencilla." },
-        { "t": "tabla", "cols": ["Art.", "Pregunta", "Respuesta"], "filas": [
-          ["1.1", "¿Qué tipo de Estado es España?", "[[estado-social-democratico-derecho|Estado social y democrático de Derecho]]. Valores superiores: **libertad, justicia, igualdad y [[pluralismo-politico|pluralismo político]]**."],
-          ["1.2", "¿Dónde reside la [[soberania|soberanía]]?", "En el **pueblo español**, del que emanan los poderes del Estado."],
-          ["1.3", "¿Cuál es la forma política?", "[[monarquia-parlamentaria|Monarquía parlamentaria]]."],
-          ["2", "¿Qué base tiene?", "**Indisoluble unidad** de la Nación española + derecho a la **[[autonomia|autonomía]]** de nacionalidades y regiones + **solidaridad**."],
-          ["3", "¿Qué lengua se habla?", "**Castellano** oficial del Estado (deber de conocerla, derecho a usarla). Las demás lenguas, oficiales en sus CCAA según sus **Estatutos**. Las modalidades lingüísticas son patrimonio cultural."],
-          ["4", "¿Cómo es la bandera?", "Tres franjas horizontales: **roja, amarilla y roja**; la amarilla, de **doble anchura**. Los Estatutos pueden reconocer banderas propias, que se usan junto a la de España."],
-          ["5", "¿Cuál es la capital?", "La villa de **Madrid**."],
-          ["6", "Partidos políticos", "Expresan el pluralismo, concurren a formar la voluntad popular, instrumento fundamental de participación. Creación y actividad **libres**. Estructura y funcionamiento **democráticos**."],
-          ["7", "Sindicatos y asociaciones empresariales", "Defienden intereses económicos y sociales. Libres, y con estructura y funcionamiento **democráticos**."],
-          ["8", "Fuerzas Armadas", "Ejército de Tierra, Armada y Ejército del Aire. Garantizan soberanía e independencia, defienden integridad territorial y el ordenamiento constitucional. Bases por **[[ley-organica|ley orgánica]]**."],
-          ["9", "Sujeción al Derecho", "Ciudadanos y poderes públicos sujetos a la Constitución y al resto del ordenamiento."]
-        ]},
-        { "t": "h", "x": "Los 7 principios del artículo 9.3" },
-        { "t": "p", "x": "El art. 9.3 «garantiza» siete cosas. Apréndelos en este orden:" },
-        { "t": "lista", "items": [
-          "**1. [[principio-legalidad|Legalidad]]**",
-          "**2. [[jerarquia-normativa|Jerarquía normativa]]**",
-          "**3. [[publicidad-normas|Publicidad de las normas]]**",
-          "**4. [[irretroactividad|Irretroactividad]]** de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
-          "**5. [[seguridad-juridica|Seguridad jurídica]]**",
-          "**6. Responsabilidad** de los poderes públicos",
-          "**7. [[interdiccion-arbitrariedad|Interdicción de la arbitrariedad]]**"
-        ]},
-        { "t": "key", "x": "Regla mnemotécnica: **L-J-P-I-S-R-I** (Legalidad, Jerarquía, Publicidad, Irretroactividad, Seguridad, Responsabilidad, Interdicción)." },
-        { "t": "p", "x": "El **art. 9.2** es distinto: manda a los poderes públicos **promover** las condiciones para que libertad e igualdad sean reales y efectivas, **remover** los obstáculos y **facilitar** la participación de todos." },
-        { "t": "trampa", "x": "Aquí caen muchos opositores: (a) la soberanía reside en el pueblo, no en las Cortes ni en la Nación; (b) la irretroactividad no es para todas las normas; (c) la «proporcionalidad» NO aparece en el art. 9.3; (d) la lengua oficial de otras CCAA depende de sus Estatutos, no de una ley estatal." }
+     "t": "tabla",
+     "cols": [
+      "Poder",
+      "Qué hace",
+      "Quién",
+      "Artículo"
+     ],
+     "filas": [
+      [
+       "Legislativo",
+       "Hace las leyes, aprueba los Presupuestos y controla al Gobierno",
+       "[[cortes-generales|Cortes Generales]] (Congreso + Senado)",
+       "66"
       ],
-      "flash": [
-        { "q": "Cita los cuatro valores superiores del art. 1.1.", "a": "Libertad, justicia, igualdad y pluralismo político." },
-        { "q": "¿Qué principios garantiza el art. 9.3?", "a": "Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad." },
-        { "q": "¿Cómo es la bandera según el art. 4?", "a": "Tres franjas horizontales roja, amarilla y roja; la amarilla de doble anchura." },
-        { "q": "¿Qué dice el art. 9.2 que no dice el 9.3?", "a": "Obliga a los poderes públicos a promover la igualdad y la libertad reales y efectivas, remover obstáculos y facilitar la participación." }
+      [
+       "Ejecutivo",
+       "Dirige la política y la Administración; aplica las leyes",
+       "Gobierno",
+       "97"
       ],
-      "esquema": [
-        "Art. 1: Estado social y democrático de Derecho · LJIP · soberanía en el pueblo · Monarquía parlamentaria",
-        "Art. 2: unidad + autonomía + solidaridad",
-        "Art. 3: castellano oficial; otras lenguas según Estatutos",
-        "Art. 4: bandera roja-amarilla-roja (doble); banderas autonómicas junto a la de España",
-        "Art. 5: Madrid · Art. 6: partidos · Art. 7: sindicatos y patronal · Art. 8: FFAA",
-        "Art. 9: sujeción (9.1) · igualdad real (9.2) · 7 principios (9.3)"
+      [
+       "Judicial",
+       "Juzga y hace ejecutar lo juzgado",
+       "Jueces y Tribunales",
+       "117"
       ]
+     ]
     },
     {
-      "id": "e4",
-      "titulo": "La Administración Pública en la Constitución (arts. 103 a 107)",
-      "subtitulo": "Cómo debe actuar la Administración y cómo se controla",
-      "clave": ["Art. 97: Gobierno y potestad reglamentaria", "Art. 103.1: 5 principios", "Mérito y capacidad", "Control por los Tribunales (art. 106)", "Indemnización por funcionamiento de los servicios públicos", "Consejo de Estado"],
-      "bloques": [
-        { "t": "p", "x": "Primero, quién manda: el **art. 97** dice que el **Gobierno** dirige la política interior y exterior, la **Administración civil y militar** y la defensa del Estado, y ejerce la función ejecutiva y la [[potestad-reglamentaria|potestad reglamentaria]]. La [[administracion-publica|Administración Pública]] es la estructura que ejecuta lo que decide el Gobierno." },
-        { "t": "h", "x": "Art. 103.1: los principios de actuación" },
-        { "t": "p", "x": "La Administración **sirve con objetividad los [[interes-general|intereses generales]]** y actúa de acuerdo con estos cinco principios, con **sometimiento pleno a la ley y al Derecho**:" },
-        { "t": "tabla", "cols": ["Principio", "En una frase"], "filas": [
-          ["[[eficacia|Eficacia]]", "Conseguir resultados."],
-          ["[[jerarquia-administrativa|Jerarquía]]", "Los superiores dirigen a los inferiores."],
-          ["[[descentralizacion|Descentralización]]", "Competencias hacia OTRA entidad con personalidad propia."],
-          ["[[desconcentracion|Desconcentración]]", "Competencias hacia otro órgano INFERIOR de la misma entidad."],
-          ["[[coordinacion|Coordinación]]", "Todos actúan de forma armónica."]
-        ]},
-        { "t": "key", "x": "Nemotecnia: **E-J-D-D-C**. Eficacia y Jerarquía mandan; Descentralizan y Desconcentran para que todo esté Coordinado." },
-        { "t": "ejemplo", "x": "La diferencia entre descentralizar y desconcentrar: si el Estado le da una competencia a una Comunidad Autónoma, eso es **descentralización** (otra entidad). Si el Ministro le pasa una competencia a una Dirección General de su propio Ministerio, eso es **desconcentración** (mismo ministerio, otro órgano)." },
-        { "t": "h", "x": "Resto del artículo 103" },
-        { "t": "lista", "items": [
-          "**103.2**: los órganos de la Administración del Estado son creados, regidos y coordinados **de acuerdo con la ley**.",
-          "**103.3**: la ley regulará el estatuto de los funcionarios, el acceso a la función pública por **[[merito-capacidad|mérito y capacidad]]**, la sindicación, las incompatibilidades y las garantías de imparcialidad."
-        ]},
-        { "t": "h", "x": "Los otros artículos (104-107)" },
-        { "t": "tabla", "cols": ["Art.", "Contenido"], "filas": [
-          ["104", "Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno: proteger derechos y libertades y garantizar la seguridad ciudadana. Se regulan por **ley orgánica**."],
-          ["105", "La ley regulará: (a) **audiencia** de los ciudadanos en la elaboración de disposiciones que les afecten; (b) **acceso a archivos y registros** administrativos, salvo seguridad y defensa del Estado, averiguación de delitos e intimidad de las personas; (c) el **procedimiento** de los actos administrativos, con audiencia del interesado."],
-          ["106.1", "Los **Tribunales** controlan la potestad reglamentaria y la legalidad de la actuación administrativa."],
-          ["106.2", "Derecho a ser **indemnizado** por toda lesión consecuencia del funcionamiento de los servicios públicos, salvo [[fuerza-mayor|fuerza mayor]]."],
-          ["107", "El [[consejo-estado|Consejo de Estado]] es el supremo órgano **consultivo** del Gobierno (se regula por ley orgánica)."]
-        ]},
-        { "t": "trampa", "x": "(a) La Constitución dice descentralización **y** desconcentración: no «centralización». (b) Solo la fuerza mayor exime de indemnizar, no el caso fortuito. (c) El acceso a archivos tiene 3 excepciones: seguridad y defensa del Estado, averiguación de delitos e intimidad. (d) Consejo de Estado = asesora; Tribunal de Cuentas = fiscaliza; Defensor del Pueblo = defiende derechos." }
-      ],
-      "flash": [
-        { "q": "Cita los cinco principios del art. 103.1.", "a": "Eficacia, jerarquía, descentralización, desconcentración y coordinación (con sometimiento pleno a la ley y al Derecho)." },
-        { "q": "¿Qué diferencia hay entre descentralización y desconcentración?", "a": "Descentralización: hacia otra entidad con personalidad jurídica propia. Desconcentración: hacia un órgano inferior de la misma Administración." },
-        { "q": "¿Con qué principios se accede a la función pública?", "a": "Mérito y capacidad (art. 103.3)." },
-        { "q": "¿Quién controla la potestad reglamentaria y la legalidad de la actuación administrativa?", "a": "Los Tribunales (art. 106.1)." },
-        { "q": "¿Qué órgano es «supremo órgano consultivo del Gobierno»?", "a": "El Consejo de Estado (art. 107)." }
-      ],
-      "esquema": [
-        "Art. 97: el Gobierno dirige la Administración civil y militar; función ejecutiva y potestad reglamentaria",
-        "Art. 103.1: sirve con objetividad al interés general · E-J-D-D-C · pleno sometimiento a ley y Derecho",
-        "Art. 103.2: órganos creados por ley · 103.3: funcionarios, mérito y capacidad",
-        "Art. 104: Fuerzas y Cuerpos de seguridad (ley orgánica)",
-        "Art. 105: audiencia, archivos y registros, procedimiento",
-        "Art. 106: control judicial + indemnización (salvo fuerza mayor)",
-        "Art. 107: Consejo de Estado, órgano consultivo"
-      ]
+     "t": "h",
+     "x": "2. Las normas tienen pisos: la jerarquía"
     },
     {
-      "id": "e5",
-      "titulo": "Organización territorial: principios generales y Administración local (arts. 137 a 142)",
-      "subtitulo": "Municipios, provincias y Comunidades Autónomas",
-      "clave": ["Art. 137: municipios, provincias y CCAA", "Autonomía para gestionar sus intereses", "Arts. 138-139: solidaridad e igualdad", "Art. 140: municipios", "Art. 141: provincias", "Art. 142: haciendas locales"],
-      "bloques": [
-        { "t": "p", "x": "Esta parte te toca de cerca: es la base de todo el temario de Administración local (Bloque II). España se organiza en tres niveles territoriales." },
-        { "t": "key", "x": "**Art. 137**: el Estado se organiza territorialmente en **[[municipio|municipios]], [[provincia|provincias]] y [[comunidad-autonoma|Comunidades Autónomas]]** (las que se constituyan). Todas gozan de **autonomía para la gestión de sus respectivos intereses**." },
-        { "t": "h", "x": "Principios generales (arts. 138 y 139)" },
-        { "t": "lista", "items": [
-          "**138**: el Estado garantiza la **solidaridad** (art. 2) y el equilibrio económico entre territorios, atendiendo al hecho insular. Las diferencias entre Estatutos **no pueden implicar privilegios económicos o sociales**.",
-          "**139**: todos los españoles tienen los **mismos derechos y obligaciones** en cualquier parte del territorio. Nadie puede obstaculizar la libre circulación y establecimiento de personas ni la libre circulación de bienes."
-        ]},
-        { "t": "h", "x": "La Administración local" },
-        { "t": "tabla", "cols": ["Art.", "Entidad", "Lo esencial"], "filas": [
-          ["140", "[[municipio|Municipio]]", "Autonomía garantizada y [[personalidad-juridica|personalidad jurídica]] plena. Gobierno y administración: los [[ayuntamiento|Ayuntamientos]], integrados por **Alcalde y Concejales**. Concejales: elegidos por los vecinos por [[sufragio|sufragio universal, igual, libre, directo y secreto]]. Alcaldes: elegidos **por los Concejales o por los vecinos**. La ley regula el [[concejo-abierto|concejo abierto]]."],
-          ["141", "[[provincia|Provincia]]", "Entidad local con personalidad jurídica propia: agrupación de municipios y división territorial para las actividades del Estado. Alterar sus límites exige **ley orgánica de las Cortes Generales**. Gobierno: [[diputacion|Diputaciones]] u otras Corporaciones representativas. Se pueden crear agrupaciones de municipios distintas de la provincia. Islas: [[cabildo|Cabildos o Consejos]]."],
-          ["142", "Haciendas locales", "Deben tener medios suficientes para sus funciones. Se nutren **fundamentalmente de tributos propios y de la participación en los tributos del Estado y de las CCAA**."]
-        ]},
-        { "t": "h", "x": "Un vistazo a las Comunidades Autónomas (arts. 143-158)" },
-        { "t": "lista", "items": [
-          "**147**: el [[estatuto-autonomia|Estatuto de Autonomía]] es la **norma institucional básica** de cada CA. Su reforma requiere aprobación de las Cortes por **ley orgánica**.",
-          "**148**: lista de materias que las CCAA **pueden asumir** (entre ellas: ordenación del territorio, **urbanismo** y vivienda; montes; agricultura…).",
-          "**149**: lista de materias de **competencia exclusiva del Estado** (relaciones internacionales, defensa, Administración de Justicia, legislación penal, mercantil, laboral…)."
-        ]},
-        { "t": "ejemplo", "x": "Piénsalo como un edificio de vecinos: el **municipio** es tu vivienda, la **provincia** es el rellano que agrupa viviendas y la **Comunidad Autónoma** es el bloque. El Estado es la comunidad de propietarios: algunas decisiones son de cada piso y otras de todos. Y como tu ciudad es Zaragoza: municipio → provincia de Zaragoza → Comunidad Autónoma de Aragón." },
-        { "t": "trampa", "x": "(a) El art. 137 NO cita las comarcas. (b) Los alcaldes pueden ser elegidos por los concejales o por los vecinos (no «directamente por los vecinos»). (c) Cambiar límites provinciales: ley orgánica (no ley ordinaria ni decreto). (d) Art. 148 = lo que las CCAA pueden asumir; art. 149 = lo exclusivo del Estado. Urbanismo está en el 148 (¡y es el Tema 20!)." }
+     "t": "p",
+     "x": "Imagina un edificio. En el piso más alto está la [[constitucion|Constitución]]. Debajo, las leyes. Debajo de las leyes, los [[reglamento|reglamentos]]. Una norma de un piso no puede contradecir a la de un piso superior ([[jerarquia-normativa|jerarquía normativa]])."
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "Piso",
+      "Normas",
+      "Las dicta"
+     ],
+     "filas": [
+      [
+       "1 (arriba)",
+       "Constitución",
+       "Poder constituyente"
       ],
-      "flash": [
-        { "q": "¿En qué se organiza territorialmente el Estado según el art. 137?", "a": "En municipios, provincias y Comunidades Autónomas que se constituyan; todas con autonomía para gestionar sus intereses." },
-        { "q": "¿Quién gobierna y administra el municipio y quién elige a cada uno?", "a": "El Ayuntamiento (Alcalde y Concejales). Concejales: los vecinos por sufragio universal, igual, libre, directo y secreto. Alcaldes: los concejales o los vecinos." },
-        { "q": "¿Cómo se alteran los límites provinciales?", "a": "Por las Cortes Generales mediante ley orgánica (art. 141.1)." },
-        { "q": "¿De qué se nutren fundamentalmente las haciendas locales?", "a": "De tributos propios y de la participación en los tributos del Estado y de las CCAA (art. 142)." }
+      [
+       "2",
+       "Leyes: [[ley-organica|orgánicas]], [[ley-ordinaria|ordinarias]]; [[decreto-ley|decretos-leyes]]; [[decreto-legislativo|decretos legislativos]]",
+       "Cortes Generales; el Gobierno en los dos últimos casos"
       ],
-      "esquema": [
-        "Art. 137: municipios + provincias + CCAA · autonomía para gestionar sus intereses",
-        "Art. 138: solidaridad; sin privilegios económicos o sociales",
-        "Art. 139: mismos derechos y obligaciones en todo el territorio",
-        "Art. 140: municipio · Ayuntamiento (Alcalde + Concejales) · personalidad jurídica plena",
-        "Art. 141: provincia · Diputaciones · límites por ley orgánica",
-        "Art. 142: haciendas locales: tributos propios + participación en los del Estado y CCAA",
-        "Art. 147-149: Estatutos, competencias CCAA, competencias del Estado"
+      [
+       "3",
+       "[[reglamento|Reglamentos]] (Real Decreto, órdenes, ordenanzas municipales…)",
+       "Gobierno y Administraciones"
       ]
+     ]
+    },
+    {
+     "t": "trampa",
+     "x": "La ley orgánica NO está «por encima» de la ordinaria. Están en el mismo piso: la orgánica regula unas materias reservadas y necesita una mayoría mayor. Si te preguntan «¿qué ley tiene rango superior?», cuidado."
+    },
+    {
+     "t": "h",
+     "x": "3. Cuatro tipos de norma con rango de ley"
+    },
+    {
+     "t": "lista",
+     "items": [
+      "**[[ley-organica|Ley orgánica]]** (art. 81): derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas en la Constitución. Mayoría absoluta del Congreso en votación final sobre el conjunto.",
+      "**[[ley-ordinaria|Ley ordinaria]]**: todo lo demás. Mayoría simple.",
+      "**[[decreto-ley|Decreto-ley]]** (art. 86): lo dicta el Gobierno por «extraordinaria y urgente necesidad». Provisional: el Congreso lo convalida o lo deroga en 30 días.",
+      "**[[decreto-legislativo|Decreto legislativo]]** (arts. 82-85): lo dicta el Gobierno porque las Cortes se lo han encargado (delegación)."
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "x": "Un truco para no confundirlos: el decreto-ley nace de la **urgencia** (el Gobierno actúa solo, y luego el Congreso lo revisa). El decreto legislativo nace de la **delegación** (las Cortes dicen antes: «te encargo redactar esto»)."
+    },
+    {
+     "t": "h",
+     "x": "4. Las mayorías: ¿cuántos votos hacen falta?"
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "Mayoría",
+      "Qué significa",
+      "Ejemplo en el Congreso (350)"
+     ],
+     "filas": [
+      [
+       "[[mayoria-simple|Simple]]",
+       "Más votos a favor que en contra",
+       "Depende de cuántos voten"
+      ],
+      [
+       "[[mayoria-absoluta|Absoluta]]",
+       "Más de la mitad de todos los miembros",
+       "176"
+      ],
+      [
+       "[[mayorias-reforzadas|Tres quintos]]",
+       "3/5 de los miembros",
+       "210"
+      ],
+      [
+       "[[mayorias-reforzadas|Dos tercios]]",
+       "2/3 de los miembros",
+       "234"
+      ]
+     ]
+    },
+    {
+     "t": "trampa",
+     "x": "Mayoría absoluta = más de la mitad **de todos los miembros**, vengan o no a votar. Con 350 diputados, 175 es justo la mitad y NO basta: hacen falta 176."
     }
-  ],
-  "mapa": {
-    "titulo": "La Constitución española",
-    "ramas": [
-      {
-        "titulo": "Origen y estructura",
-        "color": "#247ba0",
-        "hijos": [
-          { "titulo": "Elaboración", "hijos": [
-            { "titulo": "15-jun-1977: elecciones" },
-            { "titulo": "31-oct-1978: aprueban las Cortes" },
-            { "titulo": "6-dic-1978: referéndum" },
-            { "titulo": "27-dic-1978: sanción del Rey" },
-            { "titulo": "29-dic-1978: BOE y entrada en vigor" }
-          ]},
-          { "titulo": "Estructura", "hijos": [
-            { "titulo": "Preámbulo + Título preliminar" },
-            { "titulo": "10 Títulos (I-X)" },
-            { "titulo": "169 artículos" },
-            { "titulo": "4 DA · 9 DT · 1 DD · 1 DF" }
-          ]},
-          { "titulo": "Reforma (Título X)", "hijos": [
-            { "titulo": "Ordinaria (167): 3/5 de cada Cámara" },
-            { "titulo": "Agravada (168): 2/3 + disolución + referéndum" }
-          ]}
-        ]
-      },
-      {
-        "titulo": "Título preliminar (1-9)",
-        "color": "#f25f5c",
-        "hijos": [
-          { "titulo": "Art. 1", "hijos": [
-            { "titulo": "Estado social y democrático de Derecho" },
-            { "titulo": "Valores: libertad, justicia, igualdad, pluralismo político" },
-            { "titulo": "Soberanía: pueblo español" },
-            { "titulo": "Monarquía parlamentaria" }
-          ]},
-          { "titulo": "Arts. 2-5", "hijos": [
-            { "titulo": "2: unidad + autonomía + solidaridad" },
-            { "titulo": "3: castellano y lenguas cooficiales" },
-            { "titulo": "4: bandera" },
-            { "titulo": "5: capital Madrid" }
-          ]},
-          { "titulo": "Arts. 6-8", "hijos": [
-            { "titulo": "6: partidos políticos" },
-            { "titulo": "7: sindicatos y patronal" },
-            { "titulo": "8: Fuerzas Armadas" }
-          ]},
-          { "titulo": "Art. 9", "hijos": [
-            { "titulo": "9.1: sujeción a la CE y al Derecho" },
-            { "titulo": "9.2: igualdad real y efectiva" },
-            { "titulo": "9.3: legalidad · jerarquía · publicidad · irretroactividad · seguridad jurídica · responsabilidad · interdicción arbitrariedad" }
-          ]}
-        ]
-      },
-      {
-        "titulo": "Administración Pública (97, 103-107)",
-        "color": "#70c1b3",
-        "hijos": [
-          { "titulo": "Art. 97", "hijos": [
-            { "titulo": "El Gobierno dirige la Administración" },
-            { "titulo": "Potestad reglamentaria" }
-          ]},
-          { "titulo": "Art. 103", "hijos": [
-            { "titulo": "Sirve con objetividad al interés general" },
-            { "titulo": "Eficacia · Jerarquía · Descentralización · Desconcentración · Coordinación" },
-            { "titulo": "Funcionarios: mérito y capacidad" }
-          ]},
-          { "titulo": "Arts. 104-107", "hijos": [
-            { "titulo": "104: Fuerzas y Cuerpos de seguridad" },
-            { "titulo": "105: audiencia, archivos, procedimiento" },
-            { "titulo": "106: control judicial + indemnización" },
-            { "titulo": "107: Consejo de Estado" }
-          ]}
-        ]
-      },
-      {
-        "titulo": "Organización territorial (137-142)",
-        "color": "#ffe066",
-        "hijos": [
-          { "titulo": "Art. 137", "hijos": [
-            { "titulo": "Municipios · provincias · CCAA" },
-            { "titulo": "Autonomía para gestionar sus intereses" }
-          ]},
-          { "titulo": "Arts. 138-139", "hijos": [
-            { "titulo": "Solidaridad" },
-            { "titulo": "Igualdad de derechos y libre circulación" }
-          ]},
-          { "titulo": "Administración local", "hijos": [
-            { "titulo": "140: municipio → Ayuntamiento (Alcalde + Concejales)" },
-            { "titulo": "141: provincia → Diputaciones" },
-            { "titulo": "142: haciendas locales" }
-          ]},
-          { "titulo": "CCAA (143-158)", "hijos": [
-            { "titulo": "147: Estatuto = norma institucional básica" },
-            { "titulo": "148: competencias asumibles por CCAA" },
-            { "titulo": "149: competencias exclusivas del Estado" }
-          ]}
-        ]
-      }
-    ],
-    "conexiones": [
-      { "de": "Art. 2 (unidad y autonomía)", "a": "Art. 137 (autonomía de municipios, provincias y CCAA)", "porque": "El art. 137 desarrolla territorialmente la autonomía que reconoce el art. 2." },
-      { "de": "Art. 9.3 (legalidad, jerarquía)", "a": "Art. 103.1 (sometimiento pleno a la ley y al Derecho)", "porque": "El principio de legalidad del 9.3 se concreta para la Administración en el 103.1." },
-      { "de": "Art. 97 (Gobierno dirige la Administración)", "a": "Art. 103 (principios de la Administración)", "porque": "El 97 dice quién la dirige; el 103 dice cómo debe actuar." },
-      { "de": "Art. 103.1 (descentralización)", "a": "Art. 137 (CCAA y entes locales)", "porque": "La descentralización es lo que permite que municipios y CCAA tengan sus propias competencias." },
-      { "de": "Art. 140 (municipio)", "a": "Tema 14 (el municipio y la capitalidad de Zaragoza)", "porque": "Lo que aquí es un principio constitucional se desarrolla en la legislación de régimen local." },
-      { "de": "Art. 148.1.3.ª (urbanismo)", "a": "Tema 20 (Ley de Urbanismo de Aragón)", "porque": "Aragón puede asumir el urbanismo como competencia propia y por eso tiene su ley." },
-      { "de": "Art. 81 (leyes orgánicas)", "a": "Arts. 8, 104, 107, 141 y 147", "porque": "Muchos artículos remiten a una ley orgánica: Fuerzas Armadas, Fuerzas de seguridad, Consejo de Estado, límites provinciales y Estatutos." }
-    ]
+   ],
+   "flash": [
+    {
+     "q": "¿Cuáles son los tres poderes y quién ejerce cada uno?",
+     "a": "Legislativo (Cortes Generales), ejecutivo (Gobierno) y judicial (Jueces y Tribunales)."
+    },
+    {
+     "q": "¿Qué diferencia hay entre decreto-ley y decreto legislativo?",
+     "a": "El decreto-ley lo dicta el Gobierno por urgencia y debe ser convalidado por el Congreso en 30 días. El decreto legislativo lo dicta el Gobierno por delegación expresa de las Cortes."
+    },
+    {
+     "q": "¿Qué mayoría se necesita para una ley orgánica y cuántos votos son en un Congreso de 350?",
+     "a": "Mayoría absoluta del Congreso en una votación final sobre el conjunto: 176 votos."
+    }
+   ],
+   "esquema": [
+    "Poderes: legislativo (Cortes), ejecutivo (Gobierno), judicial (Jueces)",
+    "Jerarquía: Constitución > leyes > reglamentos",
+    "Rango de ley: orgánica (art. 81), ordinaria, decreto-ley (art. 86), decreto legislativo (arts. 82-85)",
+    "Mayorías: simple < absoluta (176/350) < 3/5 (210) < 2/3 (234)"
+   ],
+   "ic": "🧭"
   },
-  "preguntas": [
+  {
+   "id": "e1",
+   "titulo": "Qué es la Constitución y cómo se elaboró y aprobó",
+   "subtitulo": "Del proceso constituyente al BOE",
+   "clave": [
+    "Norma suprema",
+    "Cortes constituyentes (1977)",
+    "Aprobación 31-oct-1978",
+    "Referéndum 6-dic-1978",
+    "Sanción 27-dic-1978",
+    "BOE y vigor 29-dic-1978"
+   ],
+   "bloques": [
     {
-      "id": "t01-001", "epi": "e3", "tipo": "directa", "dif": 1,
-      "q": "Según el artículo 1.1 de la Constitución, los valores superiores del ordenamiento jurídico son:",
-      "o": ["La libertad, la justicia, la igualdad y el pluralismo político", "La libertad, la igualdad, la fraternidad y la justicia", "La libertad, la justicia, la seguridad y la solidaridad", "La unidad, la libertad, la justicia y la igualdad"],
-      "c": 0,
-      "e": "Art. 1.1 CE: «libertad, justicia, igualdad y pluralismo político». Las otras opciones mezclan lemas o valores de otros artículos (la solidaridad está en el art. 2; la unidad, en el art. 2).",
-      "ref": "Art. 1.1 CE"
+     "t": "p",
+     "x": "La [[constitucion|Constitución]] es la norma que organiza el país: dice cómo se reparte el poder, qué derechos tenemos y cómo se hacen las demás normas. La de 1978 se hizo para pasar a un sistema democrático."
     },
     {
-      "id": "t01-002", "epi": "e3", "tipo": "trampa", "dif": 2, "trampa": "Confundir quién representa con quién es titular",
-      "q": "¿En quién reside la soberanía nacional, según la Constitución?",
-      "o": ["En las Cortes Generales", "En el pueblo español", "En el Rey, como Jefe del Estado", "En la Nación española a través de sus instituciones"],
-      "c": 1,
-      "e": "Art. 1.2 CE: «La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado». Las Cortes lo representan (art. 66.1), pero no son su titular.",
-      "ref": "Art. 1.2 CE"
+     "t": "h",
+     "x": "Los pasos, en orden"
     },
     {
-      "id": "t01-003", "epi": "e3", "tipo": "trampa", "dif": 1, "trampa": "Palabra parecida",
-      "q": "La forma política del Estado español es:",
-      "o": ["La Monarquía constitucional", "La Monarquía parlamentaria", "La República parlamentaria", "La Monarquía absoluta"],
-      "c": 1,
-      "e": "Art. 1.3 CE: «La forma política del Estado español es la Monarquía parlamentaria». «Constitucional» es un término de la teoría política, pero no es el que usa la CE.",
-      "ref": "Art. 1.3 CE"
+     "t": "tabla",
+     "cols": [
+      "Fecha",
+      "Qué ocurre"
+     ],
+     "filas": [
+      [
+       "15-jun-1977",
+       "Elecciones generales: las Cortes elegidas asumen la tarea de redactar la Constitución (Cortes constituyentes)."
+      ],
+      [
+       "1977-78",
+       "Una comisión de siete ponentes elabora el borrador (los «padres de la Constitución») y se debate en Congreso y Senado."
+      ],
+      [
+       "31-oct-1978",
+       "Las Cortes aprueban el texto definitivo."
+      ],
+      [
+       "6-dic-1978",
+       "Los ciudadanos la ratifican en [[referendum|referéndum]]."
+      ],
+      [
+       "27-dic-1978",
+       "El Rey la sanciona ([[sancion-promulgacion|sanción]])."
+      ],
+      [
+       "29-dic-1978",
+       "Se publica en el [[boe|BOE]] y entra en vigor ese mismo día."
+      ]
+     ]
     },
     {
-      "id": "t01-004", "epi": "e3", "tipo": "directa", "dif": 1,
-      "q": "Según el artículo 3, las demás lenguas españolas, distintas del castellano, serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con:",
-      "o": ["Sus Estatutos", "Una ley orgánica estatal", "Lo que decidan las Cortes Generales", "Lo que acuerde el Gobierno de la Nación"],
-      "c": 0,
-      "e": "Art. 3.2 CE: «de acuerdo con sus Estatutos». La oficialidad depende del Estatuto de cada Comunidad Autónoma.",
-      "ref": "Art. 3.2 CE"
+     "t": "key",
+     "x": "Aprueban las Cortes → ratifica el pueblo en referéndum → sanciona el Rey → se publica en el BOE → entra en vigor el mismo día de la publicación (disposición final)."
     },
     {
-      "id": "t01-005", "epi": "e3", "tipo": "directa", "dif": 1,
-      "q": "La bandera de España, según el artículo 4 de la Constitución, está formada por:",
-      "o": ["Tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas", "Tres franjas verticales, roja, amarilla y roja, con la amarilla de doble anchura", "Tres franjas horizontales de igual anchura: roja, amarilla y roja", "Tres franjas horizontales: amarilla, roja y amarilla, con la roja de doble anchura"],
-      "c": 0,
-      "e": "Art. 4.1 CE: tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
-      "ref": "Art. 4.1 CE"
+     "t": "trampa",
+     "x": "La Constitución NO entró en vigor el día del referéndum (6-dic) ni el de la sanción (27-dic), sino el de su publicación en el BOE (29-dic-1978). Es una pregunta clásica."
     },
     {
-      "id": "t01-006", "epi": "e3", "tipo": "directa", "dif": 1,
-      "q": "¿Qué artículo de la Constitución establece que la capital del Estado es la villa de Madrid?",
-      "o": ["El 4", "El 5", "El 6", "El 3"],
-      "c": 1,
-      "e": "Art. 5 CE: «La capital del Estado es la villa de Madrid». El art. 4 trata de la bandera, el 6 de los partidos y el 3 de las lenguas.",
-      "ref": "Art. 5 CE"
-    },
-    {
-      "id": "t01-007", "epi": "e3", "tipo": "directa", "dif": 2,
-      "q": "Los artículos 6 y 7 de la Constitución exigen a los partidos políticos, a los sindicatos y a las asociaciones empresariales que:",
-      "o": ["Su estructura interna y funcionamiento sean democráticos", "Se inscriban previamente en un registro del Ministerio del Interior", "Reciban financiación pública para su funcionamiento", "Obtengan una autorización previa del Gobierno para constituirse"],
-      "c": 0,
-      "e": "Arts. 6 y 7: su creación y actividad son libres (sin autorización previa) dentro del respeto a la Constitución y la ley, y su estructura interna y funcionamiento deberán ser democráticos.",
-      "ref": "Arts. 6 y 7 CE"
-    },
-    {
-      "id": "t01-008", "epi": "e3", "tipo": "trampa", "dif": 2, "trampa": "Añadir algo que no está",
-      "q": "Según el artículo 8 de la Constitución, las Fuerzas Armadas están constituidas por:",
-      "o": ["El Ejército de Tierra, la Armada y el Ejército del Aire", "El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil", "El Ejército de Tierra, la Armada, el Ejército del Aire y la Unidad Militar de Emergencias", "El Ejército de Tierra, la Marina y la Aviación"],
-      "c": 0,
-      "e": "Art. 8.1 CE: Ejército de Tierra, Armada y Ejército del Aire. La Guardia Civil es un cuerpo de seguridad, no está en el art. 8, y la CE dice «Armada», no «Marina».",
-      "ref": "Art. 8.1 CE"
-    },
-    {
-      "id": "t01-009", "epi": "e3", "tipo": "trampa", "dif": 2, "trampa": "Principio que no está en la lista",
-      "q": "El artículo 9.3 de la Constitución garantiza todos los siguientes principios, EXCEPTO:",
-      "o": ["La irretroactividad de las disposiciones sancionadoras no favorables", "La seguridad jurídica", "La proporcionalidad de las sanciones", "La interdicción de la arbitrariedad de los poderes públicos"],
-      "c": 2,
-      "e": "Art. 9.3 CE: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La proporcionalidad no figura en esa lista.",
-      "ref": "Art. 9.3 CE"
-    },
-    {
-      "id": "t01-010", "epi": "e3", "tipo": "trampa", "dif": 2, "trampa": "«Todas» las normas",
-      "q": "Según el artículo 9.3, la Constitución garantiza la irretroactividad de:",
-      "o": ["Todas las normas jurídicas sin excepción", "Las disposiciones sancionadoras no favorables o restrictivas de derechos individuales", "Solo las normas penales", "Solo las leyes orgánicas"],
-      "c": 1,
-      "e": "La irretroactividad no es absoluta: se garantiza para las disposiciones sancionadoras no favorables o restrictivas de derechos individuales. Las favorables pueden aplicarse a hechos anteriores.",
-      "ref": "Art. 9.3 CE"
-    },
-    {
-      "id": "t01-011", "epi": "e3", "tipo": "directa", "dif": 2,
-      "q": "¿Qué precepto obliga a los poderes públicos a «remover los obstáculos que impidan o dificulten» la plenitud de la libertad y la igualdad?",
-      "o": ["El artículo 9.2", "El artículo 14", "El artículo 1.1", "El artículo 10"],
-      "c": 0,
-      "e": "Art. 9.2 CE: promover las condiciones para que libertad e igualdad sean reales y efectivas, remover los obstáculos y facilitar la participación de todos. El art. 14 solo proclama la igualdad ante la ley.",
-      "ref": "Art. 9.2 CE"
-    },
-    {
-      "id": "t01-012", "epi": "e2", "tipo": "directa", "dif": 2,
-      "q": "La Constitución española de 1978 consta de:",
-      "o": ["Preámbulo, Título preliminar, diez Títulos, 169 artículos, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final", "Preámbulo, once Títulos, 178 artículos, cuatro adicionales, cuatro transitorias, una derogatoria y una final", "Preámbulo, Título preliminar, diez Títulos, 155 artículos, cuatro adicionales, nueve transitorias, una derogatoria y una final", "Preámbulo, Título preliminar, nueve Títulos, 169 artículos, tres adicionales, nueve transitorias, una derogatoria y una final"],
-      "c": 0,
-      "e": "Estructura: Preámbulo + Título preliminar + 10 Títulos (I-X) + 169 artículos + 4 disposiciones adicionales + 9 transitorias + 1 derogatoria + 1 final.",
-      "ref": "Estructura de la CE"
-    },
-    {
-      "id": "t01-013", "epi": "e2", "tipo": "trampa", "dif": 2, "trampa": "Títulos que suenan parecido",
-      "q": "¿Qué Título de la Constitución regula la Organización Territorial del Estado?",
-      "o": ["El Título VI", "El Título VII", "El Título VIII", "El Título IX"],
-      "c": 2,
-      "e": "Título VIII: arts. 137-158. El VI es el Poder Judicial, el VII es Economía y Hacienda y el IX es el Tribunal Constitucional.",
-      "ref": "Título VIII CE"
-    },
-    {
-      "id": "t01-014", "epi": "e2", "tipo": "directa", "dif": 2,
-      "q": "Para la reforma constitucional por el procedimiento ordinario (art. 167), el proyecto debe ser aprobado por:",
-      "o": ["Una mayoría de tres quintos de cada una de las Cámaras", "Una mayoría de dos tercios de cada una de las Cámaras", "La mayoría absoluta del Congreso", "La mayoría simple de las Cortes Generales"],
-      "c": 0,
-      "e": "Art. 167.1 CE: mayoría de tres quintos de cada una de las Cámaras. Los dos tercios son para el procedimiento agravado del art. 168.",
-      "ref": "Art. 167 CE"
-    },
-    {
-      "id": "t01-015", "epi": "e2", "tipo": "trampa", "dif": 3, "trampa": "Procedimiento ordinario vs. agravado",
-      "q": "Una reforma de la Constitución que afecte al Título preliminar exige:",
-      "o": ["Tres quintos de cada Cámara y referéndum facultativo", "Dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación y aprobación del nuevo texto por dos tercios de las nuevas Cámaras y referéndum obligatorio", "Mayoría absoluta del Congreso y del Senado", "Dos tercios del Congreso y mayoría simple del Senado, sin referéndum"],
-      "c": 1,
-      "e": "Art. 168 CE: aprobación del principio por 2/3 de cada Cámara, disolución inmediata, ratificación y aprobación del texto por 2/3 de las Cámaras elegidas, y referéndum para su ratificación.",
-      "ref": "Art. 168 CE"
-    },
-    {
-      "id": "t01-016", "epi": "e1", "tipo": "trampa", "dif": 2, "trampa": "Fecha de entrada en vigor",
-      "q": "La Constitución española de 1978 entró en vigor:",
-      "o": ["El 6 de diciembre de 1978, día del referéndum", "El 27 de diciembre de 1978, día de su sanción por el Rey", "El 29 de diciembre de 1978, día de su publicación en el BOE", "El 31 de octubre de 1978, día de su aprobación por las Cortes"],
-      "c": 2,
-      "e": "La disposición final dice que «entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado»: el 29-12-1978.",
-      "ref": "Disposición final CE"
-    },
-    {
-      "id": "t01-017", "epi": "e1", "tipo": "directa", "dif": 2,
-      "q": "¿En qué plazo debe el Rey sancionar las leyes aprobadas por las Cortes Generales?",
-      "o": ["Cinco días", "Diez días", "Quince días", "Treinta días"],
-      "c": 2,
-      "e": "Art. 91 CE: el Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.",
-      "ref": "Art. 91 CE"
-    },
-    {
-      "id": "t01-018", "epi": "e0", "tipo": "directa", "dif": 2,
-      "q": "Para aprobar, modificar o derogar una ley orgánica se exige:",
-      "o": ["Mayoría simple del Congreso", "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto", "Mayoría de tres quintos de cada Cámara", "Mayoría de dos tercios del Congreso"],
-      "c": 1,
-      "e": "Art. 81.2 CE: mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto. Observa que se refiere al Congreso, no a las dos Cámaras.",
-      "ref": "Art. 81.2 CE"
-    },
-    {
-      "id": "t01-019", "epi": "e0", "tipo": "directa", "dif": 2,
-      "q": "¿Cuál de las siguientes materias debe regularse mediante ley orgánica?",
-      "o": ["Los Estatutos de Autonomía", "La Ley de Presupuestos Generales del Estado", "La regulación de las carreteras del Estado", "El régimen de las tasas de un servicio público concreto"],
-      "c": 0,
-      "e": "Art. 81.1 CE: son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y libertades públicas, las que aprueben los Estatutos de Autonomía, el régimen electoral general y las demás previstas en la Constitución.",
-      "ref": "Art. 81.1 CE"
-    },
-    {
-      "id": "t01-020", "epi": "e0", "tipo": "trampa", "dif": 3, "trampa": "Rango: orgánica vs. ordinaria",
-      "q": "Señale la afirmación correcta sobre las leyes orgánicas y las leyes ordinarias:",
-      "o": ["La ley orgánica tiene siempre rango jerárquico superior a la ordinaria", "Ambas tienen el mismo rango; se diferencian por las materias que regulan y por la mayoría exigida para su aprobación", "La ley ordinaria exige mayoría absoluta del Congreso", "Los decretos-leyes se aprueban por mayoría absoluta de las Cortes Generales"],
-      "c": 1,
-      "e": "La doctrina del Tribunal Constitucional entiende que su relación no es de jerarquía sino de competencia: cada una regula su ámbito. La orgánica exige mayoría absoluta del Congreso; la ordinaria, mayoría simple. Los decretos-leyes los dicta el Gobierno (art. 86).",
-      "ref": "Arts. 81 y 86 CE"
-    },
-    {
-      "id": "t01-021", "epi": "e0", "tipo": "trampa", "dif": 2, "trampa": "Decreto-ley vs. decreto legislativo",
-      "q": "El Gobierno puede dictar disposiciones legislativas provisionales con forma de Decretos-leyes:",
-      "o": ["En caso de extraordinaria y urgente necesidad", "Cuando las Cortes Generales le deleguen expresamente la potestad legislativa", "Siempre que lo considere oportuno, sobre cualquier materia", "Previa autorización del Senado"],
-      "c": 0,
-      "e": "Art. 86.1 CE: «en caso de extraordinaria y urgente necesidad». La opción B describe el decreto legislativo (arts. 82-85), que se basa en la delegación de las Cortes.",
-      "ref": "Art. 86.1 CE"
-    },
-    {
-      "id": "t01-022", "epi": "e0", "tipo": "trampa", "dif": 2, "trampa": "Cámara y plazo equivocados",
-      "q": "Los Decretos-leyes deben ser sometidos a debate y votación de totalidad al Congreso de los Diputados en el plazo de:",
-      "o": ["Quince días siguientes a su promulgación", "Treinta días siguientes a su promulgación", "Dos meses desde su publicación", "Tres meses desde su aprobación por el Gobierno"],
-      "c": 1,
-      "e": "Art. 86.2 CE: en el plazo de los treinta días siguientes a su promulgación, el Congreso debe pronunciarse expresamente sobre su convalidación o derogación.",
-      "ref": "Art. 86.2 CE"
-    },
-    {
-      "id": "t01-023", "epi": "e0", "tipo": "trampa", "dif": 3, "trampa": "Calcular la mayoría absoluta",
-      "q": "El Congreso de los Diputados está compuesto actualmente por 350 diputados. ¿Cuántos votos a favor hacen falta para la mayoría absoluta?",
-      "o": ["175", "176", "210", "234"],
-      "c": 1,
-      "e": "Mayoría absoluta = más de la mitad de los miembros: más de 175, es decir, 176. 175 es exactamente la mitad y no basta. 210 son los 3/5 y 234 los 2/3.",
-      "ref": "Concepto de mayoría absoluta"
-    },
-    {
-      "id": "t01-024", "epi": "e0", "tipo": "directa", "dif": 1,
-      "q": "Se alcanza la mayoría simple cuando:",
-      "o": ["Hay más votos a favor que en contra", "Vota a favor más de la mitad de los miembros de la Cámara", "Votan a favor tres quintos de los miembros", "Todos los miembros votan a favor"],
-      "c": 0,
-      "e": "Mayoría simple: más votos afirmativos que negativos, sin contar abstenciones. La absoluta es más de la mitad de los miembros; la de 3/5 es una mayoría reforzada.",
-      "ref": "Concepto de mayoría simple"
-    },
-    {
-      "id": "t01-025", "epi": "e0", "tipo": "trampa", "dif": 2, "trampa": "Funciones de Gobierno atribuidas a Cortes",
-      "q": "Entre las funciones que la Constitución atribuye a las Cortes Generales NO se encuentra:",
-      "o": ["Ejercer la potestad legislativa del Estado", "Aprobar los Presupuestos del Estado", "Controlar la acción del Gobierno", "Dirigir la Administración civil y militar"],
-      "c": 3,
-      "e": "Art. 66.2 CE: las Cortes ejercen la potestad legislativa, aprueban los Presupuestos y controlan la acción del Gobierno. Dirigir la Administración civil y militar es del Gobierno (art. 97).",
-      "ref": "Arts. 66.2 y 97 CE"
-    },
-    {
-      "id": "t01-026", "epi": "e4", "tipo": "directa", "dif": 1,
-      "q": "Según el artículo 97 de la Constitución, ¿quién dirige la Administración civil y militar?",
-      "o": ["Las Cortes Generales", "El Gobierno", "El Consejo de Estado", "El Rey"],
-      "c": 1,
-      "e": "Art. 97 CE: «El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado».",
-      "ref": "Art. 97 CE"
-    },
-    {
-      "id": "t01-027", "epi": "e4", "tipo": "trampa", "dif": 2, "trampa": "Centralización vs. descentralización",
-      "q": "Según el artículo 103.1, la Administración Pública actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, coordinación y:",
-      "o": ["Centralización", "Desconcentración", "Autonomía", "Responsabilidad"],
-      "c": 1,
-      "e": "Art. 103.1 CE: eficacia, jerarquía, descentralización, desconcentración y coordinación. La centralización no figura (es lo contrario de la descentralización).",
-      "ref": "Art. 103.1 CE"
-    },
-    {
-      "id": "t01-028", "epi": "e4", "tipo": "trampa", "dif": 3, "trampa": "Descentralización vs. desconcentración",
-      "q": "El traslado de una competencia desde un órgano superior a otro órgano inferior de la misma Administración, sin salir de ella, se denomina:",
-      "o": ["Descentralización", "Desconcentración", "Coordinación", "Avocación"],
-      "c": 1,
-      "e": "Desconcentración: la competencia pasa a un órgano inferior de la misma Administración. Descentralización: pasa a otra persona jurídica distinta. Avocación: el superior asume una competencia del inferior (lo contrario).",
-      "ref": "Art. 103.1 CE"
-    },
-    {
-      "id": "t01-029", "epi": "e4", "tipo": "directa", "dif": 1,
-      "q": "El acceso a la función pública se regula, según el artículo 103.3, de acuerdo con los principios de:",
-      "o": ["Mérito y capacidad", "Igualdad y publicidad", "Antigüedad y experiencia", "Idoneidad y objetividad"],
-      "c": 0,
-      "e": "Art. 103.3 CE: «el acceso a la función pública de acuerdo con los principios de mérito y capacidad».",
-      "ref": "Art. 103.3 CE"
-    },
-    {
-      "id": "t01-030", "epi": "e4", "tipo": "trampa", "dif": 3, "trampa": "Fuerza mayor vs. caso fortuito",
-      "q": "Según el artículo 106.2, los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, salvo en los casos de:",
-      "o": ["Caso fortuito", "Fuerza mayor", "Culpa del interesado", "Ninguno: siempre hay derecho a indemnización"],
-      "c": 1,
-      "e": "Art. 106.2 CE: «salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos». El caso fortuito no exime.",
-      "ref": "Art. 106.2 CE"
-    },
-    {
-      "id": "t01-031", "epi": "e4", "tipo": "trampa", "dif": 2, "trampa": "Órganos que se parecen",
-      "q": "¿Cuál es, según la Constitución, el supremo órgano consultivo del Gobierno?",
-      "o": ["El Tribunal de Cuentas", "El Defensor del Pueblo", "El Consejo de Estado", "El Consejo General del Poder Judicial"],
-      "c": 2,
-      "e": "Art. 107 CE: Consejo de Estado. El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas (art. 136); el Defensor del Pueblo es el alto comisionado de las Cortes (art. 54); el CGPJ es el órgano de gobierno del Poder Judicial (art. 122).",
-      "ref": "Art. 107 CE"
-    },
-    {
-      "id": "t01-032", "epi": "e4", "tipo": "directa", "dif": 2,
-      "q": "¿Quién controla la potestad reglamentaria y la legalidad de la actuación administrativa?",
-      "o": ["Las Cortes Generales", "Los Tribunales", "El Consejo de Estado", "El Defensor del Pueblo"],
-      "c": 1,
-      "e": "Art. 106.1 CE: «Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican».",
-      "ref": "Art. 106.1 CE"
-    },
-    {
-      "id": "t01-033", "epi": "e4", "tipo": "trampa", "dif": 3, "trampa": "Excepciones inventadas",
-      "q": "El artículo 105 establece que el acceso de los ciudadanos a los archivos y registros administrativos NO procede en lo que afecte a:",
-      "o": ["La seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas", "El orden público, el secreto comercial y la intimidad", "La seguridad nacional, la hacienda pública y el secreto profesional", "Cualquier materia que el Gobierno declare reservada"],
-      "c": 0,
-      "e": "Art. 105.b CE: las tres excepciones son seguridad y defensa del Estado, averiguación de los delitos e intimidad de las personas.",
-      "ref": "Art. 105.b CE"
-    },
-    {
-      "id": "t01-034", "epi": "e5", "tipo": "trampa", "dif": 2, "trampa": "Entidades que no son las del art. 137",
-      "q": "Según el artículo 137, el Estado se organiza territorialmente en:",
-      "o": ["Municipios, comarcas y Comunidades Autónomas", "Municipios, provincias y Comunidades Autónomas que se constituyan", "Provincias y Comunidades Autónomas", "Regiones, nacionalidades y municipios"],
-      "c": 1,
-      "e": "Art. 137 CE: municipios, provincias y Comunidades Autónomas que se constituyan; todas gozan de autonomía para la gestión de sus respectivos intereses. Las comarcas no están en el art. 137.",
-      "ref": "Art. 137 CE"
-    },
-    {
-      "id": "t01-035", "epi": "e5", "tipo": "trampa", "dif": 3, "trampa": "«Exclusivamente»",
-      "q": "Según el artículo 140 de la Constitución, los Alcaldes serán elegidos:",
-      "o": ["Exclusivamente por los vecinos del municipio", "Por los Concejales o por los vecinos", "Por la Diputación Provincial", "Por el Gobierno, a propuesta del Ayuntamiento"],
-      "c": 1,
-      "e": "Art. 140 CE: «Los Alcaldes serán elegidos por los Concejales o por los vecinos». Los Concejales sí son elegidos por los vecinos por sufragio universal, igual, libre, directo y secreto.",
-      "ref": "Art. 140 CE"
-    },
-    {
-      "id": "t01-036", "epi": "e5", "tipo": "directa", "dif": 2,
-      "q": "El gobierno y la administración de los municipios corresponde, según la Constitución, a:",
-      "o": ["Las Diputaciones provinciales", "Los Ayuntamientos, integrados por los Alcaldes y los Concejales", "Las Comunidades Autónomas", "Los Alcaldes de forma exclusiva"],
-      "c": 1,
-      "e": "Art. 140 CE: «Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales».",
-      "ref": "Art. 140 CE"
-    },
-    {
-      "id": "t01-037", "epi": "e5", "tipo": "trampa", "dif": 3, "trampa": "Tipo de ley",
-      "q": "Cualquier alteración de los límites provinciales habrá de ser aprobada por:",
-      "o": ["El Gobierno, mediante Real Decreto", "Las Cortes Generales, mediante ley orgánica", "Las Cortes Generales, mediante ley ordinaria", "Las Comunidades Autónomas afectadas, mediante ley autonómica"],
-      "c": 1,
-      "e": "Art. 141.1 CE: «Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica».",
-      "ref": "Art. 141.1 CE"
-    },
-    {
-      "id": "t01-038", "epi": "e5", "tipo": "directa", "dif": 2,
-      "q": "El gobierno y la administración autónoma de las provincias estarán encomendados, según el artículo 141, a:",
-      "o": ["Diputaciones u otras Corporaciones de carácter representativo", "Los Gobernadores civiles", "Las Delegaciones del Gobierno", "Los Ayuntamientos de las capitales de provincia"],
-      "c": 0,
-      "e": "Art. 141.2 CE: «Diputaciones u otras Corporaciones de carácter representativo». En los archipiélagos, las islas tienen además Cabildos o Consejos (art. 141.4).",
-      "ref": "Art. 141.2 CE"
-    },
-    {
-      "id": "t01-039", "epi": "e5", "tipo": "directa", "dif": 2,
-      "q": "Las Haciendas locales se nutrirán, según el artículo 142, fundamentalmente de:",
-      "o": ["Solo de transferencias del Estado", "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas", "Préstamos de las entidades financieras", "Exclusivamente de tasas y precios públicos"],
-      "c": 1,
-      "e": "Art. 142 CE: «se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas».",
-      "ref": "Art. 142 CE"
-    },
-    {
-      "id": "t01-040", "epi": "e5", "tipo": "trampa", "dif": 3, "trampa": "Artículo 148 vs. 149",
-      "q": "Según el artículo 148.1, las Comunidades Autónomas podrán asumir competencias en materia de:",
-      "o": ["Defensa y Fuerzas Armadas", "Ordenación del territorio, urbanismo y vivienda", "Administración de Justicia", "Legislación mercantil y penal"],
-      "c": 1,
-      "e": "Art. 148.1.3.ª CE: ordenación del territorio, urbanismo y vivienda. Defensa, Administración de Justicia y legislación mercantil y penal son competencia exclusiva del Estado (art. 149.1).",
-      "ref": "Arts. 148.1.3.ª y 149.1 CE"
+     "t": "ejemplo",
+     "x": "Piensa en una ley como un contrato: primero se discute (Cortes), luego se firma (sanción), después se anuncia al público (BOE) y solo entonces obliga a todos."
     }
+   ],
+   "flash": [
+    {
+     "q": "¿Qué dos fechas separan la aprobación en Cortes y el referéndum?",
+     "a": "31 de octubre de 1978 (Cortes) y 6 de diciembre de 1978 (referéndum)."
+    },
+    {
+     "q": "¿Cuándo entró en vigor y por qué ese día?",
+     "a": "El 29 de diciembre de 1978, día de su publicación en el BOE, porque lo dice la disposición final."
+    }
+   ],
+   "esquema": [
+    "15-jun-1977: elecciones → Cortes constituyentes",
+    "31-oct-1978: aprobación por las Cortes",
+    "6-dic-1978: referéndum",
+    "27-dic-1978: sanción del Rey",
+    "29-dic-1978: BOE y entrada en vigor"
+   ],
+   "ic": "📅"
+  },
+  {
+   "id": "e2",
+   "titulo": "Estructura de la Constitución",
+   "subtitulo": "Preámbulo, Título preliminar, diez Títulos y disposiciones",
+   "clave": [
+    "Preámbulo",
+    "Título preliminar",
+    "10 Títulos (I-X)",
+    "169 artículos",
+    "4 adicionales, 9 transitorias, 1 derogatoria, 1 final",
+    "Reforma: arts. 166-169"
+   ],
+   "bloques": [
+    {
+     "t": "p",
+     "x": "Estructura completa: **Preámbulo + Título preliminar + 10 Títulos + 169 artículos + 4 disposiciones adicionales + 9 transitorias + 1 derogatoria + 1 final.** (Las [[disposiciones-finales|disposiciones finales]] son las «cláusulas de cierre».)"
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "Título",
+      "Contenido",
+      "Arts."
+     ],
+     "filas": [
+      [
+       "Preliminar",
+       "Principios básicos",
+       "1-9"
+      ],
+      [
+       "I",
+       "Derechos y deberes fundamentales",
+       "10-55"
+      ],
+      [
+       "II",
+       "La Corona",
+       "56-65"
+      ],
+      [
+       "III",
+       "Las Cortes Generales",
+       "66-96"
+      ],
+      [
+       "IV",
+       "Gobierno y Administración",
+       "97-107"
+      ],
+      [
+       "V",
+       "Relaciones Gobierno–Cortes",
+       "108-116"
+      ],
+      [
+       "VI",
+       "Poder Judicial",
+       "117-127"
+      ],
+      [
+       "VII",
+       "Economía y Hacienda",
+       "128-136"
+      ],
+      [
+       "VIII",
+       "Organización territorial del Estado",
+       "137-158"
+      ],
+      [
+       "IX",
+       "Tribunal Constitucional",
+       "159-165"
+      ],
+      [
+       "X",
+       "Reforma constitucional",
+       "166-169"
+      ]
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "x": "Para recordar el orden, quédate con las iniciales: **D**erechos · **C**orona · **C**ortes · **G**obierno · **R**elaciones · **J**udicial · **H**acienda · **T**erritorio · **T**ribunal Constitucional · **R**eforma (D-C-C-G-R-J-H-T-T-R). Inventa una frase con esas letras: la que crees tú se te queda mejor que la de un libro."
+    },
+    {
+     "t": "h",
+     "x": "Bonus: cómo se reforma la Constitución (Título X)"
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "",
+      "Reforma ordinaria (art. 167)",
+      "Reforma agravada (art. 168)"
+     ],
+     "filas": [
+      [
+       "Cuándo",
+       "Cualquier parte NO protegida",
+       "Revisión total, o parcial que afecte al Título preliminar, al Cap. II Sección 1.ª del Título I, o al Título II"
+      ],
+      [
+       "Mayoría",
+       "[[mayorias-reforzadas|3/5]] de cada Cámara",
+       "[[mayorias-reforzadas|2/3]] de cada Cámara (aprueba el principio)"
+      ],
+      [
+       "Disolución de las Cortes",
+       "No",
+       "Sí, inmediata; las nuevas Cámaras ratifican y aprueban con 2/3"
+      ],
+      [
+       "Referéndum",
+       "Solo si lo pide 1/10 de los miembros de una Cámara (en 15 días)",
+       "Obligatorio"
+      ]
+     ]
+    },
+    {
+     "t": "trampa",
+     "x": "Una reforma que toca el Título preliminar se tramita por el procedimiento agravado (art. 168). Y no se puede iniciar ninguna reforma en tiempo de guerra o de estado de alarma, excepción o sitio (art. 169)."
+    }
+   ],
+   "flash": [
+    {
+     "q": "¿Cuántos Títulos y cuántos artículos tiene la CE?",
+     "a": "Título preliminar + 10 Títulos (I-X) y 169 artículos."
+    },
+    {
+     "q": "¿Qué Título regula la organización territorial del Estado?",
+     "a": "El Título VIII (arts. 137-158)."
+    },
+    {
+     "q": "¿Qué mayoría exige la reforma ordinaria y cuál la agravada?",
+     "a": "Ordinaria: 3/5 de cada Cámara (art. 167). Agravada: 2/3 de cada Cámara, disolución, nueva ratificación y referéndum obligatorio (art. 168)."
+    }
+   ],
+   "esquema": [
+    "Preámbulo + Título preliminar + Títulos I-X",
+    "169 artículos · 4 DA · 9 DT · 1 DD · 1 DF",
+    "Reforma ordinaria (167): 3/5 de cada Cámara, referéndum si lo pide 1/10",
+    "Reforma agravada (168): 2/3 + disolución + 2/3 + referéndum obligatorio",
+    "Art. 169: no reformar en guerra ni en estados excepcionales"
+   ],
+   "ic": "🧱"
+  },
+  {
+   "id": "e3",
+   "titulo": "El Título preliminar (arts. 1 a 9)",
+   "subtitulo": "Los cimientos del sistema",
+   "clave": [
+    "Estado social y democrático de Derecho",
+    "Valores superiores",
+    "Soberanía en el pueblo",
+    "Monarquía parlamentaria",
+    "Unidad y autonomía",
+    "Lenguas",
+    "Principios del art. 9.3"
+   ],
+   "bloques": [
+    {
+     "t": "p",
+     "x": "Son solo 9 artículos, pero son los más preguntados. Cada uno responde a una pregunta sencilla."
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "Art.",
+      "Pregunta",
+      "Respuesta"
+     ],
+     "filas": [
+      [
+       "1.1",
+       "¿Qué tipo de Estado es España?",
+       "[[estado-social-democratico-derecho|Estado social y democrático de Derecho]]. Valores superiores: **libertad, justicia, igualdad y [[pluralismo-politico|pluralismo político]]**."
+      ],
+      [
+       "1.2",
+       "¿Dónde reside la [[soberania|soberanía]]?",
+       "En el **pueblo español**, del que emanan los poderes del Estado."
+      ],
+      [
+       "1.3",
+       "¿Cuál es la forma política?",
+       "[[monarquia-parlamentaria|Monarquía parlamentaria]]."
+      ],
+      [
+       "2",
+       "¿Qué base tiene?",
+       "**Indisoluble unidad** de la Nación española + derecho a la **[[autonomia|autonomía]]** de nacionalidades y regiones + **solidaridad**."
+      ],
+      [
+       "3",
+       "¿Qué lengua se habla?",
+       "**Castellano** oficial del Estado (deber de conocerla, derecho a usarla). Las demás lenguas, oficiales en sus CCAA según sus **Estatutos**. Las modalidades lingüísticas son patrimonio cultural."
+      ],
+      [
+       "4",
+       "¿Cómo es la bandera?",
+       "Tres franjas horizontales: **roja, amarilla y roja**; la amarilla, de **doble anchura**. Los Estatutos pueden reconocer banderas propias, que se usan junto a la de España."
+      ],
+      [
+       "5",
+       "¿Cuál es la capital?",
+       "La villa de **Madrid**."
+      ],
+      [
+       "6",
+       "Partidos políticos",
+       "Expresan el pluralismo, concurren a formar la voluntad popular, instrumento fundamental de participación. Creación y actividad **libres**. Estructura y funcionamiento **democráticos**."
+      ],
+      [
+       "7",
+       "Sindicatos y asociaciones empresariales",
+       "Defienden intereses económicos y sociales. Libres, y con estructura y funcionamiento **democráticos**."
+      ],
+      [
+       "8",
+       "Fuerzas Armadas",
+       "Ejército de Tierra, Armada y Ejército del Aire. Garantizan soberanía e independencia, defienden integridad territorial y el ordenamiento constitucional. Bases por **[[ley-organica|ley orgánica]]**."
+      ],
+      [
+       "9",
+       "Sujeción al Derecho",
+       "Ciudadanos y poderes públicos sujetos a la Constitución y al resto del ordenamiento."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Los 7 principios del artículo 9.3"
+    },
+    {
+     "t": "p",
+     "x": "El art. 9.3 «garantiza» siete cosas. Apréndelos en este orden:"
+    },
+    {
+     "t": "lista",
+     "items": [
+      "**1. [[principio-legalidad|Legalidad]]**",
+      "**2. [[jerarquia-normativa|Jerarquía normativa]]**",
+      "**3. [[publicidad-normas|Publicidad de las normas]]**",
+      "**4. [[irretroactividad|Irretroactividad]]** de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+      "**5. [[seguridad-juridica|Seguridad jurídica]]**",
+      "**6. Responsabilidad** de los poderes públicos",
+      "**7. [[interdiccion-arbitrariedad|Interdicción de la arbitrariedad]]**"
+     ]
+    },
+    {
+     "t": "key",
+     "x": "Regla mnemotécnica: **L-J-P-I-S-R-I** (Legalidad, Jerarquía, Publicidad, Irretroactividad, Seguridad, Responsabilidad, Interdicción)."
+    },
+    {
+     "t": "p",
+     "x": "El **art. 9.2** es distinto: manda a los poderes públicos **promover** las condiciones para que libertad e igualdad sean reales y efectivas, **remover** los obstáculos y **facilitar** la participación de todos."
+    },
+    {
+     "t": "trampa",
+     "x": "Aquí caen muchos opositores: (a) la soberanía reside en el pueblo, no en las Cortes ni en la Nación; (b) la irretroactividad no es para todas las normas; (c) la «proporcionalidad» NO aparece en el art. 9.3; (d) la lengua oficial de otras CCAA depende de sus Estatutos, no de una ley estatal."
+    }
+   ],
+   "flash": [
+    {
+     "q": "Cita los cuatro valores superiores del art. 1.1.",
+     "a": "Libertad, justicia, igualdad y pluralismo político."
+    },
+    {
+     "q": "¿Qué principios garantiza el art. 9.3?",
+     "a": "Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad."
+    },
+    {
+     "q": "¿Cómo es la bandera según el art. 4?",
+     "a": "Tres franjas horizontales roja, amarilla y roja; la amarilla de doble anchura."
+    },
+    {
+     "q": "¿Qué dice el art. 9.2 que no dice el 9.3?",
+     "a": "Obliga a los poderes públicos a promover la igualdad y la libertad reales y efectivas, remover obstáculos y facilitar la participación."
+    }
+   ],
+   "esquema": [
+    "Art. 1: Estado social y democrático de Derecho · LJIP · soberanía en el pueblo · Monarquía parlamentaria",
+    "Art. 2: unidad + autonomía + solidaridad",
+    "Art. 3: castellano oficial; otras lenguas según Estatutos",
+    "Art. 4: bandera roja-amarilla-roja (doble); banderas autonómicas junto a la de España",
+    "Art. 5: Madrid · Art. 6: partidos · Art. 7: sindicatos y patronal · Art. 8: FFAA",
+    "Art. 9: sujeción (9.1) · igualdad real (9.2) · 7 principios (9.3)"
+   ],
+   "ic": "🏛️"
+  },
+  {
+   "id": "e4",
+   "titulo": "La Administración Pública en la Constitución (arts. 103 a 107)",
+   "subtitulo": "Cómo debe actuar la Administración y cómo se controla",
+   "clave": [
+    "Art. 97: Gobierno y potestad reglamentaria",
+    "Art. 103.1: 5 principios",
+    "Mérito y capacidad",
+    "Control por los Tribunales (art. 106)",
+    "Indemnización por funcionamiento de los servicios públicos",
+    "Consejo de Estado"
+   ],
+   "bloques": [
+    {
+     "t": "p",
+     "x": "Primero, quién manda: el **art. 97** dice que el **Gobierno** dirige la política interior y exterior, la **Administración civil y militar** y la defensa del Estado, y ejerce la función ejecutiva y la [[potestad-reglamentaria|potestad reglamentaria]]. La [[administracion-publica|Administración Pública]] es la estructura que ejecuta lo que decide el Gobierno."
+    },
+    {
+     "t": "h",
+     "x": "Art. 103.1: los principios de actuación"
+    },
+    {
+     "t": "p",
+     "x": "La Administración **sirve con objetividad los [[interes-general|intereses generales]]** y actúa de acuerdo con estos cinco principios, con **sometimiento pleno a la ley y al Derecho**:"
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "Principio",
+      "En una frase"
+     ],
+     "filas": [
+      [
+       "[[eficacia|Eficacia]]",
+       "Conseguir resultados."
+      ],
+      [
+       "[[jerarquia-administrativa|Jerarquía]]",
+       "Los superiores dirigen a los inferiores."
+      ],
+      [
+       "[[descentralizacion|Descentralización]]",
+       "Competencias hacia OTRA entidad con personalidad propia."
+      ],
+      [
+       "[[desconcentracion|Desconcentración]]",
+       "Competencias hacia otro órgano INFERIOR de la misma entidad."
+      ],
+      [
+       "[[coordinacion|Coordinación]]",
+       "Todos actúan de forma armónica."
+      ]
+     ]
+    },
+    {
+     "t": "key",
+     "x": "Nemotecnia: **E-J-D-D-C**. Eficacia y Jerarquía mandan; Descentralizan y Desconcentran para que todo esté Coordinado."
+    },
+    {
+     "t": "ejemplo",
+     "x": "La diferencia entre descentralizar y desconcentrar: si el Estado le da una competencia a una Comunidad Autónoma, eso es **descentralización** (otra entidad). Si el Ministro le pasa una competencia a una Dirección General de su propio Ministerio, eso es **desconcentración** (mismo ministerio, otro órgano)."
+    },
+    {
+     "t": "h",
+     "x": "Resto del artículo 103"
+    },
+    {
+     "t": "lista",
+     "items": [
+      "**103.2**: los órganos de la Administración del Estado son creados, regidos y coordinados **de acuerdo con la ley**.",
+      "**103.3**: la ley regulará el estatuto de los funcionarios, el acceso a la función pública por **[[merito-capacidad|mérito y capacidad]]**, la sindicación, las incompatibilidades y las garantías de imparcialidad."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Los otros artículos (104-107)"
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "Art.",
+      "Contenido"
+     ],
+     "filas": [
+      [
+       "104",
+       "Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno: proteger derechos y libertades y garantizar la seguridad ciudadana. Se regulan por **ley orgánica**."
+      ],
+      [
+       "105",
+       "La ley regulará: (a) **audiencia** de los ciudadanos en la elaboración de disposiciones que les afecten; (b) **acceso a archivos y registros** administrativos, salvo seguridad y defensa del Estado, averiguación de delitos e intimidad de las personas; (c) el **procedimiento** de los actos administrativos, con audiencia del interesado."
+      ],
+      [
+       "106.1",
+       "Los **Tribunales** controlan la potestad reglamentaria y la legalidad de la actuación administrativa."
+      ],
+      [
+       "106.2",
+       "Derecho a ser **indemnizado** por toda lesión consecuencia del funcionamiento de los servicios públicos, salvo [[fuerza-mayor|fuerza mayor]]."
+      ],
+      [
+       "107",
+       "El [[consejo-estado|Consejo de Estado]] es el supremo órgano **consultivo** del Gobierno (se regula por ley orgánica)."
+      ]
+     ]
+    },
+    {
+     "t": "trampa",
+     "x": "(a) La Constitución dice descentralización **y** desconcentración: no «centralización». (b) Solo la fuerza mayor exime de indemnizar, no el caso fortuito. (c) El acceso a archivos tiene 3 excepciones: seguridad y defensa del Estado, averiguación de delitos e intimidad. (d) Consejo de Estado = asesora; Tribunal de Cuentas = fiscaliza; Defensor del Pueblo = defiende derechos."
+    }
+   ],
+   "flash": [
+    {
+     "q": "Cita los cinco principios del art. 103.1.",
+     "a": "Eficacia, jerarquía, descentralización, desconcentración y coordinación (con sometimiento pleno a la ley y al Derecho)."
+    },
+    {
+     "q": "¿Qué diferencia hay entre descentralización y desconcentración?",
+     "a": "Descentralización: hacia otra entidad con personalidad jurídica propia. Desconcentración: hacia un órgano inferior de la misma Administración."
+    },
+    {
+     "q": "¿Con qué principios se accede a la función pública?",
+     "a": "Mérito y capacidad (art. 103.3)."
+    },
+    {
+     "q": "¿Quién controla la potestad reglamentaria y la legalidad de la actuación administrativa?",
+     "a": "Los Tribunales (art. 106.1)."
+    },
+    {
+     "q": "¿Qué órgano es «supremo órgano consultivo del Gobierno»?",
+     "a": "El Consejo de Estado (art. 107)."
+    }
+   ],
+   "esquema": [
+    "Art. 97: el Gobierno dirige la Administración civil y militar; función ejecutiva y potestad reglamentaria",
+    "Art. 103.1: sirve con objetividad al interés general · E-J-D-D-C · pleno sometimiento a ley y Derecho",
+    "Art. 103.2: órganos creados por ley · 103.3: funcionarios, mérito y capacidad",
+    "Art. 104: Fuerzas y Cuerpos de seguridad (ley orgánica)",
+    "Art. 105: audiencia, archivos y registros, procedimiento",
+    "Art. 106: control judicial + indemnización (salvo fuerza mayor)",
+    "Art. 107: Consejo de Estado, órgano consultivo"
+   ],
+   "ic": "🏢"
+  },
+  {
+   "id": "e5",
+   "titulo": "Organización territorial: principios generales y Administración local (arts. 137 a 142)",
+   "subtitulo": "Municipios, provincias y Comunidades Autónomas",
+   "clave": [
+    "Art. 137: municipios, provincias y CCAA",
+    "Autonomía para gestionar sus intereses",
+    "Arts. 138-139: solidaridad e igualdad",
+    "Art. 140: municipios",
+    "Art. 141: provincias",
+    "Art. 142: haciendas locales"
+   ],
+   "bloques": [
+    {
+     "t": "p",
+     "x": "Esta parte te toca de cerca: es la base de todo el temario de Administración local (Bloque II). España se organiza en tres niveles territoriales."
+    },
+    {
+     "t": "key",
+     "x": "**Art. 137**: el Estado se organiza territorialmente en **[[municipio|municipios]], [[provincia|provincias]] y [[comunidad-autonoma|Comunidades Autónomas]]** (las que se constituyan). Todas gozan de **autonomía para la gestión de sus respectivos intereses**."
+    },
+    {
+     "t": "h",
+     "x": "Principios generales (arts. 138 y 139)"
+    },
+    {
+     "t": "lista",
+     "items": [
+      "**138**: el Estado garantiza la **solidaridad** (art. 2) y el equilibrio económico entre territorios, atendiendo al hecho insular. Las diferencias entre Estatutos **no pueden implicar privilegios económicos o sociales**.",
+      "**139**: todos los españoles tienen los **mismos derechos y obligaciones** en cualquier parte del territorio. Nadie puede obstaculizar la libre circulación y establecimiento de personas ni la libre circulación de bienes."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "La Administración local"
+    },
+    {
+     "t": "tabla",
+     "cols": [
+      "Art.",
+      "Entidad",
+      "Lo esencial"
+     ],
+     "filas": [
+      [
+       "140",
+       "[[municipio|Municipio]]",
+       "Autonomía garantizada y [[personalidad-juridica|personalidad jurídica]] plena. Gobierno y administración: los [[ayuntamiento|Ayuntamientos]], integrados por **Alcalde y Concejales**. Concejales: elegidos por los vecinos por [[sufragio|sufragio universal, igual, libre, directo y secreto]]. Alcaldes: elegidos **por los Concejales o por los vecinos**. La ley regula el [[concejo-abierto|concejo abierto]]."
+      ],
+      [
+       "141",
+       "[[provincia|Provincia]]",
+       "Entidad local con personalidad jurídica propia: agrupación de municipios y división territorial para las actividades del Estado. Alterar sus límites exige **ley orgánica de las Cortes Generales**. Gobierno: [[diputacion|Diputaciones]] u otras Corporaciones representativas. Se pueden crear agrupaciones de municipios distintas de la provincia. Islas: [[cabildo|Cabildos o Consejos]]."
+      ],
+      [
+       "142",
+       "Haciendas locales",
+       "Deben tener medios suficientes para sus funciones. Se nutren **fundamentalmente de tributos propios y de la participación en los tributos del Estado y de las CCAA**."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Un vistazo a las Comunidades Autónomas (arts. 143-158)"
+    },
+    {
+     "t": "lista",
+     "items": [
+      "**147**: el [[estatuto-autonomia|Estatuto de Autonomía]] es la **norma institucional básica** de cada CA. Su reforma requiere aprobación de las Cortes por **ley orgánica**.",
+      "**148**: lista de materias que las CCAA **pueden asumir** (entre ellas: ordenación del territorio, **urbanismo** y vivienda; montes; agricultura…).",
+      "**149**: lista de materias de **competencia exclusiva del Estado** (relaciones internacionales, defensa, Administración de Justicia, legislación penal, mercantil, laboral…)."
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "x": "Piénsalo como un edificio de vecinos: el **municipio** es tu vivienda, la **provincia** es el rellano que agrupa viviendas y la **Comunidad Autónoma** es el bloque. El Estado es la comunidad de propietarios: algunas decisiones son de cada piso y otras de todos. Y como tu ciudad es Zaragoza: municipio → provincia de Zaragoza → Comunidad Autónoma de Aragón."
+    },
+    {
+     "t": "trampa",
+     "x": "(a) El art. 137 NO cita las comarcas. (b) Los alcaldes pueden ser elegidos por los concejales o por los vecinos (no «directamente por los vecinos»). (c) Cambiar límites provinciales: ley orgánica (no ley ordinaria ni decreto). (d) Art. 148 = lo que las CCAA pueden asumir; art. 149 = lo exclusivo del Estado. Urbanismo está en el 148 (¡y es el Tema 20!)."
+    }
+   ],
+   "flash": [
+    {
+     "q": "¿En qué se organiza territorialmente el Estado según el art. 137?",
+     "a": "En municipios, provincias y Comunidades Autónomas que se constituyan; todas con autonomía para gestionar sus intereses."
+    },
+    {
+     "q": "¿Quién gobierna y administra el municipio y quién elige a cada uno?",
+     "a": "El Ayuntamiento (Alcalde y Concejales). Concejales: los vecinos por sufragio universal, igual, libre, directo y secreto. Alcaldes: los concejales o los vecinos."
+    },
+    {
+     "q": "¿Cómo se alteran los límites provinciales?",
+     "a": "Por las Cortes Generales mediante ley orgánica (art. 141.1)."
+    },
+    {
+     "q": "¿De qué se nutren fundamentalmente las haciendas locales?",
+     "a": "De tributos propios y de la participación en los tributos del Estado y de las CCAA (art. 142)."
+    }
+   ],
+   "esquema": [
+    "Art. 137: municipios + provincias + CCAA · autonomía para gestionar sus intereses",
+    "Art. 138: solidaridad; sin privilegios económicos o sociales",
+    "Art. 139: mismos derechos y obligaciones en todo el territorio",
+    "Art. 140: municipio · Ayuntamiento (Alcalde + Concejales) · personalidad jurídica plena",
+    "Art. 141: provincia · Diputaciones · límites por ley orgánica",
+    "Art. 142: haciendas locales: tributos propios + participación en los del Estado y CCAA",
+    "Art. 147-149: Estatutos, competencias CCAA, competencias del Estado"
+   ],
+   "ic": "🗺️"
+  }
+ ],
+ "mapa": {
+  "titulo": "La Constitución española",
+  "ramas": [
+   {
+    "titulo": "Origen y estructura",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Elaboración",
+      "hijos": [
+       {
+        "titulo": "15-jun-1977: elecciones"
+       },
+       {
+        "titulo": "31-oct-1978: aprueban las Cortes"
+       },
+       {
+        "titulo": "6-dic-1978: referéndum"
+       },
+       {
+        "titulo": "27-dic-1978: sanción del Rey"
+       },
+       {
+        "titulo": "29-dic-1978: BOE y entrada en vigor"
+       }
+      ]
+     },
+     {
+      "titulo": "Estructura",
+      "hijos": [
+       {
+        "titulo": "Preámbulo + Título preliminar"
+       },
+       {
+        "titulo": "10 Títulos (I-X)"
+       },
+       {
+        "titulo": "169 artículos"
+       },
+       {
+        "titulo": "4 DA · 9 DT · 1 DD · 1 DF"
+       }
+      ]
+     },
+     {
+      "titulo": "Reforma (Título X)",
+      "hijos": [
+       {
+        "titulo": "Ordinaria (167): 3/5 de cada Cámara"
+       },
+       {
+        "titulo": "Agravada (168): 2/3 + disolución + referéndum"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Título preliminar (1-9)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Art. 1",
+      "hijos": [
+       {
+        "titulo": "Estado social y democrático de Derecho"
+       },
+       {
+        "titulo": "Valores: libertad, justicia, igualdad, pluralismo político"
+       },
+       {
+        "titulo": "Soberanía: pueblo español"
+       },
+       {
+        "titulo": "Monarquía parlamentaria"
+       }
+      ]
+     },
+     {
+      "titulo": "Arts. 2-5",
+      "hijos": [
+       {
+        "titulo": "2: unidad + autonomía + solidaridad"
+       },
+       {
+        "titulo": "3: castellano y lenguas cooficiales"
+       },
+       {
+        "titulo": "4: bandera"
+       },
+       {
+        "titulo": "5: capital Madrid"
+       }
+      ]
+     },
+     {
+      "titulo": "Arts. 6-8",
+      "hijos": [
+       {
+        "titulo": "6: partidos políticos"
+       },
+       {
+        "titulo": "7: sindicatos y patronal"
+       },
+       {
+        "titulo": "8: Fuerzas Armadas"
+       }
+      ]
+     },
+     {
+      "titulo": "Art. 9",
+      "hijos": [
+       {
+        "titulo": "9.1: sujeción a la CE y al Derecho"
+       },
+       {
+        "titulo": "9.2: igualdad real y efectiva"
+       },
+       {
+        "titulo": "9.3: legalidad · jerarquía · publicidad · irretroactividad · seguridad jurídica · responsabilidad · interdicción arbitrariedad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Administración Pública (97, 103-107)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Art. 97",
+      "hijos": [
+       {
+        "titulo": "El Gobierno dirige la Administración"
+       },
+       {
+        "titulo": "Potestad reglamentaria"
+       }
+      ]
+     },
+     {
+      "titulo": "Art. 103",
+      "hijos": [
+       {
+        "titulo": "Sirve con objetividad al interés general"
+       },
+       {
+        "titulo": "Eficacia · Jerarquía · Descentralización · Desconcentración · Coordinación"
+       },
+       {
+        "titulo": "Funcionarios: mérito y capacidad"
+       }
+      ]
+     },
+     {
+      "titulo": "Arts. 104-107",
+      "hijos": [
+       {
+        "titulo": "104: Fuerzas y Cuerpos de seguridad"
+       },
+       {
+        "titulo": "105: audiencia, archivos, procedimiento"
+       },
+       {
+        "titulo": "106: control judicial + indemnización"
+       },
+       {
+        "titulo": "107: Consejo de Estado"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Organización territorial (137-142)",
+    "color": "#ffe066",
+    "hijos": [
+     {
+      "titulo": "Art. 137",
+      "hijos": [
+       {
+        "titulo": "Municipios · provincias · CCAA"
+       },
+       {
+        "titulo": "Autonomía para gestionar sus intereses"
+       }
+      ]
+     },
+     {
+      "titulo": "Arts. 138-139",
+      "hijos": [
+       {
+        "titulo": "Solidaridad"
+       },
+       {
+        "titulo": "Igualdad de derechos y libre circulación"
+       }
+      ]
+     },
+     {
+      "titulo": "Administración local",
+      "hijos": [
+       {
+        "titulo": "140: municipio → Ayuntamiento (Alcalde + Concejales)"
+       },
+       {
+        "titulo": "141: provincia → Diputaciones"
+       },
+       {
+        "titulo": "142: haciendas locales"
+       }
+      ]
+     },
+     {
+      "titulo": "CCAA (143-158)",
+      "hijos": [
+       {
+        "titulo": "147: Estatuto = norma institucional básica"
+       },
+       {
+        "titulo": "148: competencias asumibles por CCAA"
+       },
+       {
+        "titulo": "149: competencias exclusivas del Estado"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 2 (unidad y autonomía)",
+    "a": "Art. 137 (autonomía de municipios, provincias y CCAA)",
+    "porque": "El art. 137 desarrolla territorialmente la autonomía que reconoce el art. 2."
+   },
+   {
+    "de": "Art. 9.3 (legalidad, jerarquía)",
+    "a": "Art. 103.1 (sometimiento pleno a la ley y al Derecho)",
+    "porque": "El principio de legalidad del 9.3 se concreta para la Administración en el 103.1."
+   },
+   {
+    "de": "Art. 97 (Gobierno dirige la Administración)",
+    "a": "Art. 103 (principios de la Administración)",
+    "porque": "El 97 dice quién la dirige; el 103 dice cómo debe actuar."
+   },
+   {
+    "de": "Art. 103.1 (descentralización)",
+    "a": "Art. 137 (CCAA y entes locales)",
+    "porque": "La descentralización es lo que permite que municipios y CCAA tengan sus propias competencias."
+   },
+   {
+    "de": "Art. 140 (municipio)",
+    "a": "Tema 14 (el municipio y la capitalidad de Zaragoza)",
+    "porque": "Lo que aquí es un principio constitucional se desarrolla en la legislación de régimen local."
+   },
+   {
+    "de": "Art. 148.1.3.ª (urbanismo)",
+    "a": "Tema 20 (Ley de Urbanismo de Aragón)",
+    "porque": "Aragón puede asumir el urbanismo como competencia propia y por eso tiene su ley."
+   },
+   {
+    "de": "Art. 81 (leyes orgánicas)",
+    "a": "Arts. 8, 104, 107, 141 y 147",
+    "porque": "Muchos artículos remiten a una ley orgánica: Fuerzas Armadas, Fuerzas de seguridad, Consejo de Estado, límites provinciales y Estatutos."
+   }
   ]
+ },
+ "preguntas": [
+  {
+   "id": "t01-001",
+   "epi": "e3",
+   "tipo": "directa",
+   "dif": 1,
+   "q": "Según el artículo 1.1 de la Constitución, los valores superiores del ordenamiento jurídico son:",
+   "o": [
+    "La libertad, la justicia, la igualdad y el pluralismo político",
+    "La libertad, la igualdad, la fraternidad y la justicia",
+    "La libertad, la justicia, la seguridad y la solidaridad",
+    "La unidad, la libertad, la justicia y la igualdad"
+   ],
+   "c": 0,
+   "e": "Art. 1.1 CE: «libertad, justicia, igualdad y pluralismo político». Las otras opciones mezclan lemas o valores de otros artículos (la solidaridad está en el art. 2; la unidad, en el art. 2).",
+   "ref": "Art. 1.1 CE"
+  },
+  {
+   "id": "t01-002",
+   "epi": "e3",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Confundir quién representa con quién es titular",
+   "q": "¿En quién reside la soberanía nacional, según la Constitución?",
+   "o": [
+    "En las Cortes Generales",
+    "En el pueblo español",
+    "En el Rey, como Jefe del Estado",
+    "En la Nación española a través de sus instituciones"
+   ],
+   "c": 1,
+   "e": "Art. 1.2 CE: «La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado». Las Cortes lo representan (art. 66.1), pero no son su titular.",
+   "ref": "Art. 1.2 CE"
+  },
+  {
+   "id": "t01-003",
+   "epi": "e3",
+   "tipo": "trampa",
+   "dif": 1,
+   "trampa": "Palabra parecida",
+   "q": "La forma política del Estado español es:",
+   "o": [
+    "La Monarquía constitucional",
+    "La Monarquía parlamentaria",
+    "La República parlamentaria",
+    "La Monarquía absoluta"
+   ],
+   "c": 1,
+   "e": "Art. 1.3 CE: «La forma política del Estado español es la Monarquía parlamentaria». «Constitucional» es un término de la teoría política, pero no es el que usa la CE.",
+   "ref": "Art. 1.3 CE"
+  },
+  {
+   "id": "t01-004",
+   "epi": "e3",
+   "tipo": "directa",
+   "dif": 1,
+   "q": "Según el artículo 3, las demás lenguas españolas, distintas del castellano, serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con:",
+   "o": [
+    "Sus Estatutos",
+    "Una ley orgánica estatal",
+    "Lo que decidan las Cortes Generales",
+    "Lo que acuerde el Gobierno de la Nación"
+   ],
+   "c": 0,
+   "e": "Art. 3.2 CE: «de acuerdo con sus Estatutos». La oficialidad depende del Estatuto de cada Comunidad Autónoma.",
+   "ref": "Art. 3.2 CE"
+  },
+  {
+   "id": "t01-005",
+   "epi": "e3",
+   "tipo": "directa",
+   "dif": 1,
+   "q": "La bandera de España, según el artículo 4 de la Constitución, está formada por:",
+   "o": [
+    "Tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
+    "Tres franjas verticales, roja, amarilla y roja, con la amarilla de doble anchura",
+    "Tres franjas horizontales de igual anchura: roja, amarilla y roja",
+    "Tres franjas horizontales: amarilla, roja y amarilla, con la roja de doble anchura"
+   ],
+   "c": 0,
+   "e": "Art. 4.1 CE: tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+   "ref": "Art. 4.1 CE"
+  },
+  {
+   "id": "t01-006",
+   "epi": "e3",
+   "tipo": "directa",
+   "dif": 1,
+   "q": "¿Qué artículo de la Constitución establece que la capital del Estado es la villa de Madrid?",
+   "o": [
+    "El 4",
+    "El 5",
+    "El 6",
+    "El 3"
+   ],
+   "c": 1,
+   "e": "Art. 5 CE: «La capital del Estado es la villa de Madrid». El art. 4 trata de la bandera, el 6 de los partidos y el 3 de las lenguas.",
+   "ref": "Art. 5 CE"
+  },
+  {
+   "id": "t01-007",
+   "epi": "e3",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "Los artículos 6 y 7 de la Constitución exigen a los partidos políticos, a los sindicatos y a las asociaciones empresariales que:",
+   "o": [
+    "Su estructura interna y funcionamiento sean democráticos",
+    "Se inscriban previamente en un registro del Ministerio del Interior",
+    "Reciban financiación pública para su funcionamiento",
+    "Obtengan una autorización previa del Gobierno para constituirse"
+   ],
+   "c": 0,
+   "e": "Arts. 6 y 7: su creación y actividad son libres (sin autorización previa) dentro del respeto a la Constitución y la ley, y su estructura interna y funcionamiento deberán ser democráticos.",
+   "ref": "Arts. 6 y 7 CE"
+  },
+  {
+   "id": "t01-008",
+   "epi": "e3",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Añadir algo que no está",
+   "q": "Según el artículo 8 de la Constitución, las Fuerzas Armadas están constituidas por:",
+   "o": [
+    "El Ejército de Tierra, la Armada y el Ejército del Aire",
+    "El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil",
+    "El Ejército de Tierra, la Armada, el Ejército del Aire y la Unidad Militar de Emergencias",
+    "El Ejército de Tierra, la Marina y la Aviación"
+   ],
+   "c": 0,
+   "e": "Art. 8.1 CE: Ejército de Tierra, Armada y Ejército del Aire. La Guardia Civil es un cuerpo de seguridad, no está en el art. 8, y la CE dice «Armada», no «Marina».",
+   "ref": "Art. 8.1 CE"
+  },
+  {
+   "id": "t01-009",
+   "epi": "e3",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Principio que no está en la lista",
+   "q": "El artículo 9.3 de la Constitución garantiza todos los siguientes principios, EXCEPTO:",
+   "o": [
+    "La irretroactividad de las disposiciones sancionadoras no favorables",
+    "La seguridad jurídica",
+    "La proporcionalidad de las sanciones",
+    "La interdicción de la arbitrariedad de los poderes públicos"
+   ],
+   "c": 2,
+   "e": "Art. 9.3 CE: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La proporcionalidad no figura en esa lista.",
+   "ref": "Art. 9.3 CE"
+  },
+  {
+   "id": "t01-010",
+   "epi": "e3",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "«Todas» las normas",
+   "q": "Según el artículo 9.3, la Constitución garantiza la irretroactividad de:",
+   "o": [
+    "Todas las normas jurídicas sin excepción",
+    "Las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+    "Solo las normas penales",
+    "Solo las leyes orgánicas"
+   ],
+   "c": 1,
+   "e": "La irretroactividad no es absoluta: se garantiza para las disposiciones sancionadoras no favorables o restrictivas de derechos individuales. Las favorables pueden aplicarse a hechos anteriores.",
+   "ref": "Art. 9.3 CE"
+  },
+  {
+   "id": "t01-011",
+   "epi": "e3",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "¿Qué precepto obliga a los poderes públicos a «remover los obstáculos que impidan o dificulten» la plenitud de la libertad y la igualdad?",
+   "o": [
+    "El artículo 9.2",
+    "El artículo 14",
+    "El artículo 1.1",
+    "El artículo 10"
+   ],
+   "c": 0,
+   "e": "Art. 9.2 CE: promover las condiciones para que libertad e igualdad sean reales y efectivas, remover los obstáculos y facilitar la participación de todos. El art. 14 solo proclama la igualdad ante la ley.",
+   "ref": "Art. 9.2 CE"
+  },
+  {
+   "id": "t01-012",
+   "epi": "e2",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "La Constitución española de 1978 consta de:",
+   "o": [
+    "Preámbulo, Título preliminar, diez Títulos, 169 artículos, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final",
+    "Preámbulo, once Títulos, 178 artículos, cuatro adicionales, cuatro transitorias, una derogatoria y una final",
+    "Preámbulo, Título preliminar, diez Títulos, 155 artículos, cuatro adicionales, nueve transitorias, una derogatoria y una final",
+    "Preámbulo, Título preliminar, nueve Títulos, 169 artículos, tres adicionales, nueve transitorias, una derogatoria y una final"
+   ],
+   "c": 0,
+   "e": "Estructura: Preámbulo + Título preliminar + 10 Títulos (I-X) + 169 artículos + 4 disposiciones adicionales + 9 transitorias + 1 derogatoria + 1 final.",
+   "ref": "Estructura de la CE"
+  },
+  {
+   "id": "t01-013",
+   "epi": "e2",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Títulos que suenan parecido",
+   "q": "¿Qué Título de la Constitución regula la Organización Territorial del Estado?",
+   "o": [
+    "El Título VI",
+    "El Título VII",
+    "El Título VIII",
+    "El Título IX"
+   ],
+   "c": 2,
+   "e": "Título VIII: arts. 137-158. El VI es el Poder Judicial, el VII es Economía y Hacienda y el IX es el Tribunal Constitucional.",
+   "ref": "Título VIII CE"
+  },
+  {
+   "id": "t01-014",
+   "epi": "e2",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "Para la reforma constitucional por el procedimiento ordinario (art. 167), el proyecto debe ser aprobado por:",
+   "o": [
+    "Una mayoría de tres quintos de cada una de las Cámaras",
+    "Una mayoría de dos tercios de cada una de las Cámaras",
+    "La mayoría absoluta del Congreso",
+    "La mayoría simple de las Cortes Generales"
+   ],
+   "c": 0,
+   "e": "Art. 167.1 CE: mayoría de tres quintos de cada una de las Cámaras. Los dos tercios son para el procedimiento agravado del art. 168.",
+   "ref": "Art. 167 CE"
+  },
+  {
+   "id": "t01-015",
+   "epi": "e2",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Procedimiento ordinario vs. agravado",
+   "q": "Una reforma de la Constitución que afecte al Título preliminar exige:",
+   "o": [
+    "Tres quintos de cada Cámara y referéndum facultativo",
+    "Dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación y aprobación del nuevo texto por dos tercios de las nuevas Cámaras y referéndum obligatorio",
+    "Mayoría absoluta del Congreso y del Senado",
+    "Dos tercios del Congreso y mayoría simple del Senado, sin referéndum"
+   ],
+   "c": 1,
+   "e": "Art. 168 CE: aprobación del principio por 2/3 de cada Cámara, disolución inmediata, ratificación y aprobación del texto por 2/3 de las Cámaras elegidas, y referéndum para su ratificación.",
+   "ref": "Art. 168 CE"
+  },
+  {
+   "id": "t01-016",
+   "epi": "e1",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Fecha de entrada en vigor",
+   "q": "La Constitución española de 1978 entró en vigor:",
+   "o": [
+    "El 6 de diciembre de 1978, día del referéndum",
+    "El 27 de diciembre de 1978, día de su sanción por el Rey",
+    "El 29 de diciembre de 1978, día de su publicación en el BOE",
+    "El 31 de octubre de 1978, día de su aprobación por las Cortes"
+   ],
+   "c": 2,
+   "e": "La disposición final dice que «entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado»: el 29-12-1978.",
+   "ref": "Disposición final CE"
+  },
+  {
+   "id": "t01-017",
+   "epi": "e1",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "¿En qué plazo debe el Rey sancionar las leyes aprobadas por las Cortes Generales?",
+   "o": [
+    "Cinco días",
+    "Diez días",
+    "Quince días",
+    "Treinta días"
+   ],
+   "c": 2,
+   "e": "Art. 91 CE: el Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.",
+   "ref": "Art. 91 CE"
+  },
+  {
+   "id": "t01-018",
+   "epi": "e0",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "Para aprobar, modificar o derogar una ley orgánica se exige:",
+   "o": [
+    "Mayoría simple del Congreso",
+    "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto",
+    "Mayoría de tres quintos de cada Cámara",
+    "Mayoría de dos tercios del Congreso"
+   ],
+   "c": 1,
+   "e": "Art. 81.2 CE: mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto. Observa que se refiere al Congreso, no a las dos Cámaras.",
+   "ref": "Art. 81.2 CE"
+  },
+  {
+   "id": "t01-019",
+   "epi": "e0",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "¿Cuál de las siguientes materias debe regularse mediante ley orgánica?",
+   "o": [
+    "Los Estatutos de Autonomía",
+    "La Ley de Presupuestos Generales del Estado",
+    "La regulación de las carreteras del Estado",
+    "El régimen de las tasas de un servicio público concreto"
+   ],
+   "c": 0,
+   "e": "Art. 81.1 CE: son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y libertades públicas, las que aprueben los Estatutos de Autonomía, el régimen electoral general y las demás previstas en la Constitución.",
+   "ref": "Art. 81.1 CE"
+  },
+  {
+   "id": "t01-020",
+   "epi": "e0",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Rango: orgánica vs. ordinaria",
+   "q": "Señale la afirmación correcta sobre las leyes orgánicas y las leyes ordinarias:",
+   "o": [
+    "La ley orgánica tiene siempre rango jerárquico superior a la ordinaria",
+    "Ambas tienen el mismo rango; se diferencian por las materias que regulan y por la mayoría exigida para su aprobación",
+    "La ley ordinaria exige mayoría absoluta del Congreso",
+    "Los decretos-leyes se aprueban por mayoría absoluta de las Cortes Generales"
+   ],
+   "c": 1,
+   "e": "La doctrina del Tribunal Constitucional entiende que su relación no es de jerarquía sino de competencia: cada una regula su ámbito. La orgánica exige mayoría absoluta del Congreso; la ordinaria, mayoría simple. Los decretos-leyes los dicta el Gobierno (art. 86).",
+   "ref": "Arts. 81 y 86 CE"
+  },
+  {
+   "id": "t01-021",
+   "epi": "e0",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Decreto-ley vs. decreto legislativo",
+   "q": "El Gobierno puede dictar disposiciones legislativas provisionales con forma de Decretos-leyes:",
+   "o": [
+    "En caso de extraordinaria y urgente necesidad",
+    "Cuando las Cortes Generales le deleguen expresamente la potestad legislativa",
+    "Siempre que lo considere oportuno, sobre cualquier materia",
+    "Previa autorización del Senado"
+   ],
+   "c": 0,
+   "e": "Art. 86.1 CE: «en caso de extraordinaria y urgente necesidad». La opción B describe el decreto legislativo (arts. 82-85), que se basa en la delegación de las Cortes.",
+   "ref": "Art. 86.1 CE"
+  },
+  {
+   "id": "t01-022",
+   "epi": "e0",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Cámara y plazo equivocados",
+   "q": "Los Decretos-leyes deben ser sometidos a debate y votación de totalidad al Congreso de los Diputados en el plazo de:",
+   "o": [
+    "Quince días siguientes a su promulgación",
+    "Treinta días siguientes a su promulgación",
+    "Dos meses desde su publicación",
+    "Tres meses desde su aprobación por el Gobierno"
+   ],
+   "c": 1,
+   "e": "Art. 86.2 CE: en el plazo de los treinta días siguientes a su promulgación, el Congreso debe pronunciarse expresamente sobre su convalidación o derogación.",
+   "ref": "Art. 86.2 CE"
+  },
+  {
+   "id": "t01-023",
+   "epi": "e0",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Calcular la mayoría absoluta",
+   "q": "El Congreso de los Diputados está compuesto actualmente por 350 diputados. ¿Cuántos votos a favor hacen falta para la mayoría absoluta?",
+   "o": [
+    "175",
+    "176",
+    "210",
+    "234"
+   ],
+   "c": 1,
+   "e": "Mayoría absoluta = más de la mitad de los miembros: más de 175, es decir, 176. 175 es exactamente la mitad y no basta. 210 son los 3/5 y 234 los 2/3.",
+   "ref": "Concepto de mayoría absoluta"
+  },
+  {
+   "id": "t01-024",
+   "epi": "e0",
+   "tipo": "directa",
+   "dif": 1,
+   "q": "Se alcanza la mayoría simple cuando:",
+   "o": [
+    "Hay más votos a favor que en contra",
+    "Vota a favor más de la mitad de los miembros de la Cámara",
+    "Votan a favor tres quintos de los miembros",
+    "Todos los miembros votan a favor"
+   ],
+   "c": 0,
+   "e": "Mayoría simple: más votos afirmativos que negativos, sin contar abstenciones. La absoluta es más de la mitad de los miembros; la de 3/5 es una mayoría reforzada.",
+   "ref": "Concepto de mayoría simple"
+  },
+  {
+   "id": "t01-025",
+   "epi": "e0",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Funciones de Gobierno atribuidas a Cortes",
+   "q": "Entre las funciones que la Constitución atribuye a las Cortes Generales NO se encuentra:",
+   "o": [
+    "Ejercer la potestad legislativa del Estado",
+    "Aprobar los Presupuestos del Estado",
+    "Controlar la acción del Gobierno",
+    "Dirigir la Administración civil y militar"
+   ],
+   "c": 3,
+   "e": "Art. 66.2 CE: las Cortes ejercen la potestad legislativa, aprueban los Presupuestos y controlan la acción del Gobierno. Dirigir la Administración civil y militar es del Gobierno (art. 97).",
+   "ref": "Arts. 66.2 y 97 CE"
+  },
+  {
+   "id": "t01-026",
+   "epi": "e4",
+   "tipo": "directa",
+   "dif": 1,
+   "q": "Según el artículo 97 de la Constitución, ¿quién dirige la Administración civil y militar?",
+   "o": [
+    "Las Cortes Generales",
+    "El Gobierno",
+    "El Consejo de Estado",
+    "El Rey"
+   ],
+   "c": 1,
+   "e": "Art. 97 CE: «El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado».",
+   "ref": "Art. 97 CE"
+  },
+  {
+   "id": "t01-027",
+   "epi": "e4",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Centralización vs. descentralización",
+   "q": "Según el artículo 103.1, la Administración Pública actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, coordinación y:",
+   "o": [
+    "Centralización",
+    "Desconcentración",
+    "Autonomía",
+    "Responsabilidad"
+   ],
+   "c": 1,
+   "e": "Art. 103.1 CE: eficacia, jerarquía, descentralización, desconcentración y coordinación. La centralización no figura (es lo contrario de la descentralización).",
+   "ref": "Art. 103.1 CE"
+  },
+  {
+   "id": "t01-028",
+   "epi": "e4",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Descentralización vs. desconcentración",
+   "q": "El traslado de una competencia desde un órgano superior a otro órgano inferior de la misma Administración, sin salir de ella, se denomina:",
+   "o": [
+    "Descentralización",
+    "Desconcentración",
+    "Coordinación",
+    "Avocación"
+   ],
+   "c": 1,
+   "e": "Desconcentración: la competencia pasa a un órgano inferior de la misma Administración. Descentralización: pasa a otra persona jurídica distinta. Avocación: el superior asume una competencia del inferior (lo contrario).",
+   "ref": "Art. 103.1 CE"
+  },
+  {
+   "id": "t01-029",
+   "epi": "e4",
+   "tipo": "directa",
+   "dif": 1,
+   "q": "El acceso a la función pública se regula, según el artículo 103.3, de acuerdo con los principios de:",
+   "o": [
+    "Mérito y capacidad",
+    "Igualdad y publicidad",
+    "Antigüedad y experiencia",
+    "Idoneidad y objetividad"
+   ],
+   "c": 0,
+   "e": "Art. 103.3 CE: «el acceso a la función pública de acuerdo con los principios de mérito y capacidad».",
+   "ref": "Art. 103.3 CE"
+  },
+  {
+   "id": "t01-030",
+   "epi": "e4",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Fuerza mayor vs. caso fortuito",
+   "q": "Según el artículo 106.2, los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, salvo en los casos de:",
+   "o": [
+    "Caso fortuito",
+    "Fuerza mayor",
+    "Culpa del interesado",
+    "Ninguno: siempre hay derecho a indemnización"
+   ],
+   "c": 1,
+   "e": "Art. 106.2 CE: «salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos». El caso fortuito no exime.",
+   "ref": "Art. 106.2 CE"
+  },
+  {
+   "id": "t01-031",
+   "epi": "e4",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Órganos que se parecen",
+   "q": "¿Cuál es, según la Constitución, el supremo órgano consultivo del Gobierno?",
+   "o": [
+    "El Tribunal de Cuentas",
+    "El Defensor del Pueblo",
+    "El Consejo de Estado",
+    "El Consejo General del Poder Judicial"
+   ],
+   "c": 2,
+   "e": "Art. 107 CE: Consejo de Estado. El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas (art. 136); el Defensor del Pueblo es el alto comisionado de las Cortes (art. 54); el CGPJ es el órgano de gobierno del Poder Judicial (art. 122).",
+   "ref": "Art. 107 CE"
+  },
+  {
+   "id": "t01-032",
+   "epi": "e4",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "¿Quién controla la potestad reglamentaria y la legalidad de la actuación administrativa?",
+   "o": [
+    "Las Cortes Generales",
+    "Los Tribunales",
+    "El Consejo de Estado",
+    "El Defensor del Pueblo"
+   ],
+   "c": 1,
+   "e": "Art. 106.1 CE: «Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican».",
+   "ref": "Art. 106.1 CE"
+  },
+  {
+   "id": "t01-033",
+   "epi": "e4",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Excepciones inventadas",
+   "q": "El artículo 105 establece que el acceso de los ciudadanos a los archivos y registros administrativos NO procede en lo que afecte a:",
+   "o": [
+    "La seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas",
+    "El orden público, el secreto comercial y la intimidad",
+    "La seguridad nacional, la hacienda pública y el secreto profesional",
+    "Cualquier materia que el Gobierno declare reservada"
+   ],
+   "c": 0,
+   "e": "Art. 105.b CE: las tres excepciones son seguridad y defensa del Estado, averiguación de los delitos e intimidad de las personas.",
+   "ref": "Art. 105.b CE"
+  },
+  {
+   "id": "t01-034",
+   "epi": "e5",
+   "tipo": "trampa",
+   "dif": 2,
+   "trampa": "Entidades que no son las del art. 137",
+   "q": "Según el artículo 137, el Estado se organiza territorialmente en:",
+   "o": [
+    "Municipios, comarcas y Comunidades Autónomas",
+    "Municipios, provincias y Comunidades Autónomas que se constituyan",
+    "Provincias y Comunidades Autónomas",
+    "Regiones, nacionalidades y municipios"
+   ],
+   "c": 1,
+   "e": "Art. 137 CE: municipios, provincias y Comunidades Autónomas que se constituyan; todas gozan de autonomía para la gestión de sus respectivos intereses. Las comarcas no están en el art. 137.",
+   "ref": "Art. 137 CE"
+  },
+  {
+   "id": "t01-035",
+   "epi": "e5",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "«Exclusivamente»",
+   "q": "Según el artículo 140 de la Constitución, los Alcaldes serán elegidos:",
+   "o": [
+    "Exclusivamente por los vecinos del municipio",
+    "Por los Concejales o por los vecinos",
+    "Por la Diputación Provincial",
+    "Por el Gobierno, a propuesta del Ayuntamiento"
+   ],
+   "c": 1,
+   "e": "Art. 140 CE: «Los Alcaldes serán elegidos por los Concejales o por los vecinos». Los Concejales sí son elegidos por los vecinos por sufragio universal, igual, libre, directo y secreto.",
+   "ref": "Art. 140 CE"
+  },
+  {
+   "id": "t01-036",
+   "epi": "e5",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "El gobierno y la administración de los municipios corresponde, según la Constitución, a:",
+   "o": [
+    "Las Diputaciones provinciales",
+    "Los Ayuntamientos, integrados por los Alcaldes y los Concejales",
+    "Las Comunidades Autónomas",
+    "Los Alcaldes de forma exclusiva"
+   ],
+   "c": 1,
+   "e": "Art. 140 CE: «Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales».",
+   "ref": "Art. 140 CE"
+  },
+  {
+   "id": "t01-037",
+   "epi": "e5",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Tipo de ley",
+   "q": "Cualquier alteración de los límites provinciales habrá de ser aprobada por:",
+   "o": [
+    "El Gobierno, mediante Real Decreto",
+    "Las Cortes Generales, mediante ley orgánica",
+    "Las Cortes Generales, mediante ley ordinaria",
+    "Las Comunidades Autónomas afectadas, mediante ley autonómica"
+   ],
+   "c": 1,
+   "e": "Art. 141.1 CE: «Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica».",
+   "ref": "Art. 141.1 CE"
+  },
+  {
+   "id": "t01-038",
+   "epi": "e5",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "El gobierno y la administración autónoma de las provincias estarán encomendados, según el artículo 141, a:",
+   "o": [
+    "Diputaciones u otras Corporaciones de carácter representativo",
+    "Los Gobernadores civiles",
+    "Las Delegaciones del Gobierno",
+    "Los Ayuntamientos de las capitales de provincia"
+   ],
+   "c": 0,
+   "e": "Art. 141.2 CE: «Diputaciones u otras Corporaciones de carácter representativo». En los archipiélagos, las islas tienen además Cabildos o Consejos (art. 141.4).",
+   "ref": "Art. 141.2 CE"
+  },
+  {
+   "id": "t01-039",
+   "epi": "e5",
+   "tipo": "directa",
+   "dif": 2,
+   "q": "Las Haciendas locales se nutrirán, según el artículo 142, fundamentalmente de:",
+   "o": [
+    "Solo de transferencias del Estado",
+    "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "Préstamos de las entidades financieras",
+    "Exclusivamente de tasas y precios públicos"
+   ],
+   "c": 1,
+   "e": "Art. 142 CE: «se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas».",
+   "ref": "Art. 142 CE"
+  },
+  {
+   "id": "t01-040",
+   "epi": "e5",
+   "tipo": "trampa",
+   "dif": 3,
+   "trampa": "Artículo 148 vs. 149",
+   "q": "Según el artículo 148.1, las Comunidades Autónomas podrán asumir competencias en materia de:",
+   "o": [
+    "Defensa y Fuerzas Armadas",
+    "Ordenación del territorio, urbanismo y vivienda",
+    "Administración de Justicia",
+    "Legislación mercantil y penal"
+   ],
+   "c": 1,
+   "e": "Art. 148.1.3.ª CE: ordenación del territorio, urbanismo y vivienda. Defensa, Administración de Justicia y legislación mercantil y penal son competencia exclusiva del Estado (art. 149.1).",
+   "ref": "Arts. 148.1.3.ª y 149.1 CE"
+  }
+ ]
 }

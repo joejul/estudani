@@ -72,7 +72,8 @@
     "Nulidad (106): cualquier momento · dictamen favorable del Consejo de Estado",
     "Lesividad (107): actos anulables favorables · 4 años · contencioso",
     "Revocación (109.1): actos de gravamen · Rectificación (109.2): errores materiales, de hecho o aritméticos"
-   ]
+   ],
+   "ic": "🔁"
   },
   {
    "id": "e1",
@@ -140,7 +141,8 @@
     "Recursos contra resoluciones y actos de trámite cualificados (112)",
     "Fin de la vía administrativa (114) · causas de inadmisión (116)",
     "Resolución: estima, desestima o inadmite · sin agravar (119.3)"
-   ]
+   ],
+   "ic": "📑"
   },
   {
    "id": "e2",
@@ -222,7 +224,8 @@
     "Alzada: superior jerárquico · 1 mes / 3 meses",
     "Reposición: mismo órgano · potestativa · 1 mes / 1 mes",
     "Extraordinario de revisión: actos firmes, 4 motivos (125)"
-   ]
+   ],
+   "ic": "📨"
   }
  ],
  "mapa": {

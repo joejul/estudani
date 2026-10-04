@@ -55,4 +55,5 @@ def main():
                 x = bloques[k][1]
                 print(f'[{n}]', re.sub(r'\s+', ' ', x)[:mx]); print()
             else: print(f'[{n}] (no existe)')
-main()
+if __name__ == '__main__':
+    main()

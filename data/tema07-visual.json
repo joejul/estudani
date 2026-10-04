@@ -77,7 +77,8 @@
      "t",
      "Si no se subsana, se tiene por desistido"
     ]
-   ]
+   ],
+   "ic": "🚦"
   },
   {
    "id": "h-instruccion",
@@ -122,7 +123,8 @@
      "n",
      "Información pública: no inferior a 20 días"
     ]
-   ]
+   ],
+   "ic": "🔎"
   },
   {
    "id": "h-fin",
@@ -158,7 +160,8 @@
      "d",
      "Ejecutividad inmediata salvo suspensión, sancionadoras recurribles, disposición contraria o aprobación superior"
     ]
-   ]
+   ],
+   "ic": "🏁"
   }
  ],
  "esquema": [

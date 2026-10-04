@@ -79,7 +79,8 @@
     "Municipios: actividad urbanística pública (8)",
     "Urbano: consolidado · no consolidado · Urbanizable: delimitado · no delimitado · No urbanizable: genérico (residual) · especial",
     "Clasifica el plan general (11) · solar = suelo urbano urbanizado apto para uso inmediato (14)"
-   ]
+   ],
+   "ic": "🌍"
   },
   {
    "id": "e1",
@@ -149,7 +150,8 @@
     "Plan general: clasifica y ordena la estructura (38-40) · aprueba definitivamente el Consejo Provincial de Urbanismo (49)",
     "Desarrollo: plan parcial (sectores) · plan especial · estudio de detalle (completa o adapta)",
     "Los planes obligan a todos (79) y son ejecutivos (80)"
-   ]
+   ],
+   "ic": "📐"
   },
   {
    "id": "e2",
@@ -242,7 +244,8 @@
     "Aisladas (suelo urbano consolidado) · integradas (unidad de ejecución)",
     "Directa: expropiación · cooperación · Indirecta: compensación (junta) · urbanizador (programa)",
     "Reparcelación: agrupar y redividir las fincas (140)"
-   ]
+   ],
+   "ic": "🚜"
   },
   {
    "id": "e3",
@@ -351,7 +354,8 @@
     "Licencia (Alcalde, desde la adopción) · declaración responsable y comunicación previa (desde la presentación)",
     "Silencio negativo en licencias (239) · conservación y órdenes de ejecución (254) · ruina inminente (262)",
     "Infracciones: leves 600-6.000 € (1 año, Alcalde) · graves hasta 60.000 € (4 años, Pleno) · muy graves hasta 300.000 € (10 años, Pleno)"
-   ]
+   ],
+   "ic": "🏗️"
   }
  ],
  "mapa": {

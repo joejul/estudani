@@ -77,7 +77,8 @@
      "t",
      "No se puede dispensar individualmente de su observancia"
     ]
-   ]
+   ],
+   "ic": "📘"
   },
   {
    "id": "h-aprobacion",
@@ -117,7 +118,8 @@
      "d",
      "Zaragoza: Comisión dictamina; el Pleno aprueba en acto único"
     ]
-   ]
+   ],
+   "ic": "📝"
   },
   {
    "id": "h-vigencia",
@@ -153,7 +155,8 @@
      "d",
      "Catástrofe: el Alcalde adopta medidas y da cuenta al Pleno"
     ]
-   ]
+   ],
+   "ic": "📣"
   }
  ],
  "esquema": [

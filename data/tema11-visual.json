@@ -87,7 +87,8 @@
      "t",
      "Las ordenanzas no crean nuevas infracciones, solo adaptan"
     ]
-   ]
+   ],
+   "ic": "👮"
   },
   {
    "id": "h-servicio",
@@ -124,7 +125,8 @@
      "t",
      "La concesión es gestión indirecta, no directa"
     ]
-   ]
+   ],
+   "ic": "🚌"
   },
   {
    "id": "h-fomento",
@@ -156,7 +158,8 @@
      "d",
      "La entidad comprueba la aplicación efectiva de lo concedido"
     ]
-   ]
+   ],
+   "ic": "🎁"
   }
  ],
  "esquema": [

@@ -76,7 +76,8 @@
      "t",
      "Las potestades públicas son de funcionarios de carrera"
     ]
-   ]
+   ],
+   "ic": "👥"
   },
   {
    "id": "h-interinos",
@@ -112,7 +113,8 @@
      "t",
      "El exceso de tareas es de 9 meses, no 3 años"
     ]
-   ]
+   ],
+   "ic": "⏱️"
   },
   {
    "id": "h-derechos",
@@ -152,7 +154,8 @@
      "d",
      "Evaluación del desempeño (20): mide conducta profesional y rendimiento"
     ]
-   ]
+   ],
+   "ic": "🎖️"
   },
   {
    "id": "h-deberes",
@@ -180,7 +183,8 @@
      "d",
      "Ejemplaridad · austeridad · accesibilidad · eficacia"
     ]
-   ]
+   ],
+   "ic": "📏"
   },
   {
    "id": "h-repres",
@@ -212,7 +216,8 @@
      "t",
      "Para 6-49 funcionarios no hay Junta de Personal"
     ]
-   ]
+   ],
+   "ic": "🗣️"
   }
  ],
  "esquema": [

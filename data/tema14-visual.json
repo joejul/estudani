@@ -90,7 +90,8 @@
      "q",
      "El Ayuntamiento forma, mantiene y custodia el padrón"
     ]
-   ]
+   ],
+   "ic": "🏘️"
   },
   {
    "id": "h-servicios",
@@ -131,7 +132,8 @@
      "t",
      "Biblioteca: 5.000; protección civil: 20.000; transporte: 50.000"
     ]
-   ]
+   ],
+   "ic": "🚰"
   },
   {
    "id": "h-gran",
@@ -176,7 +178,8 @@
      "t",
      "El proyecto de presupuesto lo aprueba la JGL"
     ]
-   ]
+   ],
+   "ic": "🏙️"
   },
   {
    "id": "h-zaragoza",
@@ -216,7 +219,8 @@
      "n",
      "Convenio económico-financiero: mínimo 4 años"
     ]
-   ]
+   ],
+   "ic": "🏰"
   }
  ],
  "esquema": [

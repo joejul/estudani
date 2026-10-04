@@ -1,7 +1,7 @@
 // Service worker: la app funciona sin conexión.
 // Estrategia: red primero y, si falla, caché. Así los cambios de contenido llegan en cuanto hay
 // conexión y, sin ella, se usa la última versión descargada.
-const CACHE = 'estudani-v8';
+const CACHE = 'estudani-v9';
 const PRECACHE = [
   './',
   'index.html',

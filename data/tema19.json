@@ -69,7 +69,8 @@
    ],
    "esquema": [
     "A (A1, A2): Grado · B: Técnico Superior · C1: Bachiller o Técnico · C2: ESO · AP: sin titulación"
-   ]
+   ],
+   "ic": "🪜"
   },
   {
    "id": "e1",
@@ -170,7 +171,8 @@
     "AG: Técnica · Gestión · Administrativa · Auxiliar · Subalterna",
     "AE: Técnica · Servicios Especiales (Policía Local, Incendios, Cometidos Especiales, Oficios, Agentes forestales)",
     "Habilitación nacional: Secretaría · Intervención-tesorería · Secretaría-intervención"
-   ]
+   ],
+   "ic": "🧩"
   },
   {
    "id": "e2",
@@ -212,7 +214,8 @@
    "esquema": [
     "Rigen: LBRL → TREBEP → legislación estatal → legislación autonómica (92.1)",
     "Básicas: iguales que en todo el Estado · complementarias: cuantía global la fija el Pleno (93)"
-   ]
+   ],
+   "ic": "📚"
   }
  ],
  "mapa": {

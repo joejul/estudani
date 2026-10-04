@@ -98,7 +98,8 @@
     "Reserva discapacidad: 7 % (2 % intelectual + resto otras) (59)",
     "Adquisición: proceso selectivo → nombramiento → acatamiento → toma de posesión (62)",
     "Pérdida: renuncia · nacionalidad · jubilación · separación · inhabilitación (63)"
-   ]
+   ],
+   "ic": "🚪"
   },
   {
    "id": "e1",
@@ -183,7 +184,8 @@
     "Excedencia: interés particular · agrupación familiar · cuidado de familiares · violencia de género · violencia terrorista (89)",
     "Interés particular: 5 años de servicios; sin retribución",
     "Suspensión > 6 meses: pierde el puesto (90)"
-   ]
+   ],
+   "ic": "🔄"
   },
   {
    "id": "e2",
@@ -283,7 +285,8 @@
     "Faltas: muy graves · graves · leves (95)",
     "Sanciones: separación · despido · suspensión ≤ 6 años · traslado · demérito · apercibimiento (96)",
     "Prescripción faltas 3 años / 2 años / 6 meses; sanciones 3 / 2 / 1 año (97)"
-   ]
+   ],
+   "ic": "🚨"
   }
  ],
  "mapa": {

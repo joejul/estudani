@@ -75,7 +75,8 @@
     "Dominio público: uso público · servicio público · comunales",
     "Patrimoniales o de propios: no afectos, fuente de ingresos",
     "Parcelas sobrantes y efectos no utilizables → patrimoniales (7 RD 1372/1986)"
-   ]
+   ],
+   "ic": "🏠"
   },
   {
    "id": "e1",
@@ -145,7 +146,8 @@
     "Dominio público y comunales: inalienables, inembargables, imprescriptibles, sin tributo (80.1)",
     "Patrimoniales: legislación específica y derecho privado (80.2)",
     "Recuperación: público siempre; patrimonial 1 año (82) · inventario anual (175)"
-   ]
+   ],
+   "ic": "🔒"
   },
   {
    "id": "e2",
@@ -203,7 +205,8 @@
     "Alteración expresa: expediente · Pleno · información pública 1 mes · mayoría absoluta (dominio público)",
     "Automática: planes urbanos y proyectos · patrimoniales > 25 años a un servicio · cesión obligatoria",
     "Desafectación de comunales: > 10 años sin uso, mayoría absoluta y aprobación del Gobierno de Aragón"
-   ]
+   ],
+   "ic": "🔄"
   },
   {
    "id": "e3",
@@ -273,7 +276,8 @@
     "Patrimoniales: rentabilidad económica o social (99.1)",
     "Dominio público con instalaciones fijas: concesión, máx. 50 años, en concurrencia (83; Ley 33/2003, 93)",
     "Principios: publicidad, transparencia, concurrencia, objetividad (Ley 33/2003, 8)"
-   ]
+   ],
+   "ic": "🔑"
   }
  ],
  "mapa": {

@@ -70,7 +70,8 @@
     "Capacidad de obrar (3): personas, menores (con límites), grupos de afectados si la ley lo dice",
     "Interesado (4.1): a) promueve · b) derechos afectados · c) intereses afectados y se persona",
     "4.2 asociaciones · 4.3 sucesión del derechohabiente"
-   ]
+   ],
+   "ic": "👤"
   },
   {
    "id": "e1",
@@ -138,7 +139,8 @@
    ],
    "esquema": [
     "Representación (5) · nuevos interesados (8) · identificación (9) · firma (10-11) · asistencia electrónica (12)"
-   ]
+   ],
+   "ic": "✍️"
   }
  ],
  "mapa": {

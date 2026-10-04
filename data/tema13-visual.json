@@ -91,7 +91,8 @@
      "t",
      "Los intereses son gasto corriente"
     ]
-   ]
+   ],
+   "ic": "📊"
   },
   {
    "id": "h-aprobacion",
@@ -140,7 +141,8 @@
      "t",
      "La prórroga es automática, no se acuerda"
     ]
-   ]
+   ],
+   "ic": "🗳️"
   },
   {
    "id": "h-capital",
@@ -180,7 +182,8 @@
      "t",
      "15 de octubre es del proyecto al Pleno; 31 de diciembre es de la aprobación definitiva general"
     ]
-   ]
+   ],
+   "ic": "🏙️"
   },
   {
    "id": "h-modif",
@@ -229,7 +232,8 @@
      "t",
      "Sin crédito = extraordinario; crédito corto = suplemento"
     ]
-   ]
+   ],
+   "ic": "🔧"
   },
   {
    "id": "h-ejec",
@@ -270,7 +274,8 @@
      "t",
      "Disposición con relevancia frente a terceros; autorización no"
     ]
-   ]
+   ],
+   "ic": "💸"
   },
   {
    "id": "h-cierre",
@@ -302,7 +307,8 @@
      "t",
      "El interventor responde solo si no advierte por escrito"
     ]
-   ]
+   ],
+   "ic": "📕"
   }
  ],
  "esquema": [

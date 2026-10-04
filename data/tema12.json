@@ -1,112 +1,882 @@
 {
-  "n": 12,
-  "titulo": "Haciendas locales (I): recursos",
-  "fuente": "Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales (BOE-A-2004-4214), texto consolidado del BOE.",
-  "verificado": "2026-10-04",
-  "epigrafes": [
-    {
-      "id": "e0", "titulo": "Los recursos de las haciendas locales", "subtitulo": "Art. 2: de dónde sale el dinero del ayuntamiento",
-      "clave": ["Los 8 recursos del art. 2", "Tributos = tasas, contribuciones especiales e impuestos", "Precios públicos NO son tributos", "Derecho privado (art. 4)", "Limitación de destino (art. 5)"],
-      "bloques": [
-        ["p", "La [[hacienda-local|hacienda local]] es el conjunto de ingresos con los que el ayuntamiento paga sus servicios. El **art. 2.1** enumera ocho recursos. Aprende el orden: casi todas las preguntas piden «cuál NO es» o «cuál sí»."],
-        ["lista", ["**a)** Ingresos de su **patrimonio** y demás de **derecho privado**.", "**b)** **Tributos propios** (tasas, contribuciones especiales e impuestos) y **recargos** sobre impuestos de las CCAA u otras entidades locales.", "**c)** **Participaciones** en los tributos del Estado y de las CCAA.", "**d)** **Subvenciones**.", "**e)** **Precios públicos**.", "**f)** Producto de **operaciones de crédito**.", "**g)** Producto de **multas y sanciones** de su competencia.", "**h)** Demás prestaciones de **derecho público**."]],
-        ["tabla", ["Art.", "Regla"], [["4", "Los ingresos de **derecho privado** (patrimonio) se cobran con las normas y procedimientos del **derecho privado**."], ["5", "Lo obtenido al **vender o gravar bienes patrimoniales** no puede pagar **gastos corrientes**. Excepción: parcelas sobrantes de vías públicas no edificables o efectos no utilizables en servicios municipales o provinciales."]]],
-        ["ejemplo", "Si el Ayuntamiento vende un solar patrimonial, ese dinero va a inversiones (una escuela, una obra), **no** a pagar nóminas ni la luz de los edificios."],
-        ["trampa", "Los **tributos** son solo tres: tasas, contribuciones especiales e impuestos. Los **precios públicos** son otro recurso distinto (letra e), no un tributo."]
-      ],
-      "flash": [["¿Cuáles son los tres tributos propios locales?", "Tasas, contribuciones especiales e impuestos."], ["¿A qué no pueden destinarse los ingresos por vender bienes patrimoniales?", "A gastos corrientes (art. 5), salvo parcelas sobrantes de vías públicas no edificables o efectos no utilizables."]],
-      "esquema": ["Art. 2.1: patrimonio · tributos y recargos · participaciones · subvenciones · precios públicos · crédito · multas · otras prestaciones de derecho público", "Art. 4: derecho privado", "Art. 5: la venta de patrimonio no financia gasto corriente"]
-    },
-    {
-      "id": "e1", "titulo": "Tasas y precios públicos", "subtitulo": "Arts. 20 a 27 y 41 a 47",
-      "clave": ["Hecho imponible de la tasa (art. 20)", "Servicios sin tasa (art. 21.1)", "Ejemplos de tasa", "Precio público: concepto (art. 41)", "No precio público en los del art. 21 (art. 42)", "Cuantía del precio público (art. 44)"],
-      "bloques": [
-        ["p", "Una **tasa** se paga por usar algo público o recibir un servicio del ayuntamiento que te beneficia **de modo particular**. Un **precio público** también paga un servicio, pero cuando **no** se dan las circunstancias que convierten el cobro en tasa."],
-        ["h", "Cuándo es tasa (art. 20)"],
-        ["lista", ["**A)** Utilización privativa o aprovechamiento especial del **dominio público** local.", "**B)** Servicio o actividad en régimen de derecho público que beneficie de modo particular al sujeto pasivo, **si se da cualquiera** de estas circunstancias: **a)** no es de solicitud o recepción **voluntaria** (impuesta por ley o imprescindible para la vida privada o social) o **b)** no lo presta el **sector privado**."]],
-        ["tabla", ["", "Tasa", "Precio público"], [["Qué paga", "Uso del dominio público o servicio no voluntario / que no presta el sector privado", "Servicio o actividad de competencia local sin esas circunstancias"], ["Artículos", "20 a 27", "41 a 47"], ["Importe", "Según la ordenanza fiscal", "Debe cubrir **como mínimo el coste** (art. 44.1)"], ["Rebaja", "—", "Por razones sociales, benéficas, culturales o de interés público, con dotación en el presupuesto (44.2)"]]],
-        ["h", "Servicios por los que NO se puede exigir tasa (art. 21.1)"],
-        ["p", "Son seis: **agua en fuentes públicas, alumbrado de vías públicas, vigilancia pública en general, protección civil, limpieza de la vía pública y enseñanza obligatoria**. El **art. 42** extiende la misma lista a los precios públicos: tampoco pueden exigirse."],
-        ["ejemplo", "Sí hay tasa por **mesas y sillas en la terraza** con fin lucrativo (20.3.l), por **estacionamiento regulado** (20.3.u) o por **expedir documentos** a instancia de parte (20.4.a)."],
-        ["trampa", "Por la **limpieza de la vía pública** no se pueden exigir **ni tasas ni precios públicos**. Si una opción dice «podrán exigir precios públicos», es falsa."]
-      ],
-      "flash": [["¿Qué seis servicios no pueden dar lugar a tasa?", "Agua en fuentes públicas, alumbrado de vías públicas, vigilancia pública, protección civil, limpieza de la vía pública y enseñanza obligatoria."], ["¿Qué mínimo debe cubrir un precio público?", "El coste del servicio (art. 44.1), salvo rebaja por razones sociales, benéficas, culturales o de interés público con dotación presupuestaria."], ["¿Hacen falta las dos circunstancias del art. 20.1.B para que sea tasa?", "No: basta cualquiera de las dos (no voluntaria o no prestada por el sector privado)."]],
-      "esquema": ["Tasa: dominio público o servicio (no voluntario / no privado) · arts. 20-27", "Sin tasa (21.1): agua fuentes, alumbrado, vigilancia, protección civil, limpieza vía pública, enseñanza obligatoria", "Precio público: art. 41 · no en los del art. 21 (art. 42) · ≥ coste (art. 44)"]
-    },
-    {
-      "id": "e2", "titulo": "Contribuciones especiales", "subtitulo": "Arts. 28 a 37",
-      "clave": ["Hecho imponible: beneficio o aumento de valor (art. 28)", "Sujeto pasivo (art. 30)", "Base imponible: máximo 90 % del coste (art. 31.1)", "Devengo (art. 33)", "Acuerdo de imposición previo (art. 34)", "Asociación de contribuyentes (art. 36)"],
-      "bloques": [
-        ["p", "Se pagan cuando una **obra o servicio público local** te beneficia especialmente o aumenta el valor de tus bienes. Ejemplo: se urbaniza tu calle y tu local gana valor; el ayuntamiento reparte parte del coste entre los vecinos beneficiados."],
-        ["tabla", ["Aspecto", "Regla"], [["Hecho imponible (28)", "Obtener un **beneficio o aumento de valor** de bienes por obras públicas o por establecer o ampliar servicios públicos **de carácter local**."], ["Sujetos pasivos (30)", "Personas físicas y jurídicas **especialmente beneficiadas** por la obra o servicio."], ["Base imponible (31.1)", "Como **máximo el 90 %** del coste que soporte la entidad local."], ["Reparto (32)", "Módulos: metros lineales de fachada, superficie, volumen edificable, valor catastral…"], ["Devengo (33)", "Cuando la obra **se ha ejecutado** o el servicio **ha comenzado a prestarse**."], ["Imposición (34)", "Exige **acuerdo de imposición previo** para cada caso concreto."], ["Colaboración (36)", "Los afectados pueden constituir **asociación administrativa de contribuyentes**."]]],
-        ["trampa", "El límite es **90 %** (no 75 ni 80). Y las tasas por un servicio **no impiden** cobrar además contribuciones especiales por establecerlo o ampliarlo (art. 22)."]
-      ],
-      "flash": [["¿Qué porcentaje máximo del coste puede ser base imponible?", "El 90 % (art. 31.1)."], ["¿Cuándo se devengan?", "Cuando la obra se ha ejecutado o el servicio ha comenzado a prestarse (art. 33.1)."]],
-      "esquema": ["HI: beneficio o aumento de valor por obras o servicios locales (28)", "Base imponible ≤ 90 % del coste (31.1)", "Devengo: obra ejecutada o servicio iniciado (33)", "Acuerdo de imposición previo (34)"]
-    },
-    {
-      "id": "e3", "titulo": "Impuestos municipales y participación en tributos del Estado", "subtitulo": "Arts. 59 a 112",
-      "clave": ["3 obligatorios y 2 potestativos (art. 59)", "IBI: directo y real; tipos 0,4-1,10 % / 0,3-0,9 %", "IAE", "IVTM: coeficiente máx. 2", "ICIO: indirecto; tipo máx. 4 %", "IIVTNU: tipo máx. 30 %", "Participación: capitales o ≥ 75.000 hab. (art. 111)"],
-      "bloques": [
-        ["p", "El art. 59 separa los impuestos que el ayuntamiento **debe** exigir de los que **puede** establecer."],
-        ["tabla", ["Impuesto", "Naturaleza y hecho imponible", "Dato que cae en examen"], [["**IBI** (60-77)", "Directo y real. Titularidad de concesión, superficie, usufructo o propiedad de inmuebles.", "Tipo mín. y supletorio 0,4 % urbanos / 0,3 % rústicos; máx. 1,10 % / 0,90 %. Período = año natural (75)."], ["**IAE** (78-91)", "Directo y real. Mero ejercicio de actividades empresariales, profesionales o artísticas.", "Se grava aunque no haya local determinado."], ["**IVTM** (92-99)", "Directo. Titularidad de vehículos de tracción mecánica aptos para circular.", "Coeficiente sobre cuotas **no superior a 2** (95.4). Se devenga el primer día del período (96)."], ["**ICIO** (100-103)", "**Indirecto**. Construcción, instalación u obra que exija licencia (o declaración responsable) en el término municipal.", "Se haya obtenido o no la licencia. Tipo **máx. 4 %** (102.3). Devengo al iniciarse la obra."], ["**IIVTNU** (104-110)", "Directo. Incremento de valor de terrenos urbanos por transmisión o derechos reales de goce.", "Tipo **máx. 30 %** (108.1)."]]],
-        ["lista", ["**Obligatorios (59.1):** IBI, IAE e IVTM.", "**Potestativos (59.2):** ICIO e IIVTNU."]],
-        ["h", "Participación en tributos del Estado"],
-        ["p", "Se ceden porcentajes del rendimiento de impuestos estatales a los municipios que sean **capitales de provincia o de CA**, o tengan **población de derecho igual o superior a 75.000 habitantes** (art. 111)."],
-        ["trampa", "El **ICIO** es el único **indirecto** y se paga **aunque no se haya concedido la licencia** (basta que se exija). Y el IAE se aplica aunque no exista local."]
-      ],
-      "flash": [["¿Qué impuestos son obligatorios y cuáles potestativos?", "Obligatorios: IBI, IAE e IVTM. Potestativos: ICIO e IIVTNU."], ["¿Qué tipo máximo tiene el ICIO y de qué naturaleza es?", "4 % y es un tributo indirecto."], ["¿Quién participa en tributos del Estado (art. 111)?", "Capitales de provincia o de CA y municipios con 75.000 habitantes o más."]],
-      "esquema": ["Obligatorios: IBI · IAE · IVTM", "Potestativos: ICIO · IIVTNU", "ICIO indirecto, ≤ 4 % · IIVTNU ≤ 30 % · IVTM coef. ≤ 2", "Participación: capitales o ≥ 75.000 habitantes"]
-    }
-  ],
-  "mapa": {
-    "titulo": "Haciendas locales: recursos",
-    "ramas": [
-      { "titulo": "Recursos (art. 2)", "color": "#247ba0", "hijos": [
-        { "titulo": "Los 8 recursos", "hijos": [{ "titulo": "Patrimonio y derecho privado" }, { "titulo": "Tributos propios y recargos" }, { "titulo": "Participaciones en tributos" }, { "titulo": "Subvenciones · precios públicos" }, { "titulo": "Crédito · multas · otras prestaciones" }] },
-        { "titulo": "Reglas", "hijos": [{ "titulo": "Art. 4: derecho privado" }, { "titulo": "Art. 5: la venta de patrimonio no paga gasto corriente" }] }] },
-      { "titulo": "Tasas y precios públicos", "color": "#f25f5c", "hijos": [
-        { "titulo": "Tasa (20-27)", "hijos": [{ "titulo": "Dominio público o servicio particular" }, { "titulo": "No voluntario o no privado (basta una)" }] },
-        { "titulo": "Sin tasa (21.1)", "hijos": [{ "titulo": "Agua en fuentes · alumbrado" }, { "titulo": "Vigilancia · protección civil" }, { "titulo": "Limpieza vía pública · enseñanza obligatoria" }] },
-        { "titulo": "Precio público (41-47)", "hijos": [{ "titulo": "No en los servicios del art. 21" }, { "titulo": "Cubre como mínimo el coste" }] }] },
-      { "titulo": "Contribuciones especiales", "color": "#70c1b3", "hijos": [
-        { "titulo": "Qué son", "hijos": [{ "titulo": "Beneficio o aumento de valor" }, { "titulo": "Obras o servicios públicos locales" }] },
-        { "titulo": "Reglas", "hijos": [{ "titulo": "Base imponible ≤ 90 % del coste" }, { "titulo": "Devengo: obra ejecutada o servicio iniciado" }, { "titulo": "Acuerdo de imposición previo" }] }] },
-      { "titulo": "Impuestos municipales", "color": "#ffe066", "hijos": [
-        { "titulo": "Obligatorios", "hijos": [{ "titulo": "IBI" }, { "titulo": "IAE" }, { "titulo": "IVTM" }] },
-        { "titulo": "Potestativos", "hijos": [{ "titulo": "ICIO (indirecto, ≤ 4 %)" }, { "titulo": "IIVTNU (≤ 30 %)" }] },
-        { "titulo": "Participación en tributos del Estado", "hijos": [{ "titulo": "Capitales de provincia o de CA" }, { "titulo": "≥ 75.000 habitantes" }] }] }
+ "n": 12,
+ "titulo": "Haciendas locales (I): recursos",
+ "fuente": "Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales (BOE-A-2004-4214), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Los recursos de las haciendas locales",
+   "subtitulo": "Art. 2: de dónde sale el dinero del ayuntamiento",
+   "clave": [
+    "Los 8 recursos del art. 2",
+    "Tributos = tasas, contribuciones especiales e impuestos",
+    "Precios públicos NO son tributos",
+    "Derecho privado (art. 4)",
+    "Limitación de destino (art. 5)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La [[hacienda-local|hacienda local]] es el conjunto de ingresos con los que el ayuntamiento paga sus servicios. El **art. 2.1** enumera ocho recursos. Aprende el orden: casi todas las preguntas piden «cuál NO es» o «cuál sí»."
     ],
-    "conexiones": [
-      { "de": "Art. 21.1 (sin tasa)", "a": "Art. 42 (sin precio público)", "porque": "Los seis servicios del art. 21 quedan fuera tanto de las tasas como de los precios públicos." },
-      { "de": "Art. 22 (tasa por servicio)", "a": "Art. 28 (contribución especial)", "porque": "Se puede cobrar tasa por el servicio y, además, contribución especial por establecerlo o ampliarlo." },
-      { "de": "Art. 59.1 (IBI, IAE, IVTM)", "a": "Art. 15 (ordenanzas fiscales)", "porque": "Los impuestos obligatorios no necesitan acuerdo de imposición; el ayuntamiento solo usa sus facultades de fijar cuotas." }
+    [
+     "lista",
+     [
+      "**a)** Ingresos de su **patrimonio** y demás de **derecho privado**.",
+      "**b)** **Tributos propios** (tasas, contribuciones especiales e impuestos) y **recargos** sobre impuestos de las CCAA u otras entidades locales.",
+      "**c)** **Participaciones** en los tributos del Estado y de las CCAA.",
+      "**d)** **Subvenciones**.",
+      "**e)** **Precios públicos**.",
+      "**f)** Producto de **operaciones de crédito**.",
+      "**g)** Producto de **multas y sanciones** de su competencia.",
+      "**h)** Demás prestaciones de **derecho público**."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "4",
+       "Los ingresos de **derecho privado** (patrimonio) se cobran con las normas y procedimientos del **derecho privado**."
+      ],
+      [
+       "5",
+       "Lo obtenido al **vender o gravar bienes patrimoniales** no puede pagar **gastos corrientes**. Excepción: parcelas sobrantes de vías públicas no edificables o efectos no utilizables en servicios municipales o provinciales."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "Si el Ayuntamiento vende un solar patrimonial, ese dinero va a inversiones (una escuela, una obra), **no** a pagar nóminas ni la luz de los edificios."
+    ],
+    [
+     "trampa",
+     "Los **tributos** son solo tres: tasas, contribuciones especiales e impuestos. Los **precios públicos** son otro recurso distinto (letra e), no un tributo."
     ]
+   ],
+   "flash": [
+    [
+     "¿Cuáles son los tres tributos propios locales?",
+     "Tasas, contribuciones especiales e impuestos."
+    ],
+    [
+     "¿A qué no pueden destinarse los ingresos por vender bienes patrimoniales?",
+     "A gastos corrientes (art. 5), salvo parcelas sobrantes de vías públicas no edificables o efectos no utilizables."
+    ]
+   ],
+   "esquema": [
+    "Art. 2.1: patrimonio · tributos y recargos · participaciones · subvenciones · precios públicos · crédito · multas · otras prestaciones de derecho público",
+    "Art. 4: derecho privado",
+    "Art. 5: la venta de patrimonio no financia gasto corriente"
+   ],
+   "ic": "💰"
   },
-  "preguntas": [
-    ["Según el art. 2.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, ¿cuál NO es un recurso de las entidades locales?", ["El producto de las multas y sanciones en el ámbito de sus competencias", "Los impuestos sobre la renta de las personas físicas recaudados íntegramente por la entidad local", "Las participaciones en los tributos del Estado y de las comunidades autónomas"], 1, "Art. 2.1: patrimonio, tributos propios y recargos, participaciones, subvenciones, precios públicos, crédito, multas y demás prestaciones de derecho público. El IRPF no figura como tributo propio local.", "Art. 2.1 TRLRHL", "Recurso que no está en la lista", "h-recursos"],
-    ["Los ingresos de la hacienda local procedentes de su patrimonio y demás de derecho privado se harán efectivos, según el art. 4:", ["Con sujeción a las normas y procedimientos del derecho privado", "Por el procedimiento de apremio tributario", "Por el procedimiento administrativo común, siempre"], 0, "Art. 4: la efectividad de estos derechos se lleva a cabo con sujeción a las normas y procedimientos del derecho privado.", "Art. 4 TRLRHL", "", "h-recursos"],
-    ["Los ingresos procedentes de la enajenación de bienes patrimoniales NO podrán destinarse a la financiación de gastos corrientes, salvo que se trate de:", ["Bienes muebles de escaso valor", "Parcelas sobrantes de vías públicas no edificables o de efectos no utilizables en servicios municipales o provinciales", "Cualquier bien cuya venta se acuerde por mayoría absoluta del pleno"], 1, "Art. 5: la excepción es solo para parcelas sobrantes de vías públicas no edificables o efectos no utilizables en servicios municipales o provinciales.", "Art. 5 TRLRHL", "Excepciones inventadas", "h-recursos"],
-    ["Los tributos propios de las entidades locales se clasifican en:", ["Tasas, precios públicos e impuestos", "Tasas, contribuciones especiales e impuestos", "Tasas, contribuciones especiales y precios públicos"], 1, "Art. 2.1.b: tributos propios clasificados en tasas, contribuciones especiales e impuestos. Los precios públicos son un recurso distinto (art. 2.1.e).", "Art. 2.1.b TRLRHL", "Precio público no es tributo", "h-recursos"],
-    ["Para que la prestación de un servicio público dé lugar a una tasa (art. 20.1.B), ¿qué circunstancias deben concurrir?", ["Cualquiera de las dos: que no sea de solicitud o recepción voluntaria, o que no se preste por el sector privado", "Las dos a la vez", "Ninguna: basta que lo preste el ayuntamiento"], 0, "Art. 20.1.B: «cuando se produzca cualquiera de las circunstancias siguientes»: a) no voluntaria, b) no prestada por el sector privado.", "Art. 20.1.B TRLRHL", "Cualquiera frente a ambas", "h-tasa", ["Cualquiera de las dos"]],
-    ["¿Por cuál de estos servicios las entidades locales NO podrán exigir tasas (art. 21.1)?", ["Estacionamiento de vehículos en zonas reguladas", "Limpieza de la vía pública", "Expedición de documentos a instancia de parte"], 1, "Art. 21.1: sin tasa por agua en fuentes públicas, alumbrado, vigilancia pública, protección civil, limpieza de la vía pública y enseñanza obligatoria. Estacionamiento (20.3.u) y documentos (20.4.a) sí.", "Art. 21.1 TRLRHL", "", "h-sin-tasa", ["Limpieza de la vía pública"]],
-    ["De acuerdo con los arts. 21.1 y 42, por el servicio de limpieza de la vía pública:", ["Las entidades locales no podrán exigir tasas", "Las entidades locales podrán exigir precios públicos", "Las respuestas a) y b) son correctas"], 0, "Art. 21.1.e: no tasas por limpieza de la vía pública. Art. 42: tampoco precios públicos por los servicios del art. 21. Solo la a) es correcta.", "Arts. 21.1 y 42 TRLRHL", "Respuesta combinada a) y b)", "h-sin-tasa", ["Limpieza de la vía pública"]],
-    ["El art. 42 establece que no podrán exigirse precios públicos por:", ["Los servicios y actividades enumerados en el art. 21", "Los servicios prestados en régimen de monopolio", "Los servicios de solicitud voluntaria"], 0, "Art. 42: «No podrán exigirse precios públicos por los servicios y actividades enumerados en el artículo 21».", "Art. 42 TRLRHL", "", "h-sin-tasa"],
-    ["El importe de los precios públicos deberá cubrir, como mínimo:", ["El 50 % del coste del servicio", "El coste del servicio prestado o de la actividad realizada", "El valor de mercado de la utilidad recibida"], 1, "Art. 44.1: como mínimo el coste. Con razones sociales, benéficas, culturales o de interés público puede ser inferior si se consigna en presupuesto la diferencia (44.2).", "Art. 44 TRLRHL", "Porcentaje inventado", "h-tasa", ["coste"]],
-    ["Los precios públicos pueden fijarse por debajo del coste cuando existan razones sociales, benéficas, culturales o de interés público, y en ese caso:", ["No hace falta ninguna previsión presupuestaria", "Deben consignarse en los presupuestos las dotaciones para cubrir la diferencia", "Debe aprobarlo la Comunidad Autónoma"], 1, "Art. 44.2: deben consignarse en los presupuestos las dotaciones oportunas para cubrir la diferencia.", "Art. 44.2 TRLRHL", "", "h-tasa"],
-    ["La base imponible de las contribuciones especiales está constituida, como máximo, por un porcentaje del coste que soporte la entidad local. Dicho porcentaje es:", ["El 75 por ciento", "El 80 por ciento", "El 90 por ciento"], 2, "Art. 31.1: como máximo el 90 por ciento del coste de las obras o del establecimiento o ampliación de los servicios.", "Art. 31.1 TRLRHL", "Porcentaje parecido", "h-contrib", ["90 por ciento"]],
-    ["Constituye el hecho imponible de las contribuciones especiales:", ["La utilización privativa del dominio público local", "La obtención de un beneficio o de un aumento de valor de los bienes como consecuencia de obras públicas o servicios públicos de carácter local", "La realización de cualquier obra para la que se exija licencia"], 1, "Art. 28. La utilización del dominio público es tasa; la obra con licencia es el hecho imponible del ICIO.", "Art. 28 TRLRHL", "Confundir con tasa o con ICIO", "h-contrib", ["beneficio", "aumento de valor"]],
-    ["Las contribuciones especiales se devengan:", ["Cuando se acuerda la imposición", "Cuando las obras se hayan ejecutado o el servicio haya comenzado a prestarse", "El 1 de enero de cada año"], 1, "Art. 33.1: en el momento en que las obras se hayan ejecutado o el servicio haya comenzado a prestarse.", "Art. 33.1 TRLRHL", "", "h-contrib"],
-    ["La exacción de las contribuciones especiales precisará:", ["La previa adopción del acuerdo de imposición en cada caso concreto", "Una ley de la Comunidad Autónoma", "La autorización previa del Estado"], 0, "Art. 34.1: previo acuerdo de imposición en cada caso concreto.", "Art. 34.1 TRLRHL", "", "h-contrib"],
-    ["Las tasas por la prestación de un servicio, ¿excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de ese servicio?", ["Sí, siempre", "No: son compatibles", "Solo si lo aprueba el pleno por mayoría absoluta"], 1, "Art. 22: las tasas por la prestación de servicios no excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de aquellos.", "Art. 22 TRLRHL", "Compatibilidad", "h-contrib"],
-    ["Según el art. 59.1, los ayuntamientos exigirán los siguientes impuestos:", ["IBI, IAE e IVTM", "IBI, ICIO e IIVTNU", "IAE, IVTM e ICIO"], 0, "Art. 59.1: IBI, IAE e IVTM son obligatorios. El ICIO y el IIVTNU son potestativos (59.2).", "Art. 59 TRLRHL", "Obligatorios frente a potestativos", "h-impuestos", ["IBI", "IAE", "IVTM"]],
-    ["El Impuesto sobre Bienes Inmuebles es:", ["Un tributo indirecto de carácter personal", "Un tributo directo de carácter real", "Una tasa de carácter real"], 1, "Art. 60: tributo directo de carácter real que grava el valor de los bienes inmuebles.", "Art. 60 TRLRHL", "", "h-impuestos"],
-    ["El tipo de gravamen mínimo y supletorio del IBI es el:", ["0,4 por ciento para urbanos y 0,3 por ciento para rústicos", "1,10 por ciento para urbanos y 0,90 para rústicos", "0,3 por ciento para urbanos y 0,4 para rústicos"], 0, "Art. 72.1: mínimo y supletorio 0,4 % urbanos y 0,3 % rústicos; máximo 1,10 % y 0,90 %.", "Art. 72.1 TRLRHL", "Mínimo frente a máximo; urbano frente a rústico", "h-impuestos", ["0,4 por ciento"]],
-    ["El hecho imponible del Impuesto sobre Actividades Económicas es:", ["Solo el ejercicio de actividades en local determinado", "El mero ejercicio de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado", "La titularidad de locales de negocio"], 1, "Art. 78.1: mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado y estén o no especificadas en las tarifas.", "Art. 78.1 TRLRHL", "Local determinado", "h-impuestos", ["mero ejercicio"]],
-    ["Los ayuntamientos pueden incrementar las cuotas del IVTM mediante un coeficiente que no podrá ser superior a:", ["1,5", "2", "3"], 1, "Art. 95.4: coeficiente no superior a 2.", "Art. 95.4 TRLRHL", "", "h-impuestos", ["no podrá ser superior"]],
-    ["El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es:", ["La realización de una construcción, instalación u obra que exija licencia o declaración responsable, se haya obtenido o no la licencia", "La realización de obras solo cuando se haya obtenido la licencia", "Ninguna de las respuestas anteriores es correcta"], 0, "Art. 100.1: se haya obtenido o no la correspondiente licencia. Trampas reales: «solo cuando se haya obtenido la licencia» y añadir «independientemente de que la expedición corresponda al ayuntamiento»: el art. 100.1 exige que la licencia o el control corresponda al ayuntamiento de la imposición (examen 2025, reserva 4: «ninguna es correcta»).", "Art. 100.1 TRLRHL", "«Solo si hay licencia»", "h-impuestos", ["se haya obtenido o no"]],
-    ["El tipo de gravamen del ICIO, fijado por cada ayuntamiento, no podrá exceder del:", ["2 por ciento", "4 por ciento", "30 por ciento"], 1, "Art. 102.3: cuatro por cien. El 30 % es el máximo del IIVTNU (art. 108.1).", "Art. 102.3 TRLRHL", "Mezclar ICIO con IIVTNU", "h-impuestos", ["tipo de gravamen", "4 por ciento"]],
-    ["El tipo de gravamen del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana no puede exceder del:", ["4 por ciento", "15 por ciento", "30 por ciento"], 2, "Art. 108.1: no puede exceder del 30 por ciento.", "Art. 108.1 TRLRHL", "", "h-impuestos", ["30 por ciento"]],
-    ["Son beneficiarios de la participación en tributos del Estado (art. 111) los municipios que:", ["Tengan más de 5.000 habitantes", "Sean capitales de provincia o de comunidad autónoma, o tengan población de derecho igual o superior a 75.000 habitantes", "Pertenezcan a una provincia con más de un millón de habitantes"], 1, "Art. 111: capitales de provincia o de CA, o población de derecho igual o superior a 75.000 habitantes (con la población actualizada que fija el precepto).", "Art. 111 TRLRHL", "", "h-impuestos", ["75.000 habitantes"]]
+  {
+   "id": "e1",
+   "titulo": "Tasas y precios públicos",
+   "subtitulo": "Arts. 20 a 27 y 41 a 47",
+   "clave": [
+    "Hecho imponible de la tasa (art. 20)",
+    "Servicios sin tasa (art. 21.1)",
+    "Ejemplos de tasa",
+    "Precio público: concepto (art. 41)",
+    "No precio público en los del art. 21 (art. 42)",
+    "Cuantía del precio público (art. 44)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Una **tasa** se paga por usar algo público o recibir un servicio del ayuntamiento que te beneficia **de modo particular**. Un **precio público** también paga un servicio, pero cuando **no** se dan las circunstancias que convierten el cobro en tasa."
+    ],
+    [
+     "h",
+     "Cuándo es tasa (art. 20)"
+    ],
+    [
+     "lista",
+     [
+      "**A)** Utilización privativa o aprovechamiento especial del **dominio público** local.",
+      "**B)** Servicio o actividad en régimen de derecho público que beneficie de modo particular al sujeto pasivo, **si se da cualquiera** de estas circunstancias: **a)** no es de solicitud o recepción **voluntaria** (impuesta por ley o imprescindible para la vida privada o social) o **b)** no lo presta el **sector privado**."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "",
+      "Tasa",
+      "Precio público"
+     ],
+     [
+      [
+       "Qué paga",
+       "Uso del dominio público o servicio no voluntario / que no presta el sector privado",
+       "Servicio o actividad de competencia local sin esas circunstancias"
+      ],
+      [
+       "Artículos",
+       "20 a 27",
+       "41 a 47"
+      ],
+      [
+       "Importe",
+       "Según la ordenanza fiscal",
+       "Debe cubrir **como mínimo el coste** (art. 44.1)"
+      ],
+      [
+       "Rebaja",
+       "—",
+       "Por razones sociales, benéficas, culturales o de interés público, con dotación en el presupuesto (44.2)"
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Servicios por los que NO se puede exigir tasa (art. 21.1)"
+    ],
+    [
+     "p",
+     "Son seis: **agua en fuentes públicas, alumbrado de vías públicas, vigilancia pública en general, protección civil, limpieza de la vía pública y enseñanza obligatoria**. El **art. 42** extiende la misma lista a los precios públicos: tampoco pueden exigirse."
+    ],
+    [
+     "ejemplo",
+     "Sí hay tasa por **mesas y sillas en la terraza** con fin lucrativo (20.3.l), por **estacionamiento regulado** (20.3.u) o por **expedir documentos** a instancia de parte (20.4.a)."
+    ],
+    [
+     "trampa",
+     "Por la **limpieza de la vía pública** no se pueden exigir **ni tasas ni precios públicos**. Si una opción dice «podrán exigir precios públicos», es falsa."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué seis servicios no pueden dar lugar a tasa?",
+     "Agua en fuentes públicas, alumbrado de vías públicas, vigilancia pública, protección civil, limpieza de la vía pública y enseñanza obligatoria."
+    ],
+    [
+     "¿Qué mínimo debe cubrir un precio público?",
+     "El coste del servicio (art. 44.1), salvo rebaja por razones sociales, benéficas, culturales o de interés público con dotación presupuestaria."
+    ],
+    [
+     "¿Hacen falta las dos circunstancias del art. 20.1.B para que sea tasa?",
+     "No: basta cualquiera de las dos (no voluntaria o no prestada por el sector privado)."
+    ]
+   ],
+   "esquema": [
+    "Tasa: dominio público o servicio (no voluntario / no privado) · arts. 20-27",
+    "Sin tasa (21.1): agua fuentes, alumbrado, vigilancia, protección civil, limpieza vía pública, enseñanza obligatoria",
+    "Precio público: art. 41 · no en los del art. 21 (art. 42) · ≥ coste (art. 44)"
+   ],
+   "ic": "🧾"
+  },
+  {
+   "id": "e2",
+   "titulo": "Contribuciones especiales",
+   "subtitulo": "Arts. 28 a 37",
+   "clave": [
+    "Hecho imponible: beneficio o aumento de valor (art. 28)",
+    "Sujeto pasivo (art. 30)",
+    "Base imponible: máximo 90 % del coste (art. 31.1)",
+    "Devengo (art. 33)",
+    "Acuerdo de imposición previo (art. 34)",
+    "Asociación de contribuyentes (art. 36)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Se pagan cuando una **obra o servicio público local** te beneficia especialmente o aumenta el valor de tus bienes. Ejemplo: se urbaniza tu calle y tu local gana valor; el ayuntamiento reparte parte del coste entre los vecinos beneficiados."
+    ],
+    [
+     "tabla",
+     [
+      "Aspecto",
+      "Regla"
+     ],
+     [
+      [
+       "Hecho imponible (28)",
+       "Obtener un **beneficio o aumento de valor** de bienes por obras públicas o por establecer o ampliar servicios públicos **de carácter local**."
+      ],
+      [
+       "Sujetos pasivos (30)",
+       "Personas físicas y jurídicas **especialmente beneficiadas** por la obra o servicio."
+      ],
+      [
+       "Base imponible (31.1)",
+       "Como **máximo el 90 %** del coste que soporte la entidad local."
+      ],
+      [
+       "Reparto (32)",
+       "Módulos: metros lineales de fachada, superficie, volumen edificable, valor catastral…"
+      ],
+      [
+       "Devengo (33)",
+       "Cuando la obra **se ha ejecutado** o el servicio **ha comenzado a prestarse**."
+      ],
+      [
+       "Imposición (34)",
+       "Exige **acuerdo de imposición previo** para cada caso concreto."
+      ],
+      [
+       "Colaboración (36)",
+       "Los afectados pueden constituir **asociación administrativa de contribuyentes**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "El límite es **90 %** (no 75 ni 80). Y las tasas por un servicio **no impiden** cobrar además contribuciones especiales por establecerlo o ampliarlo (art. 22)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué porcentaje máximo del coste puede ser base imponible?",
+     "El 90 % (art. 31.1)."
+    ],
+    [
+     "¿Cuándo se devengan?",
+     "Cuando la obra se ha ejecutado o el servicio ha comenzado a prestarse (art. 33.1)."
+    ]
+   ],
+   "esquema": [
+    "HI: beneficio o aumento de valor por obras o servicios locales (28)",
+    "Base imponible ≤ 90 % del coste (31.1)",
+    "Devengo: obra ejecutada o servicio iniciado (33)",
+    "Acuerdo de imposición previo (34)"
+   ],
+   "ic": "🛣️"
+  },
+  {
+   "id": "e3",
+   "titulo": "Impuestos municipales y participación en tributos del Estado",
+   "subtitulo": "Arts. 59 a 112",
+   "clave": [
+    "3 obligatorios y 2 potestativos (art. 59)",
+    "IBI: directo y real; tipos 0,4-1,10 % / 0,3-0,9 %",
+    "IAE",
+    "IVTM: coeficiente máx. 2",
+    "ICIO: indirecto; tipo máx. 4 %",
+    "IIVTNU: tipo máx. 30 %",
+    "Participación: capitales o ≥ 75.000 hab. (art. 111)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El art. 59 separa los impuestos que el ayuntamiento **debe** exigir de los que **puede** establecer."
+    ],
+    [
+     "tabla",
+     [
+      "Impuesto",
+      "Naturaleza y hecho imponible",
+      "Dato que cae en examen"
+     ],
+     [
+      [
+       "**IBI** (60-77)",
+       "Directo y real. Titularidad de concesión, superficie, usufructo o propiedad de inmuebles.",
+       "Tipo mín. y supletorio 0,4 % urbanos / 0,3 % rústicos; máx. 1,10 % / 0,90 %. Período = año natural (75)."
+      ],
+      [
+       "**IAE** (78-91)",
+       "Directo y real. Mero ejercicio de actividades empresariales, profesionales o artísticas.",
+       "Se grava aunque no haya local determinado."
+      ],
+      [
+       "**IVTM** (92-99)",
+       "Directo. Titularidad de vehículos de tracción mecánica aptos para circular.",
+       "Coeficiente sobre cuotas **no superior a 2** (95.4). Se devenga el primer día del período (96)."
+      ],
+      [
+       "**ICIO** (100-103)",
+       "**Indirecto**. Construcción, instalación u obra que exija licencia (o declaración responsable) en el término municipal.",
+       "Se haya obtenido o no la licencia. Tipo **máx. 4 %** (102.3). Devengo al iniciarse la obra."
+      ],
+      [
+       "**IIVTNU** (104-110)",
+       "Directo. Incremento de valor de terrenos urbanos por transmisión o derechos reales de goce.",
+       "Tipo **máx. 30 %** (108.1)."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Obligatorios (59.1):** IBI, IAE e IVTM.",
+      "**Potestativos (59.2):** ICIO e IIVTNU."
+     ]
+    ],
+    [
+     "h",
+     "Participación en tributos del Estado"
+    ],
+    [
+     "p",
+     "Se ceden porcentajes del rendimiento de impuestos estatales a los municipios que sean **capitales de provincia o de CA**, o tengan **población de derecho igual o superior a 75.000 habitantes** (art. 111)."
+    ],
+    [
+     "trampa",
+     "El **ICIO** es el único **indirecto** y se paga **aunque no se haya concedido la licencia** (basta que se exija). Y el IAE se aplica aunque no exista local."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué impuestos son obligatorios y cuáles potestativos?",
+     "Obligatorios: IBI, IAE e IVTM. Potestativos: ICIO e IIVTNU."
+    ],
+    [
+     "¿Qué tipo máximo tiene el ICIO y de qué naturaleza es?",
+     "4 % y es un tributo indirecto."
+    ],
+    [
+     "¿Quién participa en tributos del Estado (art. 111)?",
+     "Capitales de provincia o de CA y municipios con 75.000 habitantes o más."
+    ]
+   ],
+   "esquema": [
+    "Obligatorios: IBI · IAE · IVTM",
+    "Potestativos: ICIO · IIVTNU",
+    "ICIO indirecto, ≤ 4 % · IIVTNU ≤ 30 % · IVTM coef. ≤ 2",
+    "Participación: capitales o ≥ 75.000 habitantes"
+   ],
+   "ic": "🏦"
+  }
+ ],
+ "mapa": {
+  "titulo": "Haciendas locales: recursos",
+  "ramas": [
+   {
+    "titulo": "Recursos (art. 2)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Los 8 recursos",
+      "hijos": [
+       {
+        "titulo": "Patrimonio y derecho privado"
+       },
+       {
+        "titulo": "Tributos propios y recargos"
+       },
+       {
+        "titulo": "Participaciones en tributos"
+       },
+       {
+        "titulo": "Subvenciones · precios públicos"
+       },
+       {
+        "titulo": "Crédito · multas · otras prestaciones"
+       }
+      ]
+     },
+     {
+      "titulo": "Reglas",
+      "hijos": [
+       {
+        "titulo": "Art. 4: derecho privado"
+       },
+       {
+        "titulo": "Art. 5: la venta de patrimonio no paga gasto corriente"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Tasas y precios públicos",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Tasa (20-27)",
+      "hijos": [
+       {
+        "titulo": "Dominio público o servicio particular"
+       },
+       {
+        "titulo": "No voluntario o no privado (basta una)"
+       }
+      ]
+     },
+     {
+      "titulo": "Sin tasa (21.1)",
+      "hijos": [
+       {
+        "titulo": "Agua en fuentes · alumbrado"
+       },
+       {
+        "titulo": "Vigilancia · protección civil"
+       },
+       {
+        "titulo": "Limpieza vía pública · enseñanza obligatoria"
+       }
+      ]
+     },
+     {
+      "titulo": "Precio público (41-47)",
+      "hijos": [
+       {
+        "titulo": "No en los servicios del art. 21"
+       },
+       {
+        "titulo": "Cubre como mínimo el coste"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Contribuciones especiales",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Qué son",
+      "hijos": [
+       {
+        "titulo": "Beneficio o aumento de valor"
+       },
+       {
+        "titulo": "Obras o servicios públicos locales"
+       }
+      ]
+     },
+     {
+      "titulo": "Reglas",
+      "hijos": [
+       {
+        "titulo": "Base imponible ≤ 90 % del coste"
+       },
+       {
+        "titulo": "Devengo: obra ejecutada o servicio iniciado"
+       },
+       {
+        "titulo": "Acuerdo de imposición previo"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Impuestos municipales",
+    "color": "#ffe066",
+    "hijos": [
+     {
+      "titulo": "Obligatorios",
+      "hijos": [
+       {
+        "titulo": "IBI"
+       },
+       {
+        "titulo": "IAE"
+       },
+       {
+        "titulo": "IVTM"
+       }
+      ]
+     },
+     {
+      "titulo": "Potestativos",
+      "hijos": [
+       {
+        "titulo": "ICIO (indirecto, ≤ 4 %)"
+       },
+       {
+        "titulo": "IIVTNU (≤ 30 %)"
+       }
+      ]
+     },
+     {
+      "titulo": "Participación en tributos del Estado",
+      "hijos": [
+       {
+        "titulo": "Capitales de provincia o de CA"
+       },
+       {
+        "titulo": "≥ 75.000 habitantes"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 21.1 (sin tasa)",
+    "a": "Art. 42 (sin precio público)",
+    "porque": "Los seis servicios del art. 21 quedan fuera tanto de las tasas como de los precios públicos."
+   },
+   {
+    "de": "Art. 22 (tasa por servicio)",
+    "a": "Art. 28 (contribución especial)",
+    "porque": "Se puede cobrar tasa por el servicio y, además, contribución especial por establecerlo o ampliarlo."
+   },
+   {
+    "de": "Art. 59.1 (IBI, IAE, IVTM)",
+    "a": "Art. 15 (ordenanzas fiscales)",
+    "porque": "Los impuestos obligatorios no necesitan acuerdo de imposición; el ayuntamiento solo usa sus facultades de fijar cuotas."
+   }
   ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 2.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, ¿cuál NO es un recurso de las entidades locales?",
+   [
+    "El producto de las multas y sanciones en el ámbito de sus competencias",
+    "Los impuestos sobre la renta de las personas físicas recaudados íntegramente por la entidad local",
+    "Las participaciones en los tributos del Estado y de las comunidades autónomas"
+   ],
+   1,
+   "Art. 2.1: patrimonio, tributos propios y recargos, participaciones, subvenciones, precios públicos, crédito, multas y demás prestaciones de derecho público. El IRPF no figura como tributo propio local.",
+   "Art. 2.1 TRLRHL",
+   "Recurso que no está en la lista",
+   "h-recursos"
+  ],
+  [
+   "Los ingresos de la hacienda local procedentes de su patrimonio y demás de derecho privado se harán efectivos, según el art. 4:",
+   [
+    "Con sujeción a las normas y procedimientos del derecho privado",
+    "Por el procedimiento de apremio tributario",
+    "Por el procedimiento administrativo común, siempre"
+   ],
+   0,
+   "Art. 4: la efectividad de estos derechos se lleva a cabo con sujeción a las normas y procedimientos del derecho privado.",
+   "Art. 4 TRLRHL",
+   "",
+   "h-recursos"
+  ],
+  [
+   "Los ingresos procedentes de la enajenación de bienes patrimoniales NO podrán destinarse a la financiación de gastos corrientes, salvo que se trate de:",
+   [
+    "Bienes muebles de escaso valor",
+    "Parcelas sobrantes de vías públicas no edificables o de efectos no utilizables en servicios municipales o provinciales",
+    "Cualquier bien cuya venta se acuerde por mayoría absoluta del pleno"
+   ],
+   1,
+   "Art. 5: la excepción es solo para parcelas sobrantes de vías públicas no edificables o efectos no utilizables en servicios municipales o provinciales.",
+   "Art. 5 TRLRHL",
+   "Excepciones inventadas",
+   "h-recursos"
+  ],
+  [
+   "Los tributos propios de las entidades locales se clasifican en:",
+   [
+    "Tasas, precios públicos e impuestos",
+    "Tasas, contribuciones especiales e impuestos",
+    "Tasas, contribuciones especiales y precios públicos"
+   ],
+   1,
+   "Art. 2.1.b: tributos propios clasificados en tasas, contribuciones especiales e impuestos. Los precios públicos son un recurso distinto (art. 2.1.e).",
+   "Art. 2.1.b TRLRHL",
+   "Precio público no es tributo",
+   "h-recursos"
+  ],
+  [
+   "Para que la prestación de un servicio público dé lugar a una tasa (art. 20.1.B), ¿qué circunstancias deben concurrir?",
+   [
+    "Cualquiera de las dos: que no sea de solicitud o recepción voluntaria, o que no se preste por el sector privado",
+    "Las dos a la vez",
+    "Ninguna: basta que lo preste el ayuntamiento"
+   ],
+   0,
+   "Art. 20.1.B: «cuando se produzca cualquiera de las circunstancias siguientes»: a) no voluntaria, b) no prestada por el sector privado.",
+   "Art. 20.1.B TRLRHL",
+   "Cualquiera frente a ambas",
+   "h-tasa",
+   [
+    "Cualquiera de las dos"
+   ]
+  ],
+  [
+   "¿Por cuál de estos servicios las entidades locales NO podrán exigir tasas (art. 21.1)?",
+   [
+    "Estacionamiento de vehículos en zonas reguladas",
+    "Limpieza de la vía pública",
+    "Expedición de documentos a instancia de parte"
+   ],
+   1,
+   "Art. 21.1: sin tasa por agua en fuentes públicas, alumbrado, vigilancia pública, protección civil, limpieza de la vía pública y enseñanza obligatoria. Estacionamiento (20.3.u) y documentos (20.4.a) sí.",
+   "Art. 21.1 TRLRHL",
+   "",
+   "h-sin-tasa",
+   [
+    "Limpieza de la vía pública"
+   ]
+  ],
+  [
+   "De acuerdo con los arts. 21.1 y 42, por el servicio de limpieza de la vía pública:",
+   [
+    "Las entidades locales no podrán exigir tasas",
+    "Las entidades locales podrán exigir precios públicos",
+    "Las respuestas a) y b) son correctas"
+   ],
+   0,
+   "Art. 21.1.e: no tasas por limpieza de la vía pública. Art. 42: tampoco precios públicos por los servicios del art. 21. Solo la a) es correcta.",
+   "Arts. 21.1 y 42 TRLRHL",
+   "Respuesta combinada a) y b)",
+   "h-sin-tasa",
+   [
+    "Limpieza de la vía pública"
+   ]
+  ],
+  [
+   "El art. 42 establece que no podrán exigirse precios públicos por:",
+   [
+    "Los servicios y actividades enumerados en el art. 21",
+    "Los servicios prestados en régimen de monopolio",
+    "Los servicios de solicitud voluntaria"
+   ],
+   0,
+   "Art. 42: «No podrán exigirse precios públicos por los servicios y actividades enumerados en el artículo 21».",
+   "Art. 42 TRLRHL",
+   "",
+   "h-sin-tasa"
+  ],
+  [
+   "El importe de los precios públicos deberá cubrir, como mínimo:",
+   [
+    "El 50 % del coste del servicio",
+    "El coste del servicio prestado o de la actividad realizada",
+    "El valor de mercado de la utilidad recibida"
+   ],
+   1,
+   "Art. 44.1: como mínimo el coste. Con razones sociales, benéficas, culturales o de interés público puede ser inferior si se consigna en presupuesto la diferencia (44.2).",
+   "Art. 44 TRLRHL",
+   "Porcentaje inventado",
+   "h-tasa",
+   [
+    "coste"
+   ]
+  ],
+  [
+   "Los precios públicos pueden fijarse por debajo del coste cuando existan razones sociales, benéficas, culturales o de interés público, y en ese caso:",
+   [
+    "No hace falta ninguna previsión presupuestaria",
+    "Deben consignarse en los presupuestos las dotaciones para cubrir la diferencia",
+    "Debe aprobarlo la Comunidad Autónoma"
+   ],
+   1,
+   "Art. 44.2: deben consignarse en los presupuestos las dotaciones oportunas para cubrir la diferencia.",
+   "Art. 44.2 TRLRHL",
+   "",
+   "h-tasa"
+  ],
+  [
+   "La base imponible de las contribuciones especiales está constituida, como máximo, por un porcentaje del coste que soporte la entidad local. Dicho porcentaje es:",
+   [
+    "El 75 por ciento",
+    "El 80 por ciento",
+    "El 90 por ciento"
+   ],
+   2,
+   "Art. 31.1: como máximo el 90 por ciento del coste de las obras o del establecimiento o ampliación de los servicios.",
+   "Art. 31.1 TRLRHL",
+   "Porcentaje parecido",
+   "h-contrib",
+   [
+    "90 por ciento"
+   ]
+  ],
+  [
+   "Constituye el hecho imponible de las contribuciones especiales:",
+   [
+    "La utilización privativa del dominio público local",
+    "La obtención de un beneficio o de un aumento de valor de los bienes como consecuencia de obras públicas o servicios públicos de carácter local",
+    "La realización de cualquier obra para la que se exija licencia"
+   ],
+   1,
+   "Art. 28. La utilización del dominio público es tasa; la obra con licencia es el hecho imponible del ICIO.",
+   "Art. 28 TRLRHL",
+   "Confundir con tasa o con ICIO",
+   "h-contrib",
+   [
+    "beneficio",
+    "aumento de valor"
+   ]
+  ],
+  [
+   "Las contribuciones especiales se devengan:",
+   [
+    "Cuando se acuerda la imposición",
+    "Cuando las obras se hayan ejecutado o el servicio haya comenzado a prestarse",
+    "El 1 de enero de cada año"
+   ],
+   1,
+   "Art. 33.1: en el momento en que las obras se hayan ejecutado o el servicio haya comenzado a prestarse.",
+   "Art. 33.1 TRLRHL",
+   "",
+   "h-contrib"
+  ],
+  [
+   "La exacción de las contribuciones especiales precisará:",
+   [
+    "La previa adopción del acuerdo de imposición en cada caso concreto",
+    "Una ley de la Comunidad Autónoma",
+    "La autorización previa del Estado"
+   ],
+   0,
+   "Art. 34.1: previo acuerdo de imposición en cada caso concreto.",
+   "Art. 34.1 TRLRHL",
+   "",
+   "h-contrib"
+  ],
+  [
+   "Las tasas por la prestación de un servicio, ¿excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de ese servicio?",
+   [
+    "Sí, siempre",
+    "No: son compatibles",
+    "Solo si lo aprueba el pleno por mayoría absoluta"
+   ],
+   1,
+   "Art. 22: las tasas por la prestación de servicios no excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de aquellos.",
+   "Art. 22 TRLRHL",
+   "Compatibilidad",
+   "h-contrib"
+  ],
+  [
+   "Según el art. 59.1, los ayuntamientos exigirán los siguientes impuestos:",
+   [
+    "IBI, IAE e IVTM",
+    "IBI, ICIO e IIVTNU",
+    "IAE, IVTM e ICIO"
+   ],
+   0,
+   "Art. 59.1: IBI, IAE e IVTM son obligatorios. El ICIO y el IIVTNU son potestativos (59.2).",
+   "Art. 59 TRLRHL",
+   "Obligatorios frente a potestativos",
+   "h-impuestos",
+   [
+    "IBI",
+    "IAE",
+    "IVTM"
+   ]
+  ],
+  [
+   "El Impuesto sobre Bienes Inmuebles es:",
+   [
+    "Un tributo indirecto de carácter personal",
+    "Un tributo directo de carácter real",
+    "Una tasa de carácter real"
+   ],
+   1,
+   "Art. 60: tributo directo de carácter real que grava el valor de los bienes inmuebles.",
+   "Art. 60 TRLRHL",
+   "",
+   "h-impuestos"
+  ],
+  [
+   "El tipo de gravamen mínimo y supletorio del IBI es el:",
+   [
+    "0,4 por ciento para urbanos y 0,3 por ciento para rústicos",
+    "1,10 por ciento para urbanos y 0,90 para rústicos",
+    "0,3 por ciento para urbanos y 0,4 para rústicos"
+   ],
+   0,
+   "Art. 72.1: mínimo y supletorio 0,4 % urbanos y 0,3 % rústicos; máximo 1,10 % y 0,90 %.",
+   "Art. 72.1 TRLRHL",
+   "Mínimo frente a máximo; urbano frente a rústico",
+   "h-impuestos",
+   [
+    "0,4 por ciento"
+   ]
+  ],
+  [
+   "El hecho imponible del Impuesto sobre Actividades Económicas es:",
+   [
+    "Solo el ejercicio de actividades en local determinado",
+    "El mero ejercicio de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado",
+    "La titularidad de locales de negocio"
+   ],
+   1,
+   "Art. 78.1: mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado y estén o no especificadas en las tarifas.",
+   "Art. 78.1 TRLRHL",
+   "Local determinado",
+   "h-impuestos",
+   [
+    "mero ejercicio"
+   ]
+  ],
+  [
+   "Los ayuntamientos pueden incrementar las cuotas del IVTM mediante un coeficiente que no podrá ser superior a:",
+   [
+    "1,5",
+    "2",
+    "3"
+   ],
+   1,
+   "Art. 95.4: coeficiente no superior a 2.",
+   "Art. 95.4 TRLRHL",
+   "",
+   "h-impuestos",
+   [
+    "no podrá ser superior"
+   ]
+  ],
+  [
+   "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es:",
+   [
+    "La realización de una construcción, instalación u obra que exija licencia o declaración responsable, se haya obtenido o no la licencia",
+    "La realización de obras solo cuando se haya obtenido la licencia",
+    "Ninguna de las respuestas anteriores es correcta"
+   ],
+   0,
+   "Art. 100.1: se haya obtenido o no la correspondiente licencia. Trampas reales: «solo cuando se haya obtenido la licencia» y añadir «independientemente de que la expedición corresponda al ayuntamiento»: el art. 100.1 exige que la licencia o el control corresponda al ayuntamiento de la imposición (examen 2025, reserva 4: «ninguna es correcta»).",
+   "Art. 100.1 TRLRHL",
+   "«Solo si hay licencia»",
+   "h-impuestos",
+   [
+    "se haya obtenido o no"
+   ]
+  ],
+  [
+   "El tipo de gravamen del ICIO, fijado por cada ayuntamiento, no podrá exceder del:",
+   [
+    "2 por ciento",
+    "4 por ciento",
+    "30 por ciento"
+   ],
+   1,
+   "Art. 102.3: cuatro por cien. El 30 % es el máximo del IIVTNU (art. 108.1).",
+   "Art. 102.3 TRLRHL",
+   "Mezclar ICIO con IIVTNU",
+   "h-impuestos",
+   [
+    "tipo de gravamen",
+    "4 por ciento"
+   ]
+  ],
+  [
+   "El tipo de gravamen del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana no puede exceder del:",
+   [
+    "4 por ciento",
+    "15 por ciento",
+    "30 por ciento"
+   ],
+   2,
+   "Art. 108.1: no puede exceder del 30 por ciento.",
+   "Art. 108.1 TRLRHL",
+   "",
+   "h-impuestos",
+   [
+    "30 por ciento"
+   ]
+  ],
+  [
+   "Son beneficiarios de la participación en tributos del Estado (art. 111) los municipios que:",
+   [
+    "Tengan más de 5.000 habitantes",
+    "Sean capitales de provincia o de comunidad autónoma, o tengan población de derecho igual o superior a 75.000 habitantes",
+    "Pertenezcan a una provincia con más de un millón de habitantes"
+   ],
+   1,
+   "Art. 111: capitales de provincia o de CA, o población de derecho igual o superior a 75.000 habitantes (con la población actualizada que fija el precepto).",
+   "Art. 111 TRLRHL",
+   "",
+   "h-impuestos",
+   [
+    "75.000 habitantes"
+   ]
+  ]
+ ]
 }

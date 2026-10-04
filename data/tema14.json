@@ -82,7 +82,8 @@
     "Municipio: entidad local básica, personalidad jurídica (11) · elementos: territorio, población, organización",
     "Término municipal (12) · alteración por ley autonómica con dictamen (13)",
     "Padrón: obligación de inscribirse donde se reside más tiempo (15-17) · vecinos (18)"
-   ]
+   ],
+   "ic": "🏘️"
   },
   {
    "id": "e1",
@@ -164,7 +165,8 @@
     "> 20.000: protección civil · servicios sociales · incendios · deportes",
     "> 50.000: transporte colectivo · medio ambiente urbano",
     "Delegación ≥ 5 años (27)"
-   ]
+   ],
+   "ic": "🚰"
   },
   {
    "id": "e2",
@@ -262,7 +264,8 @@
     "Ámbito: > 250.000 · capitales > 175.000 · capitales/sedes autonómicas · > 75.000 con circunstancias especiales (121)",
     "Pleno máxima representación · Alcalde máxima representación del municipio · JGL ≤ 1/3 del Pleno",
     "Distritos (128) · Consejo Social (131) · reclamaciones económico-administrativas (137)"
-   ]
+   ],
+   "ic": "🏙️"
   },
   {
    "id": "e3",
@@ -344,7 +347,8 @@
     "Capital de Aragón: régimen especial (1) · personalidad y potestades (2)",
     "Órganos: Pleno · Alcalde · Gobierno de Zaragoza (≤ 1/3 del Pleno) · grupos · Junta de Portavoces",
     "Consejo Bilateral de Capitalidad ≥ 1 reunión por semestre (21) · convenio económico ≥ 4 años (57)"
-   ]
+   ],
+   "ic": "🏰"
   }
  ],
  "mapa": {

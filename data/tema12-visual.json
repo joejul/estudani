@@ -49,7 +49,8 @@
      "t",
      "Excepción del art. 5: solo parcelas sobrantes de vías públicas no edificables o efectos no utilizables"
     ]
-   ]
+   ],
+   "ic": "💰"
   },
   {
    "id": "h-tasa",
@@ -86,7 +87,8 @@
      "t",
      "No hacen falta las dos circunstancias a la vez"
     ]
-   ]
+   ],
+   "ic": "🧾"
   },
   {
    "id": "h-sin-tasa",
@@ -126,7 +128,8 @@
      "t",
      "El art. 42 extiende la prohibición a los precios públicos"
     ]
-   ]
+   ],
+   "ic": "🆓"
   },
   {
    "id": "h-contrib",
@@ -171,7 +174,8 @@
      "t",
      "Compatibles con las tasas por el servicio (art. 22)"
     ]
-   ]
+   ],
+   "ic": "🛣️"
   },
   {
    "id": "h-impuestos",
@@ -220,7 +224,8 @@
      "t",
      "ICIO: se paga se haya obtenido o no la licencia"
     ]
-   ]
+   ],
+   "ic": "🏦"
   }
  ],
  "esquema": [

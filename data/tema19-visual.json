@@ -65,7 +65,8 @@
      "t",
      "A1 y A2 no se distinguen por la titulación, sino por la responsabilidad"
     ]
-   ]
+   ],
+   "ic": "🪜"
   },
   {
    "id": "h-personal",
@@ -101,7 +102,8 @@
      "q",
      "Retribuciones complementarias: su cuantía global la fija el Pleno"
     ]
-   ]
+   ],
+   "ic": "🏢"
   },
   {
    "id": "h-escalas",
@@ -142,7 +144,8 @@
      "t",
      "Personal de Oficios va en Servicios Especiales, no en Subalterna"
     ]
-   ]
+   ],
+   "ic": "🗂️"
   },
   {
    "id": "h-regimen",
@@ -178,7 +181,8 @@
      "t",
      "Básicas iguales en toda España; complementarias, el Pleno dentro de los límites del Estado"
     ]
-   ]
+   ],
+   "ic": "📚"
   }
  ],
  "esquema": [

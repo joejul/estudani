@@ -83,7 +83,8 @@
      "t",
      "Ni un órgano superior puede dictar una resolución contraria a un reglamento"
     ]
-   ]
+   ],
+   "ic": "✅"
   },
   {
    "id": "h-eficacia",
@@ -124,7 +125,8 @@
      "d",
      "Publicación en los casos legales, con efectos de notificación"
     ]
-   ]
+   ],
+   "ic": "📬"
   },
   {
    "id": "h-invalidez",
@@ -164,7 +166,8 @@
      "t",
      "Se convalidan los anulables, no los nulos"
     ]
-   ]
+   ],
+   "ic": "❌"
   }
  ],
  "esquema": [

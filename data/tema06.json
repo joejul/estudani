@@ -73,7 +73,8 @@
     "Acto válido: órgano competente + procedimiento + contenido adecuado (34)",
     "Motivación: limitan derechos, revisión y recursos, separación de precedentes, suspensión, urgencia, pruebas rechazadas, sancionadores, discrecionales (35)",
     "Forma electrónica (36) · inderogabilidad singular (37)"
-   ]
+   ],
+   "ic": "✅"
   },
   {
    "id": "e1",
@@ -148,7 +149,8 @@
     "Efectos desde su fecha, presunción de validez (39) · eficacia demorada hasta notificación o publicación",
     "Notificación ≤ 10 días con texto íntegro, vía administrativa, recursos, órgano y plazo (40)",
     "Electrónica: rechazo a 10 días naturales (43) · Papel: 2 intentos, 3 horas de margen (42) · BOE si infructuosa (44)"
-   ]
+   ],
+   "ic": "📬"
   },
   {
    "id": "e2",
@@ -237,7 +239,8 @@
     "Nulidad 47.1: amparo · incompetencia manifiesta · imposible · penal · sin procedimiento · adquirir sin requisitos · ley",
     "47.2: disposiciones nulas",
     "Anulabilidad (48) · límites (49) · conversión (50) · conservación (51) · convalidación (52)"
-   ]
+   ],
+   "ic": "❌"
   }
  ],
  "mapa": {

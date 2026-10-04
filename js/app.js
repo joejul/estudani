@@ -106,6 +106,46 @@ function hubElegible(h) {
   if (ov === true) return true;
   return !!store.infoPregunta(`a:${h.id}`) || store.leccionHecha(h.tema, h.epi);
 }
+// ---- dominio por tema: cuánto sabe de lo que ya ha estudiado (0-100) ----
+// Cada pregunta vale según su caja de repaso (acertada varias veces = más); fallada o sin ver = 0.
+const puntosPregunta = (id) => {
+  const p = store.infoPregunta(id);
+  return p && p.last === 'ok' ? Math.min(p.box, 4) / 4 : 0;
+};
+function dominioTemas() {
+  return Object.keys(D.tema)
+    .map(Number)
+    .filter(temaActivo)
+    .map((n) => {
+      const ids = D.tema[n].preguntas.filter(elegible).map((q) => q.id);
+      const vistas = ids.filter((id) => store.infoPregunta(id)).length;
+      const pct = ids.length ? Math.round((ids.reduce((a, id) => a + puntosPregunta(id), 0) / ids.length) * 100) : 0;
+      const nivel = vistas < 3 ? 'nuevo' : pct >= 70 ? 'alto' : pct >= 40 ? 'medio' : 'bajo';
+      return { n, pct, vistas, total: ids.length, nivel, ids };
+    })
+    .filter((d) => d.total)
+    .sort((a, b) => a.pct - b.pct);
+}
+const NIVEL = { nuevo: ['Sin practicar', '⚪'], bajo: ['Flojo', '🔴'], medio: ['En camino', '🟡'], alto: ['Dominado', '🟢'] };
+// los temas que más conviene reforzar: los 3 de menor dominio (salvo los ya dominados, si hay otros)
+function temasDebiles() {
+  const d = dominioTemas();
+  const flojos = d.filter((x) => x.nivel !== 'alto');
+  return (flojos.length ? flojos : d).slice(0, 3);
+}
+function dominioHtml(completo) {
+  const d = dominioTemas();
+  if (!d.length) return '';
+  const deb = temasDebiles();
+  const fila = (x) => `<a class="dom-fila" href="#/tema/${x.n}"><span class="dom-t">${icHtml(infoTema(x.n).titulo, infoTema(x.n).ic)}<b>Tema ${x.n}</b> <span class="muted">${esc(infoTema(x.n).titulo)}</span></span>
+      <span class="dom-b d-${x.nivel}"><span style="width:${Math.max(x.pct, 3)}%"></span></span>
+      <small class="dom-n">${NIVEL[x.nivel][1]} ${x.nivel === 'nuevo' ? NIVEL[x.nivel][0] : `${x.pct}% · ${NIVEL[x.nivel][0]}`}${x.vistas ? ` · ${x.vistas}/${x.total} vistas` : ''}</small></a>`;
+  return `<section class="card"><h3>${completo ? '📈 Tu dominio por tema' : '🎯 Te conviene reforzar'}</h3>
+    <p class="tiny muted">${completo ? 'Según tus respuestas en lo que ya has estudiado. Un fallo o una pregunta sin ver cuenta 0; cada acierto seguido sube.' : 'Los temas donde menos aciertas ahora mismo.'}</p>
+    <div class="dom-lista">${(completo ? d : deb).map(fila).join('')}</div>
+    <button class="btn primary" data-act="empezar" data-modo="refuerzo">Reforzar ${deb.map((x) => 'T' + x.n).join(' · ')}</button>
+    ${completo ? '' : '<a class="link" href="#/repaso">Ver todos los temas</a>'}</section>`;
+}
 const nTemasRepaso = () => Object.keys(D.tema).filter((n) => temaActivo(+n)).length;
 
 // ---------------------------------------------------------------- utilidades
@@ -212,6 +252,8 @@ function vistaInicio() {
       <p class="tiny muted">${nTemasRepaso() ? `De ${nTemasRepaso()} tema${nTemasRepaso() > 1 ? 's' : ''} que has estudiado o empezado.` : 'Marca un epígrafe como estudiado para empezar a repasar.'}</p>
       <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>${pend + nuevas === 0 ? (nTemasRepaso() ? 'Todo al día 🎉' : 'Aún no hay nada que repasar') : 'Empezar repaso'}</button>
     </section>
+
+    ${dominioHtml(false)}
 
     <section class="card">
       <h3>${sig ? 'Sigue donde lo dejaste' : `Tema ${t1.n} completado`}</h3>
@@ -482,6 +524,7 @@ function vistaRepaso() {
       <p class="muted">Las preguntas vuelven justo cuando estás a punto de olvidarlas. Es lo que más rinde por minuto de estudio.</p>
       <p class="big">${pend}<span class="muted"> pendientes</span> · ${nuevas}<span class="muted"> nuevas</span></p>
       <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>Repaso de hoy</button></section>
+    ${dominioHtml(true)}
     ${selectorTemas()}
     <section class="card"><h3>Test rápido</h3><p class="muted">10 preguntas mezcladas, con corrección inmediata. Ideal para 5 minutos.</p>
       <button class="btn" data-act="empezar" data-modo="rapido">Empezar (10)</button></section>
@@ -522,6 +565,19 @@ function empezar(modo, p = {}) {
     const nuevas = barajar(store.nuevas(rep).map((id) => D.qById[id])).slice(0, 10);
     pool = [...barajar(debidas).slice(0, 30), ...nuevas];
     titulo = 'Repaso de hoy'; volver = '#/';
+  }
+  else if (modo === 'refuerzo') {
+    const flojos = new Set(temasDebiles().map((x) => x.n));
+    const hoyDue = new Set(store.pendientesHoy(todasIds()));
+    const rango = (q) => {
+      const i = store.infoPregunta(q.id);
+      return !i ? 2 : i.last !== 'ok' ? 0 : hoyDue.has(q.id) ? 1 : 3;
+    };
+    // primero lo fallado, luego lo que toca repasar, luego lo que aún no ha visto
+    pool = barajar(D.preguntas.filter((q) => flojos.has(q.tema) && elegible(q)))
+      .sort((a, b) => rango(a) - rango(b))
+      .slice(0, 12);
+    titulo = `Reforzar ${[...flojos].map((n) => 'T' + n).join(' · ')}`; volver = '#/repaso';
   }
   else if (modo === 'hub') { pool = D.preguntas.filter((q) => q.hub === p.hub); titulo = 'Esta idea'; volver = `#/tema/${n}/asociar/${p.hub}`; }
   else if (modo === 'asociar') {

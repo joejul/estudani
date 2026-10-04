@@ -90,7 +90,8 @@
      "t",
      "Los comunales son de dominio público"
     ]
-   ]
+   ],
+   "ic": "🏠"
   },
   {
    "id": "h-regimen",
@@ -123,7 +124,8 @@
      "d",
      "Inventario valorado, rectificación anual y copia a la DGA"
     ]
-   ]
+   ],
+   "ic": "🔒"
   },
   {
    "id": "h-alteracion",
@@ -163,7 +165,8 @@
      "t",
      "Diez años para comunales; veinticinco para la adscripción tácita"
     ]
-   ]
+   ],
+   "ic": "🔄"
   },
   {
    "id": "h-uso",
@@ -199,7 +202,8 @@
      "d",
      "Uso sin título: recuperación de oficio y potestad sancionadora"
     ]
-   ]
+   ],
+   "ic": "🔑"
   }
  ],
  "esquema": [

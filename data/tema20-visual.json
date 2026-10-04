@@ -112,7 +112,8 @@
      "d",
      "Solar: suelo urbano urbanizado apto para uso inmediato"
     ]
-   ]
+   ],
+   "ic": "🌍"
   },
   {
    "id": "h-plan",
@@ -149,7 +150,8 @@
      "d",
      "Ordenanzas de edificación y urbanización"
     ]
-   ]
+   ],
+   "ic": "📐"
   },
   {
    "id": "h-gestion",
@@ -189,7 +191,8 @@
      "d",
      "Indirecta por urbanizador: programa de urbanización"
     ]
-   ]
+   ],
+   "ic": "🚜"
   },
   {
    "id": "h-disciplina",
@@ -233,7 +236,8 @@
      "q",
      "Sanciona el Alcalde las leves; el Pleno las graves y muy graves"
     ]
-   ]
+   ],
+   "ic": "🏗️"
   }
  ],
  "esquema": [

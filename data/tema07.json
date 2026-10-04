@@ -63,7 +63,8 @@
     "Iniciación: de oficio (iniciativa propia, orden superior, petición razonada, denuncia) o a solicitud (54)",
     "Actuaciones previas (55) · denuncia (62)",
     "Subsanación 10 días, desistimiento (68)"
-   ]
+   ],
+   "ic": "🚦"
   },
   {
    "id": "e1",
@@ -148,7 +149,8 @@
     "Expediente electrónico (70) · impulso de oficio (71) · concentración (72) · 10 días para trámites (73)",
     "Alegaciones antes de la audiencia (76) · prueba 10-30 días (77) · informes 10 días (80)",
     "Audiencia 10-15 días (82) · información pública ≥ 20 días (83)"
-   ]
+   ],
+   "ic": "🔎"
   },
   {
    "id": "e2",
@@ -207,7 +209,8 @@
     "Terminan: resolución · desistimiento · renuncia · caducidad · imposibilidad material (84)",
     "Caducidad: 3 meses de paralización imputable al interesado (95)",
     "Simplificada: 30 días (96) · Ejecutividad con 4 excepciones (98)"
-   ]
+   ],
+   "ic": "🏁"
   }
  ],
  "mapa": {

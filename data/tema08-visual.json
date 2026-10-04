@@ -83,7 +83,8 @@
      "t",
      "La rectificación puede pedirla el interesado"
     ]
-   ]
+   ],
+   "ic": "🔁"
   },
   {
    "id": "h-comunes",
@@ -120,7 +121,8 @@
      "t",
      "No se puede agravar la situación inicial del recurrente"
     ]
-   ]
+   ],
+   "ic": "📑"
   },
   {
    "id": "h-recursos",
@@ -160,7 +162,8 @@
      "t",
      "No cabe reposición contra una reposición"
     ]
-   ]
+   ],
+   "ic": "📨"
   }
  ],
  "esquema": [

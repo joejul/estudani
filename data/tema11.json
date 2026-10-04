@@ -78,7 +78,8 @@
     "Policía = intervención en la actividad de los ciudadanos (84)",
     "Ordenanzas y bandos · licencia previa · comunicación/declaración responsable · control posterior · órdenes individuales",
     "Ordenanzas: adaptan infracciones, no crean nuevas (197)"
-   ]
+   ],
+   "ic": "👮"
   },
   {
    "id": "e1",
@@ -140,7 +141,8 @@
     "Servicio público local: el que prestan las entidades locales en su competencia (85.1)",
     "Directa: propia entidad · OA · EPE · sociedad mercantil pública · Indirecta: contrato de gestión (concesión)",
     "Iniciativa pública económica: aprueba el Pleno (86)"
-   ]
+   ],
+   "ic": "🚌"
   },
   {
    "id": "e2",
@@ -180,7 +182,8 @@
    "esquema": [
     "Fomento: auxilios económicos a entidades públicas o privadas y particulares (224)",
     "Principios: publicidad · objetividad · libre concurrencia · igualdad (225)"
-   ]
+   ],
+   "ic": "🎁"
   }
  ],
  "mapa": {

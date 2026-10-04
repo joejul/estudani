@@ -1,1370 +1,1388 @@
 {
-  "nota": "Contenido visual del Tema 1: mapas de ideas (hubs), enlace pregunta→idea y diagramas del Esquema. Tipos de pista: q=quién/órgano, d=qué dice, n=cifra/plazo/mayoría, t=trampa. s:1 = pista ambigua que no se usa en el entrenamiento.",
-  "hubs": [
+ "nota": "Contenido visual del Tema 1: mapas de ideas (hubs), enlace pregunta→idea y diagramas del Esquema. Tipos de pista: q=quién/órgano, d=qué dice, n=cifra/plazo/mayoría, t=trampa. s:1 = pista ambigua que no se usa en el entrenamiento.",
+ "hubs": [
+  {
+   "id": "h-art1",
+   "epi": "e3",
+   "titulo": "Art. 1 · Los cimientos",
+   "art": "Art. 1",
+   "resumen": "Qué tipo de Estado es España y de dónde sale el poder.",
+   "confunde": [
+    "h-art9"
+   ],
+   "pistas": [
     {
-      "id": "h-art1",
-      "epi": "e3",
-      "titulo": "Art. 1 · Los cimientos",
-      "art": "Art. 1",
-      "resumen": "Qué tipo de Estado es España y de dónde sale el poder.",
-      "confunde": [
-        "h-art9"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "Estado social y democrático de Derecho"
-        },
-        {
-          "k": "d",
-          "t": "Valores superiores: libertad, justicia, igualdad y pluralismo político"
-        },
-        {
-          "k": "q",
-          "t": "Soberanía nacional: reside en el pueblo español"
-        },
-        {
-          "k": "d",
-          "t": "Forma política: Monarquía parlamentaria"
-        },
-        {
-          "k": "t",
-          "t": "Las Cortes representan al pueblo, pero no son el titular de la soberanía"
-        },
-        {
-          "k": "t",
-          "t": "Es «Monarquía parlamentaria», no «constitucional»"
-        }
-      ]
+     "k": "d",
+     "t": "Estado social y democrático de Derecho"
     },
     {
-      "id": "h-art3-8",
-      "epi": "e3",
-      "titulo": "Arts. 3 a 8 · Lo que identifica a España",
-      "art": "Arts. 3-8",
-      "resumen": "Lengua, bandera, capital, partidos, sindicatos y Fuerzas Armadas.",
-      "confunde": [
-        "h-art1"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "Castellano: lengua oficial del Estado (deber de conocerla, derecho a usarla)"
-        },
-        {
-          "k": "q",
-          "t": "Otras lenguas: oficiales en su Comunidad según sus Estatutos"
-        },
-        {
-          "k": "d",
-          "t": "Bandera: roja, amarilla y roja; la amarilla de doble anchura"
-        },
-        {
-          "k": "d",
-          "t": "Capital del Estado: la villa de Madrid"
-        },
-        {
-          "k": "d",
-          "t": "Partidos, sindicatos y asociaciones empresariales: libres, con estructura y funcionamiento democráticos"
-        },
-        {
-          "k": "d",
-          "t": "Fuerzas Armadas: Ejército de Tierra, Armada y Ejército del Aire (bases por ley orgánica)"
-        },
-        {
-          "k": "t",
-          "t": "La Guardia Civil no forma parte de las Fuerzas Armadas del art. 8"
-        }
-      ]
+     "k": "d",
+     "t": "Valores superiores: libertad, justicia, igualdad y pluralismo político"
     },
     {
-      "id": "h-art9",
-      "epi": "e3",
-      "titulo": "Art. 9 · Sujeción y siete principios",
-      "art": "Art. 9",
-      "resumen": "Todos sujetos a la Constitución; igualdad real; siete garantías.",
-      "confunde": [
-        "h-art1",
-        "h-admin"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "9.1: ciudadanos y poderes públicos sujetos a la Constitución y al resto del ordenamiento"
-        },
-        {
-          "k": "d",
-          "t": "9.2: promover, remover obstáculos y facilitar la participación (igualdad real y efectiva)"
-        },
-        {
-          "k": "d",
-          "t": "9.3: legalidad · jerarquía normativa · publicidad de las normas"
-        },
-        {
-          "k": "d",
-          "t": "9.3: irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales"
-        },
-        {
-          "k": "d",
-          "t": "9.3: seguridad jurídica · responsabilidad · interdicción de la arbitrariedad"
-        },
-        {
-          "k": "t",
-          "t": "La «proporcionalidad» NO está en el art. 9.3"
-        },
-        {
-          "k": "t",
-          "t": "La irretroactividad no vale para todas las normas"
-        }
-      ]
+     "k": "q",
+     "t": "Soberanía nacional: reside en el pueblo español"
     },
     {
-      "id": "h-nace",
-      "epi": "e1",
-      "titulo": "Cómo nace y entra en vigor",
-      "art": "Disp. final · Art. 91",
-      "resumen": "Del voto de las Cortes al BOE.",
-      "confunde": [
-        "h-estructura"
-      ],
-      "pistas": [
-        {
-          "k": "n",
-          "t": "31-oct-1978: aprueban las Cortes"
-        },
-        {
-          "k": "n",
-          "t": "6-dic-1978: referéndum"
-        },
-        {
-          "k": "n",
-          "t": "27-dic-1978: sanción del Rey"
-        },
-        {
-          "k": "n",
-          "t": "29-dic-1978: publicación en el BOE y entrada en vigor"
-        },
-        {
-          "k": "n",
-          "t": "Art. 91: el Rey sanciona en 15 días"
-        },
-        {
-          "k": "q",
-          "t": "Aprueban las Cortes; sanciona el Rey; ratifica el pueblo"
-        },
-        {
-          "k": "t",
-          "t": "Entra en vigor el día de su publicación en el BOE, no el del referéndum ni el de la sanción"
-        }
-      ]
+     "k": "d",
+     "t": "Forma política: Monarquía parlamentaria"
     },
     {
-      "id": "h-estructura",
-      "epi": "e2",
-      "titulo": "Estructura de la Constitución",
-      "art": "Títulos I-X",
-      "resumen": "Preámbulo, Título preliminar, diez Títulos y 169 artículos.",
-      "confunde": [
-        "h-reforma",
-        "h-nace"
-      ],
-      "pistas": [
-        {
-          "k": "n",
-          "t": "Preámbulo + Título preliminar + 10 Títulos (I-X)"
-        },
-        {
-          "k": "n",
-          "t": "169 artículos"
-        },
-        {
-          "k": "n",
-          "t": "4 disposiciones adicionales · 9 transitorias · 1 derogatoria · 1 final"
-        },
-        {
-          "k": "d",
-          "t": "Título III: Cortes Generales (arts. 66-96)"
-        },
-        {
-          "k": "d",
-          "t": "Título IV: Gobierno y Administración (arts. 97-107)"
-        },
-        {
-          "k": "d",
-          "t": "Título VIII: Organización territorial del Estado (arts. 137-158)"
-        },
-        {
-          "k": "d",
-          "t": "Título X: reforma constitucional (arts. 166-169)"
-        },
-        {
-          "k": "t",
-          "t": "VII = Economía y Hacienda · VIII = Territorio · IX = Tribunal Constitucional"
-        }
-      ]
+     "k": "t",
+     "t": "Las Cortes representan al pueblo, pero no son el titular de la soberanía"
     },
     {
-      "id": "h-reforma",
-      "epi": "e2",
-      "titulo": "Reforma constitucional",
-      "art": "Arts. 166-169",
-      "resumen": "Dos procedimientos: ordinario (3/5) y agravado (2/3).",
-      "confunde": [
-        "h-mayorias",
-        "h-estructura"
-      ],
-      "pistas": [
-        {
-          "k": "n",
-          "t": "Ordinaria (art. 167): 3/5 de cada Cámara"
-        },
-        {
-          "k": "n",
-          "t": "Referéndum solo si lo pide 1/10 de una Cámara en 15 días"
-        },
-        {
-          "k": "n",
-          "t": "Agravada (art. 168): 2/3 de cada Cámara"
-        },
-        {
-          "k": "d",
-          "t": "Agravada: disolución inmediata, nuevas Cámaras ratifican con 2/3 y referéndum obligatorio"
-        },
-        {
-          "k": "d",
-          "t": "Se protege con el art. 168: Título preliminar, Cap. II Sección 1.ª del Título I y Título II (y revisión total)"
-        },
-        {
-          "k": "d",
-          "t": "Art. 169: no se puede reformar en guerra ni en estado de alarma, excepción o sitio"
-        },
-        {
-          "k": "t",
-          "t": "Tocar el Título preliminar obliga al procedimiento agravado"
-        }
-      ]
-    },
-    {
-      "id": "h-poderes",
-      "epi": "e0",
-      "titulo": "Los tres poderes",
-      "art": "Arts. 66, 97, 117",
-      "resumen": "Quién legisla, quién gobierna y quién juzga.",
-      "confunde": [
-        "h-admin"
-      ],
-      "pistas": [
-        {
-          "k": "q",
-          "t": "Legislativo → Cortes Generales (Congreso + Senado)"
-        },
-        {
-          "k": "q",
-          "t": "Ejecutivo → Gobierno"
-        },
-        {
-          "k": "q",
-          "t": "Judicial → Jueces y Tribunales"
-        },
-        {
-          "k": "d",
-          "t": "Las Cortes legislan, aprueban los Presupuestos y controlan al Gobierno"
-        },
-        {
-          "k": "d",
-          "t": "Jerarquía de normas: Constitución > leyes > reglamentos"
-        },
-        {
-          "k": "t",
-          "t": "Dirigir la Administración civil y militar es del Gobierno, no de las Cortes"
-        }
-      ]
-    },
-    {
-      "id": "h-organica",
-      "epi": "e0",
-      "titulo": "Ley orgánica",
-      "art": "Art. 81",
-      "resumen": "Ley especial para materias delicadas y con mayoría absoluta.",
-      "confunde": [
-        "h-mayorias",
-        "h-decreto-ley"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "Materias: derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general"
-        },
-        {
-          "k": "n",
-          "t": "Mayoría absoluta del Congreso"
-        },
-        {
-          "k": "d",
-          "t": "Votación final sobre el conjunto del proyecto"
-        },
-        {
-          "k": "d",
-          "t": "También la exigen: Fuerzas Armadas (8), Fuerzas de seguridad (104), Consejo de Estado (107), límites provinciales (141)"
-        },
-        {
-          "k": "t",
-          "t": "Tiene el mismo rango que la ley ordinaria: se distingue por materia y por mayoría"
-        },
-        {
-          "k": "t",
-          "t": "La mayoría absoluta es del Congreso, no de las dos Cámaras"
-        }
-      ]
-    },
-    {
-      "id": "h-decreto-ley",
-      "epi": "e0",
-      "titulo": "Decreto-ley",
-      "art": "Art. 86",
-      "resumen": "Norma urgente del Gobierno que el Congreso debe convalidar.",
-      "confunde": [
-        "h-decreto-leg"
-      ],
-      "pistas": [
-        {
-          "k": "q",
-          "t": "Lo dicta el Gobierno",
-          "s": 1
-        },
-        {
-          "k": "d",
-          "t": "Extraordinaria y urgente necesidad"
-        },
-        {
-          "k": "d",
-          "t": "Disposición legislativa provisional"
-        },
-        {
-          "k": "n",
-          "t": "El Congreso lo convalida o lo deroga en los 30 días siguientes a su promulgación"
-        },
-        {
-          "k": "d",
-          "t": "No puede afectar a instituciones básicas, Título I, Comunidades Autónomas ni Derecho electoral general"
-        },
-        {
-          "k": "t",
-          "t": "No es lo mismo que el decreto legislativo, que nace de una delegación de las Cortes"
-        }
-      ]
-    },
-    {
-      "id": "h-decreto-leg",
-      "epi": "e0",
-      "titulo": "Decreto legislativo",
-      "art": "Arts. 82-85",
-      "resumen": "Norma del Gobierno por delegación de las Cortes.",
-      "confunde": [
-        "h-decreto-ley"
-      ],
-      "pistas": [
-        {
-          "k": "q",
-          "t": "Lo dicta el Gobierno por delegación de las Cortes Generales"
-        },
-        {
-          "k": "d",
-          "t": "Delegación expresa, para materia concreta y con plazo"
-        },
-        {
-          "k": "d",
-          "t": "Ley de bases: sirve para formar textos articulados"
-        },
-        {
-          "k": "d",
-          "t": "Ley ordinaria: sirve para refundir varios textos legales en uno"
-        },
-        {
-          "k": "d",
-          "t": "La delegación se agota cuando el Gobierno la usa"
-        },
-        {
-          "k": "t",
-          "t": "No existe delegación implícita"
-        }
-      ]
-    },
-    {
-      "id": "h-mayorias",
-      "epi": "e0",
-      "titulo": "Las mayorías",
-      "art": "Concepto",
-      "resumen": "Simple, absoluta, tres quintos y dos tercios.",
-      "confunde": [
-        "h-organica",
-        "h-reforma"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "Simple: más votos a favor que en contra"
-        },
-        {
-          "k": "n",
-          "t": "Absoluta: más de la mitad de los miembros (176 de 350)"
-        },
-        {
-          "k": "n",
-          "t": "Tres quintos: 210 de 350"
-        },
-        {
-          "k": "n",
-          "t": "Dos tercios: 234 de 350"
-        },
-        {
-          "k": "d",
-          "t": "La absoluta se calcula sobre todos los miembros, no sobre los presentes"
-        },
-        {
-          "k": "t",
-          "t": "175 es justo la mitad y no basta para la absoluta"
-        }
-      ]
-    },
-    {
-      "id": "h-admin",
-      "epi": "e4",
-      "titulo": "Administración Pública",
-      "art": "Arts. 97 y 103",
-      "resumen": "Quién la dirige y con qué principios actúa.",
-      "confunde": [
-        "h-descentral",
-        "h-poderes"
-      ],
-      "pistas": [
-        {
-          "k": "q",
-          "t": "Art. 97: el Gobierno dirige la Administración civil y militar",
-          "s": 1
-        },
-        {
-          "k": "d",
-          "t": "Sirve con objetividad los intereses generales"
-        },
-        {
-          "k": "d",
-          "t": "103.1: eficacia · jerarquía · descentralización · desconcentración · coordinación"
-        },
-        {
-          "k": "d",
-          "t": "Sometimiento pleno a la ley y al Derecho"
-        },
-        {
-          "k": "d",
-          "t": "103.2: sus órganos se crean, rigen y coordinan de acuerdo con la ley"
-        },
-        {
-          "k": "d",
-          "t": "103.3: acceso a la función pública por mérito y capacidad"
-        },
-        {
-          "k": "t",
-          "t": "En el 103.1 no aparece la «centralización»"
-        }
-      ]
-    },
-    {
-      "id": "h-descentral",
-      "epi": "e4",
-      "titulo": "Descentralizar frente a desconcentrar",
-      "art": "Art. 103.1",
-      "resumen": "Cambiar de entidad o cambiar de órgano.",
-      "confunde": [
-        "h-admin"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "Descentralización: la competencia pasa a OTRA entidad con personalidad jurídica propia"
-        },
-        {
-          "k": "d",
-          "t": "Desconcentración: pasa a un órgano inferior de la MISMA entidad"
-        },
-        {
-          "k": "d",
-          "t": "Avocación: el órgano superior asume una competencia del inferior"
-        },
-        {
-          "k": "d",
-          "t": "Ejemplo de descentralización: el Estado traspasa una competencia a una Comunidad Autónoma"
-        },
-        {
-          "k": "d",
-          "t": "Ejemplo de desconcentración: el Ministro pasa una competencia a una Dirección General"
-        }
-      ]
-    },
-    {
-      "id": "h-control",
-      "epi": "e4",
-      "titulo": "Control y garantías",
-      "art": "Arts. 105-107",
-      "resumen": "Audiencia, archivos, control judicial, indemnización y Consejo de Estado.",
-      "confunde": [
-        "h-admin"
-      ],
-      "pistas": [
-        {
-          "k": "q",
-          "t": "106.1: los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa"
-        },
-        {
-          "k": "d",
-          "t": "106.2: indemnización por lesiones causadas por el funcionamiento de los servicios públicos"
-        },
-        {
-          "k": "d",
-          "t": "105.b: archivos y registros, con tres excepciones (seguridad y defensa del Estado, delitos, intimidad)"
-        },
-        {
-          "k": "d",
-          "t": "105.a: audiencia de los ciudadanos al elaborar disposiciones que les afecten"
-        },
-        {
-          "k": "q",
-          "t": "107: Consejo de Estado, supremo órgano consultivo del Gobierno"
-        },
-        {
-          "k": "t",
-          "t": "Solo exime de indemnizar la fuerza mayor, no el caso fortuito"
-        },
-        {
-          "k": "t",
-          "t": "Tribunal de Cuentas fiscaliza; Defensor del Pueblo defiende derechos; Consejo de Estado asesora"
-        }
-      ]
-    },
-    {
-      "id": "h-territorio",
-      "epi": "e5",
-      "titulo": "Organización territorial",
-      "art": "Arts. 137-139",
-      "resumen": "Tres niveles con autonomía, solidaridad e igualdad.",
-      "confunde": [
-        "h-municipio",
-        "h-provincia"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "137: municipios + provincias + Comunidades Autónomas que se constituyan"
-        },
-        {
-          "k": "d",
-          "t": "Todas gozan de autonomía para la gestión de sus respectivos intereses"
-        },
-        {
-          "k": "d",
-          "t": "138: solidaridad; las diferencias entre Estatutos no pueden crear privilegios económicos o sociales"
-        },
-        {
-          "k": "d",
-          "t": "139: mismos derechos y obligaciones en cualquier parte del territorio"
-        },
-        {
-          "k": "t",
-          "t": "Las comarcas no aparecen en el art. 137"
-        }
-      ]
-    },
-    {
-      "id": "h-municipio",
-      "epi": "e5",
-      "titulo": "Municipio",
-      "art": "Art. 140",
-      "resumen": "Autonomía, Ayuntamiento y cómo se elige a Concejales y Alcaldes.",
-      "confunde": [
-        "h-provincia",
-        "h-territorio"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "Autonomía garantizada y personalidad jurídica plena"
-        },
-        {
-          "k": "q",
-          "t": "Gobierno y administración: el Ayuntamiento (Alcalde y Concejales)"
-        },
-        {
-          "k": "q",
-          "t": "Concejales: elegidos por los vecinos por sufragio universal, igual, libre, directo y secreto"
-        },
-        {
-          "k": "q",
-          "t": "Alcaldes: elegidos por los Concejales o por los vecinos"
-        },
-        {
-          "k": "d",
-          "t": "Concejo abierto: lo regula la ley"
-        },
-        {
-          "k": "t",
-          "t": "Los alcaldes no se eligen «exclusivamente» por los vecinos"
-        }
-      ]
-    },
-    {
-      "id": "h-provincia",
-      "epi": "e5",
-      "titulo": "Provincia y haciendas locales",
-      "art": "Arts. 141-142",
-      "resumen": "Diputaciones, ley orgánica para los límites y financiación local.",
-      "confunde": [
-        "h-municipio",
-        "h-territorio"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "141: entidad local con personalidad jurídica propia; agrupación de municipios"
-        },
-        {
-          "k": "q",
-          "t": "Gobierno y administración autónoma: Diputaciones u otras Corporaciones representativas"
-        },
-        {
-          "k": "q",
-          "t": "Cambiar los límites provinciales: Cortes Generales mediante ley orgánica"
-        },
-        {
-          "k": "d",
-          "t": "En los archipiélagos, las islas tienen Cabildos o Consejos"
-        },
-        {
-          "k": "d",
-          "t": "142: las haciendas locales deben tener medios suficientes"
-        },
-        {
-          "k": "d",
-          "t": "Se nutren de tributos propios y de participación en los del Estado y de las Comunidades Autónomas"
-        }
-      ]
-    },
-    {
-      "id": "h-competencias",
-      "epi": "e5",
-      "titulo": "Competencias del Estado y de las CCAA",
-      "art": "Arts. 147-149",
-      "resumen": "Qué puede asumir una Comunidad y qué es exclusivo del Estado.",
-      "confunde": [
-        "h-territorio"
-      ],
-      "pistas": [
-        {
-          "k": "d",
-          "t": "147: el Estatuto es la norma institucional básica de la Comunidad Autónoma"
-        },
-        {
-          "k": "d",
-          "t": "148: lo que las Comunidades pueden asumir (ordenación del territorio, urbanismo, vivienda, montes…)"
-        },
-        {
-          "k": "d",
-          "t": "149: competencia exclusiva del Estado (relaciones internacionales, defensa, justicia, legislación penal, mercantil y laboral)"
-        },
-        {
-          "k": "q",
-          "t": "Reformar un Estatuto: Cortes Generales mediante ley orgánica"
-        },
-        {
-          "k": "t",
-          "t": "El urbanismo está en el art. 148, no en el 149"
-        }
-      ]
+     "k": "t",
+     "t": "Es «Monarquía parlamentaria», no «constitucional»"
     }
-  ],
-  "preguntas": {
-    "t01-001": {
-      "hub": "h-art1",
-      "claves": [
-        "valores superiores",
-        "libertad, la justicia, la igualdad y el pluralismo político"
-      ]
-    },
-    "t01-002": {
-      "hub": "h-art1",
-      "claves": [
-        "soberanía nacional",
-        "pueblo español"
-      ]
-    },
-    "t01-003": {
-      "hub": "h-art1",
-      "claves": [
-        "forma política",
-        "Monarquía parlamentaria"
-      ]
-    },
-    "t01-004": {
-      "hub": "h-art3-8",
-      "claves": [
-        "demás lenguas",
-        "Estatutos"
-      ]
-    },
-    "t01-005": {
-      "hub": "h-art3-8",
-      "claves": [
-        "bandera",
-        "tres franjas horizontales, roja, amarilla y roja",
-        "doble anchura"
-      ]
-    },
-    "t01-006": {
-      "hub": "h-art3-8",
-      "claves": [
-        "capital del Estado",
-        "villa de Madrid"
-      ]
-    },
-    "t01-007": {
-      "hub": "h-art3-8",
-      "claves": [
-        "estructura interna y funcionamiento",
-        "democráticos"
-      ]
-    },
-    "t01-008": {
-      "hub": "h-art3-8",
-      "claves": [
-        "Fuerzas Armadas",
-        "Ejército de Tierra, la Armada y el Ejército del Aire"
-      ]
-    },
-    "t01-009": {
-      "hub": "h-art9",
-      "claves": [
-        "artículo 9.3",
-        "proporcionalidad"
-      ]
-    },
-    "t01-010": {
-      "hub": "h-art9",
-      "claves": [
-        "irretroactividad",
-        "sancionadoras no favorables o restrictivas de derechos individuales"
-      ]
-    },
-    "t01-011": {
-      "hub": "h-art9",
-      "claves": [
-        "remover los obstáculos",
-        "9.2"
-      ]
-    },
-    "t01-012": {
-      "hub": "h-estructura",
-      "claves": [
-        "169 artículos",
-        "diez Títulos"
-      ]
-    },
-    "t01-013": {
-      "hub": "h-estructura",
-      "claves": [
-        "Organización Territorial",
-        "Título VIII"
-      ]
-    },
-    "t01-014": {
-      "hub": "h-reforma",
-      "claves": [
-        "procedimiento ordinario",
-        "tres quintos de cada una de las Cámaras"
-      ]
-    },
-    "t01-015": {
-      "hub": "h-reforma",
-      "claves": [
-        "Título preliminar",
-        "Dos tercios de cada Cámara",
-        "referéndum obligatorio"
-      ]
-    },
-    "t01-016": {
-      "hub": "h-nace",
-      "claves": [
-        "entró en vigor",
-        "publicación en el BOE"
-      ]
-    },
-    "t01-017": {
-      "hub": "h-nace",
-      "claves": [
-        "sancionar",
-        "Quince días"
-      ]
-    },
-    "t01-018": {
-      "hub": "h-organica",
-      "claves": [
-        "ley orgánica",
-        "Mayoría absoluta del Congreso"
-      ]
-    },
-    "t01-019": {
-      "hub": "h-organica",
-      "claves": [
-        "ley orgánica",
-        "Estatutos de Autonomía"
-      ]
-    },
-    "t01-020": {
-      "hub": "h-organica",
-      "claves": [
-        "mismo rango",
-        "mayoría exigida"
-      ]
-    },
-    "t01-021": {
-      "hub": "h-decreto-ley",
-      "claves": [
-        "Decretos-leyes",
-        "extraordinaria y urgente necesidad"
-      ]
-    },
-    "t01-022": {
-      "hub": "h-decreto-ley",
-      "claves": [
-        "Decretos-leyes",
-        "Congreso de los Diputados",
-        "Treinta días"
-      ]
-    },
-    "t01-023": {
-      "hub": "h-mayorias",
-      "claves": [
-        "mayoría absoluta",
-        "350",
-        "176"
-      ]
-    },
-    "t01-024": {
-      "hub": "h-mayorias",
-      "claves": [
-        "mayoría simple",
-        "más votos a favor que en contra"
-      ]
-    },
-    "t01-025": {
-      "hub": "h-poderes",
-      "claves": [
-        "Cortes Generales",
-        "Dirigir la Administración civil y militar"
-      ]
-    },
-    "t01-026": {
-      "hub": "h-admin",
-      "claves": [
-        "Administración civil y militar",
-        "El Gobierno"
-      ]
-    },
-    "t01-027": {
-      "hub": "h-admin",
-      "claves": [
-        "103.1",
-        "Desconcentración"
-      ]
-    },
-    "t01-028": {
-      "hub": "h-descentral",
-      "claves": [
-        "órgano superior",
-        "órgano inferior",
-        "misma Administración",
-        "Desconcentración"
-      ]
-    },
-    "t01-029": {
-      "hub": "h-admin",
-      "claves": [
-        "función pública",
-        "Mérito y capacidad"
-      ]
-    },
-    "t01-030": {
-      "hub": "h-control",
-      "claves": [
-        "indemnizados",
-        "Fuerza mayor"
-      ]
-    },
-    "t01-031": {
-      "hub": "h-control",
-      "claves": [
-        "supremo órgano consultivo",
-        "Consejo de Estado"
-      ]
-    },
-    "t01-032": {
-      "hub": "h-control",
-      "claves": [
-        "potestad reglamentaria",
-        "legalidad de la actuación administrativa",
-        "Los Tribunales"
-      ]
-    },
-    "t01-033": {
-      "hub": "h-control",
-      "claves": [
-        "archivos y registros administrativos",
-        "seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas"
-      ]
-    },
-    "t01-034": {
-      "hub": "h-territorio",
-      "claves": [
-        "artículo 137",
-        "Municipios, provincias y Comunidades Autónomas"
-      ]
-    },
-    "t01-035": {
-      "hub": "h-municipio",
-      "claves": [
-        "Alcaldes",
-        "Por los Concejales o por los vecinos"
-      ]
-    },
-    "t01-036": {
-      "hub": "h-municipio",
-      "claves": [
-        "municipios",
-        "Ayuntamientos",
-        "Alcaldes y los Concejales"
-      ]
-    },
-    "t01-037": {
-      "hub": "h-provincia",
-      "claves": [
-        "límites provinciales",
-        "ley orgánica"
-      ]
-    },
-    "t01-038": {
-      "hub": "h-provincia",
-      "claves": [
-        "provincias",
-        "Diputaciones"
-      ]
-    },
-    "t01-039": {
-      "hub": "h-provincia",
-      "claves": [
-        "Haciendas locales",
-        "tributos propios"
-      ]
-    },
-    "t01-040": {
-      "hub": "h-competencias",
-      "claves": [
-        "artículo 148.1",
-        "Ordenación del territorio, urbanismo y vivienda"
-      ]
-    }
+   ],
+   "ic": "🏛️"
   },
-  "mapaEpis": [
-    [
-      "e1",
-      "e2"
-    ],
-    [
-      "e3"
-    ],
-    [
-      "e4"
-    ],
-    [
-      "e5"
-    ]
-  ],
-  "esquema": [
+  {
+   "id": "h-art3-8",
+   "epi": "e3",
+   "titulo": "Arts. 3 a 8 · Lo que identifica a España",
+   "art": "Arts. 3-8",
+   "resumen": "Lengua, bandera, capital, partidos, sindicatos y Fuerzas Armadas.",
+   "confunde": [
+    "h-art1"
+   ],
+   "pistas": [
     {
-      "t": "tiles",
-      "titulo": "Estructura de la Constitución",
-      "epi": "e2",
-      "intro": "Preámbulo + Título preliminar + 10 Títulos · 169 artículos · 4 DA · 9 DT · 1 DD · 1 DF",
-      "leyenda": [
-        [
-          "Principios y derechos",
-          "#247ba0"
-        ],
-        [
-          "Instituciones del Estado",
-          "#70c1b3"
-        ],
-        [
-          "Economía",
-          "#ffe066"
-        ],
-        [
-          "Territorio",
-          "#f25f5c"
-        ],
-        [
-          "Garantías y reforma",
-          "#50514f"
-        ]
-      ],
-      "items": [
-        {
-          "n": "Pre",
-          "x": "Título preliminar",
-          "s": "arts. 1-9",
-          "c": "#247ba0"
-        },
-        {
-          "n": "I",
-          "x": "Derechos y deberes fundamentales",
-          "s": "arts. 10-55",
-          "c": "#247ba0"
-        },
-        {
-          "n": "II",
-          "x": "La Corona",
-          "s": "arts. 56-65",
-          "c": "#70c1b3"
-        },
-        {
-          "n": "III",
-          "x": "Las Cortes Generales",
-          "s": "arts. 66-96",
-          "c": "#70c1b3"
-        },
-        {
-          "n": "IV",
-          "x": "Gobierno y Administración",
-          "s": "arts. 97-107",
-          "c": "#70c1b3"
-        },
-        {
-          "n": "V",
-          "x": "Relaciones Gobierno–Cortes",
-          "s": "arts. 108-116",
-          "c": "#70c1b3"
-        },
-        {
-          "n": "VI",
-          "x": "Poder Judicial",
-          "s": "arts. 117-127",
-          "c": "#70c1b3"
-        },
-        {
-          "n": "VII",
-          "x": "Economía y Hacienda",
-          "s": "arts. 128-136",
-          "c": "#ffe066"
-        },
-        {
-          "n": "VIII",
-          "x": "Organización territorial",
-          "s": "arts. 137-158",
-          "c": "#f25f5c"
-        },
-        {
-          "n": "IX",
-          "x": "Tribunal Constitucional",
-          "s": "arts. 159-165",
-          "c": "#50514f"
-        },
-        {
-          "n": "X",
-          "x": "Reforma constitucional",
-          "s": "arts. 166-169",
-          "c": "#50514f"
-        }
-      ]
+     "k": "d",
+     "t": "Castellano: lengua oficial del Estado (deber de conocerla, derecho a usarla)"
     },
     {
-      "t": "timeline",
-      "titulo": "Cómo nació la Constitución",
-      "epi": "e1",
-      "items": [
-        {
-          "f": "15-jun-1977",
-          "x": "Elecciones generales: nacen las Cortes constituyentes"
-        },
-        {
-          "f": "31-oct-1978",
-          "x": "Las Cortes aprueban el texto definitivo"
-        },
-        {
-          "f": "6-dic-1978",
-          "x": "El pueblo la ratifica en referéndum"
-        },
-        {
-          "f": "27-dic-1978",
-          "x": "El Rey la sanciona"
-        },
-        {
-          "f": "29-dic-1978",
-          "x": "Se publica en el BOE y entra en vigor",
-          "dest": 1
-        }
-      ]
+     "k": "q",
+     "t": "Otras lenguas: oficiales en su Comunidad según sus Estatutos"
     },
     {
-      "t": "tarjetas",
-      "titulo": "Los tres poderes",
-      "epi": "e0",
-      "items": [
-        {
-          "n": "1",
-          "x": "Legislativo",
-          "s": "Cortes Generales (Congreso + Senado)",
-          "d": "Hace las leyes, aprueba los Presupuestos y controla al Gobierno",
-          "c": "#247ba0"
-        },
-        {
-          "n": "2",
-          "x": "Ejecutivo",
-          "s": "Gobierno",
-          "d": "Dirige la política y la Administración civil y militar",
-          "c": "#f25f5c"
-        },
-        {
-          "n": "3",
-          "x": "Judicial",
-          "s": "Jueces y Tribunales",
-          "d": "Juzgan y hacen ejecutar lo juzgado",
-          "c": "#70c1b3"
-        }
-      ]
+     "k": "d",
+     "t": "Bandera: roja, amarilla y roja; la amarilla de doble anchura"
     },
     {
-      "t": "piramide",
-      "titulo": "Jerarquía de las normas",
-      "epi": "e0",
-      "intro": "Una norma de un piso no puede contradecir a las de arriba.",
-      "niveles": [
-        {
-          "x": "Constitución",
-          "s": "Norma suprema",
-          "c": "#247ba0"
-        },
-        {
-          "x": "Normas con rango de ley",
-          "s": "Ley orgánica · ley ordinaria · decreto-ley · decreto legislativo",
-          "c": "#70c1b3"
-        },
-        {
-          "x": "Reglamentos",
-          "s": "Reales decretos, órdenes, ordenanzas municipales…",
-          "c": "#ffe066"
-        }
-      ]
+     "k": "d",
+     "t": "Capital del Estado: la villa de Madrid"
     },
     {
-      "t": "barras",
-      "titulo": "La escalera de las mayorías",
-      "epi": "e0",
-      "intro": "Ejemplo con un Congreso de 350 diputados (votos a favor necesarios)",
-      "total": 350,
-      "items": [
-        {
-          "x": "Absoluta",
-          "v": 176,
-          "c": "#70c1b3",
-          "s": "más de la mitad (175 no basta)"
-        },
-        {
-          "x": "Tres quintos",
-          "v": 210,
-          "c": "#ffe066",
-          "s": "reforma ordinaria (art. 167)"
-        },
-        {
-          "x": "Dos tercios",
-          "v": 234,
-          "c": "#f25f5c",
-          "s": "reforma agravada (art. 168)"
-        }
-      ],
-      "nota": "Mayoría simple: más votos a favor que en contra; no hay un número fijo, depende de cuántos voten."
+     "k": "d",
+     "t": "Partidos, sindicatos y asociaciones empresariales: libres, con estructura y funcionamiento democráticos"
     },
     {
-      "t": "tiles",
-      "titulo": "Art. 9.3: los 7 principios",
-      "epi": "e3",
-      "intro": "Regla mnemotécnica: L-J-P-I-S-R-I",
-      "items": [
-        {
-          "n": "L",
-          "x": "Legalidad",
-          "c": "#247ba0"
-        },
-        {
-          "n": "J",
-          "x": "Jerarquía normativa",
-          "c": "#247ba0"
-        },
-        {
-          "n": "P",
-          "x": "Publicidad de las normas",
-          "c": "#247ba0"
-        },
-        {
-          "n": "I",
-          "x": "Irretroactividad (sancionadoras no favorables)",
-          "c": "#f25f5c"
-        },
-        {
-          "n": "S",
-          "x": "Seguridad jurídica",
-          "c": "#247ba0"
-        },
-        {
-          "n": "R",
-          "x": "Responsabilidad",
-          "c": "#247ba0"
-        },
-        {
-          "n": "I",
-          "x": "Interdicción de la arbitrariedad",
-          "c": "#247ba0"
-        }
-      ]
+     "k": "d",
+     "t": "Fuerzas Armadas: Ejército de Tierra, Armada y Ejército del Aire (bases por ley orgánica)"
     },
     {
-      "t": "tiles",
-      "titulo": "Art. 103.1: principios de la Administración",
-      "epi": "e4",
-      "intro": "E-J-D-D-C · Sirve con objetividad al interés general, con sometimiento pleno a la ley y al Derecho",
-      "items": [
-        {
-          "n": "E",
-          "x": "Eficacia",
-          "c": "#247ba0"
-        },
-        {
-          "n": "J",
-          "x": "Jerarquía",
-          "c": "#247ba0"
-        },
-        {
-          "n": "D",
-          "x": "Descentralización",
-          "c": "#f25f5c"
-        },
-        {
-          "n": "D",
-          "x": "Desconcentración",
-          "c": "#f25f5c"
-        },
-        {
-          "n": "C",
-          "x": "Coordinación",
-          "c": "#247ba0"
-        }
-      ]
-    },
-    {
-      "t": "contraste",
-      "titulo": "Descentralización frente a desconcentración",
-      "epi": "e4",
-      "a": {
-        "x": "Descentralización",
-        "c": "#f25f5c",
-        "pasos": [
-          "Estado",
-          "Comunidad Autónoma"
-        ],
-        "nota": "Pasa a OTRA entidad con personalidad jurídica propia."
-      },
-      "b": {
-        "x": "Desconcentración",
-        "c": "#247ba0",
-        "pasos": [
-          "Ministro",
-          "Dirección General"
-        ],
-        "nota": "Pasa a un órgano inferior de la MISMA entidad."
-      }
-    },
-    {
-      "t": "contraste",
-      "titulo": "Decreto-ley frente a decreto legislativo",
-      "epi": "e0",
-      "a": {
-        "x": "Decreto-ley (art. 86)",
-        "c": "#f25f5c",
-        "pasos": [
-          "Urgencia",
-          "Gobierno dicta",
-          "Congreso convalida en 30 días"
-        ],
-        "nota": "Provisional. Nace de la extraordinaria y urgente necesidad."
-      },
-      "b": {
-        "x": "Decreto legislativo (arts. 82-85)",
-        "c": "#247ba0",
-        "pasos": [
-          "Cortes delegan",
-          "Delegación expresa, concreta y con plazo",
-          "Gobierno dicta"
-        ],
-        "nota": "Nace de una delegación previa de las Cortes."
-      }
-    },
-    {
-      "t": "anidado",
-      "titulo": "Organización territorial (ejemplo: Zaragoza)",
-      "epi": "e5",
-      "intro": "Todas gozan de autonomía para gestionar sus intereses (art. 137).",
-      "niveles": [
-        {
-          "x": "Estado: España",
-          "s": "Solidaridad (138) e igualdad de derechos (139)"
-        },
-        {
-          "x": "Comunidad Autónoma: Aragón",
-          "s": "Estatuto = norma institucional básica (147)"
-        },
-        {
-          "x": "Provincia: Zaragoza",
-          "s": "Diputación · límites por ley orgánica (141)"
-        },
-        {
-          "x": "Municipio: Zaragoza",
-          "s": "Ayuntamiento: Alcalde + Concejales (140)"
-        }
-      ]
-    },
-    {
-      "t": "flujo",
-      "titulo": "Reforma de la Constitución",
-      "epi": "e2",
-      "flujos": [
-        {
-          "x": "Ordinaria · art. 167",
-          "c": "#70c1b3",
-          "pasos": [
-            "3/5 de cada Cámara",
-            "Sin acuerdo: comisión paritaria Congreso–Senado",
-            "Si no basta: mayoría absoluta del Senado + 2/3 del Congreso",
-            "Referéndum solo si lo pide 1/10 de una Cámara (15 días)"
-          ]
-        },
-        {
-          "x": "Agravada · art. 168 (Título preliminar, Cap. II Sec. 1.ª del Título I, Título II, revisión total)",
-          "c": "#f25f5c",
-          "pasos": [
-            "Principio: 2/3 de cada Cámara",
-            "Disolución inmediata de las Cortes",
-            "Nuevas Cámaras ratifican y aprueban el texto con 2/3",
-            "Referéndum obligatorio"
-          ]
-        }
-      ],
-      "nota": "Art. 169: no se puede iniciar la reforma en tiempo de guerra ni en estado de alarma, excepción o sitio."
+     "k": "t",
+     "t": "La Guardia Civil no forma parte de las Fuerzas Armadas del art. 8"
     }
+   ],
+   "ic": "🇪🇸"
+  },
+  {
+   "id": "h-art9",
+   "epi": "e3",
+   "titulo": "Art. 9 · Sujeción y siete principios",
+   "art": "Art. 9",
+   "resumen": "Todos sujetos a la Constitución; igualdad real; siete garantías.",
+   "confunde": [
+    "h-art1",
+    "h-admin"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "9.1: ciudadanos y poderes públicos sujetos a la Constitución y al resto del ordenamiento"
+    },
+    {
+     "k": "d",
+     "t": "9.2: promover, remover obstáculos y facilitar la participación (igualdad real y efectiva)"
+    },
+    {
+     "k": "d",
+     "t": "9.3: legalidad · jerarquía normativa · publicidad de las normas"
+    },
+    {
+     "k": "d",
+     "t": "9.3: irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales"
+    },
+    {
+     "k": "d",
+     "t": "9.3: seguridad jurídica · responsabilidad · interdicción de la arbitrariedad"
+    },
+    {
+     "k": "t",
+     "t": "La «proporcionalidad» NO está en el art. 9.3"
+    },
+    {
+     "k": "t",
+     "t": "La irretroactividad no vale para todas las normas"
+    }
+   ],
+   "ic": "⚖️"
+  },
+  {
+   "id": "h-nace",
+   "epi": "e1",
+   "titulo": "Cómo nace y entra en vigor",
+   "art": "Disp. final · Art. 91",
+   "resumen": "Del voto de las Cortes al BOE.",
+   "confunde": [
+    "h-estructura"
+   ],
+   "pistas": [
+    {
+     "k": "n",
+     "t": "31-oct-1978: aprueban las Cortes"
+    },
+    {
+     "k": "n",
+     "t": "6-dic-1978: referéndum"
+    },
+    {
+     "k": "n",
+     "t": "27-dic-1978: sanción del Rey"
+    },
+    {
+     "k": "n",
+     "t": "29-dic-1978: publicación en el BOE y entrada en vigor"
+    },
+    {
+     "k": "n",
+     "t": "Art. 91: el Rey sanciona en 15 días"
+    },
+    {
+     "k": "q",
+     "t": "Aprueban las Cortes; sanciona el Rey; ratifica el pueblo"
+    },
+    {
+     "k": "t",
+     "t": "Entra en vigor el día de su publicación en el BOE, no el del referéndum ni el de la sanción"
+    }
+   ],
+   "ic": "📅"
+  },
+  {
+   "id": "h-estructura",
+   "epi": "e2",
+   "titulo": "Estructura de la Constitución",
+   "art": "Títulos I-X",
+   "resumen": "Preámbulo, Título preliminar, diez Títulos y 169 artículos.",
+   "confunde": [
+    "h-reforma",
+    "h-nace"
+   ],
+   "pistas": [
+    {
+     "k": "n",
+     "t": "Preámbulo + Título preliminar + 10 Títulos (I-X)"
+    },
+    {
+     "k": "n",
+     "t": "169 artículos"
+    },
+    {
+     "k": "n",
+     "t": "4 disposiciones adicionales · 9 transitorias · 1 derogatoria · 1 final"
+    },
+    {
+     "k": "d",
+     "t": "Título III: Cortes Generales (arts. 66-96)"
+    },
+    {
+     "k": "d",
+     "t": "Título IV: Gobierno y Administración (arts. 97-107)"
+    },
+    {
+     "k": "d",
+     "t": "Título VIII: Organización territorial del Estado (arts. 137-158)"
+    },
+    {
+     "k": "d",
+     "t": "Título X: reforma constitucional (arts. 166-169)"
+    },
+    {
+     "k": "t",
+     "t": "VII = Economía y Hacienda · VIII = Territorio · IX = Tribunal Constitucional"
+    }
+   ],
+   "ic": "🧱"
+  },
+  {
+   "id": "h-reforma",
+   "epi": "e2",
+   "titulo": "Reforma constitucional",
+   "art": "Arts. 166-169",
+   "resumen": "Dos procedimientos: ordinario (3/5) y agravado (2/3).",
+   "confunde": [
+    "h-mayorias",
+    "h-estructura"
+   ],
+   "pistas": [
+    {
+     "k": "n",
+     "t": "Ordinaria (art. 167): 3/5 de cada Cámara"
+    },
+    {
+     "k": "n",
+     "t": "Referéndum solo si lo pide 1/10 de una Cámara en 15 días"
+    },
+    {
+     "k": "n",
+     "t": "Agravada (art. 168): 2/3 de cada Cámara"
+    },
+    {
+     "k": "d",
+     "t": "Agravada: disolución inmediata, nuevas Cámaras ratifican con 2/3 y referéndum obligatorio"
+    },
+    {
+     "k": "d",
+     "t": "Se protege con el art. 168: Título preliminar, Cap. II Sección 1.ª del Título I y Título II (y revisión total)"
+    },
+    {
+     "k": "d",
+     "t": "Art. 169: no se puede reformar en guerra ni en estado de alarma, excepción o sitio"
+    },
+    {
+     "k": "t",
+     "t": "Tocar el Título preliminar obliga al procedimiento agravado"
+    }
+   ],
+   "ic": "🛠️"
+  },
+  {
+   "id": "h-poderes",
+   "epi": "e0",
+   "titulo": "Los tres poderes",
+   "art": "Arts. 66, 97, 117",
+   "resumen": "Quién legisla, quién gobierna y quién juzga.",
+   "confunde": [
+    "h-admin"
+   ],
+   "pistas": [
+    {
+     "k": "q",
+     "t": "Legislativo → Cortes Generales (Congreso + Senado)"
+    },
+    {
+     "k": "q",
+     "t": "Ejecutivo → Gobierno"
+    },
+    {
+     "k": "q",
+     "t": "Judicial → Jueces y Tribunales"
+    },
+    {
+     "k": "d",
+     "t": "Las Cortes legislan, aprueban los Presupuestos y controlan al Gobierno"
+    },
+    {
+     "k": "d",
+     "t": "Jerarquía de normas: Constitución > leyes > reglamentos"
+    },
+    {
+     "k": "t",
+     "t": "Dirigir la Administración civil y militar es del Gobierno, no de las Cortes"
+    }
+   ],
+   "ic": "🔱"
+  },
+  {
+   "id": "h-organica",
+   "epi": "e0",
+   "titulo": "Ley orgánica",
+   "art": "Art. 81",
+   "resumen": "Ley especial para materias delicadas y con mayoría absoluta.",
+   "confunde": [
+    "h-mayorias",
+    "h-decreto-ley"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "Materias: derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general"
+    },
+    {
+     "k": "n",
+     "t": "Mayoría absoluta del Congreso"
+    },
+    {
+     "k": "d",
+     "t": "Votación final sobre el conjunto del proyecto"
+    },
+    {
+     "k": "d",
+     "t": "También la exigen: Fuerzas Armadas (8), Fuerzas de seguridad (104), Consejo de Estado (107), límites provinciales (141)"
+    },
+    {
+     "k": "t",
+     "t": "Tiene el mismo rango que la ley ordinaria: se distingue por materia y por mayoría"
+    },
+    {
+     "k": "t",
+     "t": "La mayoría absoluta es del Congreso, no de las dos Cámaras"
+    }
+   ],
+   "ic": "📘"
+  },
+  {
+   "id": "h-decreto-ley",
+   "epi": "e0",
+   "titulo": "Decreto-ley",
+   "art": "Art. 86",
+   "resumen": "Norma urgente del Gobierno que el Congreso debe convalidar.",
+   "confunde": [
+    "h-decreto-leg"
+   ],
+   "pistas": [
+    {
+     "k": "q",
+     "t": "Lo dicta el Gobierno",
+     "s": 1
+    },
+    {
+     "k": "d",
+     "t": "Extraordinaria y urgente necesidad"
+    },
+    {
+     "k": "d",
+     "t": "Disposición legislativa provisional"
+    },
+    {
+     "k": "n",
+     "t": "El Congreso lo convalida o lo deroga en los 30 días siguientes a su promulgación"
+    },
+    {
+     "k": "d",
+     "t": "No puede afectar a instituciones básicas, Título I, Comunidades Autónomas ni Derecho electoral general"
+    },
+    {
+     "k": "t",
+     "t": "No es lo mismo que el decreto legislativo, que nace de una delegación de las Cortes"
+    }
+   ],
+   "ic": "🚨"
+  },
+  {
+   "id": "h-decreto-leg",
+   "epi": "e0",
+   "titulo": "Decreto legislativo",
+   "art": "Arts. 82-85",
+   "resumen": "Norma del Gobierno por delegación de las Cortes.",
+   "confunde": [
+    "h-decreto-ley"
+   ],
+   "pistas": [
+    {
+     "k": "q",
+     "t": "Lo dicta el Gobierno por delegación de las Cortes Generales"
+    },
+    {
+     "k": "d",
+     "t": "Delegación expresa, para materia concreta y con plazo"
+    },
+    {
+     "k": "d",
+     "t": "Ley de bases: sirve para formar textos articulados"
+    },
+    {
+     "k": "d",
+     "t": "Ley ordinaria: sirve para refundir varios textos legales en uno"
+    },
+    {
+     "k": "d",
+     "t": "La delegación se agota cuando el Gobierno la usa"
+    },
+    {
+     "k": "t",
+     "t": "No existe delegación implícita"
+    }
+   ],
+   "ic": "📑"
+  },
+  {
+   "id": "h-mayorias",
+   "epi": "e0",
+   "titulo": "Las mayorías",
+   "art": "Concepto",
+   "resumen": "Simple, absoluta, tres quintos y dos tercios.",
+   "confunde": [
+    "h-organica",
+    "h-reforma"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "Simple: más votos a favor que en contra"
+    },
+    {
+     "k": "n",
+     "t": "Absoluta: más de la mitad de los miembros (176 de 350)"
+    },
+    {
+     "k": "n",
+     "t": "Tres quintos: 210 de 350"
+    },
+    {
+     "k": "n",
+     "t": "Dos tercios: 234 de 350"
+    },
+    {
+     "k": "d",
+     "t": "La absoluta se calcula sobre todos los miembros, no sobre los presentes"
+    },
+    {
+     "k": "t",
+     "t": "175 es justo la mitad y no basta para la absoluta"
+    }
+   ],
+   "ic": "🗳️"
+  },
+  {
+   "id": "h-admin",
+   "epi": "e4",
+   "titulo": "Administración Pública",
+   "art": "Arts. 97 y 103",
+   "resumen": "Quién la dirige y con qué principios actúa.",
+   "confunde": [
+    "h-descentral",
+    "h-poderes"
+   ],
+   "pistas": [
+    {
+     "k": "q",
+     "t": "Art. 97: el Gobierno dirige la Administración civil y militar",
+     "s": 1
+    },
+    {
+     "k": "d",
+     "t": "Sirve con objetividad los intereses generales"
+    },
+    {
+     "k": "d",
+     "t": "103.1: eficacia · jerarquía · descentralización · desconcentración · coordinación"
+    },
+    {
+     "k": "d",
+     "t": "Sometimiento pleno a la ley y al Derecho"
+    },
+    {
+     "k": "d",
+     "t": "103.2: sus órganos se crean, rigen y coordinan de acuerdo con la ley"
+    },
+    {
+     "k": "d",
+     "t": "103.3: acceso a la función pública por mérito y capacidad"
+    },
+    {
+     "k": "t",
+     "t": "En el 103.1 no aparece la «centralización»"
+    }
+   ],
+   "ic": "🏢"
+  },
+  {
+   "id": "h-descentral",
+   "epi": "e4",
+   "titulo": "Descentralizar frente a desconcentrar",
+   "art": "Art. 103.1",
+   "resumen": "Cambiar de entidad o cambiar de órgano.",
+   "confunde": [
+    "h-admin"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "Descentralización: la competencia pasa a OTRA entidad con personalidad jurídica propia"
+    },
+    {
+     "k": "d",
+     "t": "Desconcentración: pasa a un órgano inferior de la MISMA entidad"
+    },
+    {
+     "k": "d",
+     "t": "Avocación: el órgano superior asume una competencia del inferior"
+    },
+    {
+     "k": "d",
+     "t": "Ejemplo de descentralización: el Estado traspasa una competencia a una Comunidad Autónoma"
+    },
+    {
+     "k": "d",
+     "t": "Ejemplo de desconcentración: el Ministro pasa una competencia a una Dirección General"
+    }
+   ],
+   "ic": "🔀"
+  },
+  {
+   "id": "h-control",
+   "epi": "e4",
+   "titulo": "Control y garantías",
+   "art": "Arts. 105-107",
+   "resumen": "Audiencia, archivos, control judicial, indemnización y Consejo de Estado.",
+   "confunde": [
+    "h-admin"
+   ],
+   "pistas": [
+    {
+     "k": "q",
+     "t": "106.1: los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa"
+    },
+    {
+     "k": "d",
+     "t": "106.2: indemnización por lesiones causadas por el funcionamiento de los servicios públicos"
+    },
+    {
+     "k": "d",
+     "t": "105.b: archivos y registros, con tres excepciones (seguridad y defensa del Estado, delitos, intimidad)"
+    },
+    {
+     "k": "d",
+     "t": "105.a: audiencia de los ciudadanos al elaborar disposiciones que les afecten"
+    },
+    {
+     "k": "q",
+     "t": "107: Consejo de Estado, supremo órgano consultivo del Gobierno"
+    },
+    {
+     "k": "t",
+     "t": "Solo exime de indemnizar la fuerza mayor, no el caso fortuito"
+    },
+    {
+     "k": "t",
+     "t": "Tribunal de Cuentas fiscaliza; Defensor del Pueblo defiende derechos; Consejo de Estado asesora"
+    }
+   ],
+   "ic": "🛡️"
+  },
+  {
+   "id": "h-territorio",
+   "epi": "e5",
+   "titulo": "Organización territorial",
+   "art": "Arts. 137-139",
+   "resumen": "Tres niveles con autonomía, solidaridad e igualdad.",
+   "confunde": [
+    "h-municipio",
+    "h-provincia"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "137: municipios + provincias + Comunidades Autónomas que se constituyan"
+    },
+    {
+     "k": "d",
+     "t": "Todas gozan de autonomía para la gestión de sus respectivos intereses"
+    },
+    {
+     "k": "d",
+     "t": "138: solidaridad; las diferencias entre Estatutos no pueden crear privilegios económicos o sociales"
+    },
+    {
+     "k": "d",
+     "t": "139: mismos derechos y obligaciones en cualquier parte del territorio"
+    },
+    {
+     "k": "t",
+     "t": "Las comarcas no aparecen en el art. 137"
+    }
+   ],
+   "ic": "🗺️"
+  },
+  {
+   "id": "h-municipio",
+   "epi": "e5",
+   "titulo": "Municipio",
+   "art": "Art. 140",
+   "resumen": "Autonomía, Ayuntamiento y cómo se elige a Concejales y Alcaldes.",
+   "confunde": [
+    "h-provincia",
+    "h-territorio"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "Autonomía garantizada y personalidad jurídica plena"
+    },
+    {
+     "k": "q",
+     "t": "Gobierno y administración: el Ayuntamiento (Alcalde y Concejales)"
+    },
+    {
+     "k": "q",
+     "t": "Concejales: elegidos por los vecinos por sufragio universal, igual, libre, directo y secreto"
+    },
+    {
+     "k": "q",
+     "t": "Alcaldes: elegidos por los Concejales o por los vecinos"
+    },
+    {
+     "k": "d",
+     "t": "Concejo abierto: lo regula la ley"
+    },
+    {
+     "k": "t",
+     "t": "Los alcaldes no se eligen «exclusivamente» por los vecinos"
+    }
+   ],
+   "ic": "🏘️"
+  },
+  {
+   "id": "h-provincia",
+   "epi": "e5",
+   "titulo": "Provincia y haciendas locales",
+   "art": "Arts. 141-142",
+   "resumen": "Diputaciones, ley orgánica para los límites y financiación local.",
+   "confunde": [
+    "h-municipio",
+    "h-territorio"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "141: entidad local con personalidad jurídica propia; agrupación de municipios"
+    },
+    {
+     "k": "q",
+     "t": "Gobierno y administración autónoma: Diputaciones u otras Corporaciones representativas"
+    },
+    {
+     "k": "q",
+     "t": "Cambiar los límites provinciales: Cortes Generales mediante ley orgánica"
+    },
+    {
+     "k": "d",
+     "t": "En los archipiélagos, las islas tienen Cabildos o Consejos"
+    },
+    {
+     "k": "d",
+     "t": "142: las haciendas locales deben tener medios suficientes"
+    },
+    {
+     "k": "d",
+     "t": "Se nutren de tributos propios y de participación en los del Estado y de las Comunidades Autónomas"
+    }
+   ],
+   "ic": "📍"
+  },
+  {
+   "id": "h-competencias",
+   "epi": "e5",
+   "titulo": "Competencias del Estado y de las CCAA",
+   "art": "Arts. 147-149",
+   "resumen": "Qué puede asumir una Comunidad y qué es exclusivo del Estado.",
+   "confunde": [
+    "h-territorio"
+   ],
+   "pistas": [
+    {
+     "k": "d",
+     "t": "147: el Estatuto es la norma institucional básica de la Comunidad Autónoma"
+    },
+    {
+     "k": "d",
+     "t": "148: lo que las Comunidades pueden asumir (ordenación del territorio, urbanismo, vivienda, montes…)"
+    },
+    {
+     "k": "d",
+     "t": "149: competencia exclusiva del Estado (relaciones internacionales, defensa, justicia, legislación penal, mercantil y laboral)"
+    },
+    {
+     "k": "q",
+     "t": "Reformar un Estatuto: Cortes Generales mediante ley orgánica"
+    },
+    {
+     "k": "t",
+     "t": "El urbanismo está en el art. 148, no en el 149"
+    }
+   ],
+   "ic": "🧩"
+  }
+ ],
+ "preguntas": {
+  "t01-001": {
+   "hub": "h-art1",
+   "claves": [
+    "valores superiores",
+    "libertad, la justicia, la igualdad y el pluralismo político"
+   ]
+  },
+  "t01-002": {
+   "hub": "h-art1",
+   "claves": [
+    "soberanía nacional",
+    "pueblo español"
+   ]
+  },
+  "t01-003": {
+   "hub": "h-art1",
+   "claves": [
+    "forma política",
+    "Monarquía parlamentaria"
+   ]
+  },
+  "t01-004": {
+   "hub": "h-art3-8",
+   "claves": [
+    "demás lenguas",
+    "Estatutos"
+   ]
+  },
+  "t01-005": {
+   "hub": "h-art3-8",
+   "claves": [
+    "bandera",
+    "tres franjas horizontales, roja, amarilla y roja",
+    "doble anchura"
+   ]
+  },
+  "t01-006": {
+   "hub": "h-art3-8",
+   "claves": [
+    "capital del Estado",
+    "villa de Madrid"
+   ]
+  },
+  "t01-007": {
+   "hub": "h-art3-8",
+   "claves": [
+    "estructura interna y funcionamiento",
+    "democráticos"
+   ]
+  },
+  "t01-008": {
+   "hub": "h-art3-8",
+   "claves": [
+    "Fuerzas Armadas",
+    "Ejército de Tierra, la Armada y el Ejército del Aire"
+   ]
+  },
+  "t01-009": {
+   "hub": "h-art9",
+   "claves": [
+    "artículo 9.3",
+    "proporcionalidad"
+   ]
+  },
+  "t01-010": {
+   "hub": "h-art9",
+   "claves": [
+    "irretroactividad",
+    "sancionadoras no favorables o restrictivas de derechos individuales"
+   ]
+  },
+  "t01-011": {
+   "hub": "h-art9",
+   "claves": [
+    "remover los obstáculos",
+    "9.2"
+   ]
+  },
+  "t01-012": {
+   "hub": "h-estructura",
+   "claves": [
+    "169 artículos",
+    "diez Títulos"
+   ]
+  },
+  "t01-013": {
+   "hub": "h-estructura",
+   "claves": [
+    "Organización Territorial",
+    "Título VIII"
+   ]
+  },
+  "t01-014": {
+   "hub": "h-reforma",
+   "claves": [
+    "procedimiento ordinario",
+    "tres quintos de cada una de las Cámaras"
+   ]
+  },
+  "t01-015": {
+   "hub": "h-reforma",
+   "claves": [
+    "Título preliminar",
+    "Dos tercios de cada Cámara",
+    "referéndum obligatorio"
+   ]
+  },
+  "t01-016": {
+   "hub": "h-nace",
+   "claves": [
+    "entró en vigor",
+    "publicación en el BOE"
+   ]
+  },
+  "t01-017": {
+   "hub": "h-nace",
+   "claves": [
+    "sancionar",
+    "Quince días"
+   ]
+  },
+  "t01-018": {
+   "hub": "h-organica",
+   "claves": [
+    "ley orgánica",
+    "Mayoría absoluta del Congreso"
+   ]
+  },
+  "t01-019": {
+   "hub": "h-organica",
+   "claves": [
+    "ley orgánica",
+    "Estatutos de Autonomía"
+   ]
+  },
+  "t01-020": {
+   "hub": "h-organica",
+   "claves": [
+    "mismo rango",
+    "mayoría exigida"
+   ]
+  },
+  "t01-021": {
+   "hub": "h-decreto-ley",
+   "claves": [
+    "Decretos-leyes",
+    "extraordinaria y urgente necesidad"
+   ]
+  },
+  "t01-022": {
+   "hub": "h-decreto-ley",
+   "claves": [
+    "Decretos-leyes",
+    "Congreso de los Diputados",
+    "Treinta días"
+   ]
+  },
+  "t01-023": {
+   "hub": "h-mayorias",
+   "claves": [
+    "mayoría absoluta",
+    "350",
+    "176"
+   ]
+  },
+  "t01-024": {
+   "hub": "h-mayorias",
+   "claves": [
+    "mayoría simple",
+    "más votos a favor que en contra"
+   ]
+  },
+  "t01-025": {
+   "hub": "h-poderes",
+   "claves": [
+    "Cortes Generales",
+    "Dirigir la Administración civil y militar"
+   ]
+  },
+  "t01-026": {
+   "hub": "h-admin",
+   "claves": [
+    "Administración civil y militar",
+    "El Gobierno"
+   ]
+  },
+  "t01-027": {
+   "hub": "h-admin",
+   "claves": [
+    "103.1",
+    "Desconcentración"
+   ]
+  },
+  "t01-028": {
+   "hub": "h-descentral",
+   "claves": [
+    "órgano superior",
+    "órgano inferior",
+    "misma Administración",
+    "Desconcentración"
+   ]
+  },
+  "t01-029": {
+   "hub": "h-admin",
+   "claves": [
+    "función pública",
+    "Mérito y capacidad"
+   ]
+  },
+  "t01-030": {
+   "hub": "h-control",
+   "claves": [
+    "indemnizados",
+    "Fuerza mayor"
+   ]
+  },
+  "t01-031": {
+   "hub": "h-control",
+   "claves": [
+    "supremo órgano consultivo",
+    "Consejo de Estado"
+   ]
+  },
+  "t01-032": {
+   "hub": "h-control",
+   "claves": [
+    "potestad reglamentaria",
+    "legalidad de la actuación administrativa",
+    "Los Tribunales"
+   ]
+  },
+  "t01-033": {
+   "hub": "h-control",
+   "claves": [
+    "archivos y registros administrativos",
+    "seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas"
+   ]
+  },
+  "t01-034": {
+   "hub": "h-territorio",
+   "claves": [
+    "artículo 137",
+    "Municipios, provincias y Comunidades Autónomas"
+   ]
+  },
+  "t01-035": {
+   "hub": "h-municipio",
+   "claves": [
+    "Alcaldes",
+    "Por los Concejales o por los vecinos"
+   ]
+  },
+  "t01-036": {
+   "hub": "h-municipio",
+   "claves": [
+    "municipios",
+    "Ayuntamientos",
+    "Alcaldes y los Concejales"
+   ]
+  },
+  "t01-037": {
+   "hub": "h-provincia",
+   "claves": [
+    "límites provinciales",
+    "ley orgánica"
+   ]
+  },
+  "t01-038": {
+   "hub": "h-provincia",
+   "claves": [
+    "provincias",
+    "Diputaciones"
+   ]
+  },
+  "t01-039": {
+   "hub": "h-provincia",
+   "claves": [
+    "Haciendas locales",
+    "tributos propios"
+   ]
+  },
+  "t01-040": {
+   "hub": "h-competencias",
+   "claves": [
+    "artículo 148.1",
+    "Ordenación del territorio, urbanismo y vivienda"
+   ]
+  }
+ },
+ "mapaEpis": [
+  [
+   "e1",
+   "e2"
+  ],
+  [
+   "e3"
+  ],
+  [
+   "e4"
+  ],
+  [
+   "e5"
   ]
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Estructura de la Constitución",
+   "epi": "e2",
+   "intro": "Preámbulo + Título preliminar + 10 Títulos · 169 artículos · 4 DA · 9 DT · 1 DD · 1 DF",
+   "leyenda": [
+    [
+     "Principios y derechos",
+     "#247ba0"
+    ],
+    [
+     "Instituciones del Estado",
+     "#70c1b3"
+    ],
+    [
+     "Economía",
+     "#ffe066"
+    ],
+    [
+     "Territorio",
+     "#f25f5c"
+    ],
+    [
+     "Garantías y reforma",
+     "#50514f"
+    ]
+   ],
+   "items": [
+    {
+     "n": "Pre",
+     "x": "Título preliminar",
+     "s": "arts. 1-9",
+     "c": "#247ba0"
+    },
+    {
+     "n": "I",
+     "x": "Derechos y deberes fundamentales",
+     "s": "arts. 10-55",
+     "c": "#247ba0"
+    },
+    {
+     "n": "II",
+     "x": "La Corona",
+     "s": "arts. 56-65",
+     "c": "#70c1b3"
+    },
+    {
+     "n": "III",
+     "x": "Las Cortes Generales",
+     "s": "arts. 66-96",
+     "c": "#70c1b3"
+    },
+    {
+     "n": "IV",
+     "x": "Gobierno y Administración",
+     "s": "arts. 97-107",
+     "c": "#70c1b3"
+    },
+    {
+     "n": "V",
+     "x": "Relaciones Gobierno–Cortes",
+     "s": "arts. 108-116",
+     "c": "#70c1b3"
+    },
+    {
+     "n": "VI",
+     "x": "Poder Judicial",
+     "s": "arts. 117-127",
+     "c": "#70c1b3"
+    },
+    {
+     "n": "VII",
+     "x": "Economía y Hacienda",
+     "s": "arts. 128-136",
+     "c": "#ffe066"
+    },
+    {
+     "n": "VIII",
+     "x": "Organización territorial",
+     "s": "arts. 137-158",
+     "c": "#f25f5c"
+    },
+    {
+     "n": "IX",
+     "x": "Tribunal Constitucional",
+     "s": "arts. 159-165",
+     "c": "#50514f"
+    },
+    {
+     "n": "X",
+     "x": "Reforma constitucional",
+     "s": "arts. 166-169",
+     "c": "#50514f"
+    }
+   ]
+  },
+  {
+   "t": "timeline",
+   "titulo": "Cómo nació la Constitución",
+   "epi": "e1",
+   "items": [
+    {
+     "f": "15-jun-1977",
+     "x": "Elecciones generales: nacen las Cortes constituyentes"
+    },
+    {
+     "f": "31-oct-1978",
+     "x": "Las Cortes aprueban el texto definitivo"
+    },
+    {
+     "f": "6-dic-1978",
+     "x": "El pueblo la ratifica en referéndum"
+    },
+    {
+     "f": "27-dic-1978",
+     "x": "El Rey la sanciona"
+    },
+    {
+     "f": "29-dic-1978",
+     "x": "Se publica en el BOE y entra en vigor",
+     "dest": 1
+    }
+   ]
+  },
+  {
+   "t": "tarjetas",
+   "titulo": "Los tres poderes",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "1",
+     "x": "Legislativo",
+     "s": "Cortes Generales (Congreso + Senado)",
+     "d": "Hace las leyes, aprueba los Presupuestos y controla al Gobierno",
+     "c": "#247ba0"
+    },
+    {
+     "n": "2",
+     "x": "Ejecutivo",
+     "s": "Gobierno",
+     "d": "Dirige la política y la Administración civil y militar",
+     "c": "#f25f5c"
+    },
+    {
+     "n": "3",
+     "x": "Judicial",
+     "s": "Jueces y Tribunales",
+     "d": "Juzgan y hacen ejecutar lo juzgado",
+     "c": "#70c1b3"
+    }
+   ]
+  },
+  {
+   "t": "piramide",
+   "titulo": "Jerarquía de las normas",
+   "epi": "e0",
+   "intro": "Una norma de un piso no puede contradecir a las de arriba.",
+   "niveles": [
+    {
+     "x": "Constitución",
+     "s": "Norma suprema",
+     "c": "#247ba0"
+    },
+    {
+     "x": "Normas con rango de ley",
+     "s": "Ley orgánica · ley ordinaria · decreto-ley · decreto legislativo",
+     "c": "#70c1b3"
+    },
+    {
+     "x": "Reglamentos",
+     "s": "Reales decretos, órdenes, ordenanzas municipales…",
+     "c": "#ffe066"
+    }
+   ]
+  },
+  {
+   "t": "barras",
+   "titulo": "La escalera de las mayorías",
+   "epi": "e0",
+   "intro": "Ejemplo con un Congreso de 350 diputados (votos a favor necesarios)",
+   "total": 350,
+   "items": [
+    {
+     "x": "Absoluta",
+     "v": 176,
+     "c": "#70c1b3",
+     "s": "más de la mitad (175 no basta)"
+    },
+    {
+     "x": "Tres quintos",
+     "v": 210,
+     "c": "#ffe066",
+     "s": "reforma ordinaria (art. 167)"
+    },
+    {
+     "x": "Dos tercios",
+     "v": 234,
+     "c": "#f25f5c",
+     "s": "reforma agravada (art. 168)"
+    }
+   ],
+   "nota": "Mayoría simple: más votos a favor que en contra; no hay un número fijo, depende de cuántos voten."
+  },
+  {
+   "t": "tiles",
+   "titulo": "Art. 9.3: los 7 principios",
+   "epi": "e3",
+   "intro": "Regla mnemotécnica: L-J-P-I-S-R-I",
+   "items": [
+    {
+     "n": "L",
+     "x": "Legalidad",
+     "c": "#247ba0"
+    },
+    {
+     "n": "J",
+     "x": "Jerarquía normativa",
+     "c": "#247ba0"
+    },
+    {
+     "n": "P",
+     "x": "Publicidad de las normas",
+     "c": "#247ba0"
+    },
+    {
+     "n": "I",
+     "x": "Irretroactividad (sancionadoras no favorables)",
+     "c": "#f25f5c"
+    },
+    {
+     "n": "S",
+     "x": "Seguridad jurídica",
+     "c": "#247ba0"
+    },
+    {
+     "n": "R",
+     "x": "Responsabilidad",
+     "c": "#247ba0"
+    },
+    {
+     "n": "I",
+     "x": "Interdicción de la arbitrariedad",
+     "c": "#247ba0"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Art. 103.1: principios de la Administración",
+   "epi": "e4",
+   "intro": "E-J-D-D-C · Sirve con objetividad al interés general, con sometimiento pleno a la ley y al Derecho",
+   "items": [
+    {
+     "n": "E",
+     "x": "Eficacia",
+     "c": "#247ba0"
+    },
+    {
+     "n": "J",
+     "x": "Jerarquía",
+     "c": "#247ba0"
+    },
+    {
+     "n": "D",
+     "x": "Descentralización",
+     "c": "#f25f5c"
+    },
+    {
+     "n": "D",
+     "x": "Desconcentración",
+     "c": "#f25f5c"
+    },
+    {
+     "n": "C",
+     "x": "Coordinación",
+     "c": "#247ba0"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Descentralización frente a desconcentración",
+   "epi": "e4",
+   "a": {
+    "x": "Descentralización",
+    "c": "#f25f5c",
+    "pasos": [
+     "Estado",
+     "Comunidad Autónoma"
+    ],
+    "nota": "Pasa a OTRA entidad con personalidad jurídica propia."
+   },
+   "b": {
+    "x": "Desconcentración",
+    "c": "#247ba0",
+    "pasos": [
+     "Ministro",
+     "Dirección General"
+    ],
+    "nota": "Pasa a un órgano inferior de la MISMA entidad."
+   }
+  },
+  {
+   "t": "contraste",
+   "titulo": "Decreto-ley frente a decreto legislativo",
+   "epi": "e0",
+   "a": {
+    "x": "Decreto-ley (art. 86)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Urgencia",
+     "Gobierno dicta",
+     "Congreso convalida en 30 días"
+    ],
+    "nota": "Provisional. Nace de la extraordinaria y urgente necesidad."
+   },
+   "b": {
+    "x": "Decreto legislativo (arts. 82-85)",
+    "c": "#247ba0",
+    "pasos": [
+     "Cortes delegan",
+     "Delegación expresa, concreta y con plazo",
+     "Gobierno dicta"
+    ],
+    "nota": "Nace de una delegación previa de las Cortes."
+   }
+  },
+  {
+   "t": "anidado",
+   "titulo": "Organización territorial (ejemplo: Zaragoza)",
+   "epi": "e5",
+   "intro": "Todas gozan de autonomía para gestionar sus intereses (art. 137).",
+   "niveles": [
+    {
+     "x": "Estado: España",
+     "s": "Solidaridad (138) e igualdad de derechos (139)"
+    },
+    {
+     "x": "Comunidad Autónoma: Aragón",
+     "s": "Estatuto = norma institucional básica (147)"
+    },
+    {
+     "x": "Provincia: Zaragoza",
+     "s": "Diputación · límites por ley orgánica (141)"
+    },
+    {
+     "x": "Municipio: Zaragoza",
+     "s": "Ayuntamiento: Alcalde + Concejales (140)"
+    }
+   ]
+  },
+  {
+   "t": "flujo",
+   "titulo": "Reforma de la Constitución",
+   "epi": "e2",
+   "flujos": [
+    {
+     "x": "Ordinaria · art. 167",
+     "c": "#70c1b3",
+     "pasos": [
+      "3/5 de cada Cámara",
+      "Sin acuerdo: comisión paritaria Congreso–Senado",
+      "Si no basta: mayoría absoluta del Senado + 2/3 del Congreso",
+      "Referéndum solo si lo pide 1/10 de una Cámara (15 días)"
+     ]
+    },
+    {
+     "x": "Agravada · art. 168 (Título preliminar, Cap. II Sec. 1.ª del Título I, Título II, revisión total)",
+     "c": "#f25f5c",
+     "pasos": [
+      "Principio: 2/3 de cada Cámara",
+      "Disolución inmediata de las Cortes",
+      "Nuevas Cámaras ratifican y aprueban el texto con 2/3",
+      "Referéndum obligatorio"
+     ]
+    }
+   ],
+   "nota": "Art. 169: no se puede iniciar la reforma en tiempo de guerra ni en estado de alarma, excepción o sitio."
+  }
+ ]
 }

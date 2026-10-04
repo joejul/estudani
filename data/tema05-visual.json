@@ -79,7 +79,8 @@
      "n",
      "Urgencia: mitad, salvo solicitudes y recursos; sin recurso (33)"
     ]
-   ]
+   ],
+   "ic": "⏳"
   },
   {
    "id": "h-resolver",
@@ -123,7 +124,8 @@
      "t",
      "El silencio negativo exige norma con rango de ley"
     ]
-   ]
+   ],
+   "ic": "🤐"
   },
   {
    "id": "h-registro",
@@ -159,7 +161,8 @@
      "d",
      "Presentación: registro electrónico, Correos, consulados, oficinas de asistencia, otros"
     ]
-   ]
+   ],
+   "ic": "📥"
   }
  ],
  "esquema": [

@@ -416,3 +416,16 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 .sel-t input { flex: none; width: 26px; height: 26px; accent-color: var(--brand); }
 .sel-x { display: flex; flex-direction: column; min-width: 0; }
 .sel-x small { color: var(--muted); }
+
+/* ---- dominio por tema ---- */
+.dom-lista { display: grid; gap: 4px; margin: 8px 0 14px; }
+.dom-fila { display: block; padding: 10px 0; border-bottom: 1px solid var(--line); color: inherit; text-decoration: none; }
+.dom-fila:last-child { border-bottom: 0; }
+.dom-t { display: block; line-height: 1.35; }
+.dom-b { display: block; height: 10px; background: var(--line); border-radius: 99px; overflow: hidden; margin: 8px 0 4px; }
+.dom-b span { display: block; height: 100%; border-radius: 99px; }
+.dom-b.d-bajo span { background: var(--bad); }
+.dom-b.d-medio span { background: var(--warn); }
+.dom-b.d-alto span { background: var(--good); }
+.dom-b.d-nuevo span { background: var(--muted); opacity: .4; }
+.dom-n { color: var(--muted); }
