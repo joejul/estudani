@@ -1,0 +1,592 @@
+{
+ "fuente": "Primer ejercicio, primera prueba · Auxiliar Administrativo (turno libre) · Ayuntamiento de Zaragoza · 1-jun-2025",
+ "opciones": 3,
+ "clave": "Plantilla definitiva (Anexo II) del Ayuntamiento de Zaragoza. c = índice 0-2 de la respuesta correcta. Texto procedente de OCR: puede tener erratas.",
+ "preguntas": [
+  {
+   "n": "1",
+   "q": "El v¡gente Plan de lgualdad para empleadas y empleados del Ayuntamiento deZaragoza fue aprobado el 22 de diciembre de 2023 y, de acuerdo con su artículo 5.3, el período de vigencia del mismo será de:",
+   "o": [
+    "Dos años desde su aprobación y registro.",
+    "Cuatro años desde su aprobación y registro.",
+    "Cinco años desde su aprobación y registro."
+   ],
+   "c": 1,
+   "e": "Plan de Igualdad del Ayuntamiento, art. 5.3: vigencia de cuatro años desde su aprobación (22-dic-2023) y registro. Ver Tema 2."
+  },
+  {
+   "n": "2",
+   "q": "De acuerdo con el artículo 85.2 de la Ley 711985, de 2 de abril, Reguladora de las Bases del Régimen Local, no es una forma de gestión directa de los servicios públicos locales:",
+   "o": [
+    "Organismo autónomo local.",
+    "Concesión.",
+    "Entidad pública empresarial local"
+   ],
+   "c": 1,
+   "e": "LBRL art. 85.2: gestión directa = propia entidad, organismo autónomo, entidad pública empresarial y sociedad mercantil pública. La concesión es gestión indirecta (contrato de gestión de servicios). Ver Tema 11."
+  },
+  {
+   "n": "3",
+   "q": "De acuerdo con el artículo 71.9.a del Estatuto de Autonomía de Aragón, ¿Qué clase de competencia corresponde a la Comunidad Autónoma en materia de \"Urbanismo, que comprende, en todo caso, el régimen urbanístico del suelo, su planeamiento y gestión y la protección de la legalidad urbanística, así como la regulación del régimen jurídico de la propiedad del suelo respetando las condiciones básicas que el Estado establece para garantizar la igualdad delejercicio del derecho a la propiedad\"?",
+   "o": [
+    "La competencia exclusiva.",
+    "La competencia compartida",
+    "La competencia ejecutiva."
+   ],
+   "c": 0,
+   "e": "Estatuto de Aragón art. 71.9: el urbanismo es competencia exclusiva de la Comunidad Autónoma. Ver Tema 3."
+  },
+  {
+   "n": "4",
+   "q": "El artículo 13.4 f) de la Ley 711985, de 2 de abril, Reguladora de las Bases del Régimen Local, dice que el municipio resultante de una fusión queda dispensado de prestar nuevos servicios mínimos de los previstos en el artículo 26 que le corresponda por razón de su aumento poblacional. ¿Establece aquel precepto algún plazo de duración de esa dispensa?",
+   "o": [
+    "SÍ, cinco años desde la adopción del convenio de fusión",
+    "Sí, diez años desde la adopción del convenio de fusión.",
+    "No."
+   ],
+   "c": 2,
+   "e": "Según la plantilla oficial: el art. 13.4.f no fija plazo de duración para esa dispensa. Precepto no contrastado aún en la app (LBRL art. 13, alteración de términos municipales; ver Tema 14)."
+  },
+  {
+   "n": "5",
+   "q": "El artículo 10 del Estatuto de Autonomía de Aragón establece los requisitos necesarios para que puedan incorporarse a la Comunidad Autónoma otros territorios o municipios, limítrofes o enclavados. Uno de esos requisitos es:",
+   "o": [
+    "La aprobación por las Cortes de Aragón y, posteriormente, por las Cortes Generales del Estado, mediante ley orgánica",
+    "La aprobacion por el Gobierno de Aragon y, posteriormente, por las Cortes deAragón.",
+    "La aprobación por las Cortes de Aragón y, posteriormente, por las Cortes Generales del Estado."
+   ],
+   "c": 0,
+   "e": "Estatuto de Aragón art. 10.c: aprobación por las Cortes de Aragón y después por las Cortes Generales mediante ley orgánica. Ver Tema 3."
+  },
+  {
+   "n": "6",
+   "q": ".De acuerdo con los artículos 21.1 y 42 del Real Decreto Legislativo 212004, de 5 de marzo, por el que se aprueba el texto refúndido de la Ley Reguladora de las Haciendas Locales, por el servicio de limpieza de la vía pública:",
+   "o": [
+    "Las entidádes locales no podrán exigir tasas.",
+    "Las entidades locales podrán exigir precios públicos.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 0,
+   "e": "TRLRHL art. 21.1.e: no se pueden exigir tasas por la limpieza de la vía pública, y el art. 42 extiende la prohibición a los precios públicos. Por eso solo es correcta la a). Ver Tema 12."
+  },
+  {
+   "n": "7",
+   "q": "De acuerdo con el artículo 31.1'del Real Decreto Legislativo 212004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, la base imponible de las contribuciones especiales está constituida, como máximo, por un porcentaje del coste que la entidad local soporte por la realización de las obras o por el estableciqriento o ampliación de los servicios. Dicho porcentaje es:",
+   "o": [
+    "El 75 por ciento.",
+    "El 80 por ciento.",
+    "El 90 por ciento."
+   ],
+   "c": 2,
+   "e": "TRLRHL art. 31.1: la base imponible de las contribuciones especiales es, como máximo, el 90 % del coste. Ver Tema 12."
+  },
+  {
+   "n": "8",
+   "q": "Según el artículo 14.",
+   "o": [
+    "del Real Decreto Legislativo 5/2015, de 30 de octubre, que aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los,empleados públicos tienen el siguiente derecho de carácter individual: a) A la inamovilidad en la condición de funcionario.",
+    "A la inamovilidad",
+    "A la inamovilidad en la condición de funcionario de carrera."
+   ],
+   "c": 2,
+   "e": "TREBEP art. 14.a: el derecho a la inamovilidad en la condición de funcionario de carrera es un derecho individual. Ver Tema 17."
+  },
+  {
+   "n": "9",
+   "q": "Según elartículo 89.2 delReal Decreto Legislativo 5/2015, de 30 de octubre, que aprueba el texto refundido de la Ley del Estatuto Bás¡co del Empleado Público, para obtener la excedencia voluntaria por interés particular es necesario haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un período mínimo inmediatamente anterior. Ese período mínimo es de:",
+   "o": [
+    "Un año.",
+    "Cinco años",
+    "I res anos."
+   ],
+   "c": 1,
+   "e": "TREBEP art. 89.2: la excedencia voluntaria por interés particular exige haber prestado servicios efectivos durante cinco años inmediatamente anteriores. Ver Tema 18."
+  },
+  {
+   "n": "10",
+   "q": "El artículo 39 del Real Decreto Legislativo 5/2015, de 30 de octubre, que aprueba eltexto 'refundido de Ia Ley del Estatuto Básico del Empleado Público, dice en su apartado I que . , los óiganos específicos de representación de los funcionarios son los Delegados de Personal y las Juntas de Perconal. El apartado 3 de ese artículo dice que las Juntas de Personalse constituirán en unidades electorales que cuenten con un censo mínimo de: a) 25 funcionarios. 'b) 50 füncionarios. n\\ I OO fr rnninnarine",
+   "o": [],
+   "c": 1
+  },
+  {
+   "n": "11",
+   "q": "Según el apartado lV del protocolo de actuación frente al acoso sexual, acoso por razón de sexo y acoso por orientación sexual incluido en el vigente Plan de lgualdad para empleadas y empleados del Ayuntamiento de Zarago2a, el acoso de intercambio o chantaje sexual es un tipo de:",
+   "o": [
+    "Acoso por razón de sexo.",
+    "Acoso por orientación sexual",
+    "Acoso sexual."
+   ],
+   "c": 2,
+   "e": "Plan de Igualdad, protocolo (apartado IV): el chantaje o intercambio sexual es un tipo de acoso sexual. Ver Tema 2."
+  },
+  {
+   "n": "12",
+   "q": "El Real Decreto Legislativo 212004, de 5 de matzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, establece en el apartado 1 de su artículo 72 (relativo al tipo de gravamen en el Impuesto sobre Bienes lnmuebles) que el tipo de gravamen mínimo y supletorio cuando se trate de bienes inmuebles urbanos será:",
+   "o": [
+    "El 0,4 por ciento.",
+    "El 0,6 por ciento.",
+    "Ninguna de las.respuestas anteriores es correcta."
+   ],
+   "c": 0,
+   "e": "TRLRHL art. 72.1: tipo mínimo y supletorio del IBI, 0,4 % para urbanos y 0,3 % para rústicos (máximos 1,10 % y 0,90 %). Ver Tema 12."
+  },
+  {
+   "n": "13",
+   "q": "De acuerdo con el artículo 35.1.c) de la Ley 3912015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+   "o": [
+    "Los actos que se separen del criterio seguido en actuaciones precedentes.",
+    "Los actos que se separen del dictamen preceptivo de órganos consultivos.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 0,
+   "e": "Ley 39/2015 art. 35.1.c: se motivan los actos que se separan del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos. Ver Tema 6."
+  },
+  {
+   "n": "14",
+   "q": "De acuerdo con la disposición adicional segunda. 4. de la Ley 912017, de 8 de noviembre, de Contratos del Sector Público, en los municipios de gran población las competencias como órgano de contratación se ejercerán por:",
+   "o": [
+    "ElAlcalde o la Junta de Gobierno Local, según cual sea el importe del contrato o la duración del mismo.",
+    "El Pleno, elAlcalde o la Junta de Gobierno Local, según cual sea el importe del contrato o Ia duración del mismo.",
+    "La Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo."
+   ],
+   "c": 2,
+   "e": "LCSP, DA 2.ª.4: en los municipios de gran población contrata la Junta de Gobierno Local, cualquiera que sea el importe o la duración; el Pleno solo aprueba los pliegos de cláusulas administrativas generales. Ver Tema 9."
+  },
+  {
+   "n": "15",
+   "q": "De acuerdo con el articulo 26.1 de la Ley 711985, de 2 de abril, reguladora de las Bases del Régimen Local, la biblioteca pública es un servicio que deberá prestarse:",
+   "o": [
+    "En los municipios con población superior a 5.000 habitantes.",
+    "En los municipios con población superior a '10.000 habitantes.",
+    "En los municipios con población superior a 20.000 habitantes."
+   ],
+   "c": 0,
+   "e": "LBRL art. 26.1.b: parque público, biblioteca pública y tratamiento de residuos son servicios obligatorios en municipios de más de 5.000 habitantes. Ver Tema 14."
+  },
+  {
+   "n": "16",
+   "q": "En 2018 se aprobó definitivamente la modificación del Reglamento de Organos Territoriales y Participación Ciudadana en orden a la creación de un nuevo distrito, ¿Cuál?:",
+   "o": [
+    "Distrito Valdespartera.",
+    "Distrito Arcosur.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "c": 2,
+   "e": "Ninguna de las opciones planteadas (Valdespartera y Arcosur) es correcta, según la plantilla oficial. Reglamento de Órganos Territoriales, no contrastado aún con el texto. Ver Tema 15."
+  },
+  {
+   "n": "17",
+   "q": "De acuerdo con el artículo 12'1.1 de la Ley 711985, de 2 de abril, reguladora de las Bases del Régimen Local, el régimen de organización de los mgnicipios de gran población se aplica a un municipio capitalde provincia:",
+   "o": [
+    "Si su población es superior.a los 75.000 habitantes.",
+    "Si independientemente de su población así lo decide la Asamblea Legislativa correspondiente.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 1,
+   "e": "LBRL art. 121.1.c: capitales de provincia, autonómicas o sedes de instituciones autonómicas son de gran población si lo decide la Asamblea Legislativa a iniciativa del ayuntamiento, con independencia de su población. Ver Tema 14."
+  },
+  {
+   "n": "18",
+   "q": "De acuerdo con el artículo 95.2. ¡) del Real Decreto Legislativo 512015, de 30 de octubre, que aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, constituye una falta disciplinaria muy grave la desobediencia abierta a las órdenes o inStrucciones de un superior, salvo que constituyan:",
+   "o": [
+    "lnfracción penal o administrativa.",
+    "lnfracción manifiesta del ordenamiento jurídico. .",
+    "Delito o falta."
+   ],
+   "c": 1,
+   "e": "TREBEP art. 95.2.i: es falta muy grave la desobediencia abierta a las órdenes de un superior, salvo que constituyan infracción manifiesta del ordenamiento jurídico. Ver Tema 18."
+  },
+  {
+   "n": "19",
+   "q": "De acuerdo con el artículo 10.f .d) del Real Decreto Legislativo 512A15, de 30 de octubre, que aprueba eltexto refundido de la Ley del Estatuto Básico del Empleado Público, son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter tempóral para el desempeño dá funciones propias de funcionarios de carrera, cuando se dé la siguiente circunstancia: .",
+   "o": [
+    "El exceso o acumulación de tareas por plazo máximo de tres meses, dentro de un periodo de seis meses.",
+    "El exceso o acumulación de tareas por plazo máximo de seis meses, dentro de un periodo de doce meses",
+    "El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses."
+   ],
+   "c": 2,
+   "e": "TREBEP art. 10.1.d: interinos por exceso o acumulación de tareas, máximo nueve meses dentro de un periodo de dieciocho. Ver Tema 17."
+  },
+  {
+   "n": "20",
+   "q": "El artículo 59.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, que aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, establece que en las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para-ser qubiertas entre personas con discapacidad. A continuación establece que la reserva de ese cupo se realizará de manera que, al menos, un porcentaie de las plazas ofertadas lo sea para personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad. De dicho precepto se desprende que el porcentaje de plazas ofertadas para personas que acrediten una discapacidad distinta de la intelectuales:",
+   "o": [
+    "El cinco por ciento.",
+    "El cuatro por ciento.",
+    "El dos por ciento."
+   ],
+   "c": 0,
+   "e": "TREBEP art. 59.1: reserva no inferior al 7 % para discapacidad, y al menos el 2 % de las plazas ofertadas para discapacidad intelectual; el resto, hasta el 7 %, son otras discapacidades: 5 %. Ver Tema 18."
+  },
+  {
+   "n": "21",
+   "q": "De acuerdo -con los artículos 47 y 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Gomún de las Administraciones Públicas, son nulos de pleno derecho:",
+   "o": [
+    "Los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico.",
+    "Los actos de la Administración que incurran en desviación de poder.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "c": 2,
+   "e": "Ninguna de las opciones recoge un supuesto de nulidad de pleno derecho del art. 47.1 (amparo constitucional, incompetencia manifiesta, contenido imposible, infracción penal, ausencia total de procedimiento, adquisición de derechos sin requisitos esenciales, ley expresa). Ver Tema 6."
+  },
+  {
+   "n": "22",
+   "q": "La Ley'7/1985, de 2 de abril, reguladora de las Bases del Régimen Local dice en su artículo 137 que en los municipios de gran población existirá un órgano para la resolución de las reclamaciones económico-administrativas, estableciendo en su apartado 2. que contra las resoluciones de este órgano:",
+   "o": [
+    "Podrá, con carácter potestativo, presentarse recurso de reposición",
+    "Sólo cabrá la interposición del recurso contencioso'administrativo.",
+    "Podrá interponerse recurso de alzada ante el Pleno."
+   ],
+   "c": 1,
+   "e": "LBRL art. 137: contra las resoluciones del órgano de reclamaciones económico-administrativas solo cabe recurso contencioso-administrativo. Ver Tema 14."
+  },
+  {
+   "n": "23",
+   "q": "¿bué artículo de la Constitución española establece el conocido como principio de suficiencia de las Haciendas locales?",
+   "o": [
+    "El artículo 144.",
+    "El artícuto 142.",
+    "El artículo 140."
+   ],
+   "c": 1,
+   "e": "Constitución, art. 142: las haciendas locales deben disponer de medios suficientes y se nutren de tributos propios y de participación en los del Estado y las CCAA. Ver Tema 1."
+  },
+  {
+   "n": "24",
+   "q": "De acuerdo con el artículo 30.5. de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en las empresas de hasta diez trabajadores, el empresario podrá asumir personalmente la función de prevención de riesgos profesionales:",
+   "o": [
+    "Siempre que desarrolle de forma habitual su actividad en el centro de trabajo.",
+    "Siempre que tenga la eapacidad necesaria, en función de los riesgos a que estén expuestos los trabajadores y la peligrosidad de las actividades.",
+    "Siempre que desarrolle de forma habitual su actividad en el centro de trabajo y tenga la capacidad necesaria, en función de los riesgos a que estén expuestos los trabajadores y la peligrosidad de las actividades."
+   ],
+   "c": 2,
+   "e": "Según la plantilla oficial. Ley 31/1995 de Prevención de Riesgos Laborales: no está en el temario de la app (el temario no incluye prevención de riesgos)."
+  },
+  {
+   "n": "25",
+   "q": "De acuerdo con el artículo 139.1 de la Ley 7/1999, de 9 de abrit, de Administración Local de Aragón, las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria y en el ámbito de su competencia adoptarán la denominación de:",
+   "o": [
+    "Reglamentos.",
+    "Ordenanzas.",
+    "Reglamentos u ordenanzas según cual sea su objeto."
+   ],
+   "c": 2,
+   "e": "Ley 7/1999 de Aragón art. 139.1: reglamento si regula la organización y funcionamiento; ordenanza en otro caso. Ver Tema 16."
+  },
+  {
+   "n": "26",
+   "q": "De acuerdo con el artículo 142.1 de la l-ey 711999, de 9 de abril, de Administración Local de Aragón, los bandos dictados por los Alcaldes se publicarán:",
+   "o": [
+    "En el Boletín Oficial de la Provincia.",
+    "Conforme a los usos y costumbre de la localidad",
+    "En el tablón de anuncios de la Corporación."
+   ],
+   "c": 1,
+   "e": "Ley 7/1999 de Aragón art. 142.1: los bandos se publican conforme a los usos y costumbre de la localidad. Ver Tema 16."
+  },
+  {
+   "n": "27",
+   "q": "El Real Decreto Legislativo 212004, de 5 de maÍzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, no incluye en su Título lll (\"Recursos de las provincias\"):",
+   "o": [
+    "Los impuestos.",
+    "La prestación personal y de transporte.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 2,
+   "e": "Según la plantilla oficial, ni los impuestos ni la prestación personal y de transporte figuran en el Título III («Recursos de las provincias»). Precepto no contrastado aún en la app (recursos provinciales)."
+  },
+  {
+   "n": "28",
+   "q": "De acuerdo con el artículo 129.3 del Real Decreto Legislativo 212004, de 5 de ma¡zo, por el que se aprueba el texto refündido de la Ley Reguladora de las Haciendas Locales:",
+   "o": [
+    "La prestación personal no excederá de 15 días al año.",
+    "La prestación personal no excederá de tres días consecutivos",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 2,
+   "e": "Según la plantilla oficial: son correctas a) y b). Art. 129.3 TRLRHL no contrastado aún en la app."
+  },
+  {
+   "n": "29",
+   "q": "De acuerdo con el artículo 147.2delReal Decreto Legislativo2/2OO4, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, las participaciones que las Diputaciones Provinciales tienen actualmente en las Apuestas Mutuas Deportivas del Estado participan de la naturaleza:",
+   "o": [
+    "De las tasas.",
+    "De las subvenciones.",
+    "De las participaciones en los tributos del Estado."
+   ],
+   "c": 1,
+   "e": "Según la plantilla oficial. Art. 147.2 TRLRHL (participaciones de las Diputaciones) no contrastado aún en la app."
+  },
+  {
+   "n": "30",
+   "q": "Conforme a las enumeraciones contenidas en el artículo 2, párrafo segundo, del Reglamento de Órganos Territoriales y Participación Giudadana, en el término municipal de Zaragoza:",
+   "o": [
+    "Se asientan catorce distritos. Uno de ellos, el Distrito Rural, comprende los dieciséis barrios rurales.",
+    "Se asientan dieciséis distritos. Uno de ellos, el Distrito Rural, comprende los catorce barrios rurales.",
+    "Se asientan quince distritos. Uno de ellos, el Distrito Rural, comprende los quince barrios rurales."
+   ],
+   "c": 1,
+   "e": "Reglamento de Órganos Territoriales, art. 2: dieciséis distritos, uno de ellos el Distrito Rural, que comprende los catorce barrios rurales. Ver Tema 15."
+  },
+  {
+   "n": "31",
+   "q": "De acuerdo con el artículo 2,párrafo segundo, del Reglamento de Organos Territoriales y Participación Giudadana:",
+   "o": [
+    "Los Distritos se rigen por las Juntas Municipales y los Barrios Rurales por las Juntas Vecinales.",
+    "Los Distritos se rigen por las Juntas Vecinales y los Barrios Rurales por las Juntas Municipales.",
+    "Los Distritos se rigen por las Junias de Distrito y los Barrios Rurales por las Juntas de Barrio."
+   ],
+   "c": 0,
+   "e": "Reglamento de Órganos Territoriales, art. 2: los distritos se rigen por Juntas Municipales y los barrios rurales por Juntas Vecinales. Ver Tema 15."
+  },
+  {
+   "n": "32",
+   "q": "De acuerdo con el artículo 51, último párrafo, del Reglamento de Organos Territoriales y Participación Ciudadana, se reconoce la iniciativa para proponer al Ayuntamiento la aprobación de reglamentos y ordenanzas cuando iea promovida por un número de ciudadanos, mayores de edad, empadronados en la ciudad, que represente:",
+   "o": [
+    "El 3% del padrón municipal.",
+    "El 5% del padrón municipal.",
+    "El 10 % del padrón municipal"
+   ],
+   "c": 2,
+   "e": "Reglamento de Órganos Territoriales, art. 51: la iniciativa ciudadana para proponer reglamentos y ordenanzas exige el 10 % del padrón. Ver Tema 15."
+  },
+  {
+   "n": "33",
+   "q": "De acuerdo con la disposición adicional segunda. 4. de la Ley 912017, de 8 de noviembre, de Contratos del Sector Público, en los municipios de gran población el órgano competente para aprobar los pliegos de cláusulas administrativas generales es: a) El Pleno b) La Junta de Gobierno Local c) ElAlcalde. 7 de 1,2",
+   "o": [],
+   "c": 0
+  },
+  {
+   "n": "34",
+   "q": "De acuerdo con la disposición adicional segunda. 7. de la Ley 912017, de 8 de noviembre, de Contratos del Sector Público, en las entidades locales la Mesa de contratación estará presidida:",
+   "o": [
+    "Por un miembro de la Corporación.",
+    "Por un miembro de la Corporación o un funcionario de la misma.",
+    "Por elAlcalde o Presidente de la entidad local."
+   ],
+   "c": 1,
+   "e": "LCSP, DA 2.ª.7: la Mesa de contratación se preside por un miembro de la Corporación o un funcionario. Vocales: Secretario e Interventor, mínimo tres miembros; nunca personal eventual. Ver Tema 9."
+  },
+  {
+   "n": "35",
+   "q": "De acuerdo con la disposición adicional tercera. 6. de la Ley 912017, de 8 de noviembre, de Contratos del Sector Público, tratándose de contratación pública en las entidades locales:",
+   "o": [
+    "No serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en.esa ley.",
+    "Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en esa ley.",
+    "Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en esa ley, únicamente cuando se'trate de municipios de gran población."
+   ],
+   "c": 1,
+   "e": "LCSP, DA 3.ª.6: se aplican a los contratos de obras las normas de supervisión de proyectos del art. 235. Ver Tema 9."
+  },
+  {
+   "n": "36",
+   "q": "De acuerdo con el artículo '126.2 de la Ley 711985, de 2 de abril, Reguladora de las Bases del Régimen Local, en los municipios de gran población el número de miembros de la Junta de Gobierno Local:",
+   "o": [
+    "No podrá exceder de un tercio del número legal de miembros del Pleno.",
+    "No podrá exceder de un tercio del número legal de miembros del Pleno, además delAlcalde",
+    "No podrá exceder de la mitad del número legal de miembros del Pleno."
+   ],
+   "c": 1,
+   "e": "LBRL art. 126.2: la Junta de Gobierno Local no puede exceder de un tercio del número legal de miembros del Pleno, además del Alcalde. Ver Tema 14."
+  },
+  {
+   "n": "37",
+   "q": "De acuerdo con el artículo 122.1 y '124.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en los municipios de gran población el órgano de máxima representación política de los ciudadanos en el gobierno municipal es:",
+   "o": [
+    "El Pleno.",
+    "El Consejo Social de la Ciudad.",
+    "El Pleno, que puede delegar esa condición en la Junta de Gobierno Local"
+   ],
+   "c": 0,
+   "e": "LBRL art. 122.1: el Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos. Ver Tema 14."
+  },
+  {
+   "n": "38",
+   "q": "De acuerdo con el artículo 30.2. párrafo primero, de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo:",
+   "o": [
+    "Los declarados festivos",
+    "Los sábados, los domingos y los declarados festivos.",
+    "Los sábados y los declarados festivos. Bde12"
+   ],
+   "c": 1,
+   "e": "Ley 39/2015 art. 30.2: los plazos por días son hábiles y se excluyen sábados, domingos y festivos. Ver Tema 5."
+  },
+  {
+   "n": "39",
+   "q": "De acuerdo con el artículo 109.2. de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Gomún de las Administraciones Públicas, las Administraciones Públicas podrán, asimismo, rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+   "o": [
+    "De oficio o a instancia de los interesados.",
+    "Mientras no haya transcurrido el plazo de prescripción",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 0,
+   "e": "Ley 39/2015 art. 109.2: los errores materiales, de hecho o aritméticos se rectifican en cualquier momento, de oficio o a instancia de los interesados. Ver Tema 8."
+  },
+  {
+   "n": "40",
+   "q": "De acuerdo con el artículo 116 de la Ley 39120'15, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, carecer de legitimación el recurrente: a) Es causa de suspensión del recurso, b) Es causa de inadmisión del recurso. c) Es causa de desestimación del recurso.",
+   "o": [],
+   "c": 1
+  },
+  {
+   "n": "41",
+   "q": "De.acuerdo con los artículos'167 y siguientes del Real Decreto legislativo 781/1986, de 18 de abril, que aprueba el texto refundido de las disposiciones legales vigentes en , materia de Régimen Local, Personalde Oficios es una clase comprendida:",
+   "o": [
+    "En la Escala de Administración General, Subescala Subalterna.",
+    "En la Escala de Administración Especial, Subescala de Servicios Especiales.",
+    "En la Escala de Administración Especial, Subescala Técnica, Técnicos Auxiliares"
+   ],
+   "c": 1,
+   "e": "RDLeg 781/1986 art. 172.2.d: el Personal de Oficios es una clase de la Subescala de Servicios Especiales de la Escala de Administración Especial. Ver Tema 19."
+  },
+  {
+   "n": "42",
+   "q": "De acuerdo con el artículo 76 del Real Decreto Legislativo 5/2015, de 30 de octubre, que aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la titulación exigida para el ingreso en el grupo A, Subgrupo A2, es:",
+   "o": [
+    "Título de Técnico Superior.",
+    "Título universitario de Grado.",
+    "Título de Bachiller o Técnico."
+   ],
+   "c": 1,
+   "e": "TREBEP art. 76: para el Grupo A (A1 y A2) se exige título universitario de Grado. Ver Tema 19."
+  },
+  {
+   "n": "43",
+   "q": "De acuerdo con el artículo 127.1.b| de la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local, en los municipios de gran población la aprobación del proyecto de presupuesto corresponde:",
+   "o": [
+    "Al Pleno.",
+    "A la lntervención.",
+    "A la Junta de Gobierno Local"
+   ],
+   "c": 2,
+   "e": "LBRL art. 127.1.b: en gran población la Junta de Gobierno Local aprueba el proyecto de presupuesto; el Pleno lo aprueba definitivamente. Ver Tema 14."
+  },
+  {
+   "n": "44",
+   "q": "De acuerdo con elartículo 99.1 del Decreto 34712002, de l9 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, corresponde a las Entidades locales regular la forma de utilización de sus bienes patrimoniales, de acuerdo con criterios:",
+   "o": [
+    "De rentabilidad económica.",
+    "De rentabilidad económica o social",
+    "De rentabilidad social."
+   ],
+   "c": 1,
+   "e": "Decreto 347/2002 de Aragón art. 99.1: los bienes patrimoniales se utilizan con criterios de rentabilidad económica o social. Ver Tema 10."
+  },
+  {
+   "n": "45",
+   "q": "De acuerdo con el artículo 224 de la Ley 711999, de 9 de abril, de Administración Local de Aragón:",
+   "o": [
+    "Las entidades locales podrán otorgar auxilios económicos a entidades públicas o privadas que realicen actividades de interés público que complementen o suplan las de la entidad local.",
+    "Las entidades locales podrán otorgar auxilios econórnicos a entidades públicas o privadas y a los particulares que realicen actividades de interés público que complementen o suplan las de la entidad local.",
+    "Las entidades lOcales podrán otorgar auxilios económicos a entidades públicas o privadas y a los particulares que realicen actividades de interés público."
+   ],
+   "c": 1,
+   "e": "Ley 7/1999 de Aragón art. 224: los auxilios económicos pueden darse a entidades públicas o privadas y a los particulares que realicen actividades de interés público que complementen o suplan las de la entidad. Ver Tema 11."
+  },
+  {
+   "n": "46",
+   "q": "De acuerdo con el artículo 27.1 de Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias la duración de la delegación no podrá ser inferior a:",
+   "o": [
+    "Diez años.",
+    "Cinco años.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "c": 1,
+   "e": "LBRL art. 27.1: la delegación de competencias en los Municipios no puede tener una duración inferior a cinco años. Ver Tema 14."
+  },
+  {
+   "n": "47",
+   "q": "De acuerdo con el artículo 37.1 de la Ley 39/2015; de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: ,",
+   "o": [
+    "Las resoluciones administrativaS de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, salvo que aquéllas piocedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+    "Las resoluciones administrativas de carácter particular no podrán vulnerar lq establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general",
+    "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general."
+   ],
+   "c": 1,
+   "e": "Ley 39/2015 art. 37.1: inderogabilidad singular; una resolución particular no puede vulnerar una disposición general, aunque la dicte un órgano de igual o superior jerarquía. Ver Tema 6."
+  },
+  {
+   "n": "48",
+   "q": "De acuerdo con el artículo 40.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+   "o": [
+    "Toda notificación deberá ser cursada dentro del plazo de quince días a partir de la fecha en ortc cl anfn harra eirln dinfadn",
+    "Tóda notiflcación cleberá contener el texto íntegro cle la resolución.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 1,
+   "e": "Ley 39/2015 art. 40.2: toda notificación debe contener el texto íntegro de la resolución, si pone fin a la vía administrativa, los recursos, el órgano y el plazo. Ver Tema 6."
+  },
+  {
+   "n": "49",
+   "q": "De acuerdo con el artículo 119.3. de la Ley 3912015, de I de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿Puede la resolución de un recurso administrativo agravar la situación inicial del recurrente?",
+   "o": [
+    "Sí.",
+    "Sí, en los casos permitidos por la ley.",
+    "No, en ningún caso."
+   ],
+   "c": 2,
+   "e": "Ley 39/2015 art. 119.3: la resolución del recurso no puede agravar en ningún caso la situación inicial del recurrente. Ver Tema 8."
+  },
+  {
+   "n": "50",
+   "q": "De acuerdo con el artículo 76.3 del Estatuto de Autonomía de Aragón corresponde a la . Comunidad Autónoma:",
+   "o": [
+    "La coordinación de la actuación de las PolicÍas locales aragonesas.",
+    "La coordinación de la actuación de la Policía autonómica con la de las Policías locales aragonesas.",
+    "Las respuestas a) y b) son correctas. PREGUNTAS RESERVA"
+   ],
+   "c": 0,
+   "e": "Estatuto de Aragón art. 76.3: corresponde a la Comunidad Autónoma la coordinación de la actuación de las policías locales aragonesas. Ver Tema 3."
+  },
+  {
+   "n": "R1",
+   "q": "De acuerdo con el artículo 30 del Real Decreto Legislativo212004, de 5 de marza, porel . que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en las contribuciones especiales por el establecimiento o ampliación de los servicios de extinción de incendios se considerarán personas especialmente beneficiadas y, en consecuencia, son sujetos pasivos:",
+   "o": [
+    "Los titulares de derechos sobre los bienes afectados.",
+    "Las compañias de seguros que desarrollen su actividad en el ramo, en el término municipal correspondiente.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "c": 1
+  },
+  {
+   "n": "R2",
+   "q": "De acuerdo con el artículo 98.1 b) de la Ley 3912015, de I de octubre, del Procedimiento Administrativo Gomún de las Administraciones Públicas, los actos de las Administraciones Públicas sujetos at Derecho Administrativo serán inmediatamente ejecutivos, salvo que:",
+   "o": [
+    "Se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+    "Se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que no quepa recurso en vÍa administrativa.",
+    "Se trate de una resolución de un procedimiento contra la que quepa algún recurso en vía administrativa."
+   ],
+   "c": 0
+  },
+  {
+   "n": "R3",
+   "q": "De acuerdo con el artículo 96.6 de la Ley 3912015, de 1 de octubre, del Procedimiento Administrativo Gomún de las Administraciones Públicas, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento:",
+   "o": [
+    "Salvo que una norma con rango de Ley establezca uno mayor.",
+    "Salvo que reste menos para su tramitación ordinaria.",
+    "Salvo que la norma reguladora del correspondiente procedimiento establezca uno diferente"
+   ],
+   "c": 1
+  },
+  {
+   "n": "R4",
+   "q": "De acuerdo con el artículo 100.1 del Real Decreto Legislativo 2/2OO4, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, el Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible está constituido:",
+   "o": [
+    "Por la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exrja obtención de la correspondiente licencia de obras o urbanística, solo cuando se haya obtenido dicha licencia.",
+    "Por la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija obtención de la correspondiente licencia de obras o urbanística, se haya obtenido o no dicha licencia, independientemente de que la expedición de la licencia corresponda al ayuntamiento de la imposición.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "c": 2
+  },
+  {
+   "n": "R5",
+   "q": "De acuerdo con elartículo 179.1 de la Ley 7/19gg, de 9 de abril, deAdministración Local de Aragón, los bienes comunales podrán ser desprovistos de su carácter comünal y calificados como patrimoniales mediante acuerdo de la entidad local respectiva cuando por su naturaleza intrínseca o por otras causas no hubieren sido objeto de disfrute de esta índole durante más de un número de años, aunque en alguno de ellos se haya ' producido acto aislado de aprovechamiento. ¿Cuál es ese número de años?",
+   "o": [
+    "Durante más de diez años años, aunque en alguno de ellos se haya producido acto aislado de aprovechamiento.",
+    "Durante más de veinte años, aunque en alguno de ellos se haya producido acto aislado de aprovechamiento.",
+    "Durante más de veinticinco años, aunque. en alguno de ellos se haya producido acto aislado de aprovechamiento."
+   ],
+   "c": 0
+  }
+ ]
+}

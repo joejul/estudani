@@ -1,0 +1,290 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "escala-subescala",
+   "Escala y subescala",
+   "Agrupaciones de funcionarios según sus funciones. En la función pública local: Administración General, Administración Especial y habilitación nacional, cada una con subescalas.",
+   "Art. 167 RDLeg 781/1986"
+  ],
+  [
+   "habilitacion-nacional",
+   "Habilitación de carácter nacional",
+   "Funcionarios locales seleccionados por el Estado para Secretaría e Intervención-tesorería, funciones necesarias en todos los ayuntamientos.",
+   "Art. 92 bis LBRL"
+  ],
+  [
+   "plantilla",
+   "Plantilla",
+   "Relación de todos los puestos de trabajo (funcionarios, laborales y eventuales) de una Corporación. Se aprueba cada año con el Presupuesto.",
+   "Art. 90 LBRL"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-grupos",
+   "epi": "e0",
+   "titulo": "Grupos de clasificación",
+   "art": "Art. 76 TREBEP",
+   "resumen": "A, B, C1, C2 y AP según titulación.",
+   "confunde": [
+    "h-escalas"
+   ],
+   "pistas": [
+    [
+     "d",
+     "A (A1 y A2): título universitario de Grado"
+    ],
+    [
+     "d",
+     "B: Técnico Superior"
+    ],
+    [
+     "d",
+     "C1: Bachiller o Técnico"
+    ],
+    [
+     "d",
+     "C2: Graduado en ESO"
+    ],
+    [
+     "d",
+     "AP: sin requisito de titulación"
+    ],
+    [
+     "t",
+     "A1 y A2 no se distinguen por la titulación, sino por la responsabilidad"
+    ]
+   ]
+  },
+  {
+   "id": "h-personal",
+   "epi": "e1",
+   "titulo": "Personal y régimen local",
+   "art": "Arts. 89-93 LBRL",
+   "resumen": "Quién es personal local y qué normas le rigen.",
+   "confunde": [
+    "h-escalas"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Personal local: funcionarios de carrera, laborales y eventuales"
+    ],
+    [
+     "d",
+     "Plantilla: se aprueba anualmente con el Presupuesto"
+    ],
+    [
+     "d",
+     "Oferta de empleo pública; selección por concurso, oposición o concurso-oposición libre"
+    ],
+    [
+     "q",
+     "Potestades públicas: solo funcionarios de carrera"
+    ],
+    [
+     "d",
+     "Retribuciones básicas: igual cuantía en toda la función pública"
+    ],
+    [
+     "q",
+     "Retribuciones complementarias: su cuantía global la fija el Pleno"
+    ]
+   ]
+  },
+  {
+   "id": "h-escalas",
+   "epi": "e1",
+   "titulo": "Escalas y subescalas locales",
+   "art": "Arts. 167-175 RDLeg 781/1986",
+   "resumen": "Administración General, Especial y habilitación nacional.",
+   "confunde": [
+    "h-grupos",
+    "h-personal"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Administración General: Técnica · Gestión · Administrativa · Auxiliar · Subalterna"
+    ],
+    [
+     "d",
+     "Administración Especial: Técnica y Servicios Especiales"
+    ],
+    [
+     "d",
+     "Auxiliar: mecanografía, correspondencia, cálculo sencillo, archivo"
+    ],
+    [
+     "d",
+     "Servicios Especiales: Policía Local, incendios, cometidos especiales, oficios, agentes forestales"
+    ],
+    [
+     "d",
+     "Personal de Oficios: Encargado, Maestro, Oficial, Ayudante, Operario"
+    ],
+    [
+     "d",
+     "Habilitación nacional: Secretaría · Intervención-tesorería · Secretaría-intervención"
+    ],
+    [
+     "t",
+     "Personal de Oficios va en Servicios Especiales, no en Subalterna"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Grupos de clasificación profesional",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "A",
+     "x": "A1 y A2",
+     "s": "Título universitario de Grado",
+     "c": "#f25f5c",
+     "ic": "🎓"
+    },
+    {
+     "n": "B",
+     "x": "Técnico Superior",
+     "s": "FP de grado superior",
+     "c": "#ffe066",
+     "ic": "🛠️"
+    },
+    {
+     "n": "C1",
+     "x": "Bachiller o Técnico",
+     "c": "#247ba0",
+     "ic": "📘"
+    },
+    {
+     "n": "C2",
+     "x": "Graduado en ESO",
+     "s": "Auxiliar Administrativo",
+     "c": "#70c1b3",
+     "ic": "📗"
+    },
+    {
+     "n": "AP",
+     "x": "Agrupaciones profesionales",
+     "s": "Sin titulación",
+     "c": "#50514f",
+     "ic": "👷"
+    }
+   ]
+  },
+  {
+   "t": "anidado",
+   "titulo": "Dónde está el Auxiliar Administrativo",
+   "epi": "e1",
+   "intro": "Tu plaza: Escala de Administración General, Subescala Auxiliar (grupo C2).",
+   "niveles": [
+    {
+     "x": "Funcionarios de carrera locales",
+     "s": "Sin habilitación nacional"
+    },
+    {
+     "x": "Escala de Administración General",
+     "s": "Funciones comunes de la actividad administrativa"
+    },
+    {
+     "x": "Subescala Auxiliar",
+     "s": "Mecanografía, correspondencia, cálculo sencillo, archivo"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Subescalas de Administración General",
+   "epi": "e1",
+   "items": [
+    {
+     "n": "1",
+     "x": "Técnica",
+     "s": "Funciones de nivel superior",
+     "c": "#247ba0",
+     "ic": "🧠"
+    },
+    {
+     "n": "2",
+     "x": "Gestión",
+     "c": "#247ba0",
+     "ic": "🗂️"
+    },
+    {
+     "n": "3",
+     "x": "Administrativa",
+     "s": "Trámite y colaboración",
+     "c": "#70c1b3",
+     "ic": "🖊️"
+    },
+    {
+     "n": "4",
+     "x": "Auxiliar",
+     "s": "Mecanografía, cálculo sencillo, archivo",
+     "c": "#ffe066",
+     "ic": "⌨️"
+    },
+    {
+     "n": "5",
+     "x": "Subalterna",
+     "s": "Vigilancia, conserje, ujier, portero",
+     "c": "#f25f5c",
+     "ic": "🔑"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Servicios Especiales (Administración Especial)",
+   "epi": "e1",
+   "items": [
+    {
+     "n": "a",
+     "x": "Policía Local y auxiliares",
+     "c": "#247ba0",
+     "ic": "👮"
+    },
+    {
+     "n": "b",
+     "x": "Extinción de incendios",
+     "c": "#f25f5c",
+     "ic": "🚒"
+    },
+    {
+     "n": "c",
+     "x": "Plazas de cometidos especiales",
+     "c": "#70c1b3",
+     "ic": "🎺"
+    },
+    {
+     "n": "d",
+     "x": "Personal de oficios",
+     "s": "Encargado · Maestro · Oficial · Ayudante · Operario",
+     "c": "#ffe066",
+     "ic": "🔧"
+    },
+    {
+     "n": "e",
+     "x": "Agentes forestales y medioambientales",
+     "c": "#70c1b3",
+     "ic": "🌲"
+    }
+   ]
+  }
+ ]
+}

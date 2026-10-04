@@ -1,0 +1,257 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "procedimiento-administrativo",
+   "Procedimiento administrativo",
+   "Serie ordenada de trámites que sigue la Administración para dictar una resolución: iniciar, instruir y terminar.",
+   "Ley 39/2015"
+  ],
+  [
+   "instruccion",
+   "Instrucción",
+   "Fase en la que se reúnen los datos y pruebas necesarios para resolver: alegaciones, prueba, informes, audiencia.",
+   "Arts. 75 y ss. Ley 39/2015"
+  ],
+  [
+   "audiencia",
+   "Trámite de audiencia",
+   "Momento en que se enseña el expediente al interesado antes de la propuesta de resolución para que alegue.",
+   "Art. 82 Ley 39/2015"
+  ],
+  [
+   "caducidad-procedimiento",
+   "Caducidad del procedimiento",
+   "Archivo del procedimiento por paralización: en solicitudes, tras 3 meses por causa imputable al interesado.",
+   "Art. 95 Ley 39/2015"
+  ],
+  [
+   "desistimiento",
+   "Desistimiento",
+   "Retirar la solicitud (el interesado) o abandonar un procedimiento de oficio (la Administración).",
+   "Arts. 93-94 Ley 39/2015"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-inicio",
+   "epi": "e0",
+   "titulo": "Iniciación",
+   "art": "Arts. 53-69",
+   "resumen": "De oficio o a solicitud.",
+   "confunde": [
+    "h-instruccion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Se inicia de oficio o a solicitud del interesado"
+    ],
+    [
+     "d",
+     "De oficio: iniciativa propia, orden superior, petición razonada, denuncia"
+    ],
+    [
+     "d",
+     "Actuaciones previas antes de iniciar (55)"
+    ],
+    [
+     "d",
+     "Denuncia: cualquier persona comunica hechos; expresa su identidad y relata los hechos"
+    ],
+    [
+     "n",
+     "Subsanación de la solicitud: 10 días"
+    ],
+    [
+     "t",
+     "Si no se subsana, se tiene por desistido"
+    ]
+   ]
+  },
+  {
+   "id": "h-instruccion",
+   "epi": "e1",
+   "titulo": "Instrucción y sus plazos",
+   "art": "Arts. 70-83",
+   "resumen": "Expediente, trámites y plazos.",
+   "confunde": [
+    "h-inicio",
+    "h-fin"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Expediente electrónico: conjunto ordenado de documentos"
+    ],
+    [
+     "d",
+     "Impulso de oficio con celeridad; orden riguroso de incoación"
+    ],
+    [
+     "n",
+     "10 días para cumplir trámites los interesados"
+    ],
+    [
+     "d",
+     "Alegaciones: antes de la audiencia"
+    ],
+    [
+     "n",
+     "Prueba: de 10 a 30 días"
+    ],
+    [
+     "n",
+     "Informes: 10 días"
+    ],
+    [
+     "n",
+     "Audiencia: de 10 a 15 días"
+    ],
+    [
+     "n",
+     "Información pública: no inferior a 20 días"
+    ]
+   ]
+  },
+  {
+   "id": "h-fin",
+   "epi": "e2",
+   "titulo": "Terminación y ejecución",
+   "art": "Arts. 84-105",
+   "resumen": "Cómo acaba un procedimiento y cuándo se ejecuta.",
+   "confunde": [
+    "h-instruccion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Terminan: resolución, desistimiento, renuncia, caducidad, imposibilidad material"
+    ],
+    [
+     "d",
+     "Sancionador: reconocimiento de responsabilidad y pago voluntario"
+    ],
+    [
+     "d",
+     "Desistimiento de la Administración: solo en procedimientos de oficio y motivado"
+    ],
+    [
+     "n",
+     "Caducidad: 3 meses de paralización imputable al interesado"
+    ],
+    [
+     "n",
+     "Tramitación simplificada: 30 días, salvo que reste menos"
+    ],
+    [
+     "d",
+     "Ejecutividad inmediata salvo suspensión, sancionadoras recurribles, disposición contraria o aprobación superior"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "flujo",
+   "titulo": "Fases del procedimiento",
+   "epi": "e0",
+   "flujos": [
+    {
+     "x": "Del inicio a la ejecución",
+     "c": "#247ba0",
+     "pasos": [
+      "Iniciación: de oficio o a solicitud (54)",
+      "Subsanación en 10 días si falta algo (68)",
+      "Instrucción: alegaciones, prueba, informes",
+      "Audiencia: 10 a 15 días (82)",
+      "Resolución (88) o terminación anormal (desistimiento, renuncia, caducidad)",
+      "Ejecución: inmediata salvo excepciones (98)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "barras",
+   "titulo": "Plazos de la instrucción (días)",
+   "epi": "e1",
+   "total": 30,
+   "intro": "Valor máximo de cada plazo",
+   "items": [
+    {
+     "x": "Subsanar y trámites del interesado",
+     "v": 10,
+     "c": "#247ba0",
+     "s": "10 días"
+    },
+    {
+     "x": "Informes",
+     "v": 10,
+     "c": "#70c1b3",
+     "s": "10 días"
+    },
+    {
+     "x": "Audiencia",
+     "v": 15,
+     "c": "#ffe066",
+     "s": "10 a 15 días"
+    },
+    {
+     "x": "Prueba",
+     "v": 30,
+     "c": "#f25f5c",
+     "s": "10 a 30 días"
+    }
+   ],
+   "nota": "Información pública: no inferior a 20 días."
+  },
+  {
+   "t": "tiles",
+   "titulo": "Formas de terminar el procedimiento (art. 84)",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "1",
+     "x": "Resolución",
+     "c": "#70c1b3",
+     "ic": "✅"
+    },
+    {
+     "n": "2",
+     "x": "Desistimiento",
+     "c": "#247ba0",
+     "ic": "↩️"
+    },
+    {
+     "n": "3",
+     "x": "Renuncia al derecho",
+     "c": "#247ba0",
+     "ic": "🙅"
+    },
+    {
+     "n": "4",
+     "x": "Caducidad",
+     "s": "3 meses de paralización",
+     "c": "#f25f5c",
+     "ic": "⌛"
+    },
+    {
+     "n": "5",
+     "x": "Imposibilidad material sobrevenida",
+     "c": "#ffe066",
+     "ic": "🧱"
+    }
+   ]
+  }
+ ]
+}

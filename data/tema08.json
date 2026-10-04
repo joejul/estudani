@@ -1,0 +1,595 @@
+{
+ "n": 8,
+ "titulo": "Ley 39/2015 (V): revisión de actos y recursos administrativos",
+ "fuente": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Revisión de oficio",
+   "subtitulo": "Arts. 106 a 111",
+   "clave": [
+    "Nulidad: cualquier momento y dictamen favorable (106)",
+    "Lesividad: 4 años (107)",
+    "Revocación de actos de gravamen (109.1)",
+    "Rectificación de errores (109.2)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La [[revision-oficio|revisión de oficio]] permite a la Administración corregir sus propios actos sin esperar a que alguien recurra."
+    ],
+    [
+     "tabla",
+     [
+      "Vía",
+      "Qué se revisa",
+      "Claves"
+     ],
+     [
+      [
+       "**Nulidad** (106)",
+       "Actos que **pusieron fin a la vía administrativa** o **no fueron recurridos en plazo** y están incursos en el **art. 47.1**",
+       "**En cualquier momento**, de oficio o a solicitud de interesado, con **dictamen favorable del Consejo de Estado** u órgano consultivo autonómico."
+      ],
+      [
+       "**Lesividad** (107)",
+       "Actos **favorables** para los interesados que sean **anulables** (art. 48)",
+       "**Declaración de lesividad** previa; **no puede adoptarse pasados 4 años** desde que se dictó el acto; exige **audiencia**; después se impugna ante lo **contencioso-administrativo**."
+      ],
+      [
+       "**Revocación** (109.1)",
+       "**Actos de gravamen o desfavorables**",
+       "Mientras no haya transcurrido el **plazo de prescripción**; no puede ser contraria a la **igualdad**, al **interés público** ni al ordenamiento."
+      ],
+      [
+       "**Rectificación** (109.2)",
+       "**Errores materiales, de hecho o aritméticos**",
+       "**En cualquier momento**, **de oficio o a instancia de los interesados**."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "Una multa que suma mal las cantidades tiene un **error aritmético**: el Ayuntamiento puede **rectificarlo** cuando quiera, sin dictamen ni recurso."
+    ],
+    [
+     "trampa",
+     "**Nulidad:** cualquier momento + dictamen **favorable**. **Lesividad:** actos anulables **favorables**, 4 años. **Rectificación:** de oficio **o a instancia** (examen 2025, pregunta 39)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántos años tiene la Administración para declarar la lesividad?",
+     "Cuatro desde que se dictó el acto (107.2)."
+    ],
+    [
+     "¿Cuándo se pueden rectificar los errores materiales?",
+     "En cualquier momento, de oficio o a instancia de los interesados (109.2)."
+    ]
+   ],
+   "esquema": [
+    "Nulidad (106): cualquier momento · dictamen favorable del Consejo de Estado",
+    "Lesividad (107): actos anulables favorables · 4 años · contencioso",
+    "Revocación (109.1): actos de gravamen · Rectificación (109.2): errores materiales, de hecho o aritméticos"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Los recursos administrativos: reglas comunes",
+   "subtitulo": "Arts. 112 a 120",
+   "clave": [
+    "Objeto y clases (112)",
+    "Fin de la vía administrativa (114)",
+    "Causas de inadmisión (116)",
+    "Resolución: no agravar (119.3)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Contra las **resoluciones** y los **actos de trámite cualificados** (los que deciden el fondo, imposibilitan continuar, producen indefensión o perjuicio irreparable) cabe **alzada** y **reposición potestativo**, fundados en motivos de **nulidad o anulabilidad** (arts. 47-48). No cabe recurso contra los demás actos de trámite: se alegan en la resolución final (art. 112.1)."
+    ],
+    [
+     "h",
+     "Ponen fin a la vía administrativa (art. 114.1)"
+    ],
+    [
+     "lista",
+     [
+      "Las **resoluciones de los recursos de alzada**.",
+      "Las resoluciones de órganos que **carezcan de superior jerárquico**, salvo ley en contrario.",
+      "Los **acuerdos, pactos, convenios o contratos** finalizadores.",
+      "La resolución de **responsabilidad patrimonial**.",
+      "Las demás resoluciones que una **ley** declare."
+     ]
+    ],
+    [
+     "h",
+     "Causas de inadmisión (art. 116)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** **Incompetencia** del órgano cuando el competente es de otra Administración (se remite).",
+      "**b)** **Carecer de legitimación** el recurrente.",
+      "**c)** Tratarse de un acto **no susceptible de recurso**.",
+      "**d)** Haber transcurrido el **plazo** para recurrir.",
+      "**e)** Carecer el recurso **manifiestamente de fundamento**."
+     ]
+    ],
+    [
+     "p",
+     "**Resolución (119):** estima, desestima o inadmite. Si hay **vicio de forma**, se ordena la **retroacción** del procedimiento. El órgano decide **cuantas cuestiones** plantee el procedimiento, aleguen o no los interesados (oyéndoles antes), pero **en ningún caso podrá agravar la situación inicial del recurrente** (119.3)."
+    ],
+    [
+     "trampa",
+     "Carecer de legitimación es **causa de inadmisión**, no de suspensión ni de desestimación (examen 2025, pregunta 40). **Nunca** se puede **agravar** la situación inicial del recurrente (pregunta 49)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué es causa de inadmisión según el art. 116?",
+     "Incompetencia (otra Administración), falta de legitimación, acto no recurrible, plazo vencido y falta manifiesta de fundamento."
+    ],
+    [
+     "¿Puede la resolución del recurso empeorar la situación del recurrente?",
+     "No, en ningún caso (art. 119.3)."
+    ]
+   ],
+   "esquema": [
+    "Recursos contra resoluciones y actos de trámite cualificados (112)",
+    "Fin de la vía administrativa (114) · causas de inadmisión (116)",
+    "Resolución: estima, desestima o inadmite · sin agravar (119.3)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Alzada, reposición y extraordinario de revisión",
+   "subtitulo": "Arts. 121 a 126",
+   "clave": [
+    "Alzada: 1 mes; resolver en 3 meses (122)",
+    "Reposición potestativa: 1 mes; resolver en 1 mes (124)",
+    "Extraordinario de revisión (125)"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "",
+      "Alzada (121-122)",
+      "Reposición (123-124)"
+     ],
+     [
+      [
+       "**Contra**",
+       "Resoluciones y actos que **no ponen fin a la vía administrativa**",
+       "Actos que **ponen fin a la vía administrativa**"
+      ],
+      [
+       "**Ante quién**",
+       "El **superior jerárquico** del que dictó el acto (puede presentarse ante el que lo dictó o ante el competente)",
+       "El **mismo órgano** que dictó el acto"
+      ],
+      [
+       "**Carácter**",
+       "Ordinario",
+       "**Potestativo**: se puede ir directamente a lo contencioso"
+      ],
+      [
+       "**Plazo para recurrir**",
+       "**1 mes** si el acto es expreso (si no es expreso, en cualquier momento tras los efectos del silencio)",
+       "**1 mes** si el acto es expreso"
+      ],
+      [
+       "**Plazo para resolver**",
+       "**3 meses**; si no, se entiende **desestimado**",
+       "**1 mes**"
+      ],
+      [
+       "**Contra la resolución**",
+       "No cabe otro recurso administrativo ordinario",
+       "**No cabe de nuevo** reposición"
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Reposición:** no se puede interponer recurso contencioso-administrativo hasta que se resuelva expresamente o se produzca la **desestimación presunta** del recurso de reposición (123.2).",
+      "**Extraordinario de revisión (125):** contra **actos firmes en vía administrativa**, ante el órgano que los dictó, solo por **error de hecho** que resulte del expediente, **documentos esenciales** posteriores, **documentos o testimonios declarados falsos** por sentencia firme o **acto delictivo**."
+     ]
+    ],
+    [
+     "trampa",
+     "**Alzada: 1 mes y resolver en 3.** **Reposición: 1 mes y resolver en 1.** La reposición es **potestativa** y no cabe reponer una reposición."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Plazos de la alzada?",
+     "Un mes para interponerla (acto expreso) y tres meses para resolver (122)."
+    ],
+    [
+     "¿Plazos de la reposición?",
+     "Un mes para interponerla y un mes para resolver (124)."
+    ],
+    [
+     "¿Es obligatoria la reposición?",
+     "No: es potestativa (123.1)."
+    ]
+   ],
+   "esquema": [
+    "Alzada: superior jerárquico · 1 mes / 3 meses",
+    "Reposición: mismo órgano · potestativa · 1 mes / 1 mes",
+    "Extraordinario de revisión: actos firmes, 4 motivos (125)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Revisión y recursos",
+  "ramas": [
+   {
+    "titulo": "Revisión de oficio (106-111)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Nulidad (106)",
+      "hijos": [
+       {
+        "titulo": "Cualquier momento"
+       },
+       {
+        "titulo": "Dictamen favorable del Consejo de Estado"
+       }
+      ]
+     },
+     {
+      "titulo": "Lesividad (107)",
+      "hijos": [
+       {
+        "titulo": "Actos anulables favorables"
+       },
+       {
+        "titulo": "4 años · luego contencioso"
+       }
+      ]
+     },
+     {
+      "titulo": "Revocación y rectificación (109)",
+      "hijos": [
+       {
+        "titulo": "Actos de gravamen"
+       },
+       {
+        "titulo": "Errores materiales, de hecho o aritméticos"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Reglas comunes (112-120)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Objeto",
+      "hijos": [
+       {
+        "titulo": "Resoluciones y trámites cualificados"
+       }
+      ]
+     },
+     {
+      "titulo": "Inadmisión (116)",
+      "hijos": [
+       {
+        "titulo": "Incompetencia · falta de legitimación"
+       },
+       {
+        "titulo": "No recurrible · plazo · sin fundamento"
+       }
+      ]
+     },
+     {
+      "titulo": "Resolución (119)",
+      "hijos": [
+       {
+        "titulo": "No agravar la situación"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Recursos (121-126)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Alzada",
+      "hijos": [
+       {
+        "titulo": "Superior jerárquico"
+       },
+       {
+        "titulo": "1 mes / 3 meses"
+       }
+      ]
+     },
+     {
+      "titulo": "Reposición",
+      "hijos": [
+       {
+        "titulo": "Mismo órgano · potestativa"
+       },
+       {
+        "titulo": "1 mes / 1 mes"
+       }
+      ]
+     },
+     {
+      "titulo": "Extraordinario de revisión",
+      "hijos": [
+       {
+        "titulo": "Actos firmes · 4 motivos"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 106 (nulidad)",
+    "a": "Art. 47 (supuestos de nulidad)",
+    "porque": "La revisión de oficio por nulidad solo procede en los supuestos del art. 47.1."
+   },
+   {
+    "de": "Art. 114 (fin de la vía administrativa)",
+    "a": "Arts. 121-123",
+    "porque": "Lo que no pone fin a la vía se recurre en alzada; lo que sí, en reposición potestativa o directamente en lo contencioso."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Las Administraciones Públicas declararán de oficio la nulidad de los actos en los supuestos del art. 47.1, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente, y podrán hacerlo:",
+   [
+    "En cualquier momento",
+    "Solo durante el primer año",
+    "Únicamente en el plazo de un mes"
+   ],
+   0,
+   "Art. 106.1.",
+   "Art. 106.1 Ley 39/2015",
+   "",
+   "h-revision",
+   [
+    "En cualquier momento"
+   ]
+  ],
+  [
+   "La declaración de lesividad de un acto anulable favorable para los interesados no podrá adoptarse una vez transcurridos:",
+   [
+    "Cuatro años desde que se dictó el acto",
+    "Un año",
+    "Diez años"
+   ],
+   0,
+   "Art. 107.2.",
+   "Art. 107.2 Ley 39/2015",
+   "Plazo",
+   "h-revision",
+   [
+    "cuatro años"
+   ]
+  ],
+  [
+   "Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos:",
+   [
+    "De gravamen o desfavorables",
+    "Favorables a los interesados",
+    "Todos los actos sin excepción"
+   ],
+   0,
+   "Art. 109.1.",
+   "Art. 109.1 Ley 39/2015",
+   "Gravamen frente a favorables",
+   "h-revision",
+   [
+    "gravamen o desfavorables"
+   ]
+  ],
+  [
+   "Las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+   [
+    "De oficio o a instancia de los interesados",
+    "Solo a instancia de los interesados",
+    "Solo de oficio"
+   ],
+   0,
+   "Art. 109.2 (examen 2025, pregunta 39).",
+   "Art. 109.2 Ley 39/2015",
+   "Solo de oficio",
+   "h-revision",
+   [
+    "errores materiales"
+   ]
+  ],
+  [
+   "Los recursos de alzada y potestativo de reposición cabe interponerlos contra:",
+   [
+    "Las resoluciones y los actos de trámite que decidan directa o indirectamente el fondo del asunto, impidan continuar o produzcan indefensión",
+    "Cualquier acto de trámite",
+    "Solo contra disposiciones generales"
+   ],
+   0,
+   "Art. 112.1. Contra disposiciones de carácter general no cabe recurso en vía administrativa.",
+   "Art. 112.1 Ley 39/2015",
+   "",
+   "h-comunes",
+   [
+    "actos de trámite"
+   ]
+  ],
+  [
+   "Ponen fin a la vía administrativa:",
+   [
+    "Las resoluciones de los recursos de alzada",
+    "Las providencias de trámite",
+    "Los informes preceptivos"
+   ],
+   0,
+   "Art. 114.1.a.",
+   "Art. 114.1 Ley 39/2015",
+   "",
+   "h-comunes",
+   [
+    "recursos de alzada"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 116 de la Ley 39/2015, carecer de legitimación el recurrente:",
+   [
+    "Es causa de suspensión del recurso",
+    "Es causa de inadmisión del recurso",
+    "Es causa de desestimación del recurso"
+   ],
+   1,
+   "Art. 116.b (examen 2025, pregunta 40).",
+   "Art. 116 Ley 39/2015",
+   "Inadmisión frente a desestimación",
+   "h-comunes",
+   [
+    "legitimación"
+   ]
+  ],
+  [
+   "¿Puede la resolución de un recurso administrativo agravar la situación inicial del recurrente?",
+   [
+    "No, en ningún caso",
+    "Sí, siempre",
+    "Solo si el recurso es de alzada"
+   ],
+   0,
+   "Art. 119.3 (examen 2025, pregunta 49).",
+   "Art. 119.3 Ley 39/2015",
+   "",
+   "h-comunes",
+   [
+    "agravar"
+   ]
+  ],
+  [
+   "Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo del recurso:",
+   [
+    "Se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido",
+    "Se archiva el recurso",
+    "Se estima automáticamente"
+   ],
+   0,
+   "Art. 119.2.",
+   "Art. 119.2 Ley 39/2015",
+   "",
+   "h-comunes",
+   [
+    "retroacción"
+   ]
+  ],
+  [
+   "El recurso de alzada podrá interponerse ante:",
+   [
+    "El órgano que dictó el acto que se impugna o ante el competente para resolverlo",
+    "Solo ante el superior jerárquico",
+    "Solo ante el Pleno"
+   ],
+   0,
+   "Art. 121.2.",
+   "Art. 121.2 Ley 39/2015",
+   "",
+   "h-recursos",
+   [
+    "órgano que dictó"
+   ]
+  ],
+  [
+   "El plazo para la interposición del recurso de alzada, si el acto fuera expreso, será de:",
+   [
+    "Un mes",
+    "Dos meses",
+    "Tres meses"
+   ],
+   0,
+   "Art. 122.1.",
+   "Art. 122.1 Ley 39/2015",
+   "Mes frente a meses",
+   "h-recursos",
+   [
+    "Un mes"
+   ]
+  ],
+  [
+   "El plazo máximo para dictar y notificar la resolución del recurso de alzada será de:",
+   [
+    "Tres meses",
+    "Un mes",
+    "Seis meses"
+   ],
+   0,
+   "Art. 122.2: tres meses; transcurrido sin resolución, se entiende desestimado (salvo art. 24.1 tercer párrafo).",
+   "Art. 122.2 Ley 39/2015",
+   "Alzada frente a reposición",
+   "h-recursos",
+   [
+    "tres meses"
+   ]
+  ],
+  [
+   "El recurso de reposición es:",
+   [
+    "Potestativo y se interpone ante el mismo órgano que dictó el acto",
+    "Obligatorio para acudir a la vía contencioso-administrativa",
+    "Un recurso ante el superior jerárquico"
+   ],
+   0,
+   "Art. 123.1.",
+   "Art. 123.1 Ley 39/2015",
+   "",
+   "h-recursos",
+   [
+    "Potestativo"
+   ]
+  ],
+  [
+   "El plazo máximo para dictar y notificar la resolución del recurso de reposición será de:",
+   [
+    "Un mes",
+    "Tres meses",
+    "Dos meses"
+   ],
+   0,
+   "Art. 124.2.",
+   "Art. 124.2 Ley 39/2015",
+   "",
+   "h-recursos",
+   [
+    "un mes"
+   ]
+  ],
+  [
+   "Contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión, entre otros supuestos, cuando:",
+   [
+    "Al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente",
+    "El interesado no esté conforme con la sanción",
+    "Haya transcurrido un año"
+   ],
+   0,
+   "Art. 125.1.a.",
+   "Art. 125.1 Ley 39/2015",
+   "",
+   "h-recursos",
+   [
+    "error de hecho"
+   ]
+  ]
+ ]
+}

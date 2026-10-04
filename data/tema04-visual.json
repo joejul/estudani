@@ -1,0 +1,183 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ]
+ ],
+ "glosario": [
+  [
+   "capacidad-obrar",
+   "Capacidad de obrar",
+   "Aptitud para actuar por uno mismo ante la Administración y ejercer derechos y obligaciones.",
+   "Art. 3 Ley 39/2015"
+  ],
+  [
+   "interesado",
+   "Interesado",
+   "Quien tiene derechos o intereses legítimos en un procedimiento: porque lo promueve, porque se ven afectados sus derechos o porque se persona antes de la resolución.",
+   "Art. 4 Ley 39/2015"
+  ],
+  [
+   "interes-legitimo",
+   "Interés legítimo",
+   "Ventaja o perjuicio real que una resolución puede causar a alguien aunque no sea titular de un derecho concreto.",
+   "Art. 4 Ley 39/2015"
+  ],
+  [
+   "derechohabiente",
+   "Derechohabiente",
+   "Persona que ocupa la posición de otra (por herencia o transmisión) y hereda sus derechos, incluida su condición de interesado.",
+   "Art. 4.3 Ley 39/2015"
+  ],
+  [
+   "representante",
+   "Representación",
+   "Posibilidad de que otra persona actúe en nombre del interesado ante la Administración.",
+   "Art. 5 Ley 39/2015"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-interesado",
+   "epi": "e0",
+   "titulo": "Capacidad e interesado",
+   "art": "Arts. 3-4",
+   "resumen": "Quién puede actuar y quién es interesado.",
+   "confunde": [
+    "h-actuar"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Capacidad de obrar: personas físicas y jurídicas"
+    ],
+    [
+     "d",
+     "Menores: con límites, y no los incapacitados cuando afecte"
+    ],
+    [
+     "d",
+     "Grupos de afectados y patrimonios, solo si la ley lo declara"
+    ],
+    [
+     "d",
+     "Interesado a): promueve"
+    ],
+    [
+     "d",
+     "Interesado b): derechos afectados, sin haber iniciado"
+    ],
+    [
+     "d",
+     "Interesado c): intereses legítimos afectados y se persona"
+    ],
+    [
+     "n",
+     "c) se persona mientras no haya resolución definitiva"
+    ],
+    [
+     "d",
+     "4.2 asociaciones: intereses legítimos colectivos · 4.3 derechohabiente"
+    ]
+   ]
+  },
+  {
+   "id": "h-actuar",
+   "epi": "e1",
+   "titulo": "Cómo actúa el interesado",
+   "art": "Arts. 5-12",
+   "resumen": "Representación, identificación y firma.",
+   "confunde": [
+    "h-interesado"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Representante: las actuaciones se entienden con él, salvo manifestación expresa en contra"
+    ],
+    [
+     "d",
+     "Nuevos interesados: se les comunica en la instrucción si no hubo publicidad"
+    ],
+    [
+     "d",
+     "Identidad: nombre y apellidos o denominación en el DNI o documento equivalente"
+    ],
+    [
+     "d",
+     "Firma: cualquier medio que acredite autenticidad, integridad e inalterabilidad"
+    ],
+    [
+     "d",
+     "Basta acreditar la identidad; la firma, solo en los casos legales"
+    ],
+    [
+     "d",
+     "Asistencia para usar medios electrónicos"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Tipos de interesado (art. 4.1)",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "a",
+     "x": "Quien promueve el procedimiento",
+     "c": "#247ba0",
+     "ic": "🙋"
+    },
+    {
+     "n": "b",
+     "x": "Quien tiene derechos afectados sin haberlo iniciado",
+     "c": "#70c1b3",
+     "ic": "⚖️"
+    },
+    {
+     "n": "c",
+     "x": "Quien tiene intereses legítimos afectados y se persona",
+     "s": "Antes de la resolución definitiva",
+     "c": "#ffe066",
+     "ic": "🏃"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Quién tiene capacidad de obrar (art. 3)",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "a",
+     "x": "Personas físicas y jurídicas",
+     "s": "Según las normas civiles",
+     "c": "#247ba0",
+     "ic": "👤"
+    },
+    {
+     "n": "b",
+     "x": "Menores de edad",
+     "s": "En lo permitido sin asistencia, salvo incapacitados",
+     "c": "#70c1b3",
+     "ic": "🧒"
+    },
+    {
+     "n": "c",
+     "x": "Grupos, uniones y patrimonios",
+     "s": "Solo si la ley lo declara expresamente",
+     "c": "#ffe066",
+     "ic": "👥"
+    }
+   ]
+  }
+ ]
+}

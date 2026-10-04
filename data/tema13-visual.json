@@ -1,0 +1,459 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e3"
+  ]
+ ],
+ "glosario": [
+  [
+   "presupuesto-general",
+   "Presupuesto general",
+   "El documento anual que dice cuánto puede gastar como máximo la entidad local y cuánto prevé ingresar. Integra el de la entidad, el de sus organismos autónomos y las previsiones de sus sociedades.",
+   "Art. 164 TRLRHL"
+  ],
+  [
+   "credito-presupuestario",
+   "Crédito presupuestario",
+   "Dinero autorizado en el presupuesto para un gasto concreto. Es limitativo: no se puede gastar más ni en otra cosa sin modificarlo.",
+   "Art. 172 TRLRHL"
+  ],
+  [
+   "remanente-tesoreria",
+   "Remanente de tesorería",
+   "Lo que sobra (o falta) al liquidar el presupuesto: dinero líquido más derechos pendientes de cobro, menos obligaciones pendientes de pago. Si es negativo, hay que recortar gastos.",
+   "Arts. 191-193 TRLRHL"
+  ],
+  [
+   "bases-ejecucion",
+   "Bases de ejecución",
+   "Normas que cada entidad aprueba junto al presupuesto para adaptarlo y regular su gestión (por ejemplo, créditos ampliables y transferencias).",
+   "Arts. 165, 178 y 179 TRLRHL"
+  ],
+  [
+   "prorroga-presupuesto",
+   "Prórroga del presupuesto",
+   "Si el año empieza sin presupuesto nuevo en vigor, sigue valiendo automáticamente el del año anterior con sus créditos iniciales.",
+   "Art. 169.6 TRLRHL",
+   "Es automática: nadie tiene que acordarla."
+  ],
+  [
+   "ordenador-pagos",
+   "Ordenador de gastos y de pagos",
+   "Quien decide autorizar un gasto o ordenar un pago. En las entidades locales suele ser el Presidente (el Alcalde) o quien este delegue.",
+   "Arts. 185-186 TRLRHL"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-contenido",
+   "epi": "e0",
+   "titulo": "Contenido del presupuesto",
+   "art": "Arts. 162-167",
+   "resumen": "Qué es y qué integra el presupuesto general.",
+   "confunde": [
+    "h-aprobacion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Obligaciones máximas y derechos previstos (162)"
+    ],
+    [
+     "n",
+     "Año natural (163)"
+    ],
+    [
+     "d",
+     "Entidad + organismos autónomos + estados de previsión de sociedades (164)"
+    ],
+    [
+     "n",
+     "Anexo: plan de inversión y financiación a 4 años (166)"
+    ],
+    [
+     "d",
+     "Corrientes: servicios, intereses y transferencias corrientes (167)"
+    ],
+    [
+     "d",
+     "Capital: inversiones, transferencias de capital, activos y pasivos financieros"
+    ],
+    [
+     "t",
+     "Los intereses son gasto corriente"
+    ]
+   ]
+  },
+  {
+   "id": "h-aprobacion",
+   "epi": "e1",
+   "titulo": "Aprobación y entrada en vigor",
+   "art": "Arts. 168-171",
+   "resumen": "Del Presidente al boletín oficial.",
+   "confunde": [
+    "h-capital",
+    "h-modif"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Lo forma el Presidente; lo aprueba el Pleno"
+    ],
+    [
+     "n",
+     "15 de septiembre: organismos autónomos y sociedades remiten sus previsiones"
+    ],
+    [
+     "n",
+     "15 días de exposición pública"
+    ],
+    [
+     "n",
+     "1 mes para que el Pleno resuelva reclamaciones"
+    ],
+    [
+     "n",
+     "Aprobación definitiva antes del 31 de diciembre"
+    ],
+    [
+     "d",
+     "Entra en vigor tras publicarse (resumen por capítulos en el boletín provincial)"
+    ],
+    [
+     "d",
+     "Si no está en vigor al empezar el año, prórroga automática"
+    ],
+    [
+     "d",
+     "Reclamaciones: solo 3 causas · contencioso directo · Tribunal de Cuentas si afecta a la nivelación"
+    ],
+    [
+     "t",
+     "La prórroga es automática, no se acuerda"
+    ]
+   ]
+  },
+  {
+   "id": "h-capital",
+   "epi": "e1",
+   "titulo": "Presupuesto de Zaragoza capital",
+   "art": "Art. 50 Ley 10/2017",
+   "resumen": "Especialidades de Zaragoza.",
+   "confunde": [
+    "h-aprobacion"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Iniciativa: Gobierno de Zaragoza"
+    ],
+    [
+     "n",
+     "15 días de exposición pública"
+    ],
+    [
+     "n",
+     "Proyecto al Pleno antes del 15 de octubre"
+    ],
+    [
+     "d",
+     "Enmiendas de ingresos: conformidad del Gobierno de Zaragoza"
+    ],
+    [
+     "d",
+     "Enmiendas de gastos: compensar en la misma área de gobierno y misma naturaleza del gasto"
+    ],
+    [
+     "d",
+     "Entra en vigor tras publicación oficial; si no, prórroga"
+    ],
+    [
+     "t",
+     "15 de octubre es del proyecto al Pleno; 31 de diciembre es de la aprobación definitiva general"
+    ]
+   ]
+  },
+  {
+   "id": "h-modif",
+   "epi": "e2",
+   "titulo": "Modificaciones de crédito",
+   "art": "Arts. 172-182",
+   "resumen": "Cómo cambiar créditos durante el año.",
+   "confunde": [
+    "h-ejec",
+    "h-aprobacion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Crédito extraordinario: no existe crédito"
+    ],
+    [
+     "d",
+     "Suplemento de crédito: el crédito es insuficiente"
+    ],
+    [
+     "d",
+     "Se financian con remanente líquido, mayores ingresos o bajas de créditos"
+    ],
+    [
+     "d",
+     "Ampliables: relacionados taxativamente en las bases de ejecución"
+    ],
+    [
+     "q",
+     "Transferencias entre grupos de función: Pleno, salvo créditos de personal"
+    ],
+    [
+     "d",
+     "Generación: ingresos no tributarios"
+    ],
+    [
+     "d",
+     "Incorporación: remanentes al ejercicio siguiente"
+    ],
+    [
+     "d",
+     "Baja por anulación: créditos no afectados a obligaciones reconocidas a 31-dic"
+    ],
+    [
+     "t",
+     "Sin crédito = extraordinario; crédito corto = suplemento"
+    ]
+   ]
+  },
+  {
+   "id": "h-ejec",
+   "epi": "e3",
+   "titulo": "Fases del gasto",
+   "art": "Art. 184 TRLRHL · RD 500/1990",
+   "resumen": "Autorización, disposición, reconocimiento y pago.",
+   "confunde": [
+    "h-modif",
+    "h-cierre"
+   ],
+   "pistas": [
+    [
+     "d",
+     "A · Autorización: cuantía cierta o aproximada; inicia la ejecución"
+    ],
+    [
+     "d",
+     "D · Disposición: importe exacto; relevancia jurídica con terceros"
+    ],
+    [
+     "d",
+     "O · Reconocimiento y liquidación de la obligación: crédito exigible"
+    ],
+    [
+     "d",
+     "P · Ordenación del pago: orden contra la Tesorería"
+    ],
+    [
+     "d",
+     "Un acto puede reunir fases: AD y ADO (art. 67.1)"
+    ],
+    [
+     "q",
+     "Presidente: autoriza y dispone (o el Pleno), reconoce y ordena pagos"
+    ],
+    [
+     "t",
+     "Disposición con relevancia frente a terceros; autorización no"
+    ]
+   ]
+  },
+  {
+   "id": "h-cierre",
+   "epi": "e3",
+   "titulo": "Responsabilidad y liquidación",
+   "art": "Arts. 188-193",
+   "resumen": "Quién responde y cómo se cierra el ejercicio.",
+   "confunde": [
+    "h-ejec"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Responsabilidad personal: ordenadores de gastos y pagos (siempre) e interventores (si no advierten por escrito)"
+    ],
+    [
+     "n",
+     "Liquidación del presupuesto el 31 de diciembre"
+    ],
+    [
+     "d",
+     "Lo pendiente queda a cargo de la Tesorería"
+    ],
+    [
+     "d",
+     "Remanente de tesorería negativo: el Pleno reduce gastos del nuevo presupuesto en la primera sesión"
+    ],
+    [
+     "t",
+     "El interventor responde solo si no advierte por escrito"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "flujo",
+   "titulo": "Del proyecto al boletín",
+   "epi": "e1",
+   "flujos": [
+    {
+     "x": "Procedimiento (arts. 168-169)",
+     "c": "#247ba0",
+     "pasos": [
+      "El Presidente forma el presupuesto (con las previsiones recibidas antes del 15-sep)",
+      "Aprobación inicial del Pleno",
+      "Exposición pública: 15 días",
+      "Reclamaciones: el Pleno resuelve en 1 mes",
+      "Aprobación definitiva antes del 31-dic",
+      "Publicación y entrada en vigor (si no, prórroga)"
+     ]
+    }
+   ],
+   "nota": "Zaragoza: el Gobierno de Zaragoza inicia el proyecto y lo remite al Pleno antes del 15 de octubre."
+  },
+  {
+   "t": "tiles",
+   "titulo": "Qué integra el presupuesto general",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "a",
+     "x": "Presupuesto de la propia entidad",
+     "c": "#247ba0",
+     "ic": "🏛️"
+    },
+    {
+     "n": "b",
+     "x": "Presupuestos de los organismos autónomos",
+     "c": "#247ba0",
+     "ic": "🏢"
+    },
+    {
+     "n": "c",
+     "x": "Estados de previsión de las sociedades mercantiles",
+     "c": "#247ba0",
+     "ic": "📊"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Crédito extraordinario frente a suplemento",
+   "epi": "e2",
+   "a": {
+    "x": "Crédito extraordinario",
+    "c": "#f25f5c",
+    "pasos": [
+     "Gasto que no puede esperar",
+     "No existe crédito",
+     "Pleno aprueba (trámites del presupuesto)"
+    ],
+    "nota": "Crea una partida nueva."
+   },
+   "b": {
+    "x": "Suplemento de crédito",
+    "c": "#247ba0",
+    "pasos": [
+     "Gasto que no puede esperar",
+     "Crédito insuficiente",
+     "Pleno aprueba (trámites del presupuesto)"
+    ],
+    "nota": "Refuerza una partida existente."
+   }
+  },
+  {
+   "t": "tiles",
+   "titulo": "Modificaciones de crédito",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "1",
+     "x": "Crédito extraordinario",
+     "c": "#f25f5c",
+     "ic": "➕"
+    },
+    {
+     "n": "2",
+     "x": "Suplemento de crédito",
+     "c": "#f25f5c",
+     "ic": "📈"
+    },
+    {
+     "n": "3",
+     "x": "Ampliación (bases de ejecución)",
+     "c": "#247ba0",
+     "ic": "↗️"
+    },
+    {
+     "n": "4",
+     "x": "Transferencia entre partidas",
+     "c": "#247ba0",
+     "ic": "🔀"
+    },
+    {
+     "n": "5",
+     "x": "Generación por ingresos no tributarios",
+     "c": "#70c1b3",
+     "ic": "💶"
+    },
+    {
+     "n": "6",
+     "x": "Incorporación de remanentes",
+     "c": "#70c1b3",
+     "ic": "⏩"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Las 4 fases del gasto",
+   "epi": "e3",
+   "intro": "Combinaciones del art. 67.1 RD 500/1990: AD y ADO",
+   "items": [
+    {
+     "n": "A",
+     "x": "Autorización",
+     "s": "Cuantía cierta o aproximada · inicia la ejecución",
+     "c": "#247ba0",
+     "ic": "✍️"
+    },
+    {
+     "n": "D",
+     "x": "Disposición",
+     "s": "Importe exacto · relevancia con terceros",
+     "c": "#247ba0",
+     "ic": "🤝"
+    },
+    {
+     "n": "O",
+     "x": "Reconocimiento de la obligación",
+     "s": "Crédito exigible contra la entidad",
+     "c": "#f25f5c",
+     "ic": "🧾"
+    },
+    {
+     "n": "P",
+     "x": "Ordenación del pago",
+     "s": "Orden contra la Tesorería",
+     "c": "#70c1b3",
+     "ic": "💸"
+    }
+   ]
+  }
+ ]
+}

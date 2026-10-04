@@ -1,0 +1,220 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "ordenanza",
+   "Ordenanza",
+   "Norma general del ayuntamiento que regula actividades o conductas de los vecinos (limpieza, ruido, tributos…).",
+   "Art. 139 Ley 7/1999"
+  ],
+  [
+   "reglamento-local",
+   "Reglamento local",
+   "Norma general del ayuntamiento que regula su propia organización y funcionamiento.",
+   "Art. 139 Ley 7/1999"
+  ],
+  [
+   "bando",
+   "Bando",
+   "Aviso del Alcalde para recordar obligaciones a los vecinos o convocarlos. En emergencias permite medidas inmediatas.",
+   "Art. 142 Ley 7/1999"
+  ],
+  [
+   "potestad-autoorganizacion",
+   "Potestad de autoorganización",
+   "Capacidad de la entidad local de organizarse a sí misma mediante sus reglamentos orgánicos.",
+   "Art. 4 LBRL"
+  ],
+  [
+   "inderogabilidad-singular",
+   "Inderogabilidad singular",
+   "Una resolución individual no puede saltarse una norma general, ni siquiera por quien la dictó.",
+   "Art. 37 Ley 39/2015"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-concepto",
+   "epi": "e0",
+   "titulo": "Reglamentos y ordenanzas",
+   "art": "Art. 4 LBRL · art. 139 Ley 7/1999",
+   "resumen": "Qué son y para qué sirven.",
+   "confunde": [
+    "h-aprobacion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Potestad reglamentaria y de autoorganización, siempre"
+    ],
+    [
+     "d",
+     "Reglamento: regula la organización y funcionamiento de la entidad"
+    ],
+    [
+     "d",
+     "Ordenanza: regula lo demás"
+    ],
+    [
+     "d",
+     "Sujetos a jerarquía normativa y competencia"
+    ],
+    [
+     "d",
+     "Vinculan a ciudadanos y a la propia entidad"
+    ],
+    [
+     "t",
+     "No se puede dispensar individualmente de su observancia"
+    ]
+   ]
+  },
+  {
+   "id": "h-aprobacion",
+   "epi": "e1",
+   "titulo": "Aprobación de ordenanzas",
+   "art": "Art. 49 LBRL · art. 140 Ley 7/1999 · art. 48 Ley 10/2017",
+   "resumen": "Pasos desde la aprobación inicial.",
+   "confunde": [
+    "h-vigencia"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Aprobación inicial por el Pleno"
+    ],
+    [
+     "n",
+     "Información pública y audiencia: mínimo 30 días"
+    ],
+    [
+     "q",
+     "Aprobación definitiva por el Pleno; sin reclamaciones, definitivo automático"
+    ],
+    [
+     "d",
+     "Modificación: mismos trámites"
+    ],
+    [
+     "q",
+     "Zaragoza: el Gobierno de Zaragoza aprueba el proyecto"
+    ],
+    [
+     "n",
+     "Zaragoza: información pública mínimo 30 días naturales"
+    ],
+    [
+     "d",
+     "Zaragoza: Comisión dictamina; el Pleno aprueba en acto único"
+    ]
+   ]
+  },
+  {
+   "id": "h-vigencia",
+   "epi": "e2",
+   "titulo": "Vigencia, fiscales y bandos",
+   "art": "Arts. 141-142 Ley 7/1999 · 15-17 TRLRHL",
+   "resumen": "Cuándo producen efectos y cómo se publican.",
+   "confunde": [
+    "h-aprobacion"
+   ],
+   "pistas": [
+    [
+     "n",
+     "General: efectos a los 15 días de la publicación íntegra en el boletín provincial"
+    ],
+    [
+     "d",
+     "Fiscales: al publicarse el acuerdo definitivo y el texto, salvo demora"
+    ],
+    [
+     "n",
+     "Ordenanzas fiscales: exposición al menos 30 días"
+    ],
+    [
+     "d",
+     "Bandos: exhortan y recuerdan obligaciones"
+    ],
+    [
+     "d",
+     "Bandos: se publican según usos y costumbre"
+    ],
+    [
+     "d",
+     "Catástrofe: el Alcalde adopta medidas y da cuenta al Pleno"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "flujo",
+   "titulo": "Aprobación de una ordenanza (régimen general)",
+   "epi": "e1",
+   "flujos": [
+    {
+     "x": "Art. 49 LBRL",
+     "c": "#247ba0",
+     "pasos": [
+      "Aprobación inicial por el Pleno",
+      "Información pública y audiencia (mínimo 30 días)",
+      "Resolución de reclamaciones y aprobación definitiva por el Pleno",
+      "Publicación íntegra en el boletín de la provincia",
+      "Efectos 15 días después"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "flujo",
+   "titulo": "Aprobación en Zaragoza (art. 48 Ley 10/2017)",
+   "epi": "e1",
+   "flujos": [
+    {
+     "x": "Proyecto normativo del Gobierno de Zaragoza",
+     "c": "#f25f5c",
+     "pasos": [
+      "El Gobierno de Zaragoza aprueba el proyecto",
+      "Información pública mínimo 30 días naturales",
+      "Comisión plenaria dictamina con las reclamaciones",
+      "El Pleno aprueba en acto único",
+      "Publicación íntegra en el boletín oficial"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Reglamento frente a ordenanza",
+   "epi": "e0",
+   "a": {
+    "x": "Reglamento",
+    "c": "#247ba0",
+    "pasos": [
+     "Organización y funcionamiento",
+     "Ej.: reglamento orgánico del Pleno"
+    ],
+    "nota": "Se aprueba con el mismo procedimiento."
+   },
+   "b": {
+    "x": "Ordenanza",
+    "c": "#70c1b3",
+    "pasos": [
+     "Actividades, conductas y tributos",
+     "Ej.: ordenanza fiscal, de ruido, de limpieza"
+    ],
+    "nota": "Vincula a ciudadanos y a la entidad."
+   }
+  }
+ ]
+}

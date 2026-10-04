@@ -1,0 +1,214 @@
+{
+  "oposicion": "Auxiliar Administrativo · Ayuntamiento de Zaragoza (convocatoria 2026)",
+  "fuenteTemario": "Anexo I de las bases específicas (BOPZ nº 170, 15-jul-2026)",
+  "bloques": [
+    {
+      "id": "I",
+      "titulo": "Organización jurídica y administrativa",
+      "temas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "II",
+      "titulo": "Administración local y empleo público",
+      "temas": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "III",
+      "titulo": "Prueba adicional práctica: ofimática",
+      "temas": [
+        21
+      ]
+    }
+  ],
+  "temas": [
+    {
+      "n": 1,
+      "titulo": "La Constitución española",
+      "resumen": "Elaboración y aprobación. Estructura y título preliminar. La Administración pública en la Constitución. Organización territorial: principios generales y Administración local.",
+      "archivo": "tema01.json",
+      "visual": "tema01-visual.json",
+      "ic": "🏛️"
+    },
+    {
+      "n": 2,
+      "titulo": "Igualdad y violencia de género",
+      "resumen": "Ley para la igualdad efectiva de mujeres y hombres. Ley de Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón. Plan de Igualdad del Ayuntamiento de Zaragoza.",
+      "ic": "👩‍⚖️",
+      "archivo": "tema02.json",
+      "visual": "tema02-visual.json"
+    },
+    {
+      "n": 3,
+      "titulo": "El Estatuto de Autonomía de Aragón",
+      "resumen": "Título preliminar, organización institucional de la Comunidad Autónoma y clases de competencias.",
+      "ic": "🗺️",
+      "archivo": "tema03.json",
+      "visual": "tema03-visual.json"
+    },
+    {
+      "n": 4,
+      "titulo": "Ley 39/2015 (I): los interesados",
+      "resumen": "Los interesados en el procedimiento.",
+      "ic": "👤",
+      "archivo": "tema04.json",
+      "visual": "tema04-visual.json"
+    },
+    {
+      "n": 5,
+      "titulo": "Ley 39/2015 (II): actividad de las AA.PP.",
+      "resumen": "Normas generales de actuación. Términos y plazos.",
+      "ic": "⏳",
+      "archivo": "tema05.json",
+      "visual": "tema05-visual.json"
+    },
+    {
+      "n": 6,
+      "titulo": "Ley 39/2015 (III): los actos administrativos",
+      "resumen": "Requisitos. Eficacia. Nulidad y anulabilidad.",
+      "ic": "📜",
+      "archivo": "tema06.json",
+      "visual": "tema06-visual.json"
+    },
+    {
+      "n": 7,
+      "titulo": "Ley 39/2015 (IV): el procedimiento",
+      "resumen": "Iniciación, ordenación, instrucción, finalización y ejecución.",
+      "ic": "🗂️",
+      "archivo": "tema07.json",
+      "visual": "tema07-visual.json"
+    },
+    {
+      "n": 8,
+      "titulo": "Ley 39/2015 (V): revisión de actos",
+      "resumen": "Revisión de oficio y recursos administrativos.",
+      "ic": "🔁",
+      "archivo": "tema08.json",
+      "visual": "tema08-visual.json"
+    },
+    {
+      "n": 9,
+      "titulo": "Los contratos del sector público",
+      "resumen": "Tipos contractuales. Competencias en las entidades locales. Normas específicas de contratación local.",
+      "ic": "🤝",
+      "archivo": "tema09.json",
+      "visual": "tema09-visual.json"
+    },
+    {
+      "n": 10,
+      "titulo": "Los bienes de las entidades locales",
+      "resumen": "Bienes de dominio público y bienes patrimoniales.",
+      "ic": "🏠",
+      "archivo": "tema10.json",
+      "visual": "tema10-visual.json"
+    },
+    {
+      "n": 11,
+      "titulo": "La actividad de las entidades locales",
+      "resumen": "Policía. Fomento. El servicio público local y sus formas de gestión.",
+      "ic": "🧭",
+      "archivo": "tema11.json",
+      "visual": "tema11-visual.json"
+    },
+    {
+      "n": 12,
+      "titulo": "Haciendas locales (I): recursos",
+      "resumen": "Recursos de las haciendas locales y de los municipios.",
+      "ic": "💰",
+      "archivo": "tema12.json",
+      "visual": "tema12-visual.json"
+    },
+    {
+      "n": 13,
+      "titulo": "Haciendas locales (II): presupuesto",
+      "resumen": "Contenido, estructura, aprobación y ejecución. Documentos contables. Ley de capitalidad de Zaragoza.",
+      "ic": "🧾",
+      "archivo": "tema13.json",
+      "visual": "tema13-visual.json"
+    },
+    {
+      "n": 14,
+      "titulo": "El municipio y el régimen especial de Zaragoza",
+      "resumen": "Territorio y población. Competencias. Servicios mínimos. Municipios de gran población. Ley de capitalidad.",
+      "ic": "🏘️",
+      "archivo": "tema14.json",
+      "visual": "tema14-visual.json"
+    },
+    {
+      "n": 15,
+      "titulo": "Órganos territoriales y participación ciudadana",
+      "resumen": "Reglamento de Órganos Territoriales y Participación Ciudadana. Manual de Atención a la ciudadanía.",
+      "ic": "🗣️",
+      "archivo": "tema15.json",
+      "visual": "tema15-visual.json"
+    },
+    {
+      "n": 16,
+      "titulo": "Reglamentos y ordenanzas",
+      "resumen": "Aprobación de ordenanzas, ordenanzas fiscales y reglamentos. Ley de capitalidad.",
+      "ic": "⚖️",
+      "archivo": "tema16.json",
+      "visual": "tema16-visual.json"
+    },
+    {
+      "n": 17,
+      "titulo": "Los empleados públicos (I)",
+      "resumen": "Clases. Derechos y deberes.",
+      "ic": "👥",
+      "archivo": "tema17.json",
+      "visual": "tema17-visual.json"
+    },
+    {
+      "n": 18,
+      "titulo": "Los empleados públicos (II)",
+      "resumen": "Adquisición y pérdida de la relación de servicio. Situaciones administrativas. Régimen disciplinario.",
+      "ic": "🔄",
+      "archivo": "tema18.json",
+      "visual": "tema18-visual.json"
+    },
+    {
+      "n": 19,
+      "titulo": "Los empleados públicos (III)",
+      "resumen": "La función pública local.",
+      "ic": "🏢",
+      "archivo": "tema19.json",
+      "visual": "tema19-visual.json"
+    },
+    {
+      "n": 20,
+      "titulo": "Ley de Urbanismo de Aragón",
+      "resumen": "Régimen urbanístico del suelo, planeamiento, gestión, edificación y uso del suelo, disciplina urbanística.",
+      "ic": "🏗️",
+      "archivo": "tema20.json",
+      "visual": "tema20-visual.json"
+    },
+    {
+      "n": 21,
+      "titulo": "Ofimática e informática",
+      "resumen": "Software libre. Windows 11 y Ubuntu 24. LibreOffice 24.2.6 Writer y Calc. Internet y correo electrónico.",
+      "practica": true,
+      "ic": "💻"
+    }
+  ]
+}

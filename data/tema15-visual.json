@@ -1,0 +1,162 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ]
+ ],
+ "glosario": [
+  [
+   "gestion-desconcentrada",
+   "Gestión desconcentrada",
+   "Reparto de funciones entre órganos de una misma entidad (por ejemplo, el ayuntamiento y sus distritos), sin crear una entidad nueva.",
+   "Art. 24 LBRL"
+  ],
+  [
+   "junta-municipal",
+   "Junta Municipal",
+   "Órgano de gobierno de un distrito de Zaragoza.",
+   "Reglamento Órganos Territoriales"
+  ],
+  [
+   "junta-vecinal",
+   "Junta Vecinal",
+   "Órgano de gobierno de un barrio rural de Zaragoza.",
+   "Reglamento Órganos Territoriales"
+  ],
+  [
+   "iniciativa-popular",
+   "Iniciativa popular",
+   "Derecho de los vecinos a proponer reglamentos u ordenanzas si reúnen un porcentaje del padrón (en Zaragoza, el 10 %).",
+   "Art. 18 LBRL · art. 51 Reglamento"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-marco",
+   "epi": "e0",
+   "titulo": "Participación: marco legal",
+   "art": "LBRL 24, 69, 70, 128 · Ley 10/2017",
+   "resumen": "Distritos, información y publicidad.",
+   "confunde": [
+    "h-zaragoza"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Órganos territoriales de gestión desconcentrada para participar"
+    ],
+    [
+     "d",
+     "Gran población: distritos obligatorios (128)"
+    ],
+    [
+     "d",
+     "Información y participación de todos los ciudadanos (69)"
+    ],
+    [
+     "d",
+     "Pleno público; Junta de Gobierno Local no (70)"
+    ],
+    [
+     "d",
+     "Derechos de los vecinos: consulta popular e iniciativa popular (18)"
+    ],
+    [
+     "d",
+     "Zaragoza: reglamento específico, distritos y unidades de información (52-53)"
+    ]
+   ]
+  },
+  {
+   "id": "h-zaragoza",
+   "epi": "e1",
+   "titulo": "Distritos y barrios de Zaragoza",
+   "art": "Reglamento Órganos Territoriales",
+   "resumen": "Datos del examen 2025.",
+   "confunde": [
+    "h-marco"
+   ],
+   "pistas": [
+    [
+     "n",
+     "16 distritos"
+    ],
+    [
+     "n",
+     "Distrito Rural: 14 barrios rurales"
+    ],
+    [
+     "q",
+     "Distritos: Juntas Municipales"
+    ],
+    [
+     "q",
+     "Barrios rurales: Juntas Vecinales"
+    ],
+    [
+     "n",
+     "Iniciativa de reglamentos y ordenanzas: 10 % del padrón"
+    ],
+    [
+     "t",
+     "Distritos = Juntas Municipales; barrios rurales = Juntas Vecinales"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "contraste",
+   "titulo": "Distritos frente a barrios rurales",
+   "epi": "e1",
+   "a": {
+    "x": "Distritos (16)",
+    "c": "#247ba0",
+    "pasos": [
+     "En el casco urbano",
+     "Incluyen el Distrito Rural",
+     "Se rigen por Juntas Municipales"
+    ],
+    "nota": "Gestión desconcentrada."
+   },
+   "b": {
+    "x": "Barrios rurales (14)",
+    "c": "#70c1b3",
+    "pasos": [
+     "Integrados en el Distrito Rural",
+     "Núcleos del término municipal",
+     "Se rigen por Juntas Vecinales"
+    ],
+    "nota": "Comprendidos en un único distrito."
+   }
+  },
+  {
+   "t": "tiles",
+   "titulo": "Cifras que hay que recordar",
+   "epi": "e1",
+   "items": [
+    {
+     "n": "16",
+     "x": "Distritos de Zaragoza",
+     "c": "#247ba0",
+     "ic": "🗺️"
+    },
+    {
+     "n": "14",
+     "x": "Barrios rurales (en el Distrito Rural)",
+     "c": "#70c1b3",
+     "ic": "🌾"
+    },
+    {
+     "n": "10 %",
+     "x": "Del padrón para la iniciativa ciudadana",
+     "c": "#ffe066",
+     "ic": "🗳️"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,442 @@
+{
+ "n": 4,
+ "titulo": "Ley 39/2015 (I): los interesados en el procedimiento",
+ "fuente": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Capacidad de obrar e interesados",
+   "subtitulo": "Arts. 3 y 4",
+   "clave": [
+    "Quién puede actuar ante la Administración (3)",
+    "Concepto de interesado: 3 supuestos (4.1)",
+    "Asociaciones (4.2)",
+    "Sucesión (4.3)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Para actuar ante la Administración hay que tener [[capacidad-obrar|capacidad de obrar]] (art. 3). La tienen: **a)** las **personas físicas o jurídicas** con capacidad según las normas civiles; **b)** los **menores de edad** para los derechos cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela (excepto menores incapacitados cuando la incapacitación afecte al asunto); **c)** cuando la ley lo declare expresamente, los **grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos**."
+    ],
+    [
+     "h",
+     "¿Quién es interesado? (art. 4.1)"
+    ],
+    [
+     "tabla",
+     [
+      "Letra",
+      "Se consideran interesados"
+     ],
+     [
+      [
+       "**a)**",
+       "Quienes **promueven** el procedimiento como titulares de derechos o intereses legítimos individuales o colectivos."
+      ],
+      [
+       "**b)**",
+       "Los que, **sin haberlo iniciado**, tengan **derechos** que puedan resultar afectados por la decisión."
+      ],
+      [
+       "**c)**",
+       "Aquellos cuyos **intereses legítimos** puedan resultar afectados y **se personen** mientras **no haya resolución definitiva**."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**4.2:** las **asociaciones y organizaciones representativas de intereses económicos y sociales** son titulares de **intereses legítimos colectivos**, en los términos que la ley reconozca.",
+      "**4.3:** si la condición de interesado deriva de una **relación jurídica transmisible**, el **derechohabiente sucede** en esa condición, sea cual sea el estado del procedimiento."
+     ]
+    ],
+    [
+     "trampa",
+     "En la letra **c)** el interesado debe **personarse antes de la resolución definitiva**. En la **b)** no hace falta que haya iniciado nada."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Quién tiene capacidad de obrar ante la Administración según el art. 3?",
+     "Personas físicas o jurídicas con capacidad civil, menores en los casos permitidos y, si la ley lo declara, grupos de afectados, uniones y patrimonios sin personalidad."
+    ],
+    [
+     "¿Qué tres tipos de interesado hay en el art. 4.1?",
+     "Los que promueven; los que, sin promoverlo, tienen derechos afectados; y los que tienen intereses legítimos afectados y se personan antes de la resolución definitiva."
+    ]
+   ],
+   "esquema": [
+    "Capacidad de obrar (3): personas, menores (con límites), grupos de afectados si la ley lo dice",
+    "Interesado (4.1): a) promueve · b) derechos afectados · c) intereses afectados y se persona",
+    "4.2 asociaciones · 4.3 sucesión del derechohabiente"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Representación, nuevos interesados e identificación",
+   "subtitulo": "Arts. 5 a 12",
+   "clave": [
+    "Representación (5)",
+    "Nuevos interesados (8)",
+    "Identificación (9)",
+    "Firma (10)",
+    "Asistencia en el uso de medios electrónicos (12)"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**5**",
+       "Los interesados con capacidad de obrar pueden actuar por **representante**; las actuaciones se entienden con este, **salvo manifestación expresa en contra**. Las personas físicas con capacidad y las jurídicas (si sus Estatutos lo prevén) pueden representar a otras."
+      ],
+      [
+       "**8**",
+       "Si durante la instrucción de un procedimiento **sin publicidad** se advierte que hay titulares de derechos o **intereses legítimos y directos** que pueden resultar afectados y cuya identificación resulta del expediente, se les **comunica** la tramitación."
+      ],
+      [
+       "**9**",
+       "Las Administraciones deben **verificar la identidad** de los interesados mediante nombre y apellidos o denominación que conste en el **DNI** o documento equivalente."
+      ],
+      [
+       "**10**",
+       "Se puede firmar por **cualquier medio** que acredite la **autenticidad** de la voluntad y la **integridad e inalterabilidad** del documento."
+      ],
+      [
+       "**11**",
+       "Con carácter general **basta acreditar la identidad**; solo se exige firma en los casos que la ley prevé (formular solicitudes, declaraciones responsables, recursos, desistir y renunciar)."
+      ],
+      [
+       "**12**",
+       "Las Administraciones deben **garantizar** que los interesados pueden relacionarse **por medios electrónicos** y **asistirlos** en su uso."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "Un vecino que no tiene certificado digital puede pedir ayuda en la **oficina de asistencia en materia de registros** del Ayuntamiento para presentar su solicitud electrónicamente."
+    ],
+    [
+     "trampa",
+     "La **firma** solo es obligatoria en los supuestos que fija la ley (art. 11.2); para el resto basta **identificarse**. Los **nuevos interesados** (art. 8) se comunican **durante la instrucción** si el procedimiento no tuvo publicidad."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Con quién se entienden las actuaciones si hay representante?",
+     "Con el representante, salvo manifestación expresa en contra del interesado (art. 5.1)."
+    ],
+    [
+     "¿Cómo se verifica la identidad de los interesados?",
+     "Por nombre y apellidos o denominación que conste en el DNI o documento equivalente (art. 9.1)."
+    ]
+   ],
+   "esquema": [
+    "Representación (5) · nuevos interesados (8) · identificación (9) · firma (10-11) · asistencia electrónica (12)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Los interesados",
+  "ramas": [
+   {
+    "titulo": "Quién puede actuar",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Capacidad de obrar (3)",
+      "hijos": [
+       {
+        "titulo": "Personas físicas y jurídicas"
+       },
+       {
+        "titulo": "Menores (con límites)"
+       },
+       {
+        "titulo": "Grupos y patrimonios, si la ley lo dice"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Concepto de interesado (4)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "4.1",
+      "hijos": [
+       {
+        "titulo": "a) promueve"
+       },
+       {
+        "titulo": "b) tiene derechos afectados"
+       },
+       {
+        "titulo": "c) intereses afectados y se persona"
+       }
+      ]
+     },
+     {
+      "titulo": "4.2 y 4.3",
+      "hijos": [
+       {
+        "titulo": "Asociaciones: intereses colectivos"
+       },
+       {
+        "titulo": "Sucesión: el derechohabiente"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Actuación",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Representación (5)",
+      "hijos": [
+       {
+        "titulo": "Se entiende con el representante"
+       },
+       {
+        "titulo": "Salvo manifestación expresa en contra"
+       }
+      ]
+     },
+     {
+      "titulo": "Identificación y firma (9-11)",
+      "hijos": [
+       {
+        "titulo": "DNI o equivalente"
+       },
+       {
+        "titulo": "Firma solo cuando la ley lo exige"
+       }
+      ]
+     },
+     {
+      "titulo": "Nuevos interesados (8)",
+      "hijos": [
+       {
+        "titulo": "Se les comunica en la instrucción"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 3 (capacidad)",
+    "a": "Art. 13 (derechos de las personas)",
+    "porque": "Los derechos del art. 13 corresponden a quienes tienen capacidad de obrar según el art. 3."
+   },
+   {
+    "de": "Art. 4 (interesado)",
+    "a": "Art. 53 (derechos en el procedimiento)",
+    "porque": "Ser interesado da derecho a conocer el estado de tramitación, acceder al expediente, etc."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "De acuerdo con el art. 3 de la Ley 39/2015, tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente:",
+   [
+    "Los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos",
+    "Únicamente las personas jurídicas",
+    "Los extranjeros sin residencia en todo caso"
+   ],
+   0,
+   "Art. 3.c.",
+   "Art. 3 Ley 39/2015",
+   "",
+   "h-interesado",
+   [
+    "grupos de afectados"
+   ]
+  ],
+  [
+   "Los menores de edad tienen capacidad de obrar ante las Administraciones para el ejercicio de aquellos derechos e intereses cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela. Se exceptúa:",
+   [
+    "El supuesto de los menores incapacitados, cuando la incapacitación afecte al ejercicio de los derechos de que se trate",
+    "Siempre a los menores de dieciséis años",
+    "A los menores emancipados"
+   ],
+   0,
+   "Art. 3.b.",
+   "Art. 3.b Ley 39/2015",
+   "",
+   "h-interesado",
+   [
+    "menores incapacitados"
+   ]
+  ],
+  [
+   "Según el art. 4.1.a), se consideran interesados en el procedimiento administrativo:",
+   [
+    "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+    "Únicamente quienes hayan recibido la notificación",
+    "Solo las personas jurídicas"
+   ],
+   0,
+   "Art. 4.1.a.",
+   "Art. 4.1 Ley 39/2015",
+   "",
+   "h-interesado",
+   [
+    "promuevan"
+   ]
+  ],
+  [
+   "Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte:",
+   [
+    "Sí, art. 4.1.b",
+    "No: solo lo son quienes lo inician",
+    "Solo si se personan"
+   ],
+   0,
+   "Art. 4.1.b. Es la letra c) la que exige personarse.",
+   "Art. 4.1.b Ley 39/2015",
+   "b) frente a c)",
+   "h-interesado",
+   [
+    "sin haber iniciado"
+   ]
+  ],
+  [
+   "Según el art. 4.1.c), son interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento:",
+   [
+    "En tanto no haya recaído resolución definitiva",
+    "Hasta un mes después de la resolución",
+    "En cualquier momento, incluso tras la firmeza"
+   ],
+   0,
+   "Art. 4.1.c.",
+   "Art. 4.1.c Ley 39/2015",
+   "Plazo para personarse",
+   "h-interesado",
+   [
+    "resolución definitiva"
+   ]
+  ],
+  [
+   "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de:",
+   [
+    "Intereses legítimos colectivos, en los términos que la Ley reconozca",
+    "Derechos subjetivos individuales de sus socios",
+    "Ninguna condición de interesado"
+   ],
+   0,
+   "Art. 4.2.",
+   "Art. 4.2 Ley 39/2015",
+   "",
+   "h-interesado",
+   [
+    "intereses legítimos colectivos"
+   ]
+  ],
+  [
+   "Cuando la condición de interesado derivase de una relación jurídica transmisible, el derechohabiente:",
+   [
+    "Sucederá en tal condición cualquiera que sea el estado del procedimiento",
+    "Deberá iniciar un nuevo procedimiento",
+    "Perderá la condición de interesado"
+   ],
+   0,
+   "Art. 4.3.",
+   "Art. 4.3 Ley 39/2015",
+   "",
+   "h-interesado",
+   [
+    "derechohabiente"
+   ]
+  ],
+  [
+   "Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas:",
+   [
+    "Salvo manifestación expresa en contra del interesado",
+    "En todo caso, sin excepciones",
+    "Solo si el representante es abogado"
+   ],
+   0,
+   "Art. 5.1.",
+   "Art. 5.1 Ley 39/2015",
+   "",
+   "h-actuar",
+   [
+    "manifestación expresa en contra"
+   ]
+  ],
+  [
+   "Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente:",
+   [
+    "Se comunicará a dichas personas la tramitación del procedimiento",
+    "Se ignora, pues no se personaron",
+    "Se archiva el procedimiento"
+   ],
+   0,
+   "Art. 8.",
+   "Art. 8 Ley 39/2015",
+   "",
+   "h-actuar",
+   [
+    "comunicará"
+   ]
+  ],
+  [
+   "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación o razón social que conste en:",
+   [
+    "El Documento Nacional de Identidad o documento identificativo equivalente",
+    "El padrón municipal únicamente",
+    "El certificado de empadronamiento"
+   ],
+   0,
+   "Art. 9.1.",
+   "Art. 9.1 Ley 39/2015",
+   "",
+   "h-actuar",
+   [
+    "Documento Nacional de Identidad"
+   ]
+  ],
+  [
+   "Los interesados podrán firmar a través de cualquier medio que permita acreditar:",
+   [
+    "La autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+    "Solo su identidad mediante certificado electrónico",
+    "Únicamente su firma manuscrita"
+   ],
+   0,
+   "Art. 10.1.",
+   "Art. 10.1 Ley 39/2015",
+   "",
+   "h-actuar",
+   [
+    "integridad e inalterabilidad"
+   ]
+  ],
+  [
+   "Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo será suficiente con que los interesados:",
+   [
+    "Acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos",
+    "Firmen siempre cada documento",
+    "Presenten copia compulsada"
+   ],
+   0,
+   "Art. 11.1.",
+   "Art. 11.1 Ley 39/2015",
+   "Identificar frente a firmar",
+   "h-actuar",
+   [
+    "acrediten previamente su identidad"
+   ]
+  ]
+ ]
+}

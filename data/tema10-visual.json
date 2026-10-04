@@ -1,0 +1,295 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e3"
+  ]
+ ],
+ "glosario": [
+  [
+   "bien-dominio-publico",
+   "Bien de dominio público",
+   "Bien destinado a un uso o servicio público (una calle, un colegio). No se puede vender, embargar ni ganar por el paso del tiempo.",
+   "Art. 79 LBRL"
+  ],
+  [
+   "bien-patrimonial",
+   "Bien patrimonial",
+   "Bien propiedad de la entidad que no está al servicio del público y puede generar ingresos (un solar, un local).",
+   "Art. 79 LBRL"
+  ],
+  [
+   "bienes-comunales",
+   "Bien comunal",
+   "Bien de dominio público cuyo uso corresponde a los vecinos en común, como ciertos pastos o montes.",
+   "Art. 79.3 LBRL"
+  ],
+  [
+   "desafectacion",
+   "Desafectación",
+   "Cambio por el que un bien deja de estar destinado a un uso o servicio público y pasa a ser patrimonial.",
+   "Arts. 177-179 Ley 7/1999"
+  ],
+  [
+   "concesion-administrativa",
+   "Concesión administrativa",
+   "Título por el que la Administración permite a un particular usar un bien público de forma privativa o gestionar un servicio, con plazo máximo.",
+   "Decreto 347/2002 Aragón"
+  ],
+  [
+   "inventario",
+   "Inventario de bienes",
+   "Relación valorada de todos los bienes y derechos de una entidad local, que se actualiza cada año.",
+   "Art. 175 Ley 7/1999"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-clases",
+   "epi": "e0",
+   "titulo": "Clases de bienes",
+   "art": "Art. 79 LBRL · RD 1372/1986",
+   "resumen": "Dominio público y patrimoniales.",
+   "confunde": [
+    "h-regimen"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Dominio público: uso público o servicio público"
+    ],
+    [
+     "d",
+     "Comunales: dominio público aprovechado por el común de los vecinos"
+    ],
+    [
+     "d",
+     "Patrimoniales o de propios: no afectos, fuente de ingresos"
+    ],
+    [
+     "d",
+     "Uso público: calles, plazas, parques, puentes"
+    ],
+    [
+     "d",
+     "Servicio público: mercados, escuelas, casas consistoriales"
+    ],
+    [
+     "d",
+     "Parcelas sobrantes y efectos no utilizables: patrimoniales"
+    ],
+    [
+     "t",
+     "Los comunales son de dominio público"
+    ]
+   ]
+  },
+  {
+   "id": "h-regimen",
+   "epi": "e1",
+   "titulo": "Régimen y prerrogativas",
+   "art": "Arts. 80 y 82 LBRL · 172-175 Ley 7/1999",
+   "resumen": "Qué los protege y qué puede hacer la entidad.",
+   "confunde": [
+    "h-clases",
+    "h-alteracion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Dominio público: inalienable, inembargable, imprescriptible, sin tributo"
+    ],
+    [
+     "d",
+     "Patrimoniales: derecho privado"
+    ],
+    [
+     "n",
+     "Recuperar posesión: dominio público siempre; patrimoniales 1 año"
+    ],
+    [
+     "d",
+     "Deslinde, investigación y potestad sancionadora"
+    ],
+    [
+     "d",
+     "Inventario valorado, rectificación anual y copia a la DGA"
+    ]
+   ]
+  },
+  {
+   "id": "h-alteracion",
+   "epi": "e2",
+   "titulo": "Alteración y desafectación",
+   "art": "Arts. 81 LBRL · 177-179 Ley 7/1999",
+   "resumen": "Cómo cambia la calificación de un bien.",
+   "confunde": [
+    "h-regimen"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Expresa: expediente de oportunidad y legalidad, resuelve el Pleno"
+    ],
+    [
+     "n",
+     "Información pública de un mes"
+    ],
+    [
+     "d",
+     "Dominio público: mayoría absoluta del número legal"
+    ],
+    [
+     "d",
+     "Automática: planes y proyectos aprobados definitivamente"
+    ],
+    [
+     "n",
+     "Automática: patrimoniales adscritos más de 25 años"
+    ],
+    [
+     "n",
+     "Comunales sin uso más de 10 años: pasan a patrimoniales"
+    ],
+    [
+     "t",
+     "Diez años para comunales; veinticinco para la adscripción tácita"
+    ]
+   ]
+  },
+  {
+   "id": "h-uso",
+   "epi": "e3",
+   "titulo": "Uso y gestión",
+   "art": "Decreto 347/2002 · Ley 33/2003",
+   "resumen": "Concesiones y criterios de utilización.",
+   "confunde": [
+    "h-regimen"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Patrimoniales: rentabilidad económica o social"
+    ],
+    [
+     "d",
+     "Uso privativo con instalaciones fijas: concesión administrativa"
+    ],
+    [
+     "n",
+     "Concesión: plazo máximo de cincuenta años"
+    ],
+    [
+     "d",
+     "Concesiones de dominio público en régimen de concurrencia"
+    ],
+    [
+     "d",
+     "Principios: publicidad, transparencia, concurrencia y objetividad"
+    ],
+    [
+     "d",
+     "Uso sin título: recuperación de oficio y potestad sancionadora"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Clasificación de los bienes locales",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "1",
+     "x": "Uso público",
+     "s": "Calles, plazas, parques, puentes",
+     "c": "#247ba0",
+     "ic": "🌳"
+    },
+    {
+     "n": "2",
+     "x": "Servicio público",
+     "s": "Mercados, escuelas, ayuntamiento",
+     "c": "#247ba0",
+     "ic": "🏫"
+    },
+    {
+     "n": "3",
+     "x": "Comunales",
+     "s": "Aprovechamiento del común de los vecinos",
+     "c": "#70c1b3",
+     "ic": "🐑"
+    },
+    {
+     "n": "4",
+     "x": "Patrimoniales o de propios",
+     "s": "No afectos · generan ingresos",
+     "c": "#ffe066",
+     "ic": "🏠"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Dominio público frente a patrimoniales",
+   "epi": "e1",
+   "a": {
+    "x": "Dominio público",
+    "c": "#247ba0",
+    "pasos": [
+     "Inalienable · inembargable · imprescriptible",
+     "Sin tributos",
+     "Recuperación de oficio: siempre"
+    ],
+    "nota": "Régimen administrativo."
+   },
+   "b": {
+    "x": "Patrimoniales",
+    "c": "#ffe066",
+    "pasos": [
+     "Legislación específica y derecho privado",
+     "Pueden venderse y gravarse",
+     "Recuperación de oficio: 1 año"
+    ],
+    "nota": "Se gestionan por rentabilidad económica o social."
+   }
+  },
+  {
+   "t": "tiles",
+   "titulo": "Cambios de calificación jurídica",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "1",
+     "x": "Alteración expresa",
+     "s": "Pleno · información pública 1 mes · mayoría absoluta",
+     "c": "#247ba0",
+     "ic": "📝"
+    },
+    {
+     "n": "2",
+     "x": "Alteración automática",
+     "s": "Planes y proyectos · patrimonial > 25 años",
+     "c": "#70c1b3",
+     "ic": "⚡"
+    },
+    {
+     "n": "3",
+     "x": "Desafectación de comunales",
+     "s": "Más de 10 años sin uso",
+     "c": "#f25f5c",
+     "ic": "🔓"
+    }
+   ]
+  }
+ ]
+}

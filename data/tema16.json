@@ -1,0 +1,582 @@
+{
+ "n": 16,
+ "titulo": "Reglamentos y ordenanzas de los municipios",
+ "fuente": "LBRL arts. 4, 49, 65, 70 (BOE-A-1985-5392); Ley 7/1999 de Administración Local de Aragón arts. 139-142 (BOE-A-1999-10151); TRLRHL arts. 15-17 (BOE-A-2004-4214); Ley 10/2017 art. 48 (BOE-A-2018-1683). Textos consolidados del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Potestad reglamentaria, reglamentos y ordenanzas",
+   "subtitulo": "Art. 4 LBRL y art. 139 Ley 7/1999",
+   "clave": [
+    "Potestad reglamentaria (4.1.a)",
+    "Reglamento frente a ordenanza (139.1)",
+    "Jerarquía y competencia (139.2)",
+    "Vinculan a todos (139.3)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los municipios, provincias e islas tienen **en todo caso** las potestades **reglamentaria y de autoorganización** (art. 4.1.a LBRL), junto a otras: **tributaria y financiera**, de programación, **expropiatoria** y de investigación, deslinde y recuperación de oficio, **presunción de legitimidad y ejecutividad** de sus actos, **ejecución forzosa y sancionadora** y **revisión de oficio**."
+    ],
+    [
+     "h",
+     "Reglamento u ordenanza (art. 139.1 Ley 7/1999)"
+    ],
+    [
+     "tabla",
+     [
+      "Nombre",
+      "Cuándo"
+     ],
+     [
+      [
+       "**Reglamento**",
+       "Si la disposición general tiene por objeto **regular la organización y funcionamiento** de la entidad local."
+      ],
+      [
+       "**Ordenanza**",
+       "**En otro caso** (regular actividades, conductas, tributos…)."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "Se integran en el ordenamiento con sujeción a los principios de **jerarquía normativa** y **competencia** (139.2).",
+      "**Vinculan por igual** a los ciudadanos y a la entidad local, sin que esta pueda **dispensar individualmente** de su observancia (139.3): es la **inderogabilidad singular** de los reglamentos."
+     ]
+    ],
+    [
+     "trampa",
+     "Las disposiciones generales locales son **reglamentos u ordenanzas según su objeto** (examen 2025, pregunta 25): **organización = reglamento; el resto = ordenanza**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuándo se llama reglamento y cuándo ordenanza?",
+     "Reglamento si regula la organización y funcionamiento de la entidad; ordenanza en otro caso (139.1 Ley 7/1999)."
+    ],
+    [
+     "¿Puede el ayuntamiento dispensar individualmente de una ordenanza?",
+     "No (139.3)."
+    ]
+   ],
+   "esquema": [
+    "Potestades locales (4.1): reglamentaria, autoorganización, tributaria, expropiatoria, sancionadora, revisión de oficio…",
+    "Reglamento = organización y funcionamiento · Ordenanza = el resto (139.1)",
+    "Jerarquía y competencia · no hay dispensa singular (139.2-3)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Procedimiento de aprobación",
+   "subtitulo": "Art. 49 LBRL, art. 140 Ley 7/1999 y art. 48 Ley 10/2017",
+   "clave": [
+    "Aprobación inicial por el Pleno (49.a)",
+    "Información pública: mínimo 30 días (49.b)",
+    "Aprobación definitiva (49.c)",
+    "Zaragoza: proyecto del Gobierno de Zaragoza",
+    "Modificación: mismos trámites"
+   ],
+   "bloques": [
+    [
+     "h",
+     "Régimen general (art. 49 LBRL y 140 Ley 7/1999)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** **Aprobación inicial** por el **Pleno**.",
+      "**b)** **Información pública** y audiencia a los interesados, **mínimo 30 días**, para reclamaciones y sugerencias (en Aragón, con anuncio en el BOA y en el tablón; además, **audiencia previa** a asociaciones vecinales y de consumidores inscritas).",
+      "**c)** **Resolución** de las reclamaciones y **aprobación definitiva** por el **Pleno**. Si **no hay reclamaciones**, el acuerdo provisional **se entiende definitivo**.",
+      "**Modificación:** los mismos trámites que para la aprobación (140.2)."
+     ]
+    ],
+    [
+     "h",
+     "Zaragoza capital (art. 48 Ley 10/2017)"
+    ],
+    [
+     "tabla",
+     [
+      "Paso",
+      "Regla"
+     ],
+     [
+      [
+       "**Iniciativa**",
+       "El **Gobierno de Zaragoza** (proyecto normativo), los **grupos políticos** (proposición) o la **iniciativa popular**."
+      ],
+      [
+       "**1.** Proyecto",
+       "Lo aprueba el **Gobierno de Zaragoza** (salvo normas reguladoras del Pleno y sus Comisiones, que aprueba el Pleno)."
+      ],
+      [
+       "**2.** Información pública",
+       "**Mínimo 30 días naturales**, con anuncio en el boletín oficial y en el tablón."
+      ],
+      [
+       "**3.** Comisión",
+       "Se remite el proyecto con las reclamaciones a la **Comisión plenaria competente** para **dictamen**."
+      ],
+      [
+       "**4.** Pleno",
+       "**Aprobación en acto único** del reglamento u ordenanza, resolviendo reclamaciones y sugerencias."
+      ],
+      [
+       "**5.** Publicación",
+       "**Íntegra** en el boletín oficial."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "En Zaragoza el Pleno aprueba **en acto único** (no hay aprobación inicial y definitiva separadas) y la información pública son **30 días naturales mínimo**. En el régimen general: inicial, información pública y definitiva."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Plazo mínimo de información pública para ordenanzas?",
+     "Treinta días (49.b LBRL; 140 Ley 7/1999); en Zaragoza, treinta días naturales."
+    ],
+    [
+     "¿Quién aprueba el proyecto de ordenanza en Zaragoza?",
+     "El Gobierno de Zaragoza; el Pleno la aprueba en acto único (48 Ley 10/2017)."
+    ]
+   ],
+   "esquema": [
+    "Régimen general: inicial (Pleno) → información pública ≥ 30 días → definitiva (Pleno)",
+    "Sin reclamaciones: definitivo automáticamente",
+    "Zaragoza: Gobierno aprueba proyecto → información 30 días naturales → Comisión → Pleno en acto único → publicación"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Ordenanzas fiscales, entrada en vigor y bandos",
+   "subtitulo": "Arts. 15-17 TRLRHL; 141-142 Ley 7/1999",
+   "clave": [
+    "Ordenanzas fiscales: 30 días de exposición (17.1)",
+    "Entrada en vigor: 15 días tras la publicación (141.1)",
+    "Ordenanzas fiscales: tras publicar el acuerdo y el texto (141.2)",
+    "Bandos (142)"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Ordenanzas fiscales** (TRLRHL 15-17)",
+       "Las entidades locales **acuerdan** la imposición y supresión de tributos y aprueban las **ordenanzas fiscales**. El acuerdo provisional se **expone en el tablón durante treinta días como mínimo** y se **publica en el boletín de la provincia**."
+      ],
+      [
+       "**Contenido** (16)",
+       "Hecho imponible, sujeto pasivo, exenciones, base, tipo o cuota, período impositivo, devengo, regímenes de declaración e ingreso, **fechas de aprobación y de comienzo de aplicación**."
+      ],
+      [
+       "**Entrada en vigor** (141.1 Ley 7/1999)",
+       "Reglamentos y ordenanzas **no producen efectos** hasta pasados **quince días desde el día siguiente a la publicación íntegra** de su texto en el **boletín de la provincia**: plazo en que el Estado o la CA pueden **requerir** su anulación (art. 65 LBRL)."
+      ],
+      [
+       "**Ordenanzas fiscales** (141.2)",
+       "Entran en vigor **al publicarse íntegramente** el acuerdo definitivo y el texto, salvo que se **demore su aplicación**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Bandos (art. 142 Ley 7/1999)"
+    ],
+    [
+     "lista",
+     [
+      "Los **bandos del Alcalde** sirven para **exhortar** a los ciudadanos a cumplir las leyes y ordenanzas, **recordarles** sus obligaciones y plazos y hacer **convocatorias populares**.",
+      "Se publican **conforme a los usos y costumbre de la localidad** (examen 2025, pregunta 26).",
+      "En **catástrofe, infortunio público o grave riesgo**, el Alcalde puede adoptar **medidas necesarias** dando **cuenta inmediata al Pleno**."
+     ]
+    ],
+    [
+     "trampa",
+     "Reglamentos y ordenanzas **generales**: efectos **15 días** tras publicar. **Fiscales**: al publicar íntegramente (salvo demora). **Bandos**: usos y costumbre, **no** boletín obligatorio."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántos días de exposición mínimo tienen las ordenanzas fiscales?",
+     "Treinta días como mínimo (17.1 TRLRHL)."
+    ],
+    [
+     "¿Cómo se publican los bandos de los Alcaldes?",
+     "Conforme a los usos y costumbre de la localidad (142.1 Ley 7/1999)."
+    ],
+    [
+     "¿Cuándo producen efectos las ordenanzas generales?",
+     "Pasados quince días desde el siguiente a la publicación íntegra en el boletín de la provincia (141.1)."
+    ]
+   ],
+   "esquema": [
+    "Fiscales: exposición 30 días + anuncio en el boletín provincial (17) · contenido (16)",
+    "General: efectos a los 15 días de publicar (141.1) · fiscal: al publicar (141.2)",
+    "Bandos: exhortan, usos y costumbre, catástrofe: medidas e informe al Pleno (142)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Reglamentos y ordenanzas",
+  "ramas": [
+   {
+    "titulo": "Concepto",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Potestad reglamentaria (4)",
+      "hijos": [
+       {
+        "titulo": "Municipios, provincias e islas"
+       }
+      ]
+     },
+     {
+      "titulo": "Clases (139)",
+      "hijos": [
+       {
+        "titulo": "Reglamento: organización"
+       },
+       {
+        "titulo": "Ordenanza: el resto"
+       }
+      ]
+     },
+     {
+      "titulo": "Efectos",
+      "hijos": [
+       {
+        "titulo": "Jerarquía y competencia"
+       },
+       {
+        "titulo": "Sin dispensa singular"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Aprobación",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Régimen general (49)",
+      "hijos": [
+       {
+        "titulo": "Inicial: Pleno"
+       },
+       {
+        "titulo": "Información pública ≥ 30 días"
+       },
+       {
+        "titulo": "Definitiva: Pleno"
+       }
+      ]
+     },
+     {
+      "titulo": "Zaragoza (48)",
+      "hijos": [
+       {
+        "titulo": "Gobierno de Zaragoza aprueba proyecto"
+       },
+       {
+        "titulo": "Comisión y Pleno en acto único"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Vigencia y bandos",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Entrada en vigor",
+      "hijos": [
+       {
+        "titulo": "General: 15 días tras publicar"
+       },
+       {
+        "titulo": "Fiscales: al publicar"
+       }
+      ]
+     },
+     {
+      "titulo": "Bandos",
+      "hijos": [
+       {
+        "titulo": "Usos y costumbre"
+       },
+       {
+        "titulo": "Catástrofe: medidas e informe al Pleno"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 49 LBRL (procedimiento)",
+    "a": "Art. 48 Ley 10/2017 (Zaragoza)",
+    "porque": "Zaragoza modula el procedimiento: el Gobierno de Zaragoza aprueba el proyecto y el Pleno decide en acto único."
+   },
+   {
+    "de": "Art. 17 TRLRHL (ordenanzas fiscales)",
+    "a": "Tema 12 (impuestos y tasas)",
+    "porque": "Las ordenanzas fiscales son el instrumento que regula cada tributo local."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "De acuerdo con el art. 139.1 de la Ley 7/1999 de Administración Local de Aragón, las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria adoptarán la denominación de:",
+   [
+    "Reglamentos u ordenanzas, según cual sea su objeto",
+    "Siempre ordenanzas",
+    "Siempre reglamentos"
+   ],
+   0,
+   "Art. 139.1 (examen 2025, pregunta 25).",
+   "Art. 139.1 Ley 7/1999",
+   "",
+   "h-concepto",
+   [
+    "reglamentos"
+   ]
+  ],
+  [
+   "Se denominan reglamentos las disposiciones generales locales que tengan por objeto:",
+   [
+    "Regular la organización y funcionamiento de la entidad local",
+    "Regular actividades de los ciudadanos",
+    "Establecer tributos"
+   ],
+   0,
+   "Art. 139.1.",
+   "Art. 139.1 Ley 7/1999",
+   "Reglamento frente a ordenanza",
+   "h-concepto",
+   [
+    "organización y funcionamiento"
+   ]
+  ],
+  [
+   "Lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda:",
+   [
+    "Dispensar individualmente de su observancia",
+    "Modificarlos por el procedimiento legal",
+    "Publicarlos en el boletín"
+   ],
+   0,
+   "Art. 139.3.",
+   "Art. 139.3 Ley 7/1999",
+   "",
+   "h-concepto",
+   [
+    "dispensar individualmente"
+   ]
+  ],
+  [
+   "Según el art. 4.1 LBRL, corresponde en todo caso a los municipios, las provincias y las islas:",
+   [
+    "Las potestades reglamentaria y de autoorganización",
+    "Solo la potestad tributaria",
+    "Ninguna potestad propia"
+   ],
+   0,
+   "Art. 4.1.a.",
+   "Art. 4.1 LBRL",
+   "",
+   "h-concepto",
+   [
+    "potestades reglamentaria"
+   ]
+  ],
+  [
+   "La aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de:",
+   [
+    "Treinta días",
+    "Quince días",
+    "Diez días"
+   ],
+   0,
+   "Art. 49.b.",
+   "Art. 49 LBRL",
+   "Plazo",
+   "h-aprobacion",
+   [
+    "treinta días"
+   ]
+  ],
+  [
+   "Si no se hubiera presentado ninguna reclamación o sugerencia durante la información pública de una ordenanza:",
+   [
+    "Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional",
+    "Debe repetirse la aprobación",
+    "Se archiva el procedimiento"
+   ],
+   0,
+   "Art. 49.c LBRL.",
+   "Art. 49.c LBRL",
+   "",
+   "h-aprobacion",
+   [
+    "definitivamente adoptado"
+   ]
+  ],
+  [
+   "Para la modificación de las ordenanzas y reglamentos locales deberán seguirse:",
+   [
+    "Los mismos trámites que para su aprobación",
+    "Un procedimiento simplificado",
+    "Solo el acuerdo del Alcalde"
+   ],
+   0,
+   "Art. 140.2 Ley 7/1999.",
+   "Art. 140.2 Ley 7/1999",
+   "",
+   "h-aprobacion",
+   [
+    "mismos trámites"
+   ]
+  ],
+  [
+   "En Zaragoza, la aprobación del proyecto de ordenanza o reglamento (salvo normas del Pleno y sus Comisiones) corresponde a:",
+   [
+    "El Gobierno de Zaragoza",
+    "El Alcalde en solitario",
+    "La Comisión plenaria"
+   ],
+   0,
+   "Art. 48.3.a Ley 10/2017.",
+   "Art. 48.3 Ley 10/2017",
+   "",
+   "h-aprobacion",
+   [
+    "Gobierno de Zaragoza"
+   ]
+  ],
+  [
+   "En Zaragoza, la información pública de los proyectos de ordenanzas y reglamentos tendrá un plazo mínimo de:",
+   [
+    "Treinta días naturales",
+    "Quince días hábiles",
+    "Un mes hábil"
+   ],
+   0,
+   "Art. 48.3.b Ley 10/2017.",
+   "Art. 48.3 Ley 10/2017",
+   "Naturales",
+   "h-aprobacion",
+   [
+    "treinta días naturales"
+   ]
+  ],
+  [
+   "En Zaragoza, tras la información pública, el Pleno aprueba el reglamento u ordenanza:",
+   [
+    "En acto único, con resolución de las reclamaciones y sugerencias presentadas",
+    "En dos votaciones separadas",
+    "Sin dictamen previo de ninguna Comisión"
+   ],
+   0,
+   "Art. 48.3.d Ley 10/2017.",
+   "Art. 48.3 Ley 10/2017",
+   "",
+   "h-aprobacion",
+   [
+    "acto único"
+   ]
+  ],
+  [
+   "Los acuerdos provisionales de establecimiento de tributos y de aprobación de ordenanzas fiscales se expondrán en el tablón de anuncios durante:",
+   [
+    "Treinta días, como mínimo",
+    "Diez días",
+    "Seis meses"
+   ],
+   0,
+   "Art. 17.1 TRLRHL.",
+   "Art. 17.1 TRLRHL",
+   "",
+   "h-vigencia",
+   [
+    "treinta días"
+   ]
+  ],
+  [
+   "Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido, desde el día siguiente a la publicación de su texto íntegro en el boletín de la provincia:",
+   [
+    "Quince días",
+    "Treinta días",
+    "Tres meses"
+   ],
+   0,
+   "Art. 141.1 Ley 7/1999.",
+   "Art. 141.1 Ley 7/1999",
+   "",
+   "h-vigencia",
+   [
+    "quince días"
+   ]
+  ],
+  [
+   "Las ordenanzas fiscales entrarán en vigor:",
+   [
+    "Una vez publicado íntegramente el acuerdo definitivo y el texto, salvo que se demore su aplicación",
+    "A los quince días de su aprobación inicial",
+    "Al día siguiente de la aprobación inicial"
+   ],
+   0,
+   "Art. 141.2 Ley 7/1999.",
+   "Art. 141.2 Ley 7/1999",
+   "",
+   "h-vigencia",
+   [
+    "publicado íntegramente"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 142.1 de la Ley 7/1999, los bandos dictados por los Alcaldes se publicarán:",
+   [
+    "Conforme a los usos y costumbre de la localidad",
+    "En el Boletín Oficial del Estado",
+    "En el Boletín Oficial de Aragón obligatoriamente"
+   ],
+   0,
+   "Art. 142.1 (examen 2025, pregunta 26).",
+   "Art. 142.1 Ley 7/1999",
+   "",
+   "h-vigencia",
+   [
+    "usos y costumbre"
+   ]
+  ],
+  [
+   "En caso de catástrofe o infortunio públicos o grave riesgo, los Alcaldes podrán adoptar las medidas necesarias y adecuadas, dando:",
+   [
+    "Cuenta inmediata al Pleno",
+    "Cuenta al Gobierno de Aragón en un mes",
+    "Cuenta al Tribunal de Cuentas"
+   ],
+   0,
+   "Art. 142.2 Ley 7/1999.",
+   "Art. 142.2 Ley 7/1999",
+   "",
+   "h-vigencia",
+   [
+    "cuenta inmediata"
+   ]
+  ]
+ ]
+}

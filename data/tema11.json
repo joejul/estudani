@@ -1,0 +1,484 @@
+{
+ "n": 11,
+ "titulo": "La actividad de las entidades locales: policía, fomento y servicio público",
+ "fuente": "LBRL arts. 84-86 (BOE-A-1985-5392); Ley 7/1999 de Administración Local de Aragón arts. 193-199, 224-225 (BOE-A-1999-10151). Textos consolidados del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "La actividad de policía (intervención)",
+   "subtitulo": "Art. 84 LBRL y arts. 193-198 Ley 7/1999",
+   "clave": [
+    "Medios de intervención (84.1)",
+    "Licencia previa",
+    "Comunicación previa y declaración responsable",
+    "Control posterior",
+    "Órdenes individuales"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Las entidades locales pueden **intervenir la actividad de los ciudadanos** para proteger el interés público. Es la actividad de **policía** (no confundir con la Policía Local). Los medios del **art. 84.1 LBRL** son:"
+    ],
+    [
+     "lista",
+     [
+      "**a)** **Ordenanzas y bandos**.",
+      "**b)** Sometimiento a **previa licencia** y otros actos de **control preventivo**.",
+      "**c)** Sometimiento a **comunicación previa** o a **declaración responsable**.",
+      "**d)** Sometimiento a **control posterior** al inicio de la actividad, para verificar el cumplimiento de la normativa.",
+      "**e)** **Órdenes individuales** constitutivas de mandato para ejecutar un acto o prohibirlo."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Art. Ley 7/1999",
+      "Regla"
+     ],
+     [
+      [
+       "**193**",
+       "Misma enumeración de medios (con «ordenanzas y decretos normativos de emergencia»)."
+      ],
+      [
+       "**194**",
+       "Las **autorizaciones y licencias** se exigen según la **legislación sectorial**; los regímenes de autorización deben basarse en **criterios** que limiten la apreciación para que **no sea arbitraria**; la competencia corresponde, en general, al **Alcalde**."
+      ],
+      [
+       "**197**",
+       "Las **ordenanzas** pueden **complementar y adaptar** el sistema de infracciones y sanciones de las leyes sectoriales, **sin crear nuevas infracciones ni alterar su naturaleza o límites**."
+      ],
+      [
+       "**198**",
+       "La intervención alcanza también a **actividades y servicios de interés público** realizados por particulares cuya tutela corresponda a la entidad local."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "Abrir un bar exige **licencia o declaración responsable** y luego el Ayuntamiento puede **inspeccionarlo** (control posterior)."
+    ],
+    [
+     "trampa",
+     "Las ordenanzas pueden **adaptar** infracciones y sanciones, pero **nunca crear nuevas** infracciones o sanciones donde la ley sectorial no las prevé (art. 197.1 Ley 7/1999)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuáles son los medios de intervención del art. 84.1 LBRL?",
+     "Ordenanzas y bandos, licencia previa, comunicación previa o declaración responsable, control posterior y órdenes individuales."
+    ],
+    [
+     "¿Pueden las ordenanzas crear nuevas infracciones?",
+     "No: solo complementar y adaptar el sistema de las leyes sectoriales (197.1 Ley 7/1999)."
+    ]
+   ],
+   "esquema": [
+    "Policía = intervención en la actividad de los ciudadanos (84)",
+    "Ordenanzas y bandos · licencia previa · comunicación/declaración responsable · control posterior · órdenes individuales",
+    "Ordenanzas: adaptan infracciones, no crean nuevas (197)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "El servicio público local y sus formas de gestión",
+   "subtitulo": "Arts. 85 y 86 LBRL; 199 y 221 Ley 7/1999",
+   "clave": [
+    "Servicios públicos locales (85.1)",
+    "Gestión directa (85.2.A)",
+    "Gestión indirecta (85.2.B)",
+    "Entidad pública empresarial y sociedad mercantil: memoria justificativa",
+    "Iniciativa pública económica (86)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Son **servicios públicos locales** los que prestan las entidades locales **en el ámbito de sus competencias** (art. 85.1). Se gestionan **de la forma más sostenible y eficiente** de entre las siguientes (85.2):"
+    ],
+    [
+     "tabla",
+     [
+      "Gestión",
+      "Formas"
+     ],
+     [
+      [
+       "**Directa** (85.2.A)",
+       "**a)** Por la **propia Entidad Local**. **b)** **Organismo autónomo local**. **c)** **Entidad pública empresarial local**. **d)** **Sociedad mercantil local** con capital **íntegramente público**."
+      ],
+      [
+       "**Indirecta** (85.2.B)",
+       "Mediante las formas previstas para el **contrato de gestión de servicios públicos** de la legislación de contratos del sector público (por ejemplo, la **concesión**)."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "Las formas **c) y d)** solo se usan si una **memoria justificativa** acredita que son **más sostenibles y eficientes** que las letras a) y b), valorando **rentabilidad económica y recuperación de la inversión**.",
+      "**Iniciativa pública económica (86):** las Entidades Locales pueden desarrollar actividades económicas garantizando **estabilidad presupuestaria y sostenibilidad financiera**; el **Pleno** aprueba el expediente y fija la forma de gestión.",
+      "**Ley 7/1999 (199):** las entidades locales tienen **plena libertad** para constituir, regular, modificar y suprimir los servicios de su competencia, y garantizan **siempre** los servicios obligatorios (salvo dispensa)."
+     ]
+    ],
+    [
+     "trampa",
+     "**La concesión no es gestión directa** (examen 2025, pregunta 2). Organismo autónomo, entidad pública empresarial y sociedad mercantil pública **sí** lo son."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuáles son las formas de gestión directa?",
+     "Propia entidad, organismo autónomo local, entidad pública empresarial local y sociedad mercantil local con capital íntegramente público."
+    ],
+    [
+     "¿Cuándo es indirecta la gestión de un servicio?",
+     "Cuando se utilizan las formas del contrato de gestión de servicios públicos, como la concesión (85.2.B)."
+    ]
+   ],
+   "esquema": [
+    "Servicio público local: el que prestan las entidades locales en su competencia (85.1)",
+    "Directa: propia entidad · OA · EPE · sociedad mercantil pública · Indirecta: contrato de gestión (concesión)",
+    "Iniciativa pública económica: aprueba el Pleno (86)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "La actividad de fomento",
+   "subtitulo": "Arts. 224 y 225 Ley 7/1999",
+   "clave": [
+    "Subvenciones (224)",
+    "Principios del fomento (225)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El **fomento** consiste en **estimular** actividades de interés público mediante ayudas, en lugar de prohibir u ordenar."
+    ],
+    [
+     "lista",
+     [
+      "**Art. 224:** las entidades locales podrán otorgar **auxilios económicos** a **entidades públicas o privadas y a los particulares** que realicen actividades de **interés público** que **complementen o suplan** las de la entidad local.",
+      "**Art. 225:** la actividad de fomento se realiza según los principios de **publicidad, objetividad, libre concurrencia e igualdad**, respeto de la **libre competencia** y adecuación a la **legalidad presupuestaria**; se atiende a los planes sectoriales de coordinación del Estado o de la CA; la entidad **comprueba la aplicación efectiva** de lo concedido."
+     ]
+    ],
+    [
+     "trampa",
+     "Los destinatarios incluyen **entidades públicas o privadas Y los particulares** (examen 2025, pregunta 45): si una opción omite a los particulares, es incompleta."
+    ]
+   ],
+   "flash": [
+    [
+     "¿A quiénes pueden otorgar auxilios económicos las entidades locales (art. 224)?",
+     "A entidades públicas o privadas y a los particulares que realicen actividades de interés público que complementen o suplan las de la entidad."
+    ],
+    [
+     "¿Qué principios rigen el fomento (art. 225)?",
+     "Publicidad, objetividad, libre concurrencia e igualdad, libre competencia y legalidad presupuestaria."
+    ]
+   ],
+   "esquema": [
+    "Fomento: auxilios económicos a entidades públicas o privadas y particulares (224)",
+    "Principios: publicidad · objetividad · libre concurrencia · igualdad (225)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Actividad de las entidades locales",
+  "ramas": [
+   {
+    "titulo": "Policía (84)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Medios",
+      "hijos": [
+       {
+        "titulo": "Ordenanzas y bandos"
+       },
+       {
+        "titulo": "Licencia previa"
+       },
+       {
+        "titulo": "Comunicación o declaración responsable"
+       },
+       {
+        "titulo": "Control posterior"
+       },
+       {
+        "titulo": "Órdenes individuales"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Servicio público (85-86)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Gestión directa",
+      "hijos": [
+       {
+        "titulo": "Propia entidad · organismo autónomo"
+       },
+       {
+        "titulo": "Entidad pública empresarial"
+       },
+       {
+        "titulo": "Sociedad mercantil pública"
+       }
+      ]
+     },
+     {
+      "titulo": "Gestión indirecta",
+      "hijos": [
+       {
+        "titulo": "Contrato de gestión: concesión"
+       }
+      ]
+     },
+     {
+      "titulo": "Iniciativa económica (86)",
+      "hijos": [
+       {
+        "titulo": "Aprueba el Pleno"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Fomento (224-225)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Subvenciones",
+      "hijos": [
+       {
+        "titulo": "Entidades públicas o privadas y particulares"
+       },
+       {
+        "titulo": "Interés público complementario"
+       }
+      ]
+     },
+     {
+      "titulo": "Principios",
+      "hijos": [
+       {
+        "titulo": "Publicidad · objetividad · concurrencia · igualdad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 85 LBRL (gestión de servicios)",
+    "a": "Tema 9 (contratos)",
+    "porque": "La gestión indirecta se articula con los contratos de concesión de servicios de la LCSP."
+   },
+   {
+    "de": "Art. 84 LBRL (licencias)",
+    "a": "Tema 20 (urbanismo)",
+    "porque": "Las licencias urbanísticas son el ejemplo principal de control preventivo."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "De acuerdo con el art. 85.2 LBRL, NO es una forma de gestión directa de los servicios públicos locales:",
+   [
+    "Organismo autónomo local",
+    "Concesión",
+    "Entidad pública empresarial local"
+   ],
+   1,
+   "Art. 85.2 (examen 2025, pregunta 2): la concesión es gestión indirecta.",
+   "Art. 85.2 LBRL",
+   "Directa frente a indirecta",
+   "h-servicio",
+   [
+    "Concesión"
+   ]
+  ],
+  [
+   "Son servicios públicos locales:",
+   [
+    "Los que prestan las entidades locales en el ámbito de sus competencias",
+    "Los que presta cualquier empresa privada",
+    "Solo los obligatorios del art. 26"
+   ],
+   0,
+   "Art. 85.1.",
+   "Art. 85.1 LBRL",
+   "",
+   "h-servicio",
+   [
+    "ámbito de sus competencias"
+   ]
+  ],
+  [
+   "Las formas de gestión directa de entidad pública empresarial local y sociedad mercantil local solo podrán usarse cuando:",
+   [
+    "Quede acreditado mediante memoria justificativa que son más sostenibles y eficientes que la gestión por la propia entidad o el organismo autónomo",
+    "Lo decida el Alcalde libremente",
+    "Se disponga por ley autonómica"
+   ],
+   0,
+   "Art. 85.2.A.",
+   "Art. 85.2 LBRL",
+   "",
+   "h-servicio",
+   [
+    "memoria justificativa"
+   ]
+  ],
+  [
+   "La sociedad mercantil local como forma de gestión directa debe tener su capital social:",
+   [
+    "De titularidad pública",
+    "Mixto, con mayoría privada",
+    "Íntegramente privado"
+   ],
+   0,
+   "Art. 85.2.A.d.",
+   "Art. 85.2 LBRL",
+   "",
+   "h-servicio",
+   [
+    "titularidad pública"
+   ]
+  ],
+  [
+   "La gestión indirecta de los servicios públicos locales se realiza mediante:",
+   [
+    "Las formas previstas para el contrato de gestión de servicios públicos",
+    "El organismo autónomo local",
+    "La gestión por la propia entidad"
+   ],
+   0,
+   "Art. 85.2.B.",
+   "Art. 85.2.B LBRL",
+   "",
+   "h-servicio",
+   [
+    "contrato de gestión"
+   ]
+  ],
+  [
+   "Corresponde al Pleno de la Corporación, en el ejercicio de la iniciativa pública para actividades económicas (art. 86):",
+   [
+    "La aprobación del expediente, que determinará la forma concreta de gestión del servicio",
+    "La mera comunicación a la Diputación",
+    "Nada: lo decide el Alcalde"
+   ],
+   0,
+   "Art. 86.1.",
+   "Art. 86.1 LBRL",
+   "",
+   "h-servicio",
+   [
+    "Pleno"
+   ]
+  ],
+  [
+   "Según el art. 84.1 LBRL, las entidades locales podrán intervenir la actividad de los ciudadanos a través de:",
+   [
+    "Ordenanzas y bandos, previa licencia, comunicación previa o declaración responsable, control posterior y órdenes individuales",
+    "Solo licencias",
+    "Solo ordenanzas"
+   ],
+   0,
+   "Art. 84.1.",
+   "Art. 84.1 LBRL",
+   "",
+   "h-policia",
+   [
+    "declaración responsable"
+   ]
+  ],
+  [
+   "Las ordenanzas locales podrán complementar y adaptar el sistema de infracciones y sanciones de las leyes sectoriales:",
+   [
+    "Sin que en ningún caso supongan nuevas infracciones o sanciones, ni alteren su naturaleza o límites",
+    "Creando libremente nuevas infracciones",
+    "Solo si lo autoriza el Pleno por unanimidad"
+   ],
+   0,
+   "Art. 197.1 Ley 7/1999.",
+   "Art. 197.1 Ley 7/1999",
+   "",
+   "h-policia",
+   [
+    "nuevas infracciones"
+   ]
+  ],
+  [
+   "La competencia para otorgar autorizaciones y licencias corresponde, con carácter general, a:",
+   [
+    "El Alcalde",
+    "El Pleno",
+    "El Secretario"
+   ],
+   0,
+   "Art. 194.3.1.ª Ley 7/1999: al Alcalde, salvo que las leyes la atribuyan al Pleno u otro órgano.",
+   "Art. 194 Ley 7/1999",
+   "",
+   "h-policia",
+   [
+    "Alcalde"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 224 de la Ley 7/1999 de Administración Local de Aragón:",
+   [
+    "Las entidades locales podrán otorgar auxilios económicos a entidades públicas o privadas y a los particulares que realicen actividades de interés público que complementen o suplan las de la entidad local",
+    "Solo podrán otorgar ayudas a entidades públicas",
+    "Solo a particulares sin ánimo de lucro"
+   ],
+   0,
+   "Art. 224 (examen 2025, pregunta 45).",
+   "Art. 224 Ley 7/1999",
+   "Destinatarios completos",
+   "h-fomento",
+   [
+    "particulares"
+   ]
+  ],
+  [
+   "La actividad de fomento se realizará de acuerdo con los principios de:",
+   [
+    "Publicidad, objetividad, libre concurrencia e igualdad",
+    "Urgencia y discrecionalidad",
+    "Antigüedad y proximidad"
+   ],
+   0,
+   "Art. 225.1.",
+   "Art. 225.1 Ley 7/1999",
+   "",
+   "h-fomento",
+   [
+    "libre concurrencia"
+   ]
+  ],
+  [
+   "Las entidades locales tienen, según el art. 199 de la Ley 7/1999, plena libertad para constituir, regular, modificar y suprimir los servicios de su competencia:",
+   [
+    "De acuerdo con las leyes, garantizando siempre el funcionamiento de los servicios obligatorios salvo dispensa",
+    "Sin sujeción a ninguna ley",
+    "Solo con autorización del Gobierno de Aragón"
+   ],
+   0,
+   "Art. 199.2.",
+   "Art. 199 Ley 7/1999",
+   "",
+   "h-servicio",
+   [
+    "servicios obligatorios"
+   ]
+  ]
+ ]
+}

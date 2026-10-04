@@ -1,0 +1,264 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "sector-publico",
+   "Sector público",
+   "Conjunto de entidades públicas: Estado, comunidades autónomas, entidades locales, organismos autónomos, consorcios, etc.",
+   "Art. 3 LCSP"
+  ],
+  [
+   "organo-contratacion",
+   "Órgano de contratación",
+   "El órgano que tiene competencia para firmar un contrato público (Alcalde, Pleno, Junta de Gobierno Local…).",
+   "DA 2.ª LCSP"
+  ],
+  [
+   "valor-estimado",
+   "Valor estimado",
+   "Importe total que se calcula para un contrato, incluidas posibles prórrogas, y que determina el órgano y el procedimiento.",
+   "Art. 101 LCSP"
+  ],
+  [
+   "mesa-contratacion",
+   "Mesa de contratación",
+   "Órgano que examina las ofertas y propone al órgano de contratación a quién adjudicar.",
+   "DA 2.ª.7 LCSP"
+  ],
+  [
+   "concesion-servicios",
+   "Concesión de servicios",
+   "Contrato por el que una entidad encarga a un tercero gestionar un servicio de su competencia, que se paga explotándolo.",
+   "Art. 15 LCSP"
+  ],
+  [
+   "contrato-menor",
+   "Contrato menor",
+   "Contrato de bajo importe (menos de 40.000 € en obras o 15.000 € en suministros y servicios) con tramitación simplificada.",
+   "Art. 118 LCSP"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-tipos",
+   "epi": "e0",
+   "titulo": "Tipos de contrato",
+   "art": "Arts. 12-18, 25 LCSP",
+   "resumen": "Los cinco contratos típicos y los mixtos.",
+   "confunde": [
+    "h-competencias"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Obras: ejecutar o reparar una obra"
+    ],
+    [
+     "d",
+     "Concesión de obras: construir y explotar la obra"
+    ],
+    [
+     "d",
+     "Concesión de servicios: gestionar un servicio con derecho a explotarlo"
+    ],
+    [
+     "d",
+     "Suministro: adquirir o arrendar bienes muebles"
+    ],
+    [
+     "d",
+     "Servicios: prestaciones de hacer, sin ejercicio de autoridad"
+    ],
+    [
+     "d",
+     "Mixtos: prestaciones de distinta clase"
+    ],
+    [
+     "t",
+     "Las concesiones se retribuyen con el derecho de explotación"
+    ]
+   ]
+  },
+  {
+   "id": "h-competencias",
+   "epi": "e1",
+   "titulo": "Órgano de contratación local",
+   "art": "DA 2.ª LCSP",
+   "resumen": "Quién contrata según el importe.",
+   "confunde": [
+    "h-normas",
+    "h-tipos"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Alcalde: contratos hasta el 10 % de los recursos ordinarios y 6 millones"
+    ],
+    [
+     "n",
+     "Duración de plurianuales del Alcalde: no superior a 4 años"
+    ],
+    [
+     "q",
+     "Pleno: lo que exceda y los pliegos de cláusulas administrativas generales"
+    ],
+    [
+     "q",
+     "Gran población: Junta de Gobierno Local, cualquiera que sea el importe"
+    ],
+    [
+     "d",
+     "Juntas de Contratación: potestativas, las acuerda el Pleno"
+    ],
+    [
+     "t",
+     "En gran población los pliegos generales los aprueba el Pleno"
+    ]
+   ]
+  },
+  {
+   "id": "h-normas",
+   "epi": "e2",
+   "titulo": "Normas específicas locales",
+   "art": "DA 2.7 y 3.ª LCSP · art. 118",
+   "resumen": "Mesa, fiscalización, supervisión y menores.",
+   "confunde": [
+    "h-competencias"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Se aplica la LCSP con especialidades"
+    ],
+    [
+     "d",
+     "Tramitación anticipada con condición suspensiva"
+    ],
+    [
+     "q",
+     "Fiscaliza el Interventor"
+    ],
+    [
+     "d",
+     "Supervisión de proyectos de obras (art. 235)"
+    ],
+    [
+     "q",
+     "Mesa: preside un miembro de la Corporación o un funcionario"
+    ],
+    [
+     "d",
+     "Mesa: Secretario e Interventor, mínimo tres, sin personal eventual"
+    ],
+    [
+     "n",
+     "Menores: 40.000 € obras · 15.000 € suministros y servicios"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Tipos de contrato de la LCSP",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "13",
+     "x": "Obras",
+     "s": "Ejecutar una obra",
+     "c": "#247ba0",
+     "ic": "🏗️"
+    },
+    {
+     "n": "14",
+     "x": "Concesión de obras",
+     "s": "Construir y explotar",
+     "c": "#247ba0",
+     "ic": "🛣️"
+    },
+    {
+     "n": "15",
+     "x": "Concesión de servicios",
+     "s": "Gestionar un servicio y explotarlo",
+     "c": "#70c1b3",
+     "ic": "🚌"
+    },
+    {
+     "n": "16",
+     "x": "Suministro",
+     "s": "Bienes muebles",
+     "c": "#ffe066",
+     "ic": "📦"
+    },
+    {
+     "n": "17",
+     "x": "Servicios",
+     "s": "Prestaciones de hacer",
+     "c": "#f25f5c",
+     "ic": "🧹"
+    },
+    {
+     "n": "18",
+     "x": "Mixtos",
+     "s": "Prestaciones de distinta clase",
+     "c": "#50514f",
+     "ic": "🔀"
+    }
+   ]
+  },
+  {
+   "t": "piramide",
+   "titulo": "¿Quién contrata en un ayuntamiento?",
+   "epi": "e1",
+   "intro": "De menor a mayor importe y duración",
+   "niveles": [
+    {
+     "x": "Pleno",
+     "s": "Lo que exceda del 10 % de recursos ordinarios o 6 M€ / 4 años · pliegos generales",
+     "c": "#f25f5c"
+    },
+    {
+     "x": "Alcalde",
+     "s": "Hasta el 10 % de recursos ordinarios y 6 M€ · hasta 4 años",
+     "c": "#247ba0"
+    },
+    {
+     "x": "Gran población: Junta de Gobierno Local",
+     "s": "Siempre, cualquiera que sea el importe",
+     "c": "#70c1b3"
+    }
+   ]
+  },
+  {
+   "t": "barras",
+   "titulo": "Umbrales de los contratos menores (miles de €)",
+   "epi": "e2",
+   "total": 40,
+   "items": [
+    {
+     "x": "Obras",
+     "v": 40,
+     "c": "#f25f5c",
+     "s": "Menos de 40.000 €"
+    },
+    {
+     "x": "Suministros y servicios",
+     "v": 15,
+     "c": "#247ba0",
+     "s": "Menos de 15.000 €"
+    }
+   ]
+  }
+ ]
+}

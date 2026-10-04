@@ -1,0 +1,585 @@
+{
+ "n": 17,
+ "titulo": "Los empleados públicos (I): clases, derechos y deberes",
+ "fuente": "Real Decreto Legislativo 5/2015, TREBEP (BOE-A-2015-11719), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Concepto y clases de empleados públicos",
+   "subtitulo": "Arts. 8 a 12 TREBEP",
+   "clave": [
+    "Concepto (art. 8.1)",
+    "4 clases (art. 8.2)",
+    "Funcionarios de carrera (9)",
+    "Funcionarios interinos y sus 4 supuestos (10)",
+    "Personal laboral (11)",
+    "Personal eventual (12)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Un [[empleado-publico|empleado público]] es quien **desempeña funciones retribuidas** en las Administraciones Públicas **al servicio de los intereses generales** (art. 8.1)."
+    ],
+    [
+     "tabla",
+     [
+      "Clase",
+      "Cómo se vincula",
+      "Dato clave"
+     ],
+     [
+      [
+       "**Funcionario de carrera** (9)",
+       "**Nombramiento legal**; relación **estatutaria** regulada por el Derecho Administrativo",
+       "Servicios profesionales retribuidos de carácter **permanente**. El ejercicio de **potestades públicas** les está reservado."
+      ],
+      [
+       "**Funcionario interino** (10)",
+       "Nombrado por **necesidad y urgencia**, de forma **temporal**, para funciones de funcionarios de carrera",
+       "Solo en 4 supuestos (abajo)."
+      ],
+      [
+       "**Personal laboral** (11)",
+       "**Contrato de trabajo** por escrito",
+       "Puede ser **fijo, por tiempo indefinido o temporal** según la duración del contrato."
+      ],
+      [
+       "**Personal eventual** (12)",
+       "**Nombramiento**, carácter **no permanente**",
+       "Solo funciones de **confianza o asesoramiento especial**; retribuido con créditos presupuestarios para ese fin."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Los 4 supuestos del funcionario interino (art. 10.1)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** **Plazas vacantes** que no pueden cubrir funcionarios de carrera: máximo **3 años**.",
+      "**b)** **Sustitución transitoria** de los titulares, el tiempo estrictamente necesario.",
+      "**c)** **Programas temporales**: máximo **3 años**, ampliables hasta **12 meses** más.",
+      "**d)** **Exceso o acumulación de tareas**: máximo **9 meses**, dentro de un periodo de **18 meses**."
+     ]
+    ],
+    [
+     "trampa",
+     "Exceso de tareas: **9 meses dentro de 18** (examen 2025). Vacantes y programas: **3 años**. Los interinos se seleccionan por procedimientos **públicos** (igualdad, mérito, capacidad, publicidad y celeridad)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuáles son las cuatro clases de empleados públicos?",
+     "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual (art. 8.2)."
+    ],
+    [
+     "¿Duración máxima del interino por exceso o acumulación de tareas?",
+     "Nueve meses dentro de un periodo de dieciocho (10.1.d)."
+    ],
+    [
+     "¿Qué funciones hace el personal eventual?",
+     "Solo de confianza o asesoramiento especial (art. 12)."
+    ]
+   ],
+   "esquema": [
+    "Clases: carrera · interinos · laboral · eventual (8.2)",
+    "Interinos: vacante 3 años · sustitución · programa 3 años (+12 meses) · exceso de tareas 9 meses en 18",
+    "Eventual: confianza y asesoramiento especial, no permanente"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Derechos de los empleados públicos",
+   "subtitulo": "Arts. 14 a 20 TREBEP",
+   "clave": [
+    "Derechos individuales (14)",
+    "Inamovilidad del funcionario de carrera",
+    "Derechos ejercidos colectivamente (15)",
+    "Carrera profesional (16-19)",
+    "Evaluación del desempeño (20)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los derechos se dividen en **individuales** (art. 14) y **individuales que se ejercen colectivamente** (art. 15). Los empleados públicos tienen entre otros:"
+    ],
+    [
+     "lista",
+     [
+      "**Inamovilidad** en la condición de funcionario de carrera (14.a).",
+      "**Desempeño efectivo** de las funciones propias de su condición profesional (14.b).",
+      "**Progresión en la carrera** y promoción interna por **igualdad, mérito y capacidad** (14.c).",
+      "**Retribuciones e indemnizaciones** por razón del servicio (14.d).",
+      "**Defensa jurídica y protección** de la Administración por el ejercicio legítimo de sus funciones (14.f).",
+      "**Formación continua**, preferentemente en horario laboral (14.g).",
+      "**Respeto a su intimidad y dignidad**, especialmente frente al acoso sexual, por razón de sexo, orientación e identidad sexual (14.h)."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Contenido"
+     ],
+     [
+      [
+       "15",
+       "Derechos individuales **ejercidos colectivamente**: **libertad sindical**, **negociación colectiva** y participación en las condiciones de trabajo, etc."
+      ],
+      [
+       "16-17",
+       "**Carrera profesional**: conjunto ordenado de oportunidades de ascenso y expectativas de progreso. La **carrera horizontal** la pueden regular las leyes de función pública autonómicas."
+      ],
+      [
+       "18",
+       "**Promoción interna**: procesos selectivos que garanticen igualdad, mérito y capacidad."
+      ],
+      [
+       "19",
+       "Carrera y promoción del **personal laboral**: según el Estatuto de los Trabajadores y los convenios."
+      ],
+      [
+       "20",
+       "**Evaluación del desempeño**: mide y valora la conducta profesional y el rendimiento; debe ser **voluntaria**, y sus efectos van ligados a carrera, formación, provisión y retribuciones complementarias."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **inamovilidad** es un derecho del **funcionario de carrera**, no del interino ni del laboral. La **libertad sindical** es individual pero se **ejerce colectivamente** (art. 15)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué derecho exclusivo tiene el funcionario de carrera en el art. 14?",
+     "La inamovilidad en la condición de funcionario de carrera (14.a)."
+    ],
+    [
+     "¿Qué derechos se ejercen colectivamente?",
+     "Libertad sindical, negociación colectiva, etc. (art. 15)."
+    ]
+   ],
+   "esquema": [
+    "Individuales (14): inamovilidad · funciones · carrera · retribución · defensa jurídica · formación · intimidad y dignidad",
+    "Colectivos (15): libertad sindical · negociación colectiva",
+    "Carrera (16-19) · evaluación del desempeño (20)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Deberes y representación",
+   "subtitulo": "Arts. 52 a 54 y 39 TREBEP",
+   "clave": [
+    "Principios del Código de Conducta (52)",
+    "Delegados de Personal (6 a 49)",
+    "Juntas de Personal (50 o más)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los empleados públicos deben **desempeñar con diligencia** sus tareas y velar por los **intereses generales** con sujeción a la Constitución y al ordenamiento (art. 52). Actúan según los principios del **Código de Conducta**:"
+    ],
+    [
+     "lista",
+     [
+      "Objetividad · integridad · neutralidad · responsabilidad · imparcialidad",
+      "Confidencialidad · dedicación al servicio público · transparencia",
+      "Ejemplaridad · austeridad · accesibilidad · eficacia · honradez, etc."
+     ]
+    ],
+    [
+     "h",
+     "Órganos de representación de los funcionarios (art. 39)"
+    ],
+    [
+     "tabla",
+     [
+      "Unidad electoral",
+      "Representación"
+     ],
+     [
+      [
+       "**De 6 a 49** funcionarios",
+       "**Delegados de Personal**: hasta 30 funcionarios, **1 delegado**; de 31 a 49, **3** (representación conjunta y mancomunada)."
+      ],
+      [
+       "**50 o más** funcionarios",
+       "**Junta de Personal**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Las **Juntas de Personal** se constituyen en unidades con **censo mínimo de 50** funcionarios (art. 39.3). Para 6-49 hay **Delegados**, no Juntas."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué órganos representan a los funcionarios?",
+     "Delegados de Personal (6 a 49 funcionarios) y Juntas de Personal (50 o más) — art. 39."
+    ],
+    [
+     "¿Cuántos delegados de 31 a 49 funcionarios?",
+     "Tres, con representación conjunta y mancomunada."
+    ]
+   ],
+   "esquema": [
+    "Deberes: diligencia, intereses generales, Código de Conducta (52)",
+    "Representación: 6-49 → Delegados (1 hasta 30; 3 de 31 a 49) · ≥ 50 → Junta de Personal (39)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Empleados públicos (I)",
+  "ramas": [
+   {
+    "titulo": "Clases (art. 8)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Funcionarios de carrera",
+      "hijos": [
+       {
+        "titulo": "Nombramiento legal · relación estatutaria"
+       },
+       {
+        "titulo": "Permanentes · potestades públicas"
+       }
+      ]
+     },
+     {
+      "titulo": "Funcionarios interinos",
+      "hijos": [
+       {
+        "titulo": "Vacantes: 3 años"
+       },
+       {
+        "titulo": "Sustitución transitoria"
+       },
+       {
+        "titulo": "Programas: 3 años (+12 meses)"
+       },
+       {
+        "titulo": "Exceso de tareas: 9 meses en 18"
+       }
+      ]
+     },
+     {
+      "titulo": "Laboral y eventual",
+      "hijos": [
+       {
+        "titulo": "Laboral: contrato por escrito"
+       },
+       {
+        "titulo": "Eventual: confianza o asesoramiento"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Derechos (14-20)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Individuales (14)",
+      "hijos": [
+       {
+        "titulo": "Inamovilidad"
+       },
+       {
+        "titulo": "Carrera y promoción"
+       },
+       {
+        "titulo": "Retribuciones"
+       },
+       {
+        "titulo": "Defensa jurídica · formación · dignidad"
+       }
+      ]
+     },
+     {
+      "titulo": "Colectivos (15)",
+      "hijos": [
+       {
+        "titulo": "Libertad sindical"
+       },
+       {
+        "titulo": "Negociación colectiva"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Deberes (52-54)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Principios",
+      "hijos": [
+       {
+        "titulo": "Objetividad · integridad · neutralidad"
+       },
+       {
+        "titulo": "Imparcialidad · confidencialidad · transparencia"
+       },
+       {
+        "titulo": "Ejemplaridad · austeridad · eficacia"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Representación (39)",
+    "color": "#ffe066",
+    "hijos": [
+     {
+      "titulo": "Delegados de Personal",
+      "hijos": [
+       {
+        "titulo": "De 6 a 49 funcionarios"
+       },
+       {
+        "titulo": "1 hasta 30 · 3 de 31 a 49"
+       }
+      ]
+     },
+     {
+      "titulo": "Junta de Personal",
+      "hijos": [
+       {
+        "titulo": "Censo mínimo de 50 funcionarios"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 10 (interinos)",
+    "a": "Art. 12 (eventual)",
+    "porque": "Ambos son temporales, pero el interino hace funciones de carrera y el eventual solo de confianza."
+   },
+   {
+    "de": "Art. 14 (derechos)",
+    "a": "Art. 15 (colectivos)",
+    "porque": "Los derechos individuales del 15 se ejercen en grupo, como la libertad sindical."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 8.2 TREBEP, los empleados públicos se clasifican en:",
+   [
+    "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
+    "Funcionarios de carrera, personal laboral y altos cargos",
+    "Funcionarios, contratados administrativos y becarios"
+   ],
+   0,
+   "Art. 8.2: funcionarios de carrera, interinos, personal laboral (fijo, indefinido o temporal) y personal eventual.",
+   "Art. 8.2 TREBEP",
+   "",
+   "h-clases",
+   [
+    "funcionarios interinos"
+   ]
+  ],
+  [
+   "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración por:",
+   [
+    "Un contrato de trabajo por escrito",
+    "Una relación estatutaria regulada por el Derecho Administrativo, para servicios profesionales retribuidos de carácter permanente",
+    "Un nombramiento temporal de confianza"
+   ],
+   1,
+   "Art. 9.1. El contrato es del personal laboral (11) y la confianza del eventual (12).",
+   "Art. 9.1 TREBEP",
+   "Confundir con laboral o eventual",
+   "h-clases",
+   [
+    "relación estatutaria"
+   ]
+  ],
+  [
+   "Según el art. 10.1.d) TREBEP, son funcionarios interinos los que son nombrados por el exceso o acumulación de tareas por plazo máximo de:",
+   [
+    "Seis meses, dentro de un periodo de doce",
+    "Nueve meses, dentro de un periodo de dieciocho",
+    "Un año, dentro de un periodo de dos"
+   ],
+   1,
+   "Art. 10.1.d: nueve meses dentro de un periodo de dieciocho (examen 2025, pregunta 19).",
+   "Art. 10.1.d TREBEP",
+   "Plazos parecidos",
+   "h-interinos",
+   [
+    "nueve meses"
+   ]
+  ],
+  [
+   "La existencia de plazas vacantes que no puedan ser cubiertas por funcionarios de carrera justifica el nombramiento de interinos por un máximo de:",
+   [
+    "Un año",
+    "Tres años",
+    "Cinco años"
+   ],
+   1,
+   "Art. 10.1.a: máximo de tres años, en los términos del apartado 4.",
+   "Art. 10.1.a TREBEP",
+   "",
+   "h-interinos",
+   [
+    "tres años"
+   ]
+  ],
+  [
+   "La ejecución de programas de carácter temporal por funcionarios interinos no podrá tener una duración superior a:",
+   [
+    "Tres años, ampliable hasta doce meses más por las leyes de función pública",
+    "Un año, no ampliable",
+    "Cinco años, ampliable a siete"
+   ],
+   0,
+   "Art. 10.1.c.",
+   "Art. 10.1.c TREBEP",
+   "",
+   "h-interinos",
+   [
+    "tres años"
+   ]
+  ],
+  [
+   "Es personal eventual el que, con carácter no permanente, solo realiza funciones:",
+   [
+    "De sustitución",
+    "Expresamente calificadas como de confianza o asesoramiento especial",
+    "De dirección de programas"
+   ],
+   1,
+   "Art. 12.1.",
+   "Art. 12.1 TREBEP",
+   "",
+   "h-clases",
+   [
+    "confianza o asesoramiento especial"
+   ]
+  ],
+  [
+   "Es personal laboral el que presta servicios retribuidos a las Administraciones en virtud de:",
+   [
+    "Nombramiento legal",
+    "Contrato de trabajo formalizado por escrito",
+    "Nombramiento de confianza"
+   ],
+   1,
+   "Art. 11.1.",
+   "Art. 11.1 TREBEP",
+   "",
+   "h-clases",
+   [
+    "contrato de trabajo"
+   ]
+  ],
+  [
+   "¿Cuál de los siguientes es un derecho individual del art. 14 TREBEP?",
+   [
+    "A la inamovilidad en la condición de funcionario de carrera",
+    "A la huelga indefinida sin descuento",
+    "A elegir el puesto de trabajo libremente"
+   ],
+   0,
+   "Art. 14.a. La huelga y la negociación se enmarcan en el art. 15 (colectivos).",
+   "Art. 14.a TREBEP",
+   "",
+   "h-derechos",
+   [
+    "inamovilidad"
+   ]
+  ],
+  [
+   "La libertad sindical y la negociación colectiva son, según el TREBEP:",
+   [
+    "Derechos individuales ejercidos colectivamente",
+    "Derechos solo de los funcionarios interinos",
+    "Deberes de los empleados públicos"
+   ],
+   0,
+   "Art. 15.",
+   "Art. 15 TREBEP",
+   "",
+   "h-derechos",
+   [
+    "ejercidos colectivamente"
+   ]
+  ],
+  [
+   "Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por:",
+   [
+    "Los intereses generales, con sujeción a la Constitución y al resto del ordenamiento jurídico",
+    "Los intereses del órgano que los nombró",
+    "Los intereses de su sindicato"
+   ],
+   0,
+   "Art. 52.",
+   "Art. 52 TREBEP",
+   "",
+   "h-deberes",
+   [
+    "intereses generales"
+   ]
+  ],
+  [
+   "Los órganos específicos de representación de los funcionarios son, según el art. 39.1:",
+   [
+    "Los Delegados de Personal y las Juntas de Personal",
+    "Los Comités de Empresa",
+    "Las Mesas Generales de Negociación"
+   ],
+   0,
+   "Art. 39.1. Los comités de empresa representan al personal laboral.",
+   "Art. 39.1 TREBEP",
+   "Funcionarios frente a laborales",
+   "h-repres",
+   [
+    "Delegados de Personal"
+   ]
+  ],
+  [
+   "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de:",
+   [
+    "25 funcionarios",
+    "50 funcionarios",
+    "100 funcionarios"
+   ],
+   1,
+   "Art. 39.3: 50 funcionarios.",
+   "Art. 39.3 TREBEP",
+   "Cifra",
+   "h-repres",
+   [
+    "50 funcionarios"
+   ]
+  ],
+  [
+   "En las unidades electorales con 31 a 49 funcionarios se elegirán:",
+   [
+    "Un Delegado de Personal",
+    "Tres Delegados de Personal, que ejercerán su representación conjunta y mancomunadamente",
+    "Una Junta de Personal"
+   ],
+   1,
+   "Art. 39.2: hasta 30, un delegado; de 31 a 49, tres.",
+   "Art. 39.2 TREBEP",
+   "",
+   "h-repres",
+   [
+    "tres"
+   ]
+  ]
+ ]
+}

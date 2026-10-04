@@ -1,0 +1,539 @@
+{
+ "n": 5,
+ "titulo": "Ley 39/2015 (II): la actividad de las Administraciones Públicas",
+ "fuente": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Normas generales de actuación",
+   "subtitulo": "Arts. 13 a 17",
+   "clave": [
+    "Derechos de las personas (13)",
+    "Obligados a relacionarse por medios electrónicos (14.2)",
+    "Lengua (15)",
+    "Registros (16)",
+    "Lugares de presentación (16.4)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El art. 13 recoge los **derechos de las personas** ante la Administración: comunicarse a través del **Punto de Acceso General electrónico**, ser **asistidas** en el uso de medios electrónicos, etc."
+    ],
+    [
+     "h",
+     "Relación electrónica (art. 14)"
+    ],
+    [
+     "lista",
+     [
+      "**Las personas físicas** pueden **elegir** en todo momento si se relacionan por medios electrónicos o no (salvo que estén obligadas).",
+      "**Obligados** siempre (14.2): **a)** personas jurídicas; **b)** entidades sin personalidad jurídica; **c)** quienes ejerzan una actividad profesional con **colegiación obligatoria** (incluidos notarios y registradores); **d)** quienes **representen** a un obligado; **e)** **empleados públicos** en trámites por su condición.",
+      "Las Administraciones podrán **imponer la obligación** por reglamento a ciertos colectivos de personas físicas con acceso y disponibilidad de medios (14.3)."
+     ]
+    ],
+    [
+     "h",
+     "Lengua y registros"
+    ],
+    [
+     "lista",
+     [
+      "**Lengua (15):** castellano en los procedimientos de la AGE; los interesados con sede en una CA pueden usar también la **lengua cooficial**.",
+      "**Registros (16):** cada Administración dispone de un **Registro Electrónico General** que anota entradas y salidas, respetando el **orden temporal**, y emite **recibo** con fecha y hora."
+     ]
+    ],
+    [
+     "h",
+     "¿Dónde se presentan los documentos? (art. 16.4)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** **Registro electrónico** de la Administración u Organismo destinatario o de cualquier otra.",
+      "**b)** **Oficinas de Correos**.",
+      "**c)** **Representaciones diplomáticas u oficinas consulares** de España en el extranjero.",
+      "**d)** **Oficinas de asistencia en materia de registros**.",
+      "**e)** Cualquier otro que establezcan las disposiciones vigentes."
+     ]
+    ],
+    [
+     "trampa",
+     "Obligados electrónicamente: **personas jurídicas**, **entidades sin personalidad**, **colegiación obligatoria**, **representantes de obligados** y **empleados públicos** (por su condición). Las personas físicas **no** están obligadas en general."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Quiénes están siempre obligados a relacionarse electrónicamente?",
+     "Personas jurídicas, entidades sin personalidad, colegiados obligatorios, representantes de obligados y empleados públicos por su condición (14.2)."
+    ],
+    [
+     "¿Dónde pueden presentarse documentos según el art. 16.4?",
+     "Registro electrónico, oficinas de Correos, representaciones diplomáticas y consulares, oficinas de asistencia en materia de registros y otros previstos."
+    ]
+   ],
+   "esquema": [
+    "Derechos (13) · relación electrónica: optativa para personas físicas, obligatoria para jurídicas, colegiados, etc. (14)",
+    "Lengua (15) · Registro Electrónico General (16)",
+    "Presentación: registro electrónico · Correos · consulados · oficinas de asistencia · otros (16.4)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Obligación de resolver y silencio administrativo",
+   "subtitulo": "Arts. 21 a 25",
+   "clave": [
+    "Resolución expresa (21.1)",
+    "Plazo máximo: 6 meses (21.2)",
+    "Silencio positivo (24.1)",
+    "Silencio negativo (24.1)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La Administración **está obligada a dictar resolución expresa y a notificarla** en todos los procedimientos, cualquiera que sea su forma de iniciación (art. 21.1). Se exceptúan la terminación por **pacto o convenio** y los derechos sometidos solo a **declaración responsable o comunicación**."
+    ],
+    [
+     "lista",
+     [
+      "**Plazo máximo (21.2):** el que fije la norma del procedimiento; **no puede exceder de seis meses**, salvo que una norma con rango de ley o el Derecho de la UE fijen otro mayor.",
+      "Si la norma no fija plazo, es de **tres meses** (21.3).",
+      "El plazo se cuenta: en los **iniciados de oficio**, desde la fecha del **acuerdo de iniciación**; en los **iniciados a solicitud**, desde que **la solicitud tiene entrada en el registro** del órgano competente."
+     ]
+    ],
+    [
+     "h",
+     "Silencio administrativo (art. 24)"
+    ],
+    [
+     "p",
+     "En los procedimientos **iniciados a solicitud**, el vencimiento del plazo sin notificar resolución expresa **legitima para entender la solicitud estimada por silencio** (**silencio positivo**), salvo que una **norma con rango de ley** o una norma de Derecho de la UE o internacional disponga lo contrario."
+    ],
+    [
+     "lista",
+     [
+      "Tiene **sentido desestimatorio (negativo)**, entre otros, en los procedimientos de **derecho de petición** (art. 29 CE), los que **transfieran al solicitante facultades sobre el dominio público o el servicio público**, los que impliquen actividades que puedan **dañar el medio ambiente** y los de **responsabilidad patrimonial** de las Administraciones."
+     ]
+    ],
+    [
+     "trampa",
+     "Regla general: **silencio positivo** en solicitudes; el **negativo** es la excepción y debe estar en una **norma con rango de ley**. El plazo máximo **no excede de seis meses** salvo ley o Derecho de la UE."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué plazo máximo tiene la Administración para resolver, como regla?",
+     "El que fije la norma, que no puede exceder de seis meses salvo ley o Derecho de la UE; si no hay norma, tres meses (21.2-3)."
+    ],
+    [
+     "¿Qué efecto tiene el silencio en procedimientos a solicitud?",
+     "Regla general: estimatorio (silencio positivo), salvo norma con rango de ley que diga lo contrario (24.1)."
+    ]
+   ],
+   "esquema": [
+    "Resolver y notificar (21.1) · plazo ≤ 6 meses (21.2) · 3 meses si no hay plazo (21.3)",
+    "Silencio: positivo (regla) · negativo (petición, dominio público, medio ambiente, responsabilidad patrimonial)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Términos y plazos",
+   "subtitulo": "Arts. 29 a 33",
+   "clave": [
+    "Obligatoriedad (29)",
+    "Cómputo por horas, días, meses (30)",
+    "Sábados, domingos y festivos no cuentan (30.2)",
+    "Ampliación hasta la mitad (32)",
+    "Tramitación de urgencia: mitad de plazos (33)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los plazos **obligan** a las autoridades, al personal y a los interesados (art. 29)."
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**30.1**",
+       "Plazos por **horas**: son **hábiles** todas las horas de un día hábil; se cuentan de hora en hora; **no pueden superar 24 horas** (si no, se expresan en días)."
+      ],
+      [
+       "**30.2**",
+       "Plazos por **días**: se entienden **hábiles**, **excluyendo sábados, domingos y festivos** (salvo que una ley o el Derecho de la UE fijen días naturales)."
+      ],
+      [
+       "**30.3**",
+       "Los plazos en **días** se cuentan desde el **día siguiente** a la notificación o publicación, o al de la estimación o desestimación por silencio."
+      ],
+      [
+       "**30.4**",
+       "Plazos en **meses o años**: desde el día siguiente; **concluyen el mismo día** del mes o año de vencimiento. Si no hay día equivalente, expira el **último día del mes**."
+      ],
+      [
+       "**30.5**",
+       "Si el **último día es inhábil**, se **prorroga** al primer día hábil siguiente."
+      ],
+      [
+       "**30.6**",
+       "Si un día es hábil en la localidad del interesado e inhábil en la sede del órgano (o al revés), se considera **inhábil**."
+      ],
+      [
+       "**31**",
+       "El **registro electrónico** se rige por la fecha y hora oficial de la sede electrónica; permite presentar documentos **todos los días del año, las 24 horas**."
+      ],
+      [
+       "**32**",
+       "**Ampliación**: de oficio o a petición, **hasta la mitad** del plazo, si las circunstancias lo aconsejan y no se perjudican derechos de tercero."
+      ],
+      [
+       "**33**",
+       "**Tramitación de urgencia**: se **reducen a la mitad** los plazos del procedimiento ordinario, **salvo** los de presentación de solicitudes y recursos. **No cabe recurso** contra el acuerdo que la declare."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "En plazos por días **no cuentan sábados, domingos ni festivos** (examen 2025). La **urgencia** reduce a la **mitad** pero **no** los plazos de **solicitudes y recursos**. La **ampliación** nunca excede de la **mitad**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué días no cuentan en un plazo señalado por días?",
+     "Sábados, domingos y festivos (30.2)."
+    ],
+    [
+     "¿Cuánto se reduce un plazo por tramitación de urgencia?",
+     "A la mitad, salvo los de solicitudes y recursos (33.1)."
+    ],
+    [
+     "¿Hasta cuánto puede ampliarse un plazo?",
+     "Hasta la mitad del mismo (32.1)."
+    ]
+   ],
+   "esquema": [
+    "Horas: hábiles, ≤ 24 h · Días: hábiles (sin sábados, domingos ni festivos) · Meses y años: mismo día de vencimiento",
+    "Último día inhábil → siguiente hábil",
+    "Ampliación ≤ mitad (32) · Urgencia: mitad, salvo solicitudes y recursos (33)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Actividad de las AAPP",
+  "ramas": [
+   {
+    "titulo": "Normas generales (13-17)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Relación electrónica",
+      "hijos": [
+       {
+        "titulo": "Personas físicas: eligen"
+       },
+       {
+        "titulo": "Obligados: jurídicas, colegiados, representantes, empleados"
+       }
+      ]
+     },
+     {
+      "titulo": "Registros",
+      "hijos": [
+       {
+        "titulo": "Registro Electrónico General"
+       },
+       {
+        "titulo": "Presentación: Correos, consulados, oficinas de asistencia"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Resolver y silencio (21-25)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Resolver",
+      "hijos": [
+       {
+        "titulo": "Resolución expresa y notificada"
+       },
+       {
+        "titulo": "Plazo ≤ 6 meses · 3 si no se fija"
+       }
+      ]
+     },
+     {
+      "titulo": "Silencio",
+      "hijos": [
+       {
+        "titulo": "Positivo: regla en solicitudes"
+       },
+       {
+        "titulo": "Negativo: excepción por ley"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Plazos (29-33)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Cómputo",
+      "hijos": [
+       {
+        "titulo": "Días hábiles: sin sábados, domingos ni festivos"
+       },
+       {
+        "titulo": "Desde el día siguiente"
+       },
+       {
+        "titulo": "Último día inhábil → siguiente hábil"
+       }
+      ]
+     },
+     {
+      "titulo": "Ampliación y urgencia",
+      "hijos": [
+       {
+        "titulo": "Ampliación hasta la mitad"
+       },
+       {
+        "titulo": "Urgencia: mitad, salvo solicitudes y recursos"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 21 (resolver)",
+    "a": "Art. 24 (silencio)",
+    "porque": "Si no se resuelve en plazo, el silencio sustituye a la resolución expresa."
+   },
+   {
+    "de": "Art. 30 (cómputo)",
+    "a": "Tema 8 (recursos)",
+    "porque": "Los plazos para recurrir se cuentan según las reglas del art. 30."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que son hábiles, excluyéndose del cómputo:",
+   [
+    "Los sábados, los domingos y los declarados festivos",
+    "Solo los domingos y festivos",
+    "Únicamente los festivos nacionales"
+   ],
+   0,
+   "Art. 30.2 (examen 2025, pregunta 38).",
+   "Art. 30.2 Ley 39/2015",
+   "Sábados incluidos",
+   "h-plazos",
+   [
+    "sábados, los domingos y los declarados festivos"
+   ]
+  ],
+  [
+   "Los plazos expresados en días se contarán:",
+   [
+    "Desde el mismo día de la notificación",
+    "A partir del día siguiente a aquel en que tenga lugar la notificación o publicación",
+    "Desde que el interesado la lea"
+   ],
+   1,
+   "Art. 30.3.",
+   "Art. 30.3 Ley 39/2015",
+   "Día siguiente",
+   "h-plazos",
+   [
+    "día siguiente"
+   ]
+  ],
+  [
+   "Si el último día del plazo es inhábil:",
+   [
+    "Se entenderá prorrogado al primer día hábil siguiente",
+    "El plazo se entiende vencido el día anterior",
+    "El plazo se amplía una semana"
+   ],
+   0,
+   "Art. 30.5.",
+   "Art. 30.5 Ley 39/2015",
+   "",
+   "h-plazos",
+   [
+    "primer día hábil siguiente"
+   ]
+  ],
+  [
+   "Los plazos señalados por horas, ¿cuánto pueden durar como máximo?",
+   [
+    "Veinticuatro horas; si es más, se expresan en días",
+    "Cuarenta y ocho horas",
+    "Setenta y dos horas"
+   ],
+   0,
+   "Art. 30.1.",
+   "Art. 30.1 Ley 39/2015",
+   "",
+   "h-plazos",
+   [
+    "veinticuatro horas"
+   ]
+  ],
+  [
+   "La Administración podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos, que no exceda:",
+   [
+    "De la mitad de los mismos",
+    "Del doble de los mismos",
+    "De un mes en todo caso"
+   ],
+   0,
+   "Art. 32.1.",
+   "Art. 32.1 Ley 39/2015",
+   "",
+   "h-plazos",
+   [
+    "mitad"
+   ]
+  ],
+  [
+   "La tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a:",
+   [
+    "La presentación de solicitudes y recursos",
+    "Los informes preceptivos",
+    "La notificación de resoluciones"
+   ],
+   0,
+   "Art. 33.1.",
+   "Art. 33.1 Ley 39/2015",
+   "Excepción",
+   "h-plazos",
+   [
+    "presentación de solicitudes y recursos"
+   ]
+  ],
+  [
+   "Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento:",
+   [
+    "No cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento",
+    "Cabe recurso de alzada",
+    "Cabe recurso de reposición en un mes"
+   ],
+   0,
+   "Art. 33.2.",
+   "Art. 33.2 Ley 39/2015",
+   "",
+   "h-plazos",
+   [
+    "No cabrá recurso alguno"
+   ]
+  ],
+  [
+   "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos:",
+   [
+    "Cualquiera que sea su forma de iniciación",
+    "Solo en los iniciados de oficio",
+    "Solo en los iniciados a solicitud"
+   ],
+   0,
+   "Art. 21.1.",
+   "Art. 21.1 Ley 39/2015",
+   "",
+   "h-resolver",
+   [
+    "cualquiera que sea su forma de iniciación"
+   ]
+  ],
+  [
+   "El plazo máximo en el que debe notificarse la resolución expresa no podrá exceder, como regla, de:",
+   [
+    "Seis meses, salvo que una norma con rango de Ley o el Derecho de la UE establezcan otro mayor",
+    "Tres meses",
+    "Un año"
+   ],
+   0,
+   "Art. 21.2.",
+   "Art. 21.2 Ley 39/2015",
+   "",
+   "h-resolver",
+   [
+    "seis meses"
+   ]
+  ],
+  [
+   "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificarse resolución expresa legitima, como regla general, para entender la solicitud:",
+   [
+    "Estimada por silencio administrativo",
+    "Desestimada por silencio administrativo",
+    "Caducada de oficio"
+   ],
+   0,
+   "Art. 24.1, salvo norma con rango de ley que establezca lo contrario.",
+   "Art. 24.1 Ley 39/2015",
+   "Positivo frente a negativo",
+   "h-resolver",
+   [
+    "estimada por silencio"
+   ]
+  ],
+  [
+   "¿Quiénes están obligados a relacionarse a través de medios electrónicos con las Administraciones (art. 14.2)?",
+   [
+    "Las personas jurídicas, entre otros sujetos",
+    "Todas las personas físicas",
+    "Únicamente los empleados públicos"
+   ],
+   0,
+   "Art. 14.2: personas jurídicas, entidades sin personalidad, colegiados obligatorios, representantes de obligados y empleados públicos.",
+   "Art. 14.2 Ley 39/2015",
+   "",
+   "h-registro",
+   [
+    "personas jurídicas"
+   ]
+  ],
+  [
+   "Los documentos que los interesados dirijan a los órganos de las Administraciones podrán presentarse, entre otros lugares:",
+   [
+    "En las oficinas de Correos, en la forma que reglamentariamente se establezca",
+    "Solo en el registro del órgano destinatario",
+    "Únicamente por vía telemática"
+   ],
+   0,
+   "Art. 16.4.b.",
+   "Art. 16.4 Ley 39/2015",
+   "",
+   "h-registro",
+   [
+    "oficinas de Correos"
+   ]
+  ],
+  [
+   "Los registros electrónicos se regirán, a efectos de cómputo de plazos, por:",
+   [
+    "La fecha y hora oficial de la sede electrónica de acceso",
+    "La hora del ordenador del interesado",
+    "La hora de la oficina de Correos más cercana"
+   ],
+   0,
+   "Art. 31.2.",
+   "Art. 31.2 Ley 39/2015",
+   "",
+   "h-registro",
+   [
+    "fecha y hora oficial"
+   ]
+  ]
+ ]
+}

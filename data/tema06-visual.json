@@ -1,0 +1,275 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "acto-administrativo",
+   "Acto administrativo",
+   "Decisión de la Administración que produce efectos jurídicos sobre las personas (una licencia, una multa, una resolución).",
+   "Art. 34 Ley 39/2015"
+  ],
+  [
+   "motivacion",
+   "Motivación",
+   "Explicar en el propio acto los hechos y fundamentos de derecho que lo justifican.",
+   "Art. 35 Ley 39/2015"
+  ],
+  [
+   "nulidad",
+   "Nulidad de pleno derecho",
+   "La invalidez más grave: el acto no puede producir efectos válidos y se puede declarar en cualquier momento.",
+   "Art. 47 Ley 39/2015"
+  ],
+  [
+   "anulabilidad",
+   "Anulabilidad",
+   "Invalidez menos grave: el acto vale mientras no se anule y puede convalidarse.",
+   "Art. 48 Ley 39/2015"
+  ],
+  [
+   "convalidacion",
+   "Convalidación",
+   "Corregir los vicios de un acto anulable para que quede plenamente válido.",
+   "Art. 52 Ley 39/2015"
+  ],
+  [
+   "notificacion",
+   "Notificación",
+   "Comunicación oficial al interesado de una resolución o acto, con su texto y sus recursos.",
+   "Art. 40 Ley 39/2015"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-requisitos",
+   "epi": "e0",
+   "titulo": "Requisitos del acto",
+   "art": "Arts. 34-37",
+   "resumen": "Competencia, motivación, forma e inderogabilidad singular.",
+   "confunde": [
+    "h-eficacia"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Órgano competente y procedimiento establecido"
+    ],
+    [
+     "d",
+     "Contenido ajustado al ordenamiento, determinado y adecuado a su fin"
+    ],
+    [
+     "d",
+     "Motivación: limitan derechos, se separan de precedentes, rechazan pruebas, sancionadores, discrecionales"
+    ],
+    [
+     "d",
+     "Forma: por escrito por medios electrónicos"
+    ],
+    [
+     "d",
+     "Inderogabilidad singular: resolución particular no vulnera norma general"
+    ],
+    [
+     "t",
+     "Ni un órgano superior puede dictar una resolución contraria a un reglamento"
+    ]
+   ]
+  },
+  {
+   "id": "h-eficacia",
+   "epi": "e1",
+   "titulo": "Eficacia y notificación",
+   "art": "Arts. 38-46",
+   "resumen": "Efectos, notificación y publicación.",
+   "confunde": [
+    "h-requisitos",
+    "h-invalidez"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Presunción de validez; efectos desde que se dicta"
+    ],
+    [
+     "n",
+     "Notificación en 10 días desde que se dicta"
+    ],
+    [
+     "d",
+     "Texto íntegro, vía administrativa, recursos, órgano y plazo"
+    ],
+    [
+     "n",
+     "Electrónica: rechazo a los 10 días naturales"
+    ],
+    [
+     "d",
+     "Papel: segundo intento una sola vez, en hora distinta, dentro de 3 días"
+    ],
+    [
+     "d",
+     "Infructuosa: anuncio en el BOE"
+    ],
+    [
+     "d",
+     "Publicación en los casos legales, con efectos de notificación"
+    ]
+   ]
+  },
+  {
+   "id": "h-invalidez",
+   "epi": "e2",
+   "titulo": "Nulidad y anulabilidad",
+   "art": "Arts. 47-52",
+   "resumen": "Qué actos son nulos, cuáles anulables y cómo se salvan.",
+   "confunde": [
+    "h-eficacia"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Nulos: amparo constitucional, incompetencia manifiesta, contenido imposible, infracción penal"
+    ],
+    [
+     "d",
+     "Nulos: sin procedimiento, adquirir derechos sin requisitos esenciales, lo que diga la ley"
+    ],
+    [
+     "d",
+     "Disposiciones nulas: vulneran norma superior, materia reservada o retroactividad sancionadora"
+    ],
+    [
+     "d",
+     "Anulables: cualquier otra infracción, incluso desviación de poder"
+    ],
+    [
+     "d",
+     "Defecto de forma: anulable si falta requisito indispensable o hay indefensión"
+    ],
+    [
+     "d",
+     "Conversión, conservación y convalidación"
+    ],
+    [
+     "t",
+     "Se convalidan los anulables, no los nulos"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Los 7 supuestos de nulidad de pleno derecho (art. 47.1)",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "a",
+     "x": "Lesionan derechos amparables",
+     "c": "#f25f5c",
+     "ic": "🛡️"
+    },
+    {
+     "n": "b",
+     "x": "Órgano manifiestamente incompetente",
+     "s": "Materia o territorio",
+     "c": "#f25f5c",
+     "ic": "🚫"
+    },
+    {
+     "n": "c",
+     "x": "Contenido imposible",
+     "c": "#f25f5c",
+     "ic": "♾️"
+    },
+    {
+     "n": "d",
+     "x": "Infracción penal",
+     "c": "#f25f5c",
+     "ic": "⚖️"
+    },
+    {
+     "n": "e",
+     "x": "Sin procedimiento total y absolutamente",
+     "c": "#f25f5c",
+     "ic": "📜"
+    },
+    {
+     "n": "f",
+     "x": "Adquirir derechos sin requisitos esenciales",
+     "c": "#f25f5c",
+     "ic": "🎟️"
+    },
+    {
+     "n": "g",
+     "x": "Lo que establezca una ley",
+     "c": "#f25f5c",
+     "ic": "📖"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Nulidad frente a anulabilidad",
+   "epi": "e2",
+   "a": {
+    "x": "Nulidad de pleno derecho (47)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Vicios graves: 7 supuestos",
+     "Declarable en cualquier momento",
+     "No se convalida"
+    ],
+    "nota": "Revisión de oficio con dictamen favorable."
+   },
+   "b": {
+    "x": "Anulabilidad (48)",
+    "c": "#247ba0",
+    "pasos": [
+     "Cualquier otra infracción",
+     "Plazos de recurso",
+     "Se puede convalidar"
+    ],
+    "nota": "Defecto de forma: solo si indefensión o falta de requisito indispensable."
+   }
+  },
+  {
+   "t": "timeline",
+   "titulo": "Notificación: plazos clave",
+   "epi": "e1",
+   "items": [
+    {
+     "f": "Acto dictado",
+     "x": "Empieza a contar"
+    },
+    {
+     "f": "Hasta 10 días",
+     "x": "Plazo para cursar la notificación (40.2)"
+    },
+    {
+     "f": "Intento 1",
+     "x": "En papel, en el domicilio"
+    },
+    {
+     "f": "Intento 2 (≤ 3 días)",
+     "x": "Una sola vez, en hora distinta (≥ 3 horas de diferencia)",
+     "dest": 1
+    },
+    {
+     "f": "Si falla",
+     "x": "Anuncio en el BOE (44)"
+    }
+   ]
+  }
+ ]
+}

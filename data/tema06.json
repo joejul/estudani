@@ -1,0 +1,600 @@
+{
+ "n": 6,
+ "titulo": "Ley 39/2015 (III): los actos administrativos",
+ "fuente": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Requisitos del acto administrativo",
+   "subtitulo": "Arts. 34 a 37",
+   "clave": [
+    "Órgano competente y procedimiento (34)",
+    "Motivación (35)",
+    "Forma electrónica (36)",
+    "Inderogabilidad singular (37)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Un [[acto-administrativo|acto administrativo]] es la decisión de la Administración que produce efectos sobre las personas. Para ser válido debe dictarlo el **órgano competente**, **ajustándose al procedimiento** y con **contenido** conforme al ordenamiento, **determinado y adecuado a su fin** (art. 34)."
+    ],
+    [
+     "h",
+     "Motivación (art. 35.1): se motivan, con sucinta referencia de hechos y fundamentos de derecho"
+    ],
+    [
+     "lista",
+     [
+      "**a)** Los actos que **limiten derechos subjetivos o intereses legítimos**.",
+      "**b)** Los que resuelvan **revisión de oficio**, **recursos**, arbitraje y los de **inadmisión**.",
+      "**c)** Los que **se separen del criterio seguido en actuaciones precedentes** o del **dictamen** de órganos consultivos.",
+      "**d)** Los acuerdos de **suspensión de actos** y las **medidas provisionales**.",
+      "**e)** Los acuerdos de **tramitación de urgencia**, **ampliación de plazos** y actuaciones complementarias.",
+      "**f)** Los que **rechacen pruebas** propuestas.",
+      "**g)** Terminación por **imposibilidad material** sobrevenida y **desistimiento** de la Administración en procedimientos de oficio.",
+      "**h)** **Propuestas de resolución sancionadoras** y los actos de procedimientos **sancionadores o de responsabilidad patrimonial**.",
+      "**i)** Los dictados en ejercicio de **potestades discrecionales**."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**36**",
+       "Los actos se producen **por escrito a través de medios electrónicos**, salvo que su naturaleza exija otra forma. Si se ejercen **verbalmente**, la constancia escrita la firma el titular del órgano inferior o funcionario que la reciba oralmente."
+      ],
+      [
+       "**37**",
+       "**Inderogabilidad singular:** las resoluciones **de carácter particular no pueden vulnerar** una disposición **de carácter general**, **aunque procedan de un órgano de igual o superior jerarquía**. Las que lo hagan son **nulas**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Se **motiva** el acto que **se aparta del criterio seguido en actuaciones precedentes** (examen 2025). Y una resolución individual **nunca** puede vulnerar un reglamento, **ni siquiera** si la dicta un órgano superior."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Se motiva el acto que se aparta del criterio precedente?",
+     "Sí (art. 35.1.c)."
+    ],
+    [
+     "¿Puede un órgano superior dictar una resolución particular contraria a un reglamento?",
+     "No: inderogabilidad singular (37.1); sería nula (37.2)."
+    ]
+   ],
+   "esquema": [
+    "Acto válido: órgano competente + procedimiento + contenido adecuado (34)",
+    "Motivación: limitan derechos, revisión y recursos, separación de precedentes, suspensión, urgencia, pruebas rechazadas, sancionadores, discrecionales (35)",
+    "Forma electrónica (36) · inderogabilidad singular (37)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Eficacia: ejecutividad, notificación y publicación",
+   "subtitulo": "Arts. 38 a 46",
+   "clave": [
+    "Presunción de validez (39)",
+    "Notificación en 10 días (40.2)",
+    "Contenido de la notificación",
+    "Notificación en papel: 2 intentos (42)",
+    "Notificación electrónica: 10 días naturales (43)",
+    "Publicación (44-45)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los actos se **presumen válidos** y producen efectos **desde la fecha en que se dictan**, salvo que se disponga otra cosa (art. 39.1). La eficacia se **demora** si lo exige el contenido o está supeditada a **notificación, publicación o aprobación superior** (39.2). Excepcionalmente puede darse **eficacia retroactiva** (39.3)."
+    ],
+    [
+     "h",
+     "Notificación (art. 40)"
+    ],
+    [
+     "lista",
+     [
+      "Se **cursa en el plazo de 10 días** desde que el acto se dictó (40.2).",
+      "Debe contener el **texto íntegro** de la resolución, si **pone fin o no a la vía administrativa**, los **recursos** que proceden (administrativos y judiciales), el **órgano** ante el que presentarlos y el **plazo** (40.2).",
+      "Si contiene el texto íntegro pero omite otros requisitos, **surte efecto** desde que el interesado realiza actuaciones que supongan **conocimiento** del contenido o interpone recurso (40.3)."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Medio",
+      "Regla"
+     ],
+     [
+      [
+       "**Electrónica** (41, 43)",
+       "Preferente. Se practica por **comparecencia en la sede electrónica**; se entiende practicada **al acceder** al contenido. Si es obligatoria o elegida y pasan **10 días naturales** sin acceder, se entiende **rechazada**."
+      ],
+      [
+       "**En papel** (42)",
+       "Se pone también a disposición en la **sede electrónica**. En el domicilio: si nadie se hace cargo, se **repite una sola vez**, en **hora distinta**, **dentro de los 3 días siguientes**; si el primer intento fue antes de las 15 h, el segundo después (y al revés), con **al menos 3 horas** de diferencia."
+      ],
+      [
+       "**Infructuosa** (44)",
+       "Interesados desconocidos o lugar ignorado: **anuncio en el BOE**."
+      ],
+      [
+       "**Publicación** (45)",
+       "Cuando lo establezcan las normas del procedimiento o razones de interés público; surte los efectos de la notificación en los casos legales."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Toda notificación debe contener **el texto íntegro** de la resolución (examen 2025). Rechazo electrónico: **10 días naturales**, no hábiles. Segundo intento de papel: **una sola vez**, en otra hora."
+    ]
+   ],
+   "flash": [
+    [
+     "¿En qué plazo debe cursarse una notificación?",
+     "En diez días desde que el acto fue dictado (40.2)."
+    ],
+    [
+     "¿Cuándo se entiende rechazada una notificación electrónica obligatoria?",
+     "A los diez días naturales de su puesta a disposición sin acceder (43.2)."
+    ]
+   ],
+   "esquema": [
+    "Efectos desde su fecha, presunción de validez (39) · eficacia demorada hasta notificación o publicación",
+    "Notificación ≤ 10 días con texto íntegro, vía administrativa, recursos, órgano y plazo (40)",
+    "Electrónica: rechazo a 10 días naturales (43) · Papel: 2 intentos, 3 horas de margen (42) · BOE si infructuosa (44)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Nulidad y anulabilidad",
+   "subtitulo": "Arts. 47 a 52",
+   "clave": [
+    "Nulidad de pleno derecho: 7 supuestos (47.1)",
+    "Disposiciones nulas (47.2)",
+    "Anulabilidad (48)",
+    "Límites, conversión, conservación, convalidación (49-52)"
+   ],
+   "bloques": [
+    [
+     "h",
+     "Nulos de pleno derecho (art. 47.1)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** Los que **lesionen derechos y libertades susceptibles de amparo constitucional**.",
+      "**b)** Dictados por **órgano manifiestamente incompetente** por razón de la **materia o del territorio**.",
+      "**c)** De **contenido imposible**.",
+      "**d)** Constitutivos de **infracción penal** o dictados como consecuencia de ella.",
+      "**e)** Dictados **prescindiendo total y absolutamente del procedimiento** o de las reglas esenciales de formación de voluntad de los órganos colegiados.",
+      "**f)** Actos expresos o presuntos contrarios al ordenamiento por los que se **adquieren facultades o derechos** sin los **requisitos esenciales**.",
+      "**g)** Cualquier otro que establezca expresamente una **ley**."
+     ]
+    ],
+    [
+     "p",
+     "También son **nulas las disposiciones administrativas** que vulneren la Constitución, las leyes u otras disposiciones de rango superior, las que regulen materias **reservadas a la ley** y las que establezcan la **retroactividad de disposiciones sancionadoras no favorables** o restrictivas de derechos individuales (47.2)."
+    ],
+    [
+     "h",
+     "Anulabilidad (art. 48)"
+    ],
+    [
+     "lista",
+     [
+      "Son **anulables** los actos que incurran en **cualquier infracción del ordenamiento jurídico**, incluso la **desviación de poder**.",
+      "El **defecto de forma** solo determina anulabilidad si el acto **carece de los requisitos formales indispensables** o causa **indefensión**.",
+      "Actuar **fuera de plazo** solo implica anulabilidad si lo impone la naturaleza del término."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**49**",
+       "La nulidad o anulabilidad de un acto **no afecta** a los sucesivos independientes, ni de una parte a las partes independientes (salvo que la parte viciada sea esencial)."
+      ],
+      [
+       "**50**",
+       "**Conversión:** el acto nulo o anulable que contenga los elementos de **otro distinto** produce los efectos de este."
+      ],
+      [
+       "**51**",
+       "**Conservación:** se mantienen los actos y trámites cuyo contenido habría sido igual sin la infracción."
+      ],
+      [
+       "**52**",
+       "**Convalidación:** la Administración puede **convalidar los actos anulables**, subsanando sus vicios."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Solo los vicios de **47.1** son nulidad de pleno derecho; la **incompetencia** nula es la **manifiesta** por materia o territorio. Lo demás es, en general, **anulable**. Y se **convalidan** los anulables, no los nulos."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué actos son nulos de pleno derecho?",
+     "Los de 47.1: derechos amparables, incompetencia manifiesta, contenido imposible, infracción penal, sin procedimiento, adquisición de derechos sin requisitos esenciales y los que diga una ley."
+    ],
+    [
+     "¿Qué se puede convalidar?",
+     "Los actos anulables (art. 52)."
+    ]
+   ],
+   "esquema": [
+    "Nulidad 47.1: amparo · incompetencia manifiesta · imposible · penal · sin procedimiento · adquirir sin requisitos · ley",
+    "47.2: disposiciones nulas",
+    "Anulabilidad (48) · límites (49) · conversión (50) · conservación (51) · convalidación (52)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Los actos administrativos",
+  "ramas": [
+   {
+    "titulo": "Requisitos (34-37)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Validez",
+      "hijos": [
+       {
+        "titulo": "Órgano competente"
+       },
+       {
+        "titulo": "Procedimiento y contenido adecuados"
+       }
+      ]
+     },
+     {
+      "titulo": "Motivación (35)",
+      "hijos": [
+       {
+        "titulo": "Limitan derechos"
+       },
+       {
+        "titulo": "Se separan de precedentes"
+       },
+       {
+        "titulo": "Sancionadores y discrecionales"
+       }
+      ]
+     },
+     {
+      "titulo": "Inderogabilidad singular (37)",
+      "hijos": [
+       {
+        "titulo": "No vulnerar un reglamento"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Eficacia (38-46)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Efectos (39)",
+      "hijos": [
+       {
+        "titulo": "Presunción de validez"
+       },
+       {
+        "titulo": "Desde que se dicta"
+       }
+      ]
+     },
+     {
+      "titulo": "Notificación (40-44)",
+      "hijos": [
+       {
+        "titulo": "En 10 días, texto íntegro"
+       },
+       {
+        "titulo": "Electrónica: 10 días naturales"
+       },
+       {
+        "titulo": "Papel: 2 intentos"
+       }
+      ]
+     },
+     {
+      "titulo": "Publicación (45)",
+      "hijos": [
+       {
+        "titulo": "Efecto de notificación en casos legales"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Invalidez (47-52)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Nulidad",
+      "hijos": [
+       {
+        "titulo": "7 supuestos del 47.1"
+       },
+       {
+        "titulo": "Disposiciones nulas 47.2"
+       }
+      ]
+     },
+     {
+      "titulo": "Anulabilidad",
+      "hijos": [
+       {
+        "titulo": "Cualquier infracción (48)"
+       },
+       {
+        "titulo": "Defecto de forma: indefensión"
+       }
+      ]
+     },
+     {
+      "titulo": "Remedios",
+      "hijos": [
+       {
+        "titulo": "Conversión · conservación · convalidación"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 47 (nulidad)",
+    "a": "Art. 106 (revisión de oficio)",
+    "porque": "Los actos nulos se declaran de oficio en cualquier momento, con dictamen favorable del Consejo de Estado."
+   },
+   {
+    "de": "Art. 48 (anulabilidad)",
+    "a": "Art. 107 (lesividad)",
+    "porque": "La Administración impugna sus propios actos anulables favorables tras declararlos lesivos."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "De acuerdo con el art. 35.1.c) de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+   [
+    "Los actos que se separen del criterio seguido en actuaciones precedentes",
+    "Todos los actos de trámite",
+    "Solo los actos sancionadores"
+   ],
+   0,
+   "Art. 35.1.c (examen 2025, pregunta 13).",
+   "Art. 35.1.c Ley 39/2015",
+   "",
+   "h-requisitos",
+   [
+    "se separen del criterio"
+   ]
+  ],
+  [
+   "¿Cuál de los siguientes actos debe ser motivado según el art. 35?",
+   [
+    "Los que rechacen pruebas propuestas por los interesados",
+    "Los actos meramente informativos",
+    "Los de simple trámite sin efectos"
+   ],
+   0,
+   "Art. 35.1.f.",
+   "Art. 35.1 Ley 39/2015",
+   "",
+   "h-requisitos",
+   [
+    "rechacen pruebas"
+   ]
+  ],
+  [
+   "Según el art. 36, los actos administrativos se producirán:",
+   [
+    "Por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada",
+    "Siempre de forma verbal",
+    "En papel necesariamente"
+   ],
+   0,
+   "Art. 36.1.",
+   "Art. 36.1 Ley 39/2015",
+   "",
+   "h-requisitos",
+   [
+    "medios electrónicos"
+   ]
+  ],
+  [
+   "Según el art. 37.1, las resoluciones administrativas de carácter particular:",
+   [
+    "No podrán vulnerar lo establecido en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía",
+    "Pueden derogar un reglamento si las dicta un órgano superior",
+    "Prevalecen siempre sobre las disposiciones generales"
+   ],
+   0,
+   "Art. 37.1 (examen 2025, pregunta 47).",
+   "Art. 37.1 Ley 39/2015",
+   "",
+   "h-requisitos",
+   [
+    "disposición de carácter general"
+   ]
+  ],
+  [
+   "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos:",
+   [
+    "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+    "Siempre desde su notificación",
+    "Desde su publicación en el BOE"
+   ],
+   0,
+   "Art. 39.1.",
+   "Art. 39.1 Ley 39/2015",
+   "",
+   "h-eficacia",
+   [
+    "presumirán válidos"
+   ]
+  ],
+  [
+   "Toda notificación deberá ser cursada dentro del plazo de:",
+   [
+    "Diez días a partir de la fecha en que el acto haya sido dictado",
+    "Un mes",
+    "Cinco días hábiles"
+   ],
+   0,
+   "Art. 40.2.",
+   "Art. 40.2 Ley 39/2015",
+   "Plazo",
+   "h-eficacia",
+   [
+    "diez días"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 40.2, toda notificación deberá contener:",
+   [
+    "El texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, los recursos que procedan, el órgano y el plazo",
+    "Solo un extracto del fallo",
+    "Únicamente el nombre del interesado y la fecha"
+   ],
+   0,
+   "Art. 40.2 (examen 2025, pregunta 48).",
+   "Art. 40.2 Ley 39/2015",
+   "",
+   "h-eficacia",
+   [
+    "texto íntegro"
+   ]
+  ],
+  [
+   "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido:",
+   [
+    "Diez días naturales desde la puesta a disposición",
+    "Tres días hábiles",
+    "Un mes natural"
+   ],
+   0,
+   "Art. 43.2.",
+   "Art. 43.2 Ley 39/2015",
+   "Naturales frente a hábiles",
+   "h-eficacia",
+   [
+    "diez días naturales"
+   ]
+  ],
+  [
+   "En la notificación en papel en el domicilio, si nadie se hace cargo, el intento:",
+   [
+    "Se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes",
+    "Se repite hasta tres veces en la misma semana",
+    "No se repite: se publica directamente"
+   ],
+   0,
+   "Art. 42.2.",
+   "Art. 42.2 Ley 39/2015",
+   "",
+   "h-eficacia",
+   [
+    "una sola vez"
+   ]
+  ],
+  [
+   "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por:",
+   [
+    "Anuncio publicado en el «Boletín Oficial del Estado»",
+    "Llamada telefónica",
+    "Correo electrónico ordinario"
+   ],
+   0,
+   "Art. 44.",
+   "Art. 44 Ley 39/2015",
+   "",
+   "h-eficacia",
+   [
+    "Boletín Oficial del Estado"
+   ]
+  ],
+  [
+   "Son nulos de pleno derecho los actos dictados por órgano:",
+   [
+    "Manifiestamente incompetente por razón de la materia o del territorio",
+    "Incompetente por razón de la jerarquía, siempre",
+    "Con cualquier defecto formal"
+   ],
+   0,
+   "Art. 47.1.b.",
+   "Art. 47.1.b Ley 39/2015",
+   "Manifiesta",
+   "h-invalidez",
+   [
+    "manifiestamente incompetente"
+   ]
+  ],
+  [
+   "De acuerdo con los arts. 47 y 48, son nulos de pleno derecho los actos que:",
+   [
+    "Lesionen derechos y libertades susceptibles de amparo constitucional",
+    "Incurran en cualquier infracción del ordenamiento jurídico",
+    "Carezcan de motivación en todo caso"
+   ],
+   0,
+   "Art. 47.1.a. La infracción de cualquier norma es, en general, anulable (48.1). (En el examen 2025 la opción correcta era «ninguna» al faltar ésta.)",
+   "Art. 47.1.a Ley 39/2015",
+   "Nulidad frente a anulabilidad",
+   "h-invalidez",
+   [
+    "amparo constitucional"
+   ]
+  ],
+  [
+   "Son anulables los actos de la Administración que incurran en:",
+   [
+    "Cualquier infracción del ordenamiento jurídico, incluso la desviación de poder",
+    "Solo vicios de forma",
+    "Únicamente incompetencia por razón del territorio"
+   ],
+   0,
+   "Art. 48.1.",
+   "Art. 48.1 Ley 39/2015",
+   "",
+   "h-invalidez",
+   [
+    "desviación de poder"
+   ]
+  ],
+  [
+   "¿Qué actos puede convalidar la Administración subsanando sus vicios?",
+   [
+    "Los actos anulables",
+    "Los actos nulos de pleno derecho",
+    "Ninguno"
+   ],
+   0,
+   "Art. 52.1.",
+   "Art. 52.1 Ley 39/2015",
+   "",
+   "h-invalidez",
+   [
+    "actos anulables"
+   ]
+  ]
+ ]
+}

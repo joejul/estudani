@@ -1,0 +1,314 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "empleado-publico",
+   "Empleado público",
+   "Quien desempeña funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+   "Art. 8.1 TREBEP"
+  ],
+  [
+   "funcionario-carrera",
+   "Funcionario de carrera",
+   "Funcionario con nombramiento legal y relación estatutaria permanente. Solo ellos ejercen potestades públicas.",
+   "Art. 9 TREBEP"
+  ],
+  [
+   "funcionario-interino",
+   "Funcionario interino",
+   "Funcionario temporal nombrado por necesidad y urgencia en 4 supuestos: vacantes, sustitución, programas temporales y exceso de tareas.",
+   "Art. 10 TREBEP"
+  ],
+  [
+   "personal-eventual",
+   "Personal eventual",
+   "Personal de confianza o asesoramiento especial, nombrado y no permanente.",
+   "Art. 12 TREBEP"
+  ],
+  [
+   "relacion-estatutaria",
+   "Relación estatutaria",
+   "La de los funcionarios: sus derechos y deberes los fija la ley (el «estatuto»), no un contrato.",
+   "Art. 9 TREBEP"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-clases",
+   "epi": "e0",
+   "titulo": "Clases de empleados públicos",
+   "art": "Arts. 8-12",
+   "resumen": "Carrera, interino, laboral y eventual.",
+   "confunde": [
+    "h-interinos"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Cuatro clases: carrera · interinos · laboral · eventual"
+    ],
+    [
+     "q",
+     "Funcionario de carrera: nombramiento legal, relación estatutaria, permanente"
+    ],
+    [
+     "q",
+     "Personal laboral: contrato de trabajo por escrito (fijo, indefinido o temporal)"
+    ],
+    [
+     "q",
+     "Personal eventual: confianza o asesoramiento especial, no permanente"
+    ],
+    [
+     "t",
+     "Las potestades públicas son de funcionarios de carrera"
+    ]
+   ]
+  },
+  {
+   "id": "h-interinos",
+   "epi": "e0",
+   "titulo": "Funcionarios interinos",
+   "art": "Art. 10",
+   "resumen": "Cuatro supuestos y sus plazos.",
+   "confunde": [
+    "h-clases"
+   ],
+   "pistas": [
+    [
+     "n",
+     "Vacantes sin cubrir: máximo 3 años"
+    ],
+    [
+     "d",
+     "Sustitución transitoria de titulares"
+    ],
+    [
+     "n",
+     "Programas temporales: máximo 3 años, ampliable 12 meses"
+    ],
+    [
+     "n",
+     "Exceso o acumulación de tareas: 9 meses en un periodo de 18"
+    ],
+    [
+     "d",
+     "Selección pública por igualdad, mérito, capacidad, publicidad y celeridad"
+    ],
+    [
+     "t",
+     "El exceso de tareas es de 9 meses, no 3 años"
+    ]
+   ]
+  },
+  {
+   "id": "h-derechos",
+   "epi": "e1",
+   "titulo": "Derechos de los empleados públicos",
+   "art": "Arts. 14-20",
+   "resumen": "Individuales, colectivos, carrera y evaluación.",
+   "confunde": [
+    "h-deberes"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Inamovilidad del funcionario de carrera"
+    ],
+    [
+     "d",
+     "Progresión en la carrera por igualdad, mérito y capacidad"
+    ],
+    [
+     "d",
+     "Retribuciones e indemnizaciones por razón del servicio"
+    ],
+    [
+     "d",
+     "Defensa jurídica y protección de la Administración"
+    ],
+    [
+     "d",
+     "Formación continua y respeto a la intimidad y dignidad"
+    ],
+    [
+     "d",
+     "Colectivos (15): libertad sindical y negociación colectiva"
+    ],
+    [
+     "d",
+     "Evaluación del desempeño (20): mide conducta profesional y rendimiento"
+    ]
+   ]
+  },
+  {
+   "id": "h-deberes",
+   "epi": "e2",
+   "titulo": "Deberes y Código de Conducta",
+   "art": "Arts. 52-54",
+   "resumen": "Principios éticos de los empleados públicos.",
+   "confunde": [
+    "h-derechos"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Diligencia y servicio a los intereses generales"
+    ],
+    [
+     "d",
+     "Objetividad · integridad · neutralidad · responsabilidad · imparcialidad"
+    ],
+    [
+     "d",
+     "Confidencialidad · dedicación al servicio público · transparencia"
+    ],
+    [
+     "d",
+     "Ejemplaridad · austeridad · accesibilidad · eficacia"
+    ]
+   ]
+  },
+  {
+   "id": "h-repres",
+   "epi": "e2",
+   "titulo": "Representación de los funcionarios",
+   "art": "Art. 39",
+   "resumen": "Delegados y Juntas de Personal.",
+   "confunde": [
+    "h-derechos"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Órganos: Delegados de Personal y Juntas de Personal"
+    ],
+    [
+     "n",
+     "De 6 a 49 funcionarios: Delegados"
+    ],
+    [
+     "n",
+     "Hasta 30: 1 delegado · de 31 a 49: 3 delegados"
+    ],
+    [
+     "n",
+     "Junta de Personal: censo mínimo de 50 funcionarios"
+    ],
+    [
+     "t",
+     "Para 6-49 funcionarios no hay Junta de Personal"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Las cuatro clases de empleados públicos",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "1",
+     "x": "Funcionarios de carrera",
+     "s": "Nombramiento legal · permanentes",
+     "c": "#247ba0",
+     "ic": "🏛️"
+    },
+    {
+     "n": "2",
+     "x": "Funcionarios interinos",
+     "s": "Temporales · necesidad y urgencia",
+     "c": "#70c1b3",
+     "ic": "⏳"
+    },
+    {
+     "n": "3",
+     "x": "Personal laboral",
+     "s": "Contrato de trabajo",
+     "c": "#ffe066",
+     "ic": "📄"
+    },
+    {
+     "n": "4",
+     "x": "Personal eventual",
+     "s": "Confianza o asesoramiento",
+     "c": "#f25f5c",
+     "ic": "🤝"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Los 4 supuestos del interino",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "3 años",
+     "x": "Plazas vacantes",
+     "c": "#247ba0",
+     "ic": "🪑"
+    },
+    {
+     "n": "—",
+     "x": "Sustitución transitoria",
+     "s": "El tiempo estrictamente necesario",
+     "c": "#70c1b3",
+     "ic": "🔄"
+    },
+    {
+     "n": "3 años",
+     "x": "Programas temporales",
+     "s": "+ 12 meses ampliables",
+     "c": "#ffe066",
+     "ic": "🗂️"
+    },
+    {
+     "n": "9 m",
+     "x": "Exceso o acumulación de tareas",
+     "s": "En un periodo de 18 meses",
+     "c": "#f25f5c",
+     "ic": "📚"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Delegados de Personal frente a Junta de Personal",
+   "epi": "e2",
+   "a": {
+    "x": "Delegados de Personal",
+    "c": "#f25f5c",
+    "pasos": [
+     "De 6 a 49 funcionarios",
+     "Hasta 30: 1 delegado",
+     "De 31 a 49: 3 delegados"
+    ],
+    "nota": "Representación conjunta y mancomunada."
+   },
+   "b": {
+    "x": "Junta de Personal",
+    "c": "#247ba0",
+    "pasos": [
+     "Censo mínimo de 50 funcionarios",
+     "Unidad electoral",
+     "Art. 39.3"
+    ],
+    "nota": "Órgano colegiado de representación."
+   }
+  }
+ ]
+}

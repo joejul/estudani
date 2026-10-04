@@ -1,0 +1,422 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e3"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-recursos",
+   "epi": "e0",
+   "titulo": "Recursos de la hacienda local",
+   "art": "Arts. 2, 4 y 5",
+   "resumen": "Los ocho recursos del art. 2 y dos reglas sobre el patrimonio.",
+   "confunde": [
+    "h-tasa",
+    "h-impuestos"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Ocho recursos: patrimonio · tributos y recargos · participaciones · subvenciones · precios públicos · crédito · multas · otras prestaciones de derecho público"
+    ],
+    [
+     "d",
+     "Tributos propios: tasas, contribuciones especiales e impuestos"
+    ],
+    [
+     "d",
+     "Art. 4: los ingresos de derecho privado se rigen por el derecho privado"
+    ],
+    [
+     "d",
+     "Art. 5: la venta de bienes patrimoniales no financia gasto corriente"
+    ],
+    [
+     "t",
+     "Los precios públicos no son tributos"
+    ],
+    [
+     "t",
+     "Excepción del art. 5: solo parcelas sobrantes de vías públicas no edificables o efectos no utilizables"
+    ]
+   ]
+  },
+  {
+   "id": "h-tasa",
+   "epi": "e1",
+   "titulo": "Tasa frente a precio público",
+   "art": "Arts. 20-27 y 41-47",
+   "resumen": "Qué se paga por usar lo público o recibir un servicio.",
+   "confunde": [
+    "h-sin-tasa",
+    "h-contrib"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Tasa: utilización privativa o aprovechamiento especial del dominio público local"
+    ],
+    [
+     "d",
+     "Tasa por servicio: beneficia de modo particular al sujeto pasivo"
+    ],
+    [
+     "d",
+     "Basta una de dos circunstancias: no voluntario o no prestado por el sector privado"
+    ],
+    [
+     "n",
+     "Precio público: debe cubrir como mínimo el coste (44.1)"
+    ],
+    [
+     "d",
+     "Se puede bajar por razones sociales, benéficas, culturales o de interés público, con dotación presupuestaria (44.2)"
+    ],
+    [
+     "t",
+     "No hacen falta las dos circunstancias a la vez"
+    ]
+   ]
+  },
+  {
+   "id": "h-sin-tasa",
+   "epi": "e1",
+   "titulo": "Servicios sin tasa ni precio público",
+   "art": "Arts. 21.1 y 42",
+   "resumen": "Seis servicios que no se pueden cobrar.",
+   "confunde": [
+    "h-tasa"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Abastecimiento de aguas en fuentes públicas"
+    ],
+    [
+     "d",
+     "Alumbrado de vías públicas"
+    ],
+    [
+     "d",
+     "Vigilancia pública en general"
+    ],
+    [
+     "d",
+     "Protección civil"
+    ],
+    [
+     "d",
+     "Limpieza de la vía pública"
+    ],
+    [
+     "d",
+     "Enseñanza en los niveles de educación obligatoria"
+    ],
+    [
+     "t",
+     "El art. 42 extiende la prohibición a los precios públicos"
+    ]
+   ]
+  },
+  {
+   "id": "h-contrib",
+   "epi": "e2",
+   "titulo": "Contribuciones especiales",
+   "art": "Arts. 28-37",
+   "resumen": "Pago por el beneficio de una obra o servicio público local.",
+   "confunde": [
+    "h-tasa",
+    "h-impuestos"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Hecho imponible: beneficio o aumento de valor de bienes por obras o servicios públicos locales (28)"
+    ],
+    [
+     "q",
+     "Sujetos pasivos: personas especialmente beneficiadas (30)"
+    ],
+    [
+     "n",
+     "Base imponible: máximo 90 % del coste (31.1)"
+    ],
+    [
+     "d",
+     "Reparto: fachada, superficie, volumen edificable, valor catastral (32)"
+    ],
+    [
+     "d",
+     "Devengo: obra ejecutada o servicio iniciado (33)"
+    ],
+    [
+     "d",
+     "Previo acuerdo de imposición en cada caso (34)"
+    ],
+    [
+     "d",
+     "Asociación administrativa de contribuyentes (36)"
+    ],
+    [
+     "t",
+     "Compatibles con las tasas por el servicio (art. 22)"
+    ]
+   ]
+  },
+  {
+   "id": "h-impuestos",
+   "epi": "e3",
+   "titulo": "Impuestos municipales",
+   "art": "Arts. 59-112",
+   "resumen": "Obligatorios, potestativos y sus límites.",
+   "confunde": [
+    "h-contrib",
+    "h-tasa"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Obligatorios (59.1): IBI, IAE e IVTM"
+    ],
+    [
+     "d",
+     "Potestativos (59.2): ICIO e IIVTNU"
+    ],
+    [
+     "n",
+     "IBI: 0,4-1,10 % urbanos · 0,3-0,90 % rústicos · año natural"
+    ],
+    [
+     "d",
+     "IAE: mero ejercicio de actividad, con o sin local"
+    ],
+    [
+     "n",
+     "IVTM: coeficiente máximo 2"
+    ],
+    [
+     "n",
+     "ICIO: tipo máximo 4 % (indirecto)"
+    ],
+    [
+     "n",
+     "IIVTNU: tipo máximo 30 %"
+    ],
+    [
+     "q",
+     "Participación en tributos del Estado: capitales de provincia o de CA y municipios con 75.000 habitantes o más"
+    ],
+    [
+     "t",
+     "ICIO: se paga se haya obtenido o no la licencia"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Los 8 recursos de la hacienda local",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "a",
+     "x": "Patrimonio y derecho privado",
+     "c": "#247ba0",
+     "ic": "🏠"
+    },
+    {
+     "n": "b",
+     "x": "Tributos propios y recargos",
+     "c": "#f25f5c",
+     "ic": "🧾"
+    },
+    {
+     "n": "c",
+     "x": "Participaciones en tributos del Estado y CCAA",
+     "c": "#247ba0",
+     "ic": "🏛️"
+    },
+    {
+     "n": "d",
+     "x": "Subvenciones",
+     "c": "#247ba0",
+     "ic": "🎁"
+    },
+    {
+     "n": "e",
+     "x": "Precios públicos",
+     "c": "#247ba0",
+     "ic": "🏷️"
+    },
+    {
+     "n": "f",
+     "x": "Operaciones de crédito",
+     "c": "#247ba0",
+     "ic": "🏦"
+    },
+    {
+     "n": "g",
+     "x": "Multas y sanciones",
+     "c": "#247ba0",
+     "ic": "🚫"
+    },
+    {
+     "n": "h",
+     "x": "Demás prestaciones de derecho público",
+     "c": "#247ba0",
+     "ic": "📑"
+    }
+   ],
+   "nota": "Los tributos son solo tres: tasas, contribuciones especiales e impuestos."
+  },
+  {
+   "t": "contraste",
+   "titulo": "Tasa frente a precio público",
+   "epi": "e1",
+   "a": {
+    "x": "Tasa (arts. 20-27)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Uso del dominio público",
+     "o servicio no voluntario / no privado",
+     "Importe: ordenanza fiscal"
+    ],
+    "nota": "Basta **una** de las dos circunstancias del art. 20.1.B."
+   },
+   "b": {
+    "x": "Precio público (arts. 41-47)",
+    "c": "#247ba0",
+    "pasos": [
+     "Servicio de competencia local",
+     "Sin esas circunstancias",
+     "Importe ≥ coste del servicio"
+    ],
+    "nota": "Rebaja posible por razones sociales, con dotación presupuestaria."
+   }
+  },
+  {
+   "t": "tiles",
+   "titulo": "Seis servicios que no pueden cobrarse (art. 21.1 y 42)",
+   "epi": "e1",
+   "items": [
+    {
+     "n": "a",
+     "x": "Agua en fuentes públicas",
+     "c": "#70c1b3",
+     "ic": "🚰"
+    },
+    {
+     "n": "b",
+     "x": "Alumbrado de vías públicas",
+     "c": "#70c1b3",
+     "ic": "💡"
+    },
+    {
+     "n": "c",
+     "x": "Vigilancia pública en general",
+     "c": "#70c1b3",
+     "ic": "👮"
+    },
+    {
+     "n": "d",
+     "x": "Protección civil",
+     "c": "#70c1b3",
+     "ic": "🆘"
+    },
+    {
+     "n": "e",
+     "x": "Limpieza de la vía pública",
+     "c": "#70c1b3",
+     "ic": "🧹"
+    },
+    {
+     "n": "f",
+     "x": "Enseñanza obligatoria",
+     "c": "#70c1b3",
+     "ic": "🎓"
+    }
+   ],
+   "ic": "🚫"
+  },
+  {
+   "t": "flujo",
+   "titulo": "Cómo se cobra una contribución especial",
+   "epi": "e2",
+   "flujos": [
+    {
+     "x": "Pasos (arts. 33 y 34)",
+     "c": "#70c1b3",
+     "pasos": [
+      "Acuerdo de imposición (previo, en cada caso)",
+      "Obra ejecutada o servicio iniciado = devengo",
+      "Reparto entre los beneficiados (módulos del art. 32)",
+      "Base: máximo 90 % del coste"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Impuestos municipales",
+   "epi": "e3",
+   "leyenda": [
+    [
+     "Obligatorios",
+     "#247ba0"
+    ],
+    [
+     "Potestativos",
+     "#ffe066"
+    ]
+   ],
+   "items": [
+    {
+     "n": "IBI",
+     "x": "Bienes inmuebles · directo y real",
+     "s": "0,4-1,10 % urb. · 0,3-0,90 % rúst.",
+     "c": "#247ba0",
+     "ic": "🏘️"
+    },
+    {
+     "n": "IAE",
+     "x": "Actividades económicas · directo y real",
+     "s": "Con o sin local",
+     "c": "#247ba0",
+     "ic": "🏪"
+    },
+    {
+     "n": "IVTM",
+     "x": "Vehículos de tracción mecánica · directo",
+     "s": "Coeficiente máx. 2",
+     "c": "#247ba0",
+     "ic": "🚗"
+    },
+    {
+     "n": "ICIO",
+     "x": "Construcciones, instalaciones y obras · indirecto",
+     "s": "Tipo máx. 4 %",
+     "c": "#ffe066",
+     "ic": "🏗️"
+    },
+    {
+     "n": "IIVTNU",
+     "x": "Incremento de valor de terrenos urbanos · directo",
+     "s": "Tipo máx. 30 %",
+     "c": "#ffe066",
+     "ic": "📈"
+    }
+   ]
+  }
+ ]
+}

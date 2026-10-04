@@ -1,0 +1,681 @@
+{
+ "n": 2,
+ "titulo": "Igualdad, violencia de género y Plan de Igualdad",
+ "fuente": "LO 3/2007 de igualdad efectiva de mujeres y hombres (BOE-A-2007-6115) y Ley 4/2007 de Aragón de prevención y protección integral a las mujeres víctimas de violencia (BOE-A-2007-11593), textos consolidados del BOE. El Plan de Igualdad del Ayuntamiento de Zaragoza no está en el BOE: solo se recogen los datos de las preguntas oficiales de 2025.",
+ "verificado": "2026-10-04",
+ "notaVerificacion": "Tema 2: el Plan de Igualdad del Ayuntamiento de Zaragoza no se ha podido contrastar con el documento oficial; solo incluye los datos de las preguntas del examen de 2025.",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "La Ley para la igualdad efectiva de mujeres y hombres",
+   "subtitulo": "Arts. 1 a 15 LO 3/2007",
+   "clave": [
+    "Objeto (1)",
+    "Igualdad de trato (3)",
+    "Discriminación directa e indirecta (6)",
+    "Acoso sexual y por razón de sexo (7)",
+    "Embarazo y maternidad (8)",
+    "Indemnidad (9)",
+    "Acciones positivas (11)",
+    "Prueba (13)",
+    "Transversalidad (15)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La LO 3/2007 busca **hacer efectivo el derecho de igualdad de trato y de oportunidades** entre mujeres y hombres, eliminando la **discriminación de la mujer** en todos los ámbitos (art. 1). Parte de que mujeres y hombres son **iguales en dignidad humana, derechos y deberes**."
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Concepto"
+     ],
+     [
+      [
+       "**3**",
+       "**Igualdad de trato:** **ausencia de toda discriminación**, **directa o indirecta**, por razón de sexo, especialmente las derivadas de la **maternidad**, la asunción de **obligaciones familiares** y el **estado civil**."
+      ],
+      [
+       "**4**",
+       "La igualdad es un **principio informador del ordenamiento jurídico**: se integra en la interpretación y aplicación de todas las normas."
+      ],
+      [
+       "**5**",
+       "Se garantiza en el **acceso al empleo**, la **formación** y **promoción profesionales** y las **condiciones de trabajo**, en el empleo **privado y público**."
+      ],
+      [
+       "**6.1**",
+       "**Discriminación directa:** ser tratada una persona, **por su sexo**, de manera **menos favorable** que otra en situación comparable."
+      ],
+      [
+       "**6.2**",
+       "**Discriminación indirecta:** una disposición, criterio o práctica **aparentemente neutros** pone a personas de un sexo en **desventaja particular** respecto al otro, salvo justificación objetiva."
+      ],
+      [
+       "**7**",
+       "**Acoso sexual:** cualquier comportamiento **verbal o físico de naturaleza sexual** que atente contra la dignidad, en especial creando un **entorno intimidatorio, degradante u ofensivo**. **Acoso por razón de sexo:** comportamiento **en función del sexo** de una persona con ese propósito o efecto."
+      ],
+      [
+       "**8**",
+       "Todo **trato desfavorable a las mujeres relacionado con el embarazo o la maternidad** es **discriminación directa**."
+      ],
+      [
+       "**9**",
+       "**Indemnidad frente a represalias:** es discriminación cualquier trato adverso por **presentar queja, reclamación, denuncia o recurso** para exigir la igualdad."
+      ],
+      [
+       "**11**",
+       "**Acciones positivas:** medidas específicas **a favor de las mujeres** para corregir desigualdades de hecho; **razonables y proporcionadas** y **mientras subsistan** esas situaciones."
+      ],
+      [
+       "**13**",
+       "**Prueba:** si la parte actora alega actuaciones discriminatorias, corresponde a **la persona demandada probar la ausencia de discriminación** y su proporcionalidad."
+      ],
+      [
+       "**15**",
+       "**Transversalidad:** el principio informa la actuación de **todos los Poderes Públicos**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "**Discriminación indirecta** = norma «neutra» con **efecto** desfavorable; **directa** = trato **menos favorable** expreso. La **carga de la prueba** recae en **quien se defiende**. Las acciones positivas son **temporales** (mientras haya desigualdad)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué diferencia hay entre discriminación directa e indirecta?",
+     "Directa: trato menos favorable por razón de sexo. Indirecta: criterio aparentemente neutro que coloca en desventaja a un sexo (art. 6)."
+    ],
+    [
+     "¿Quién prueba en un pleito por discriminación?",
+     "La persona demandada debe probar la ausencia de discriminación (art. 13)."
+    ]
+   ],
+   "esquema": [
+    "Igualdad de trato: ausencia de discriminación directa o indirecta (3)",
+    "Acoso sexual y por razón de sexo (7) · embarazo y maternidad (8) · indemnidad (9)",
+    "Acciones positivas, temporales y proporcionadas (11) · prueba invertida (13) · transversalidad (15)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Igualdad en el empleo público y acoso",
+   "subtitulo": "Arts. 51, 61 y 62 LO 3/2007",
+   "clave": [
+    "Criterios de actuación (51)",
+    "Formación para la igualdad (61)",
+    "Protocolo frente al acoso (62)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Las Administraciones públicas deben, en el empleo público (art. 51):"
+    ],
+    [
+     "lista",
+     [
+      "**Remover obstáculos** que impliquen discriminación en el **acceso al empleo público** y la **carrera profesional**.",
+      "**Facilitar la conciliación** de la vida personal, familiar y laboral sin menoscabo de la promoción profesional.",
+      "Fomentar la **formación en igualdad**, promover la **presencia equilibrada** de mujeres y hombres en los órganos de selección y valoración, y **establecer medidas efectivas de protección frente al acoso sexual y por razón de sexo**."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**52**",
+       "**Presencia equilibrada** de mujeres y hombres en los nombramientos de titulares de órganos directivos (AGE y organismos)."
+      ],
+      [
+       "**61**",
+       "Las pruebas de acceso al empleo público incluyen el **estudio y aplicación del principio de igualdad**; se imparten cursos de formación sobre igualdad y **prevención de la violencia de género**."
+      ],
+      [
+       "**62**",
+       "**Protocolo de actuación frente al acoso sexual y al acoso por razón de sexo:** las Administraciones lo **negocian con la representación legal** de las trabajadoras y trabajadores. Compromiso de **prevenir y no tolerar** el acoso, información a todo el personal y **procedimiento reservado** para las denuncias."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "El protocolo se **negocia con la representación legal del personal**. Las pruebas de acceso al empleo público **deben incluir** la materia de igualdad."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Con quién negocian las Administraciones el protocolo contra el acoso?",
+     "Con la representación legal de las trabajadoras y trabajadores (art. 62)."
+    ]
+   ],
+   "esquema": [
+    "Empleo público: remover obstáculos · conciliar · formar · presencia equilibrada · medidas contra el acoso (51)",
+    "Pruebas de acceso con igualdad (61) · protocolo contra el acoso negociado con la representación legal (62)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Violencia contra las mujeres en Aragón",
+   "subtitulo": "Ley 4/2007 de Aragón",
+   "clave": [
+    "Objeto (1)",
+    "Formas de violencia (2)",
+    "Situaciones de violencia (3)",
+    "Ámbito de aplicación (4)",
+    "Servicios y centros de protección (12-24)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La Ley 4/2007 adopta **medidas integrales** de **sensibilización, prevención y erradicación** de la violencia sobre las mujeres y de **protección, asistencia y seguimiento** a las víctimas (art. 1.1). Se entiende por **violencia contra las mujeres** todo acto o agresión **motivado por la pertenencia a su sexo** que cause o pueda causar **daño físico o psicológico**, agresión a su libertad e indemnidad sexuales, amenaza, coacción o privación arbitraria de libertad, en una situación de **debilidad, dependencia o proximidad** (art. 1.2)."
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Contenido"
+     ],
+     [
+      [
+       "**2**",
+       "**Formas** (aunque no sean delito): **a)** **malos tratos físicos**; **b)** **psicológicos** (amenazas, humillaciones, aislamiento…); **c)** **sexuales**; y otras previstas en la ley."
+      ],
+      [
+       "**3**",
+       "**Situaciones** según el ámbito de la relación: **a) violencia doméstica** (vínculo afectivo, conyugal, de pareja, paterno-filial o semejante); **b) violencia laboral**; y otras."
+      ],
+      [
+       "**4**",
+       "**Ámbito de aplicación:** mujeres víctimas **dentro de la Comunidad Autónoma de Aragón**."
+      ],
+      [
+       "**12**",
+       "**Servicio Social Integral y Especializado en Violencia contra la Mujer.**"
+      ],
+      [
+       "**13**",
+       "**Centros comarcales** de información y servicios a la mujer (convenios del **Instituto Aragonés de la Mujer**)."
+      ],
+      [
+       "**17**",
+       "**Servicio de guardia** del Instituto Aragonés de la Mujer."
+      ],
+      [
+       "**18-21**",
+       "**Centros de emergencia** (asistencia permanente), **casas de acogida**, **pisos tutelados** y **alojamientos alternativos específicos**."
+      ],
+      [
+       "**22**",
+       "**Puntos de encuentro** familiar."
+      ],
+      [
+       "**24**",
+       "**Dispositivo de alarma.**"
+      ],
+      [
+       "**32-36**",
+       "**Prestaciones económicas:** Ingreso Aragonés de Inserción, ayudas de urgente necesidad, renta activa de inserción, ayudas escolares…"
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Las medidas se aplican a víctimas **dentro de Aragón**. Las formas se consideran violencia **aunque no estén tipificadas como delito**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué formas de violencia recoge el art. 2?",
+     "Malos tratos físicos, psicológicos y sexuales, entre otras."
+    ],
+    [
+     "¿Quién habilita el servicio de guardia?",
+     "El Instituto Aragonés de la Mujer (art. 17)."
+    ]
+   ],
+   "esquema": [
+    "Objeto: sensibilizar, prevenir, erradicar, proteger (1) · formas físicas, psicológicas, sexuales (2) · ámbito: Aragón (4)",
+    "Servicios: Servicio Social Integral (12) · centros comarcales (13) · guardia (17) · emergencia, casas de acogida, pisos tutelados (18-20) · alarma (24)",
+    "Prestaciones económicas (32-36)"
+   ]
+  },
+  {
+   "id": "e3",
+   "titulo": "Plan de Igualdad del Ayuntamiento de Zaragoza",
+   "subtitulo": "Datos de las preguntas oficiales 2025",
+   "clave": [
+    "Aprobado el 22-dic-2023",
+    "Vigencia de 4 años (art. 5.3)",
+    "Protocolo contra el acoso: tipos (apartado IV)"
+   ],
+   "bloques": [
+    [
+     "key",
+     "**Contenido parcial:** el Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza no se ha podido contrastar con el documento oficial. Se recogen solo los datos que confirman las preguntas del examen de 2025."
+    ],
+    [
+     "tabla",
+     [
+      "Dato",
+      "Contenido"
+     ],
+     [
+      [
+       "**Aprobación**",
+       "**22 de diciembre de 2023**."
+      ],
+      [
+       "**Vigencia** (art. 5.3)",
+       "**Cuatro años desde su aprobación y registro**."
+      ],
+      [
+       "**Protocolo de actuación** (apartado IV)",
+       "Frente al **acoso sexual, acoso por razón de sexo y acoso por orientación sexual**. El **acoso de intercambio o chantaje sexual** es un tipo de **acoso sexual**."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "Condicionar un ascenso a que una trabajadora acepte una proposición sexual es **chantaje sexual**: se clasifica como **acoso sexual**."
+    ],
+    [
+     "trampa",
+     "Vigencia: **cuatro años** (no dos ni cinco). **Chantaje sexual → acoso sexual**, no acoso por razón de sexo."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuánto dura la vigencia del Plan de Igualdad?",
+     "Cuatro años desde su aprobación y registro (art. 5.3)."
+    ],
+    [
+     "¿El chantaje sexual de qué tipo de acoso es?",
+     "Acoso sexual."
+    ]
+   ],
+   "esquema": [
+    "Aprobado 22-dic-2023 · vigencia 4 años desde aprobación y registro (5.3)",
+    "Protocolo: acoso sexual (incluye chantaje) · por razón de sexo · por orientación sexual"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Igualdad y violencia de género",
+  "ramas": [
+   {
+    "titulo": "LO 3/2007",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Conceptos",
+      "hijos": [
+       {
+        "titulo": "Igualdad de trato (3)"
+       },
+       {
+        "titulo": "Discriminación directa e indirecta (6)"
+       },
+       {
+        "titulo": "Acoso sexual y por razón de sexo (7)"
+       }
+      ]
+     },
+     {
+      "titulo": "Garantías",
+      "hijos": [
+       {
+        "titulo": "Acciones positivas (11)"
+       },
+       {
+        "titulo": "Inversión de la prueba (13)"
+       },
+       {
+        "titulo": "Transversalidad (15)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Empleo público",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Administraciones",
+      "hijos": [
+       {
+        "titulo": "Remover obstáculos y conciliar (51)"
+       },
+       {
+        "titulo": "Formación y presencia equilibrada"
+       }
+      ]
+     },
+     {
+      "titulo": "Acoso",
+      "hijos": [
+       {
+        "titulo": "Protocolo negociado con la representación (62)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Ley 4/2007 Aragón",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Concepto",
+      "hijos": [
+       {
+        "titulo": "Violencia por pertenecer al sexo (1)"
+       },
+       {
+        "titulo": "Físicos, psicológicos, sexuales (2)"
+       }
+      ]
+     },
+     {
+      "titulo": "Recursos",
+      "hijos": [
+       {
+        "titulo": "Servicio Social Integral · guardia"
+       },
+       {
+        "titulo": "Emergencia · casas de acogida · pisos tutelados"
+       },
+       {
+        "titulo": "Prestaciones económicas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Plan Ayuntamiento",
+    "color": "#ffe066",
+    "hijos": [
+     {
+      "titulo": "Plan de Igualdad",
+      "hijos": [
+       {
+        "titulo": "Aprobado 22-dic-2023"
+       },
+       {
+        "titulo": "Vigencia 4 años (5.3)"
+       }
+      ]
+     },
+     {
+      "titulo": "Protocolo",
+      "hijos": [
+       {
+        "titulo": "Chantaje sexual = acoso sexual"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 62 LO 3/2007 (protocolo)",
+    "a": "Plan de Igualdad (apartado IV)",
+    "porque": "El Plan del Ayuntamiento incluye su protocolo contra el acoso sexual, por razón de sexo y por orientación sexual."
+   },
+   {
+    "de": "Art. 14.h TREBEP (derechos)",
+    "a": "Art. 7 LO 3/2007 (acoso)",
+    "porque": "Los empleados públicos tienen derecho al respeto de su dignidad frente al acoso sexual y por razón de sexo."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 3 de la LO 3/2007, el principio de igualdad de trato entre mujeres y hombres supone:",
+   [
+    "La ausencia de toda discriminación, directa o indirecta, por razón de sexo",
+    "La igualdad de resultados en todos los casos",
+    "La reserva de plazas para mujeres"
+   ],
+   0,
+   "Art. 3.",
+   "Art. 3 LO 3/2007",
+   "",
+   "h-ley",
+   [
+    "ausencia de toda discriminación"
+   ]
+  ],
+  [
+   "Se considera discriminación directa por razón de sexo la situación en que una persona sea, haya sido o pudiera ser tratada, en atención a su sexo:",
+   [
+    "De manera menos favorable que otra en situación comparable",
+    "De manera neutra",
+    "Con medidas de acción positiva"
+   ],
+   0,
+   "Art. 6.1.",
+   "Art. 6.1 LO 3/2007",
+   "Directa frente a indirecta",
+   "h-ley",
+   [
+    "menos favorable"
+   ]
+  ],
+  [
+   "Se considera discriminación indirecta la situación en que una disposición, criterio o práctica:",
+   [
+    "Aparentemente neutros pone a personas de un sexo en desventaja particular respecto a las del otro",
+    "Es expresamente discriminatoria",
+    "Se aplica solo a mujeres"
+   ],
+   0,
+   "Art. 6.2.",
+   "Art. 6.2 LO 3/2007",
+   "",
+   "h-ley",
+   [
+    "aparentemente neutros"
+   ]
+  ],
+  [
+   "Constituye acoso sexual:",
+   [
+    "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona",
+    "Cualquier trato desfavorable por embarazo",
+    "Un comportamiento relacionado solo con el sexo pero no sexual"
+   ],
+   0,
+   "Art. 7.1.",
+   "Art. 7.1 LO 3/2007",
+   "Sexual frente a por razón de sexo",
+   "h-ley",
+   [
+    "naturaleza sexual"
+   ]
+  ],
+  [
+   "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad constituye:",
+   [
+    "Discriminación directa por razón de sexo",
+    "Una acción positiva",
+    "Discriminación indirecta"
+   ],
+   0,
+   "Art. 8.",
+   "Art. 8 LO 3/2007",
+   "",
+   "h-ley",
+   [
+    "embarazo"
+   ]
+  ],
+  [
+   "Las medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho (acciones positivas) serán aplicables:",
+   [
+    "En tanto subsistan dichas situaciones, y habrán de ser razonables y proporcionadas",
+    "De manera indefinida",
+    "Solo en el empleo privado"
+   ],
+   0,
+   "Art. 11.1.",
+   "Art. 11.1 LO 3/2007",
+   "Temporales",
+   "h-ley",
+   [
+    "razonables y proporcionadas"
+   ]
+  ],
+  [
+   "En los procedimientos en que se alegue discriminación por razón de sexo, corresponde a la persona demandada:",
+   [
+    "Probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad",
+    "Nada: la prueba es toda de la parte actora",
+    "Solo alegar buena fe"
+   ],
+   0,
+   "Art. 13.1.",
+   "Art. 13.1 LO 3/2007",
+   "Inversión de la carga",
+   "h-ley",
+   [
+    "probar la ausencia de discriminación"
+   ]
+  ],
+  [
+   "El principio de igualdad de trato y oportunidades informará, con carácter transversal, la actuación de:",
+   [
+    "Todos los Poderes Públicos",
+    "Solo el Gobierno",
+    "Solo las empresas privadas"
+   ],
+   0,
+   "Art. 15.",
+   "Art. 15 LO 3/2007",
+   "",
+   "h-ley",
+   [
+    "transversal"
+   ]
+  ],
+  [
+   "Para la prevención del acoso sexual y por razón de sexo, las Administraciones públicas negociarán un protocolo de actuación con:",
+   [
+    "La representación legal de las trabajadoras y trabajadores",
+    "El Defensor del Pueblo",
+    "El Consejo de Estado"
+   ],
+   0,
+   "Art. 62.",
+   "Art. 62 LO 3/2007",
+   "",
+   "h-empleo",
+   [
+    "representación legal"
+   ]
+  ],
+  [
+   "Las pruebas de acceso al empleo público de la Administración General del Estado contemplarán:",
+   [
+    "El estudio y la aplicación del principio de igualdad entre mujeres y hombres",
+    "Solo materias jurídicas",
+    "Ninguna materia de igualdad"
+   ],
+   0,
+   "Art. 61.1.",
+   "Art. 61.1 LO 3/2007",
+   "",
+   "h-empleo",
+   [
+    "principio de igualdad"
+   ]
+  ],
+  [
+   "Según el art. 1 de la Ley 4/2007 de Aragón, el objeto de la ley es la adopción de medidas integrales dirigidas a:",
+   [
+    "La sensibilización, prevención y erradicación de la violencia contra las mujeres, y la protección, asistencia y seguimiento de las víctimas",
+    "Solo la sanción penal",
+    "Solo la asistencia económica"
+   ],
+   0,
+   "Art. 1.1.",
+   "Art. 1.1 Ley 4/2007 Aragón",
+   "",
+   "h-violencia",
+   [
+    "sensibilización, prevención y erradicación"
+   ]
+  ],
+  [
+   "Las medidas de la Ley 4/2007 se aplican a las mujeres que, dentro de la Comunidad Autónoma de Aragón, sean víctimas de:",
+   [
+    "Cualquiera de las formas de violencia del artículo 2",
+    "Solo violencia física",
+    "Solo violencia ejercida por su pareja"
+   ],
+   0,
+   "Art. 4.",
+   "Art. 4 Ley 4/2007 Aragón",
+   "",
+   "h-violencia",
+   [
+    "Comunidad Autónoma de Aragón"
+   ]
+  ],
+  [
+   "¿Qué organismo habilita un servicio de guardia para las víctimas de violencia, según la Ley 4/2007 de Aragón?",
+   [
+    "El Instituto Aragonés de la Mujer",
+    "El Justicia de Aragón",
+    "La Diputación Provincial"
+   ],
+   0,
+   "Art. 17.",
+   "Art. 17 Ley 4/2007 Aragón",
+   "",
+   "h-violencia",
+   [
+    "Instituto Aragonés de la Mujer"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 5.3 del vigente Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, aprobado el 22 de diciembre de 2023, el período de vigencia será de:",
+   [
+    "Cuatro años desde su aprobación y registro",
+    "Dos años",
+    "Cinco años"
+   ],
+   0,
+   "Examen 2025, pregunta 1.",
+   "Art. 5.3 Plan de Igualdad",
+   "Años",
+   "h-plan",
+   [
+    "Cuatro años"
+   ]
+  ],
+  [
+   "Según el apartado IV del protocolo de actuación frente al acoso del Plan de Igualdad del Ayuntamiento de Zaragoza, el acoso de intercambio o chantaje sexual es un tipo de:",
+   [
+    "Acoso sexual",
+    "Acoso por razón de sexo",
+    "Acoso por orientación sexual"
+   ],
+   0,
+   "Examen 2025, pregunta 11.",
+   "Protocolo, apartado IV, Plan de Igualdad",
+   "Tipo de acoso",
+   "h-plan",
+   [
+    "chantaje sexual"
+   ]
+  ]
+ ]
+}

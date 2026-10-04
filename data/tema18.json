@@ -1,0 +1,675 @@
+{
+ "n": 18,
+ "titulo": "Los empleados públicos (II): acceso, situaciones administrativas y disciplina",
+ "fuente": "Real Decreto Legislativo 5/2015, TREBEP (BOE-A-2015-11719), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Adquisición y pérdida de la relación de servicio",
+   "subtitulo": "Arts. 55 a 63 TREBEP",
+   "clave": [
+    "Principios rectores (55)",
+    "Requisitos (56)",
+    "Reserva para discapacidad (59)",
+    "Adquisición de la condición de funcionario (62)",
+    "Pérdida (63)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El acceso al empleo público se rige por los principios constitucionales de **igualdad, mérito y capacidad** (art. 55.1). Los procesos selectivos garantizan además: publicidad de convocatorias y bases, transparencia, **imparcialidad y profesionalidad** de los órganos de selección, independencia y discrecionalidad técnica, adecuación a las funciones y agilidad (55.2)."
+    ],
+    [
+     "h",
+     "Requisitos generales (art. 56.1)"
+    ],
+    [
+     "lista",
+     [
+      "**Nacionalidad española** (con las excepciones del art. 57).",
+      "**Capacidad funcional** para las tareas.",
+      "**16 años cumplidos** y no exceder de la edad máxima de jubilación forzosa.",
+      "No haber sido separado del servicio por expediente disciplinario ni hallarse inhabilitado.",
+      "Poseer la **titulación** exigida."
+     ]
+    ],
+    [
+     "h",
+     "Reserva para personas con discapacidad (art. 59.1)"
+    ],
+    [
+     "p",
+     "En las ofertas de empleo público se reserva un cupo **no inferior al 7 %** de las vacantes. De ese 7 %, **al menos el 2 %** (de las plazas ofertadas) es para **discapacidad intelectual** y **el resto (5 %)** para cualquier otro tipo de discapacidad."
+    ],
+    [
+     "h",
+     "Cómo se adquiere la condición de funcionario de carrera (art. 62)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** Superación del proceso selectivo.",
+      "**b)** **Nombramiento** por el órgano competente, publicado en el Diario Oficial.",
+      "**c)** **Acatamiento** de la Constitución, del Estatuto de Autonomía y del resto del ordenamiento.",
+      "**d)** **Toma de posesión** dentro del plazo establecido."
+     ]
+    ],
+    [
+     "p",
+     "Son requisitos **sucesivos**: hay que cumplirlos en ese orden."
+    ],
+    [
+     "h",
+     "Causas de pérdida (art. 63)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** **Renuncia** a la condición de funcionario.",
+      "**b)** **Pérdida de la nacionalidad**.",
+      "**c)** **Jubilación total**.",
+      "**d)** **Sanción de separación del servicio** firme.",
+      "**e)** **Pena de inhabilitación** absoluta o especial para cargo público, firme."
+     ]
+    ],
+    [
+     "trampa",
+     "El 7 % reservado se reparte **2 % discapacidad intelectual + 5 % otras discapacidades** (pregunta real de 2025: «el cinco por ciento»). La **sanción de separación** y la **pena de inhabilitación** deben ser **firmes** para perder la condición."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántos requisitos sucesivos hay para ser funcionario de carrera?",
+     "Cuatro: proceso selectivo, nombramiento publicado, acatamiento y toma de posesión (art. 62)."
+    ],
+    [
+     "¿Qué cupo de discapacidad exige el art. 59.1 y cómo se reparte?",
+     "No inferior al 7 %: al menos el 2 % para discapacidad intelectual y el resto para otros tipos."
+    ],
+    [
+     "¿Cuáles son las causas de pérdida de la condición de funcionario?",
+     "Renuncia, pérdida de la nacionalidad, jubilación total, separación del servicio firme e inhabilitación firme (63)."
+    ]
+   ],
+   "esquema": [
+    "Principios: igualdad, mérito, capacidad (55)",
+    "Requisitos: nacionalidad · capacidad funcional · 16 años · sin separación · titulación (56)",
+    "Reserva discapacidad: 7 % (2 % intelectual + resto otras) (59)",
+    "Adquisición: proceso selectivo → nombramiento → acatamiento → toma de posesión (62)",
+    "Pérdida: renuncia · nacionalidad · jubilación · separación · inhabilitación (63)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Situaciones administrativas",
+   "subtitulo": "Arts. 85 a 92 TREBEP",
+   "clave": [
+    "5 situaciones (85)",
+    "Servicios especiales (87)",
+    "Otras Administraciones (88)",
+    "Excedencia: 5 modalidades (89)",
+    "Cinco años de servicios (89.2)",
+    "Suspensión: pierde el puesto si excede 6 meses (90)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Un funcionario de carrera está en una de estas **cinco situaciones** (art. 85.1): **servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones**."
+    ],
+    [
+     "tabla",
+     [
+      "Situación",
+      "Claves"
+     ],
+     [
+      [
+       "**Servicios especiales** (87)",
+       "Por ejemplo, ser designado **miembro del Gobierno** o de órganos de gobierno de las CCAA, o de instituciones de la UE u organizaciones internacionales."
+      ],
+      [
+       "**Servicio en otras AAPP** (88)",
+       "Por **transferencias** o por **provisión de puestos** en otra Administración."
+      ],
+      [
+       "**Excedencia** (89)",
+       "Cinco modalidades: **voluntaria por interés particular**, **por agrupación familiar**, **por cuidado de familiares**, **por violencia de género o sexual** y **por violencia terrorista**."
+      ],
+      [
+       "**Suspensión de funciones** (90)",
+       "Privado del ejercicio de funciones y derechos. **Pierde el puesto de trabajo si excede de 6 meses**."
+      ],
+      [
+       "**Reingreso** (91)",
+       "Se regula reglamentariamente, con reserva de puesto cuando proceda."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Excedencia voluntaria por interés particular (89.2)"
+    ],
+    [
+     "lista",
+     [
+      "Exige **cinco años de servicios efectivos** en cualquier Administración Pública **inmediatamente anteriores** (examen 2025).",
+      "Está **subordinada a las necesidades del servicio**, debidamente motivadas.",
+      "**No puede declararse** si se instruye **expediente disciplinario**.",
+      "**No devenga retribuciones** ni computa para ascensos, trienios ni Seguridad Social."
+     ]
+    ],
+    [
+     "trampa",
+     "Cinco años, no uno ni tres. Y el **personal laboral** no está en estas situaciones: se rige por el **Estatuto de los Trabajadores** y convenios (art. 92)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántas situaciones administrativas hay?",
+     "Cinco: servicio activo, servicios especiales, servicio en otras AAPP, excedencia y suspensión (85.1)."
+    ],
+    [
+     "¿Cuántos años de servicios para la excedencia por interés particular?",
+     "Cinco años inmediatamente anteriores (89.2)."
+    ],
+    [
+     "¿Cuándo se pierde el puesto en suspensión?",
+     "Cuando la suspensión excede de seis meses (90.1)."
+    ]
+   ],
+   "esquema": [
+    "5 situaciones: activo · servicios especiales · otras AAPP · excedencia · suspensión (85)",
+    "Excedencia: interés particular · agrupación familiar · cuidado de familiares · violencia de género · violencia terrorista (89)",
+    "Interés particular: 5 años de servicios; sin retribución",
+    "Suspensión > 6 meses: pierde el puesto (90)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Régimen disciplinario",
+   "subtitulo": "Arts. 93 a 98 TREBEP",
+   "clave": [
+    "Faltas: muy graves, graves, leves (95.1)",
+    "Faltas muy graves (95.2)",
+    "Sanciones (96)",
+    "Prescripción (97)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Quedan sujetos a disciplina los **funcionarios y el personal laboral** (art. 93). Quien **induce** a una falta responde igual; también quien **encubre** faltas muy graves o graves si causa daño grave."
+    ],
+    [
+     "h",
+     "Faltas muy graves (art. 95.2), por ejemplo"
+    ],
+    [
+     "lista",
+     [
+      "Incumplir el deber de respeto a la **Constitución** y los Estatutos de Autonomía.",
+      "Toda actuación **discriminatoria** y el **acoso** moral, sexual o por razón de sexo.",
+      "**Abandono del servicio** o no hacerse cargo de las tareas encomendadas.",
+      "Adoptar **acuerdos manifiestamente ilegales** que causen perjuicio grave.",
+      "Publicación o utilización indebida de **documentación o información** reservada.",
+      "**Desobediencia abierta** a las órdenes de un superior, **salvo que constituyan infracción manifiesta del ordenamiento jurídico** (95.2.i).",
+      "Prevalerse de la condición de empleado público para obtener **beneficio indebido**."
+     ]
+    ],
+    [
+     "h",
+     "Sanciones (art. 96)"
+    ],
+    [
+     "lista",
+     [
+      "**Separación del servicio** (en interinos, revocación del nombramiento): **solo por faltas muy graves**.",
+      "**Despido disciplinario** del personal laboral: solo faltas muy graves.",
+      "**Suspensión firme** de funciones: **máximo 6 años**.",
+      "**Traslado forzoso**, **demérito**, **apercibimiento** y otras que establezca la ley."
+     ]
+    ],
+    [
+     "h",
+     "Prescripción (art. 97)"
+    ],
+    [
+     "tabla",
+     [
+      "",
+      "Muy graves",
+      "Graves",
+      "Leves"
+     ],
+     [
+      [
+       "**Faltas**",
+       "3 años",
+       "2 años",
+       "6 meses"
+      ],
+      [
+       "**Sanciones**",
+       "3 años",
+       "2 años",
+       "1 año"
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Las faltas prescriben desde que se **cometen** (o desde que cesa la conducta si es continuada). Las sanciones, desde la **firmeza** de la resolución."
+    ],
+    [
+     "trampa",
+     "Desobedecer **no es falta muy grave** si la orden constituye **infracción manifiesta del ordenamiento jurídico** (examen 2025). La **separación del servicio** solo sanciona faltas **muy graves**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué sanciones solo se pueden imponer por faltas muy graves?",
+     "La separación del servicio y el despido disciplinario del personal laboral (96.1.a y b)."
+    ],
+    [
+     "¿Plazos de prescripción de las faltas?",
+     "Muy graves 3 años, graves 2 años y leves 6 meses (97.1)."
+    ],
+    [
+     "¿Duración máxima de la suspensión firme?",
+     "Seis años (96.1.c)."
+    ]
+   ],
+   "esquema": [
+    "Faltas: muy graves · graves · leves (95)",
+    "Sanciones: separación · despido · suspensión ≤ 6 años · traslado · demérito · apercibimiento (96)",
+    "Prescripción faltas 3 años / 2 años / 6 meses; sanciones 3 / 2 / 1 año (97)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Empleados públicos (II)",
+  "ramas": [
+   {
+    "titulo": "Acceso y pérdida",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Acceso (55-61)",
+      "hijos": [
+       {
+        "titulo": "Igualdad, mérito y capacidad"
+       },
+       {
+        "titulo": "16 años, nacionalidad, capacidad, titulación"
+       },
+       {
+        "titulo": "Reserva discapacidad: 7 % (2 % + 5 %)"
+       }
+      ]
+     },
+     {
+      "titulo": "Adquirir (62)",
+      "hijos": [
+       {
+        "titulo": "Proceso selectivo"
+       },
+       {
+        "titulo": "Nombramiento publicado"
+       },
+       {
+        "titulo": "Acatamiento"
+       },
+       {
+        "titulo": "Toma de posesión"
+       }
+      ]
+     },
+     {
+      "titulo": "Perder (63)",
+      "hijos": [
+       {
+        "titulo": "Renuncia · nacionalidad · jubilación"
+       },
+       {
+        "titulo": "Separación o inhabilitación firmes"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Situaciones (85-92)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Las 5",
+      "hijos": [
+       {
+        "titulo": "Servicio activo"
+       },
+       {
+        "titulo": "Servicios especiales"
+       },
+       {
+        "titulo": "Otras Administraciones"
+       },
+       {
+        "titulo": "Excedencia"
+       },
+       {
+        "titulo": "Suspensión"
+       }
+      ]
+     },
+     {
+      "titulo": "Excedencia",
+      "hijos": [
+       {
+        "titulo": "Interés particular: 5 años de servicios"
+       },
+       {
+        "titulo": "Agrupación familiar · cuidado de familiares"
+       },
+       {
+        "titulo": "Violencia de género · terrorista"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Disciplina (93-98)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Faltas",
+      "hijos": [
+       {
+        "titulo": "Muy graves · graves · leves"
+       },
+       {
+        "titulo": "Desobediencia abierta, salvo infracción manifiesta"
+       }
+      ]
+     },
+     {
+      "titulo": "Sanciones",
+      "hijos": [
+       {
+        "titulo": "Separación y despido: solo muy graves"
+       },
+       {
+        "titulo": "Suspensión firme ≤ 6 años"
+       }
+      ]
+     },
+     {
+      "titulo": "Prescripción",
+      "hijos": [
+       {
+        "titulo": "Faltas: 3 años · 2 años · 6 meses"
+       },
+       {
+        "titulo": "Sanciones: 3 años · 2 años · 1 año"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 63 (pérdida: separación firme)",
+    "a": "Art. 96 (sanción de separación)",
+    "porque": "La separación del servicio es sanción de faltas muy graves y, si es firme, causa de pérdida de la condición de funcionario."
+   },
+   {
+    "de": "Art. 89.2 (excedencia)",
+    "a": "Art. 94 (expediente disciplinario)",
+    "porque": "No se puede conceder excedencia voluntaria por interés particular a quien tiene un expediente disciplinario en instrucción."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 59.1 TREBEP, en las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para personas con discapacidad. De ese cupo, al menos el dos por ciento de las plazas ofertadas se reserva para discapacidad intelectual y el resto para otras discapacidades, es decir:",
+   [
+    "El cuatro por ciento",
+    "El cinco por ciento",
+    "El seis por ciento"
+   ],
+   1,
+   "7 % − 2 % = 5 % (examen 2025, pregunta 20).",
+   "Art. 59.1 TREBEP",
+   "Hacer la cuenta",
+   "h-acceso",
+   [
+    "siete por ciento"
+   ]
+  ],
+  [
+   "Para poder participar en los procesos selectivos es necesario, entre otros requisitos, tener cumplidos:",
+   [
+    "Dieciséis años y no exceder de la edad máxima de jubilación forzosa",
+    "Dieciocho años",
+    "Veintiún años"
+   ],
+   0,
+   "Art. 56.1.c.",
+   "Art. 56.1 TREBEP",
+   "",
+   "h-acceso",
+   [
+    "dieciséis años"
+   ]
+  ],
+  [
+   "La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos:",
+   [
+    "Nombramiento, proceso selectivo, toma de posesión y acatamiento",
+    "Superación del proceso selectivo, nombramiento publicado en el Diario Oficial, acatamiento de la Constitución y toma de posesión",
+    "Solo la superación del proceso selectivo"
+   ],
+   1,
+   "Art. 62.1: a) proceso selectivo, b) nombramiento publicado, c) acatamiento, d) toma de posesión.",
+   "Art. 62.1 TREBEP",
+   "El orden importa",
+   "h-adquirir",
+   [
+    "Superación del proceso selectivo"
+   ]
+  ],
+  [
+   "¿Cuál NO es causa de pérdida de la condición de funcionario de carrera según el art. 63?",
+   [
+    "La renuncia",
+    "La jubilación total",
+    "La sanción disciplinaria de suspensión de funciones"
+   ],
+   2,
+   "Art. 63: renuncia, pérdida de la nacionalidad, jubilación total, separación del servicio firme e inhabilitación firme. La suspensión no hace perder la condición.",
+   "Art. 63 TREBEP",
+   "Suspensión frente a separación",
+   "h-adquirir",
+   [
+    "suspensión de funciones"
+   ]
+  ],
+  [
+   "Según el art. 85.1 TREBEP, los funcionarios de carrera se hallarán en alguna de las siguientes situaciones:",
+   [
+    "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones",
+    "Servicio activo, excedencia voluntaria, excedencia forzosa y jubilación",
+    "Servicio activo, comisión de servicios y adscripción provisional"
+   ],
+   0,
+   "Art. 85.1.",
+   "Art. 85.1 TREBEP",
+   "",
+   "h-situaciones",
+   [
+    "servicio en otras Administraciones Públicas"
+   ]
+  ],
+  [
+   "Para obtener la excedencia voluntaria por interés particular es necesario haber prestado servicios efectivos en cualquier Administración durante un período mínimo inmediatamente anterior de:",
+   [
+    "Un año",
+    "Cinco años",
+    "Tres años"
+   ],
+   1,
+   "Art. 89.2: cinco años (examen 2025, pregunta 9).",
+   "Art. 89.2 TREBEP",
+   "Años",
+   "h-situaciones",
+   [
+    "Cinco años"
+   ]
+  ],
+  [
+   "La suspensión de funciones determinará la pérdida del puesto de trabajo cuando exceda de:",
+   [
+    "Tres meses",
+    "Seis meses",
+    "Un año"
+   ],
+   1,
+   "Art. 90.1.",
+   "Art. 90.1 TREBEP",
+   "",
+   "h-situaciones",
+   [
+    "seis meses"
+   ]
+  ],
+  [
+   "La excedencia voluntaria por interés particular:",
+   [
+    "No puede declararse cuando se instruya expediente disciplinario al funcionario",
+    "Se concede siempre, con independencia de las necesidades del servicio",
+    "Computa a efectos de trienios"
+   ],
+   0,
+   "Art. 89.2: queda subordinada a las necesidades del servicio, no puede declararse con expediente disciplinario y no computa a efectos de ascensos ni trienios.",
+   "Art. 89.2 TREBEP",
+   "",
+   "h-situaciones",
+   [
+    "expediente disciplinario"
+   ]
+  ],
+  [
+   "El personal laboral, en cuanto a sus situaciones, se rige por:",
+   [
+    "El Estatuto de los Trabajadores y los convenios colectivos",
+    "Exactamente las mismas reglas que los funcionarios de carrera",
+    "El reglamento que apruebe cada ayuntamiento"
+   ],
+   0,
+   "Art. 92.",
+   "Art. 92 TREBEP",
+   "",
+   "h-situaciones",
+   [
+    "Estatuto de los Trabajadores"
+   ]
+  ],
+  [
+   "Las faltas disciplinarias pueden ser:",
+   [
+    "Muy graves, graves y leves",
+    "Graves, leves y levísimas",
+    "Muy graves y leves"
+   ],
+   0,
+   "Art. 95.1.",
+   "Art. 95.1 TREBEP",
+   "",
+   "h-disciplina",
+   [
+    "Muy graves, graves y leves"
+   ]
+  ],
+  [
+   "Constituye falta disciplinaria muy grave la desobediencia abierta a las órdenes o instrucciones de un superior, salvo que constituyan:",
+   [
+    "Infracción penal o administrativa",
+    "Infracción manifiesta del ordenamiento jurídico",
+    "Delito o falta"
+   ],
+   1,
+   "Art. 95.2.i (examen 2025, pregunta 18).",
+   "Art. 95.2.i TREBEP",
+   "Excepción exacta",
+   "h-disciplina",
+   [
+    "infracción manifiesta del ordenamiento jurídico"
+   ]
+  ],
+  [
+   "La sanción de separación del servicio de los funcionarios solo podrá imponerse por:",
+   [
+    "Faltas graves",
+    "La comisión de faltas muy graves",
+    "Cualquier falta reiterada"
+   ],
+   1,
+   "Art. 96.1.a.",
+   "Art. 96.1.a TREBEP",
+   "",
+   "h-disciplina",
+   [
+    "faltas muy graves"
+   ]
+  ],
+  [
+   "La suspensión firme de funciones tendrá una duración máxima de:",
+   [
+    "Seis meses",
+    "Seis años",
+    "Tres años"
+   ],
+   1,
+   "Art. 96.1.c: máximo 6 años.",
+   "Art. 96.1.c TREBEP",
+   "Meses y años",
+   "h-disciplina",
+   [
+    "Seis años"
+   ]
+  ],
+  [
+   "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a:",
+   [
+    "Los tres meses",
+    "Los seis meses",
+    "Al año"
+   ],
+   1,
+   "Art. 97.1: seis meses. Las sanciones leves prescriben al año.",
+   "Art. 97.1 TREBEP",
+   "Faltas frente a sanciones",
+   "h-disciplina",
+   [
+    "seis meses"
+   ]
+  ],
+  [
+   "El plazo de prescripción de las sanciones comienza a contarse:",
+   [
+    "Desde que se cometió la falta",
+    "Desde la firmeza de la resolución sancionadora",
+    "Desde que se inicia el expediente"
+   ],
+   1,
+   "Art. 97.2: las faltas desde que se cometen; las sanciones desde la firmeza.",
+   "Art. 97.2 TREBEP",
+   "Faltas frente a sanciones",
+   "h-disciplina",
+   [
+    "firmeza"
+   ]
+  ]
+ ]
+}

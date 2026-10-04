@@ -1,0 +1,293 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "silencio-administrativo",
+   "Silencio administrativo",
+   "Lo que se entiende cuando la Administración no responde a tiempo: en solicitudes, por regla general se entiende estimada (positivo); la ley puede decir que se entiende desestimada (negativo).",
+   "Art. 24 Ley 39/2015"
+  ],
+  [
+   "declaracion-responsable",
+   "Declaración responsable",
+   "Documento en que el interesado afirma que cumple los requisitos para ejercer un derecho o actividad, sin esperar a una autorización.",
+   "Art. 69 Ley 39/2015"
+  ],
+  [
+   "registro-electronico",
+   "Registro electrónico",
+   "Sistema oficial para presentar documentos por internet, con constancia de fecha y hora.",
+   "Art. 16 Ley 39/2015"
+  ],
+  [
+   "dia-habil",
+   "Día hábil",
+   "Día que cuenta para los plazos: se excluyen sábados, domingos y festivos.",
+   "Art. 30.2 Ley 39/2015"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-plazos",
+   "epi": "e2",
+   "titulo": "Cómputo de plazos",
+   "art": "Arts. 29-33",
+   "resumen": "Horas, días, meses, ampliación y urgencia.",
+   "confunde": [
+    "h-resolver"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Los plazos obligan a autoridades, personal e interesados (29)"
+    ],
+    [
+     "n",
+     "Horas: hábiles, máximo 24 h"
+    ],
+    [
+     "d",
+     "Días: hábiles; sin sábados, domingos ni festivos"
+    ],
+    [
+     "d",
+     "Se cuentan desde el día siguiente a la notificación o publicación"
+    ],
+    [
+     "d",
+     "Meses y años: concluyen el mismo día del mes o año de vencimiento"
+    ],
+    [
+     "d",
+     "Último día inhábil → primer hábil siguiente"
+    ],
+    [
+     "n",
+     "Ampliación: no excede de la mitad (32)"
+    ],
+    [
+     "n",
+     "Urgencia: mitad, salvo solicitudes y recursos; sin recurso (33)"
+    ]
+   ]
+  },
+  {
+   "id": "h-resolver",
+   "epi": "e1",
+   "titulo": "Resolver y silencio",
+   "art": "Arts. 21-25",
+   "resumen": "Obligación de resolver y efectos del silencio.",
+   "confunde": [
+    "h-plazos"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Resolución expresa y notificación en todos los procedimientos"
+    ],
+    [
+     "n",
+     "Plazo máximo: 6 meses, salvo ley o Derecho de la UE"
+    ],
+    [
+     "n",
+     "Sin plazo fijado: 3 meses"
+    ],
+    [
+     "d",
+     "Iniciados de oficio: desde el acuerdo de iniciación"
+    ],
+    [
+     "d",
+     "Iniciados a solicitud: desde la entrada de la solicitud en el registro del órgano competente"
+    ],
+    [
+     "d",
+     "Silencio positivo en solicitudes (regla)"
+    ],
+    [
+     "d",
+     "Silencio negativo: petición, dominio público, medio ambiente, responsabilidad patrimonial"
+    ],
+    [
+     "t",
+     "El silencio negativo exige norma con rango de ley"
+    ]
+   ]
+  },
+  {
+   "id": "h-registro",
+   "epi": "e0",
+   "titulo": "Relación electrónica y registros",
+   "art": "Arts. 13-17",
+   "resumen": "Quién debe relacionarse electrónicamente y dónde se presenta.",
+   "confunde": [
+    "h-resolver"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Personas físicas: eligen medio electrónico o no"
+    ],
+    [
+     "q",
+     "Obligados: personas jurídicas y entidades sin personalidad"
+    ],
+    [
+     "q",
+     "Obligados: colegiación obligatoria, representantes de obligados, empleados públicos"
+    ],
+    [
+     "d",
+     "Lengua: castellano y lengua cooficial en la sede en una CA"
+    ],
+    [
+     "d",
+     "Registro Electrónico General con recibo y orden temporal"
+    ],
+    [
+     "d",
+     "Presentación: registro electrónico, Correos, consulados, oficinas de asistencia, otros"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Obligados a relacionarse electrónicamente (art. 14.2)",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "a",
+     "x": "Personas jurídicas",
+     "c": "#247ba0",
+     "ic": "🏢"
+    },
+    {
+     "n": "b",
+     "x": "Entidades sin personalidad jurídica",
+     "c": "#247ba0",
+     "ic": "👥"
+    },
+    {
+     "n": "c",
+     "x": "Colegiación obligatoria",
+     "s": "Incluidos notarios y registradores",
+     "c": "#70c1b3",
+     "ic": "🎓"
+    },
+    {
+     "n": "d",
+     "x": "Quienes representan a un obligado",
+     "c": "#ffe066",
+     "ic": "🤝"
+    },
+    {
+     "n": "e",
+     "x": "Empleados públicos",
+     "s": "Por razón de su condición",
+     "c": "#f25f5c",
+     "ic": "🧑‍💼"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Dónde se presentan los documentos (art. 16.4)",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "a",
+     "x": "Registro electrónico",
+     "c": "#247ba0",
+     "ic": "💻"
+    },
+    {
+     "n": "b",
+     "x": "Oficinas de Correos",
+     "c": "#70c1b3",
+     "ic": "📮"
+    },
+    {
+     "n": "c",
+     "x": "Representaciones diplomáticas y consulares",
+     "c": "#ffe066",
+     "ic": "🌍"
+    },
+    {
+     "n": "d",
+     "x": "Oficinas de asistencia en materia de registros",
+     "c": "#f25f5c",
+     "ic": "🏛️"
+    },
+    {
+     "n": "e",
+     "x": "Cualquier otro previsto",
+     "c": "#50514f",
+     "ic": "📑"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Silencio positivo frente a negativo",
+   "epi": "e1",
+   "a": {
+    "x": "Silencio positivo (regla)",
+    "c": "#70c1b3",
+    "pasos": [
+     "Procedimiento a solicitud",
+     "Vence el plazo sin resolución",
+     "Se entiende estimada"
+    ],
+    "nota": "Salvo norma con rango de ley en contra."
+   },
+   "b": {
+    "x": "Silencio negativo (excepción)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Derecho de petición, dominio público, medio ambiente, responsabilidad patrimonial",
+     "Vence el plazo sin resolución",
+     "Se entiende desestimada"
+    ],
+    "nota": "Debe fijarlo una norma con rango de ley."
+   }
+  },
+  {
+   "t": "contraste",
+   "titulo": "Ampliación frente a urgencia",
+   "epi": "e2",
+   "a": {
+    "x": "Ampliación (art. 32)",
+    "c": "#247ba0",
+    "pasos": [
+     "De oficio o a petición",
+     "Hasta la mitad del plazo",
+     "Sin perjudicar a terceros"
+    ],
+    "nota": "Debe notificarse."
+   },
+   "b": {
+    "x": "Urgencia (art. 33)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Razones de interés público",
+     "Se reducen a la mitad",
+     "Salvo solicitudes y recursos"
+    ],
+    "nota": "Sin recurso contra el acuerdo."
+   }
+  }
+ ]
+}

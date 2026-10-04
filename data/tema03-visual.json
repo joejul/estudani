@@ -1,0 +1,277 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "nacionalidad-historica",
+   "Nacionalidad histórica",
+   "Término de la Constitución para comunidades con identidad histórica propia. Aragón se define así en su Estatuto.",
+   "Art. 1 EAAr"
+  ],
+  [
+   "vecindad-administrativa",
+   "Vecindad administrativa",
+   "Condición de estar empadronado en un municipio. Da la «condición política de aragonés».",
+   "Art. 4 EAAr"
+  ],
+  [
+   "vecindad-civil",
+   "Vecindad civil aragonesa",
+   "Vínculo que determina qué Derecho civil se aplica a una persona (el Derecho foral aragonés).",
+   "Art. 9 EAAr"
+  ],
+  [
+   "cortes-aragon",
+   "Cortes de Aragón",
+   "El parlamento autonómico: unicameral, de 65 a 80 diputados, legisla y controla al Gobierno.",
+   "Arts. 33-45 EAAr"
+  ],
+  [
+   "justicia-aragon",
+   "Justicia de Aragón",
+   "Institución propia que protege los derechos del Estatuto y el ordenamiento aragonés (parecido al Defensor del Pueblo).",
+   "Art. 59 EAAr"
+  ],
+  [
+   "competencia-exclusiva",
+   "Competencia exclusiva",
+   "La Comunidad ejerce la ley, el reglamento y la ejecución en esa materia, respetando los límites constitucionales.",
+   "Art. 71 EAAr"
+  ],
+  [
+   "competencia-compartida",
+   "Competencia compartida",
+   "El Estado fija las bases y la Comunidad desarrolla la ley y la ejecuta.",
+   "Art. 75 EAAr"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-preliminar",
+   "epi": "e0",
+   "titulo": "Título preliminar",
+   "art": "Arts. 1-10 EAAr",
+   "resumen": "Identidad, símbolos y territorio.",
+   "confunde": [
+    "h-instituciones"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Aragón: nacionalidad histórica; poderes del pueblo aragonés y de la Constitución"
+    ],
+    [
+     "d",
+     "Territorio: municipios, comarcas y provincias de Huesca, Teruel y Zaragoza"
+    ],
+    [
+     "d",
+     "Bandera: cuatro barras rojas sobre amarillo"
+    ],
+    [
+     "d",
+     "Capital: Zaragoza · Día de Aragón: 23 de abril"
+    ],
+    [
+     "d",
+     "Aragonés: vecindad administrativa en un municipio de Aragón"
+    ],
+    [
+     "d",
+     "Derecho foral: eficacia personal por vecindad civil aragonesa"
+    ],
+    [
+     "d",
+     "Incorporación de territorios: Ayuntamientos, consulta, Cortes de Aragón y Cortes Generales (ley orgánica)"
+    ]
+   ]
+  },
+  {
+   "id": "h-instituciones",
+   "epi": "e1",
+   "titulo": "Instituciones de Aragón",
+   "art": "Arts. 32-60 EAAr",
+   "resumen": "Cortes, Presidente, Gobierno, Consejo Consultivo y Justicia.",
+   "confunde": [
+    "h-competencias",
+    "h-preliminar"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Instituciones: Cortes, Presidente, Gobierno (Diputación General) y Justicia"
+    ],
+    [
+     "d",
+     "Cortes: unicamerales, legislan, aprueban presupuestos, controlan al Gobierno"
+    ],
+    [
+     "n",
+     "Cortes: 65 a 80 escaños, mínimo 14 por provincia, 4 años"
+    ],
+    [
+     "q",
+     "Presidente: elegido por las Cortes, nombrado por el Rey"
+    ],
+    [
+     "n",
+     "Investidura: mayoría absoluta; a las 24 horas, simple"
+    ],
+    [
+     "q",
+     "Gobierno: función ejecutiva y potestad reglamentaria; responde solidariamente"
+    ],
+    [
+     "q",
+     "Consejo Consultivo: supremo órgano consultivo"
+    ],
+    [
+     "q",
+     "Justicia: protege derechos y defiende el Estatuto"
+    ]
+   ]
+  },
+  {
+   "id": "h-competencias",
+   "epi": "e2",
+   "titulo": "Clases de competencias",
+   "art": "Arts. 71-77 EAAr",
+   "resumen": "Exclusivas, compartidas y ejecutivas.",
+   "confunde": [
+    "h-instituciones"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Exclusivas: potestad legislativa, reglamentaria y función ejecutiva"
+    ],
+    [
+     "d",
+     "Exclusivas: Derecho foral, lenguas, régimen local, urbanismo y vivienda"
+    ],
+    [
+     "d",
+     "Compartidas: desarrollo legislativo y ejecución de la legislación básica"
+    ],
+    [
+     "d",
+     "Ejecutivas: reglamentos de organización y funciones de la Administración"
+    ],
+    [
+     "q",
+     "Coordinación de las policías locales: la Comunidad (76.3)"
+    ],
+    [
+     "t",
+     "Urbanismo es exclusiva de Aragón"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Símbolos y datos de Aragón (art. 3)",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "1",
+     "x": "Bandera",
+     "s": "Cuatro barras rojas horizontales sobre amarillo",
+     "c": "#f25f5c",
+     "ic": "🚩"
+    },
+    {
+     "n": "2",
+     "x": "Escudo",
+     "s": "Cuatro cuarteles con corona",
+     "c": "#ffe066",
+     "ic": "🛡️"
+    },
+    {
+     "n": "3",
+     "x": "Capital",
+     "s": "Zaragoza",
+     "c": "#247ba0",
+     "ic": "🏙️"
+    },
+    {
+     "n": "4",
+     "x": "Día de Aragón",
+     "s": "23 de abril",
+     "c": "#70c1b3",
+     "ic": "📅"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Instituciones de Aragón",
+   "epi": "e1",
+   "items": [
+    {
+     "n": "1",
+     "x": "Cortes de Aragón",
+     "s": "Unicamerales · legislan · controlan",
+     "c": "#247ba0",
+     "ic": "🏛️"
+    },
+    {
+     "n": "2",
+     "x": "Presidente",
+     "s": "Elegido por las Cortes, nombrado por el Rey",
+     "c": "#f25f5c",
+     "ic": "👤"
+    },
+    {
+     "n": "3",
+     "x": "Gobierno o Diputación General",
+     "s": "Función ejecutiva y reglamentaria",
+     "c": "#70c1b3",
+     "ic": "🧑‍💼"
+    },
+    {
+     "n": "4",
+     "x": "Justicia de Aragón",
+     "s": "Defiende derechos y el Estatuto",
+     "c": "#ffe066",
+     "ic": "⚖️"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Competencias exclusivas frente a compartidas",
+   "epi": "e2",
+   "a": {
+    "x": "Exclusivas (71)",
+    "c": "#247ba0",
+    "pasos": [
+     "Legislativa",
+     "Reglamentaria",
+     "Ejecutiva"
+    ],
+    "nota": "Ej.: urbanismo, vivienda, Derecho foral, lenguas."
+   },
+   "b": {
+    "x": "Compartidas (75)",
+    "c": "#f25f5c",
+    "pasos": [
+     "El Estado fija las bases",
+     "Aragón desarrolla la ley",
+     "Aragón ejecuta"
+    ],
+    "nota": "Ej.: enseñanza, medios de comunicación."
+   }
+  }
+ ]
+}

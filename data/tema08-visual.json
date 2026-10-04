@@ -1,0 +1,265 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "revision-oficio",
+   "Revisión de oficio",
+   "Facultad de la Administración de anular o corregir sus propios actos por iniciativa propia, sin que nadie recurra.",
+   "Arts. 106-111 Ley 39/2015"
+  ],
+  [
+   "lesividad",
+   "Declaración de lesividad",
+   "Paso previo para que la Administración impugne en los tribunales un acto suyo anulable que favorecía a alguien y perjudica al interés público.",
+   "Art. 107 Ley 39/2015"
+  ],
+  [
+   "via-administrativa",
+   "Vía administrativa",
+   "El camino de recursos dentro de la propia Administración antes de ir a los tribunales. «Poner fin a la vía» significa que ya no hay superior al que recurrir.",
+   "Art. 114 Ley 39/2015"
+  ],
+  [
+   "alzada",
+   "Recurso de alzada",
+   "Recurso ante el superior jerárquico contra actos que no ponen fin a la vía administrativa.",
+   "Art. 121 Ley 39/2015"
+  ],
+  [
+   "reposicion",
+   "Recurso de reposición",
+   "Recurso potestativo ante el mismo órgano que dictó un acto que puso fin a la vía administrativa.",
+   "Art. 123 Ley 39/2015"
+  ],
+  [
+   "legitimacion",
+   "Legitimación",
+   "Condición de tener un derecho o interés legítimo para recurrir. Sin ella, el recurso se inadmite.",
+   "Art. 116 Ley 39/2015"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-revision",
+   "epi": "e0",
+   "titulo": "Revisión de oficio",
+   "art": "Arts. 106-111",
+   "resumen": "Nulidad, lesividad, revocación y rectificación.",
+   "confunde": [
+    "h-comunes"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Nulidad: cualquier momento, con dictamen favorable del Consejo de Estado"
+    ],
+    [
+     "d",
+     "Lesividad: actos anulables favorables, previa declaración"
+    ],
+    [
+     "n",
+     "Lesividad: no puede adoptarse pasados 4 años"
+    ],
+    [
+     "d",
+     "Revocación: actos de gravamen o desfavorables"
+    ],
+    [
+     "d",
+     "Rectificación: errores materiales, de hecho o aritméticos, de oficio o a instancia"
+    ],
+    [
+     "t",
+     "La rectificación puede pedirla el interesado"
+    ]
+   ]
+  },
+  {
+   "id": "h-comunes",
+   "epi": "e1",
+   "titulo": "Recursos: reglas comunes",
+   "art": "Arts. 112-120",
+   "resumen": "Objeto, fin de la vía, inadmisión y resolución.",
+   "confunde": [
+    "h-recursos",
+    "h-revision"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Se recurren resoluciones y actos de trámite cualificados"
+    ],
+    [
+     "d",
+     "Ponen fin a la vía: alzada resuelta, órganos sin superior, convenios, responsabilidad patrimonial"
+    ],
+    [
+     "d",
+     "Inadmisión: incompetencia, falta de legitimación, no recurrible, plazo, sin fundamento"
+    ],
+    [
+     "d",
+     "Resolución: estima, desestima o inadmite; retroacción si vicio de forma"
+    ],
+    [
+     "t",
+     "Falta de legitimación = inadmisión"
+    ],
+    [
+     "t",
+     "No se puede agravar la situación inicial del recurrente"
+    ]
+   ]
+  },
+  {
+   "id": "h-recursos",
+   "epi": "e2",
+   "titulo": "Alzada y reposición",
+   "art": "Arts. 121-126",
+   "resumen": "Plazos y órganos de cada recurso.",
+   "confunde": [
+    "h-comunes"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Alzada: ante el superior jerárquico (contra actos que no ponen fin a la vía)"
+    ],
+    [
+     "n",
+     "Alzada: 1 mes para recurrir · 3 meses para resolver"
+    ],
+    [
+     "q",
+     "Reposición: ante el mismo órgano (actos que ponen fin a la vía)"
+    ],
+    [
+     "n",
+     "Reposición: 1 mes para recurrir · 1 mes para resolver"
+    ],
+    [
+     "d",
+     "Reposición potestativa: se puede ir directamente al contencioso"
+    ],
+    [
+     "d",
+     "Extraordinario de revisión: actos firmes y 4 motivos"
+    ],
+    [
+     "t",
+     "No cabe reposición contra una reposición"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "contraste",
+   "titulo": "Alzada frente a reposición",
+   "epi": "e2",
+   "a": {
+    "x": "Alzada (121-122)",
+    "c": "#247ba0",
+    "pasos": [
+     "Actos que no ponen fin a la vía",
+     "Ante el superior jerárquico",
+     "1 mes para recurrir · 3 para resolver"
+    ],
+    "nota": "Su resolución pone fin a la vía administrativa."
+   },
+   "b": {
+    "x": "Reposición (123-124)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Actos que ponen fin a la vía",
+     "Ante el mismo órgano",
+     "1 mes para recurrir · 1 para resolver"
+    ],
+    "nota": "Potestativa: no se puede reponer de nuevo."
+   }
+  },
+  {
+   "t": "tiles",
+   "titulo": "Revisión de oficio: cuatro vías",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "106",
+     "x": "Nulidad",
+     "s": "Cualquier momento · dictamen favorable",
+     "c": "#f25f5c",
+     "ic": "🚫"
+    },
+    {
+     "n": "107",
+     "x": "Lesividad",
+     "s": "Anulable favorable · 4 años",
+     "c": "#ffe066",
+     "ic": "⚖️"
+    },
+    {
+     "n": "109.1",
+     "x": "Revocación",
+     "s": "Actos de gravamen",
+     "c": "#247ba0",
+     "ic": "↩️"
+    },
+    {
+     "n": "109.2",
+     "x": "Rectificación",
+     "s": "Errores materiales, de hecho o aritméticos",
+     "c": "#70c1b3",
+     "ic": "✏️"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Causas de inadmisión del recurso (art. 116)",
+   "epi": "e1",
+   "items": [
+    {
+     "n": "a",
+     "x": "Órgano incompetente de otra Administración",
+     "c": "#f25f5c",
+     "ic": "🏢"
+    },
+    {
+     "n": "b",
+     "x": "Falta de legitimación",
+     "c": "#f25f5c",
+     "ic": "🪪"
+    },
+    {
+     "n": "c",
+     "x": "Acto no susceptible de recurso",
+     "c": "#f25f5c",
+     "ic": "🔒"
+    },
+    {
+     "n": "d",
+     "x": "Plazo vencido",
+     "c": "#f25f5c",
+     "ic": "⏳"
+    },
+    {
+     "n": "e",
+     "x": "Manifiestamente sin fundamento",
+     "c": "#f25f5c",
+     "ic": "❌"
+    }
+   ]
+  }
+ ]
+}

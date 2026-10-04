@@ -1,0 +1,525 @@
+{
+ "n": 19,
+ "titulo": "Los empleados públicos (III): la función pública local",
+ "fuente": "RDLeg 5/2015 TREBEP art. 76 (BOE-A-2015-11719); RDLeg 781/1986 arts. 167-175 (BOE-A-1986-9865); Ley 7/1985 LBRL arts. 89-93 (BOE-A-1985-5392). Textos consolidados del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Grupos de clasificación profesional",
+   "subtitulo": "Art. 76 TREBEP",
+   "clave": [
+    "Grupo A (A1 y A2): título de Grado",
+    "Grupo B: Técnico Superior",
+    "Grupo C (C1 y C2)",
+    "Agrupaciones profesionales"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los cuerpos y escalas se clasifican **según la titulación** exigida para el ingreso (art. 76)."
+    ],
+    [
+     "tabla",
+     [
+      "Grupo",
+      "Titulación exigida"
+     ],
+     [
+      [
+       "**A** (subgrupos **A1** y **A2**)",
+       "**Título universitario de Grado**. El subgrupo depende del nivel de responsabilidad de las funciones y de las pruebas de acceso."
+      ],
+      [
+       "**B**",
+       "Título de **Técnico Superior** (formación profesional de grado superior)."
+      ],
+      [
+       "**C1**",
+       "Título de **Bachiller o Técnico**."
+      ],
+      [
+       "**C2**",
+       "Título de **Graduado en Educación Secundaria Obligatoria**."
+      ],
+      [
+       "**Agrupaciones profesionales** (AP)",
+       "**Sin requisito de titulación**."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "El puesto de **Auxiliar Administrativo** del Ayuntamiento de Zaragoza (esta oposición) corresponde al grupo **C2**, en la Escala de Administración General, **Subescala Auxiliar**; se pide ESO o equivalente."
+    ],
+    [
+     "trampa",
+     "Para el **grupo A** se exige **Grado** (examen 2025, pregunta 42). La diferencia A1/A2 no es la titulación, sino la **responsabilidad** de las funciones y las pruebas."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué titulación exige el grupo A?",
+     "Título universitario de Grado (art. 76)."
+    ],
+    [
+     "¿A qué grupo corresponde el Auxiliar Administrativo?",
+     "Al C2 (ESO), Escala de Administración General, Subescala Auxiliar."
+    ]
+   ],
+   "esquema": [
+    "A (A1, A2): Grado · B: Técnico Superior · C1: Bachiller o Técnico · C2: ESO · AP: sin titulación"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Estructura del personal local",
+   "subtitulo": "Arts. 89 a 93 LBRL y arts. 167 a 175 RDLeg 781/1986",
+   "clave": [
+    "Personal local (LBRL 89)",
+    "Plantilla (LBRL 90)",
+    "Escalas y subescalas (167)",
+    "Administración General (169)",
+    "Administración Especial (170-175)",
+    "Habilitación nacional (92 bis)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El **personal de las entidades locales** está formado por **funcionarios de carrera, personal laboral y personal eventual** (art. 89 LBRL). La plantilla se aprueba **anualmente a través del Presupuesto** (art. 90) y la oferta de empleo se forma **públicamente** (art. 91). Los puestos de trabajo serán, con carácter general, de **personal funcionario** (92.2)."
+    ],
+    [
+     "p",
+     "**Solo los funcionarios de carrera** pueden ejercer funciones que impliquen **participación directa o indirecta en potestades públicas** o en la salvaguardia de los intereses generales (92.3)."
+    ],
+    [
+     "h",
+     "Escalas y subescalas (art. 167 RDLeg 781/1986)"
+    ],
+    [
+     "tabla",
+     [
+      "Escala",
+      "Subescalas",
+      "Qué hacen"
+     ],
+     [
+      [
+       "**Administración General**",
+       "Técnica · Gestión · **Administrativa** · **Auxiliar** · Subalterna",
+       "Funciones **comunes** al ejercicio de la actividad administrativa."
+      ],
+      [
+       "**Administración Especial**",
+       "Técnica · Servicios Especiales",
+       "Funciones que son el objeto **peculiar de una carrera, profesión, arte u oficio**."
+      ],
+      [
+       "**Habilitación nacional** (92 bis LBRL)",
+       "Secretaría · Intervención-tesorería · Secretaría-intervención",
+       "Secretaría (fe pública y asesoramiento legal) y control económico-financiero, contabilidad, tesorería y recaudación."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Subescalas de Administración General (art. 169)"
+    ],
+    [
+     "lista",
+     [
+      "**Técnica:** funciones administrativas de **nivel superior**.",
+      "**Administrativa:** tareas administrativas, normalmente de **trámite y colaboración**.",
+      "**Auxiliar:** **mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas, archivo de documentos** y similares.",
+      "**Subalterna:** vigilancia y custodia interior de oficinas; conserje, ujier, portero."
+     ]
+    ],
+    [
+     "h",
+     "Subescala de Servicios Especiales (art. 172)"
+    ],
+    [
+     "lista",
+     [
+      "Funcionarios cuyas tareas requieren **aptitud específica**, sin exigirse en general título académico determinado.",
+      "Clases: **Policía Local** y auxiliares, **Extinción de Incendios**, **Cometidos Especiales**, **Personal de Oficios**, **Agentes forestales y medioambientales**.",
+      "**Personal de Oficios** (175): tareas predominantemente **manuales**; se clasifica en **Encargado, Maestro, Oficial, Ayudante y Operario**."
+     ]
+    ],
+    [
+     "trampa",
+     "**Personal de Oficios** → **Administración Especial, Subescala de Servicios Especiales** (examen 2025, pregunta 41), no Subalterna de Administración General. La Subescala **Auxiliar** (la de esta oposición) es de **Administración General**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿En qué escala y subescala está el Auxiliar Administrativo?",
+     "Escala de Administración General, Subescala Auxiliar."
+    ],
+    [
+     "¿Dónde se integra el Personal de Oficios?",
+     "En la Escala de Administración Especial, Subescala de Servicios Especiales (art. 172.2.d)."
+    ],
+    [
+     "¿Qué funciones tiene la habilitación nacional?",
+     "Secretaría (fe pública y asesoramiento legal) e intervención-tesorería (control económico-financiero, contabilidad, tesorería y recaudación)."
+    ]
+   ],
+   "esquema": [
+    "Personal local: carrera · laboral · eventual (LBRL 89) · plantilla con el Presupuesto (90)",
+    "AG: Técnica · Gestión · Administrativa · Auxiliar · Subalterna",
+    "AE: Técnica · Servicios Especiales (Policía Local, Incendios, Cometidos Especiales, Oficios, Agentes forestales)",
+    "Habilitación nacional: Secretaría · Intervención-tesorería · Secretaría-intervención"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Régimen de los funcionarios locales",
+   "subtitulo": "Arts. 92 y 93 LBRL y RDLeg 781/1986",
+   "clave": [
+    "Normativa aplicable (92.1)",
+    "Retribuciones (93)",
+    "Funciones reservadas (92.3)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los funcionarios locales se rigen, en lo no previsto en la LBRL, por el **Estatuto Básico del Empleado Público**, por la **restante legislación del Estado** en materia de función pública y por la **legislación de las Comunidades Autónomas** (art. 92.1 LBRL)."
+    ],
+    [
+     "lista",
+     [
+      "**Retribuciones básicas** (93.1): **misma estructura e idéntica cuantía** que en toda la función pública.",
+      "**Retribuciones complementarias** (93.2): misma estructura y criterios de valoración objetiva; su **cuantía global la fija el Pleno** dentro de los límites máximos y mínimos del Estado.",
+      "**Reservado a funcionarios de carrera** (92.3): participación en potestades públicas, ejercicio de autoridad y funciones que se reserven por objetividad, imparcialidad e independencia."
+     ]
+    ],
+    [
+     "trampa",
+     "Retribuciones **básicas**: iguales en toda España. Retribuciones **complementarias**: su cuantía global la fija el **Pleno** de la Corporación."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Quién fija la cuantía global de las retribuciones complementarias?",
+     "El Pleno de la Corporación, dentro de los límites estatales (art. 93.2)."
+    ],
+    [
+     "¿Qué normas rigen a los funcionarios locales?",
+     "LBRL, TREBEP, legislación estatal de función pública y legislación autonómica (92.1)."
+    ]
+   ],
+   "esquema": [
+    "Rigen: LBRL → TREBEP → legislación estatal → legislación autonómica (92.1)",
+    "Básicas: iguales que en todo el Estado · complementarias: cuantía global la fija el Pleno (93)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Función pública local",
+  "ramas": [
+   {
+    "titulo": "Grupos (art. 76)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Por titulación",
+      "hijos": [
+       {
+        "titulo": "A1 y A2: Grado"
+       },
+       {
+        "titulo": "B: Técnico Superior"
+       },
+       {
+        "titulo": "C1: Bachiller o Técnico"
+       },
+       {
+        "titulo": "C2: ESO"
+       },
+       {
+        "titulo": "AP: sin titulación"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Escalas y subescalas",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Administración General",
+      "hijos": [
+       {
+        "titulo": "Técnica · Gestión"
+       },
+       {
+        "titulo": "Administrativa · Auxiliar · Subalterna"
+       }
+      ]
+     },
+     {
+      "titulo": "Administración Especial",
+      "hijos": [
+       {
+        "titulo": "Técnica"
+       },
+       {
+        "titulo": "Servicios Especiales: Policía Local, incendios, cometidos, oficios, agentes"
+       }
+      ]
+     },
+     {
+      "titulo": "Habilitación nacional",
+      "hijos": [
+       {
+        "titulo": "Secretaría"
+       },
+       {
+        "titulo": "Intervención-tesorería"
+       },
+       {
+        "titulo": "Secretaría-intervención"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Personal local (LBRL)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Quién",
+      "hijos": [
+       {
+        "titulo": "Carrera · laboral · eventual (89)"
+       },
+       {
+        "titulo": "Plantilla con el Presupuesto (90)"
+       }
+      ]
+     },
+     {
+      "titulo": "Régimen",
+      "hijos": [
+       {
+        "titulo": "TREBEP + normativa estatal y autonómica (92)"
+       },
+       {
+        "titulo": "Retribuciones: básicas iguales; complementarias fija el Pleno (93)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 76 TREBEP (grupos)",
+    "a": "Art. 167 RDLeg 781/1986 (escalas)",
+    "porque": "Las escalas locales se agrupan en los grupos que fija la legislación básica según la titulación exigida."
+   },
+   {
+    "de": "Art. 90 LBRL (plantilla)",
+    "a": "Tema 13 (presupuesto)",
+    "porque": "La plantilla se aprueba a través del Presupuesto anual."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "De acuerdo con el art. 76 TREBEP, la titulación exigida para el ingreso en los cuerpos o escalas del Grupo A es:",
+   [
+    "Título universitario de Grado",
+    "Título de Técnico Superior",
+    "Título de Bachiller o Técnico"
+   ],
+   0,
+   "Art. 76: Grupo A, subgrupos A1 y A2, título universitario de Grado (examen 2025, pregunta 42).",
+   "Art. 76 TREBEP",
+   "",
+   "h-grupos",
+   [
+    "título universitario de Grado"
+   ]
+  ],
+  [
+   "Para el ingreso en los cuerpos y escalas del Grupo C2 se exige:",
+   [
+    "Título de Graduado en Educación Secundaria Obligatoria",
+    "Título de Bachiller",
+    "Título universitario de Grado"
+   ],
+   0,
+   "Art. 76: C2, Graduado en ESO. C1 exige Bachiller o Técnico.",
+   "Art. 76 TREBEP",
+   "C1 frente a C2",
+   "h-grupos",
+   [
+    "Graduado en Educación Secundaria"
+   ]
+  ],
+  [
+   "El personal al servicio de las entidades locales está integrado por (art. 89 LBRL):",
+   [
+    "Funcionarios de carrera, contratados en régimen laboral y personal eventual",
+    "Solo funcionarios de carrera",
+    "Funcionarios de carrera e interinos únicamente"
+   ],
+   0,
+   "Art. 89 LBRL.",
+   "Art. 89 LBRL",
+   "",
+   "h-personal",
+   [
+    "personal eventual"
+   ]
+  ],
+  [
+   "Corresponde a cada Corporación local aprobar anualmente la plantilla:",
+   [
+    "A través del Presupuesto",
+    "Mediante ordenanza independiente",
+    "Por decreto del Gobierno de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 90.1 LBRL.",
+   "Art. 90.1 LBRL",
+   "",
+   "h-personal",
+   [
+    "Presupuesto"
+   ]
+  ],
+  [
+   "Corresponde exclusivamente a los funcionarios de carrera de la Administración local:",
+   [
+    "El ejercicio de funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales",
+    "Cualquier puesto administrativo",
+    "Solo la jefatura de servicios"
+   ],
+   0,
+   "Art. 92.3 LBRL.",
+   "Art. 92.3 LBRL",
+   "Carrera frente a laboral",
+   "h-personal",
+   [
+    "potestades públicas"
+   ]
+  ],
+  [
+   "La Escala de Administración General se divide en las subescalas:",
+   [
+    "Técnica, Gestión, Administrativa, Auxiliar y Subalterna",
+    "Técnica y Servicios Especiales",
+    "Secretaría, Intervención-tesorería y Secretaría-intervención"
+   ],
+   0,
+   "Art. 167.2 RDLeg 781/1986. Técnica y Servicios Especiales son de Administración Especial.",
+   "Art. 167 RDLeg 781/1986",
+   "Escalas",
+   "h-escalas",
+   [
+    "Administración General"
+   ]
+  ],
+  [
+   "La Escala de Administración Especial se divide en las subescalas:",
+   [
+    "Técnica y de Servicios Especiales",
+    "Técnica, Gestión y Auxiliar",
+    "Administrativa y Subalterna"
+   ],
+   0,
+   "Art. 167.3 RDLeg 781/1986.",
+   "Art. 167.3 RDLeg 781/1986",
+   "",
+   "h-escalas",
+   [
+    "Servicios Especiales"
+   ]
+  ],
+  [
+   "Pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de:",
+   [
+    "Mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas y archivo de documentos",
+    "Vigilancia y custodia interior de oficinas",
+    "Tareas administrativas de nivel superior"
+   ],
+   0,
+   "Art. 169.1.d. La vigilancia es de la Subalterna; el nivel superior, de la Técnica.",
+   "Art. 169.1.d RDLeg 781/1986",
+   "Auxiliar frente a Subalterna",
+   "h-escalas",
+   [
+    "Auxiliar"
+   ]
+  ],
+  [
+   "De acuerdo con los arts. 167 y siguientes del RDLeg 781/1986, Personal de Oficios es una clase comprendida:",
+   [
+    "En la Escala de Administración General, Subescala Subalterna",
+    "En la Escala de Administración Especial, Subescala de Servicios Especiales",
+    "En la Escala de Administración Especial, Subescala Técnica, Técnicos Auxiliares"
+   ],
+   1,
+   "Art. 172.2.d (examen 2025, pregunta 41).",
+   "Art. 172 RDLeg 781/1986",
+   "Subescala",
+   "h-escalas",
+   [
+    "Personal de Oficios"
+   ]
+  ],
+  [
+   "Dentro de cada oficio, el Personal de Oficios se clasifica en:",
+   [
+    "Encargado, Maestro, Oficial, Ayudante y Operario",
+    "Técnico, Gestor y Auxiliar",
+    "Jefe, Oficial y Peón"
+   ],
+   0,
+   "Art. 175.2.",
+   "Art. 175.2 RDLeg 781/1986",
+   "",
+   "h-escalas",
+   [
+    "Encargado, Maestro, Oficial, Ayudante y Operario"
+   ]
+  ],
+  [
+   "Son funciones públicas necesarias en todas las Corporaciones locales, reservadas a funcionarios con habilitación de carácter nacional:",
+   [
+    "La de Secretaría y el control y fiscalización interna de la gestión económico-financiera y presupuestaria",
+    "La Policía Local y la extinción de incendios",
+    "La gestión de las licencias de obras"
+   ],
+   0,
+   "Art. 92 bis.1 LBRL.",
+   "Art. 92 bis LBRL",
+   "",
+   "h-escalas",
+   [
+    "Secretaría"
+   ]
+  ],
+  [
+   "Las retribuciones básicas de los funcionarios locales tendrán, según el art. 93 LBRL:",
+   [
+    "La misma estructura e idéntica cuantía que las de toda la función pública",
+    "La cuantía que fije cada Pleno",
+    "La cuantía que fije la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 93.1. La cuantía global de las complementarias la fija el Pleno (93.2).",
+   "Art. 93.1 LBRL",
+   "Básicas frente a complementarias",
+   "h-personal",
+   [
+    "misma estructura e idéntica cuantía"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e3"
+  ]
+ ],
+ "glosario": [
+  [
+   "igualdad-trato",
+   "Igualdad de trato",
+   "Ausencia de cualquier discriminación por razón de sexo, directa o indirecta, en especial por maternidad, obligaciones familiares o estado civil.",
+   "Art. 3 LO 3/2007"
+  ],
+  [
+   "discriminacion-indirecta",
+   "Discriminación indirecta",
+   "Cuando una norma o práctica que parece neutra perjudica especialmente a un sexo sin justificación.",
+   "Art. 6.2 LO 3/2007"
+  ],
+  [
+   "acoso-sexual",
+   "Acoso sexual",
+   "Comportamiento verbal o físico de naturaleza sexual que atenta contra la dignidad, creando un entorno intimidatorio, degradante u ofensivo. Incluye el chantaje sexual.",
+   "Art. 7 LO 3/2007"
+  ],
+  [
+   "accion-positiva",
+   "Acción positiva",
+   "Medida temporal a favor de las mujeres para corregir desigualdades de hecho, razonable y proporcionada.",
+   "Art. 11 LO 3/2007"
+  ],
+  [
+   "indemnidad",
+   "Indemnidad frente a represalias",
+   "Protección frente a cualquier trato adverso por haber denunciado o reclamado en defensa de la igualdad.",
+   "Art. 9 LO 3/2007"
+  ],
+  [
+   "transversalidad",
+   "Transversalidad",
+   "Aplicar el principio de igualdad en todas las políticas y actuaciones públicas, no solo en las de igualdad.",
+   "Art. 15 LO 3/2007"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-ley",
+   "epi": "e0",
+   "titulo": "Conceptos de la LO 3/2007",
+   "art": "Arts. 1-15 LO 3/2007",
+   "resumen": "Igualdad, discriminación, acoso y garantías.",
+   "confunde": [
+    "h-empleo",
+    "h-violencia"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Igualdad de trato: sin discriminación directa o indirecta por razón de sexo"
+    ],
+    [
+     "d",
+     "Directa: trato menos favorable por sexo"
+    ],
+    [
+     "d",
+     "Indirecta: criterio neutro con desventaja para un sexo"
+    ],
+    [
+     "d",
+     "Acoso sexual: comportamiento de naturaleza sexual que atenta contra la dignidad"
+    ],
+    [
+     "d",
+     "Embarazo o maternidad: discriminación directa"
+    ],
+    [
+     "d",
+     "Indemnidad: protección frente a represalias"
+    ],
+    [
+     "d",
+     "Acciones positivas: temporales, razonables y proporcionadas"
+    ],
+    [
+     "q",
+     "Prueba: la persona demandada prueba la ausencia de discriminación"
+    ],
+    [
+     "d",
+     "Transversalidad: todos los Poderes Públicos"
+    ]
+   ]
+  },
+  {
+   "id": "h-empleo",
+   "epi": "e1",
+   "titulo": "Igualdad en el empleo público",
+   "art": "Arts. 51-62 LO 3/2007",
+   "resumen": "Obligaciones de las Administraciones.",
+   "confunde": [
+    "h-ley",
+    "h-plan"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Remover obstáculos en acceso y carrera"
+    ],
+    [
+     "d",
+     "Facilitar la conciliación"
+    ],
+    [
+     "d",
+     "Formación en igualdad y presencia equilibrada"
+    ],
+    [
+     "d",
+     "Pruebas de acceso con materia de igualdad"
+    ],
+    [
+     "q",
+     "Protocolo contra el acoso: se negocia con la representación legal del personal"
+    ]
+   ]
+  },
+  {
+   "id": "h-violencia",
+   "epi": "e2",
+   "titulo": "Violencia de género en Aragón",
+   "art": "Ley 4/2007 Aragón",
+   "resumen": "Concepto, formas y servicios.",
+   "confunde": [
+    "h-ley"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Medidas integrales: sensibilización, prevención, erradicación, protección"
+    ],
+    [
+     "d",
+     "Formas: malos tratos físicos, psicológicos y sexuales"
+    ],
+    [
+     "d",
+     "Situaciones: doméstica y laboral, entre otras"
+    ],
+    [
+     "d",
+     "Aplica a víctimas dentro de Aragón"
+    ],
+    [
+     "q",
+     "Instituto Aragonés de la Mujer: servicio de guardia y centros comarcales"
+    ],
+    [
+     "d",
+     "Centros de emergencia, casas de acogida y pisos tutelados"
+    ],
+    [
+     "d",
+     "Prestaciones: Ingreso Aragonés de Inserción, ayudas de urgente necesidad"
+    ]
+   ]
+  },
+  {
+   "id": "h-plan",
+   "epi": "e3",
+   "titulo": "Plan de Igualdad del Ayuntamiento",
+   "art": "Plan de Igualdad 2023",
+   "resumen": "Datos confirmados por el examen 2025.",
+   "confunde": [
+    "h-empleo"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Aprobado el 22 de diciembre de 2023"
+    ],
+    [
+     "n",
+     "Vigencia: cuatro años desde su aprobación y registro (art. 5.3)"
+    ],
+    [
+     "d",
+     "Protocolo: acoso sexual, por razón de sexo y por orientación sexual"
+    ],
+    [
+     "d",
+     "Chantaje sexual: es un tipo de acoso sexual"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "contraste",
+   "titulo": "Discriminación directa frente a indirecta",
+   "epi": "e0",
+   "a": {
+    "x": "Directa (art. 6.1)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Trato menos favorable por sexo",
+     "Situación comparable",
+     "Ej.: no contratar por ser mujer"
+    ],
+    "nota": "Incluye el embarazo y la maternidad."
+   },
+   "b": {
+    "x": "Indirecta (art. 6.2)",
+    "c": "#247ba0",
+    "pasos": [
+     "Criterio aparentemente neutro",
+     "Desventaja particular para un sexo",
+     "Salvo justificación objetiva"
+    ],
+    "nota": "Se mide por su efecto."
+   }
+  },
+  {
+   "t": "tiles",
+   "titulo": "Garantías de la igualdad",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "9",
+     "x": "Indemnidad frente a represalias",
+     "c": "#247ba0",
+     "ic": "🛡️"
+    },
+    {
+     "n": "11",
+     "x": "Acciones positivas",
+     "s": "Temporales, razonables, proporcionadas",
+     "c": "#70c1b3",
+     "ic": "⚖️"
+    },
+    {
+     "n": "13",
+     "x": "Prueba",
+     "s": "La persona demandada prueba",
+     "c": "#ffe066",
+     "ic": "🔎"
+    },
+    {
+     "n": "15",
+     "x": "Transversalidad",
+     "s": "Todos los Poderes Públicos",
+     "c": "#f25f5c",
+     "ic": "🌐"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "Recursos contra la violencia de género en Aragón",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "12",
+     "x": "Servicio Social Integral y Especializado",
+     "c": "#247ba0",
+     "ic": "🤝"
+    },
+    {
+     "n": "17",
+     "x": "Servicio de guardia (IAM)",
+     "c": "#70c1b3",
+     "ic": "📞"
+    },
+    {
+     "n": "18",
+     "x": "Centros de emergencia",
+     "c": "#f25f5c",
+     "ic": "🚨"
+    },
+    {
+     "n": "19",
+     "x": "Casas de acogida",
+     "c": "#ffe066",
+     "ic": "🏠"
+    },
+    {
+     "n": "20",
+     "x": "Pisos tutelados",
+     "c": "#50514f",
+     "ic": "🔑"
+    },
+    {
+     "n": "24",
+     "x": "Dispositivo de alarma",
+     "c": "#247ba0",
+     "ic": "🔔"
+    }
+   ]
+  }
+ ]
+}

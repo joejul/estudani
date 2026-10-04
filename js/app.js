@@ -1,0 +1,803 @@
+import * as store from './store.js';
+import { esc, fmt, plano, setGlosario } from './markup.js';
+import { icHtml } from './iconos.js';
+import { normalizaTema } from './normaliza.js';
+import { mapaSvg, ramaHtml, conexionesHtml, hubHtml, leyendaHub, esquemaHtml } from './visual.js';
+
+const $ = (s, r = document) => r.querySelector(s);
+const top = $('#top');
+const view = $('#view');
+const tabs = $('#tabs');
+const sheet = $('#sheet');
+
+const D = { examen: null, temas: null, glos: [], glosMap: {}, tema: {}, preguntas: [], qById: {}, hubs: [], hubById: {} };
+let S = null; // sesión de test activa
+let reloj = null;
+
+const OBJETIVO_EXAMEN = new Date(2027, 4, 1); // 1-may-2027: estimación, la fecha oficial aún no existe
+
+// ---------------------------------------------------------------- datos
+async function getJSON(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`${url}: ${r.status}`);
+  return r.json();
+}
+
+async function init() {
+  try {
+    const [temas, glos] = await Promise.all([getJSON('data/temas.json'), getJSON('data/glosario.json')]);
+    D.temas = temas;
+    D.glos = glos;
+    await Promise.all(
+      temas.temas.filter((t) => t.archivo).map(async (t) => {
+        D.tema[t.n] = await getJSON(`data/${t.archivo}`);
+        if (t.visual) D.tema[t.n].visual = await getJSON(`data/${t.visual}`);
+        normalizaTema(D.tema[t.n]);
+      })
+    );
+    // cada tema puede traer sus propios términos de glosario: [id, término, definición, ref?, trampa?]
+    Object.values(D.tema).forEach((t) => ((t.visual && t.visual.glosario) || []).forEach((g) => {
+      const x = Array.isArray(g) ? { id: g[0], termino: g[1], def: g[2], ref: g[3] || '', ...(g[4] ? { trampa: g[4] } : {}) } : g;
+      if (!D.glos.some((y) => y.id === x.id)) D.glos.push(x);
+    }));
+    D.glosMap = Object.fromEntries(D.glos.map((g) => [g.id, g]));
+    setGlosario(D.glos);
+    D.preguntas = Object.values(D.tema).flatMap((t) =>
+      t.preguntas.map((q) => ({ ...q, tema: t.n }))
+    );
+    D.qById = Object.fromEntries(D.preguntas.map((q) => [q.id, q]));
+    D.hubs = Object.values(D.tema).flatMap((t) => ((t.visual && t.visual.hubs) || []).map((h) => ({ ...h, tema: t.n })));
+    D.hubById = Object.fromEntries(D.hubs.map((h) => [h.id, h]));
+    await cargarExamen();
+  } catch (e) {
+    view.innerHTML = `<div class="card"><h2>No se pudo cargar el contenido</h2><p class="muted">${esc(e.message)}</p><p>Comprueba la conexión y recarga la página.</p></div>`;
+    return;
+  }
+  tabs.innerHTML = tabsHtml();
+  window.addEventListener('hashchange', route);
+  route();
+}
+
+async function cargarExamen() {
+  try {
+    const [e1, e2] = await Promise.all([getJSON('data/examen2025.json'), getJSON('data/examen2025-supuestos.json')]);
+    const ok = (q, n) => q.c !== null && q.c !== undefined && q.o.length === n && q.o.every((o) => o.length > 1);
+    const mk = (q, id, ref, extra = {}) => ({ id, tema: 0, tipo: 'real', dif: 3, q: q.q, o: q.o, c: q.c, e: q.e || '', ref, claves: [], ...extra });
+    D.examen = {
+      p1: e1.preguntas.filter((q) => !String(q.n).startsWith('R') && ok(q, 3)).map((q) => mk(q, `x25-${q.n}`, `Examen 2025 · pregunta ${q.n}`)),
+      descartadas: e1.preguntas.filter((q) => !String(q.n).startsWith('R') && !ok(q, 3)).length,
+      sup: e2.supuestos.map((sp, i) => ({
+        titulo: sp.titulo,
+        preguntas: sp.preguntas.filter((q) => ok(q, 4)).map((q) => mk(q, `x25s-${q.n}`, `Supuesto ${i + 1} · pregunta ${q.n}`, { contexto: sp.texto })),
+      })),
+    };
+  } catch {
+    D.examen = null; // el examen real es opcional
+  }
+}
+
+const infoTema = (n) => D.temas.temas.find((t) => t.n === n);
+const idsTema = (n) => (D.tema[n] ? D.tema[n].preguntas.map((q) => q.id) : []);
+const todasIds = () => D.preguntas.map((q) => q.id);
+
+// ---------------------------------------------------------------- utilidades
+function barajar(a) {
+  const r = a.slice();
+  for (let i = r.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [r[i], r[j]] = [r[j], r[i]];
+  }
+  return r;
+}
+
+function ir(hash) {
+  if (location.hash === hash) route();
+  else location.hash = hash;
+}
+
+function aviso(texto) {
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.textContent = texto;
+  document.body.appendChild(t);
+  setTimeout(() => t.remove(), 2600);
+}
+
+const num = (x) => x.toFixed(2).replace('.', ',');
+
+const fmtTiempo = (ms) => {
+  const s = Math.floor(ms / 1000);
+  return `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
+};
+
+// ---------------------------------------------------------------- enrutado
+function route() {
+  clearInterval(reloj);
+  const [a, b, c, d] = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
+  let v;
+  if (!a) v = vistaInicio();
+  else if (a === 'temas') v = vistaTemas();
+  else if (a === 'tema') v = b ? vistaTema(+b, c, d) : vistaTemas();
+  else if (a === 'repaso') v = vistaRepaso();
+  else if (a === 'quiz') v = vistaQuiz();
+  else if (a === 'glosario') v = vistaGlosario(b);
+  else if (a === 'ajustes') v = vistaAjustes();
+  else v = vistaInicio();
+  montar(v);
+}
+
+function montar(v, { conservarScroll = false } = {}) {
+  top.innerHTML = `<div class="bar">${
+    v.volver ? `<a class="back" href="${v.volver}" aria-label="Volver">‹</a>` : '<span class="back-space"></span>'
+  }<h1>${esc(v.titulo)}</h1><span class="bar-right">${v.derecha || ''}</span></div>`;
+  view.innerHTML = v.html;
+  tabs.querySelectorAll('a').forEach((a) => a.classList.toggle('on', a.dataset.tab === v.tab));
+  tabs.hidden = !!v.sinTabs;
+  if (!conservarScroll) window.scrollTo(0, 0);
+  if (v.despues) v.despues();
+}
+
+function tabsHtml() {
+  const icono = (p) => `<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${p}</svg>`;
+  const items = [
+    ['inicio', '#/', 'Inicio', '<path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/>'],
+    ['temas', '#/temas', 'Temas', '<path d="M4 5h16M4 12h16M4 19h10"/>'],
+    ['repaso', '#/repaso', 'Test', '<path d="M9 11l3 3 8-8"/><path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h9"/>'],
+    ['glosario', '#/glosario', 'Glosario', '<path d="M4 4h12a4 4 0 0 1 4 4v12H8a4 4 0 0 1-4-4z"/><path d="M8 8h8M8 12h8"/>'],
+    ['ajustes', '#/ajustes', 'Más', '<circle cx="5" cy="12" r="1.2"/><circle cx="12" cy="12" r="1.2"/><circle cx="19" cy="12" r="1.2"/>'],
+  ];
+  return items.map(([id, href, txt, p]) => `<a href="${href}" data-tab="${id}">${icono(p)}<span>${txt}</span></a>`).join('');
+}
+
+// ---------------------------------------------------------------- inicio
+function vistaInicio() {
+  const ids = todasIds();
+  const pend = store.pendientesHoy(ids).length;
+  const nuevas = Math.min(store.nuevas(ids).length, 10);
+  const r = store.resumen(ids);
+  const dias = Math.max(0, Math.ceil((OBJETIVO_EXAMEN - new Date()) / 86400000));
+  const abiertos = Object.values(D.tema).sort((a, b) => a.n - b.n);
+  const t1 = abiertos.find((t) => t.epigrafes.some((e) => !store.leccionHecha(t.n, e.id))) || abiertos[abiertos.length - 1];
+  const hechas = t1.epigrafes.filter((e) => store.leccionHecha(t1.n, e.id)).length;
+  const sig = t1.epigrafes.find((e) => !store.leccionHecha(t1.n, e.id));
+  const racha = store.racha();
+  const esIOS = /iphone|ipad/i.test(navigator.userAgent);
+  const instalada = window.navigator.standalone === true || matchMedia('(display-mode: standalone)').matches;
+  let ocultarInstalar = false;
+  try {
+    ocultarInstalar = localStorage.getItem('estudani.instalar') === '1';
+  } catch {}
+
+  const html = `
+    <section class="hero">
+      <p class="eyebrow">Auxiliar Administrativo · Zaragoza</p>
+      <h2>Hola, Dani 👋</h2>
+      <p class="muted">Faltan unos <strong>${dias} días</strong> para el objetivo de mayo de 2027 <span class="tiny">(fecha oficial por confirmar)</span>.</p>
+    </section>
+
+    ${esIOS && !instalada && !ocultarInstalar ? `<section class="card tip"><p><strong>Instálala en tu iPhone</strong>: en Safari toca <em>Compartir</em> <span aria-hidden="true">⎙</span> y luego <em>Añadir a pantalla de inicio</em>. Funcionará sin conexión.</p><button class="link" data-act="ocultar-instalar">Entendido</button></section>` : ''}
+
+    <section class="card">
+      <h3>Repaso de hoy</h3>
+      <p class="big">${pend}<span class="muted"> pendientes</span> · ${nuevas}<span class="muted"> nuevas</span></p>
+      <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>${pend + nuevas === 0 ? 'Todo al día 🎉' : 'Empezar repaso'}</button>
+    </section>
+
+    <section class="card">
+      <h3>${sig ? 'Sigue donde lo dejaste' : `Tema ${t1.n} completado`}</h3>
+      <p class="muted">Tema ${t1.n} · ${esc(t1.titulo)}</p>
+      <div class="bar-prog" role="progressbar" aria-valuenow="${hechas}" aria-valuemax="${t1.epigrafes.length}"><span style="width:${(hechas / t1.epigrafes.length) * 100}%"></span></div>
+      <p class="tiny muted">${hechas} de ${t1.epigrafes.length} epígrafes estudiados</p>
+      <a class="btn" href="${sig ? `#/tema/${t1.n}/e/${sig.id}` : `#/tema/${t1.n}/test`}">${sig ? `Continuar: ${esc(sig.titulo)}` : 'Hacer el test del tema'}</a>
+    </section>
+
+    <section class="grid3">
+      <div class="stat"><b>${racha}</b><span>días seguidos</span></div>
+      <div class="stat"><b>${store.hoyContestadas()}</b><span>respondidas hoy</span></div>
+      <div class="stat"><b>${r.precision === null ? '–' : r.precision + '%'}</b><span>acierto</span></div>
+    </section>
+
+    <section class="card note">
+      <p class="tiny muted">En el examen <strong>los errores restan</strong> y dejar en blanco no resta. Aquí tienes el botón «No contesto» para entrenar esa decisión. Penalización actual: <strong>${esc(store.PENALIZACIONES[store.getAjustes().penalizacion].etiqueta)}</strong> <a href="#/ajustes">(cambiar)</a>.</p>
+    </section>`;
+  return { titulo: 'EstuDani', tab: 'inicio', html };
+}
+
+// ---------------------------------------------------------------- temas
+function vistaTemas() {
+  const bloques = D.temas.bloques
+    .map((b) => {
+      const filas = b.temas
+        .map((n) => {
+          const t = infoTema(n);
+          const ok = !!D.tema[n];
+          const etiqueta = n === 21 ? 'P' : n;
+          const pct = ok ? store.resumen(idsTema(n)) : null;
+          return `<${ok ? `a href="#/tema/${n}"` : 'div'} class="fila ${ok ? '' : 'off'}">
+            <span class="num ${t.practica ? 'prac' : ''}">${etiqueta}</span>
+            <span class="fila-t"><strong>${icHtml(t.titulo, t.ic)}${esc(t.titulo)}</strong><small>${esc(t.resumen)}</small></span>
+            <span class="fila-r">${ok ? (pct.precision === null ? 'Empezar ›' : pct.precision + '% ›') : 'Próximamente'}</span>
+          </${ok ? 'a' : 'div'}>`;
+        })
+        .join('');
+      return `<h3 class="bloque">Bloque ${b.id} · ${esc(b.titulo)}</h3><div class="lista">${filas}</div>`;
+    })
+    .join('');
+  return {
+    titulo: 'Temario',
+    tab: 'temas',
+    html: `<p class="muted tiny">${esc(D.temas.oposicion)}<br>Fuente: ${esc(D.temas.fuenteTemario)}.</p>${bloques}`,
+  };
+}
+
+// ---------------------------------------------------------------- tema
+function vistaTema(n, seccion, extra) {
+  const t = D.tema[n];
+  if (!t) {
+    const i = infoTema(n);
+    return { titulo: i ? `Tema ${n}` : 'Tema', volver: '#/temas', tab: 'temas', html: `<div class="card"><h3>Próximamente</h3><p class="muted">Este tema se construirá cuando validemos el formato del Tema 1.</p></div>` };
+  }
+  const base = `#/tema/${n}`;
+  const activa = seccion === 'esquema' ? 'mapa' : !seccion || seccion === 'e' ? 'leccion' : seccion;
+  const sub = (id, txt) => `<a href="${base}/${id}" class="${activa === id ? 'on' : ''}">${txt}</a>`;
+  const subtabs = `<nav class="subtabs">${sub('leccion', 'Lección')}${sub('mapa', 'Mapa')}${sub('asociar', 'Asociar')}${sub('test', 'Test')}</nav>`;
+  if (seccion === 'e') {
+    const r = vistaEpigrafe(n, extra);
+    if (r) return r;
+  }
+  let cuerpo;
+  let volver = '#/temas';
+  if (seccion === 'mapa') { cuerpo = cuerpoMapa(n, t, extra); if (extra !== undefined) volver = `${base}/mapa`; }
+  else if (seccion === 'esquema') cuerpo = cuerpoEsquema(n, t);
+  else if (seccion === 'asociar') { cuerpo = cuerpoAsociar(n, t, extra); if (extra !== undefined) volver = `${base}/asociar`; }
+  else if (seccion === 'test') cuerpo = cuerpoTestTema(n, t);
+  else cuerpo = cuerpoLeccion(n, t);
+  return { titulo: `Tema ${n}`, volver, tab: 'temas', html: `<header class="tema-h"><h2>${esc(t.titulo)}</h2><p class="tiny muted">Fuente verificada el ${esc(t.verificado)}</p></header>${subtabs}${cuerpo}` };
+}
+
+function cuerpoLeccion(n, t) {
+  const items = t.epigrafes
+    .map((e, i) => {
+      const hecho = store.leccionHecha(n, e.id);
+      const nq = t.preguntas.filter((q) => q.epi === e.id).length;
+      return `<a class="fila" href="#/tema/${n}/e/${e.id}">
+        <span class="num ${hecho ? 'hecho' : ''}">${hecho ? '✓' : i + 1}</span>
+        <span class="fila-t"><strong>${icHtml(e.titulo, e.ic)}${esc(e.titulo)}</strong><small>${esc(e.subtitulo)} · ${nq} preguntas</small></span>
+        <span class="fila-r">›</span></a>`;
+    })
+    .join('');
+  return `<div class="lista">${items}</div>
+    <p class="tiny muted">Cada epígrafe: explicación desde cero → conceptos clave → ejemplo → trampa → tarjetas de memoria → test.</p>`;
+}
+
+function vistaEpigrafe(n, id) {
+  const t = D.tema[n];
+  const i = t.epigrafes.findIndex((e) => e.id === id);
+  if (i < 0) return null;
+  const e = t.epigrafes[i];
+  const hecho = store.leccionHecha(n, id);
+  const prev = t.epigrafes[i - 1];
+  const next = t.epigrafes[i + 1];
+  const nq = t.preguntas.filter((q) => q.epi === id).length;
+  const html = `
+    <article class="epi">
+      <p class="eyebrow">Tema ${n} · epígrafe ${i + 1} de ${t.epigrafes.length}</p>
+      <h2>${icHtml(e.titulo, e.ic)}${esc(e.titulo)}</h2>
+      <p class="muted">${esc(e.subtitulo)}</p>
+      <section class="card dominar"><h3>Debes dominar</h3><ul class="chips">${e.clave.map((c) => `<li>${esc(c)}</li>`).join('')}</ul></section>
+      ${e.bloques.map(bloqueHtml).join('')}
+      ${hubsDeEpi(n, id)}
+      <details class="card esq"><summary>Esquema para repasar</summary><ul>${e.esquema.map((x) => `<li>${fmt(x)}</li>`).join('')}</ul></details>
+      <section class="flashes"><h3>Antes de seguir: ¿lo recuerdas?</h3><p class="tiny muted">Intenta responder en tu cabeza y luego toca la tarjeta.</p>
+        ${e.flash.map((f) => `<button class="flash" data-act="flash"><span class="fq">${fmt(f.q)}</span><span class="fa">${fmt(f.a)}</span></button>`).join('')}
+      </section>
+      <div class="acciones">
+        <button class="btn ${hecho ? '' : 'primary'}" data-act="hecho" data-tema="${n}" data-epi="${id}">${hecho ? '✓ Estudiado (deshacer)' : 'Marcar como estudiado'}</button>
+        <button class="btn" data-act="empezar" data-modo="epi" data-tema="${n}" data-epi="${id}">Test de este epígrafe (${nq})</button>
+      </div>
+      <div class="pager">
+        ${prev ? `<a href="#/tema/${n}/e/${prev.id}">‹ ${esc(prev.titulo)}</a>` : '<span></span>'}
+        ${next ? `<a href="#/tema/${n}/e/${next.id}">${esc(next.titulo)} ›</a>` : `<a href="#/tema/${n}/test">Ir al test del tema ›</a>`}
+      </div>
+    </article>`;
+  return { titulo: `Tema ${n}`, volver: `#/tema/${n}`, tab: 'temas', html };
+}
+
+function hubsDeEpi(n, epi) {
+  const hs = D.hubs.filter((h) => h.tema === n && h.epi === epi);
+  if (!hs.length) return '';
+  return `<section class="card ideas"><h3>Mapas de ideas de este epígrafe</h3><p class="tiny muted">Palabras-pista que te llevan a cada idea.</p>${hs.map((h) => `<a class="chip-a" href="#/tema/${n}/asociar/${h.id}">${icHtml(h.titulo, h.ic)}${esc(h.titulo)} ›</a>`).join('')}</section>`;
+}
+
+function bloqueHtml(b) {
+  switch (b.t) {
+    case 'p': return `<p>${fmt(b.x)}</p>`;
+    case 'h': return `<h3 class="sub">${fmt(b.x)}</h3>`;
+    case 'lista': return `<ul class="lst">${b.items.map((x) => `<li>${fmt(x)}</li>`).join('')}</ul>`;
+    case 'key': return `<div class="callout key"><b>Clave</b><p>${fmt(b.x)}</p></div>`;
+    case 'ejemplo': return `<div class="callout ej"><b>Ejemplo</b><p>${fmt(b.x)}</p></div>`;
+    case 'trampa': return `<div class="callout tr"><b>⚠ Trampa</b><p>${fmt(b.x)}</p></div>`;
+    case 'tabla':
+      return `<div class="tbl"><table><thead><tr>${b.cols.map((c) => `<th>${fmt(c)}</th>`).join('')}</tr></thead><tbody>${b.filas
+        .map((r) => `<tr>${r.map((c, k) => `<td data-label="${esc(plano(b.cols[k] || ''))}">${fmt(c)}</td>`).join('')}</tr>`)
+        .join('')}</tbody></table></div>`;
+    default: return '';
+  }
+}
+
+// ---------------------------------------------------------------- mapa y esquema
+const segHtml = (n, activo) =>
+  `<div class="seg"><a href="#/tema/${n}/mapa" class="${activo === 'mapa' ? 'on' : ''}">Mapa</a><a href="#/tema/${n}/esquema" class="${activo === 'esquema' ? 'on' : ''}">Esquema</a></div>`;
+
+function cuerpoMapa(n, t, extra) {
+  const m = t.mapa;
+  const i = extra !== undefined ? +extra : -1;
+  if (i >= 0 && m.ramas[i]) {
+    const ids = ((t.visual && t.visual.mapaEpis) || [])[i] || [];
+    const epis = ids.map((id) => t.epigrafes.find((e) => e.id === id)).filter(Boolean);
+    return ramaHtml(m.ramas[i], i, m.ramas.length, `#/tema/${n}/mapa/`, epis, (id) => `#/tema/${n}/e/${id}`);
+  }
+  return `${segHtml(n, 'mapa')}
+    <p class="tiny muted">Toca una rama para abrirla. Cuando la domines, usa «Modo recordar» dentro de ella.</p>
+    <div class="mm-wrap">${mapaSvg(m, `#/tema/${n}/mapa/`)}</div>
+    <h3 class="sub">Conexiones entre ideas</h3>${conexionesHtml(m.conexiones)}`;
+}
+
+function cuerpoEsquema(n, t) {
+  const texto = t.epigrafes
+    .map((e, i) => `<section class="card"><h3>${i + 1}. ${esc(e.titulo)}</h3><ul class="lst">${e.esquema.map((x) => `<li>${fmt(x)}</li>`).join('')}</ul></section>`)
+    .join('');
+  if (!t.visual || !t.visual.esquema) return segHtml(n, 'esquema') + texto;
+  return `${segHtml(n, 'esquema')}
+    <p class="tiny muted">Diagramas para ver de un vistazo lo que hay que memorizar. Cada uno enlaza con su lección.</p>
+    ${esquemaHtml(t.visual.esquema, n)}
+    <details class="card"><summary>Versión en texto</summary>${texto}</details>`;
+}
+
+// ---------------------------------------------------------------- mapas de ideas (asociar)
+function estadoHub(id) {
+  const p = store.infoPregunta(`a:${id}`);
+  if (!p) return 'nuevo';
+  return p.box >= 4 ? 'ok' : p.last === 'ok' ? 'medio' : 'fallo';
+}
+
+function cuerpoAsociar(n, t, id) {
+  const hubs = D.hubs.filter((h) => h.tema === n);
+  if (!hubs.length) return '<div class="card"><p class="muted">Este tema aún no tiene mapas de ideas.</p></div>';
+  const i = id ? hubs.findIndex((h) => h.id === id) : -1;
+  if (i >= 0) {
+    const h = hubs[i];
+    const nq = D.preguntas.filter((q) => q.hub === h.id).length;
+    const e = t.epigrafes.find((x) => x.id === h.epi);
+    const prev = hubs[i - 1];
+    const next = hubs[i + 1];
+    return `<a class="rama-volver" href="#/tema/${n}/asociar">‹ Todas las ideas</a>
+      <div class="mm-tools"><button class="btn small" data-act="mm-recordar" aria-pressed="false">Modo recordar</button></div>
+      <p class="tiny muted">Pista → idea: cuando leas estas palabras en una pregunta, piensa en «${esc(h.titulo)}».</p>
+      <div id="mm">${hubHtml(h)}</div>${leyendaHub()}
+      <div class="acciones">
+        ${nq ? `<button class="btn primary" data-act="empezar" data-modo="hub" data-hub="${h.id}" data-tema="${n}">Preguntas de esta idea (${nq})</button>` : ''}
+        ${e ? `<a class="btn" href="#/tema/${n}/e/${e.id}">Ver la lección: ${esc(e.titulo)}</a>` : ''}
+      </div>
+      <div class="pager">${prev ? `<a href="#/tema/${n}/asociar/${prev.id}">‹ ${esc(prev.titulo)}</a>` : '<span></span>'}${next ? `<a href="#/tema/${n}/asociar/${next.id}">${esc(next.titulo)} ›</a>` : '<span></span>'}</div>`;
+  }
+  const ids = hubs.map((h) => `a:${h.id}`);
+  const pend = store.pendientesHoy(ids).length;
+  const nuevas = store.nuevas(ids).length;
+  const filas = hubs
+    .map((h, k) => `<a class="fila" href="#/tema/${n}/asociar/${h.id}"><span class="num">${k + 1}</span><span class="fila-t"><strong>${icHtml(h.titulo, h.ic)}${esc(h.titulo)}</strong><small>${esc(h.resumen)}</small></span><span class="fila-r"><i class="dot d-${estadoHub(h.id)}" title="${estadoHub(h.id)}"></i> ›</span></a>`)
+    .join('');
+  return `<section class="card"><h3>Asocia palabras con ideas</h3>
+      <p class="muted">En el examen, unas pocas palabras de la pregunta (<em>«extraordinaria y urgente necesidad»</em>) te llevan a una idea (<em>decreto-ley</em>). Aquí construyes esos atajos.</p>
+      <p class="tiny muted">${hubs.length} ideas · ${pend} para repasar hoy · ${nuevas} sin empezar</p>
+      <button class="btn primary" data-act="empezar" data-modo="asociar" data-tema="${n}">Entrenar asociaciones (10)</button></section>
+    ${leyendaHub()}
+    <div class="lista">${filas}</div>
+    <p class="tiny muted">● verde: dominada · ● amarillo: en proceso · ● coral: fallada · ○ sin empezar</p>`;
+}
+
+// ---------------------------------------------------------------- test del tema
+function cuerpoTestTema(n, t) {
+  const total = t.preguntas.length;
+  const trampas = t.preguntas.filter((q) => q.tipo === 'trampa').length;
+  const fallos = store.falladas(idsTema(n)).length;
+  const r = store.resumen(idsTema(n));
+  const porEpi = t.epigrafes
+    .map((e, i) => {
+      const nq = t.preguntas.filter((q) => q.epi === e.id).length;
+      return `<button class="fila" data-act="empezar" data-modo="epi" data-tema="${n}" data-epi="${e.id}"><span class="num">${i + 1}</span><span class="fila-t"><strong>${icHtml(e.titulo, e.ic)}${esc(e.titulo)}</strong><small>${nq} preguntas</small></span><span class="fila-r">›</span></button>`;
+    })
+    .join('');
+  return `
+    <section class="card"><h3>Todo el tema</h3>
+      <p class="muted">${total} preguntas · ${trampas} trampa · ${r.vistas} vistas · ${r.precision === null ? 'sin datos' : r.precision + '% de acierto'}</p>
+      <button class="btn primary" data-act="empezar" data-modo="tema" data-tema="${n}">Test completo (${total})</button>
+      <div class="acciones">
+        <button class="btn" data-act="empezar" data-modo="trampas" data-tema="${n}">Solo preguntas trampa (${trampas})</button>
+        <button class="btn" data-act="empezar" data-modo="fallos" data-tema="${n}" ${fallos ? '' : 'disabled'}>Mis fallos (${fallos})</button>
+      </div>
+    </section>
+    <h3 class="sub">Por epígrafe</h3><div class="lista">${porEpi}</div>`;
+}
+
+// ---------------------------------------------------------------- hub de test / repaso
+function vistaRepaso() {
+  const ids = todasIds();
+  const pend = store.pendientesHoy(ids).length;
+  const nuevas = Math.min(store.nuevas(ids).length, 10);
+  const fallos = store.falladas(ids).length;
+  const trampas = D.preguntas.filter((q) => q.tipo === 'trampa').length;
+  const html = `
+    <section class="card"><h3>Repaso espaciado</h3>
+      <p class="muted">Las preguntas vuelven justo cuando estás a punto de olvidarlas. Es lo que más rinde por minuto de estudio.</p>
+      <p class="big">${pend}<span class="muted"> pendientes</span> · ${nuevas}<span class="muted"> nuevas</span></p>
+      <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>Repaso de hoy</button></section>
+    <section class="card"><h3>Test rápido</h3><p class="muted">10 preguntas mezcladas, con corrección inmediata. Ideal para 5 minutos.</p>
+      <button class="btn" data-act="empezar" data-modo="rapido">Empezar (10)</button></section>
+    <section class="card"><h3>Simulacro tipo examen</h3><p class="muted">Sin corrección hasta el final, con cronómetro y <strong>penalización por fallo</strong>. Practica cuándo dejar en blanco.</p>
+      <button class="btn" data-act="empezar" data-modo="simulacro">Simulacro (20)</button></section>
+    ${D.examen ? `<section class="card examen"><h3>🎯 Examen real 2025</h3>
+      <p class="muted">Preguntas oficiales del Ayuntamiento (1-jun-2025) con su plantilla de respuestas. Sin ayudas, con cronómetro y penalización.</p>
+      <button class="btn primary" data-act="empezar" data-modo="examen">Parte 1 completa (${D.examen.p1.length} preguntas · 3 opciones)</button>
+      <button class="btn" data-act="empezar" data-modo="examen20">Parte 1: 20 al azar</button>
+      ${D.examen.sup.map((sp, i) => `<button class="btn" data-act="empezar" data-modo="supuesto" data-n="${i}">${esc(sp.titulo)} (${sp.preguntas.length})</button>`).join('')}
+      ${D.examen.descartadas ? `<p class="tiny muted">${D.examen.descartadas} preguntas se han dejado fuera hasta revisar el texto escaneado.</p>` : ''}</section>` : ''}
+    <section class="card"><h3>Asociar ideas</h3><p class="muted">Te damos 2 o 3 pistas y tú dices de qué idea son. Es el atajo mental que usarás en el examen.</p>
+      <button class="btn" data-act="empezar" data-modo="asociar">Entrenar asociaciones (10)</button></section>
+    <section class="card"><h3>Entrenar puntos débiles</h3>
+      <div class="acciones">
+        <button class="btn" data-act="empezar" data-modo="trampas">Solo trampas (${trampas})</button>
+        <button class="btn" data-act="empezar" data-modo="fallos" ${fallos ? '' : 'disabled'}>Mis fallos (${fallos})</button>
+      </div></section>`;
+  return { titulo: 'Test', tab: 'repaso', html };
+}
+
+// ---------------------------------------------------------------- motor de test
+function empezar(modo, p = {}) {
+  const n = p.tema ? +p.tema : null;
+  const delTema = (q) => !n || q.tema === n;
+  let pool = [];
+  let titulo = 'Test';
+  let inmediato = true;
+  let volver = '#/repaso';
+  let ordenar = false;
+  if (modo === 'tema') { pool = D.preguntas.filter(delTema); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
+  else if (modo === 'epi') { pool = D.preguntas.filter((q) => delTema(q) && q.epi === p.epi); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
+  else if (modo === 'trampas') { pool = D.preguntas.filter((q) => delTema(q) && q.tipo === 'trampa'); titulo = 'Preguntas trampa'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
+  else if (modo === 'fallos') { const ids = new Set(store.falladas(todasIds())); pool = D.preguntas.filter((q) => ids.has(q.id) && delTema(q)); titulo = 'Mis fallos'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
+  else if (modo === 'repaso') {
+    const debidas = store.pendientesHoy(todasIds()).map((id) => D.qById[id]);
+    const nuevas = barajar(store.nuevas(todasIds()).map((id) => D.qById[id])).slice(0, 10);
+    pool = [...barajar(debidas).slice(0, 30), ...nuevas];
+    titulo = 'Repaso de hoy'; volver = '#/';
+  }
+  else if (modo === 'hub') { pool = D.preguntas.filter((q) => q.hub === p.hub); titulo = 'Esta idea'; volver = `#/tema/${n}/asociar/${p.hub}`; }
+  else if (modo === 'asociar') {
+    const hubs = D.hubs.filter((h) => !n || h.tema === n);
+    const ids = hubs.map((h) => `a:${h.id}`);
+    const debidas = new Set(store.pendientesHoy(ids));
+    const nuevas = new Set(store.nuevas(ids));
+    const orden = [
+      ...hubs.filter((h) => debidas.has(`a:${h.id}`)),
+      ...barajar(hubs.filter((h) => nuevas.has(`a:${h.id}`))),
+      ...barajar(hubs.filter((h) => !debidas.has(`a:${h.id}`) && !nuevas.has(`a:${h.id}`))),
+    ].slice(0, 10);
+    pool = orden.map(preguntaAsoc);
+    titulo = 'Asociar ideas';
+    volver = n ? `#/tema/${n}/asociar` : '#/repaso';
+  }
+  else if (modo === 'examen' || modo === 'examen20') {
+    pool = modo === 'examen' ? D.examen.p1.slice() : barajar(D.examen.p1).slice(0, 20);
+    titulo = modo === 'examen' ? 'Examen 2025' : 'Examen 2025 (20)'; inmediato = false;
+  }
+  else if (modo === 'supuesto') { pool = D.examen.sup[+p.n].preguntas.slice(); titulo = `Supuesto ${+p.n + 1}`; inmediato = false; ordenar = true; }
+  else if (modo === 'rapido') { pool = barajar(D.preguntas).slice(0, 10); titulo = 'Test rápido'; }
+  else if (modo === 'simulacro') { pool = barajar(D.preguntas).slice(0, 20); titulo = 'Simulacro'; inmediato = false; }
+  if (!pool.length) return aviso('No hay preguntas para este modo');
+  S = {
+    modo, titulo, inmediato, volver, i: 0, fin: false, t0: Date.now(),
+    items: (ordenar ? pool : barajar(pool)).map((q) => ({ q, orden: barajar(q.o.map((_, i) => i)), sel: undefined, hecho: false })),
+  };
+  ir('#/quiz');
+}
+
+function preguntaAsoc(h) {
+  const pistas = barajar(h.pistas.filter((x) => x.k !== 't' && !x.s)).slice(0, 3);
+  const parecidas = (h.confunde || []).map((id) => D.hubById[id]).filter(Boolean);
+  const resto = barajar(D.hubs.filter((x) => x.id !== h.id && !parecidas.includes(x)));
+  const distractores = [...parecidas, ...resto].slice(0, 3);
+  const trampa = h.pistas.find((x) => x.k === 't');
+  return {
+    id: `a:${h.id}`, tema: h.tema, tipo: 'asoc', dif: 1, hub: h.id, claves: [],
+    q: '¿De qué idea son estas pistas?', pistas: pistas.map((x) => x.t),
+    o: [h.titulo, ...distractores.map((x) => x.titulo)], c: 0,
+    e: `Es «${h.titulo}» (${h.art}). ${h.resumen}`, ojo: trampa ? trampa.t : '', ref: h.art,
+  };
+}
+
+function marcar(texto, claves) {
+  const t = esc(texto);
+  if (!claves || !claves.length) return t;
+  const alt = claves.map(esc).sort((a, b) => b.length - a.length).map((c) => c.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  return t.replace(new RegExp(`(${alt.join('|')})`, 'gi'), '<mark>$1</mark>');
+}
+
+function enlaceIdea(q) {
+  const h = D.hubById[q.hub];
+  if (!h) return '';
+  const claves = (q.claves || []).filter((c) => c.length <= 60);
+  return `<div class="enlace">
+    ${claves.length ? `<div class="claves">${claves.map((c) => `<span class="clave-pista">${esc(c)}</span>`).join('')}</div><span class="flecha-v" aria-hidden="true">↓</span>` : ''}
+    <a class="idea-b" href="#/tema/${q.tema}/asociar/${h.id}"><small>Idea asociada · ${esc(h.art)}</small><b>${icHtml(h.titulo, h.ic)}${esc(h.titulo)}</b><span>Ver el mapa ›</span></a></div>`;
+}
+
+function vistaQuiz() {
+  if (!S) return vistaInicio();
+  if (S.fin) return vistaResultados();
+  const it = S.items[S.i];
+  const q = it.q;
+  const total = S.items.length;
+  const fb = S.inmediato && it.hecho;
+  const opciones = it.orden
+    .map((orig, k) => {
+      let cls = 'opt';
+      if (fb) cls += orig === q.c ? ' correct' : it.sel === orig ? ' wrong' : ' dim';
+      else if (it.sel === orig) cls += ' picked';
+      const texto = fb && orig === q.c ? marcar(q.o[orig], q.claves) : esc(q.o[orig]);
+      return `<button class="${cls}" data-act="opt" data-k="${k}" ${fb ? 'disabled' : ''}><span class="letter">${'ABCD'[k]}</span><span>${texto}</span></button>`;
+    })
+    .join('');
+  const blanco = it.sel === -1;
+  let pie = '';
+  if (fb) {
+    const acierto = it.sel === q.c;
+    pie = `<section class="feedback ${acierto ? 'ok' : it.sel === -1 ? 'bl' : 'ko'}">
+      <h3>${acierto ? '✓ Correcta' : it.sel === -1 ? 'Dejada en blanco' : '✗ Incorrecta'}</h3>
+      ${q.e ? `<p>${esc(q.e)}</p>` : `<p class="muted">Respuesta correcta: <strong>${esc(q.o[q.c])}</strong></p>`}
+      ${q.trampa ? `<p class="tiny"><b>Tipo de trampa:</b> ${esc(q.trampa)}</p>` : ''}
+      ${q.ojo ? `<p class="tiny tr-t"><b>⚠ Ojo:</b> ${esc(q.ojo)}</p>` : ''}
+      <p class="tiny muted">${esc(q.ref)}</p>
+      ${enlaceIdea(q)}
+      <button class="btn primary" data-act="sig">${S.i + 1 < total ? 'Siguiente' : 'Ver resultado'}</button>
+    </section>`;
+  } else if (S.inmediato) {
+    pie = `<button class="btn ghost" data-act="opt" data-k="-1">No contesto (no resta)</button>`;
+  } else {
+    const sinResp = S.items.filter((x) => x.sel === undefined).length;
+    pie = `<button class="btn ghost ${blanco ? 'picked' : ''}" data-act="opt" data-k="-1">${blanco ? '✓ En blanco' : 'Dejar en blanco (no resta)'}</button>
+      <div class="pager">
+        <button class="btn small" data-act="ant" ${S.i === 0 ? 'disabled' : ''}>‹ Anterior</button>
+        ${S.i + 1 < total ? `<button class="btn small" data-act="sig">Siguiente ›</button>` : `<button class="btn primary small" data-act="entregar">Entregar (${sinResp} sin responder)</button>`}
+      </div>`;
+  }
+  const html = `
+    <div class="qhead"><span>${S.i + 1} / ${total}</span>${S.inmediato ? '' : `<span id="reloj" class="reloj">${fmtTiempo(Date.now() - S.t0)}</span>`}
+      <span class="tags">${q.tipo === 'trampa' ? '<span class="tag tr">Trampa</span>' : ''}<span class="tag">Nivel ${q.dif}</span></span></div>
+    <div class="bar-prog thin"><span style="width:${((S.i + (fb ? 1 : 0)) / total) * 100}%"></span></div>
+    ${q.contexto ? `<details class="contexto"><summary>Enunciado del supuesto</summary><p>${esc(q.contexto)}</p></details>` : ''}
+    <h2 class="enun">${fb ? marcar(q.q, q.claves) : esc(q.q)}</h2>
+    ${q.pistas ? `<ul class="pistas">${q.pistas.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+    <div class="opts">${opciones}</div>
+    ${pie}`;
+  return {
+    titulo: S.titulo, volver: S.volver, tab: 'repaso', sinTabs: true, html,
+    derecha: `<button class="link" data-act="salir">Salir</button>`,
+    despues() {
+      if (!S.inmediato) reloj = setInterval(() => { const el = $('#reloj'); if (el) el.textContent = fmtTiempo(Date.now() - S.t0); }, 1000);
+    },
+  };
+}
+
+function responder(k) {
+  const it = S.items[S.i];
+  if (S.inmediato && it.hecho) return;
+  it.sel = k === -1 ? -1 : it.orden[k];
+  if (S.inmediato) {
+    it.hecho = true;
+    store.registrar(it.q.id, it.sel === -1 ? 'blank' : it.sel === it.q.c ? 'ok' : 'fail');
+  }
+  montar(vistaQuiz(), { conservarScroll: !S.inmediato });
+  if (S.inmediato) $('.feedback')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function siguiente() {
+  if (S.i + 1 < S.items.length) {
+    S.i += 1;
+    montar(vistaQuiz());
+  } else terminar();
+}
+
+function terminar() {
+  if (!S.inmediato) {
+    for (const it of S.items) {
+      const r = it.sel === undefined || it.sel === -1 ? 'blank' : it.sel === it.q.c ? 'ok' : 'fail';
+      store.registrar(it.q.id, r);
+    }
+  }
+  const c = contar();
+  S.fin = true;
+  S.duracion = Date.now() - S.t0;
+  store.guardarSesion({ fecha: Date.now(), modo: S.modo, n: S.items.length, ok: c.ok, fail: c.fail, blank: c.blank });
+  ir('#/quiz');
+}
+
+function contar() {
+  let ok = 0, fail = 0, blank = 0;
+  for (const it of S.items) {
+    if (it.sel === undefined || it.sel === -1) blank += 1;
+    else if (it.sel === it.q.c) ok += 1;
+    else fail += 1;
+  }
+  return { ok, fail, blank };
+}
+
+function vistaResultados() {
+  const { ok, fail, blank } = contar();
+  const n = S.items.length;
+  const p = store.penalizacion();
+  const neto = ok - fail * p;
+  const nota = Math.max(0, neto) / n * 10;
+  const revisar = S.items.filter((it) => it.sel !== it.q.c);
+  const lista = revisar
+    .map((it) => {
+      const q = it.q;
+      const etiqueta = it.sel === undefined || it.sel === -1 ? 'En blanco' : 'Tu respuesta: ' + esc(q.o[it.sel]);
+      return `<details class="rev"><summary>${esc(q.q)}</summary>
+        ${q.pistas ? `<ul class="pistas">${q.pistas.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+        <p class="tiny"><b>${etiqueta}</b></p>
+        <p class="tiny ok-t"><b>Correcta:</b> ${esc(q.o[q.c])}</p>
+        ${q.e ? `<p>${esc(q.e)}</p>` : ''}${q.trampa ? `<p class="tiny"><b>Trampa:</b> ${esc(q.trampa)}</p>` : ''}<p class="tiny muted">${esc(q.ref)}</p></details>`;
+    })
+    .join('');
+  const html = `
+    <section class="card resultado">
+      <p class="eyebrow">${esc(S.titulo)} · ${fmtTiempo(S.duracion)}</p>
+      <p class="nota">${num(nota)}<span> / 10</span></p>
+      <p class="muted">${ok} aciertos · ${fail} fallos · ${blank} en blanco</p>
+      <p class="tiny muted">Puntos netos: ${ok} − ${fail} × ${num(p)} = <strong>${num(neto)}</strong> de ${n}. ${p ? `Cada fallo te quitó ${num(p)} puntos; dejar una en blanco no resta.` : ''}</p>
+      ${fail > 0 && blank === 0 ? '<p class="tiny">💡 Con penalización, si no tienes ni idea, déjala en blanco. Si puedes descartar una opción, merece la pena arriesgar.</p>' : ''}
+    </section>
+    <div class="acciones">
+      ${revisar.length ? `<button class="btn primary" data-act="repetir">Repetir fallos y blancos (${revisar.length})</button>` : ''}
+      <a class="btn" href="${S.volver}">Volver</a>
+    </div>
+    ${revisar.length ? `<h3 class="sub">Para revisar</h3>${lista}` : '<p class="muted">¡Sin fallos! 🎉</p>'}`;
+  return { titulo: 'Resultado', volver: S.volver, tab: 'repaso', html };
+}
+
+// ---------------------------------------------------------------- glosario
+function vistaGlosario(abrir) {
+  const lista = [...D.glos].sort((a, b) => a.termino.localeCompare(b.termino, 'es'));
+  const item = (g) => `<details class="gl" id="g-${g.id}" ${abrir === g.id ? 'open' : ''} data-t="${esc((g.termino + ' ' + g.def).toLowerCase())}">
+      <summary>${esc(g.termino)}</summary>
+      <p>${esc(g.def)}</p>
+      ${g.ejemplo ? `<p class="tiny"><b>Ejemplo:</b> ${esc(g.ejemplo)}</p>` : ''}
+      ${g.trampa ? `<p class="tiny tr-t"><b>⚠ Trampa:</b> ${esc(g.trampa)}</p>` : ''}
+      <p class="tiny muted">${esc(g.ref || '')}</p></details>`;
+  const html = `<div class="buscador"><input id="q" type="search" placeholder="Buscar: mayoría absoluta, desconcentración…" autocomplete="off" aria-label="Buscar en el glosario"></div>
+    <p class="tiny muted" id="gl-n">${lista.length} términos</p><div id="gl-lista">${lista.map(item).join('')}</div>`;
+  return {
+    titulo: 'Glosario', tab: 'glosario', html,
+    despues() {
+      const inp = $('#q');
+      inp.addEventListener('input', () => {
+        const t = inp.value.trim().toLowerCase();
+        let n = 0;
+        document.querySelectorAll('.gl').forEach((d) => {
+          const ok = !t || d.dataset.t.includes(t);
+          d.hidden = !ok;
+          if (ok) n += 1;
+        });
+        $('#gl-n').textContent = `${n} términos`;
+      });
+      if (abrir) document.getElementById(`g-${abrir}`)?.scrollIntoView({ block: 'center' });
+    },
+  };
+}
+
+function abrirTermino(id) {
+  const g = D.glosMap[id];
+  if (!g) return;
+  sheet.innerHTML = `<div class="sheet-bg" data-act="cerrar-hoja"></div>
+    <div class="sheet-p" role="dialog" aria-modal="true" aria-label="${esc(g.termino)}">
+      <div class="sheet-h"><h3>${esc(g.termino)}</h3><button class="link" data-act="cerrar-hoja" aria-label="Cerrar">✕</button></div>
+      <p>${esc(g.def)}</p>
+      ${g.ejemplo ? `<p class="tiny"><b>Ejemplo:</b> ${esc(g.ejemplo)}</p>` : ''}
+      ${g.trampa ? `<p class="tiny tr-t"><b>⚠ Trampa:</b> ${esc(g.trampa)}</p>` : ''}
+      <p class="tiny muted">${esc(g.ref || '')} · <a href="#/glosario/${g.id}" data-act="cerrar-hoja">Ver en el glosario</a></p>
+    </div>`;
+  sheet.hidden = false;
+  document.body.classList.add('noscroll');
+}
+function cerrarHoja() {
+  sheet.hidden = true;
+  sheet.innerHTML = '';
+  document.body.classList.remove('noscroll');
+}
+
+// ---------------------------------------------------------------- ajustes
+function vistaAjustes() {
+  const a = store.getAjustes();
+  const opciones = Object.entries(store.PENALIZACIONES)
+    .map(([k, v]) => `<option value="${k}" ${a.penalizacion === k ? 'selected' : ''}>${esc(v.etiqueta)}</option>`)
+    .join('');
+  const html = `
+    <section class="card"><h3>Penalización por fallo</h3>
+      <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
+      <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
+    <section class="card"><h3>Copia de seguridad</h3>
+      <p class="muted tiny">Tu progreso solo vive en este dispositivo. Copia este código para guardarlo o llevarlo a otro móvil.</p>
+      <textarea id="bk" rows="3" readonly></textarea>
+      <div class="acciones"><button class="btn small" data-act="copiar">Copiar</button><button class="btn small" data-act="restaurar">Restaurar desde el código pegado</button></div></section>
+    <section class="card"><h3>Instalar como app</h3>
+      <p class="muted tiny"><b>iPhone (Safari):</b> toca Compartir ⎙ → «Añadir a pantalla de inicio». Se abrirá a pantalla completa y funcionará sin conexión.</p></section>
+    <section class="card"><h3>Sobre el contenido</h3>
+      <p class="muted tiny">Los artículos se han contrastado con el texto consolidado del BOE (verificado entre ${esc(Object.values(D.tema).map((t) => `T${t.n}: ${t.verificado}`).join(' · '))}). Si algo no te cuadra con tu manual, díselo a quien mantiene la app: la ley cambia y conviene revisarlo.</p>
+      <p class="muted tiny">${esc(Object.values(D.tema).map((t) => t.notaVerificacion).filter(Boolean).join(' '))}</p></section>
+    <section class="card"><h3>Borrar progreso</h3><button class="btn danger" data-act="borrar">Borrar todo mi progreso</button></section>
+    ${store.sinPersistencia() ? '<p class="tiny tr-t">Tu navegador no deja guardar datos: el progreso se perderá al cerrar.</p>' : ''}`;
+  return {
+    titulo: 'Más', tab: 'ajustes', html,
+    despues() {
+      $('#bk').value = store.exportar();
+      $('#pen').addEventListener('change', (e) => { store.setAjuste('penalizacion', e.target.value); aviso('Guardado'); });
+    },
+  };
+}
+
+// ---------------------------------------------------------------- eventos
+document.addEventListener('click', (e) => {
+  const termino = e.target.closest('[data-term]');
+  if (termino) return abrirTermino(termino.dataset.term);
+  const el = e.target.closest('[data-act]');
+  if (!el) return;
+  const d = el.dataset;
+  switch (d.act) {
+    case 'empezar': return empezar(d.modo, d);
+    case 'opt': return responder(+d.k);
+    case 'sig': return siguiente();
+    case 'ant': if (S.i > 0) { S.i -= 1; montar(vistaQuiz()); } return;
+    case 'entregar': {
+      const sin = S.items.filter((x) => x.sel === undefined).length;
+      if (sin && !confirm(`Tienes ${sin} sin responder (contarán como en blanco). ¿Entregar?`)) return;
+      return terminar();
+    }
+    case 'salir': if (confirm('¿Salir del test? Lo respondido en modo inmediato ya está guardado.')) { const v = S.volver; S = null; ir(v); } return;
+    case 'repetir': {
+      const pool = S.items.filter((it) => it.sel !== it.q.c).map((it) => it.q);
+      const { titulo, volver } = S;
+      S = { modo: 'repetir', titulo: `${titulo} (repaso)`, inmediato: true, volver, i: 0, fin: false, t0: Date.now(),
+        items: barajar(pool).map((q) => ({ q, orden: barajar(q.o.map((_, i) => i)), sel: undefined, hecho: false })) };
+      return ir('#/quiz');
+    }
+    case 'flash': return el.classList.toggle('open');
+    case 'hecho': { const ya = store.leccionHecha(+d.tema, d.epi); store.marcarLeccion(+d.tema, d.epi, !ya); const y = window.scrollY; route(); window.scrollTo(0, y); return aviso(ya ? 'Marcado como pendiente' : '¡Epígrafe estudiado!'); }
+    case 'cerrar-hoja': return cerrarHoja();
+    case 'mm-abrir': return document.querySelectorAll('#mm details').forEach((x) => (x.open = true));
+    case 'mm-cerrar': return document.querySelectorAll('#mm details').forEach((x) => (x.open = false));
+    case 'mm-recordar': { const on = $('#mm').classList.toggle('recordar'); el.setAttribute('aria-pressed', on); el.classList.toggle('primary', on); return; }
+    case 'hoja': return el.classList.toggle('ver');
+    case 'ocultar-instalar': try { localStorage.setItem('estudani.instalar', '1'); } catch {} return route();
+    case 'copiar': { const t = $('#bk'); t.select(); return (navigator.clipboard ? navigator.clipboard.writeText(t.value) : Promise.reject()).then(() => aviso('Copiado'), () => { document.execCommand?.('copy'); aviso('Copiado'); }); }
+    case 'restaurar': {
+      const t = $('#bk'); t.readOnly = false;
+      const texto = prompt('Pega aquí el código de la copia de seguridad:');
+      t.readOnly = true;
+      if (!texto) return;
+      try { store.importar(texto); aviso('Progreso restaurado'); route(); } catch { aviso('El código no es válido'); }
+      return;
+    }
+    case 'borrar': if (confirm('Se borrará todo tu progreso en este dispositivo. ¿Seguro?')) { store.borrarTodo(); aviso('Progreso borrado'); route(); } return;
+  }
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && !sheet.hidden) cerrarHoja();
+});
+window.addEventListener('hashchange', cerrarHoja);
+
+// ---------------------------------------------------------------- arranque
+init();
+if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
+}

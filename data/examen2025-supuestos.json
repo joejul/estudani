@@ -1,0 +1,241 @@
+{
+ "fuente": "Primer ejercicio, segunda prueba (supuestos prácticos) · Auxiliar Administrativo (turno libre) · Ayuntamiento de Zaragoza · 1-jun-2025",
+ "opciones": 4,
+ "clave": "Plantilla definitiva (Anexo III). c = índice 0-3. Texto procedente de OCR.",
+ "supuestos": [
+  {
+   "titulo": "Primer supuesto práctico: presupuesto general",
+   "texto": "PRTMER sUPUESTo pnÁcrco En el Ayuntamiento de X se realizan los trámites correspondientes al procedimiento de presupuesto general de la Gorporación. Usted trabaja en la Oficina Municipal de lnformación, donde se presenta un vecino que le formula una serie de preguntas al respecto. Esas preguntas y las respuestas que deben darse a las mismas están relacionadas con las siguientes preguntas y respuestas:",
+   "preguntas": [
+    {
+     "n": 1,
+     "q": "Como el municipio tiene organismos autónomos dependientes y hay sociedades mercantiles cuyo capital social le pertenece íntegramente o en el que participa en parte, en el presupuesto general se integrarán de acuerdo con el artículo 164.1 del Real Decreto Legislativo 212004, de 5 de matzo, que aprueba el texto refundido de la Ley reguladora de las Haciendas Locales:",
+     "o": [
+      "El presupuesto de la propia entidad, los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a las entidad local y los presupuestos de los organismos autónomos dependientes de la entidad local.",
+      "El presupuesto de la propia entidad, los estados de previsión de gastos e ingresos de los organismos autónomos dependientes de esta y los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca íntegramente o mayoritariamente a la entidad local.",
+      "El presupuesto de la propia entidad, los presupuestos de los organismos autónomos dependientes de esta, los presupuestos de las sociedades rnercantiles cuyo capital social pertenezca íntegramente a la entidad local y los estados de previsión de gastos e ingresos de las sociedades mercantiles en las que la partlcipación de la entidad local sea minoritaria.",
+      "El presupuesto de la propia entidad, los estados de previsión de gastos e ingresos de los organismos autónomos dependientes de esta y los estados de previsión de gastos e ingresos de las sociedades mercantiles en las que la participación de la entidad local sea mayoritaria o minoritaria."
+     ],
+     "c": 0,
+     "e": "TRLRHL art. 164.1: el presupuesto general integra el de la propia entidad, los de los organismos autónomos y los estados de previsión de las sociedades mercantiles de capital íntegramente local. Ver Tema 13."
+    },
+    {
+     "n": 2,
+     "q": "El Real Decreto Legislativo 212004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley reguladora de las Haciendas Locales, dice en su artículo 166.1",
+     "o": [
+      "que al presupuesto general de la entidad se unirán como anexos los planes y programas de inversión y financiación que podrán formular los municipios y demás entidades locales de ámbito su pramu n icipal: a) A lo largo del ejercicio.",
+      "Para un plazo de dos años.",
+      "Para un plazo de cuatro años.",
+      "Ninguna de las anteriores es correcta 1,de7"
+     ],
+     "c": 2,
+     "e": "TRLRHL art. 166.1.a: los planes de inversión y financiación anexos se formulan para un plazo de cuatro años. Ver Tema 13."
+    },
+    {
+     "n": 3,
+     "q": "El Real Decreto Legislativo 212004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley reguladora de las Haciendas Locales, en el artículo 167, relativo a la estructura de los presupuestos de las entidades locales, dice en su apartado 3.b) que la clasificación económica presentará con separación los gastos corrientes y los gastos de capital, de acuerdo con los siguientes criterios:",
+     "o": [
+      "En los créditos para gastos corrientes se incluirán los de funcionamiento de los servicios",
+      "En los créditos para gastos de capital se incluirán los de intereses.",
+      "Las respuestas a) y b) son correctas.",
+      "Ninguna de las respuestas anteriores es correcta."
+     ],
+     "c": 0,
+     "e": "TRLRHL art. 167.3.b: en gasto corriente se incluyen funcionamiento de los servicios, intereses y transferencias corrientes. Los intereses no son gasto de capital. Ver Tema 13."
+    },
+    {
+     "n": 4,
+     "q": "El Real Decreto Legislativo 212004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley reguladora de las Haciendas Locales, regula en sus artículos 169 y 170 las reclamaciones administrativas de los interesados durante el período de exposición al público contra el presupuesto general inicialmente aprobado. gn dichos artícutos se establece que: .a) Solo tendrán la condición de interesados los habitantes en el territorio de la respectiva entidad local y los que resulten directamente afectados, aunque no habiten en el territorio de la entidad local. b) Deberán entablarse reclamaciones contra el presupuesto por no haberse ajustado su elaboración y aprobación a los trámites establecidos en la ley. c) El plazo de exposición al público será de 15 dias. d) Las tres respuestas anteriores son correctas.",
+     "o": [],
+     "c": 2
+    },
+    {
+     "n": 5,
+     "q": "De acuerdo con el artículo 169.6 del Real Decreto Legislativo 212004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley reguladora de las Haciendas Locales:",
+     "o": [
+      "Si al iniciarse el ejercicio económico no hubiese entrado en vigor el presupuesto correspondiente, se considerará automáticamente prorrogado el del anterior hasta el límite global de sus créditos totales.",
+      "Si al iniciarse el ejercicio económico no se hubiese aprobado definitivamente el presupuesto correspondiente, se considerará automáticamente prorrogado el del anterior, con sus créditos iniciales.",
+      "Si al iniciarse el ejercicio económico no hubiese entrado en vigor el presupuesto correspondiente, se considerará automáticamente prorrogado el del anterior, con sus créditos iniciales.",
+      "Si el presupuesto no fuera aprobado antes del primer día del ejercicio económico correspondiente, quedará automáticamente prorrogada la vigencia del anterior."
+     ],
+     "c": 2,
+     "e": "TRLRHL art. 169.6: si al empezar el ejercicio no está en vigor el nuevo presupuesto, se prorroga automáticamente el anterior con sus créditos iniciales. Ver Tema 13."
+    },
+    {
+     "n": 6,
+     "q": "De acuerdo con el artículo 17'l del Real Decreto Legislativo 212004, de 5 de marzo, por el que se aprueba eltexto refundido de la Ley reguladora de las Haciendas Locales, contra la aprobación definitiva del presupuesto podrá interponerse directamente recurso contencioso-administrativo, debiendo el Tribunal de Guentas informar previamente a la resolución del recurso cuando la impugnación afecte ó se refiera:",
+     "o": [
+      "A la sostenibilidad financiera",
+      "A cualquiera de los principios establecidos en la legislación sobre estabilidad presupuestaria y sosteni bilidad financier:a.",
+      "A la nivelación presupuestaria.",
+      "Al principio de estabilidad presupuestaria o al principio de sostenibilidad financiera."
+     ],
+     "c": 2,
+     "e": "TRLRHL art. 171.2: el Tribunal de Cuentas informa antes de resolver el recurso cuando afecte a la nivelación presupuestaria. Ver Tema 13."
+    },
+    {
+     "n": 7,
+     "q": "Como después de la entrada en vigor del presupuesto el Ayuntamiento quiere reparar el centro cultural y dicha reparación supone la realización de un gasto que no puede demorarse hasta el ejercicio siguiente y no existe crédito en el presupuesto, el presidente, de conformidad con el artículo 177.7 del Real Decreto Legislativo2t2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley reguladora de las Haciendas Locales, ordenará la incoación de expediente de:",
+     "o": [
+      "Ampliación de crédito",
+      "Suplemento de crédito.",
+      "Transferencia de crédito.",
+      "Ninguna de las respuestas anteriores es correcta"
+     ],
+     "c": 3,
+     "e": "TRLRHL art. 177.1: gasto que no puede demorarse y sin crédito en el presupuesto = crédito extraordinario; si el crédito es insuficiente = suplemento. Ninguna de las opciones citaba el crédito extraordinario. Ver Tema 13."
+    },
+    {
+     "n": 8,
+     "q": "El Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, en materia de presupuestos establece en su artículo 56 que la disposición o compromiso del gasto:",
+     "o": [
+      "Constituye el inicio del procedimiento de ejecución del gasto.",
+      "Se realiza por una cuantía cierta o aproximada.",
+      "Es un acto con relevancia jurídica para con terceros.",
+      "Ninguna de las respuestas anteriores es correcta."
+     ],
+     "c": 2,
+     "e": "RD 500/1990 art. 56: la disposición o compromiso es un acto con relevancia jurídica para con terceros. El inicio de la ejecución y la cuantía aproximada son de la autorización (art. 54). Ver Tema 13."
+    },
+    {
+     "n": 9,
+     "q": "El Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, de28 de diciembre, reguladora de las Haciendas Locales¡ en materia de presupuestos establece en su artículo 67.1 que un mismd acto administrativo podrá abarcar más de una de las fases de ejecución del presupuesto de gastos, pudiéndose dar los siguientes casos:",
+     "o": [
+      "Autorización-disposición y reconocimiento de la obligación-ordenación del pago.",
+      "Autorización-disposición y autorización-disposición-reconocimiento de la obligación.",
+      "Disposición-reconocimiento de la obligación y reconocimiento de la obligación-ordenación del pago.",
+      "Autorización-disposición-reconocimiento de la obligación y disposición-reconocimiento de la obligación-ordenación del pago."
+     ],
+     "c": 1,
+     "e": "RD 500/1990 art. 67.1: un mismo acto puede abarcar AD (autorización-disposición) y ADO (autorización-disposición-reconocimiento de la obligación). Ver Tema 13."
+    },
+    {
+     "n": 10,
+     "q": "De acuerdo con el artículo 188 del Real Decreto Legislativo2/2004, de 5 de marzo, porel que se aprueba el texto refundido de la Ley reguladora de las Haciendas Locales, serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente:",
+     "o": [
+      "Los ordenadores de gastos y de pagos y los interventores de las entidades locales, en todo caso.",
+      "Los ordenadores de gastos y de pagos y los interventores de las entidades locales, cuando no adviertan por escrito su improc-edencia.",
+      "Los ordenadores de gastos y de pagos, en todo caso, y los interventores de las entidades locales, cuando no adviertan por escrito su improcedencia.",
+      "Los interventores de las entidades,locales, en todo caso, y los ordenadores de gastos y de . pagoé, cuando no adviertan por escrito su improcedencia. SEGUNDO SUPUESTO PRÁCTICO ElAyuntamiento de X pretende autorizar a la empresa \"Parking J.A., S.L.\", el uso de una plaza y de las instalaciones fijas y permanentes que se encuentran en ella, para la gestión y explotación de un aparcamiento subterráneo de vehículos, durante un plazo de 40 años, con el objeto de patiar los graves problemas de aparcamiento existentes en la zona. Se plantea la necesidad de cumplir lostrám¡tes Iegales preceptivos para realizar la autorización, asícomo la necesidad de ampliar la plantilla para disponer de personal con el que llevar a cabo dichos tramites. A usted, como empleado/a municipal, se le formulan las siguientes preguntas al respecto:"
+     ],
+     "c": 2,
+     "e": "TRLRHL art. 188: son personalmente responsables los ordenadores de gastos y de pagos (siempre) y los interventores cuando no advierten por escrito la improcedencia, de todo gasto o pago sin crédito suficiente. Ver Tema 13."
+    }
+   ]
+  },
+  {
+   "titulo": "Segundo supuesto práctico: bienes y patrimonio",
+   "texto": "SEGUNDO SUPUESTO PRÁCTICO ElAyuntamiento de X pretende autorizar a la empresa \"Parking J.A., S.L.\", el uso de una plaza y de las instalaciones fijas y permanentes que se encuentran en ella, para la gestión y explotación de un aparcamiento subterráneo de vehículos, durante un plazo de 40 años, con el objeto de patiar los graves problemas de aparcamiento existentes en la zona. Se plantea la necesidad de cumplir lostrám¡tes Iegales preceptivos para realizar la autorización, asícomo la necesidad de ampliar la plantilla para disponer de personal con el que llevar a cabo dichos tramites. A usted, como empleado/a municipal, se le formulan las siguientes preguntas al respecto:",
+   "preguntas": [
+    {
+     "n": 11,
+     "q": "De conformidad con el artículo 1.1 del Decreto 34712002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades locales de Aragón, el patrimonio de las Entidades locales está constituido por el conjunto de bienes y derechos que les pertenezcan. De acuerdo con el artículo 2, los bienes de las entidades locales de Aragon se clasifican en bienes de dominio público y en bienes patrimoniales o de propios. Seg ún el artículo 3.1 son bienes de dominio público, los destinados a un uso o servicio público, así como los comunales. Y según el artículo 3.2, la plaza en la que se encuentra el aparcamiento subterráneo: a) b) cj d) Es un bien comunal. Es un bien de dominio público por estar desiinada al servicio público. Es un bien de dominio público por estar destinada al uso y servicio público. Es un bien de dominio público por estar destinada al uso público. Un uso común especial. Un uso exeepcional gratuito Un uso privativo agravado. Un uso privativo.",
+     "o": [],
+     "c": 3
+    },
+    {
+     "n": 12,
+     "q": "De conformidad con el artículo 75 del Decreto 34712002, de l9 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, ¿Qué modalidad de uso va a hacer el Ayuntamiento de la plaza en este caso? a) b) c) d)",
+     "o": [],
+     "c": 2
+    },
+    {
+     "n": 13,
+     "q": "De conformidad con elartículo 8.1.c)de la Ley 3312003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, la gestión y administración de los bienes y derechos patrimoniales por las Administraciones Publicas se ajustará a los siguientes principios:",
+     "o": [
+      "Cooperación y colaboración entre las Administraciones Publicas.",
+      "Publicidad, transparencia, concurrencia y objetividad en la adquisición, explotación y enajenación de estos bienes.",
+      "Ejercicio diligente de las prerrogativas que la presente ley u otras especiales otorguen a las Administraciones Públicas, garantizando su conservación e integridad.",
+      "Todas las anteriores son correctas."
+     ],
+     "c": 1,
+     "e": "Ley 33/2003 art. 8.1.c: la gestión del patrimonio se ajusta a los principios de publicidad, transparencia, concurrencia y objetividad en adquisición, explotación y enajenación. Ver Tema 10."
+    },
+    {
+     "n": 14,
+     "q": "De conformidad con el artículo 8l del Decreto 34712002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, y el artículo 9 de la Ley 9/2017, de 8 de noviembre, de Gontratos del Sector Público, ¿Qué título habilitante precisq la empresa \"Parking J.A., S.L.\" para usar las instalaciones necesarias para la gestión y explotación delaparcamiento subterráneo en la plaza?",
+     "o": [
+      "Licencia.",
+      "Contrato administrativo de concesión de servicios",
+      "Concesión administrativa.",
+      "Contrato administrativo de servicios"
+     ],
+     "c": 2,
+     "e": "Para el uso privativo de dominio público con instalaciones fijas y permanentes se necesita concesión administrativa (Decreto 347/2002 art. 81 y LCSP art. 9). Ver Tema 10."
+    },
+    {
+     "n": 15,
+     "q": "De conformidad con elartículo 83 del Decreto 34712002, de 19 de noviembre, del Gobierno de Aragón, pqr el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, ¿Es correcto el plazo de 40 años previsto por elAyuntamiento para la gestión y explotación de un aparcamiento subterráneo en la plaza por parte de Ia empresa?",
+     "o": [
+      "Si se precisa concesión administrativa, sí porque el plazo máximo es de cincuenta años.",
+      "Si se precisa licencia, no porque el plazo máximo es de diez años.",
+      "Si se precisa concesión administrativa, no porque el plazo máximo es de treinta años.",
+      "Si se precisa licencia, si porque el plazo máximo es de cuarenta años."
+     ],
+     "c": 0,
+     "e": "Decreto 347/2002 art. 83: la concesión administrativa tiene un plazo máximo de cincuenta años, por lo que los 40 años previstos son correctos. Ver Tema 10."
+    },
+    {
+     "n": 16,
+     "q": "De conformidad con los artículos 47 y siguientes del Decreto 34712002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, ¿Qué potestad ejercerá el Ayuntamiento en el caso de que la empresa proceda a usar la plaza y las instalaciones para la explotación del aparcamiento sin el correspondiente título habilitante para ello?",
+     "o": [
+      "Las potestades de investigación y de deslinde.",
+      "La potestad de desahucio administrativo.",
+      "Las potestades de recuperación de oficio y sancionadora,",
+      "Las potestades de recuperación de oficio y de desahucio administrativo."
+     ],
+     "c": 2,
+     "e": "Decreto 347/2002 (arts. 47 y ss.): ante un uso indebido del bien, el Ayuntamiento ejerce las potestades de recuperación de oficio y sancionadora. Ver Tema 10."
+    },
+    {
+     "n": 17,
+     "q": "La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, establece en el apartado 1 de su artículo 93, que:",
+     "o": [
+      "El otorgamiento de concesiones sobre bienes de dominio publico se efectuará en régimen de concurrencia.",
+      "Las concesiones demaniales se otorgarán directamente a los peticionarios que reúnan las condiciones requeridas, salvo si, por cualquier circunstancia, se encontrase limitado su número.",
+      "Las concesiones habrán de otorgarse por tiempo determinado. Su plazo máximo de duración, incluidas las prorrogas, será de cuatro años.",
+      "Las concesiones podrán ser revocadas unilateralmente por la Administración concedente en cualquier momento por razones de interés público."
+     ],
+     "c": 0,
+     "e": "Ley 33/2003 art. 93.1: las concesiones sobre bienes de dominio público se otorgan en régimen de concurrencia. Ver Tema 10."
+    },
+    {
+     "n": 18,
+     "q": "El articulo 16 del Decreto 34712002, de 19 de noviembre, del Gobierno deAragén, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señala que las Entidades locales pueden adquirir bienes y derechos por cualquier título, oneroso o lucrativo, de derecho público o de derecho privado, de conformidad con el ordenamiento jurídico, y en particular, la adquisición podrá tener lugar:",
+     "o": [
+      "Por sucesión administrativa, especialmente como consecuencia de alteraciones de términos municipales o de transferencia de competencias de otras AdministracioneS.",
+      "Por cesión de naturaleza urbanística.",
+      "A título oneroso, a través de contrato, por expropiación y por ejercicio de los derechos de tanteo y retracto.",
+      "Todas las respuestas anteriores son correctas."
+     ],
+     "c": 3,
+     "e": "Decreto 347/2002 art. 16: las entidades locales pueden adquirir bienes y derechos por cualquier título, oneroso o lucrativo, de derecho público o privado; todas las opciones eran correctas. Ver Tema 10."
+    },
+    {
+     "n": 19,
+     "q": "De conformidad con el artículo 126.2de!Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local, la plantilla podrá ser ampliada:",
+     "o": [
+      "Cuando el incremento del gasto quede compensado mediante reducción de otras unidades o capítulos de gastos corrientes no ampliables.",
+      "Siempre que el incremento de las dotaciones sea consecuencia del establecimiento o reducción de servicios dé carácter obligatorio que resulten impuestos por disposiciones legales o reglamentarias.",
+      "Siempre que se precise para cubrir las necesidades de urgencia y necesidad expresamente justificadas.",
+      "Todas las respuestas anteriores son correctas."
+     ],
+     "c": 0,
+     "e": "RDLeg 781/1986 art. 126.2: la plantilla puede ampliarse cuando el incremento de gasto quede compensado con la reducción de otras unidades o capítulos de gastos corrientes. Ver Tema 19."
+    },
+    {
+     "n": 20,
+     "q": "En el caso de que no pudiera ampliarse la plantilla y se opte por el nombramiento de funcionarios interinos, de conformidad con el artículo 10.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la Administración formalizará de oficio la finalización de la relación de interinidad, además de por las causas de pérdida de la condición de funcionario de carrera:",
+     "o": [
+      "Por la cobertura reglada del puesto por personal funcionario a través de cualquiera de los procedimientos legalmente establecidos.",
+      "Por la finalización del plazo autorizado expresamente recogido en su nombramiento.",
+      "Por razones organizativas que den lugar a la creación de los puestos asignados.",
+      "Las respuestas b) y c) son correctas. LC. de Zaragoza a 1 de junio de 2025 7 de7"
+     ],
+     "c": 1,
+     "e": "TREBEP art. 10.3: la Administración cesa de oficio al interino por la finalización del plazo expresamente recogido en su nombramiento, entre otras causas. Ver Tema 17."
+    }
+   ]
+  }
+ ]
+}

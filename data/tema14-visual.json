@@ -1,0 +1,341 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e3"
+  ]
+ ],
+ "glosario": [
+  [
+   "municipio-lbrl",
+   "Municipio",
+   "La entidad local más cercana al ciudadano. Tiene territorio, población y organización, y personalidad jurídica propia.",
+   "Art. 11 LBRL"
+  ],
+  [
+   "padron",
+   "Padrón municipal",
+   "El registro donde constan los vecinos de un municipio. Inscribirse es obligatorio y sus datos prueban la residencia.",
+   "Arts. 15-17 LBRL"
+  ],
+  [
+   "gran-poblacion",
+   "Municipio de gran población",
+   "Municipio al que se aplica un régimen de organización especial (Título X LBRL): Junta de Gobierno Local, distritos, Consejo Social, etc.",
+   "Art. 121 LBRL"
+  ],
+  [
+   "junta-gobierno-local",
+   "Junta de Gobierno Local",
+   "Órgano colegiado que ayuda al Alcalde a dirigir el municipio. En Zaragoza se llama Gobierno de Zaragoza.",
+   "Art. 126 LBRL"
+  ],
+  [
+   "distrito",
+   "Distrito",
+   "División territorial del municipio con órganos de gestión desconcentrada para impulsar la participación ciudadana.",
+   "Art. 128 LBRL"
+  ],
+  [
+   "servicio-minimo",
+   "Servicio mínimo obligatorio",
+   "Servicio que todo municipio debe prestar, según su número de habitantes.",
+   "Art. 26 LBRL"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-municipio",
+   "epi": "e0",
+   "titulo": "Municipio, término y padrón",
+   "art": "Arts. 11-18 LBRL",
+   "resumen": "Elementos, término municipal y vecinos.",
+   "confunde": [
+    "h-servicios"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Entidad local básica con personalidad jurídica"
+    ],
+    [
+     "d",
+     "Elementos: territorio, población y organización"
+    ],
+    [
+     "d",
+     "Cada municipio pertenece a una sola provincia"
+    ],
+    [
+     "d",
+     "Alteración de términos: ley autonómica, audiencia y dictamen del Consejo de Estado"
+    ],
+    [
+     "d",
+     "Padrón: inscripción obligatoria donde se reside más tiempo al año"
+    ],
+    [
+     "d",
+     "Certificaciones del padrón: documento público y fehaciente"
+    ],
+    [
+     "q",
+     "El Ayuntamiento forma, mantiene y custodia el padrón"
+    ]
+   ]
+  },
+  {
+   "id": "h-servicios",
+   "epi": "e1",
+   "titulo": "Servicios mínimos y competencias",
+   "art": "Arts. 25-28 LBRL",
+   "resumen": "Qué debe prestar cada municipio según su población.",
+   "confunde": [
+    "h-municipio",
+    "h-gran"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Todos: alumbrado, cementerio, residuos, limpieza, agua, alcantarillado, acceso, pavimentación"
+    ],
+    [
+     "n",
+     "Más de 5.000: parque, biblioteca y tratamiento de residuos"
+    ],
+    [
+     "n",
+     "Más de 20.000: protección civil, incendios, instalaciones deportivas, servicios sociales"
+    ],
+    [
+     "n",
+     "Más de 50.000: transporte colectivo y medio ambiente urbano"
+    ],
+    [
+     "q",
+     "Menos de 20.000: la Diputación coordina varios servicios"
+    ],
+    [
+     "n",
+     "Delegación: mínimo 5 años"
+    ],
+    [
+     "t",
+     "Biblioteca: 5.000; protección civil: 20.000; transporte: 50.000"
+    ]
+   ]
+  },
+  {
+   "id": "h-gran",
+   "epi": "e2",
+   "titulo": "Gran población",
+   "art": "Arts. 121-138 LBRL",
+   "resumen": "Ámbito y órganos del régimen especial.",
+   "confunde": [
+    "h-zaragoza",
+    "h-servicios"
+   ],
+   "pistas": [
+    [
+     "n",
+     "Ámbito: más de 250.000 habitantes o capitales de provincia con más de 175.000"
+    ],
+    [
+     "d",
+     "Capitales de provincia, autonómicas o sedes de instituciones, si lo decide la Asamblea Legislativa a iniciativa del ayuntamiento"
+    ],
+    [
+     "q",
+     "Pleno: máxima representación política"
+    ],
+    [
+     "q",
+     "Alcalde: máxima representación del municipio, responde ante el Pleno"
+    ],
+    [
+     "n",
+     "Junta de Gobierno Local: hasta un tercio del Pleno, además del Alcalde"
+    ],
+    [
+     "d",
+     "JGL aprueba proyectos de ordenanzas, reglamentos y de presupuesto"
+    ],
+    [
+     "d",
+     "Distritos: gestión desconcentrada y participación ciudadana"
+    ],
+    [
+     "t",
+     "El proyecto de presupuesto lo aprueba la JGL"
+    ]
+   ]
+  },
+  {
+   "id": "h-zaragoza",
+   "epi": "e3",
+   "titulo": "Zaragoza capital (Ley 10/2017)",
+   "art": "Ley 10/2017",
+   "resumen": "Régimen especial de Zaragoza.",
+   "confunde": [
+    "h-gran"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Capital de Aragón con régimen especial"
+    ],
+    [
+     "q",
+     "Gobierno de Zaragoza = Junta de Gobierno Local"
+    ],
+    [
+     "n",
+     "Gobierno de Zaragoza: hasta un tercio del Pleno"
+    ],
+    [
+     "d",
+     "Aprueba proyectos de ordenanzas, reglamentos y presupuesto"
+    ],
+    [
+     "d",
+     "Junta de Portavoces: presidida por el Alcalde o Teniente de Alcalde"
+    ],
+    [
+     "n",
+     "Consejo Bilateral de Capitalidad: al menos una reunión por semestre"
+    ],
+    [
+     "n",
+     "Convenio económico-financiero: mínimo 4 años"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Servicios mínimos según población",
+   "epi": "e1",
+   "items": [
+    {
+     "n": "Todos",
+     "x": "Alumbrado · cementerio · residuos · limpieza viaria · agua · alcantarillado · acceso · pavimentación",
+     "c": "#247ba0",
+     "ic": "💡"
+    },
+    {
+     "n": "> 5.000",
+     "x": "Parque público · biblioteca · tratamiento de residuos",
+     "c": "#70c1b3",
+     "ic": "📚"
+    },
+    {
+     "n": "> 20.000",
+     "x": "Protección civil · servicios sociales · incendios · instalaciones deportivas",
+     "c": "#ffe066",
+     "ic": "🚒"
+    },
+    {
+     "n": "> 50.000",
+     "x": "Transporte colectivo urbano · medio ambiente urbano",
+     "c": "#f25f5c",
+     "ic": "🚌"
+    }
+   ]
+  },
+  {
+   "t": "tiles",
+   "titulo": "¿Cuándo es de gran población? (art. 121.1)",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "a",
+     "x": "Más de 250.000 habitantes",
+     "c": "#247ba0",
+     "ic": "🏙️"
+    },
+    {
+     "n": "b",
+     "x": "Capitales de provincia con más de 175.000",
+     "c": "#247ba0",
+     "ic": "🏛️"
+    },
+    {
+     "n": "c",
+     "x": "Capitales de provincia, autonómicas o sedes de instituciones autonómicas",
+     "s": "Si lo decide la Asamblea Legislativa a iniciativa del ayuntamiento",
+     "c": "#70c1b3",
+     "ic": "📍"
+    },
+    {
+     "n": "d",
+     "x": "Más de 75.000 con circunstancias especiales",
+     "s": "Económicas, sociales, históricas o culturales",
+     "c": "#ffe066",
+     "ic": "⭐"
+    }
+   ]
+  },
+  {
+   "t": "tarjetas",
+   "titulo": "Órganos de gran población",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "1",
+     "x": "Pleno",
+     "s": "Alcalde + Concejales",
+     "d": "Máxima representación política · control · reglamento orgánico · moción de censura",
+     "c": "#247ba0"
+    },
+    {
+     "n": "2",
+     "x": "Alcalde",
+     "s": "Máxima representación del municipio",
+     "d": "Dirige política, gobierno y administración · responde ante el Pleno",
+     "c": "#f25f5c"
+    },
+    {
+     "n": "3",
+     "x": "Junta de Gobierno Local",
+     "s": "Hasta 1/3 del Pleno, además del Alcalde",
+     "d": "Proyectos de ordenanzas, reglamentos y presupuesto",
+     "c": "#70c1b3"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Gran población frente a Zaragoza capital",
+   "epi": "e3",
+   "a": {
+    "x": "Junta de Gobierno Local (LBRL)",
+    "c": "#247ba0",
+    "pasos": [
+     "Hasta 1/3 del Pleno",
+     "Aprueba el proyecto de presupuesto",
+     "Colabora con el Alcalde"
+    ],
+    "nota": "Régimen general de gran población."
+   },
+   "b": {
+    "x": "Gobierno de Zaragoza (Ley 10/2017)",
+    "c": "#f25f5c",
+    "pasos": [
+     "Hasta 1/3 del Pleno",
+     "Aprueba el proyecto de presupuesto",
+     "Responde solidariamente ante el Pleno"
+    ],
+    "nota": "Misma función con nombre propio."
+   }
+  }
+ ]
+}

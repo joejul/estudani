@@ -1,0 +1,257 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ]
+ ],
+ "glosario": [
+  [
+   "actividad-policia",
+   "Actividad de policía",
+   "Intervención de la Administración en la actividad de los ciudadanos (licencias, órdenes, inspecciones) para proteger el interés público. No es la Policía Local.",
+   "Art. 84 LBRL"
+  ],
+  [
+   "licencia",
+   "Licencia",
+   "Autorización previa de la Administración para realizar una actividad u obra.",
+   "Art. 84 LBRL"
+  ],
+  [
+   "fomento",
+   "Fomento",
+   "Actividad de estimular iniciativas de interés público mediante ayudas o subvenciones.",
+   "Art. 224 Ley 7/1999"
+  ],
+  [
+   "gestion-directa",
+   "Gestión directa",
+   "La entidad presta el servicio con sus propios medios o a través de entes que dependen de ella: organismo autónomo, entidad pública empresarial o sociedad pública.",
+   "Art. 85 LBRL"
+  ],
+  [
+   "gestion-indirecta",
+   "Gestión indirecta",
+   "La entidad encarga el servicio a un tercero mediante contrato (por ejemplo, concesión).",
+   "Art. 85.2.B LBRL"
+  ],
+  [
+   "organismo-autonomo",
+   "Organismo autónomo",
+   "Ente con personalidad jurídica propia creado por una entidad para gestionar servicios, sujeto al Derecho administrativo.",
+   "Art. 85 LBRL"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-policia",
+   "epi": "e0",
+   "titulo": "Policía o intervención",
+   "art": "Art. 84 LBRL · 193-198 Ley 7/1999",
+   "resumen": "Medios para intervenir la actividad de los ciudadanos.",
+   "confunde": [
+    "h-servicio"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Ordenanzas y bandos"
+    ],
+    [
+     "d",
+     "Licencia previa y otros controles preventivos"
+    ],
+    [
+     "d",
+     "Comunicación previa o declaración responsable"
+    ],
+    [
+     "d",
+     "Control posterior al inicio de la actividad"
+    ],
+    [
+     "d",
+     "Órdenes individuales: mandato o prohibición"
+    ],
+    [
+     "q",
+     "Licencias: competencia general del Alcalde"
+    ],
+    [
+     "t",
+     "Las ordenanzas no crean nuevas infracciones, solo adaptan"
+    ]
+   ]
+  },
+  {
+   "id": "h-servicio",
+   "epi": "e1",
+   "titulo": "Servicio público y gestión",
+   "art": "Arts. 85-86 LBRL",
+   "resumen": "Formas de prestar los servicios locales.",
+   "confunde": [
+    "h-policia",
+    "h-fomento"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Servicio público local: el que presta la entidad en su competencia"
+    ],
+    [
+     "d",
+     "Directa: propia entidad, organismo autónomo, EPE, sociedad mercantil pública"
+    ],
+    [
+     "d",
+     "Indirecta: contrato de gestión de servicios públicos, p. ej. concesión"
+    ],
+    [
+     "d",
+     "EPE y sociedad: memoria justificativa de sostenibilidad y eficiencia"
+    ],
+    [
+     "q",
+     "Iniciativa pública económica: aprueba el Pleno"
+    ],
+    [
+     "t",
+     "La concesión es gestión indirecta, no directa"
+    ]
+   ]
+  },
+  {
+   "id": "h-fomento",
+   "epi": "e2",
+   "titulo": "Fomento",
+   "art": "Arts. 224-225 Ley 7/1999",
+   "resumen": "Auxilios económicos a actividades de interés público.",
+   "confunde": [
+    "h-servicio"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Auxilios económicos a entidades públicas o privadas y a particulares"
+    ],
+    [
+     "d",
+     "Actividades de interés público que complementen o suplan las de la entidad"
+    ],
+    [
+     "d",
+     "Principios: publicidad, objetividad, libre concurrencia, igualdad"
+    ],
+    [
+     "d",
+     "Respeto a la libre competencia y legalidad presupuestaria"
+    ],
+    [
+     "d",
+     "La entidad comprueba la aplicación efectiva de lo concedido"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Medios de intervención (policía)",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "a",
+     "x": "Ordenanzas y bandos",
+     "c": "#247ba0",
+     "ic": "📜"
+    },
+    {
+     "n": "b",
+     "x": "Licencia previa y control preventivo",
+     "c": "#f25f5c",
+     "ic": "🪪"
+    },
+    {
+     "n": "c",
+     "x": "Comunicación previa o declaración responsable",
+     "c": "#70c1b3",
+     "ic": "✍️"
+    },
+    {
+     "n": "d",
+     "x": "Control posterior",
+     "c": "#ffe066",
+     "ic": "🔎"
+    },
+    {
+     "n": "e",
+     "x": "Órdenes individuales",
+     "c": "#50514f",
+     "ic": "📢"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Gestión directa frente a indirecta",
+   "epi": "e1",
+   "a": {
+    "x": "Gestión directa",
+    "c": "#247ba0",
+    "pasos": [
+     "La propia Entidad Local",
+     "Organismo autónomo local",
+     "Entidad pública empresarial local",
+     "Sociedad mercantil local (capital público)"
+    ],
+    "nota": "EPE y sociedad: memoria justificativa."
+   },
+   "b": {
+    "x": "Gestión indirecta",
+    "c": "#f25f5c",
+    "pasos": [
+     "Contrato de gestión de servicios públicos",
+     "Por ejemplo: concesión"
+    ],
+    "nota": "El servicio lo presta un tercero."
+   }
+  },
+  {
+   "t": "tiles",
+   "titulo": "Principios del fomento (art. 225)",
+   "epi": "e2",
+   "items": [
+    {
+     "n": "1",
+     "x": "Publicidad",
+     "c": "#247ba0",
+     "ic": "📣"
+    },
+    {
+     "n": "2",
+     "x": "Objetividad",
+     "c": "#70c1b3",
+     "ic": "⚖️"
+    },
+    {
+     "n": "3",
+     "x": "Libre concurrencia",
+     "c": "#ffe066",
+     "ic": "🏁"
+    },
+    {
+     "n": "4",
+     "x": "Igualdad",
+     "c": "#f25f5c",
+     "ic": "🟰"
+    }
+   ]
+  }
+ ]
+}

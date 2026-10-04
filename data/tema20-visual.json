@@ -1,0 +1,341 @@
+{
+ "mapaEpis": [
+  [
+   "e0"
+  ],
+  [
+   "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e3"
+  ]
+ ],
+ "glosario": [
+  [
+   "plan-general",
+   "Plan general de ordenación urbana",
+   "El instrumento principal del urbanismo municipal: clasifica todo el suelo y define la estructura general de la ciudad.",
+   "Art. 38 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "plan-parcial",
+   "Plan parcial",
+   "Plan que desarrolla el plan general y ordena al detalle un sector de suelo urbano no consolidado o urbanizable.",
+   "Art. 51 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "suelo-urbano",
+   "Suelo urbano",
+   "Terrenos que ya cuentan con los servicios urbanísticos suficientes (calles, agua, saneamiento, electricidad…).",
+   "Art. 12 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "suelo-urbanizable",
+   "Suelo urbanizable",
+   "Terrenos que el plan prevé transformar en ciudad, dotándolos de servicios.",
+   "Art. 15 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "suelo-no-urbanizable",
+   "Suelo no urbanizable",
+   "Terrenos protegidos o no aptos para urbanizar. El especial está protegido; el genérico es el residual.",
+   "Arts. 16-18 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "reparcelacion",
+   "Reparcelación",
+   "Agrupar las fincas de una unidad y volver a dividirlas según el plan, repartiendo beneficios y cargas.",
+   "Art. 140 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "unidad-ejecucion",
+   "Unidad de ejecución",
+   "Ámbito de suelo que se urbaniza de una vez en una actuación integrada.",
+   "Art. 138 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "junta-compensacion",
+   "Junta de compensación",
+   "Entidad formada por los propietarios que urbanizan a su costa un ámbito.",
+   "Art. 155 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "licencia-urbanistica",
+   "Licencia urbanística",
+   "Autorización del Alcalde para realizar un acto de construcción, edificación o uso del suelo.",
+   "Art. 226 Ley de Urbanismo de Aragón"
+  ]
+ ],
+ "hubs": [
+  {
+   "id": "h-suelo",
+   "epi": "e0",
+   "titulo": "Clases de suelo",
+   "art": "Arts. 8-18",
+   "resumen": "Urbano, urbanizable y no urbanizable.",
+   "confunde": [
+    "h-plan"
+   ],
+   "pistas": [
+    [
+     "q",
+     "Municipios: actividad urbanística pública"
+    ],
+    [
+     "d",
+     "Clasifica el plan general: urbano, urbanizable, no urbanizable"
+    ],
+    [
+     "d",
+     "Urbano: consolidado y no consolidado"
+    ],
+    [
+     "d",
+     "No consolidado: actuaciones urbanísticas integradas"
+    ],
+    [
+     "d",
+     "Urbanizable: delimitado y no delimitado"
+    ],
+    [
+     "d",
+     "No urbanizable especial: protegido por legislación de protección"
+    ],
+    [
+     "d",
+     "No urbanizable genérico: clase residual"
+    ],
+    [
+     "d",
+     "Solar: suelo urbano urbanizado apto para uso inmediato"
+    ]
+   ]
+  },
+  {
+   "id": "h-plan",
+   "epi": "e1",
+   "titulo": "Instrumentos de planeamiento",
+   "art": "Arts. 38-69",
+   "resumen": "Plan general, parcial, especial y estudio de detalle.",
+   "confunde": [
+    "h-suelo",
+    "h-gestion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Plan general: clasifica el suelo y define la estructura general"
+    ],
+    [
+     "q",
+     "Aprobación definitiva del plan general: Consejo Provincial de Urbanismo"
+    ],
+    [
+     "d",
+     "Plan parcial: ordenación pormenorizada de sectores"
+    ],
+    [
+     "d",
+     "Plan especial de reforma interior: solo en suelo urbano no consolidado"
+    ],
+    [
+     "d",
+     "Estudio de detalle: completar o adaptar determinaciones"
+    ],
+    [
+     "d",
+     "Ordenanzas de edificación y urbanización"
+    ]
+   ]
+  },
+  {
+   "id": "h-gestion",
+   "epi": "e2",
+   "titulo": "Gestión urbanística",
+   "art": "Arts. 118-182",
+   "resumen": "Actuaciones y sistemas de gestión.",
+   "confunde": [
+    "h-plan"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Aisladas: completar urbanización de suelo urbano consolidado"
+    ],
+    [
+     "d",
+     "Integradas: unidad de ejecución en urbano no consolidado o urbanizable delimitado"
+    ],
+    [
+     "d",
+     "Reparcelación: agrupar y volver a dividir las fincas"
+    ],
+    [
+     "d",
+     "Directa por expropiación: la Administración"
+    ],
+    [
+     "d",
+     "Directa por cooperación: propietarios ceden suelo, la Administración urbaniza"
+    ],
+    [
+     "d",
+     "Indirecta por compensación: junta de compensación urbaniza a su costa"
+    ],
+    [
+     "d",
+     "Indirecta por urbanizador: programa de urbanización"
+    ]
+   ]
+  },
+  {
+   "id": "h-disciplina",
+   "epi": "e3",
+   "titulo": "Licencias y disciplina",
+   "art": "Arts. 225-285",
+   "resumen": "Títulos habilitantes y régimen sancionador.",
+   "confunde": [
+    "h-gestion"
+   ],
+   "pistas": [
+    [
+     "d",
+     "Licencia, declaración responsable o comunicación previa"
+    ],
+    [
+     "d",
+     "Licencia: legitima desde que el Alcalde la adopta"
+    ],
+    [
+     "d",
+     "Declaración y comunicación: desde su presentación"
+    ],
+    [
+     "d",
+     "Silencio en licencias: desestimatorio"
+    ],
+    [
+     "d",
+     "Conservación: seguridad, salubridad y ornato; órdenes de ejecución"
+    ],
+    [
+     "q",
+     "Ruina inminente: el Alcalde adopta medidas"
+    ],
+    [
+     "n",
+     "Prescripción de infracciones: 1, 4 y 10 años"
+    ],
+    [
+     "q",
+     "Sanciona el Alcalde las leves; el Pleno las graves y muy graves"
+    ]
+   ]
+  }
+ ],
+ "esquema": [
+  {
+   "t": "tiles",
+   "titulo": "Clases y categorías de suelo (art. 11)",
+   "epi": "e0",
+   "items": [
+    {
+     "n": "U",
+     "x": "Suelo urbano",
+     "s": "Consolidado · No consolidado",
+     "c": "#247ba0",
+     "ic": "🏙️"
+    },
+    {
+     "n": "Z",
+     "x": "Suelo urbanizable",
+     "s": "Delimitado · No delimitado",
+     "c": "#70c1b3",
+     "ic": "🏗️"
+    },
+    {
+     "n": "N",
+     "x": "Suelo no urbanizable",
+     "s": "Especial · Genérico (residual)",
+     "c": "#ffe066",
+     "ic": "🌲"
+    }
+   ]
+  },
+  {
+   "t": "piramide",
+   "titulo": "Jerarquía del planeamiento",
+   "epi": "e1",
+   "intro": "De lo general a lo detallado",
+   "niveles": [
+    {
+     "x": "Plan general",
+     "s": "Clasifica el suelo y fija la ordenación estructural",
+     "c": "#247ba0"
+    },
+    {
+     "x": "Planes parciales y especiales",
+     "s": "Ordenación pormenorizada de sectores y reforma interior",
+     "c": "#70c1b3"
+    },
+    {
+     "x": "Estudios de detalle",
+     "s": "Completan o adaptan determinaciones",
+     "c": "#ffe066"
+    }
+   ]
+  },
+  {
+   "t": "contraste",
+   "titulo": "Cooperación frente a compensación",
+   "epi": "e2",
+   "a": {
+    "x": "Gestión directa por cooperación",
+    "c": "#247ba0",
+    "pasos": [
+     "Propietarios aportan el suelo de cesión",
+     "La Administración urbaniza"
+    ],
+    "nota": "Gestión pública."
+   },
+   "b": {
+    "x": "Gestión indirecta por compensación",
+    "c": "#f25f5c",
+    "pasos": [
+     "Propietarios forman la junta de compensación",
+     "Urbanizan a su costa"
+    ],
+    "nota": "Gestión por los propietarios."
+   }
+  },
+  {
+   "t": "barras",
+   "titulo": "Prescripción de las infracciones urbanísticas (años)",
+   "epi": "e3",
+   "total": 10,
+   "items": [
+    {
+     "x": "Leves",
+     "v": 1,
+     "c": "#70c1b3",
+     "s": "600 a 6.000 € · sanciona el Alcalde"
+    },
+    {
+     "x": "Graves",
+     "v": 4,
+     "c": "#ffe066",
+     "s": "6.000 a 60.000 € · sanciona el Pleno"
+    },
+    {
+     "x": "Muy graves",
+     "v": 10,
+     "c": "#f25f5c",
+     "s": "60.000 a 300.000 € · sanciona el Pleno"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,617 @@
+{
+ "n": 9,
+ "titulo": "Los contratos del sector público",
+ "fuente": "Ley 9/2017, de Contratos del Sector Público (LCSP) arts. 3, 12-18, 25, 118 y disposiciones adicionales 2.ª y 3.ª (BOE-A-2017-12902), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Tipos contractuales",
+   "subtitulo": "Arts. 12 a 18 y 25 LCSP",
+   "clave": [
+    "Obras (13)",
+    "Concesión de obras (14)",
+    "Concesión de servicios (15)",
+    "Suministro (16)",
+    "Servicios (17)",
+    "Mixtos (18)",
+    "Administrativos y privados (25)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los contratos de **obras, concesión de obras, concesión de servicios, suministro y servicios** que celebran las entidades del sector público se califican según la LCSP (art. 12). Las **Entidades Locales** forman parte del [[sector-publico|sector público]] (art. 3.1.a)."
+    ],
+    [
+     "tabla",
+     [
+      "Contrato",
+      "Objeto",
+      "Dato clave"
+     ],
+     [
+      [
+       "**Obras** (13)",
+       "**Ejecución de una obra** (con o sin redacción del proyecto) o los trabajos del Anexo I; o la realización de una obra que cumpla requisitos fijados por la entidad contratante.",
+       "El resultado es una **obra** (construir, reparar)."
+      ],
+      [
+       "**Concesión de obras** (14)",
+       "El concesionario realiza obras y se encarga de su **conservación y mantenimiento**.",
+       "La contraprestación es el **derecho a explotar la obra** (o ese derecho más un precio)."
+      ],
+      [
+       "**Concesión de servicios** (15)",
+       "Se **encomienda la gestión de un servicio** de titularidad o competencia de la Administración.",
+       "La contrapartida es el **derecho a explotar el servicio** (o ese derecho más un precio)."
+      ],
+      [
+       "**Suministro** (16)",
+       "**Adquisición, arrendamiento financiero o arrendamiento**, con o sin opción de compra, de **productos o bienes muebles**.",
+       "No: propiedades incorporales ni valores negociables."
+      ],
+      [
+       "**Servicios** (17)",
+       "**Prestaciones de hacer**: desarrollo de una actividad o resultado distinto de una obra o suministro.",
+       "**No** pueden implicar **ejercicio de autoridad** inherente a los poderes públicos."
+      ],
+      [
+       "**Mixtos** (18)",
+       "Contienen prestaciones de **distinta clase**.",
+       "Solo en las condiciones del art. 34.2."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "**Contratos administrativos (25):** tienen carácter administrativo, si los celebra una **Administración Pública**, los de **obras, concesión de obras, concesión de servicios, suministro y servicios** (salvo excepciones que son privados, como ciertos servicios financieros o de creación artística)."
+    ],
+    [
+     "trampa",
+     "Concesión de **servicios** = gestionar un servicio **público**; concesión de **obras** = construir y explotar una **obra**. El contrato de **servicios** **no** puede incluir **ejercicio de autoridad**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué contraprestación tienen las concesiones?",
+     "El derecho a explotar la obra o el servicio, solo o acompañado de un precio (arts. 14 y 15)."
+    ],
+    [
+     "¿Puede un contrato de servicios implicar ejercicio de autoridad?",
+     "No (art. 17)."
+    ]
+   ],
+   "esquema": [
+    "Cinco tipos: obras · concesión de obras · concesión de servicios · suministro · servicios (12)",
+    "Mixtos (18) · administrativos (25)",
+    "Concesiones: contraprestación = derecho de explotación (14-15)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Competencias en materia de contratación local",
+   "subtitulo": "Disposición adicional segunda LCSP",
+   "clave": [
+    "Alcalde: hasta el 10 % de los recursos ordinarios y 6 millones (DA 2.1)",
+    "Pleno: el resto (DA 2.2)",
+    "Gran población: Junta de Gobierno Local (DA 2.4)",
+    "Juntas de Contratación (DA 2.5)"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "Órgano",
+      "Competencia como órgano de contratación"
+     ],
+     [
+      [
+       "**Alcalde o Presidente** (DA 2.1)",
+       "Contratos de **obras, suministro, servicios, concesión de obras, concesión de servicios y administrativos especiales** cuyo **valor estimado no supere el 10 % de los recursos ordinarios del presupuesto ni 6 millones de euros**, incluidos los **plurianuales** cuya **duración no sea superior a 4 años** (prórrogas incluidas) con el mismo límite."
+      ],
+      [
+       "**Pleno** (DA 2.2)",
+       "Los mismos contratos cuando **por su valor o duración no correspondan al Alcalde**. Además, **aprueba los pliegos de cláusulas administrativas generales**."
+      ],
+      [
+       "**Pleno, municipios < 5.000 hab.** (DA 2.3)",
+       "Autorizar la redacción y licitación de **proyectos independientes** por partes de una obra que exceda de un presupuesto anual."
+      ],
+      [
+       "**Junta de Gobierno Local, gran población** (DA 2.4)",
+       "**Cualquiera que sea el importe o la duración**. El **Pleno** sigue aprobando los **pliegos de cláusulas administrativas generales**."
+      ],
+      [
+       "**Juntas de Contratación** (DA 2.5)",
+       "**Potestativas**; el **Pleno** acuerda su constitución y composición; forman parte **el Secretario y el Interventor** necesariamente."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "En Zaragoza (gran población) quien contrata es el **Gobierno de Zaragoza (Junta de Gobierno Local)**, sea cual sea el importe; los pliegos **generales** los aprueba el **Pleno**."
+    ],
+    [
+     "trampa",
+     "Alcalde: **10 %** de recursos ordinarios y **6 millones**, y duración **no superior a 4 años**. En gran población: **JGL siempre** (examen 2025, pregunta 14), excepto los **pliegos generales**, que son del **Pleno**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué límite tiene la competencia contractual del Alcalde?",
+     "10 % de los recursos ordinarios del presupuesto y 6 millones de euros, con duración no superior a 4 años (DA 2.1)."
+    ],
+    [
+     "¿Quién contrata en un municipio de gran población?",
+     "La Junta de Gobierno Local, cualquiera que sea el importe o duración; el Pleno aprueba los pliegos generales (DA 2.4)."
+    ]
+   ],
+   "esquema": [
+    "Alcalde: ≤ 10 % recursos ordinarios y ≤ 6 M€, ≤ 4 años",
+    "Pleno: lo que exceda y pliegos generales",
+    "Gran población: Junta de Gobierno Local siempre"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Normas específicas de contratación local",
+   "subtitulo": "Disposición adicional tercera LCSP, DA 2.7 y art. 118",
+   "clave": [
+    "Aplicación con especialidades (DA 3.1)",
+    "Tramitación anticipada (DA 3.2)",
+    "Fiscalización por el Interventor (DA 3.3)",
+    "Supervisión de proyectos (DA 3.6)",
+    "Mesa de contratación (DA 2.7)",
+    "Contratos menores (118)"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "Norma",
+      "Regla"
+     ],
+     [
+      [
+       "**DA 3.1**",
+       "Las Administraciones locales aplican la LCSP **con las especialidades** de la DA 2.ª y 3.ª."
+      ],
+      [
+       "**DA 3.2**",
+       "**Tramitación anticipada** de contratos cuya ejecución empiece **el ejercicio siguiente** o cuya financiación dependa de **préstamo, crédito o subvención**, con **condición suspensiva** de que los recursos se consoliden."
+      ],
+      [
+       "**DA 3.3**",
+       "La **fiscalización** corresponde al **Interventor**, que también comprueba la **repercusión** de cada contrato (salvo menores) en **estabilidad presupuestaria y sostenibilidad financiera**."
+      ],
+      [
+       "**DA 3.4**",
+       "En municipios de **menos de 5.000 habitantes**, la aprobación del gasto puede sustituirse por **certificación de existencia de crédito**."
+      ],
+      [
+       "**DA 3.6**",
+       "A los contratos de obras se aplican las normas de **supervisión de proyectos** del **art. 235**; la hacen las oficinas de la entidad o, si no las hay, la **Diputación** o la administración autonómica uniprovincial (examen 2025, pregunta 35)."
+      ],
+      [
+       "**DA 2.7**",
+       "La **Mesa de contratación** la **preside un miembro de la Corporación o un funcionario**; son vocales **el Secretario y el Interventor** (o quienes tengan sus funciones) y otros designados, con **mínimo de tres** miembros en total; los **electos no superan un tercio**; actúa como secretario **un funcionario**; **nunca personal eventual**."
+      ],
+      [
+       "**118**",
+       "**Contratos menores**: valor estimado **inferior a 40.000 €** (obras) o **15.000 €** (suministros y servicios). Exigen informe motivado de necesidad, aprobación del gasto y factura."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Mesa de contratación presidida por **un miembro de la Corporación o un funcionario** (examen 2025, pregunta 34). **Nunca personal eventual**. Menores: **40.000** obras / **15.000** suministros y servicios."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Quién preside la Mesa de contratación en las entidades locales?",
+     "Un miembro de la Corporación o un funcionario de la misma (DA 2.7)."
+    ],
+    [
+     "¿Umbrales de los contratos menores?",
+     "Menos de 40.000 € en obras y menos de 15.000 € en suministros y servicios (art. 118.1)."
+    ]
+   ],
+   "esquema": [
+    "Tramitación anticipada (DA 3.2) · fiscalización del Interventor (DA 3.3)",
+    "Supervisión de proyectos de obras (DA 3.6)",
+    "Mesa: presidente de la Corporación o funcionario · Secretario e Interventor · ≥ 3 · electos ≤ 1/3 · sin eventuales",
+    "Menores: 40.000 € obras · 15.000 € resto"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Contratos del sector público",
+  "ramas": [
+   {
+    "titulo": "Tipos (12-18)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Obras y concesión de obras",
+      "hijos": [
+       {
+        "titulo": "Obra: ejecutar o reparar"
+       },
+       {
+        "titulo": "Concesión: derecho a explotar la obra"
+       }
+      ]
+     },
+     {
+      "titulo": "Servicios",
+      "hijos": [
+       {
+        "titulo": "Concesión de servicios: gestionar un servicio"
+       },
+       {
+        "titulo": "Servicios: prestaciones de hacer, sin autoridad"
+       }
+      ]
+     },
+     {
+      "titulo": "Suministro y mixtos",
+      "hijos": [
+       {
+        "titulo": "Bienes muebles"
+       },
+       {
+        "titulo": "Mixtos: varias prestaciones"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Órgano de contratación",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Alcalde",
+      "hijos": [
+       {
+        "titulo": "≤ 10 % de recursos ordinarios"
+       },
+       {
+        "titulo": "≤ 6 millones y ≤ 4 años"
+       }
+      ]
+     },
+     {
+      "titulo": "Pleno",
+      "hijos": [
+       {
+        "titulo": "El resto"
+       },
+       {
+        "titulo": "Pliegos generales"
+       }
+      ]
+     },
+     {
+      "titulo": "Gran población",
+      "hijos": [
+       {
+        "titulo": "Junta de Gobierno Local siempre"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Normas locales",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Procedimiento",
+      "hijos": [
+       {
+        "titulo": "Tramitación anticipada"
+       },
+       {
+        "titulo": "Fiscaliza el Interventor"
+       }
+      ]
+     },
+     {
+      "titulo": "Mesa de contratación",
+      "hijos": [
+       {
+        "titulo": "Preside: miembro de la Corporación o funcionario"
+       },
+       {
+        "titulo": "Sin personal eventual"
+       }
+      ]
+     },
+     {
+      "titulo": "Menores",
+      "hijos": [
+       {
+        "titulo": "< 40.000 € obras"
+       },
+       {
+        "titulo": "< 15.000 € resto"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "DA 2.ª LCSP (órgano de contratación)",
+    "a": "Art. 127 LBRL (JGL en gran población)",
+    "porque": "En gran población la Junta de Gobierno Local ejerce la contratación, cualquiera que sea el importe."
+   },
+   {
+    "de": "Art. 15 LCSP (concesión de servicios)",
+    "a": "Art. 85 LBRL (gestión indirecta)",
+    "porque": "La concesión es la forma típica de gestión indirecta de un servicio público local."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 13 LCSP, son contratos de obras aquellos que tienen por objeto:",
+   [
+    "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos del Anexo I",
+    "La explotación de un servicio público",
+    "La adquisición de bienes muebles"
+   ],
+   0,
+   "Art. 13.1.a.",
+   "Art. 13 LCSP",
+   "",
+   "h-tipos",
+   [
+    "ejecución de una obra"
+   ]
+  ],
+  [
+   "En el contrato de concesión de servicios, la contrapartida del concesionario viene constituida por:",
+   [
+    "El derecho a explotar los servicios objeto del contrato o dicho derecho acompañado del de percibir un precio",
+    "Únicamente un precio cierto",
+    "La propiedad de las instalaciones"
+   ],
+   0,
+   "Art. 15.1.",
+   "Art. 15.1 LCSP",
+   "",
+   "h-tipos",
+   [
+    "derecho a explotar"
+   ]
+  ],
+  [
+   "Son contratos de suministro los que tienen por objeto:",
+   [
+    "La adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles",
+    "La ejecución de obras",
+    "Prestaciones de hacer"
+   ],
+   0,
+   "Art. 16.1.",
+   "Art. 16.1 LCSP",
+   "",
+   "h-tipos",
+   [
+    "bienes muebles"
+   ]
+  ],
+  [
+   "Respecto de los contratos de servicios, no podrán ser objeto de estos contratos:",
+   [
+    "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+    "Los servicios de limpieza",
+    "Los servicios de mantenimiento informático"
+   ],
+   0,
+   "Art. 17.",
+   "Art. 17 LCSP",
+   "",
+   "h-tipos",
+   [
+    "ejercicio de la autoridad"
+   ]
+  ],
+  [
+   "Se entiende por contrato mixto aquel que contenga:",
+   [
+    "Prestaciones correspondientes a otro u otros de distinta clase",
+    "Dos contratistas",
+    "Un precio parcialmente aplazado"
+   ],
+   0,
+   "Art. 18.1.",
+   "Art. 18.1 LCSP",
+   "",
+   "h-tipos",
+   [
+    "distinta clase"
+   ]
+  ],
+  [
+   "Las Entidades que integran la Administración Local, a efectos de la LCSP, forman parte:",
+   [
+    "Del sector público",
+    "Solo del sector privado",
+    "De ninguna categoría"
+   ],
+   0,
+   "Art. 3.1.a.",
+   "Art. 3.1.a LCSP",
+   "",
+   "h-tipos",
+   [
+    "sector público"
+   ]
+  ],
+  [
+   "Corresponden a los Alcaldes las competencias como órgano de contratación cuando el valor estimado del contrato no supere el 10 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, la cuantía de:",
+   [
+    "Seis millones de euros",
+    "Tres millones de euros",
+    "Diez millones de euros"
+   ],
+   0,
+   "DA 2.ª.1.",
+   "DA 2.ª.1 LCSP",
+   "Cuantía",
+   "h-competencias",
+   [
+    "seis millones"
+   ]
+  ],
+  [
+   "La duración de los contratos plurianuales de competencia del Alcalde, prórrogas incluidas, no podrá ser superior a:",
+   [
+    "Cuatro años",
+    "Cinco años",
+    "Seis años"
+   ],
+   0,
+   "DA 2.ª.1.",
+   "DA 2.ª.1 LCSP",
+   "Años",
+   "h-competencias",
+   [
+    "cuatro años"
+   ]
+  ],
+  [
+   "Corresponden al Pleno las competencias como órgano de contratación cuando por su valor o duración no correspondan al Alcalde. Además, corresponde al Pleno:",
+   [
+    "La aprobación de los pliegos de cláusulas administrativas generales",
+    "La firma de todos los contratos menores",
+    "La presidencia de la Mesa de contratación"
+   ],
+   0,
+   "DA 2.ª.2.",
+   "DA 2.ª.2 LCSP",
+   "",
+   "h-competencias",
+   [
+    "pliegos de cláusulas administrativas generales"
+   ]
+  ],
+  [
+   "De acuerdo con la DA 2.ª.4 LCSP, en los municipios de gran población las competencias como órgano de contratación corresponden a:",
+   [
+    "La Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración",
+    "El Pleno en todo caso",
+    "El Alcalde hasta 6 millones de euros"
+   ],
+   0,
+   "DA 2.ª.4 (examen 2025, pregunta 14).",
+   "DA 2.ª.4 LCSP",
+   "Pleno frente a JGL",
+   "h-competencias",
+   [
+    "Junta de Gobierno Local"
+   ]
+  ],
+  [
+   "En los municipios de gran población, el órgano competente para aprobar los pliegos de cláusulas administrativas generales es:",
+   [
+    "El Pleno",
+    "La Junta de Gobierno Local",
+    "El Alcalde"
+   ],
+   0,
+   "DA 2.ª.4 (examen 2025, pregunta 33).",
+   "DA 2.ª.4 LCSP",
+   "Generales frente a particulares",
+   "h-competencias",
+   [
+    "Pleno"
+   ]
+  ],
+  [
+   "En las Entidades Locales, la constitución de Juntas de Contratación es:",
+   [
+    "Potestativa, y debe acordarla el Pleno",
+    "Obligatoria en todo caso",
+    "Competencia exclusiva del Interventor"
+   ],
+   0,
+   "DA 2.ª.5.",
+   "DA 2.ª.5 LCSP",
+   "",
+   "h-competencias",
+   [
+    "potestativa"
+   ]
+  ],
+  [
+   "De acuerdo con la DA 2.ª.7 LCSP, en las entidades locales la Mesa de contratación estará presidida:",
+   [
+    "Por un miembro de la Corporación o un funcionario de la misma",
+    "Por el Interventor, siempre",
+    "Por personal eventual"
+   ],
+   0,
+   "DA 2.ª.7 (examen 2025, pregunta 34).",
+   "DA 2.ª.7 LCSP",
+   "",
+   "h-normas",
+   [
+    "miembro de la Corporación"
+   ]
+  ],
+  [
+   "En ningún caso podrá formar parte de las Mesas de contratación ni emitir informes de valoración de las ofertas:",
+   [
+    "El personal eventual",
+    "El Secretario",
+    "El Interventor"
+   ],
+   0,
+   "DA 2.ª.7.",
+   "DA 2.ª.7 LCSP",
+   "",
+   "h-normas",
+   [
+    "personal eventual"
+   ]
+  ],
+  [
+   "Se consideran contratos menores los contratos de obras de valor estimado inferior a:",
+   [
+    "40.000 euros",
+    "15.000 euros",
+    "100.000 euros"
+   ],
+   0,
+   "Art. 118.1: 40.000 € en obras y 15.000 € en suministros y servicios.",
+   "Art. 118.1 LCSP",
+   "Umbrales",
+   "h-normas",
+   [
+    "40.000 euros"
+   ]
+  ],
+  [
+   "Tratándose de contratación pública en las entidades locales, según la DA 3.ª.6:",
+   [
+    "Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en el art. 235",
+    "Se excluye la supervisión de proyectos",
+    "La supervisión la hace siempre el Pleno"
+   ],
+   0,
+   "DA 3.ª.6 (examen 2025, pregunta 35).",
+   "DA 3.ª.6 LCSP",
+   "",
+   "h-normas",
+   [
+    "supervisión de proyectos"
+   ]
+  ]
+ ]
+}

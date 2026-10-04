@@ -1,0 +1,466 @@
+[
+  {
+    "id": "constitucion",
+    "termino": "Constitución",
+    "def": "Es la norma más importante del país. Dice quién manda, cómo se hacen las leyes y qué derechos tienen las personas. Todas las demás normas están por debajo y no pueden contradecirla.",
+    "ejemplo": "Si una ley contradice la Constitución, el Tribunal Constitucional puede anularla.",
+    "ref": "CE (1978)"
+  },
+  {
+    "id": "ordenamiento-juridico",
+    "termino": "Ordenamiento jurídico",
+    "def": "El conjunto de todas las normas que están en vigor en un país: Constitución, leyes, reglamentos, ordenanzas… Funciona como un edificio con pisos: unas normas mandan sobre otras.",
+    "ejemplo": "Una ordenanza del Ayuntamiento de Zaragoza forma parte del ordenamiento jurídico, en un piso bajo.",
+    "ref": "Art. 9.1 CE"
+  },
+  {
+    "id": "jerarquia-normativa",
+    "termino": "Jerarquía normativa",
+    "def": "Las normas tienen niveles. Una norma de nivel inferior no puede contradecir a una de nivel superior. De arriba abajo: Constitución → leyes (y normas con rango de ley) → reglamentos.",
+    "ejemplo": "Un reglamento que diga lo contrario que una ley no vale: gana la ley.",
+    "trampa": "Ley orgánica y ley ordinaria están al mismo nivel. Se diferencian por la materia que regulan y por la mayoría necesaria, no por estar una «encima» de la otra.",
+    "ref": "Art. 9.3 CE"
+  },
+  {
+    "id": "ley-organica",
+    "termino": "Ley orgánica",
+    "def": "Ley especial para temas muy delicados: derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás que la Constitución diga. Para aprobarla, modificarla o derogarla hace falta mayoría absoluta del Congreso en una votación final sobre el conjunto.",
+    "ejemplo": "La ley que regula las elecciones (régimen electoral general) o un Estatuto de Autonomía.",
+    "trampa": "Mayoría absoluta del Congreso (no de las dos Cámaras) y en votación final sobre el conjunto del proyecto.",
+    "ref": "Art. 81 CE"
+  },
+  {
+    "id": "ley-ordinaria",
+    "termino": "Ley ordinaria",
+    "def": "La ley «normal»: sirve para todo lo que no está reservado a una ley orgánica. Se aprueba con mayoría simple.",
+    "ejemplo": "La Ley de Presupuestos Generales del Estado es una ley ordinaria.",
+    "ref": "Art. 81 CE (por exclusión)"
+  },
+  {
+    "id": "cortes-generales",
+    "termino": "Cortes Generales",
+    "def": "El Parlamento de España. Está formado por dos Cámaras: el Congreso de los Diputados y el Senado. Representan al pueblo español, hacen las leyes, aprueban los Presupuestos y controlan al Gobierno. Son inviolables.",
+    "ejemplo": "Cuando oyes «el Parlamento aprueba una ley», se refiere a las Cortes Generales.",
+    "trampa": "Las Cortes no dirigen la Administración: eso lo hace el Gobierno (art. 97).",
+    "ref": "Art. 66 CE"
+  },
+  {
+    "id": "bicameral",
+    "termino": "Sistema bicameral",
+    "def": "Un Parlamento con dos Cámaras. En España: Congreso (la Cámara con más peso) y Senado (Cámara de representación territorial).",
+    "ref": "Arts. 66 y 69 CE"
+  },
+  {
+    "id": "congreso",
+    "termino": "Congreso de los Diputados",
+    "def": "Cámara baja de las Cortes. Tiene entre 300 y 400 diputados, elegidos por sufragio universal, libre, igual, directo y secreto, por 4 años. Hoy son 350 por la ley electoral.",
+    "ref": "Art. 68 CE"
+  },
+  {
+    "id": "senado",
+    "termino": "Senado",
+    "def": "Cámara alta de las Cortes. Es la «Cámara de representación territorial»: representa a las provincias y a las Comunidades Autónomas. Se elige por 4 años.",
+    "ref": "Art. 69 CE"
+  },
+  {
+    "id": "poderes-estado",
+    "termino": "Separación de poderes",
+    "def": "El poder del Estado se reparte en tres para que nadie lo tenga todo: legislativo (hace las leyes: Cortes Generales), ejecutivo (las aplica y gobierna: Gobierno y Administración) y judicial (resuelve conflictos: Jueces y Tribunales).",
+    "ejemplo": "Las Cortes aprueban una ley, el Gobierno la ejecuta y un juez decide si alguien la incumplió.",
+    "ref": "Arts. 66, 97 y 117 CE"
+  },
+  {
+    "id": "decreto-ley",
+    "termino": "Decreto-ley",
+    "def": "Norma con rango de ley que dicta el Gobierno (no las Cortes) cuando hay una situación de extraordinaria y urgente necesidad. Es provisional: el Congreso debe convalidarlo o derogarlo en los 30 días siguientes a su promulgación. No puede afectar a las instituciones básicas del Estado, a los derechos y deberes del Título I, al régimen de las CCAA ni al Derecho electoral general.",
+    "ejemplo": "Ayudas urgentes tras una catástrofe natural.",
+    "trampa": "No lo confundas con el decreto legislativo: el decreto-ley nace por urgencia; el decreto legislativo nace porque las Cortes delegan.",
+    "ref": "Art. 86 CE"
+  },
+  {
+    "id": "decreto-legislativo",
+    "termino": "Decreto legislativo",
+    "def": "Norma con rango de ley que dicta el Gobierno porque las Cortes se lo han encargado (delegación legislativa). La delegación debe ser expresa, para una materia concreta y con plazo, y se agota cuando el Gobierno la usa. Puede servir para desarrollar una ley de bases (texto articulado) o para refundir varias leyes en una.",
+    "ejemplo": "El «Texto refundido» de una ley: el Gobierno junta varias leyes en una sola por encargo de las Cortes.",
+    "ref": "Arts. 82 a 85 CE"
+  },
+  {
+    "id": "reglamento",
+    "termino": "Reglamento",
+    "def": "Norma que dicta la Administración (Gobierno, ministerios, ayuntamientos…) y que está por debajo de la ley. Sirve para desarrollar y aplicar las leyes. No puede contradecirlas.",
+    "ejemplo": "Un Real Decreto que explica cómo se aplica una ley; una ordenanza municipal.",
+    "ref": "Art. 97 CE"
+  },
+  {
+    "id": "potestad-reglamentaria",
+    "termino": "Potestad reglamentaria",
+    "def": "El poder de dictar reglamentos. La Constitución se la da al Gobierno, y los tribunales pueden controlarla.",
+    "ref": "Arts. 97 y 106.1 CE"
+  },
+  {
+    "id": "proyecto-proposicion",
+    "termino": "Proyecto de ley / Proposición de ley",
+    "def": "Son los «borradores» de una ley. Proyecto de ley: lo presenta el Gobierno. Proposición de ley: la presentan el Congreso, el Senado, las Asambleas de las CCAA o la iniciativa popular (mínimo 500.000 firmas).",
+    "trampa": "Proyecto = Gobierno. Proposición = Cámaras, CCAA o ciudadanos.",
+    "ref": "Arts. 87 y 88 CE"
+  },
+  {
+    "id": "mayoria-simple",
+    "termino": "Mayoría simple",
+    "def": "Se consigue cuando hay más votos a favor que en contra. Las abstenciones y los votos en blanco no cuentan para ganar.",
+    "ejemplo": "Votan 200: 90 a favor, 80 en contra, 30 abstenciones → aprobado por mayoría simple.",
+    "ref": "Concepto general"
+  },
+  {
+    "id": "mayoria-absoluta",
+    "termino": "Mayoría absoluta",
+    "def": "Más de la mitad de todos los miembros de la Cámara (hayan votado o no). Hay que superar la mitad, no basta con llegar a ella.",
+    "ejemplo": "El Congreso tiene 350 diputados: la mayoría absoluta son 176 votos a favor (175 es justo la mitad y no basta).",
+    "trampa": "Se calcula sobre el total de miembros, no sobre los presentes.",
+    "ref": "Ej.: art. 81.2 CE"
+  },
+  {
+    "id": "mayorias-reforzadas",
+    "termino": "Mayorías reforzadas (tres quintos y dos tercios)",
+    "def": "Mayorías más exigentes que la absoluta. Tres quintos = 3/5 (60 %). Dos tercios = 2/3 (66,6 %). Se usan para decisiones muy importantes, como reformar la Constitución.",
+    "ejemplo": "En el Congreso (350): 3/5 = 210 votos; 2/3 = 234 votos.",
+    "ref": "Arts. 167 y 168 CE"
+  },
+  {
+    "id": "soberania",
+    "termino": "Soberanía nacional",
+    "def": "El poder supremo del que salen todos los demás poderes. En España reside en el pueblo español: son los ciudadanos, al votar, quienes dan poder a las instituciones.",
+    "trampa": "Las Cortes representan al pueblo, pero la soberanía reside en el pueblo, no en las Cortes.",
+    "ref": "Art. 1.2 CE"
+  },
+  {
+    "id": "estado-social-democratico-derecho",
+    "termino": "Estado social y democrático de Derecho",
+    "def": "Tres ideas juntas. De Derecho: todos, incluido el poder, estamos sometidos a la ley. Democrático: el poder viene del pueblo. Social: el Estado debe ayudar a que la igualdad y la libertad sean reales.",
+    "ref": "Art. 1.1 CE"
+  },
+  {
+    "id": "pluralismo-politico",
+    "termino": "Pluralismo político",
+    "def": "Que puedan existir y convivir distintas ideas y partidos políticos. Es uno de los cuatro valores superiores.",
+    "ref": "Arts. 1.1 y 6 CE"
+  },
+  {
+    "id": "monarquia-parlamentaria",
+    "termino": "Monarquía parlamentaria",
+    "def": "El Jefe del Estado es el Rey, pero no gobierna: sus actos deben ser refrendados y el poder real lo ejercen el Parlamento y el Gobierno, que salen de las elecciones.",
+    "ref": "Arts. 1.3 y 56 CE"
+  },
+  {
+    "id": "sufragio",
+    "termino": "Sufragio universal, libre, igual, directo y secreto",
+    "def": "Cómo se vota. Universal: pueden votar todos los que cumplen los requisitos. Libre: sin presiones. Igual: un voto vale lo mismo. Directo: votas tú, sin intermediarios. Secreto: nadie sabe qué votaste.",
+    "ref": "Arts. 68, 69 y 140 CE"
+  },
+  {
+    "id": "referendum",
+    "termino": "Referéndum",
+    "def": "Votación en la que todos los ciudadanos deciden directamente sobre una cuestión concreta (se vota «sí» o «no»).",
+    "ejemplo": "La propia Constitución se ratificó por referéndum el 6 de diciembre de 1978.",
+    "ref": "Art. 92 CE"
+  },
+  {
+    "id": "sancion-promulgacion",
+    "termino": "Sanción, promulgación y publicación",
+    "def": "Los tres pasos finales de una ley ya votada. Sanción: el Rey la firma dándole su conformidad (plazo: 15 días). Promulgación: se declara oficialmente que la ley existe y se ordena publicarla. Publicación: aparece en el BOE, y a partir de ahí puede entrar en vigor.",
+    "trampa": "Sancionar no es aprobar: la ley la aprueban las Cortes; el Rey la sanciona.",
+    "ref": "Art. 91 CE"
+  },
+  {
+    "id": "refrendo",
+    "termino": "Refrendo",
+    "def": "Firma de otra autoridad (Presidente del Gobierno o ministros) que acompaña a los actos del Rey. Sin refrendo el acto no vale, y los responsables son quienes refrendan, no el Rey.",
+    "ref": "Arts. 56.3 y 64 CE"
+  },
+  {
+    "id": "boe",
+    "termino": "BOE",
+    "def": "Boletín Oficial del Estado: el diario oficial donde se publican las leyes y normas del Estado. Una norma no publicada no puede exigirse.",
+    "ejemplo": "La Constitución se publicó en el BOE el 29 de diciembre de 1978 y entró en vigor ese mismo día.",
+    "ref": "Art. 9.3 CE (publicidad de las normas)"
+  },
+  {
+    "id": "principio-legalidad",
+    "termino": "Principio de legalidad",
+    "def": "Los poderes públicos solo pueden actuar si una ley les da permiso. Un particular puede hacer todo lo que la ley no prohíba; la Administración, solo lo que la ley le permite.",
+    "ejemplo": "Un ayuntamiento no puede cobrar un impuesto que ninguna ley prevé.",
+    "ref": "Art. 9.3 y 103.1 CE"
+  },
+  {
+    "id": "irretroactividad",
+    "termino": "Irretroactividad",
+    "def": "Una norma no se aplica a hechos ocurridos antes de que existiera. La Constitución lo garantiza para las disposiciones sancionadoras no favorables y las restrictivas de derechos individuales.",
+    "ejemplo": "No te pueden multar por una conducta que cuando la hiciste no estaba prohibida.",
+    "trampa": "No es para todas las normas: solo las sancionadoras no favorables o restrictivas de derechos individuales.",
+    "ref": "Art. 9.3 CE"
+  },
+  {
+    "id": "seguridad-juridica",
+    "termino": "Seguridad jurídica",
+    "def": "Poder saber con claridad y de antemano qué normas se aplican y cuáles son las consecuencias de actuar de una manera u otra.",
+    "ref": "Art. 9.3 CE"
+  },
+  {
+    "id": "interdiccion-arbitrariedad",
+    "termino": "Interdicción de la arbitrariedad",
+    "def": "«Interdicción» significa prohibición. Los poderes públicos no pueden actuar por capricho: deben dar razones y basarse en la ley.",
+    "ref": "Art. 9.3 CE"
+  },
+  {
+    "id": "publicidad-normas",
+    "termino": "Publicidad de las normas",
+    "def": "Las normas deben publicarse oficialmente para que todos puedan conocerlas.",
+    "ref": "Art. 9.3 CE"
+  },
+  {
+    "id": "derechos-fundamentales",
+    "termino": "Derechos fundamentales",
+    "def": "Los derechos más protegidos de la Constitución (vida, libertad, expresión, reunión, educación…). Para desarrollarlos hace falta una ley orgánica.",
+    "ref": "Arts. 14 a 29 y 81 CE"
+  },
+  {
+    "id": "administracion-publica",
+    "termino": "Administración Pública",
+    "def": "La organización que presta servicios a los ciudadanos y aplica las leyes: ministerios, comunidades autónomas, ayuntamientos, etc. Sirve con objetividad a los intereses generales y está sometida a la ley y al Derecho.",
+    "trampa": "No es lo mismo Gobierno (órgano político que dirige) que Administración (la estructura que ejecuta).",
+    "ref": "Arts. 97 y 103 CE"
+  },
+  {
+    "id": "interes-general",
+    "termino": "Interés general",
+    "def": "El bien de toda la sociedad, por encima del beneficio de una persona o grupo concreto. Es el objetivo al que debe servir la Administración.",
+    "ref": "Art. 103.1 CE"
+  },
+  {
+    "id": "eficacia",
+    "termino": "Eficacia (principio)",
+    "def": "La Administración debe conseguir los resultados que se propone, sin perder el tiempo.",
+    "ref": "Art. 103.1 CE"
+  },
+  {
+    "id": "jerarquia-administrativa",
+    "termino": "Jerarquía (principio)",
+    "def": "Dentro de la Administración, los órganos superiores dirigen y controlan a los inferiores, que deben seguir sus instrucciones.",
+    "ejemplo": "Un jefe de servicio da instrucciones a los jefes de sección.",
+    "ref": "Art. 103.1 CE"
+  },
+  {
+    "id": "descentralizacion",
+    "termino": "Descentralización",
+    "def": "Una Administración da competencias a otra persona jurídica distinta e independiente. Sale de «una casa» y pasa a «otra casa».",
+    "ejemplo": "El Estado transfiere competencias a las Comunidades Autónomas.",
+    "trampa": "Descentralización = hacia otra entidad. Desconcentración = hacia otro órgano de la misma entidad.",
+    "ref": "Art. 103.1 CE"
+  },
+  {
+    "id": "desconcentracion",
+    "termino": "Desconcentración",
+    "def": "Una competencia pasa de un órgano superior a un órgano inferior de la misma Administración. Sigue dentro de «la misma casa», pero se reparte entre más habitaciones.",
+    "ejemplo": "Una competencia que antes tenía el Ministro pasa a una Dirección General del mismo Ministerio.",
+    "trampa": "Si cambia de persona jurídica es descentralización; si solo cambia de órgano dentro de la misma, desconcentración.",
+    "ref": "Art. 103.1 CE"
+  },
+  {
+    "id": "coordinacion",
+    "termino": "Coordinación (principio)",
+    "def": "Que los distintos órganos y Administraciones actúen de forma armónica, sin duplicar tareas ni contradecirse.",
+    "ref": "Art. 103.1 CE"
+  },
+  {
+    "id": "avocacion",
+    "termino": "Avocación",
+    "def": "El órgano superior se queda con una competencia que le correspondía a un órgano inferior. Es lo contrario de delegar.",
+    "ref": "Concepto de Derecho Administrativo"
+  },
+  {
+    "id": "personalidad-juridica",
+    "termino": "Personalidad jurídica",
+    "def": "Capacidad de ser titular de derechos y obligaciones por uno mismo: firmar contratos, tener patrimonio, ir a juicio. Las personas la tienen, y también entidades como los municipios o las provincias.",
+    "ejemplo": "El Ayuntamiento puede ser propietario de un edificio porque tiene personalidad jurídica.",
+    "ref": "Arts. 140 y 141 CE"
+  },
+  {
+    "id": "autonomia",
+    "termino": "Autonomía",
+    "def": "Capacidad de gestionar los propios asuntos y decidir sobre ellos, dentro de los límites de la ley.",
+    "trampa": "Autonomía no es soberanía: los municipios y las CCAA gestionan sus intereses, pero siempre dentro de la Constitución y la unidad de España.",
+    "ref": "Arts. 2 y 137 CE"
+  },
+  {
+    "id": "competencia",
+    "termino": "Competencia",
+    "def": "Poder y responsabilidad que la ley da a un órgano o a una entidad para actuar en una materia concreta. Puede ser exclusiva (solo la ejerce uno) o compartida con otros niveles.",
+    "ejemplo": "Defensa es competencia exclusiva del Estado (art. 149).",
+    "ref": "Arts. 148 y 149 CE"
+  },
+  {
+    "id": "municipio",
+    "termino": "Municipio",
+    "def": "La entidad territorial más cercana al ciudadano: el pueblo o la ciudad. Su gobierno y administración corresponde al Ayuntamiento. La Constitución garantiza su autonomía y le da personalidad jurídica plena.",
+    "ejemplo": "Zaragoza es un municipio.",
+    "ref": "Art. 140 CE"
+  },
+  {
+    "id": "ayuntamiento",
+    "termino": "Ayuntamiento",
+    "def": "El órgano de gobierno y administración del municipio. Lo integran el Alcalde y los Concejales.",
+    "ref": "Art. 140 CE"
+  },
+  {
+    "id": "concejo-abierto",
+    "termino": "Concejo abierto",
+    "def": "Forma de gobierno de algunos municipios muy pequeños, en la que los vecinos se reúnen en asamblea en lugar de elegir concejales. La ley regula cuándo procede.",
+    "ref": "Art. 140 CE"
+  },
+  {
+    "id": "provincia",
+    "termino": "Provincia",
+    "def": "Entidad local formada por la agrupación de municipios. Tiene personalidad jurídica propia y es la división territorial para el cumplimiento de las actividades del Estado. Su gobierno corresponde a las Diputaciones u otras Corporaciones representativas.",
+    "ejemplo": "Zaragoza capital es un municipio dentro de la provincia de Zaragoza.",
+    "trampa": "Para cambiar los límites de una provincia hace falta una ley orgánica aprobada por las Cortes Generales.",
+    "ref": "Art. 141 CE"
+  },
+  {
+    "id": "diputacion",
+    "termino": "Diputación provincial",
+    "def": "Órgano de gobierno y administración autónoma de la provincia. Presta apoyo a los municipios (sobre todo los pequeños).",
+    "ref": "Art. 141.2 CE"
+  },
+  {
+    "id": "cabildo",
+    "termino": "Cabildo / Consejo insular",
+    "def": "En los archipiélagos (Canarias y Baleares), cada isla tiene además su propia administración: Cabildos en Canarias y Consejos en Baleares.",
+    "ref": "Art. 141.4 CE"
+  },
+  {
+    "id": "comunidad-autonoma",
+    "termino": "Comunidad Autónoma",
+    "def": "Entidad territorial formada por una o varias provincias que se autogobierna, con parlamento, gobierno y competencias propias, según su Estatuto. Aragón es una.",
+    "ref": "Arts. 137 y 143 CE"
+  },
+  {
+    "id": "estatuto-autonomia",
+    "termino": "Estatuto de Autonomía",
+    "def": "La «mini-constitución» de cada Comunidad Autónoma. Es su norma institucional básica: fija su nombre, territorio, instituciones y competencias. Se aprueba y reforma por ley orgánica.",
+    "ejemplo": "El Estatuto de Autonomía de Aragón (Tema 3).",
+    "ref": "Art. 147 CE"
+  },
+  {
+    "id": "tribunal-constitucional",
+    "termino": "Tribunal Constitucional",
+    "def": "El tribunal que vigila que las leyes respeten la Constitución. Puede anular leyes inconstitucionales y resuelve el recurso de amparo y los conflictos de competencias.",
+    "ref": "Arts. 159 y 161 CE"
+  },
+  {
+    "id": "consejo-estado",
+    "termino": "Consejo de Estado",
+    "def": "El supremo órgano consultivo del Gobierno: asesora, no manda. Se regula por ley orgánica.",
+    "trampa": "No confundir: Tribunal de Cuentas = fiscaliza las cuentas; Defensor del Pueblo = defiende derechos; Consejo de Estado = asesora al Gobierno.",
+    "ref": "Art. 107 CE"
+  },
+  {
+    "id": "merito-capacidad",
+    "termino": "Mérito y capacidad",
+    "def": "Los principios para acceder a la función pública: se entra por lo que sabes y lo que vales, demostrado en un proceso selectivo (como esta oposición), no por enchufe.",
+    "ref": "Art. 103.3 CE"
+  },
+  {
+    "id": "fuerza-mayor",
+    "termino": "Fuerza mayor",
+    "def": "Un suceso externo, imprevisible e inevitable (un terremoto, por ejemplo). Si el daño lo causa la fuerza mayor, la Administración no tiene que indemnizar.",
+    "trampa": "No lo confundas con «caso fortuito»: la Constitución solo exceptúa la fuerza mayor.",
+    "ref": "Art. 106.2 CE"
+  },
+  {
+    "id": "disposiciones-finales",
+    "termino": "Disposiciones adicionales, transitorias, derogatoria y final",
+    "def": "Son las «cláusulas de cierre» de una norma. Adicionales: casos especiales. Transitorias: regulan el paso de lo viejo a lo nuevo. Derogatoria: anula normas anteriores. Final: suele decir cuándo entra en vigor.",
+    "ejemplo": "La disposición final de la Constitución dice que entra en vigor el día de su publicación en el BOE.",
+    "ref": "Estructura de la CE"
+  },
+  {
+    "id": "hacienda-local",
+    "termino": "Hacienda local",
+    "def": "El conjunto de ingresos (y gastos) de un ayuntamiento, diputación u otra entidad local. Dicho fácil: la «caja» con la que pagan sus servicios.",
+    "ref": "Art. 2 TRLRHL"
+  },
+  {
+    "id": "tributo",
+    "termino": "Tributo",
+    "def": "Pago obligatorio que la ley exige para financiar lo público. Los locales son tres: tasas, contribuciones especiales e impuestos.",
+    "ref": "Art. 2.1.b TRLRHL",
+    "trampa": "Los precios públicos no son tributos."
+  },
+  {
+    "id": "tasa",
+    "termino": "Tasa",
+    "def": "Pago por usar el dominio público o recibir un servicio público que te afecta de forma particular y que no es voluntario o no lo presta el sector privado.",
+    "ref": "Art. 20 TRLRHL",
+    "trampa": "Basta una de las dos circunstancias."
+  },
+  {
+    "id": "precio-publico",
+    "termino": "Precio público",
+    "def": "Pago por un servicio local que no cumple las condiciones para ser tasa. Debe cubrir como mínimo el coste (con excepciones sociales).",
+    "ref": "Arts. 41-47 TRLRHL"
+  },
+  {
+    "id": "contribucion-especial",
+    "termino": "Contribución especial",
+    "def": "Tributo que pagan quienes se benefician de forma especial de una obra o servicio público local (por ejemplo, vecinos de una calle recién urbanizada).",
+    "ref": "Arts. 28-37 TRLRHL"
+  },
+  {
+    "id": "impuesto",
+    "termino": "Impuesto",
+    "def": "Tributo que se paga sin recibir nada a cambio de forma directa; grava la riqueza (propiedad, actividad, vehículo…).",
+    "ref": "Arts. 59 y ss. TRLRHL"
+  },
+  {
+    "id": "tributo-directo-indirecto",
+    "termino": "Tributo directo e indirecto",
+    "def": "Directo: grava una manifestación estable de riqueza (tener un inmueble). Indirecto: grava un hecho puntual, como construir una obra (ICIO).",
+    "ref": "Concepto"
+  },
+  {
+    "id": "hecho-imponible",
+    "termino": "Hecho imponible",
+    "def": "La situación que, cuando ocurre, hace nacer la obligación de pagar el tributo.",
+    "ref": "Ej.: art. 100 TRLRHL"
+  },
+  {
+    "id": "sujeto-pasivo",
+    "termino": "Sujeto pasivo",
+    "def": "La persona que debe pagar el tributo (contribuyente).",
+    "ref": "Ej.: art. 30 TRLRHL"
+  },
+  {
+    "id": "base-imponible",
+    "termino": "Base imponible",
+    "def": "La cantidad sobre la que se calcula el tributo (por ejemplo, el valor del inmueble o el coste de una obra).",
+    "ref": "Ej.: art. 31 TRLRHL"
+  },
+  {
+    "id": "tipo-gravamen",
+    "termino": "Tipo de gravamen",
+    "def": "El porcentaje que se aplica a la base imponible para calcular la cuota.",
+    "ref": "Ej.: art. 72 TRLRHL"
+  },
+  {
+    "id": "devengo",
+    "termino": "Devengo",
+    "def": "El momento en que nace la obligación de pagar el tributo.",
+    "ref": "Ej.: art. 33 TRLRHL"
+  },
+  {
+    "id": "ordenanza-fiscal",
+    "termino": "Ordenanza fiscal",
+    "def": "Norma municipal que regula cada tributo local: tipos, cuotas, exenciones…",
+    "ref": "Art. 15 TRLRHL"
+  }
+]

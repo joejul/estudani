@@ -1,0 +1,832 @@
+{
+ "n": 20,
+ "titulo": "La Ley de Urbanismo de Aragón",
+ "fuente": "Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón (BOA-d-2014-90410), texto consolidado accesible por la API del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Competencias y régimen urbanístico del suelo",
+   "subtitulo": "Arts. 8 a 18",
+   "clave": [
+    "Municipios: actividad urbanística pública (8)",
+    "Clasificación (11)",
+    "Suelo urbano consolidado y no consolidado (12-13)",
+    "Solar (14)",
+    "Suelo urbanizable delimitado y no delimitado (15)",
+    "Suelo no urbanizable genérico y especial (16-18)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El **urbanismo** es la actividad pública que ordena el uso del suelo. **Con carácter general, corresponde a los municipios la actividad urbanística pública** (art. 8): ejercen las competencias que les atribuye la ley y las que no estén expresamente atribuidas a otras Administraciones. Los municipios sin medios pueden pedir **asistencia de la Provincia o Comarca**."
+    ],
+    [
+     "p",
+     "El **régimen del suelo** lo fijan la **legislación estatal de suelo**, esta ley y, por remisión, el **planeamiento**. La **edificabilidad prevista** por el planeamiento **no forma parte por sí misma del derecho de propiedad**: solo se patrimonializa con su realización efectiva (art. 10)."
+    ],
+    [
+     "h",
+     "Clasificación del suelo (art. 11): corresponde al plan general"
+    ],
+    [
+     "tabla",
+     [
+      "Clase",
+      "Categorías",
+      "Qué es"
+     ],
+     [
+      [
+       "**Suelo urbano** (12-13)",
+       "**Consolidado** · **No consolidado**",
+       "Terrenos con **servicios urbanísticos suficientes** (vías, agua, saneamiento, energía, telecomunicaciones, residuos). **No consolidado:** soporta **actuaciones urbanísticas integradas**; lo no definido como no consolidado es consolidado (13.3)."
+      ],
+      [
+       "**Suelo urbanizable** (15)",
+       "**Delimitado** · **No delimitado**",
+       "Terrenos clasificados por prever su **posible transformación** mediante la dotación de servicios."
+      ],
+      [
+       "**Suelo no urbanizable** (16-18)",
+       "**Genérico** · **Especial**",
+       "**Especial:** preservado de la transformación por legislación de **protección** (dominio público, medio ambiente, patrimonio cultural…). **Genérico:** clase y categoría **residual** (17.2)."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Solar (14):** superficie de **suelo urbano apta para uso inmediato**, **urbanizada** conforme al planeamiento (o con los servicios básicos del art. 12.a, alumbrado público y **vía pavimentada**), etc."
+     ]
+    ],
+    [
+     "trampa",
+     "El suelo **no urbanizable genérico** es el **residual**: lo que no es urbano, urbanizable ni especial. El **no consolidado** exige **actuaciones integradas**. La **clasificación** la hace el **plan general**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué clases de suelo distingue el art. 11?",
+     "Urbano (consolidado o no), urbanizable (delimitado o no) y no urbanizable (especial o genérico)."
+    ],
+    [
+     "¿Qué suelo es el residual?",
+     "El no urbanizable genérico (art. 17.2)."
+    ]
+   ],
+   "esquema": [
+    "Municipios: actividad urbanística pública (8)",
+    "Urbano: consolidado · no consolidado · Urbanizable: delimitado · no delimitado · No urbanizable: genérico (residual) · especial",
+    "Clasifica el plan general (11) · solar = suelo urbano urbanizado apto para uso inmediato (14)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Planeamiento urbanístico",
+   "subtitulo": "Arts. 38 a 69",
+   "clave": [
+    "Plan general (38-50)",
+    "Planes parciales (51-60)",
+    "Planes especiales (61-66)",
+    "Estudios de detalle (67-68)",
+    "Aprobación definitiva (49)"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "Instrumento",
+      "Qué hace"
+     ],
+     [
+      [
+       "**Plan general de ordenación urbana** (38)",
+       "Instrumento de **ordenación integral** de uno o varios términos municipales completos: **clasifica el suelo** y define los elementos fundamentales de la **estructura general**. Establece la **ordenación estructural** (40)."
+      ],
+      [
+       "**Planes parciales** (51)",
+       "Desarrollan el plan general con la **ordenación pormenorizada** de **sectores enteros** en **suelo urbano no consolidado** y en **suelo urbanizable**, si aún no la tienen."
+      ],
+      [
+       "**Planes especiales** (61-66)",
+       "Pueden ser **independientes** o desarrollar directrices territoriales o el plan general. Los de **reforma interior** (65) solo en **suelo urbano no consolidado**."
+      ],
+      [
+       "**Estudios de detalle** (67)",
+       "Completan o **adaptan determinaciones** del plan general en suelo urbano, de planes parciales y especiales."
+      ],
+      [
+       "**Ordenanzas de edificación y urbanización** (69)",
+       "Regulan aspectos de la edificación y la urbanización."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Procedimiento del plan general (48-49):** lo formula el **Ayuntamiento**, empezando por un **avance** con criterios, objetivos y soluciones; se somete a **información pública**. La **aprobación definitiva** corresponde al **Consejo Provincial de Urbanismo**.",
+      "**Efectos (79-80):** los planes obligan por igual a **particulares y Administración** (79) y son **inmediatamente ejecutivos** tras su publicación (80).",
+      "**Edificios fuera de ordenación (82)** son los que quedan en contradicción con el nuevo planeamiento."
+     ]
+    ],
+    [
+     "trampa",
+     "**Plan parcial → ordenación pormenorizada de sectores** (urbano no consolidado y urbanizable). **Plan general → ordenación estructural y clasificación.** **Estudio de detalle → completar o adaptar**, no clasificar."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué desarrolla el plan parcial?",
+     "La ordenación pormenorizada de sectores enteros en suelo urbano no consolidado y urbanizable (art. 51)."
+    ],
+    [
+     "¿Quién aprueba definitivamente el plan general?",
+     "El Consejo Provincial de Urbanismo (art. 49)."
+    ]
+   ],
+   "esquema": [
+    "Plan general: clasifica y ordena la estructura (38-40) · aprueba definitivamente el Consejo Provincial de Urbanismo (49)",
+    "Desarrollo: plan parcial (sectores) · plan especial · estudio de detalle (completa o adapta)",
+    "Los planes obligan a todos (79) y son ejecutivos (80)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Gestión urbanística",
+   "subtitulo": "Arts. 118 a 182",
+   "clave": [
+    "Actuaciones aisladas e integradas (118, 131, 134)",
+    "Reparcelación (140)",
+    "Gestión directa: expropiación y cooperación (149-150)",
+    "Gestión indirecta: compensación (151) y urbanizador (159)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La **gestión urbanística** es el conjunto de procedimientos para **distribuir equitativamente beneficios y cargas** y **transformar el uso del suelo** en ejecución del planeamiento (art. 118.1)."
+    ],
+    [
+     "tabla",
+     [
+      "Tipo de actuación",
+      "Qué es"
+     ],
+     [
+      [
+       "**Actuaciones aisladas** (131)",
+       "Completar la urbanización de **parcelas de suelo urbano consolidado** para que sean solar, ejecutar obras aisladas de remodelación y obtener terrenos para ello."
+      ],
+      [
+       "**Actuaciones integradas** (118.2.b, 134)",
+       "Se ejecutan con una **unidad de ejecución** en **suelo urbano no consolidado** o **urbanizable delimitado**; pueden ser de **nueva urbanización**, de **rehabilitación urbana** o de intervención en suelos consolidados. Se desarrollan mediante gestión **directa o indirecta**."
+      ],
+      [
+       "**Obtención de sistemas generales**",
+       "Actuaciones específicas para obtener esos terrenos."
+      ]
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Sistema",
+      "Quién ejecuta",
+      "Claves"
+     ],
+     [
+      [
+       "**Directa por expropiación** (149)",
+       "La **Administración**",
+       "Por **unidades de ejecución completas**; comprende todos los bienes y derechos."
+      ],
+      [
+       "**Directa por cooperación** (150)",
+       "La **Administración** ejecuta las obras",
+       "Los **propietarios aportan el suelo de cesión obligatoria**."
+      ],
+      [
+       "**Indirecta por compensación** (151)",
+       "Los **propietarios**, constituidos en **junta de compensación**",
+       "Aportan los terrenos de cesión mediante **reparcelación** y ejecutan **a su costa** la urbanización."
+      ],
+      [
+       "**Indirecta por urbanizador** (159)",
+       "El **urbanizador** adjudicatario de un **programa de urbanización**",
+       "Se tramita con alternativa técnica y proposición jurídico-económica."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Reparcelación (140):** **agrupación de fincas** de la unidad de ejecución para su **nueva división** ajustada al planeamiento, con adjudicación de parcelas a los interesados **en proporción a sus derechos** y de los terrenos de cesión a la Administración."
+     ]
+    ],
+    [
+     "trampa",
+     "**Cooperación**: los propietarios **ceden suelo** y la **Administración urbaniza**. **Compensación**: los propietarios **urbanizan a su costa**. **Expropiación**: la Administración se queda con el suelo."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué diferencia hay entre cooperación y compensación?",
+     "Cooperación: la Administración urbaniza con el suelo que ceden los propietarios. Compensación: los propietarios, en junta de compensación, urbanizan a su costa."
+    ],
+    [
+     "¿Qué es la reparcelación?",
+     "La agrupación de fincas de la unidad de ejecución para nueva división conforme al planeamiento, con adjudicación proporcional a los derechos."
+    ]
+   ],
+   "esquema": [
+    "Aisladas (suelo urbano consolidado) · integradas (unidad de ejecución)",
+    "Directa: expropiación · cooperación · Indirecta: compensación (junta) · urbanizador (programa)",
+    "Reparcelación: agrupar y redividir las fincas (140)"
+   ]
+  },
+  {
+   "id": "e3",
+   "titulo": "Edificación, uso del suelo y disciplina urbanística",
+   "subtitulo": "Arts. 225 a 285",
+   "clave": [
+    "Licencia, declaración responsable y comunicación previa (225-228)",
+    "Efectos (229)",
+    "Silencio (239)",
+    "Deber de conservación (254)",
+    "Ruina inminente (262)",
+    "Infracciones y sanciones (277-285)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los actos de **transformación, construcción, edificación y uso del suelo y subsuelo** requieren **licencia, declaración responsable o comunicación previa** (art. 225)."
+    ],
+    [
+     "tabla",
+     [
+      "Título",
+      "Qué es",
+      "Efectos"
+     ],
+     [
+      [
+       "**Licencia urbanística** (226)",
+       "Acto por el que el **Alcalde autoriza** el acto, expresando el objeto, condiciones y plazos.",
+       "Legitima **desde la fecha en que el Alcalde la adopta formalmente** (229.1)."
+      ],
+      [
+       "**Declaración responsable** (227)",
+       "Documento en que se manifiesta **bajo responsabilidad** al Alcalde que se cumplen los requisitos para ciertos actos y se tiene la documentación.",
+       "Legitima **desde el día de su presentación** en el registro general (229.2)."
+      ],
+      [
+       "**Comunicación previa** (228)",
+       "Se pone en conocimiento del Alcalde que se reúnen los requisitos para actos **no sujetos ni a licencia ni a declaración responsable**.",
+       "Legitima **desde el día de su presentación** (229.2)."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Silencio (239):** en los supuestos sujetos a **licencia urbanística**, transcurrido el plazo sin resolución, el interesado puede entender **desestimada** su petición (silencio **negativo**), según la legislación básica estatal.",
+      "**Procedimiento (238):** el de la **normativa de régimen local** y las **ordenanzas municipales**; con **proyecto técnico** cuando lo exija la normativa de edificación.",
+      "**Conservación (254):** los propietarios mantienen sus edificaciones, terrenos y solares en **seguridad, salubridad, ornato público y calidad ambiental, cultural y turística**; los municipios lo concretan con **órdenes de ejecución**.",
+      "**Ruina inminente (262):** si amenaza derruirse con peligro, el **Alcalde** puede disponer **todas las medidas**: apuntalamiento, desalojo y demolición; el **municipio responde** de los daños."
+     ]
+    ],
+    [
+     "h",
+     "Infracciones y sanciones (arts. 277-285)"
+    ],
+    [
+     "tabla",
+     [
+      "Gravedad",
+      "Multa",
+      "Prescribe",
+      "Sanciona"
+     ],
+     [
+      [
+       "**Leves**",
+       "600 a 6.000 €",
+       "**1 año**",
+       "El **Alcalde**"
+      ],
+      [
+       "**Graves**",
+       "6.000,01 a 60.000 €",
+       "**4 años**",
+       "El **Ayuntamiento Pleno**"
+      ],
+      [
+       "**Muy graves**",
+       "60.000,01 a 300.000 €",
+       "**10 años**",
+       "El **Ayuntamiento Pleno**"
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **licencia** legitima desde que el **Alcalde la adopta**; la **declaración responsable y la comunicación previa**, desde que **se presentan**. El silencio en **licencias** es **negativo**. Prescripción de infracciones: **1, 4 y 10 años**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuándo legitima una declaración responsable?",
+     "Desde el día de su presentación en el registro general (art. 229.2)."
+    ],
+    [
+     "¿Qué efecto tiene el silencio en una licencia urbanística?",
+     "Desestimatorio (art. 239)."
+    ],
+    [
+     "¿Plazos de prescripción de las infracciones urbanísticas?",
+     "Leves 1 año, graves 4 años y muy graves 10 años (art. 284)."
+    ]
+   ],
+   "esquema": [
+    "Licencia (Alcalde, desde la adopción) · declaración responsable y comunicación previa (desde la presentación)",
+    "Silencio negativo en licencias (239) · conservación y órdenes de ejecución (254) · ruina inminente (262)",
+    "Infracciones: leves 600-6.000 € (1 año, Alcalde) · graves hasta 60.000 € (4 años, Pleno) · muy graves hasta 300.000 € (10 años, Pleno)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "Ley de Urbanismo de Aragón",
+  "ramas": [
+   {
+    "titulo": "Suelo",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Clases (11)",
+      "hijos": [
+       {
+        "titulo": "Urbano: consolidado · no consolidado"
+       },
+       {
+        "titulo": "Urbanizable: delimitado · no delimitado"
+       },
+       {
+        "titulo": "No urbanizable: genérico · especial"
+       }
+      ]
+     },
+     {
+      "titulo": "Conceptos",
+      "hijos": [
+       {
+        "titulo": "Solar: suelo urbano apto para uso inmediato"
+       },
+       {
+        "titulo": "Genérico: clase residual"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Planeamiento",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Plan general",
+      "hijos": [
+       {
+        "titulo": "Clasifica y fija la estructura"
+       },
+       {
+        "titulo": "Aprueba el Consejo Provincial de Urbanismo"
+       }
+      ]
+     },
+     {
+      "titulo": "Desarrollo",
+      "hijos": [
+       {
+        "titulo": "Plan parcial: sectores"
+       },
+       {
+        "titulo": "Plan especial · estudio de detalle"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Gestión",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Actuaciones",
+      "hijos": [
+       {
+        "titulo": "Aisladas · integradas"
+       },
+       {
+        "titulo": "Reparcelación"
+       }
+      ]
+     },
+     {
+      "titulo": "Sistemas",
+      "hijos": [
+       {
+        "titulo": "Directa: expropiación · cooperación"
+       },
+       {
+        "titulo": "Indirecta: compensación · urbanizador"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Disciplina",
+    "color": "#ffe066",
+    "hijos": [
+     {
+      "titulo": "Títulos",
+      "hijos": [
+       {
+        "titulo": "Licencia · declaración responsable · comunicación previa"
+       },
+       {
+        "titulo": "Silencio negativo en licencias"
+       }
+      ]
+     },
+     {
+      "titulo": "Sanciones",
+      "hijos": [
+       {
+        "titulo": "Leves 1 año · graves 4 · muy graves 10"
+       },
+       {
+        "titulo": "Alcalde: leves · Pleno: graves y muy graves"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 71.9 Estatuto de Aragón (urbanismo exclusivo)",
+    "a": "Esta ley",
+    "porque": "Aragón legisla en urbanismo por ser competencia exclusiva."
+   },
+   {
+    "de": "Art. 25.2.a LBRL (competencia propia)",
+    "a": "Art. 8 de la ley",
+    "porque": "El municipio ejerce la actividad urbanística pública."
+   },
+   {
+    "de": "Art. 100 TRLRHL (ICIO)",
+    "a": "Arts. 225-229 (licencias)",
+    "porque": "El ICIO grava obras que exigen licencia o declaración responsable."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Con carácter general, la actividad urbanística pública corresponde, según el art. 8 de la Ley de Urbanismo de Aragón:",
+   [
+    "A los municipios",
+    "Solo al Gobierno de Aragón",
+    "A las comarcas en exclusiva"
+   ],
+   0,
+   "Art. 8.1.",
+   "Art. 8 Ley de Urbanismo de Aragón",
+   "",
+   "h-suelo",
+   [
+    "municipios"
+   ]
+  ],
+  [
+   "Corresponde al plan general la clasificación de todo el suelo del término municipal en:",
+   [
+    "Suelo urbano, urbanizable y no urbanizable",
+    "Suelo público y privado",
+    "Suelo edificable y rústico"
+   ],
+   0,
+   "Art. 11.1.",
+   "Art. 11 Ley de Urbanismo de Aragón",
+   "",
+   "h-suelo",
+   [
+    "suelo urbano"
+   ]
+  ],
+  [
+   "Tendrán la condición de suelo urbano no consolidado los terrenos de suelo urbano que:",
+   [
+    "Soporten actuaciones urbanísticas integradas",
+    "Estén totalmente edificados",
+    "Carezcan de plan"
+   ],
+   0,
+   "Art. 13.2.",
+   "Art. 13.2 Ley de Urbanismo de Aragón",
+   "",
+   "h-suelo",
+   [
+    "actuaciones urbanísticas integradas"
+   ]
+  ],
+  [
+   "El suelo urbano que el plan general no defina como no consolidado tendrá la consideración de:",
+   [
+    "Suelo urbano consolidado",
+    "Suelo urbanizable",
+    "Suelo no urbanizable"
+   ],
+   0,
+   "Art. 13.3.",
+   "Art. 13.3 Ley de Urbanismo de Aragón",
+   "",
+   "h-suelo",
+   [
+    "consolidado"
+   ]
+  ],
+  [
+   "El suelo no urbanizable genérico es:",
+   [
+    "La clase y categoría residual",
+    "El preservado por protección ambiental",
+    "El destinado a sistemas generales"
+   ],
+   0,
+   "Art. 17.2.",
+   "Art. 17.2 Ley de Urbanismo de Aragón",
+   "Genérico frente a especial",
+   "h-suelo",
+   [
+    "residual"
+   ]
+  ],
+  [
+   "Tendrán la consideración de suelo no urbanizable especial, en todo caso, los terrenos:",
+   [
+    "Preservados de su transformación urbanística por legislación de protección del dominio público, medioambiental o de patrimonio cultural",
+    "Que no tengan uso agrario",
+    "Situados fuera de los núcleos de población"
+   ],
+   0,
+   "Arts. 16.1.a y 18.",
+   "Art. 18 Ley de Urbanismo de Aragón",
+   "",
+   "h-suelo",
+   [
+    "preservados"
+   ]
+  ],
+  [
+   "Tienen la consideración de solares las superficies de suelo urbano:",
+   [
+    "Aptas para su uso inmediato que estén urbanizadas conforme al planeamiento",
+    "Cualquier suelo sin edificar",
+    "Los terrenos urbanizables"
+   ],
+   0,
+   "Art. 14.1.",
+   "Art. 14.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-suelo",
+   [
+    "uso inmediato"
+   ]
+  ],
+  [
+   "El plan general de ordenación urbana:",
+   [
+    "Clasifica el suelo y define los elementos fundamentales de la estructura general de la ordenación urbanística",
+    "Solo regula la edificación de una parcela",
+    "Es un instrumento de gestión de la propiedad"
+   ],
+   0,
+   "Art. 38.1.",
+   "Art. 38.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-plan",
+   [
+    "Clasifica el suelo"
+   ]
+  ],
+  [
+   "La aprobación definitiva del plan general corresponde, con carácter general, a:",
+   [
+    "El Consejo Provincial de Urbanismo",
+    "El Alcalde",
+    "El Pleno de las Cortes de Aragón"
+   ],
+   0,
+   "Art. 49.1.",
+   "Art. 49.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-plan",
+   [
+    "Consejo Provincial de Urbanismo"
+   ]
+  ],
+  [
+   "Los planes parciales tienen por objeto establecer, en desarrollo del plan general:",
+   [
+    "La ordenación pormenorizada precisa para la ejecución de sectores enteros en suelo urbano no consolidado y en suelo urbanizable",
+    "La clasificación del suelo",
+    "El régimen de sanciones"
+   ],
+   0,
+   "Art. 51.1.",
+   "Art. 51.1 Ley de Urbanismo de Aragón",
+   "Plan parcial frente a general",
+   "h-plan",
+   [
+    "ordenación pormenorizada"
+   ]
+  ],
+  [
+   "Los estudios de detalle podrán formularse cuando fuere preciso:",
+   [
+    "Completar o, en su caso, adaptar determinaciones establecidas en el plan general para el suelo urbano, en los planes parciales y especiales",
+    "Clasificar suelo urbanizable",
+    "Sustituir al plan general"
+   ],
+   0,
+   "Art. 67.1.",
+   "Art. 67.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-plan",
+   [
+    "completar o"
+   ]
+  ],
+  [
+   "Los planes especiales de reforma interior solo podrán formularse en desarrollo del plan general:",
+   [
+    "En suelo urbano no consolidado",
+    "En suelo no urbanizable",
+    "En cualquier clase de suelo"
+   ],
+   0,
+   "Art. 65.1.",
+   "Art. 65.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-plan",
+   [
+    "suelo urbano no consolidado"
+   ]
+  ],
+  [
+   "Se entiende por reparcelación:",
+   [
+    "La agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento",
+    "La expropiación de todas las fincas",
+    "La venta de solares"
+   ],
+   0,
+   "Art. 140.1.",
+   "Art. 140.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-gestion",
+   [
+    "agrupación de fincas"
+   ]
+  ],
+  [
+   "En la gestión directa por cooperación:",
+   [
+    "Los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización",
+    "Los propietarios ejecutan las obras a su costa",
+    "La Administración expropia todo el suelo"
+   ],
+   0,
+   "Art. 150.1.",
+   "Art. 150.1 Ley de Urbanismo de Aragón",
+   "Cooperación frente a compensación",
+   "h-gestion",
+   [
+    "Administración ejecuta las obras"
+   ]
+  ],
+  [
+   "En la gestión indirecta por compensación, los propietarios se constituyen en:",
+   [
+    "Junta de compensación",
+    "Consorcio provincial",
+    "Comisión de reparcelación"
+   ],
+   0,
+   "Art. 151.2.",
+   "Art. 151.2 Ley de Urbanismo de Aragón",
+   "",
+   "h-gestion",
+   [
+    "junta de compensación"
+   ]
+  ],
+  [
+   "Los actos de transformación, construcción, edificación y uso del suelo y el subsuelo requerirán para su lícito ejercicio:",
+   [
+    "Licencia, declaración responsable o comunicación previa",
+    "Solo licencia",
+    "Solo comunicación previa"
+   ],
+   0,
+   "Art. 225.",
+   "Art. 225 Ley de Urbanismo de Aragón",
+   "",
+   "h-disciplina",
+   [
+    "licencia, declaración responsable o comunicación previa"
+   ]
+  ],
+  [
+   "La comunicación previa y la declaración responsable legitiman para la realización de su objeto:",
+   [
+    "Desde el día de su presentación en el registro general del municipio",
+    "Desde que el Alcalde las aprueba formalmente",
+    "Desde un mes después de su presentación"
+   ],
+   0,
+   "Art. 229.2. La licencia legitima desde que el Alcalde la adopta (229.1).",
+   "Art. 229.2 Ley de Urbanismo de Aragón",
+   "Licencia frente a declaración",
+   "h-disciplina",
+   [
+    "día de su presentación"
+   ]
+  ],
+  [
+   "En los supuestos de sujeción a licencia urbanística, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender:",
+   [
+    "Desestimada su petición por silencio administrativo",
+    "Estimada su petición",
+    "Caducado el procedimiento"
+   ],
+   0,
+   "Art. 239.",
+   "Art. 239 Ley de Urbanismo de Aragón",
+   "Silencio negativo",
+   "h-disciplina",
+   [
+    "desestimada"
+   ]
+  ],
+  [
+   "Cuando una construcción amenace con derruirse de modo inminente, con peligro para la seguridad pública, la autoridad habilitada para disponer todas las medidas necesarias es:",
+   [
+    "El Alcalde",
+    "El Consejo Provincial de Urbanismo",
+    "El Director General de Urbanismo"
+   ],
+   0,
+   "Art. 262.1.",
+   "Art. 262.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-disciplina",
+   [
+    "Alcalde"
+   ]
+  ],
+  [
+   "El plazo de prescripción para las infracciones urbanísticas leves, graves y muy graves es, respectivamente, de:",
+   [
+    "Uno, cuatro y diez años",
+    "Seis meses, un año y tres años",
+    "Dos, cuatro y seis años"
+   ],
+   0,
+   "Art. 284.1.",
+   "Art. 284.1 Ley de Urbanismo de Aragón",
+   "Plazos",
+   "h-disciplina",
+   [
+    "diez años"
+   ]
+  ],
+  [
+   "Corresponde sancionar al Alcalde por las infracciones leves y al Ayuntamiento Pleno por:",
+   [
+    "Las infracciones graves y muy graves",
+    "Solo las muy graves",
+    "Ninguna: lo hace la Comarca"
+   ],
+   0,
+   "Art. 285.1.",
+   "Art. 285.1 Ley de Urbanismo de Aragón",
+   "",
+   "h-disciplina",
+   [
+    "infracciones graves y muy graves"
+   ]
+  ]
+ ]
+}

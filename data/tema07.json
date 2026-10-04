@@ -1,0 +1,573 @@
+{
+ "n": 7,
+ "titulo": "Ley 39/2015 (IV): el procedimiento administrativo común",
+ "fuente": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565), texto consolidado del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "Iniciación del procedimiento",
+   "subtitulo": "Arts. 53 a 69",
+   "clave": [
+    "Derechos del interesado (53)",
+    "De oficio o a solicitud (54)",
+    "Actuaciones previas (55)",
+    "Denuncia (62)",
+    "Subsanación: 10 días (68)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los procedimientos se inician **de oficio** o **a solicitud del interesado** (art. 54). El [[procedimiento-administrativo|procedimiento]] es el camino ordenado para dictar un acto."
+    ],
+    [
+     "tabla",
+     [
+      "Forma",
+      "Claves"
+     ],
+     [
+      [
+       "**De oficio** (58-62)",
+       "Por **acuerdo del órgano competente**: por **propia iniciativa**, por **orden superior**, a **petición razonada** de otros órganos o por **denuncia**. Antes se pueden abrir **actuaciones previas** (55)."
+      ],
+      [
+       "**A solicitud** (66-68)",
+       "La solicitud contiene nombre y apellidos del interesado y representante, medio de notificación, hechos, razones y petición, lugar y fecha, firma y órgano destinatario."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Denuncia (62):** acto por el que **cualquier persona** pone en conocimiento de un órgano la existencia de un hecho que pudiera justificar iniciar un procedimiento de oficio. Debe expresar la **identidad** del denunciante y el **relato de los hechos**.",
+      "**Subsanación y mejora (68):** si la solicitud no reúne los requisitos, se requiere al interesado para que, **en 10 días**, subsane o aporte los documentos; si no lo hace, **se le tendrá por desistido** de su petición, previa resolución."
+     ]
+    ],
+    [
+     "trampa",
+     "El plazo de **subsanación es de 10 días**. En iniciación **de oficio**, la denuncia **no obliga** a iniciar el procedimiento: lo decide el órgano competente."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cómo se pueden iniciar los procedimientos?",
+     "De oficio o a solicitud del interesado (art. 54)."
+    ],
+    [
+     "¿Plazo para subsanar una solicitud defectuosa?",
+     "Diez días; si no, se le tiene por desistido (art. 68.1)."
+    ]
+   ],
+   "esquema": [
+    "Iniciación: de oficio (iniciativa propia, orden superior, petición razonada, denuncia) o a solicitud (54)",
+    "Actuaciones previas (55) · denuncia (62)",
+    "Subsanación 10 días, desistimiento (68)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Ordenación e instrucción",
+   "subtitulo": "Arts. 70 a 83",
+   "clave": [
+    "Expediente electrónico (70)",
+    "Impulso de oficio y celeridad (71)",
+    "10 días para trámites (73)",
+    "Alegaciones (76)",
+    "Prueba: 10 a 30 días (77)",
+    "Informes: 10 días (80)",
+    "Audiencia: 10 a 15 días (82)",
+    "Información pública: 20 días (83)"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "Trámite",
+      "Regla"
+     ],
+     [
+      [
+       "**Expediente** (70)",
+       "**Conjunto ordenado de documentos y actuaciones** que sirven de antecedente y fundamento a la resolución. Tiene **formato electrónico**."
+      ],
+      [
+       "**Impulso** (71)",
+       "Se impulsa **de oficio** por **medios electrónicos**, con **celeridad**. Se guarda el **orden riguroso de incoación** en asuntos homogéneos."
+      ],
+      [
+       "**Concentración** (72)",
+       "Se acuerdan **en un solo acto** los trámites que admiten impulso simultáneo."
+      ],
+      [
+       "**Cumplimiento de trámites** (73)",
+       "Los interesados deben cumplir en **10 días** desde el siguiente a la notificación, salvo plazo distinto."
+      ],
+      [
+       "**Alegaciones** (76)",
+       "En cualquier momento **anterior al trámite de audiencia**."
+      ],
+      [
+       "**Prueba** (77)",
+       "Cualquier medio admisible en Derecho. Si la Administración no tiene por ciertos los hechos, **período de prueba de 10 a 30 días**."
+      ],
+      [
+       "**Informes** (79-80)",
+       "Los **preceptivos** y los necesarios; salvo disposición en contrario, **se emiten en 10 días**."
+      ],
+      [
+       "**Audiencia** (82)",
+       "**Inmediatamente antes** de la propuesta de resolución, plazo de **10 a 15 días**; es **anterior** a pedir el informe jurídico o el dictamen del Consejo de Estado."
+      ],
+      [
+       "**Información pública** (83)",
+       "Si la naturaleza lo requiere; anuncio en el **Diario oficial**, plazo **no inferior a 20 días**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "**Audiencia: 10 a 15 días.** **Información pública: mínimo 20 días.** **Prueba: de 10 a 30 días.** No los mezcles."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuánto dura el período de audiencia?",
+     "Entre 10 y 15 días (art. 82.2)."
+    ],
+    [
+     "¿Cuál es el plazo mínimo de la información pública?",
+     "No inferior a 20 días (art. 83.2)."
+    ],
+    [
+     "¿Cuánto dura el período de prueba?",
+     "No superior a 30 ni inferior a 10 días (art. 77.2)."
+    ]
+   ],
+   "esquema": [
+    "Expediente electrónico (70) · impulso de oficio (71) · concentración (72) · 10 días para trámites (73)",
+    "Alegaciones antes de la audiencia (76) · prueba 10-30 días (77) · informes 10 días (80)",
+    "Audiencia 10-15 días (82) · información pública ≥ 20 días (83)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Finalización y ejecución",
+   "subtitulo": "Arts. 84 a 105",
+   "clave": [
+    "Formas de terminar (84)",
+    "Desistimiento y renuncia (93-94)",
+    "Caducidad: 3 meses (95)",
+    "Tramitación simplificada: 30 días (96)",
+    "Ejecutividad (98)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Ponen fin al procedimiento: la **resolución**, el **desistimiento**, la **renuncia** al derecho (si no está prohibida), la **declaración de caducidad** y la **imposibilidad material** sobrevenida de continuarlo (art. 84)."
+    ],
+    [
+     "lista",
+     [
+      "**Procedimientos sancionadores (85):** si el infractor **reconoce su responsabilidad**, se puede resolver imponiendo la sanción; el **pago voluntario** antes de la resolución implica la terminación (sanciones pecuniarias).",
+      "**Desistimiento de la Administración (93):** en procedimientos iniciados **de oficio**, motivadamente.",
+      "**Desistimiento y renuncia de los interesados (94):** pueden hacerlos por cualquier medio que permita su constancia; si hay varios interesados, solo afecta a quien lo formule.",
+      "**Caducidad (95):** si el procedimiento a solicitud se paraliza **por causa imputable al interesado**, se le advierte y, **transcurridos tres meses**, se acuerda el **archivo**.",
+      "**Tramitación simplificada (96):** por interés público o falta de complejidad; se resuelve **en treinta días**, **salvo que reste menos para su tramitación ordinaria** (examen 2025)."
+     ]
+    ],
+    [
+     "h",
+     "Ejecución (arts. 98 y ss.)"
+    ],
+    [
+     "p",
+     "Los actos son **inmediatamente ejecutivos**, **salvo** que: **a)** se suspenda su ejecución; **b)** sea una resolución **sancionadora** contra la que quepa algún **recurso en vía administrativa**, incluido el potestativo de reposición; **c)** una disposición establezca lo contrario; **d)** necesite **aprobación o autorización superior**."
+    ],
+    [
+     "trampa",
+     "La **caducidad** exige **tres meses** de paralización **imputable al interesado**. Las resoluciones **sancionadoras** no son ejecutivas mientras quepa **recurso administrativo** (examen 2025). La tramitación simplificada: **30 días, salvo que reste menos**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuáles son las formas de terminar el procedimiento?",
+     "Resolución, desistimiento, renuncia, caducidad e imposibilidad material sobrevenida (84)."
+    ],
+    [
+     "¿Cuándo no es inmediatamente ejecutiva una resolución sancionadora?",
+     "Mientras quepa algún recurso en vía administrativa, incluido el de reposición (98.1.b)."
+    ],
+    [
+     "¿Plazo de la tramitación simplificada?",
+     "Treinta días, salvo que reste menos para la ordinaria (96.6)."
+    ]
+   ],
+   "esquema": [
+    "Terminan: resolución · desistimiento · renuncia · caducidad · imposibilidad material (84)",
+    "Caducidad: 3 meses de paralización imputable al interesado (95)",
+    "Simplificada: 30 días (96) · Ejecutividad con 4 excepciones (98)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "El procedimiento administrativo",
+  "ramas": [
+   {
+    "titulo": "Iniciación (54-69)",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Formas",
+      "hijos": [
+       {
+        "titulo": "De oficio: iniciativa, orden, petición, denuncia"
+       },
+       {
+        "titulo": "A solicitud del interesado"
+       }
+      ]
+     },
+     {
+      "titulo": "Subsanación (68)",
+      "hijos": [
+       {
+        "titulo": "10 días"
+       },
+       {
+        "titulo": "Si no, desistido"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Instrucción (70-83)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Ordenación",
+      "hijos": [
+       {
+        "titulo": "Expediente electrónico"
+       },
+       {
+        "titulo": "Impulso de oficio · 10 días para trámites"
+       }
+      ]
+     },
+     {
+      "titulo": "Trámites",
+      "hijos": [
+       {
+        "titulo": "Prueba: 10 a 30 días"
+       },
+       {
+        "titulo": "Informes: 10 días"
+       },
+       {
+        "titulo": "Audiencia: 10 a 15 días"
+       },
+       {
+        "titulo": "Información pública: ≥ 20 días"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Finalización (84-105)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Formas",
+      "hijos": [
+       {
+        "titulo": "Resolución"
+       },
+       {
+        "titulo": "Desistimiento · renuncia"
+       },
+       {
+        "titulo": "Caducidad: 3 meses"
+       }
+      ]
+     },
+     {
+      "titulo": "Especiales",
+      "hijos": [
+       {
+        "titulo": "Simplificada: 30 días"
+       },
+       {
+        "titulo": "Sancionador: reconocimiento y pago"
+       }
+      ]
+     },
+     {
+      "titulo": "Ejecución (98)",
+      "hijos": [
+       {
+        "titulo": "Inmediata, con 4 excepciones"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 82 (audiencia)",
+    "a": "Art. 76 (alegaciones)",
+    "porque": "Las alegaciones se presentan antes de la audiencia, que es el último trámite antes de la propuesta."
+   },
+   {
+    "de": "Art. 98 (ejecutividad)",
+    "a": "Art. 117 (suspensión por recurso)",
+    "porque": "El recurso no suspende la ejecución salvo que se acuerde la suspensión."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 54 de la Ley 39/2015, los procedimientos podrán iniciarse:",
+   [
+    "De oficio o a solicitud del interesado",
+    "Solo a solicitud del interesado",
+    "Solo de oficio"
+   ],
+   0,
+   "Art. 54.",
+   "Art. 54 Ley 39/2015",
+   "",
+   "h-inicio",
+   [
+    "de oficio"
+   ]
+  ],
+  [
+   "Si la solicitud de iniciación no reúne los requisitos legales, se requerirá al interesado para que subsane la falta o acompañe los documentos preceptivos en un plazo de:",
+   [
+    "Diez días",
+    "Quince días",
+    "Un mes"
+   ],
+   0,
+   "Art. 68.1: diez días, con indicación de que, si no lo hace, se le tendrá por desistido de su petición.",
+   "Art. 68.1 Ley 39/2015",
+   "",
+   "h-inicio",
+   [
+    "diez días"
+   ]
+  ],
+  [
+   "Se entiende por denuncia el acto por el que cualquier persona pone en conocimiento de un órgano administrativo:",
+   [
+    "La existencia de un hecho que pudiera justificar la iniciación de oficio de un procedimiento",
+    "Una solicitud de licencia",
+    "Un recurso administrativo"
+   ],
+   0,
+   "Art. 62.1.",
+   "Art. 62.1 Ley 39/2015",
+   "",
+   "h-inicio",
+   [
+    "denuncia"
+   ]
+  ],
+  [
+   "El expediente administrativo es:",
+   [
+    "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
+    "El registro de entrada de la solicitud",
+    "El acuerdo de iniciación"
+   ],
+   0,
+   "Art. 70.1.",
+   "Art. 70.1 Ley 39/2015",
+   "",
+   "h-instruccion",
+   [
+    "conjunto ordenado de documentos"
+   ]
+  ],
+  [
+   "Los trámites que deban ser cumplimentados por los interesados deberán realizarse, salvo plazo distinto, en el plazo de:",
+   [
+    "Diez días a partir del siguiente al de la notificación del correspondiente acto",
+    "Cinco días naturales",
+    "Un mes"
+   ],
+   0,
+   "Art. 73.1.",
+   "Art. 73.1 Ley 39/2015",
+   "",
+   "h-instruccion",
+   [
+    "diez días"
+   ]
+  ],
+  [
+   "Los interesados podrán aducir alegaciones y aportar documentos en cualquier momento del procedimiento:",
+   [
+    "Anterior al trámite de audiencia",
+    "Posterior a la resolución",
+    "Solo durante el período de prueba"
+   ],
+   0,
+   "Art. 76.1.",
+   "Art. 76.1 Ley 39/2015",
+   "",
+   "h-instruccion",
+   [
+    "anterior al trámite de audiencia"
+   ]
+  ],
+  [
+   "El período de prueba, cuando la Administración no tenga por ciertos los hechos alegados, será por un plazo:",
+   [
+    "No superior a treinta días ni inferior a diez",
+    "No superior a quince días",
+    "De un mes exacto"
+   ],
+   0,
+   "Art. 77.2.",
+   "Art. 77.2 Ley 39/2015",
+   "Plazos",
+   "h-instruccion",
+   [
+    "no superior a treinta días"
+   ]
+  ],
+  [
+   "El trámite de audiencia se concederá por un plazo:",
+   [
+    "No inferior a diez días ni superior a quince",
+    "No inferior a quince ni superior a treinta días",
+    "De veinte días"
+   ],
+   0,
+   "Art. 82.2.",
+   "Art. 82.2 Ley 39/2015",
+   "Mezclar plazos",
+   "h-instruccion",
+   [
+    "audiencia"
+   ]
+  ],
+  [
+   "El período de información pública no podrá ser inferior a:",
+   [
+    "Veinte días",
+    "Diez días",
+    "Treinta días"
+   ],
+   0,
+   "Art. 83.2.",
+   "Art. 83.2 Ley 39/2015",
+   "",
+   "h-instruccion",
+   [
+    "información pública"
+   ]
+  ],
+  [
+   "Según el art. 84, ponen fin al procedimiento:",
+   [
+    "La resolución, el desistimiento, la renuncia al derecho, la declaración de caducidad y la imposibilidad material de continuarlo",
+    "Solo la resolución",
+    "La resolución y el silencio únicamente"
+   ],
+   0,
+   "Art. 84.1-2.",
+   "Art. 84 Ley 39/2015",
+   "",
+   "h-fin",
+   [
+    "declaración de caducidad"
+   ]
+  ],
+  [
+   "En los procedimientos iniciados a solicitud, cuando se paralice por causa imputable al interesado, se producirá la caducidad transcurrido el plazo de:",
+   [
+    "Tres meses",
+    "Seis meses",
+    "Un mes"
+   ],
+   0,
+   "Art. 95.1.",
+   "Art. 95.1 Ley 39/2015",
+   "",
+   "h-fin",
+   [
+    "tres meses"
+   ]
+  ],
+  [
+   "Los procedimientos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada, salvo que:",
+   [
+    "Reste menos para su tramitación ordinaria",
+    "El interesado pida más plazo",
+    "Haya informes pendientes"
+   ],
+   0,
+   "Art. 96.6 (examen 2025, reserva 3).",
+   "Art. 96.6 Ley 39/2015",
+   "",
+   "h-fin",
+   [
+    "treinta días"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 98.1.b), los actos de las Administraciones Públicas serán inmediatamente ejecutivos salvo que:",
+   [
+    "Se trate de una resolución sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición",
+    "Se trate de cualquier acto favorable",
+    "Lo pida un interesado"
+   ],
+   0,
+   "Art. 98.1.b (examen 2025, reserva 2).",
+   "Art. 98.1.b Ley 39/2015",
+   "",
+   "h-fin",
+   [
+    "resolución sancionadora"
+   ]
+  ],
+  [
+   "Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad:",
+   [
+    "Se podrá resolver el procedimiento con la imposición de la sanción que proceda",
+    "Se archiva sin sanción",
+    "Se suspende hasta nueva orden"
+   ],
+   0,
+   "Art. 85.1.",
+   "Art. 85.1 Ley 39/2015",
+   "",
+   "h-fin",
+   [
+    "reconoce su responsabilidad"
+   ]
+  ],
+  [
+   "El desistimiento o la renuncia, si el escrito de iniciación lo formularon dos o más interesados:",
+   [
+    "Solo afectará a aquellos que la hubiesen formulado",
+    "Afecta a todos los interesados",
+    "Requiere el acuerdo de todos"
+   ],
+   0,
+   "Art. 94.2.",
+   "Art. 94.2 Ley 39/2015",
+   "",
+   "h-fin",
+   [
+    "Solo afectará"
+   ]
+  ]
+ ]
+}

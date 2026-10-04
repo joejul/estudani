@@ -1,0 +1,972 @@
+{
+ "n": 13,
+ "titulo": "Haciendas locales (II): el presupuesto",
+ "fuente": "RDLeg 2/2004 (TRLRHL) arts. 162-193 (BOE-A-2004-4214); RD 500/1990 (BOE-A-1990-9664); Ley 10/2017 de régimen especial de Zaragoza, art. 50 (BOE-A-2018-1683). Textos consolidados del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "El presupuesto general: qué es y qué contiene",
+   "subtitulo": "Arts. 162 a 167 TRLRHL",
+   "clave": [
+    "Definición (162)",
+    "Año natural (163)",
+    "Qué integra el presupuesto general (164)",
+    "Anexos: plan a 4 años (166)",
+    "Gastos corrientes y de capital (167)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El [[presupuesto-general|presupuesto general]] es la «previsión cifrada» del año: lo **máximo que puede gastarse** y lo **que se prevé ingresar**. Se aprueba cada año y su contenido está en los arts. 162-167."
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "162",
+       "Expresión cifrada, conjunta y sistemática de las **obligaciones que, como máximo, pueden reconocerse** y de los **derechos que se prevé liquidar**, más las previsiones de las sociedades mercantiles de capital íntegramente local."
+      ],
+      [
+       "163",
+       "El ejercicio coincide con el **año natural**. Se imputan los derechos liquidados y las obligaciones reconocidas en el ejercicio."
+      ],
+      [
+       "164.1",
+       "Se integran: **a)** presupuesto de la propia entidad, **b)** presupuestos de sus **organismos autónomos**, **c)** **estados de previsión** de gastos e ingresos de las sociedades mercantiles de capital íntegramente local."
+      ],
+      [
+       "166.1",
+       "Anexos: **plan de inversión y financiación a 4 años**; programas anuales de las sociedades; estado de consolidación; etc."
+      ],
+      [
+       "167",
+       "La estructura la fija el Ministerio de Hacienda. Clasificaciones: por **programas**, **económica** y, opcionalmente, **orgánica**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Gastos corrientes y de capital (art. 167.3.b)"
+    ],
+    [
+     "lista",
+     [
+      "**Corrientes:** funcionamiento de los servicios, **intereses** y transferencias corrientes.",
+      "**De capital:** inversiones reales, transferencias de capital y variaciones de activos y pasivos financieros."
+     ]
+    ],
+    [
+     "trampa",
+     "Los **intereses** son gasto **corriente**, no de capital (pregunta real del examen 2025). Las sociedades mercantiles entran con **estados de previsión**, no con presupuesto propio."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué tres elementos integran el presupuesto general?",
+     "Presupuesto de la entidad, de sus organismos autónomos y estados de previsión de las sociedades mercantiles de capital íntegramente local (164)."
+    ],
+    [
+     "¿Dónde van los intereses, en gasto corriente o de capital?",
+     "Gasto corriente (167.3.b)."
+    ],
+    [
+     "¿A cuántos años es el plan de inversiones anexo?",
+     "A cuatro años (166.1.a)."
+    ]
+   ],
+   "esquema": [
+    "Ejercicio = año natural (163)",
+    "Presupuesto general = entidad + organismos autónomos + previsiones de sociedades (164)",
+    "Anexo: plan de inversión a 4 años (166)",
+    "Corrientes: servicios, intereses, transferencias corrientes · Capital: inversiones, transferencias de capital, activos/pasivos financieros"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Elaboración, aprobación y entrada en vigor",
+   "subtitulo": "Arts. 168 a 171 TRLRHL y art. 50 Ley 10/2017",
+   "clave": [
+    "Lo forma el Presidente (168)",
+    "15 de septiembre",
+    "Exposición pública 15 días",
+    "Pleno: 1 mes para resolver",
+    "Aprobación definitiva antes del 31 de diciembre",
+    "Entrada en vigor y prórroga (169.5-6)",
+    "Reclamaciones: solo 3 causas (170)",
+    "Zaragoza: proyecto al Pleno antes del 15 de octubre"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Pasos del presupuesto: **lo prepara el Presidente → aprobación inicial del Pleno → información pública → aprobación definitiva → publicación → entra en vigor**."
+    ],
+    [
+     "tabla",
+     [
+      "Fase",
+      "Regla"
+     ],
+     [
+      [
+       "Elaboración (168)",
+       "Lo **forma el Presidente** con memoria, liquidación del ejercicio anterior, anexo de personal, de inversiones, informe económico-financiero… Los **organismos autónomos** y las **sociedades** remiten sus previsiones **antes del 15 de septiembre**."
+      ],
+      [
+       "Exposición (169.1)",
+       "Aprobado inicialmente, se expone **15 días** con anuncio en el **boletín oficial de la provincia**. Si no hay reclamaciones, queda definitivo. Si las hay, el **Pleno tiene 1 mes** para resolverlas."
+      ],
+      [
+       "Aprobación definitiva (169.2)",
+       "Por el Pleno **antes del 31 de diciembre** del año anterior."
+      ],
+      [
+       "Publicidad (169.3-4)",
+       "Se inserta en el boletín de la corporación y, **resumido por capítulos**, en el de la provincia. **Copia** a la Administración del Estado y a la CCAA, a la vez que se envía al boletín."
+      ],
+      [
+       "Entrada en vigor (169.5)",
+       "Una vez **publicado** (resumen por capítulos en el boletín provincial)."
+      ],
+      [
+       "Prórroga (169.6)",
+       "Si al empezar el ejercicio no está en vigor, se **prorroga automáticamente el anterior**, con sus créditos iniciales."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Reclamaciones y recursos (170-171)"
+    ],
+    [
+     "lista",
+     [
+      "**Interesados:** habitantes del territorio; directamente afectados; colegios, cámaras, sindicatos y asociaciones que defiendan intereses propios.",
+      "**Solo 3 causas:** **a)** no ajustarse a los trámites; **b)** omitir el crédito para obligaciones exigibles; **c)** ingresos manifiestamente insuficientes respecto a gastos (o gastos respecto a necesidades).",
+      "**Contencioso-administrativo** directo contra la aprobación definitiva (171). Si afecta a la **nivelación presupuestaria**, informa antes el **Tribunal de Cuentas**. El recurso **no suspende** por sí solo el presupuesto."
+     ]
+    ],
+    [
+     "h",
+     "Zaragoza capital (art. 50 Ley 10/2017)"
+    ],
+    [
+     "lista",
+     [
+      "La iniciativa corresponde al **Gobierno de Zaragoza**.",
+      "Exposición pública de **15 días**.",
+      "El proyecto se remite al **Pleno antes del 15 de octubre**.",
+      "Enmiendas de **ingresos**: conformidad del Gobierno de Zaragoza. Enmiendas de **gastos**: compensar dentro de la **misma área de gobierno** y **misma naturaleza del gasto**.",
+      "Entra en vigor tras su **publicación oficial**; si no, se **prorroga** el anterior."
+     ]
+    ],
+    [
+     "trampa",
+     "Reclamar solo puede hacerse por **tres causas**. El **contencioso** se interpone directamente, sin pasar otra vez por reclamación. Y la prórroga es **automática**, no hay que acordarla."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántos días de exposición pública y cuánto tiene el Pleno para resolver?",
+     "15 días de exposición; 1 mes para resolver reclamaciones."
+    ],
+    [
+     "¿Antes de qué fecha debe aprobarse definitivamente?",
+     "Antes del 31 de diciembre del año anterior (169.2)."
+    ],
+    [
+     "¿Qué pasa si al empezar el año no hay presupuesto?",
+     "Se prorroga automáticamente el del año anterior con sus créditos iniciales (169.6)."
+    ],
+    [
+     "En Zaragoza capital, ¿cuándo va el proyecto al Pleno?",
+     "Antes del 15 de octubre (art. 50 Ley 10/2017)."
+    ]
+   ],
+   "esquema": [
+    "Presidente forma → Pleno aprueba inicialmente → 15 días de exposición → 1 mes para resolver → aprobación definitiva antes del 31-dic → publicación → entra en vigor",
+    "Reclamaciones: 3 causas (170.2) · Contencioso directo (171)",
+    "Zaragoza: Gobierno de Zaragoza inicia · Pleno antes del 15-oct (art. 50 Ley 10/2017)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Los créditos y sus modificaciones",
+   "subtitulo": "Arts. 172 a 182 TRLRHL",
+   "clave": [
+    "Especialidad y carácter limitativo (172)",
+    "Plurianuales (174)",
+    "Bajas por anulación (175)",
+    "Crédito extraordinario frente a suplemento (177)",
+    "Ampliables (178)",
+    "Transferencias (179-180)",
+    "Generación (181)",
+    "Incorporación (182)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Un [[credito-presupuestario|crédito]] es el dinero autorizado para un gasto. Los créditos tienen **carácter limitativo y vinculante** y se destinan **solo a su finalidad** (art. 172). Cuando hace falta cambiarlos, se usan las **modificaciones**."
+    ],
+    [
+     "tabla",
+     [
+      "Modificación",
+      "Cuándo",
+      "Claves"
+     ],
+     [
+      [
+       "**Crédito extraordinario** (177)",
+       "Gasto **que no puede demorarse** y **no existe crédito**",
+       "Lo ordena el Presidente; **aprueba el Pleno** con los mismos trámites y publicidad que el presupuesto."
+      ],
+      [
+       "**Suplemento de crédito** (177)",
+       "Gasto que no puede demorarse y el crédito es **insuficiente**",
+       "Igual que el anterior."
+      ],
+      [
+       "**Ampliable** (178)",
+       "Créditos relacionados **taxativamente en las bases de ejecución**",
+       "Se incrementan según la efectividad de recursos afectados."
+      ],
+      [
+       "**Transferencia** (179-180)",
+       "Pasar crédito de una partida a otra",
+       "Régimen en las **bases de ejecución**; entre **distintos grupos de función** corresponde al **Pleno**, salvo si afecta a **créditos de personal**."
+      ],
+      [
+       "**Generación** (181)",
+       "**Ingresos no tributarios**: aportaciones de terceros, enajenación de bienes, prestación de servicios…",
+       "Genera crédito en el estado de gastos."
+      ],
+      [
+       "**Incorporación** (182)",
+       "Pasar remanentes al **ejercicio siguiente**",
+       "Con suficientes recursos financieros. Excepción a las bajas por anulación (175)."
+      ],
+      [
+       "**Baja por anulación** (175)",
+       "Créditos no afectados a obligaciones reconocidas **a 31 de diciembre**",
+       "Quedan **anulados de pleno derecho**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Cómo se financia un crédito extraordinario o suplemento (177.4)"
+    ],
+    [
+     "lista",
+     [
+      "Con **remanente líquido de tesorería**.",
+      "Con **nuevos o mayores ingresos** recaudados sobre los previstos.",
+      "Con **bajas o anulaciones** de créditos no comprometidos de otras partidas."
+     ]
+    ],
+    [
+     "ejemplo",
+     "El Ayuntamiento quiere reparar un centro cultural, gasto urgente, y no hay partida: es un **crédito extraordinario**. Si la partida existe pero se queda corta: **suplemento**. Una opción que diga «ampliación» o «transferencia» no encaja."
+    ],
+    [
+     "trampa",
+     "**Sin crédito → extraordinario. Crédito insuficiente → suplemento.** La **incorporación** es la excepción de las bajas por anulación. Los gastos **plurianuales** exigen que su ejecución **empiece en el propio ejercicio** (174.2)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué diferencia hay entre crédito extraordinario y suplemento de crédito?",
+     "Extraordinario: no existe crédito. Suplemento: el crédito existe pero es insuficiente."
+    ],
+    [
+     "¿Con qué se financian?",
+     "Remanente líquido de tesorería, nuevos o mayores ingresos y bajas de créditos no comprometidos (177.4)."
+    ],
+    [
+     "¿Quién aprueba las transferencias entre grupos de función?",
+     "El Pleno, salvo que afecten a créditos de personal (179.2)."
+    ]
+   ],
+   "esquema": [
+    "Extraordinario (no hay crédito) · Suplemento (insuficiente) → Pleno, con trámites del presupuesto",
+    "Ampliables: bases de ejecución (178) · Transferencias: 179-180 · Generación: ingresos no tributarios (181) · Incorporación: ejercicio siguiente (182)",
+    "Baja por anulación a 31-dic (175)"
+   ]
+  },
+  {
+   "id": "e3",
+   "titulo": "Ejecución del gasto y liquidación",
+   "subtitulo": "Arts. 183 a 193 TRLRHL y arts. 52 a 67 RD 500/1990",
+   "clave": [
+    "Las 4 fases del gasto (184)",
+    "Autorización · Disposición · Reconocimiento · Pago",
+    "Fases combinadas (AD, ADO)",
+    "Responsabilidad personal (188)",
+    "Liquidación el 31 de diciembre (191)",
+    "Remanente negativo (193)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El gasto se ejecuta en **cuatro fases** (art. 184 TRLRHL; art. 52 RD 500/1990):"
+    ],
+    [
+     "tabla",
+     [
+      "Fase",
+      "Qué es",
+      "Dato clave"
+     ],
+     [
+      [
+       "**A** · Autorización",
+       "Se acuerda realizar un gasto por una cuantía **cierta o aproximada**, **reservando crédito**.",
+       "**Inicia** el procedimiento de ejecución (RD 500, art. 54)."
+      ],
+      [
+       "**D** · Disposición o compromiso",
+       "Se acuerda el gasto ya autorizado por **importe exactamente determinado**.",
+       "Es un acto **con relevancia jurídica para con terceros** (art. 56)."
+      ],
+      [
+       "**O** · Reconocimiento y liquidación de la obligación",
+       "Se declara la **existencia de un crédito exigible** contra la entidad.",
+       "Lo hace el **Presidente** (185.2)."
+      ],
+      [
+       "**P** · Ordenación del pago",
+       "El ordenador expide la **orden de pago contra la Tesorería** (art. 61).",
+       "Compete al **Presidente** (186.1)."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Un solo acto puede abarcar varias fases** (184.2). Casos del art. 67.1 RD 500: **AD** (autorización-disposición) y **ADO** (autorización-disposición-reconocimiento de la obligación)."
+     ]
+    ],
+    [
+     "h",
+     "Responsabilidad y cierre"
+    ],
+    [
+     "lista",
+     [
+      "**Responsabilidad personal (188):** ordenadores de gastos y de pagos, **en todo caso**, e interventores **cuando no adviertan por escrito** su improcedencia, de todo gasto o pago **sin crédito suficiente**.",
+      "**Liquidación (191):** el presupuesto se liquida el **31 de diciembre** en cuanto a recaudación de derechos y pago de obligaciones; lo pendiente queda a cargo de la **Tesorería**.",
+      "**Remanente de tesorería negativo (193):** el Pleno, en la **primera sesión**, debe reducir los gastos del nuevo presupuesto por el importe del déficit."
+     ]
+    ],
+    [
+     "trampa",
+     "La **autorización** no obliga frente a terceros; la **disposición** sí. Y las combinaciones del art. 67.1 son **AD** y **ADO** (no «DO» ni «OP» como actos únicos)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuáles son las cuatro fases del gasto?",
+     "Autorización, disposición o compromiso, reconocimiento y liquidación de la obligación, y ordenación del pago (184.1)."
+    ],
+    [
+     "¿Qué fase tiene relevancia jurídica frente a terceros?",
+     "La disposición o compromiso (art. 56 RD 500/1990)."
+    ],
+    [
+     "¿Qué fases combinadas permite el art. 67.1 RD 500?",
+     "AD y ADO."
+    ],
+    [
+     "¿Cuándo se liquida el presupuesto?",
+     "El 31 de diciembre del año natural (191.1)."
+    ]
+   ],
+   "esquema": [
+    "A (autorización) → D (disposición) → O (reconocimiento) → P (ordenación del pago)",
+    "Combinaciones: AD y ADO (art. 67.1 RD 500/1990)",
+    "Responsabilidad personal por gasto sin crédito (188)",
+    "Liquidación 31-dic (191) · remanente negativo: reducir gastos (193)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "El presupuesto local",
+  "ramas": [
+   {
+    "titulo": "Qué es y qué contiene",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Concepto",
+      "hijos": [
+       {
+        "titulo": "Obligaciones máximas y derechos previstos (162)"
+       },
+       {
+        "titulo": "Año natural (163)"
+       }
+      ]
+     },
+     {
+      "titulo": "Contenido",
+      "hijos": [
+       {
+        "titulo": "Entidad + organismos autónomos + previsiones de sociedades"
+       },
+       {
+        "titulo": "Anexo: plan a 4 años"
+       },
+       {
+        "titulo": "Corrientes y de capital"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Aprobación",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Pasos",
+      "hijos": [
+       {
+        "titulo": "Presidente forma · Pleno aprueba"
+       },
+       {
+        "titulo": "15 días de exposición · 1 mes para resolver"
+       },
+       {
+        "titulo": "Definitiva antes del 31-dic"
+       }
+      ]
+     },
+     {
+      "titulo": "Entrada en vigor",
+      "hijos": [
+       {
+        "titulo": "Tras publicarse"
+       },
+       {
+        "titulo": "Prórroga automática"
+       }
+      ]
+     },
+     {
+      "titulo": "Zaragoza (art. 50)",
+      "hijos": [
+       {
+        "titulo": "Iniciativa: Gobierno de Zaragoza"
+       },
+       {
+        "titulo": "Pleno antes del 15-oct"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Modificaciones de crédito",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Nuevo gasto",
+      "hijos": [
+       {
+        "titulo": "Extraordinario: no hay crédito"
+       },
+       {
+        "titulo": "Suplemento: insuficiente"
+       }
+      ]
+     },
+     {
+      "titulo": "Otras",
+      "hijos": [
+       {
+        "titulo": "Ampliable · transferencia"
+       },
+       {
+        "titulo": "Generación · incorporación"
+       },
+       {
+        "titulo": "Baja por anulación"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Ejecución y cierre",
+    "color": "#ffe066",
+    "hijos": [
+     {
+      "titulo": "Fases",
+      "hijos": [
+       {
+        "titulo": "A · D · O · P"
+       },
+       {
+        "titulo": "Combinadas: AD y ADO"
+       }
+      ]
+     },
+     {
+      "titulo": "Cierre",
+      "hijos": [
+       {
+        "titulo": "Liquidación el 31-dic"
+       },
+       {
+        "titulo": "Responsabilidad personal (188)"
+       },
+       {
+        "titulo": "Remanente negativo: reducir gastos"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 169.6 TRLRHL (prórroga)",
+    "a": "Art. 50 Ley 10/2017",
+    "porque": "Zaragoza capital mantiene la prórroga automática si el presupuesto no está en vigor al empezar el año."
+   },
+   {
+    "de": "Art. 177 (crédito extraordinario)",
+    "a": "Art. 169 (trámites del presupuesto)",
+    "porque": "Se aprueba con los mismos trámites, información pública y reclamaciones que el presupuesto."
+   },
+   {
+    "de": "Art. 184 TRLRHL (fases)",
+    "a": "Art. 52 y 67 RD 500/1990",
+    "porque": "El reglamento desarrolla cada fase y las combinaciones AD y ADO."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 162 TRLRHL, los presupuestos generales de las entidades locales expresan, entre otras cosas:",
+   [
+    "Las obligaciones que, como máximo, pueden reconocer la entidad y sus organismos autónomos y los derechos que prevean liquidar durante el ejercicio",
+    "Los gastos que la entidad ha realizado en el ejercicio anterior",
+    "Únicamente los ingresos tributarios previstos"
+   ],
+   0,
+   "Art. 162: expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocerse y de los derechos que se prevé liquidar.",
+   "Art. 162 TRLRHL",
+   "",
+   "h-contenido",
+   [
+    "como máximo"
+   ]
+  ],
+  [
+   "El ejercicio presupuestario de las entidades locales coincide con:",
+   [
+    "El año natural",
+    "El curso político (septiembre a agosto)",
+    "El período que fije cada ordenanza"
+   ],
+   0,
+   "Art. 163: el ejercicio coincide con el año natural.",
+   "Art. 163 TRLRHL",
+   "",
+   "h-contenido",
+   [
+    "año natural"
+   ]
+  ],
+  [
+   "En el presupuesto general se integrarán, según el art. 164, con los organismos autónomos y la propia entidad, y respecto de las sociedades mercantiles de capital íntegramente local:",
+   [
+    "Sus presupuestos completos",
+    "Los estados de previsión de gastos e ingresos",
+    "Solo su balance anual"
+   ],
+   1,
+   "Art. 164.1.c: estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital pertenezca íntegramente a la entidad.",
+   "Art. 164 TRLRHL",
+   "Presupuesto frente a estado de previsión",
+   "h-contenido",
+   [
+    "estados de previsión"
+   ]
+  ],
+  [
+   "Según el art. 166.1, al presupuesto general se unen como anexos los planes y programas de inversión y financiación que, para un plazo de:",
+   [
+    "Dos años",
+    "Cuatro años",
+    "Seis años"
+   ],
+   1,
+   "Art. 166.1.a: para un plazo de cuatro años (examen 2025, supuesto 1, pregunta 2).",
+   "Art. 166.1 TRLRHL",
+   "",
+   "h-contenido",
+   [
+    "cuatro años"
+   ]
+  ],
+  [
+   "Según el art. 167.3.b TRLRHL, en la clasificación económica:",
+   [
+    "Los créditos de gastos corrientes incluyen los de funcionamiento de los servicios, los intereses y las transferencias corrientes",
+    "Los intereses son gastos de capital",
+    "Las transferencias corrientes son gastos de capital"
+   ],
+   0,
+   "Art. 167.3.b: corrientes = funcionamiento, intereses y transferencias corrientes. Capital = inversiones reales, transferencias de capital y variaciones de activos y pasivos financieros.",
+   "Art. 167.3.b TRLRHL",
+   "Intereses como gasto de capital",
+   "h-contenido",
+   [
+    "intereses"
+   ]
+  ],
+  [
+   "El presupuesto de la entidad local será formado por:",
+   [
+    "El Pleno",
+    "Su Presidente",
+    "El Interventor"
+   ],
+   1,
+   "Art. 168.1: formado por su Presidente, con la documentación que cita el precepto. El Pleno lo aprueba.",
+   "Art. 168.1 TRLRHL",
+   "Quién forma y quién aprueba",
+   "h-aprobacion",
+   [
+    "Presidente"
+   ]
+  ],
+  [
+   "Los organismos autónomos remitirán su presupuesto a la entidad local de la que dependan antes del:",
+   [
+    "1 de octubre",
+    "15 de septiembre",
+    "31 de octubre"
+   ],
+   1,
+   "Art. 168.2 y 168.3: antes del 15 de septiembre de cada año (también las sociedades mercantiles).",
+   "Art. 168.2 TRLRHL",
+   "Fecha parecida",
+   "h-aprobacion",
+   [
+    "15 de septiembre"
+   ]
+  ],
+  [
+   "Aprobado inicialmente el presupuesto general, se expondrá al público, previo anuncio en el boletín oficial de la provincia, por:",
+   [
+    "10 días",
+    "15 días",
+    "30 días"
+   ],
+   1,
+   "Art. 169.1: 15 días; el Pleno dispone de un mes para resolver las reclamaciones.",
+   "Art. 169.1 TRLRHL",
+   "Plazo",
+   "h-aprobacion",
+   [
+    "15 días"
+   ]
+  ],
+  [
+   "Si se presentan reclamaciones durante la exposición pública, el Pleno dispondrá para resolverlas de un plazo de:",
+   [
+    "Quince días",
+    "Un mes",
+    "Tres meses"
+   ],
+   1,
+   "Art. 169.1: un mes.",
+   "Art. 169.1 TRLRHL",
+   "Mezclar plazos",
+   "h-aprobacion",
+   [
+    "un mes"
+   ]
+  ],
+  [
+   "La aprobación definitiva del presupuesto general por el Pleno habrá de realizarse:",
+   [
+    "Antes del 31 de diciembre del año anterior al del ejercicio en que deba aplicarse",
+    "Antes del 31 de enero del ejercicio",
+    "Antes del 15 de octubre del año anterior"
+   ],
+   0,
+   "Art. 169.2: antes del 31 de diciembre del año anterior. El 15 de octubre es la fecha del proyecto al Pleno en Zaragoza capital.",
+   "Art. 169.2 TRLRHL",
+   "Fechas",
+   "h-aprobacion",
+   [
+    "31 de diciembre"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 169.6 TRLRHL, si al iniciarse el ejercicio no hubiese entrado en vigor el presupuesto correspondiente:",
+   [
+    "Se considera automáticamente prorrogado el del anterior, con sus créditos iniciales",
+    "No se podrán realizar gastos hasta su aprobación",
+    "El Pleno debe acordar expresamente la prórroga"
+   ],
+   0,
+   "Art. 169.6: prórroga automática con los créditos iniciales, sin perjuicio de las modificaciones de los arts. 177, 178 y 179.",
+   "Art. 169.6 TRLRHL",
+   "Prórroga automática frente a acordada",
+   "h-aprobacion",
+   [
+    "automáticamente prorrogado"
+   ]
+  ],
+  [
+   "Según el art. 170.2, únicamente podrán entablarse reclamaciones contra el presupuesto por:",
+   [
+    "Cualquier motivo de oportunidad política",
+    "No ajustarse a los trámites legales, omitir el crédito para obligaciones exigibles o ser manifiestamente insuficientes los ingresos respecto a los gastos",
+    "Falta de firma del Alcalde únicamente"
+   ],
+   1,
+   "Art. 170.2: tres causas tasadas.",
+   "Art. 170.2 TRLRHL",
+   "Causas tasadas",
+   "h-aprobacion",
+   [
+    "manifiestamente insuficientes"
+   ]
+  ],
+  [
+   "Contra la aprobación definitiva del presupuesto podrá interponerse recurso contencioso-administrativo, y el Tribunal de Cuentas deberá informar previamente cuando la impugnación afecte a:",
+   [
+    "La nivelación presupuestaria",
+    "La estructura por programas",
+    "Las operaciones de crédito"
+   ],
+   0,
+   "Art. 171.2: nivelación presupuestaria (examen 2025, supuesto 1, pregunta 6).",
+   "Art. 171.2 TRLRHL",
+   "",
+   "h-aprobacion",
+   [
+    "nivelación presupuestaria"
+   ]
+  ],
+  [
+   "Según el art. 50 de la Ley 10/2017, el proyecto de presupuesto de Zaragoza se remitirá al Pleno antes del:",
+   [
+    "15 de octubre de cada año",
+    "31 de diciembre",
+    "15 de septiembre"
+   ],
+   0,
+   "Art. 50.c: antes del día quince de octubre.",
+   "Art. 50 Ley 10/2017",
+   "Fechas",
+   "h-capital",
+   [
+    "15 de octubre"
+   ]
+  ],
+  [
+   "En el presupuesto de Zaragoza, la iniciativa para aprobar el proyecto corresponde:",
+   [
+    "Al Pleno",
+    "Al Gobierno de Zaragoza",
+    "A cualquier concejal"
+   ],
+   1,
+   "Art. 50.a Ley 10/2017.",
+   "Art. 50 Ley 10/2017",
+   "",
+   "h-capital",
+   [
+    "Gobierno de Zaragoza"
+   ]
+  ],
+  [
+   "En Zaragoza, las enmiendas que afecten a los créditos para gastos deberán presentarse:",
+   [
+    "Con la conformidad del Gobierno de Zaragoza",
+    "Compensando los incrementos y minoraciones dentro de la misma área de gobierno y misma naturaleza del gasto",
+    "Sin ningún requisito"
+   ],
+   1,
+   "Art. 50.e. Las enmiendas que modifican ingresos requieren conformidad del Gobierno de Zaragoza (50.d).",
+   "Art. 50 Ley 10/2017",
+   "Ingresos frente a gastos",
+   "h-capital",
+   [
+    "misma área de gobierno"
+   ]
+  ],
+  [
+   "Cuando ha de realizarse un gasto que no puede demorarse hasta el ejercicio siguiente y no existe crédito en el presupuesto, procede:",
+   [
+    "Un suplemento de crédito",
+    "Un crédito extraordinario",
+    "Una transferencia de crédito"
+   ],
+   1,
+   "Art. 177.1: sin crédito → crédito extraordinario; crédito insuficiente → suplemento. (En el examen 2025 la opción correcta era «ninguna» porque faltaba esta.)",
+   "Art. 177.1 TRLRHL",
+   "Extraordinario frente a suplemento",
+   "h-modif",
+   [
+    "no existe crédito"
+   ]
+  ],
+  [
+   "Según el art. 177.4, el aumento de crédito de un crédito extraordinario o suplemento puede financiarse con:",
+   [
+    "Solo con préstamos",
+    "Remanente líquido de tesorería, nuevos o mayores ingresos y bajas de créditos no comprometidos",
+    "Solo con transferencias de otras Administraciones"
+   ],
+   1,
+   "Art. 177.4: remanente líquido, nuevos o mayores ingresos recaudados y anulaciones de créditos no comprometidos.",
+   "Art. 177.4 TRLRHL",
+   "",
+   "h-modif",
+   [
+    "nuevos o mayores ingresos"
+   ]
+  ],
+  [
+   "La aprobación de las transferencias de crédito entre distintos grupos de función corresponde al Pleno, salvo cuando afecten a:",
+   [
+    "Créditos de inversión",
+    "Créditos de personal",
+    "Créditos ampliables"
+   ],
+   1,
+   "Art. 179.2: salvo cuando las bajas y las altas afecten a créditos de personal.",
+   "Art. 179.2 TRLRHL",
+   "",
+   "h-modif",
+   [
+    "créditos de personal"
+   ]
+  ],
+  [
+   "Los créditos para gastos que el último día del ejercicio no estén afectados al cumplimiento de obligaciones ya reconocidas:",
+   [
+    "Pasan automáticamente al ejercicio siguiente",
+    "Quedan anulados de pleno derecho, salvo las excepciones del art. 182",
+    "Se prorrogan un trimestre"
+   ],
+   1,
+   "Art. 175: bajas por anulación; excepción: incorporaciones de crédito (art. 182).",
+   "Art. 175 TRLRHL",
+   "",
+   "h-modif",
+   [
+    "anulados de pleno derecho"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 184 TRLRHL, la gestión del presupuesto de gastos se realizará en las siguientes fases:",
+   [
+    "Autorización, disposición, reconocimiento de la obligación y ordenación del pago",
+    "Solo autorización y pago",
+    "Disposición, recaudación y liquidación"
+   ],
+   0,
+   "Art. 184.1: autorización, disposición o compromiso, reconocimiento o liquidación de la obligación y ordenación del pago.",
+   "Art. 184 TRLRHL",
+   "",
+   "h-ejec",
+   [
+    "ordenación del pago"
+   ]
+  ],
+  [
+   "Según el art. 56 del RD 500/1990, la disposición o compromiso del gasto:",
+   [
+    "Constituye el inicio del procedimiento de ejecución del gasto",
+    "Se realiza por una cuantía cierta o aproximada",
+    "Es un acto con relevancia jurídica para con terceros"
+   ],
+   2,
+   "Art. 56.2. El inicio del procedimiento y la cuantía aproximada son de la autorización (art. 54). Examen 2025, supuesto 1, pregunta 8.",
+   "Art. 56 RD 500/1990",
+   "Autorización frente a disposición",
+   "h-ejec",
+   [
+    "relevancia jurídica"
+   ]
+  ],
+  [
+   "El art. 67.1 del RD 500/1990 dice que un mismo acto podrá abarcar más de una fase, pudiendo darse los casos de:",
+   [
+    "Autorización-disposición y autorización-disposición-reconocimiento de la obligación",
+    "Disposición-reconocimiento y reconocimiento-ordenación del pago",
+    "Autorización-disposición y reconocimiento-ordenación del pago"
+   ],
+   0,
+   "Art. 67.1: AD y ADO. Examen 2025, supuesto 1, pregunta 9.",
+   "Art. 67.1 RD 500/1990",
+   "Combinaciones inventadas",
+   "h-ejec",
+   [
+    "Autorización-disposición"
+   ]
+  ],
+  [
+   "Serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente:",
+   [
+    "Solo los interventores",
+    "Los ordenadores de gastos y de pagos, en todo caso, y los interventores cuando no adviertan por escrito su improcedencia",
+    "Solo el Presidente"
+   ],
+   1,
+   "Art. 188. Examen 2025, supuesto 1, pregunta 10.",
+   "Art. 188 TRLRHL",
+   "Quién responde",
+   "h-ejec",
+   [
+    "personalmente responsables"
+   ]
+  ],
+  [
+   "El presupuesto de cada ejercicio se liquidará, en cuanto a la recaudación de derechos y al pago de obligaciones, el:",
+   [
+    "31 de diciembre del año natural correspondiente",
+    "30 de junio",
+    "15 de enero siguiente"
+   ],
+   0,
+   "Art. 191.1.",
+   "Art. 191 TRLRHL",
+   "",
+   "h-cierre",
+   [
+    "31 de diciembre"
+   ]
+  ],
+  [
+   "En caso de liquidación con remanente de tesorería negativo, el Pleno deberá, en la primera sesión que celebre:",
+   [
+    "Reducir los gastos del nuevo presupuesto por cuantía igual al déficit producido",
+    "Prorrogar el presupuesto",
+    "Subir los impuestos"
+   ],
+   0,
+   "Art. 193.1.",
+   "Art. 193 TRLRHL",
+   "",
+   "h-cierre",
+   [
+    "remanente de tesorería negativo"
+   ]
+  ]
+ ]
+}

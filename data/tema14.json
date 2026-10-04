@@ -1,0 +1,796 @@
+{
+ "n": 14,
+ "titulo": "El municipio: territorio, competencias, gran población y Zaragoza capital",
+ "fuente": "Ley 7/1985 LBRL (BOE-A-1985-5392) y Ley 10/2017 de régimen especial de Zaragoza (BOE-A-2018-1683), textos consolidados del BOE.",
+ "verificado": "2026-10-04",
+ "epigrafes": [
+  {
+   "id": "e0",
+   "titulo": "El municipio, su territorio y su población",
+   "subtitulo": "Arts. 11 a 18 LBRL",
+   "clave": [
+    "Entidad local básica (11)",
+    "Elementos: territorio, población, organización",
+    "Término municipal (12)",
+    "Alteración de términos (13)",
+    "Padrón y vecinos (15-18)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El [[municipio-lbrl|municipio]] es la **entidad local básica** de la organización territorial del Estado. Tiene **personalidad jurídica y plena capacidad** para cumplir sus fines (art. 11.1). Sus **elementos** son **el territorio, la población y la organización** (11.2)."
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**12**",
+       "El **término municipal** es el territorio en que el ayuntamiento ejerce sus competencias. **Cada municipio pertenece a una sola provincia.**"
+      ],
+      [
+       "**13**",
+       "**Creación, supresión y alteración de términos**: las regula la **legislación autonómica** de régimen local. Exigen **audiencia** de los municipios, **dictamen** del Consejo de Estado u órgano consultivo autonómico e **informe** de la Administración que ejerza la tutela financiera. La alteración **no puede modificar límites provinciales**."
+      ],
+      [
+       "**14**",
+       "Cambios de **denominación**: solo oficiales tras anotarse en el **Registro** estatal y publicarse en el **BOE**. Puede estar en castellano, en la lengua cooficial o en ambas."
+      ],
+      [
+       "**15**",
+       "Toda persona que viva en España **debe inscribirse en el Padrón** del municipio donde resida **habitualmente**; si vive en varios, en el que habite **más tiempo al año**."
+      ],
+      [
+       "**16**",
+       "El **Padrón** es el **registro administrativo** donde constan los vecinos. Sus datos prueban **residencia y domicilio habitual**; las certificaciones son **documentos públicos y fehacientes**."
+      ],
+      [
+       "**17**",
+       "Su formación, mantenimiento, revisión y custodia corresponden al **Ayuntamiento**."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Los inscritos en el Padrón son los **vecinos**. La **población** del municipio es el conjunto de personas inscritas, y la condición de vecino se adquiere en el momento de la inscripción (art. 15)."
+    ],
+    [
+     "lista",
+     [
+      "**Derechos y deberes de los vecinos (18):** ser **elector y elegible**, **participar** en la gestión municipal, utilizar los **servicios públicos** municipales, entre otros."
+     ]
+    ],
+    [
+     "trampa",
+     "Cada municipio pertenece a **una sola provincia**. El **padrón** se inscribe donde se reside **más tiempo al año**, no donde se está empadronado el trabajo o la familia."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuáles son los elementos del municipio?",
+     "Territorio, población y organización (art. 11.2)."
+    ],
+    [
+     "¿Dónde debe inscribirse quien vive en varios municipios?",
+     "En el que habite durante más tiempo al año (art. 15)."
+    ]
+   ],
+   "esquema": [
+    "Municipio: entidad local básica, personalidad jurídica (11) · elementos: territorio, población, organización",
+    "Término municipal (12) · alteración por ley autonómica con dictamen (13)",
+    "Padrón: obligación de inscribirse donde se reside más tiempo (15-17) · vecinos (18)"
+   ]
+  },
+  {
+   "id": "e1",
+   "titulo": "Competencias y servicios mínimos",
+   "subtitulo": "Arts. 25 a 28 LBRL",
+   "clave": [
+    "Competencias propias (25.2)",
+    "Servicios mínimos por población (26.1)",
+    "Diputación coordina en < 20.000 (26.2)",
+    "Competencias delegadas: 5 años mínimo (27)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El Municipio puede promover actividades y prestar servicios que satisfagan las necesidades de la comunidad vecinal (art. 25.1). Ejerce **en todo caso como competencias propias** (25.2) materias como: **a)** **urbanismo**, patrimonio histórico y vivienda protegida; **b)** **medio ambiente urbano** (parques, residuos, contaminación); **c)** **agua potable** y aguas residuales; **d)** **infraestructura viaria**; **e)** servicios sociales de **primera atención**; **f)** **policía local, protección civil, incendios**; **g)** **tráfico, movilidad y transporte colectivo urbano**; **h)** **turismo**; **i)** **ferias, mercados**; **j)** **salubridad pública**; **k)** **cementerios**…"
+    ],
+    [
+     "h",
+     "Servicios mínimos obligatorios (art. 26.1)"
+    ],
+    [
+     "tabla",
+     [
+      "Población",
+      "Servicios que deben prestar (además de los anteriores)"
+     ],
+     [
+      [
+       "**Todos los municipios**",
+       "Alumbrado público · cementerio · recogida de residuos · limpieza viaria · abastecimiento domiciliario de agua potable · alcantarillado · acceso a los núcleos de población · pavimentación de las vías públicas"
+      ],
+      [
+       "**Más de 5.000 habitantes**",
+       "**Parque público · biblioteca pública · tratamiento de residuos**"
+      ],
+      [
+       "**Más de 20.000 habitantes**",
+       "**Protección civil** · evaluación e información de situaciones de necesidad social · **prevención y extinción de incendios** · **instalaciones deportivas** de uso público"
+      ],
+      [
+       "**Más de 50.000 habitantes**",
+       "**Transporte colectivo urbano de viajeros** · **medio ambiente urbano**"
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Menos de 20.000 habitantes (26.2):** la **Diputación** coordina la prestación de recogida y tratamiento de residuos, agua y aguas residuales, limpieza viaria, acceso a núcleos, pavimentación y alumbrado.",
+      "**Delegación (27):** el Estado y las CCAA pueden **delegar** competencias en los Municipios; la delegación debe determinar alcance, condiciones y **duración, que no podrá ser inferior a cinco años** (examen 2025)."
+     ]
+    ],
+    [
+     "ejemplo",
+     "Zaragoza, con más de 50.000 habitantes, debe prestar **todos** los servicios de la lista: desde el alumbrado hasta el **transporte colectivo urbano**."
+    ],
+    [
+     "trampa",
+     "**Biblioteca pública: más de 5.000 habitantes** (examen 2025). **Protección civil e incendios: más de 20.000.** **Transporte colectivo: más de 50.000.** Y la delegación dura **mínimo cinco años**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué servicios añade el umbral de 5.000 habitantes?",
+     "Parque público, biblioteca pública y tratamiento de residuos (26.1.b)."
+    ],
+    [
+     "¿Duración mínima de una competencia delegada en el Municipio?",
+     "Cinco años (art. 27.1)."
+    ],
+    [
+     "¿Qué servicios obligan a partir de 50.000 habitantes?",
+     "Transporte colectivo urbano de viajeros y medio ambiente urbano (26.1.d)."
+    ]
+   ],
+   "esquema": [
+    "Todos: alumbrado, cementerio, residuos, limpieza, agua, alcantarillado, acceso, pavimentación",
+    "> 5.000: parque · biblioteca · tratamiento de residuos",
+    "> 20.000: protección civil · servicios sociales · incendios · deportes",
+    "> 50.000: transporte colectivo · medio ambiente urbano",
+    "Delegación ≥ 5 años (27)"
+   ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Municipios de gran población",
+   "subtitulo": "Arts. 121 a 138 LBRL",
+   "clave": [
+    "Ámbito de aplicación (121)",
+    "Pleno (122-123)",
+    "Alcalde (124)",
+    "Junta de Gobierno Local (126-127)",
+    "Distritos (128)",
+    "Consejo Social (131)",
+    "Reclamaciones económico-administrativas (137)"
+   ],
+   "bloques": [
+    [
+     "h",
+     "¿A quién se aplica? (art. 121.1)"
+    ],
+    [
+     "lista",
+     [
+      "**a)** Municipios con **más de 250.000 habitantes**.",
+      "**b)** **Capitales de provincia** con **más de 175.000 habitantes**.",
+      "**c)** Municipios que sean **capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas**.",
+      "**d)** Municipios con **más de 75.000 habitantes** con circunstancias **económicas, sociales, históricas o culturales especiales**.",
+      "En los casos **c) y d)** se exige que lo decida la **Asamblea Legislativa** autonómica **a iniciativa del ayuntamiento**."
+     ]
+    ],
+    [
+     "p",
+     "Cuando un municipio alcance la población requerida, la nueva corporación tiene **seis meses desde su constitución** para adaptar su organización (121.2)."
+    ],
+    [
+     "h",
+     "Órganos"
+    ],
+    [
+     "tabla",
+     [
+      "Órgano",
+      "Claves"
+     ],
+     [
+      [
+       "**Pleno** (122-123)",
+       "Alcalde + Concejales; **órgano de máxima representación política** de los ciudadanos. Lo convoca y preside el **Alcalde** (voto de calidad); solo puede delegar la **convocatoria y presidencia** en un concejal. Tiene su **reglamento orgánico**; controla a los órganos de gobierno; vota la **moción de censura**."
+      ],
+      [
+       "**Alcalde** (124)",
+       "**Máxima representación** del municipio; responsable de su gestión **ante el Pleno**; tratamiento de **Excelencia**. Dirige la política, el gobierno y la administración municipal."
+      ],
+      [
+       "**Tenientes de Alcalde** (125)",
+       "Se nombran **entre los concejales de la Junta de Gobierno Local**; sustituyen al Alcalde por orden de nombramiento. Tratamiento de **Ilustrísima**."
+      ],
+      [
+       "**Junta de Gobierno Local** (126-127)",
+       "Colabora **colegiadamente** con el Alcalde. **Número no superior a un tercio** del número legal de miembros del Pleno, además del Alcalde. Aprueba **proyectos de ordenanzas y reglamentos** (salvo los del Pleno) y el **proyecto de presupuesto**."
+      ],
+      [
+       "**Distritos** (128)",
+       "Divisiones territoriales con **órganos de gestión desconcentrada** para impulsar la **participación ciudadana**. Obligatorios; los crea el **Pleno**."
+      ],
+      [
+       "**Consejo Social de la Ciudad** (131)",
+       "Representantes de organizaciones **económicas, sociales, profesionales y de vecinos**; emite informes, estudios y propuestas."
+      ],
+      [
+       "**Reclamaciones económico-administrativas** (137)",
+       "Órgano especializado en reclamaciones sobre **gestión, liquidación, recaudación e inspección de tributos**. Contra sus resoluciones solo cabe **recurso contencioso-administrativo**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "El proyecto de presupuesto lo aprueba la **Junta de Gobierno Local**, no el Pleno (examen 2025). La JGL: **máximo un tercio** del Pleno. El órgano de **máxima representación política** es el **Pleno**, no el Alcalde."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué municipios son de gran población (121.1.c)?",
+     "Los que sean capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas, si lo decide la Asamblea Legislativa a iniciativa del ayuntamiento."
+    ],
+    [
+     "¿Qué aprueba la Junta de Gobierno Local en estos municipios?",
+     "Los proyectos de ordenanzas y reglamentos y el proyecto de presupuesto (127.1)."
+    ],
+    [
+     "¿Cuántos miembros puede tener la JGL?",
+     "Hasta un tercio del número legal de miembros del Pleno, además del Alcalde (126.2)."
+    ]
+   ],
+   "esquema": [
+    "Ámbito: > 250.000 · capitales > 175.000 · capitales/sedes autonómicas · > 75.000 con circunstancias especiales (121)",
+    "Pleno máxima representación · Alcalde máxima representación del municipio · JGL ≤ 1/3 del Pleno",
+    "Distritos (128) · Consejo Social (131) · reclamaciones económico-administrativas (137)"
+   ]
+  },
+  {
+   "id": "e3",
+   "titulo": "Zaragoza, capital de Aragón: régimen especial",
+   "subtitulo": "Ley 10/2017 (arts. 1 a 22 y 57)",
+   "clave": [
+    "Capital de Aragón (1)",
+    "Personalidad y potestades (2)",
+    "Gobierno de Zaragoza (13-14)",
+    "Consejo Bilateral de Capitalidad (20-22)",
+    "Convenio económico-financiero: 4 años (57)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El municipio de Zaragoza, **capital de la Comunidad Autónoma de Aragón**, goza del **régimen especial** de la Ley 10/2017 (art. 1). Tiene **personalidad jurídica propia, plena capacidad de obrar y potestades suficientes** (art. 2)."
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**3**",
+       "El término municipal lo altera el **Gobierno de Aragón** según la legislación de régimen local, sin perjuicio de las competencias municipales de delimitación."
+      ],
+      [
+       "**4**",
+       "Legitimación para plantear **conflictos en defensa de la autonomía local** contra normas con rango de ley del Estado y de Aragón."
+      ],
+      [
+       "**8**",
+       "Órganos: **Pleno** (Alcalde + Concejales, máxima representación política), y los **órganos ejecutivos**: **Alcalde** y **Gobierno de Zaragoza**."
+      ],
+      [
+       "**12**",
+       "El **Alcalde** dirige la acción del Gobierno de Zaragoza, ostenta la **máxima representación** y responde ante el Pleno."
+      ],
+      [
+       "**13**",
+       "El **Gobierno de Zaragoza** (la Junta de Gobierno Local) es el **órgano colegiado ejecutivo**; **nº máximo: un tercio** del número legal de miembros del Pleno; responde **solidariamente** ante el Pleno."
+      ],
+      [
+       "**14**",
+       "Le corresponde aprobar los **proyectos de ordenanzas y reglamentos** (salvo los del Pleno) y el **proyecto de presupuesto**."
+      ],
+      [
+       "**15-16**",
+       "**Grupos municipales** y **Junta de Portavoces** (presidida por el Alcalde o el Teniente de Alcalde en quien delegue)."
+      ],
+      [
+       "**20-22**",
+       "**Consejo Bilateral de Capitalidad**: órgano permanente de **coordinación y colaboración** entre el Gobierno de Aragón y el Ayuntamiento; se reúne **al menos una vez cada semestre**."
+      ],
+      [
+       "**57**",
+       "**Convenio bilateral económico-financiero** con vigencia **mínima de cuatro años**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "En Zaragoza la **Junta de Gobierno Local** se llama **Gobierno de Zaragoza**. El **Consejo Bilateral** se reúne **al menos cada semestre**. El convenio económico-financiero dura **mínimo cuatro años**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cómo se llama en Zaragoza la Junta de Gobierno Local?",
+     "Gobierno de Zaragoza (arts. 8 y 13 Ley 10/2017)."
+    ],
+    [
+     "¿Cada cuánto se reúne como mínimo el Consejo Bilateral de Capitalidad?",
+     "Al menos una vez cada semestre (art. 21)."
+    ]
+   ],
+   "esquema": [
+    "Capital de Aragón: régimen especial (1) · personalidad y potestades (2)",
+    "Órganos: Pleno · Alcalde · Gobierno de Zaragoza (≤ 1/3 del Pleno) · grupos · Junta de Portavoces",
+    "Consejo Bilateral de Capitalidad ≥ 1 reunión por semestre (21) · convenio económico ≥ 4 años (57)"
+   ]
+  }
+ ],
+ "mapa": {
+  "titulo": "El municipio",
+  "ramas": [
+   {
+    "titulo": "Municipio y población",
+    "color": "#247ba0",
+    "hijos": [
+     {
+      "titulo": "Concepto",
+      "hijos": [
+       {
+        "titulo": "Entidad local básica"
+       },
+       {
+        "titulo": "Territorio, población, organización"
+       }
+      ]
+     },
+     {
+      "titulo": "Padrón",
+      "hijos": [
+       {
+        "titulo": "Obligación de inscribirse"
+       },
+       {
+        "titulo": "Donde se vive más tiempo"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Competencias (25-28)",
+    "color": "#f25f5c",
+    "hijos": [
+     {
+      "titulo": "Mínimos por habitantes",
+      "hijos": [
+       {
+        "titulo": "Todos: alumbrado, agua, residuos…"
+       },
+       {
+        "titulo": "> 5.000: biblioteca, parque"
+       },
+       {
+        "titulo": "> 20.000: protección civil, deportes"
+       },
+       {
+        "titulo": "> 50.000: transporte colectivo"
+       }
+      ]
+     },
+     {
+      "titulo": "Delegación",
+      "hijos": [
+       {
+        "titulo": "Duración mínima: 5 años"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Gran población (121-138)",
+    "color": "#70c1b3",
+    "hijos": [
+     {
+      "titulo": "Ámbito",
+      "hijos": [
+       {
+        "titulo": "> 250.000 · capitales > 175.000"
+       },
+       {
+        "titulo": "Capitales y sedes autonómicas"
+       }
+      ]
+     },
+     {
+      "titulo": "Órganos",
+      "hijos": [
+       {
+        "titulo": "Pleno · Alcalde · Junta de Gobierno Local"
+       },
+       {
+        "titulo": "Distritos · Consejo Social"
+       },
+       {
+        "titulo": "Reclamaciones económico-administrativas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Zaragoza capital",
+    "color": "#ffe066",
+    "hijos": [
+     {
+      "titulo": "Ley 10/2017",
+      "hijos": [
+       {
+        "titulo": "Capital de Aragón"
+       },
+       {
+        "titulo": "Gobierno de Zaragoza ≤ 1/3 del Pleno"
+       }
+      ]
+     },
+     {
+      "titulo": "Relaciones con Aragón",
+      "hijos": [
+       {
+        "titulo": "Consejo Bilateral: cada semestre"
+       },
+       {
+        "titulo": "Convenio económico: mín. 4 años"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "conexiones": [
+   {
+    "de": "Art. 127 LBRL (JGL aprueba el proyecto de presupuesto)",
+    "a": "Art. 14 Ley 10/2017 (Gobierno de Zaragoza)",
+    "porque": "En Zaragoza la JGL se denomina Gobierno de Zaragoza y tiene la misma atribución."
+   },
+   {
+    "de": "Art. 128 LBRL (distritos)",
+    "a": "Tema 15 (Reglamento de Órganos Territoriales)",
+    "porque": "Zaragoza desarrolla los distritos y barrios rurales en su Reglamento de Órganos Territoriales y Participación Ciudadana."
+   },
+   {
+    "de": "Art. 26 LBRL (servicios mínimos)",
+    "a": "Tema 11 (servicio público local)",
+    "porque": "Los servicios mínimos son servicios públicos locales obligatorios."
+   }
+  ]
+ },
+ "preguntas": [
+  [
+   "Según el art. 11 LBRL, son elementos del Municipio:",
+   [
+    "El territorio, la población y la organización",
+    "El territorio, el padrón y el presupuesto",
+    "La población, el alcalde y el pleno"
+   ],
+   0,
+   "Art. 11.2.",
+   "Art. 11.2 LBRL",
+   "",
+   "h-municipio",
+   [
+    "territorio, la población y la organización"
+   ]
+  ],
+  [
+   "Cada municipio pertenecerá a:",
+   [
+    "Una sola provincia",
+    "Una o varias provincias según su extensión",
+    "La provincia que decida el Pleno"
+   ],
+   0,
+   "Art. 12.2.",
+   "Art. 12.2 LBRL",
+   "",
+   "h-municipio",
+   [
+    "una sola provincia"
+   ]
+  ],
+  [
+   "Toda persona que viva en varios municipios deberá inscribirse en el padrón únicamente en:",
+   [
+    "El que habite durante más tiempo al año",
+    "El de su lugar de trabajo",
+    "El de nacimiento"
+   ],
+   0,
+   "Art. 15.",
+   "Art. 15 LBRL",
+   "",
+   "h-municipio",
+   [
+    "más tiempo al año"
+   ]
+  ],
+  [
+   "Las certificaciones de los datos del Padrón municipal tendrán carácter de:",
+   [
+    "Documento público y fehaciente para todos los efectos administrativos",
+    "Documento privado",
+    "Mera información sin valor"
+   ],
+   0,
+   "Art. 16.1.",
+   "Art. 16.1 LBRL",
+   "",
+   "h-municipio",
+   [
+    "documento público y fehaciente"
+   ]
+  ],
+  [
+   "La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde:",
+   [
+    "Al Ayuntamiento",
+    "A la Diputación provincial",
+    "A la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 17.1.",
+   "Art. 17.1 LBRL",
+   "",
+   "h-municipio",
+   [
+    "Ayuntamiento"
+   ]
+  ],
+  [
+   "De acuerdo con el art. 26.1 LBRL, la biblioteca pública es un servicio que deberá prestarse:",
+   [
+    "En los municipios con población superior a 5.000 habitantes",
+    "En todos los municipios",
+    "En los municipios con población superior a 20.000 habitantes"
+   ],
+   0,
+   "Art. 26.1.b (examen 2025, pregunta 15).",
+   "Art. 26.1.b LBRL",
+   "Umbral",
+   "h-servicios",
+   [
+    "superior a 5.000"
+   ]
+  ],
+  [
+   "La protección civil y la prevención y extinción de incendios son servicios obligatorios en los municipios con población superior a:",
+   [
+    "20.000 habitantes",
+    "5.000 habitantes",
+    "50.000 habitantes"
+   ],
+   0,
+   "Art. 26.1.c.",
+   "Art. 26.1.c LBRL",
+   "Umbral",
+   "h-servicios",
+   [
+    "20.000"
+   ]
+  ],
+  [
+   "El transporte colectivo urbano de viajeros es servicio obligatorio en los municipios con población superior a:",
+   [
+    "50.000 habitantes",
+    "20.000 habitantes",
+    "100.000 habitantes"
+   ],
+   0,
+   "Art. 26.1.d.",
+   "Art. 26.1.d LBRL",
+   "Umbral",
+   "h-servicios",
+   [
+    "50.000"
+   ]
+  ],
+  [
+   "En los municipios con población inferior a 20.000 habitantes, la coordinación de la prestación de determinados servicios (agua, residuos, limpieza viaria…) corresponde a:",
+   [
+    "La Diputación provincial o entidad equivalente",
+    "El Estado",
+    "La Comunidad Autónoma"
+   ],
+   0,
+   "Art. 26.2.",
+   "Art. 26.2 LBRL",
+   "",
+   "h-servicios",
+   [
+    "Diputación provincial"
+   ]
+  ],
+  [
+   "Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación:",
+   [
+    "No podrá ser inferior a cinco años",
+    "Será siempre de un año prorrogable",
+    "Será de cuatro años exactos"
+   ],
+   0,
+   "Art. 27.1 (examen 2025, pregunta 46).",
+   "Art. 27.1 LBRL",
+   "Plazo",
+   "h-servicios",
+   [
+    "cinco años"
+   ]
+  ],
+  [
+   "El régimen de organización de los municipios de gran población se aplica a un municipio capital de provincia, capital autonómica o sede de las instituciones autonómicas:",
+   [
+    "Si así lo decide la Asamblea Legislativa correspondiente, a iniciativa del ayuntamiento, independientemente de su población",
+    "Siempre, sin necesidad de decisión alguna",
+    "Solo si supera los 250.000 habitantes"
+   ],
+   0,
+   "Art. 121.1.c (examen 2025, pregunta 17).",
+   "Art. 121.1 LBRL",
+   "Población frente a decisión",
+   "h-gran",
+   [
+    "Asamblea Legislativa"
+   ]
+  ],
+  [
+   "En los municipios de gran población, el órgano de máxima representación política de los ciudadanos en el gobierno municipal es:",
+   [
+    "El Pleno",
+    "El Alcalde",
+    "La Junta de Gobierno Local"
+   ],
+   0,
+   "Art. 122.1 (examen 2025, pregunta 37).",
+   "Art. 122.1 LBRL",
+   "Pleno frente a Alcalde",
+   "h-gran",
+   [
+    "máxima representación política"
+   ]
+  ],
+  [
+   "En los municipios de gran población, el número de miembros de la Junta de Gobierno Local:",
+   [
+    "No podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde",
+    "No podrá exceder de la mitad del Pleno",
+    "Es libre"
+   ],
+   0,
+   "Art. 126.2 (examen 2025, pregunta 36).",
+   "Art. 126.2 LBRL",
+   "",
+   "h-gran",
+   [
+    "un tercio"
+   ]
+  ],
+  [
+   "En los municipios de gran población, la aprobación del proyecto de presupuesto corresponde:",
+   [
+    "A la Junta de Gobierno Local",
+    "Al Pleno",
+    "Al Alcalde en solitario"
+   ],
+   0,
+   "Art. 127.1.b (examen 2025, pregunta 43). El Pleno lo aprueba definitivamente.",
+   "Art. 127.1.b LBRL",
+   "Proyecto frente a aprobación",
+   "h-gran",
+   [
+    "proyecto de presupuesto"
+   ]
+  ],
+  [
+   "Los Tenientes de Alcalde en los municipios de gran población se nombran entre:",
+   [
+    "Los concejales que formen parte de la Junta de Gobierno Local",
+    "Cualquier vecino",
+    "Los funcionarios de habilitación nacional"
+   ],
+   0,
+   "Art. 125.1.",
+   "Art. 125.1 LBRL",
+   "",
+   "h-gran",
+   [
+    "Junta de Gobierno Local"
+   ]
+  ],
+  [
+   "Contra las resoluciones del órgano para la resolución de las reclamaciones económico-administrativas en municipios de gran población:",
+   [
+    "Sólo cabrá la interposición del recurso contencioso-administrativo",
+    "Cabe recurso de alzada ante el Pleno",
+    "Cabe recurso de reposición obligatorio"
+   ],
+   0,
+   "Art. 137 (examen 2025, pregunta 22).",
+   "Art. 137 LBRL",
+   "",
+   "h-gran",
+   [
+    "contencioso-administrativo"
+   ]
+  ],
+  [
+   "En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es:",
+   [
+    "El Gobierno de Zaragoza",
+    "La Junta de Portavoces",
+    "El Consejo Bilateral de Capitalidad"
+   ],
+   0,
+   "Art. 13.1.",
+   "Art. 13 Ley 10/2017",
+   "Nombre",
+   "h-zaragoza",
+   [
+    "Gobierno de Zaragoza"
+   ]
+  ],
+  [
+   "El Consejo Bilateral de Capitalidad se reunirá como mínimo:",
+   [
+    "Una vez cada semestre",
+    "Una vez al año",
+    "Una vez al mes"
+   ],
+   0,
+   "Art. 21.b.",
+   "Art. 21 Ley 10/2017",
+   "Frecuencia",
+   "h-zaragoza",
+   [
+    "cada semestre"
+   ]
+  ],
+  [
+   "El Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrá una vigencia mínima de:",
+   [
+    "Cuatro años",
+    "Un año",
+    "Seis años"
+   ],
+   0,
+   "Art. 57.3.",
+   "Art. 57.3 Ley 10/2017",
+   "",
+   "h-zaragoza",
+   [
+    "cuatro años"
+   ]
+  ]
+ ]
+}
