@@ -342,6 +342,22 @@ function cuerpoLeccion(n, t) {
     <p class="tiny muted">Cada epígrafe: explicación desde cero → conceptos clave → ejemplo → trampa → tarjetas de memoria → test.</p>`;
 }
 
+// «Artículo por artículo»: ficha plegable con contenido, intuición y pregunta mental (+ marcas ⭐ / 🟠)
+function articulosHtml(e) {
+  if (!e.articulos || !e.articulos.length) return '';
+  const parrafos = (x) => String(x).split('\n').map((l) => `<p>${fmt(l)}</p>`).join('');
+  return `<section class="arts"><h3>📚 Artículo por artículo</h3>
+    <p class="tiny muted">Toca un artículo para abrirlo. ⭐ = ya se preguntó en un examen de Zaragoza.</p>
+    ${e.articulos.map((a) => `<details class="art ${a.z ? 'zgz' : ''}"><summary><span class="art-n">Art. ${esc(a.n)}</span><b>${esc(a.ref)}</b>${a.z ? '<span class="art-b" title="Preguntado en Zaragoza">⭐</span>' : ''}${a.add ? '<span class="art-b" title="Añadido para cobertura 2026">🟠</span>' : ''}</summary>
+      <p class="art-ley">${esc(a.ley)}</p>
+      <div class="art-t">${parrafos(a.txt)}</div>
+      <p class="art-i"><b>🧠 Intuición:</b> ${fmt(a.int)}</p>
+      <p class="art-q"><b>💭 Pregunta mental:</b> ${fmt(a.preg)}</p>
+      ${(a.z || []).map((z) => `<p class="art-z">⭐ PREGUNTADO EN ZARAGOZA — ${esc(z)}</p>`).join('')}
+      ${a.add ? '<p class="art-add">🟠 AÑADIDO PARA COBERTURA 2026</p>' : ''}
+    </details>`).join('')}</section>`;
+}
+
 function vistaEpigrafe(n, id) {
   const t = D.tema[n];
   const i = t.epigrafes.findIndex((e) => e.id === id);
@@ -359,6 +375,7 @@ function vistaEpigrafe(n, id) {
       <section class="card dominar"><h3>Debes dominar</h3><ul class="chips">${e.clave.map((c) => `<li>${esc(c)}</li>`).join('')}</ul></section>
       ${e.bloques.map(bloqueHtml).join('')}
       ${hubsDeEpi(n, id)}
+      ${articulosHtml(e)}
       <details class="card esq"><summary>Esquema para repasar</summary><ul>${e.esquema.map((x) => `<li>${fmt(x)}</li>`).join('')}</ul></details>
       <section class="flashes"><h3>Antes de seguir: ¿lo recuerdas?</h3><p class="tiny muted">Intenta responder en tu cabeza y luego toca la tarjeta.</p>
         ${e.flash.map((f) => `<button class="flash" data-act="flash"><span class="fq">${fmt(f.q)}</span><span class="fa">${fmt(f.a)}</span></button>`).join('')}
