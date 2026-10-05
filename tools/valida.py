@@ -13,22 +13,34 @@ def valida(n):
     f = f'tema{n:02d}'
     t = json.load(open(D(f + '.json'), encoding='utf-8'))
     v = json.load(open(D(f + '-visual.json'), encoding='utf-8'))
-    if isinstance(t['preguntas'][0], dict):
-        print(f'T{n}: formato largo (prototipo), no se valida'); return True
+    largas = [q for q in t['preguntas'] if isinstance(q, dict)]
+    if largas:  # T1 conserva preguntas en formato largo (prototipo): se comprueban solo opciones y respuesta
+        for q in largas:
+            if len(q['o']) != 3 or not 0 <= q['c'] < 3: print(f"T{n}: {q['id']}: debe tener 3 opciones"); return False
+        t['preguntas'] = [q for q in t['preguntas'] if not isinstance(q, dict)]
+        print(f'T{n}: {len(largas)} preguntas en formato largo (3 opciones OK)')
     err = []
     for g in v.get('glosario', []):
         glos.add(g[0] if isinstance(g, list) else g['id'])
     hubs = {h['id'] for h in v['hubs']}
     epis = {e['id'] for e in t['epigrafes']}
     nopt = set()
+    fichas = {(a[0], str(a[1])) for e in t['epigrafes'] for a in e.get('articulos', [])}
     for i, q in enumerate(t['preguntas']):
-        enun, o, c, e, ref, tr, hub, cl = (q + [None] * 8)[:8]
+        enun, o, c, e, ref, tr, hub, cl, ex = (q + [None] * 9)[:9]
         nopt.add(len(o))
         if not (len(o) in (3, 4) and isinstance(c, int) and 0 <= c < len(o)): err.append(f'P{i+1}: opciones/c')
-        if hub not in hubs: err.append(f'P{i+1}: hub {hub}')
+        nueva = re.match(r'^([a-z0-9-]+) ((?:D[ATFD])?\d+(?: bis| ter)?)', str(ref))
+        if nueva:
+            if (nueva.group(1), nueva.group(2)) not in fichas: err.append(f'P{i+1}: sin ficha {ref}')
+            if len(o) != 3: err.append(f'P{i+1}: debe tener 3 opciones')
+            if len(set(x.strip().lower() for x in o)) != len(o): err.append(f'P{i+1}: opciones repetidas')
+        elif hub not in hubs: err.append(f'P{i+1}: hub {hub}')
         if not e or not ref: err.append(f'P{i+1}: falta explicación/ref')
         for k in (cl or []):
             if k.lower() not in (enun + ' || ' + o[c]).lower(): err.append(f'P{i+1}: clave «{k}»')
+    if largas:
+        print(f'T{n}: {len(t["preguntas"])} preguntas nuevas →', 'OK' if not err else 'ERRORES: ' + '; '.join(err)); return not err
     for h in v['hubs']:
         if h['epi'] not in epis: err.append(f"hub {h['id']}: epi {h['epi']}")
         if sum(1 for p in h['pistas'] if p[0] != 't' and not (len(p) > 2 and p[2])) < 2: err.append(f"hub {h['id']}: pocas pistas")

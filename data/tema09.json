@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Tipos contractuales",
-   "subtitulo": "Arts. 12 a 18 y 25 LCSP",
+   "subtitulo": "Arts. 1 a 35 LCSP",
    "clave": [
     "Obras (13)",
     "Concesión de obras (14)",
@@ -86,7 +86,254 @@
     "Mixtos (18) · administrativos (25)",
     "Concesiones: contraprestación = derecho de explotación (14-15)"
    ],
-   "ic": "🤝"
+   "ic": "🤝",
+   "articulos": [
+    [
+     "lcsp",
+     "1",
+     "Objeto y finalidad de la Ley de Contratos",
+     "Regula la **contratación del sector público** para garantizar **libertad de acceso a las licitaciones, publicidad y transparencia, y no discriminación e igualdad de trato**, y asegurar una **eficiente utilización de los fondos** (definición previa de necesidades, **libre competencia**, selección de la **oferta económicamente más ventajosa**). Regula también **efectos, cumplimiento y extinción** de los contratos administrativos. En toda contratación se incorporan **criterios sociales y medioambientales** (si guardan relación con el objeto) y se facilita el acceso de **pymes** y empresas de economía social.",
+     "¿Qué principios garantiza la Ley de Contratos en el acceso a las licitaciones?"
+    ],
+    [
+     "lcsp",
+     "2",
+     "Ámbito de aplicación: contratos onerosos del sector público",
+     "Son contratos del sector público los **contratos onerosos** (el contratista obtiene **algún beneficio económico, directo o indirecto**) que celebren las entidades del **art. 3**. También los **contratos subvencionados sujetos a regulación armonizada** (art. 23). Se usa el **Vocabulario común de contratos públicos (CPV)** para identificar las prestaciones.",
+     "¿Qué hace que un contrato sea «oneroso» según el art. 2?"
+    ],
+    [
+     "lcsp",
+     "3",
+     "Ámbito subjetivo: entidades del sector público y poderes adjudicadores",
+     "Forman parte del **sector público**, entre otras: **AGE, CCAA y Entidades Locales**; entidades gestoras de la Seguridad Social; **organismos autónomos y universidades públicas**; **consorcios** dotados de personalidad jurídica; **fundaciones públicas**; **entidades públicas empresariales**; **sociedades mercantiles** de capital público mayoritario, y otras. Son **Administraciones Públicas** las de la letra a), b), c) y l) del apartado 1 y ciertos consorcios y entes de derecho público. Son **poderes adjudicadores** las Administraciones Públicas, fundaciones públicas, mutuas colaboradoras y otras entidades creadas para satisfacer **necesidades de interés general no industriales ni mercantiles** (lista completa en el texto oficial).",
+     "¿Qué tres categorías distingue el art. 3: sector público, Administraciones Públicas y poderes adjudicadores?"
+    ],
+    [
+     "lcsp",
+     "4",
+     "Negocios excluidos: se rigen por normas especiales",
+     "Las relaciones jurídicas, negocios y contratos de la sección **quedan excluidos** de la Ley y se rigen por **sus normas especiales**, aplicando los **principios de la Ley** para resolver dudas y lagunas.",
+     "¿Qué se aplica para resolver dudas y lagunas en los negocios excluidos?"
+    ],
+    [
+     "lcsp",
+     "5",
+     "Exclusiones en defensa y seguridad",
+     "Quedan excluidos los **convenios del art. 346 TFUE** en defensa y seguridad, los contratos de la **Ley 24/2011** (contratos de defensa y seguridad) y determinadas **concesiones** en ese ámbito (programas de cooperación entre al menos **dos Estados miembros**, compras en **terceros Estados** con Fuerzas Armadas desplegadas, etc.).",
+     "¿Qué ley regula los contratos de defensa y seguridad excluidos?"
+    ],
+    [
+     "lcsp",
+     "6",
+     "Convenios y encomiendas: cooperación entre entidades públicas",
+     "Quedan excluidos los **convenios** entre entidades públicas cuyo contenido **no esté comprendido en el de los contratos de la Ley**, con condiciones: que las entidades **no tengan vocación de mercado** (se presume si realizan en el mercado **el 20 % o más** de las actividades objeto de colaboración), que establezcan una **cooperación** para garantizar servicios públicos comunes y que se desarrollen **solo por consideraciones de interés público** (resto de requisitos en el texto oficial).",
+     "¿Qué porcentaje de actividad en el mercado abierto hace presumir vocación de mercado?"
+    ],
+    [
+     "lcsp",
+     "7",
+     "Exclusiones en el ámbito internacional",
+     "Se excluyen los **acuerdos del Estado con otros Estados** o sujetos de derecho internacional, los contratos adjudicados por **procedimiento específico de un instrumento internacional** y los regidos por las **normas de una organización o institución financiera internacional** que los financie íntegra o mayoritariamente.",
+     "¿Qué acuerdos internacionales quedan excluidos de la Ley?"
+    ],
+    [
+     "lcsp",
+     "8",
+     "Exclusiones en investigación, desarrollo e innovación",
+     "Se excluyen los **contratos de investigación y desarrollo**, salvo los de determinados códigos **CPV** que, además, cumplan **dos condiciones**: **a)** que los beneficios pertenezcan **exclusivamente al poder adjudicador** para su actividad; **b)** que el servicio lo **remunere íntegramente el poder adjudicador**.",
+     "¿Qué dos condiciones deben cumplir los contratos de I+D que sí entran en la Ley?"
+    ],
+    [
+     "lcsp",
+     "9",
+     "Exclusiones sobre dominio público y bienes patrimoniales",
+     "Se excluyen las **autorizaciones y concesiones sobre bienes de dominio público** y los **contratos de explotación de bienes patrimoniales** (distintos del art. 14), que se rigen por su **legislación específica**. También la **compraventa, donación, permuta, arrendamiento** y análogos sobre **inmuebles, valores negociables y propiedades incorporales**, que son **contratos privados** regidos por la **legislación patrimonial**.",
+     "¿Qué naturaleza tienen la compraventa o arrendamiento de inmuebles excluidos de la Ley?"
+    ],
+    [
+     "lcsp",
+     "10",
+     "Exclusiones en el ámbito financiero",
+     "Se excluyen los contratos de **servicios financieros** sobre **emisión, compra, venta o transferencia de valores** u otros instrumentos financieros, los **servicios del Banco de España**, las operaciones con la **Facilidad Europea de Estabilización Financiera** y el **Mecanismo Europeo de Estabilidad**, y los **préstamos y operaciones de tesorería**.",
+     "¿Qué préstamos y operaciones quedan excluidos de la Ley de Contratos?"
+    ],
+    [
+     "lcsp",
+     "11",
+     "Otros contratos excluidos: personal, servicios con tarifa y arbitraje",
+     "Quedan excluidos: **a)** la **relación de servicio de los funcionarios** y los **contratos laborales**; **b)** la prestación de **servicios públicos cuyo uso requiera el abono de tarifa, tasa o precio público de aplicación general**; **c)** los **servicios de arbitraje y conciliación**; **d)** contratos por los que una entidad pública se obliga a **entregar bienes o derechos o a prestar un servicio** (el adquirente público sí aplica la Ley); **e)** servicios de **campañas políticas** adjudicados por partidos; **f)** **servicios sociales prestados por entidades privadas** sin contrato público (financiación, licencias o autorizaciones sin límites ni cuotas).",
+     "¿Qué dos grandes grupos de relaciones de personal quedan excluidos de la Ley según el art. 11.1?"
+    ],
+    [
+     "lcsp",
+     "12",
+     "Calificación de los contratos del sector público",
+     "Los contratos de **obras, concesión de obras, concesión de servicios, suministro y servicios** se **califican** por las normas de esa sección. Los **restantes** contratos del sector público se califican según las normas de **derecho administrativo o privado** que les sean aplicables.",
+     "¿Qué cinco tipos de contratos califica la sección del art. 12?"
+    ],
+    [
+     "lcsp",
+     "13",
+     "Contrato de obras: concepto de obra y obra completa",
+     "Son contratos de obras los que tienen por objeto **ejecutar una obra** (sola o con la redacción del proyecto) o los **trabajos del Anexo I**, o realizar una obra que cumpla los **requisitos fijados por la entidad contratante**. **«Obra»** = resultado de un conjunto de **trabajos de construcción o ingeniería civil**, destinado a cumplir **por sí mismo una función económica o técnica**, sobre un **bien inmueble**. El contrato se refiere a una **obra completa**: **susceptible de ser entregada al uso general o al servicio**, con todos los elementos para su utilización.",
+     "¿Qué es una «obra completa» en el contrato de obras?"
+    ],
+    [
+     "lcsp",
+     "14",
+     "Contrato de concesión de obras y riesgo operacional",
+     "El **concesionario** realiza las prestaciones del contrato de obras (incluida **conservación y mantenimiento**) y su **contraprestación** es el **derecho a explotar la obra** o ese derecho **más un precio**. Debe **transferirse un riesgo operacional** (de **demanda o de suministro**, o ambos): no está garantizado que **recupere la inversión ni cubra costes**, con **exposición real a las incertidumbres del mercado**.",
+     "¿Qué riesgo debe asumir el concesionario de una obra?"
+    ],
+    [
+     "lcsp",
+     "15",
+     "Contrato de concesión de servicios",
+     "Uno o varios **poderes adjudicadores** encomiendan **a título oneroso** la **gestión de un servicio de su titularidad o competencia**; la contrapartida es el **derecho a explotar el servicio** o ese derecho **más un precio**. Supone la **transferencia del riesgo operacional** al concesionario.",
+     "¿Qué contrapartida recibe el concesionario de un servicio público?"
+    ],
+    [
+     "lcsp",
+     "16",
+     "Contrato de suministro: adquisición o arrendamiento de bienes muebles",
+     "Tienen por objeto la **adquisición, el arrendamiento financiero o el arrendamiento** (con o sin opción de compra) de **productos o bienes muebles**. **No son suministro** los de **propiedades incorporales o valores negociables**. **En todo caso lo son**: entregas **sucesivas por precio unitario** sin cuantía total definida; adquisición y arrendamiento de **equipos y sistemas de telecomunicaciones o informáticos** (los **programas a medida** son **servicios**); **fabricación** con características fijadas por la entidad; y **energía**.",
+     "¿Es de suministro o de servicios la adquisición de un programa de ordenador desarrollado a medida?"
+    ],
+    [
+     "lcsp",
+     "17",
+     "Contrato de servicios: prestaciones de hacer",
+     "Son **prestaciones de hacer** consistentes en una **actividad** o dirigidas a obtener **un resultado distinto de una obra o suministro**, incluidas las **sucesivas por precio unitario**. **No pueden ser objeto** de estos contratos los servicios que impliquen **ejercicio de la autoridad inherente a los poderes públicos**.",
+     "¿Qué servicios no pueden ser objeto de un contrato de servicios?"
+    ],
+    [
+     "lcsp",
+     "18",
+     "Contratos mixtos: reglas para su adjudicación",
+     "**Contrato mixto** = el que contiene **prestaciones de distinta clase**. Solo se celebran en las condiciones del **art. 34.2**. Para obras, suministros y servicios, se atiende al **carácter de la prestación principal** (si hay servicios y suministros, al **mayor valor estimado**). Si se mezclan con **concesiones**, hay reglas específicas (prestaciones separables o no).",
+     "¿Qué criterio decide las reglas aplicables a un contrato mixto de obras, suministros o servicios?"
+    ],
+    [
+     "lcsp",
+     "19",
+     "Contratos sujetos a regulación armonizada: delimitación general",
+     "Son de **regulación armonizada** los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios cuyo **valor estimado** (art. 101) sea **igual o superior a los umbrales** de los arts. 20 a 22, si la entidad es **poder adjudicador**. También los **subvencionados** del art. 23. **No** lo son, cualquiera que sea su valor, determinados contratos (por ejemplo, de programas para servicios de comunicación audiovisual adjudicados por proveedores de ese servicio).",
+     "¿Qué dos condiciones hacen que un contrato esté sujeto a regulación armonizada?"
+    ],
+    [
+     "lcsp",
+     "20",
+     "Umbral de regulación armonizada en obras y concesiones",
+     "Obras, concesión de obras y concesión de servicios: **valor estimado igual o superior a 5.404.000 euros**. Si se adjudican **por lotes** y el valor acumulado alcanza el umbral, se aplica a **cada lote**, aunque se pueden exceptuar los lotes **menores de un millón de euros** si **no superan el 20 %** del valor acumulado.",
+     "¿Cuál es el umbral de regulación armonizada para los contratos de obras?"
+    ],
+    [
+     "lcsp",
+     "21",
+     "Umbrales de regulación armonizada en suministros",
+     "**140.000 euros** si lo adjudica la **AGE, sus organismos autónomos o la Seguridad Social**; **216.000 euros** en los demás casos. Por lotes: se pueden exceptuar los **menores de 80.000 euros** si **no superan el 20 %** del valor acumulado.",
+     "¿Qué umbral se aplica a un contrato de suministro adjudicado por un ayuntamiento?"
+    ],
+    [
+     "lcsp",
+     "22",
+     "Umbrales de regulación armonizada en servicios",
+     "**140.000 euros** (AGE, organismos autónomos y Seguridad Social), **216.000 euros** (resto de entidades) y **750.000 euros** para **servicios sociales y otros específicos del Anexo IV**. Por lotes: se pueden exceptuar los menores de **80.000 euros** si **no superan el 20 %**.",
+     "¿Cuál es el umbral para servicios sociales y otros del Anexo IV?"
+    ],
+    [
+     "lcsp",
+     "23",
+     "Contratos subvencionados sujetos a regulación armonizada",
+     "Son **obras y servicios subvencionados de forma directa y en más del 50 %** por poderes adjudicadores, de ciertas categorías: **obras de ingeniería civil** o construcción de **hospitales, centros deportivos, recreativos o de ocio, edificios escolares o universitarios y de uso administrativo** (valor igual o superior a **5.404.000 €**) y **servicios vinculados** a ellas (**216.000 €** o más). Se aplican las normas de los poderes adjudicadores según su naturaleza.",
+     "¿Qué porcentaje mínimo de subvención directa convierte un contrato en subvencionado armonizado?"
+    ],
+    [
+     "lcsp",
+     "24",
+     "Régimen jurídico de los contratos: administrativo o privado",
+     "Los contratos del sector público pueden estar sometidos a un régimen jurídico de **derecho administrativo** o de **derecho privado**.",
+     "¿A qué dos regímenes jurídicos pueden estar sometidos los contratos del sector público?"
+    ],
+    [
+     "lcsp",
+     "25",
+     "Contratos administrativos: cuáles son y qué normas los rigen",
+     "Tienen carácter **administrativo**, si los celebra una **Administración Pública**: **a)** **obras, concesión de obras, concesión de servicios, suministro y servicios** (salvo ciertos servicios **financieros, de creación artística y espectáculos**, y **suscripción a publicaciones y bases de datos**, que son **privados**); **b)** los **declarados así por ley** y los de **naturaleza administrativa especial** (vinculados al giro o tráfico de la Administración o a una finalidad pública de su competencia). Se rigen por la **Ley y sus normas de desarrollo**; supletoriamente, **derecho administrativo** y, en su defecto, **derecho privado**.",
+     "¿Qué contratos de servicios con ciertos CPV son privados aunque los celebre una Administración?"
+    ],
+    [
+     "lcsp",
+     "26",
+     "Contratos privados: quién los celebra y régimen",
+     "Son **privados**: los de las **Administraciones Públicas** con objeto distinto de los administrativos; los de **poderes adjudicadores que no sean Administración Pública**; y los de **entidades del sector público que no son poder adjudicador**. Los de las Administraciones se rigen, en **preparación y adjudicación**, por la Ley (Libro Segundo) y, en **efectos, modificación y extinción**, por el **derecho privado**.",
+     "¿Qué derecho rige los efectos y extinción de los contratos privados de las Administraciones?"
+    ],
+    [
+     "lcsp",
+     "27",
+     "Jurisdicción competente en materia de contratos",
+     "**Contencioso-administrativo:** preparación, adjudicación, **efectos, modificación y extinción de contratos administrativos** y **preparación y adjudicación de privados** de las Administraciones, entre otras. **Orden civil:** controversias sobre **efectos y extinción** de los contratos privados (y cuestiones de financiación privada de concesiones, salvo potestades administrativas).",
+     "¿Qué orden jurisdiccional resuelve las cuestiones sobre efectos y extinción de los contratos privados?"
+    ],
+    [
+     "lcsp",
+     "28",
+     "Necesidad e idoneidad del contrato y eficiencia",
+     "Las entidades **no pueden celebrar otros contratos que los necesarios** para sus **fines institucionales**; la **naturaleza y extensión de las necesidades** y la **idoneidad** del objeto se determinan **con precisión** en la documentación preparatoria **antes de iniciar el procedimiento**. Deben velar por la **eficiencia**, valorar **consideraciones sociales, medioambientales y de innovación**, fomentar la participación de **pymes**, y **programar su actividad contractual** (plan de contratación).",
+     "¿Qué debe constar en la documentación preparatoria antes de iniciar la licitación?"
+    ],
+    [
+     "lcsp",
+     "29",
+     "Duración de los contratos y prórrogas",
+     "La duración se fija según la **naturaleza de las prestaciones**, su **financiación** y la necesidad de **someter periódicamente a concurrencia**. Puede preverse **prórroga**, acordada por el órgano de contratación y **obligatoria para el empresario** si preavisa **al menos con dos meses** de antelación (salvo contratos de menos de dos meses); **nunca por consentimiento tácito**. **Suministros y servicios sucesivos:** **máximo cinco años**, incluidas prórrogas (excepciones justificadas). En caso de imprevistos, prórroga hasta **nueve meses** máximo mientras se formaliza el nuevo contrato.",
+     "¿Cuál es la duración máxima de los contratos de suministros y servicios de prestación sucesiva?"
+    ],
+    [
+     "lcsp",
+     "30",
+     "Ejecución directa de prestaciones por la propia Administración",
+     "La ejecución de **obras** puede hacerse por los **servicios de la Administración**, con **medios propios no personificados** o con colaboración de empresarios, si concurre alguna circunstancia: **fábricas o servicios técnicos aptos**; **elementos auxiliares** que supongan **economía superior al 5 %** del presupuesto o mayor celeridad; **no hubo ofertas**; **emergencia**; imposibilidad de fijar **precio cierto**; falta de acuerdo en **precios contradictorios**; obras de **mera conservación y mantenimiento**; etc.",
+     "¿Qué economía mínima justifica usar elementos auxiliares propios en la ejecución de una obra?"
+    ],
+    [
+     "lcsp",
+     "31",
+     "Cooperación pública vertical y horizontal y contratación conjunta",
+     "Las entidades del sector público pueden **cooperar sin que sea contractual** mediante: **cooperación vertical** (uso de **medios propios personificados** mediante **encargo**) y **cooperación horizontal** (**convenios** con los límites del art. 6.1). Pueden acordar **contrataciones conjuntas**; en ese caso responden **conjuntamente**.",
+     "¿Qué dos formas de cooperación pública no son contractuales?"
+    ],
+    [
+     "lcsp",
+     "32",
+     "Encargos de poderes adjudicadores a medios propios personificados",
+     "Un poder adjudicador puede **encargar prestaciones** a otra **persona jurídica** (de derecho público o privado) que sea su **medio propio personificado**, y el encargo **no es contrato**. Requisitos del medio propio, entre otros: **control análogo** al de sus propios servicios (con **encargos de ejecución obligatoria**, **compensación por tarifas** aprobadas) y **más del 80 %** de su actividad en cometidos encargados por la entidad que lo controla; requisitos completos en el texto oficial.",
+     "¿Qué porcentaje de actividad debe realizar un medio propio personificado para quien le hace los encargos?"
+    ],
+    [
+     "lcsp",
+     "33",
+     "Encargos de entes que no son poder adjudicador",
+     "Los entes del sector público **que no son poder adjudicador** también pueden **encargar** a un **medio propio personificado** si: **control análogo**, **capital o patrimonio íntegramente público** y **más del 80 %** de la actividad en los cometidos encargados. El encargo **no es contrato**.",
+     "¿Qué requisito de capital exige el art. 33 al medio propio?"
+    ],
+    [
+     "lcsp",
+     "34",
+     "Libertad de pactos y límites a los contratos mixtos",
+     "En los contratos pueden incluirse **cualesquiera pactos, cláusulas y condiciones** que **no sean contrarios al interés público, al ordenamiento jurídico ni a los principios de buena administración**. Solo se **fusionan prestaciones de distintos contratos** (contrato mixto) si están **directamente vinculadas** y forman una **unidad funcional**.",
+     "¿Qué límites tiene la libertad de pactos en los contratos públicos?"
+    ],
+    [
+     "lcsp",
+     "35",
+     "Contenido mínimo obligatorio del documento del contrato",
+     "Debe incluir, entre otras menciones: **identificación de las partes**, **capacidad de los firmantes**, **objeto y tipo**, **legislación aplicable** (con protección de datos), **documentos que integran el contrato**, **precio cierto** o su modo de determinarlo, **duración y prórrogas**, **condiciones de recepción y pago**, **supuestos de modificación y resolución**, **crédito presupuestario** y **confidencialidad** (lista completa en el texto oficial).",
+     "¿Qué mención sobre el precio debe contener el documento del contrato?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -152,12 +399,24 @@
     "Pleno: lo que exceda y pliegos generales",
     "Gran población: Junta de Gobierno Local siempre"
    ],
-   "ic": "🏛️"
+   "ic": "🏛️",
+   "articulos": [
+    [
+     "lcsp",
+     "DA2",
+     "Competencias de contratación de Alcalde y Pleno en entidades locales",
+     "**Alcalde o Presidente:** órgano de contratación en **obras, suministros, servicios, concesiones y contratos administrativos especiales** cuyo **valor estimado no supere el 10 % de los recursos ordinarios del presupuesto ni 6 millones de euros** (incluidos los **plurianuales de hasta 4 años**, con prórrogas, si no superan esos límites). **Pleno:** los que **superen** esos límites, y la aprobación de los **pliegos de cláusulas administrativas generales** (art. 121). En **municipios de menos de 5.000 habitantes** el Pleno autoriza proyectos independientes de partes de una obra. En **municipios de gran población** (art. 121 LBRL), esas competencias las ejerce la **Junta de Gobierno Local**, salvo los pliegos generales, que aprueba el Pleno. Es **potestativa** la **Junta de Contratación** (obras de reparación y conservación, suministros fungibles, servicios hasta el 10 %), con el **Secretario y el Interventor** como miembros necesarios.",
+     "¿Hasta qué límites tiene competencia el Alcalde como órgano de contratación?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "Normas específicas de contratación local",
-   "subtitulo": "Disposición adicional tercera LCSP, DA 2.7 y art. 118",
+   "subtitulo": "Art. 118 y disposición adicional tercera LCSP",
    "clave": [
     "Aplicación con especialidades (DA 3.1)",
     "Tramitación anticipada (DA 3.2)",
@@ -225,7 +484,29 @@
     "Mesa: presidente de la Corporación o funcionario · Secretario e Interventor · ≥ 3 · electos ≤ 1/3 · sin eventuales",
     "Menores: 40.000 € obras · 15.000 € resto"
    ],
-   "ic": "📌"
+   "ic": "📌",
+   "articulos": [
+    [
+     "lcsp",
+     "118",
+     "Contratos menores: umbrales, informe y publicación",
+     "Son **contratos menores** los de valor estimado **inferior a 40.000 euros** (**obras**) o **15.000 euros** (**suministros o servicios**). El expediente exige un **informe del órgano de contratación** que justifique **motivadamente la necesidad** del contrato y que **no se altera su objeto** para evitar los umbrales; **aprobación del gasto** e incorporación de la **factura**. En **obras**, además, el **presupuesto** y, si afecta a estabilidad, seguridad o estanqueidad, el **informe de la oficina de supervisión**. Se **publican** (art. 63.4). El informe del apartado 2 **no se exige** si se paga por **anticipo de caja fija** hasta **5.000 euros**.",
+     "¿Qué importes máximos tienen los contratos menores de obras y de suministros y servicios?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "lcsp",
+     "DA3",
+     "Normas específicas de contratación en entidades locales",
+     "Las Administraciones locales aplican la Ley **con las especialidades** de las DA 2.ª y 3.ª. Se pueden **tramitar anticipadamente** contratos cuya ejecución empiece **en el ejercicio siguiente** o cuya financiación dependa de **préstamo, crédito o subvención**, con **condición suspensiva**. La **fiscalización** corresponde al **Interventor**. Los **informes jurídicos** los emite el **Secretario**, y es **preceptivo su informe** en aprobación de expedientes, modificación, revisión de precios, prórrogas, equilibrio económico, interpretación y resolución. En **municipios de menos de 5.000 habitantes** pueden redactarse **proyectos independientes** de partes de una obra. En la **compra de inmuebles**, el pago puede **aplazarse hasta cuatro años**.",
+     "¿Quién emite los informes jurídicos del expediente de contratación en una entidad local?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -615,6 +896,1196 @@
    [
     "supervisión de proyectos"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Ley tiene por objeto regular la contratación del sector público a fin de garantizar que se ajusta a los principios de:",
+   [
+    "Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores",
+    "Jerarquía, competencia y descentralización de los órganos de contratación y de los contratistas",
+    "Celeridad, economía procesal y eficacia en la tramitación de los expedientes de contratación"
+   ],
+   0,
+   "Art. 1.1.",
+   "lcsp 1.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en toda contratación pública se incorporarán de manera transversal y preceptiva:",
+   [
+    "Criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato",
+    "Criterios exclusivamente económicos, ya que los sociales y medioambientales son siempre potestativos",
+    "Criterios sociales solo en los contratos de servicios, y medioambientales solo en los de obras"
+   ],
+   0,
+   "Art. 1.3.",
+   "lcsp 1.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos del sector público, sometidos a la Ley:",
+   [
+    "Los contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren las entidades enumeradas en el artículo 3",
+    "Todos los contratos de las entidades públicas, sean o no onerosos, y cualquiera que sea su naturaleza",
+    "Solo los contratos que celebren las Administraciones Públicas, con exclusión del resto del sector público"
+   ],
+   0,
+   "Art. 2.1. Es oneroso si el contratista obtiene algún beneficio económico, directo o indirecto.",
+   "lcsp 2.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, a los efectos de identificar las prestaciones objeto de los contratos regulados en la Ley se utilizará:",
+   [
+    "El «Vocabulario común de contratos públicos» (CPV), aprobado por Reglamento (CE) n.º 2195/2002",
+    "El Código Nacional de Actividades Económicas, aprobado por el Ministerio de Hacienda y Función Pública",
+    "El Nomenclátor de bienes y servicios de las Administraciones Públicas, aprobado por real decreto"
+   ],
+   0,
+   "Art. 2.4.",
+   "lcsp 2.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, forman parte del sector público, entre otras entidades:",
+   [
+    "La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local",
+    "Los partidos políticos y las organizaciones sindicales y empresariales, junto con sus fundaciones",
+    "Las Corporaciones de derecho público, aunque no cumplan los requisitos de poder adjudicador"
+   ],
+   0,
+   "Art. 3.1 a). Partidos y sindicatos no forman parte del sector público (art. 3.4), aunque deben aprobar instrucciones internas si cumplen requisitos de poder adjudicador.",
+   "lcsp 3.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las sociedades mercantiles forman parte del sector público cuando la participación, directa o indirecta, de entidades públicas en su capital social sea:",
+   [
+    "Superior al 50 por 100",
+    "Igual o superior al 25 por 100",
+    "Superior al 75 por 100"
+   ],
+   0,
+   "Art. 3.1 h).",
+   "lcsp 3.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tienen la consideración de Administraciones Públicas, a efectos de la Ley, entre otras:",
+   [
+    "La Administración General del Estado, las Administraciones de las CCAA, Ceuta y Melilla y las Entidades Locales",
+    "Las fundaciones públicas y las entidades públicas empresariales vinculadas a la Administración",
+    "Las Mutuas colaboradoras con la Seguridad Social y las sociedades mercantiles de capital público"
+   ],
+   0,
+   "Art. 3.2 a). Fundaciones y Mutuas son poderes adjudicadores pero no Administraciones Públicas.",
+   "lcsp 3.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se considerarán poderes adjudicadores, entre otras entidades:",
+   [
+    "Las Administraciones Públicas, las fundaciones públicas y las Mutuas colaboradoras con la Seguridad Social",
+    "Solo las Administraciones Públicas, quedando excluidas las fundaciones públicas y las Mutuas",
+    "Las sociedades mercantiles con participación pública inferior al 50 % del capital social"
+   ],
+   0,
+   "Art. 3.3.",
+   "lcsp 3.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, quedan excluidos del ámbito de la Ley los convenios entre entidades públicas, cuyo contenido no esté comprendido en el de los contratos regulados en la Ley, condicionado a que las entidades intervinientes:",
+   [
+    "No tengan vocación de mercado, presumida cuando realicen en el mercado abierto un porcentaje igual o superior al 20 por ciento de las actividades objeto de colaboración",
+    "Tengan siempre vocación de mercado, al realizar en el mercado abierto más del 50 % de su actividad",
+    "Realicen menos del 50 % de su actividad en el mercado abierto y colaboren con ánimo de lucro"
+   ],
+   0,
+   "Art. 6.1 a).",
+   "lcsp 6.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, para que un convenio entre entidades públicas quede excluido de la Ley debe establecer o desarrollar una cooperación entre las entidades participantes:",
+   [
+    "Con la finalidad de garantizar que los servicios públicos que les incumben se prestan de modo que se logren los objetivos que tienen en común, guiada únicamente por consideraciones de interés público",
+    "Con ánimo de lucro compartido, buscando obtener ingresos de mercado derivados de la prestación del servicio",
+    "Con la finalidad de competir en el mercado abierto con otras entidades para la prestación del servicio"
+   ],
+   0,
+   "Art. 6.1 b) y c).",
+   "lcsp 6.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, quedan excluidos de la Ley:",
+   [
+    "La relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral",
+    "Los contratos de servicios de consultoría y los de suministro de energía celebrados por Administraciones Públicas",
+    "Los contratos de obras de importe superior al umbral de regulación armonizada celebrados por poderes adjudicadores"
+   ],
+   0,
+   "Art. 11.1.",
+   "lcsp 11.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se excluyen de la Ley las relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera:",
+   [
+    "El abono de una tarifa, tasa o precio público de aplicación general",
+    "El pago de un precio privado negociado individualmente entre el prestador y cada usuario del servicio",
+    "La suscripción de un contrato de adhesión entre el usuario y la entidad prestadora del servicio"
+   ],
+   0,
+   "Art. 11.2.",
+   "lcsp 11.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos relativos a servicios de arbitraje y conciliación:",
+   [
+    "Quedan excluidos de la Ley",
+    "Son contratos de servicios sujetos a regulación armonizada",
+    "Se rigen por la Ley salvo en su adjudicación"
+   ],
+   0,
+   "Art. 11.3.",
+   "lcsp 11.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos de obras aquellos que tienen por objeto:",
+   [
+    "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos del Anexo I",
+    "El arrendamiento de bienes inmuebles de titularidad pública para su explotación económica por un particular",
+    "La explotación de un servicio público cuya titularidad corresponda a la entidad contratante"
+   ],
+   0,
+   "Art. 13.1 a).",
+   "lcsp 13.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por «obra» se entenderá:",
+   [
+    "El resultado de un conjunto de trabajos de construcción o de ingeniería civil, destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto un bien inmueble",
+    "Cualquier trabajo realizado sobre bienes muebles, siempre que se destine a una función económica o técnica",
+    "Solo la edificación de inmuebles destinados a vivienda, quedando excluida la ingeniería civil"
+   ],
+   0,
+   "Art. 13.2.",
+   "lcsp 13.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de obras se referirán, con carácter general, a:",
+   [
+    "Una obra completa, susceptible de ser entregada al uso general o al servicio correspondiente",
+    "Una parte independiente de la obra, aunque no sea susceptible de entregarse al uso general o al servicio",
+    "Un presupuesto anual de gasto, sin que sea necesario que comprenda todos los elementos de la obra"
+   ],
+   0,
+   "Art. 13.3.",
+   "lcsp 13.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el derecho de explotación de las obras en el contrato de concesión de obras deberá implicar:",
+   [
+    "La transferencia al concesionario de un riesgo operacional en la explotación, abarcando el riesgo de demanda o el de suministro, o ambos",
+    "La garantía de recuperación de las inversiones por parte de la Administración concedente en todo caso",
+    "La asunción íntegra por la Administración concedente del riesgo de demanda y del riesgo de suministro"
+   ],
+   0,
+   "Art. 14.4.",
+   "lcsp 14.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se considerará que el concesionario asume un riesgo operacional cuando:",
+   [
+    "No esté garantizado que, en condiciones normales de funcionamiento, vaya a recuperar las inversiones ni a cubrir los costes de la explotación",
+    "Esté garantizada la recuperación de sus inversiones y la cobertura de los costes de la explotación",
+    "La Administración compense todas las pérdidas, aunque sean consecuencia de las incertidumbres del mercado"
+   ],
+   0,
+   "Art. 14.4 segundo párrafo.",
+   "lcsp 14.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el contrato de concesión de servicios es aquel en cuya virtud poderes adjudicadores encomiendan a título oneroso a una o varias personas la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida:",
+   [
+    "Por el derecho a explotar los servicios objeto del contrato o por dicho derecho acompañado del de percibir un precio",
+    "Exclusivamente por un precio pagado por la Administración concedente, sin derecho de explotación del servicio",
+    "Por una subvención a fondo perdido otorgada por el poder adjudicador al concesionario"
+   ],
+   0,
+   "Art. 15.1.",
+   "lcsp 15.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos de suministro los que tienen por objeto:",
+   [
+    "La adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles",
+    "La adquisición de bienes inmuebles y el arrendamiento de los mismos, con o sin opción de compra",
+    "La prestación de actividades de hacer dirigidas a obtener un resultado distinto de una obra o suministro"
+   ],
+   0,
+   "Art. 16.1.",
+   "lcsp 16.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se consideran en todo caso contratos de suministro, entre otros:",
+   [
+    "Los que tengan por objeto la adquisición de energía primaria o energía transformada",
+    "Los de adquisición de programas de ordenador desarrollados a medida",
+    "Los relativos a propiedades incorporales"
+   ],
+   0,
+   "Art. 16.3 d). Los programas a medida son contratos de servicios (16.3 b); las propiedades incorporales no son suministro (16.2).",
+   "lcsp 16.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de adquisición de programas de ordenador desarrollados a medida:",
+   [
+    "Se considerarán contratos de servicios",
+    "Se considerarán contratos de suministro",
+    "Se considerarán contratos de obras"
+   ],
+   0,
+   "Art. 16.3 b).",
+   "lcsp 16.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos de servicios aquellos cuyo objeto son:",
+   [
+    "Prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro",
+    "Prestaciones de dar bienes muebles consistentes en la entrega de productos elaborados por el contratista",
+    "Prestaciones de construcción de infraestructuras con un resultado que tenga por objeto un bien inmueble"
+   ],
+   0,
+   "Art. 17. No pueden ser objeto los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+   "lcsp 17",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no podrán ser objeto de contratos de servicios:",
+   [
+    "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+    "Los servicios de limpieza y mantenimiento de edificios públicos, que se prestan de forma sucesiva",
+    "Los servicios de consultoría y asistencia técnica que se prestan por precio unitario"
+   ],
+   0,
+   "Art. 17 segundo párrafo.",
+   "lcsp 17",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se entiende por contrato mixto:",
+   [
+    "Aquel que contenga prestaciones correspondientes a otro u otros de distinta clase",
+    "El contrato que celebran conjuntamente dos o más Administraciones Públicas para un objeto común",
+    "El contrato en el que el precio se compone en parte de precio y en parte de subvención"
+   ],
+   0,
+   "Art. 18.1.",
+   "lcsp 18.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, cuando un contrato mixto comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios, para la adjudicación se atenderá:",
+   [
+    "Al carácter de la prestación principal",
+    "Al de menor valor estimado",
+    "Al que decida el contratista"
+   ],
+   0,
+   "Art. 18.1 a).",
+   "lcsp 18.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, sólo podrán fusionarse prestaciones de diferentes contratos en un contrato mixto cuando:",
+   [
+    "Se encuentren directamente vinculadas entre sí y mantengan relaciones de complementariedad que exijan su tratamiento como unidad funcional",
+    "Lo decida libremente el órgano de contratación, aunque las prestaciones no guarden relación entre sí",
+    "Las prestaciones sean independientes entre sí y puedan ser objeto de contratos separados"
+   ],
+   0,
+   "Art. 34.2.",
+   "lcsp 34.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos sujetos a regulación armonizada los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios cuyo valor estimado sea igual o superior a las cuantías de los artículos siguientes, siempre que la entidad contratante:",
+   [
+    "Tenga el carácter de poder adjudicador",
+    "Sea una Administración del Estado",
+    "Sea una sociedad mercantil"
+   ],
+   0,
+   "Art. 19.1.",
+   "lcsp 19.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no se consideran sujetos a regulación armonizada, cualquiera que sea su valor estimado, los contratos:",
+   [
+    "Que tengan por objeto la representación y defensa legal de un cliente por un abogado o procurador en un procedimiento judicial o arbitraje",
+    "De obras de ingeniería civil de importe superior a 5 millones de euros, adjudicados por poderes adjudicadores",
+    "De suministro de productos informáticos celebrados por entidades que no tengan carácter de Administración Pública"
+   ],
+   0,
+   "Art. 19.2 e) 1.º.",
+   "lcsp 19.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos de obras adjudicados por lotes, cuando el valor acumulado de los lotes iguale o supere el umbral de regulación armonizada, los órganos de contratación podrán exceptuar de estas normas a los lotes de valor estimado inferior a un millón de euros siempre que el importe acumulado de los lotes exceptuados no sobrepase:",
+   [
+    "El 20 por 100 del valor acumulado de la totalidad de los lotes",
+    "El 10 por 100 del valor acumulado de la totalidad de los lotes de la obra",
+    "El 50 por 100 del valor acumulado de la totalidad de los lotes de la obra"
+   ],
+   0,
+   "Art. 20.2.",
+   "lcsp 20.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos subvencionados sujetos a regulación armonizada los de obras y servicios subvencionados, de forma directa y en más de un porcentaje de su importe, por poderes adjudicadores. Ese porcentaje es:",
+   [
+    "Más de un 50 por 100",
+    "Más de un 25 por 100",
+    "Más de un 75 por 100"
+   ],
+   0,
+   "Art. 23.1.",
+   "lcsp 23.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos del sector público podrán estar sometidos a:",
+   [
+    "Un régimen jurídico de derecho administrativo o de derecho privado",
+    "Solo a un régimen de derecho administrativo, sin que puedan someterse a normas de derecho privado",
+    "Solo a un régimen de derecho privado, cuando el contratante sea una Administración Pública"
+   ],
+   0,
+   "Art. 24.",
+   "lcsp 24",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tendrán carácter administrativo, siempre que se celebren por una Administración Pública:",
+   [
+    "Los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios",
+    "Solo los contratos de obras y de concesión de obras, pues el resto se rigen por el derecho privado",
+    "Todos los contratos celebrados por poderes adjudicadores, sean o no Administraciones Públicas"
+   ],
+   0,
+   "Art. 25.1 a).",
+   "lcsp 25.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tendrán carácter privado, aunque los celebre una Administración Pública:",
+   [
+    "Los contratos de servicios que tengan por objeto servicios financieros, creación e interpretación artística y literaria o espectáculos, y la suscripción a revistas y bases de datos",
+    "Los contratos de suministro de bienes muebles y los de concesión de obra, por su objeto",
+    "Los contratos de servicios de consultoría y los de concesión de servicios públicos"
+   ],
+   0,
+   "Art. 25.1 a) 1.º y 2.º.",
+   "lcsp 25.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos administrativos se regirán en cuanto a su preparación, adjudicación, efectos, modificación y extinción:",
+   [
+    "Por la Ley y sus disposiciones de desarrollo; supletoriamente por las restantes normas de derecho administrativo y, en su defecto, por las de derecho privado",
+    "Por el derecho privado en todo caso, con aplicación supletoria de las normas de derecho administrativo",
+    "Por el Código Civil exclusivamente, con aplicación de la Ley solo a su adjudicación"
+   ],
+   0,
+   "Art. 25.2.",
+   "lcsp 25.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tendrán la consideración de contratos privados:",
+   [
+    "Los celebrados por entidades del sector público que, siendo poder adjudicador, no reúnan la condición de Administraciones Públicas",
+    "Los contratos de obras celebrados por las Administraciones Públicas con un valor estimado inferior a 40.000 euros",
+    "Los contratos administrativos especiales vinculados al giro o tráfico específico de la Administración"
+   ],
+   0,
+   "Art. 26.1 b).",
+   "lcsp 26.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos privados que celebren las Administraciones Públicas se regirán, en cuanto a sus efectos, modificación y extinción:",
+   [
+    "Por el derecho privado",
+    "Por el derecho administrativo",
+    "Por la Ley de Contratos del Sector Público íntegramente"
+   ],
+   0,
+   "Art. 26.2.",
+   "lcsp 26.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, serán competencia del orden jurisdiccional contencioso-administrativo las cuestiones relativas a:",
+   [
+    "La preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos",
+    "Los efectos y la extinción de los contratos privados de las Administraciones Públicas celebrados con particulares",
+    "La financiación privada del contrato de concesión de obra o de concesión de servicios, en todo caso"
+   ],
+   0,
+   "Art. 27.1 a).",
+   "lcsp 27.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el orden jurisdiccional civil será el competente para resolver, entre otras:",
+   [
+    "Las controversias relativas a los efectos y extinción de los contratos privados de poderes adjudicadores",
+    "La preparación y adjudicación de los contratos privados de las Administraciones Públicas en todo caso",
+    "Los recursos interpuestos contra las resoluciones de los órganos de resolución de recursos contractuales"
+   ],
+   0,
+   "Art. 27.2 a).",
+   "lcsp 27.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las entidades del sector público no podrán celebrar otros contratos que:",
+   [
+    "Aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales",
+    "Los que el órgano de contratación decida libremente en cada momento atendiendo a la disponibilidad presupuestaria",
+    "Los que no superen los umbrales de regulación armonizada, quedando excluidos los de importe superior"
+   ],
+   0,
+   "Art. 28.1.",
+   "lcsp 28.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las entidades del sector público programarán la actividad de contratación pública y darán a conocer su plan de contratación:",
+   [
+    "Anticipadamente mediante un anuncio de información previa (art. 134) que recoja al menos los contratos sujetos a regulación armonizada",
+    "Una vez adjudicados los contratos, mediante la publicación del anuncio de adjudicación en el perfil de contratante",
+    "Únicamente si lo exige el Tribunal de Cuentas o el órgano de control externo correspondiente"
+   ],
+   0,
+   "Art. 28.4.",
+   "lcsp 28.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la prórroga del contrato se acordará por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con:",
+   [
+    "Dos meses de antelación a la finalización del plazo de duración, salvo que el pliego establezca uno mayor",
+    "Un mes de antelación a la finalización del plazo de duración, salvo que el pliego establezca uno menor",
+    "Seis meses de antelación a la finalización del plazo de duración, salvo que el pliego establezca otro"
+   ],
+   0,
+   "Art. 29.2. Quedan exceptuados los contratos de duración inferior a dos meses.",
+   "lcsp 29.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en ningún caso podrá producirse la prórroga del contrato:",
+   [
+    "Por el consentimiento tácito de las partes",
+    "Por acuerdo expreso del órgano de contratación",
+    "Por previsión en el pliego"
+   ],
+   0,
+   "Art. 29.2.",
+   "lcsp 29.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de:",
+   [
+    "Cinco años, incluyendo las posibles prórrogas",
+    "Cuatro años, incluyendo las prórrogas",
+    "Diez años, sin contar las prórrogas"
+   ],
+   0,
+   "Art. 29.4.",
+   "lcsp 29.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29.6 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de concesión de obras y de concesión de servicios que comprendan la ejecución de obras y la explotación del servicio no podrán exceder, incluyendo prórrogas, de:",
+   [
+    "Cuarenta años",
+    "Veinticinco años",
+    "Cincuenta años"
+   ],
+   0,
+   "Art. 29.6 a). 25 años para concesión de servicios no sanitarios; 10 años para servicios sanitarios.",
+   "lcsp 29.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29.8 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos menores no podrán tener una duración superior a:",
+   [
+    "Un año ni ser objeto de prórroga",
+    "Dos años, prorrogables",
+    "Seis meses, prorrogables una vez"
+   ],
+   0,
+   "Art. 29.8.",
+   "lcsp 29.8",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos:",
+   [
+    "Cuando no haya habido ofertas de empresarios en la licitación previamente efectuada",
+    "Siempre que la Administración lo prefiera, aunque haya habido ofertas de empresarios en la licitación",
+    "Cuando el presupuesto supere el umbral de regulación armonizada fijado para ese tipo de contratos"
+   ],
+   0,
+   "Art. 30.1 c).",
+   "lcsp 30.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la prestación de servicios se realizará normalmente:",
+   [
+    "Por la propia Administración por sus propios medios; cuando carezca de medios suficientes, previa justificación en el expediente, se podrá contratar",
+    "Mediante contrato con empresarios, y solo excepcionalmente por la propia Administración con sus medios",
+    "Mediante concesión, previa justificación de la conveniencia de externalizar su gestión"
+   ],
+   0,
+   "Art. 30.3.",
+   "lcsp 30.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las entidades del sector público pueden cooperar entre sí sin que el resultado se califique de contractual, mediante:",
+   [
+    "Sistemas de cooperación vertical (medios propios personificados) y horizontal (convenios)",
+    "Solo mediante sistemas de cooperación horizontal, a través de convenios entre entidades del sector público",
+    "Mediante contratos de colaboración público-privada y encargos a empresas privadas seleccionadas en licitación"
+   ],
+   0,
+   "Art. 31.1.",
+   "lcsp 31.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, para tener la consideración de medio propio personificado respecto de una única entidad concreta del sector público, más de un cierto porcentaje de las actividades del ente se llevarán a cabo en el ejercicio de los cometidos confiados por el poder adjudicador que hace el encargo y que lo controla. Ese porcentaje es:",
+   [
+    "Más del 80 por ciento",
+    "Más del 50 por ciento",
+    "Más del 90 por ciento"
+   ],
+   0,
+   "Art. 32.2 b).",
+   "lcsp 32.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el encargo a un medio propio personificado que cumpla los requisitos del artículo 32:",
+   [
+    "No tendrá la consideración de contrato",
+    "Tendrá siempre la consideración de contrato de servicios",
+    "Se adjudicará por procedimiento abierto"
+   ],
+   0,
+   "Art. 32.1.",
+   "lcsp 32.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.7 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el importe de las prestaciones parciales que el medio propio pueda contratar con terceros, en ejecución de un encargo, no excederá del:",
+   [
+    "50 por ciento de la cuantía del encargo",
+    "20 por ciento de la cuantía del encargo",
+    "80 por ciento de la cuantía del encargo"
+   ],
+   0,
+   "Art. 32.7 b).",
+   "lcsp 32.7",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, para que un ente sea medio propio personificado de una entidad del sector público que no tenga la consideración de poder adjudicador, la totalidad del capital social o patrimonio del ente destinatario del encargo deberá ser:",
+   [
+    "De titularidad pública",
+    "De titularidad mayoritariamente pública",
+    "De titularidad privada"
+   ],
+   0,
+   "Art. 33.2 b).",
+   "lcsp 33.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos del sector público podrán incluirse cualesquiera pactos, cláusulas y condiciones, siempre que no sean contrarios:",
+   [
+    "Al interés público, al ordenamiento jurídico y a los principios de buena administración",
+    "A las normas internas del órgano de contratación o a la voluntad del contratista adjudicatario",
+    "Al interés particular del contratista, aunque sean contrarios al ordenamiento jurídico"
+   ],
+   0,
+   "Art. 34.1.",
+   "lcsp 34.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los documentos en los que se formalicen los contratos deberán incluir necesariamente, entre otras menciones:",
+   [
+    "La identificación de las partes, la acreditación de la capacidad de los firmantes y la definición del objeto y tipo del contrato",
+    "El nombre de los demás licitadores que concurrieron al procedimiento y sus ofertas económicas",
+    "El presupuesto máximo del órgano de contratación para el ejercicio y la dotación de crédito"
+   ],
+   0,
+   "Art. 35.1 a), b) y c).",
+   "lcsp 35.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se consideran contratos menores los de valor estimado inferior a:",
+   [
+    "40.000 euros en obras, y a 15.000 euros en suministro o servicios",
+    "50.000 euros en obras, y 18.000 euros en suministro o servicios",
+    "30.000 euros en obras y 10.000 euros en suministros o servicios"
+   ],
+   0,
+   "Art. 118.1.",
+   "lcsp 118.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos menores la tramitación del expediente exigirá:",
+   [
+    "Un informe del órgano de contratación justificando motivadamente la necesidad del contrato y que no se está alterando su objeto para evitar los umbrales",
+    "Un anuncio de licitación en el perfil de contratante y la constitución de una Mesa de contratación",
+    "La publicación del contrato en el Boletín Oficial y un informe preceptivo del Consejo de Estado"
+   ],
+   0,
+   "Art. 118.2.",
+   "lcsp 118.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos menores se requerirá además:",
+   [
+    "La aprobación del gasto y la incorporación de la factura correspondiente",
+    "El informe del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
+    "Un trámite de información pública del expediente de contratación durante quince días"
+   ],
+   0,
+   "Art. 118.3.",
+   "lcsp 118.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el contrato menor de obras deberá añadirse, además:",
+   [
+    "El presupuesto de las obras (y el proyecto cuando sea requerido) y, si afecta a estabilidad, seguridad o estanqueidad, el informe de la oficina de supervisión",
+    "Solo la factura correspondiente y la aprobación del gasto, sin presupuesto de las obras ni informe de supervisión",
+    "El dictamen del órgano consultivo y el proyecto técnico visado en todo caso, cualquiera que sea la obra"
+   ],
+   0,
+   "Art. 118.4.",
+   "lcsp 118.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.5 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, lo dispuesto sobre el informe de justificación de necesidad del contrato menor no será de aplicación en los contratos cuyo pago se verifique por anticipos de caja fija u otro sistema similar, siempre que el valor estimado no exceda de:",
+   [
+    "5.000 euros",
+    "10.000 euros",
+    "3.000 euros"
+   ],
+   0,
+   "Art. 118.5.",
+   "lcsp 118.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, corresponden a los Alcaldes y a los Presidentes de las Entidades Locales las competencias como órgano de contratación de obras, suministro, servicios, concesiones y contratos administrativos especiales, cuando su valor estimado no supere:",
+   [
+    "El 10 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, la cuantía de seis millones de euros",
+    "El 5 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, tres millones de euros",
+    "El 20 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, nueve millones de euros"
+   ],
+   0,
+   "DA 2.ª, apartado 1.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, corresponden al Pleno las competencias como órgano de contratación respecto de los contratos del apartado 1:",
+   [
+    "Cuando por su valor o duración no correspondan al Alcalde o Presidente, así como la aprobación de los pliegos de cláusulas administrativas generales",
+    "Siempre, cualquiera que sea su valor o duración, con independencia de las competencias del Alcalde",
+    "Solo los contratos plurianuales de más de cuatro años, siendo el resto del Alcalde en todo caso"
+   ],
+   0,
+   "DA 2.ª, apartado 2.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los municipios de gran población (art. 121 LBRL), las competencias del órgano de contratación se ejercen por:",
+   [
+    "La Junta de Gobierno Local, cualquiera que sea el importe o duración del contrato, siendo el Pleno el competente para aprobar los pliegos de cláusulas administrativas generales",
+    "El Alcalde, en todo caso, cualquiera que sea el importe o la duración del contrato, y el Pleno los pliegos generales",
+    "El Pleno, en todo caso, cualquiera que sea el importe o la duración del contrato, y la Junta los pliegos generales"
+   ],
+   0,
+   "DA 2.ª, apartado 4.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los municipios de población inferior a 5.000 habitantes es competencia del Pleno autorizar:",
+   [
+    "La redacción y licitación de proyectos independientes relativos a cada una de las partes de una obra cuyo período de ejecución exceda de un presupuesto anual, si son susceptibles de utilización separada",
+    "Todos los contratos menores de obras que se tramiten en el municipio, cualquiera que sea su duración",
+    "Los contratos de suministro de bienes consumibles o de fácil deterioro por el uso"
+   ],
+   0,
+   "DA 2.ª, apartado 3.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la constitución de Juntas de Contratación en las Entidades Locales:",
+   [
+    "Es potestativa, y corresponde al Pleno acordarla y determinar su composición, debiendo formar parte el Secretario y el Interventor",
+    "Es obligatoria en todos los municipios, y corresponde al Alcalde acordarla sin intervención del Pleno",
+    "Es potestativa, y corresponde al Alcalde acordarla y determinar su composición sin intervención del Pleno"
+   ],
+   0,
+   "DA 2.ª, apartado 5. Con Junta de Contratación se prescinde de la Mesa.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma, y formarán parte de ella como vocales el Secretario y el Interventor, sin que su número total sea inferior a:",
+   [
+    "Tres",
+    "Cinco",
+    "Siete"
+   ],
+   0,
+   "DA 2.ª, apartado 7.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en ningún caso podrá formar parte de las Mesas de contratación ni emitir informes de valoración de las ofertas:",
+   [
+    "Personal eventual",
+    "Personal funcionario de carrera",
+    "El Interventor"
+   ],
+   0,
+   "DA 2.ª, apartado 7. El funcionario interino solo si no hay funcionarios de carrera suficientemente cualificados y se acredita.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en las entidades locales corresponde a los Alcaldes la competencia para celebrar contratos privados, adjudicar concesiones sobre bienes y adquirir bienes inmuebles cuando el presupuesto base de licitación no supere el 10 por ciento de los recursos ordinarios ni:",
+   [
+    "Tres millones de euros",
+    "Seis millones de euros",
+    "Un millón de euros"
+   ],
+   0,
+   "DA 2.ª, apartado 9.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, corresponde al Pleno la enajenación de los bienes del patrimonio declarados de valor histórico o artístico:",
+   [
+    "Cualquiera que sea su valor",
+    "Solo si su valor excede de tres millones de euros",
+    "Solo si excede del 10 % de los recursos ordinarios"
+   ],
+   0,
+   "DA 2.ª, apartado 10.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con la disposición adicional segunda de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la composición de la Mesa de contratación se publicará:",
+   [
+    "En el perfil de contratante del órgano de contratación correspondiente; podrán constituirse Mesas permanentes",
+    "En el Boletín Oficial de la Provincia, sin que puedan constituirse Mesas de contratación permanentes",
+    "En el tablón de edictos del Ayuntamiento, pudiendo constituirse Mesas permanentes"
+   ],
+   0,
+   "DA 2.ª, apartado 7.",
+   "lcsp DA2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

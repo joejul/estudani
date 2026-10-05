@@ -46,6 +46,48 @@
    "Legitimación",
    "Condición de tener un derecho o interés legítimo para recurrir. Sin ella, el recurso se inadmite.",
    "Art. 116 Ley 39/2015"
+  ],
+  [
+   "revocacion-actos",
+   "Revocación",
+   "La Administración retira un acto de gravamen o desfavorable por motivos de oportunidad o legalidad, sin ir contra la ley.",
+   "Art. 109 Ley 39/2015"
+  ],
+  [
+   "rectificacion-errores",
+   "Rectificación de errores",
+   "Corrección de errores materiales, de hecho o aritméticos en un acto, en cualquier momento.",
+   "Art. 109.2 Ley 39/2015"
+  ],
+  [
+   "recurso-extraordinario-revision",
+   "Recurso extraordinario de revisión",
+   "Recurso excepcional contra actos firmes, solo por causas tasadas (error de hecho, documentos nuevos, falsedad, etc.).",
+   "Art. 125 Ley 39/2015"
+  ],
+  [
+   "acto-firme",
+   "Acto firme",
+   "Acto que ya no admite recurso porque ha pasado el plazo o se han agotado las vías.",
+   "Ley 39/2015"
+  ],
+  [
+   "plazo-recurso-alzada",
+   "Plazo del recurso de alzada",
+   "Un mes si el acto es expreso; tres meses si no lo es (silencio).",
+   "Art. 122 Ley 39/2015"
+  ],
+  [
+   "suspension-ejecucion",
+   "Suspensión de la ejecución",
+   "Paralizar temporalmente el cumplimiento del acto recurrido cuando puede causar perjuicios de imposible reparación o es nulo.",
+   "Art. 117 Ley 39/2015"
+  ],
+  [
+   "recurso-potestativo-reposicion",
+   "Recurso potestativo de reposición",
+   "Recurso que se interpone ante el mismo órgano que dictó el acto, en el plazo de un mes. Es opcional.",
+   "Art. 123 Ley 39/2015"
   ]
  ],
  "hubs": [

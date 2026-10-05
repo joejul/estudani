@@ -73,25 +73,26 @@
    ],
    "ic": "👤",
    "articulos": [
-    {
-     "n": "3",
-     "ley": "Ley 39/2015",
-     "ref": "Capacidad de obrar",
-     "txt": "Tienen capacidad de obrar ante las Administraciones:\n**a)** las personas físicas o jurídicas con capacidad de obrar según las **normas civiles**;\n**b)** los **menores de edad**, solo para los derechos e intereses cuya actuación el ordenamiento permita **sin asistencia** de quien ejerza la patria potestad, tutela o curatela (se **exceptúan** los menores incapacitados cuando la incapacitación afecte a ese derecho);\n**c)** los **grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos**, pero solo **cuando la Ley lo declare expresamente**.",
-     "int": "«Capacidad de obrar» es poder **actuar tú mismo** ante la Administración. La regla general es la de las **normas civiles**; el menor puede actuar solo **en lo que la ley le permita**, y los grupos sin personalidad jurídica solo si la ley **lo dice expresamente**.",
-     "preg": "Además de los adultos con capacidad civil, ¿quién más puede actuar ante la Administración y con qué condición?"
-    },
-    {
-     "n": "4",
-     "ley": "Ley 39/2015",
-     "ref": "Concepto de interesado",
-     "txt": "**4.1** Son interesados:\n**a)** quienes **promueven** el procedimiento como titulares de derechos o intereses legítimos, individuales o colectivos;\n**b)** quienes, **sin haberlo iniciado**, tienen **derechos** que pueden resultar afectados por la decisión;\n**c)** quienes tienen **intereses legítimos** que pueden resultar afectados por la resolución y **se personan** mientras **no haya resolución definitiva**.\n**4.2** Las asociaciones y organizaciones representativas de intereses económicos y sociales son titulares de **intereses legítimos colectivos**, en los términos que la Ley reconozca.\n**4.3** Si la condición de interesado deriva de una relación jurídica **transmisible**, el **derechohabiente sucede** en esa condición, **sea cual sea el estado del procedimiento**.",
-     "int": "Interesado es quien **pide**, quien **tiene derechos afectados aunque no pidió** o quien **tiene un interés legítimo y se persona a tiempo**. Cuidado con la trampa: las asociaciones tienen **intereses** legítimos colectivos (no «derechos»), y esto está en el **art. 4.2**, no en el art. 53.2.",
-     "preg": "¿Hasta cuándo puede personarse quien tiene un interés legítimo afectado por la resolución?",
-     "z": [
-      "7-may-2023 (1.ª prueba), pregunta 11 · Ley 39/2015, art. 4 (la opción incorrecta atribuía a las asociaciones «derechos» y citaba el art. 53.2)"
-     ]
-    }
+    [
+     "lpac",
+     "3",
+     "Quién tiene capacidad de obrar ante la Administración",
+     "«Capacidad de obrar» es poder **actuar tú mismo** ante la Administración. La regla general es la de las **normas civiles**; el menor puede actuar solo **en lo que la ley le permita**, y los grupos sin personalidad jurídica solo si la ley **lo dice expresamente**.",
+     "Además de los adultos con capacidad civil, ¿quién más puede actuar ante la Administración y con qué condición?",
+     {
+      "txt": "Tienen capacidad de obrar ante las Administraciones:\n**a)** las personas físicas o jurídicas con capacidad de obrar según las **normas civiles**;\n**b)** los **menores de edad**, solo para los derechos e intereses cuya actuación el ordenamiento permita **sin asistencia** de quien ejerza la patria potestad, tutela o curatela (se **exceptúan** los menores incapacitados cuando la incapacitación afecte a ese derecho);\n**c)** los **grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos**, pero solo **cuando la Ley lo declare expresamente**."
+     }
+    ],
+    [
+     "lpac",
+     "4",
+     "Quién se considera interesado en un procedimiento",
+     "Interesado es quien **pide**, quien **tiene derechos afectados aunque no pidió** o quien **tiene un interés legítimo y se persona a tiempo**. Cuidado con la trampa: las asociaciones tienen **intereses** legítimos colectivos (no «derechos»), y esto está en el **art. 4.2**, no en el art. 53.2.",
+     "¿Hasta cuándo puede personarse quien tiene un interés legítimo afectado por la resolución?",
+     {
+      "txt": "**4.1** Son interesados:\n**a)** quienes **promueven** el procedimiento como titulares de derechos o intereses legítimos, individuales o colectivos;\n**b)** quienes, **sin haberlo iniciado**, tienen **derechos** que pueden resultar afectados por la decisión;\n**c)** quienes tienen **intereses legítimos** que pueden resultar afectados por la resolución y **se personan** mientras **no haya resolución definitiva**.\n**4.2** Las asociaciones y organizaciones representativas de intereses económicos y sociales son titulares de **intereses legítimos colectivos**, en los términos que la Ley reconozca.\n**4.3** Si la condición de interesado deriva de una relación jurídica **transmisible**, el **derechohabiente sucede** en esa condición, **sea cual sea el estado del procedimiento**."
+     }
+    ]
    ]
   },
   {
@@ -182,76 +183,86 @@
    ],
    "ic": "✍️",
    "articulos": [
-    {
-     "n": "5",
-     "ley": "Ley 39/2015",
-     "ref": "Representación",
-     "txt": "**5.1** Se puede actuar por **representante**; las actuaciones se entienden con él, **salvo manifestación expresa en contra** del interesado.\n**5.2** Pueden representar a otros las personas **físicas con capacidad de obrar** y las **jurídicas si sus Estatutos lo prevén**.\n**5.3** Hay que **acreditar** la representación para **solicitudes, declaraciones responsables o comunicaciones, recursos, desistir y renunciar**. Para **meros trámites** se **presume**.\n**5.4** Se acredita por **cualquier medio válido en Derecho** con constancia fidedigna; vale el **apoderamiento «apud acta»** (comparecencia personal o electrónica en sede) o la inscripción en el **registro electrónico de apoderamientos**.\n**5.5** El órgano **incorpora al expediente** la acreditación de la representación.\n**5.6** La falta o insuficiencia **no impide** el acto si se aporta o subsana en **diez días** (o más si las circunstancias lo requieren).\n**5.7** Las Administraciones pueden **habilitar** a personas físicas o jurídicas para transacciones electrónicas en nombre de los interesados (presunción de validez); pueden **exigir** acreditación en cualquier momento, y el interesado **siempre puede comparecer por sí mismo**.",
-     "int": "Puedes dejar que otro actúe por ti; la Administración trata con él **salvo que digas lo contrario**. Para los actos importantes (pedir, recurrir, desistir, renunciar…) hay que **demostrar el poder**; si falta, **no se pierde el trámite**: hay **10 días** para arreglarlo.",
-     "preg": "Si alguien presenta un recurso en nombre de otro sin acreditar el poder, ¿se rechaza sin más?"
-    },
-    {
-     "n": "6",
-     "ley": "Ley 39/2015",
-     "ref": "Registros electrónicos de apoderamientos",
-     "txt": "**6.1** La AGE, las CCAA y las Entidades Locales tendrán un **registro electrónico general de apoderamientos** (al menos poderes **generales** otorgados **apud acta**, con el **bastanteo**). En la AGE es el **Registro Electrónico de Apoderamientos de la AGE**. Cada organismo puede tener además su **registro particular**.\n**6.2** Los registros deben ser **interoperables**.\n**6.3** Cada asiento contiene: **poderdante, apoderado, fecha de inscripción, período de tiempo y tipo de poder**.\n**6.4** Tipos de poder: **a)** **general** (cualquier actuación ante cualquier Administración); **b)** para **una Administración u organismo concreto**; **c)** para **trámites determinados**.\n**6.5** El apoderamiento **apud acta** se otorga por **comparecencia electrónica en sede** o **personal** en las **oficinas de asistencia en materia de registros**.\n**6.6** Validez **máxima de cinco años** desde la inscripción; antes de que acabe el poderdante puede **revocar o prorrogar** (cada prórroga, **otros cinco años como máximo**).\n**6.7** Las solicitudes de inscripción, revocación, prórroga o denuncia pueden dirigirse a **cualquier registro** y surten efecto **desde la inscripción** en el registro de la Administración ante la que valga el poder.",
-     "int": "Es el **archivo oficial de poderes**: se apunta quién da el poder, a quién, desde cuándo, por cuánto tiempo y de qué tipo. Tres tipos (**general / una Administración / trámites concretos**) y **máximo cinco años**, renovable.",
-     "preg": "¿Cuánto dura como máximo un poder inscrito y qué puede hacer el poderdante antes de que termine?"
-    },
-    {
-     "n": "7",
-     "ley": "Ley 39/2015",
-     "ref": "Pluralidad de interesados",
-     "txt": "Si en una solicitud, escrito o comunicación **figuran varios interesados**, las actuaciones se hacen con el **representante o interesado que expresamente hayan señalado** y, **en su defecto**, con el que figure **en primer término**.",
-     "int": "Para no notificar a todos por separado, la Administración habla con **uno solo**: el que **hayan designado** o, si nadie lo hizo, **el primero que aparece**.",
-     "preg": "En un escrito firmado por tres vecinos sin designar a nadie, ¿con quién se entienden las actuaciones?"
-    },
-    {
-     "n": "8",
-     "ley": "Ley 39/2015",
-     "ref": "Nuevos interesados en el procedimiento",
-     "txt": "Si durante la **instrucción** de un procedimiento **que no haya tenido publicidad** se advierte que hay personas **titulares de derechos o intereses legítimos y directos**, **cuya identificación resulte del expediente** y que puedan resultar afectadas por la resolución, se les **comunica la tramitación** del procedimiento.",
-     "int": "Si en el expediente aparece alguien al que la resolución **puede perjudicar** y que **no sabe que existe el procedimiento**, la Administración **tiene que avisarle** para que pueda personarse. Solo cuando **no hubo publicidad** y la persona **resulta identificable del expediente**.",
-     "preg": "¿Quién tiene que avisar a un afectado que aparece durante la instrucción, y en qué condiciones?"
-    },
-    {
-     "n": "9",
-     "ley": "Ley 39/2015",
-     "ref": "Sistemas de identificación de los interesados",
-     "txt": "**9.1** La Administración **debe verificar la identidad** comprobando **nombre y apellidos** o **denominación o razón social** que consten en el **DNI** o documento equivalente.\n**9.2** Identificación electrónica: **a)** certificados electrónicos **cualificados de firma electrónica**; **b)** certificados cualificados de **sello electrónico**; **c)** **cualquier otro sistema** que la Administración considere válido, con **registro previo como usuario**, comunicado a la **Secretaría General de Administración Digital** con declaración responsable; deben pasar **dos meses** antes de que tenga eficacia jurídica (el órgano estatal competente puede acudir a la vía jurisdiccional por seguridad pública). Las opciones **a) y b)** deben poder usarse **en todo procedimiento**.\n**9.3** Los recursos técnicos de los sistemas **c)** deben estar en **territorio de la Unión Europea** (datos de categorías especiales: en **España**); no se transfieren a terceros países salvo decisión de adecuación o compromisos internacionales.\n**9.4** Si la **AGE** acepta un sistema, sirve ante **todas** las Administraciones, **salvo prueba en contrario**.",
-     "int": "**Identificar** es demostrar **quién eres**. En papel: **DNI**. En electrónico: **certificado de firma o de sello**, o un sistema que la Administración apruebe tras avisar y esperar **dos meses**. Lo que acepta la **AGE** vale para todas.",
-     "preg": "¿Con qué dos sistemas electrónicos debe poder identificarse cualquiera en todo procedimiento?"
-    },
-    {
-     "n": "10",
-     "ley": "Ley 39/2015",
-     "ref": "Sistemas de firma admitidos",
-     "txt": "**10.1** Se puede firmar por **cualquier medio** que acredite la **autenticidad** de la expresión de la voluntad y el consentimiento, y la **integridad e inalterabilidad** del documento.\n**10.2** Si se usan medios electrónicos, son válidos: **a)** firma electrónica **cualificada y avanzada** con certificados cualificados; **b)** sello electrónico **cualificado y avanzado**; **c)** **otro sistema** admitido por la Administración (registro previo, comunicación a la SGAD y **dos meses**). Las opciones **a) y b)** deben poder usarse en **todos los procedimientos y trámites**.\n**10.3** Los recursos técnicos de los sistemas **c)** deben estar en la **UE** (datos especiales: en **España**).\n**10.4** Si la normativa lo dispone **expresamente**, los sistemas de **identificación** pueden admitirse como **firma**.\n**10.5** Al firmar con uno de estos sistemas, la **identidad se entiende ya acreditada por el propio acto de la firma**.",
-     "int": "**Firmar** es mostrar que **quieres** lo que dice el documento y que **no se ha tocado**. La firma **ya identifica**: no hace falta identificarse además.",
-     "preg": "¿Hace falta identificarse aparte si ya se ha firmado con un sistema válido?",
-     "z": [
-      "3-dic-2016 (promoción interna), pregunta 12 · art. 10 (¿basta el acto de la firma para acreditar la identidad?)"
-     ]
-    },
-    {
-     "n": "11",
-     "ley": "Ley 39/2015",
-     "ref": "Uso de medios de identificación y firma",
-     "txt": "**11.1** Con carácter general, para **cualquier actuación** del procedimiento **basta con acreditar previamente la identidad**.\n**11.2** Solo se exige **firma obligatoria** para: **a)** formular **solicitudes**; **b)** presentar **declaraciones responsables o comunicaciones**; **c)** interponer **recursos**; **d)** **desistir** de acciones; **e)** **renunciar** a derechos.",
-     "int": "La regla es **identificarse**; la **firma** solo en los 5 casos importantes. Truco para recordarlos: **S-D-R-D-R** → **S**olicitudes, **D**eclaraciones responsables/comunicaciones, **R**ecursos, **D**esistir, **R**enunciar.",
-     "preg": "¿En qué cinco casos exige la Administración firma obligatoria?"
-    },
-    {
-     "n": "12",
-     "ley": "Ley 39/2015",
-     "ref": "Asistencia en el uso de medios electrónicos",
-     "txt": "**12.1** Las Administraciones **garantizan** que los interesados pueden relacionarse por **medios electrónicos**, poniendo a su disposición los **canales de acceso** y los sistemas necesarios.\n**12.2** **Asisten** en el uso de medios electrónicos a los interesados **no obligados** a relacionarse electrónicamente (los no incluidos en el art. 14.2 y 14.3) **que lo soliciten**: identificación y firma electrónica, presentación de solicitudes por el **registro electrónico general** y **copias auténticas**. Si no tienen medios, un **funcionario público** puede identificarlos o firmar por ellos con su sistema; hace falta que el interesado **se identifique ante el funcionario** y dé su **consentimiento expreso** (debe quedar **constancia**).\n**12.3** Se mantiene un **registro de funcionarios habilitados** (AGE, CCAA y Entidades Locales), **interoperables**; constan al menos los que trabajan en las **oficinas de asistencia en materia de registros**.",
-     "int": "Si no sabes usar lo electrónico, **te ayudan** (solo si **lo pides** y **no estás obligado** a ir por vía electrónica). Un **funcionario habilitado** puede firmar por ti, pero con **tu consentimiento expreso** y dejando **constancia**.",
-     "preg": "¿Quién puede pedir asistencia electrónica y qué necesita un funcionario para firmar por el interesado?",
-     "z": [
-      "3-dic-2016 (promoción interna), pregunta 14 · art. 12 (¿a quién asisten las Administraciones en el uso de medios electrónicos?)"
-     ]
-    }
+    [
+     "lpac",
+     "5",
+     "Actuar mediante representante y cómo acreditarlo",
+     "Puedes dejar que otro actúe por ti; la Administración trata con él **salvo que digas lo contrario**. Para los actos importantes (pedir, recurrir, desistir, renunciar…) hay que **demostrar el poder**; si falta, **no se pierde el trámite**: hay **10 días** para arreglarlo.",
+     "Si alguien presenta un recurso en nombre de otro sin acreditar el poder, ¿se rechaza sin más?",
+     {
+      "txt": "**5.1** Se puede actuar por **representante**; las actuaciones se entienden con él, **salvo manifestación expresa en contra** del interesado.\n**5.2** Pueden representar a otros las personas **físicas con capacidad de obrar** y las **jurídicas si sus Estatutos lo prevén**.\n**5.3** Hay que **acreditar** la representación para **solicitudes, declaraciones responsables o comunicaciones, recursos, desistir y renunciar**. Para **meros trámites** se **presume**.\n**5.4** Se acredita por **cualquier medio válido en Derecho** con constancia fidedigna; vale el **apoderamiento «apud acta»** (comparecencia personal o electrónica en sede) o la inscripción en el **registro electrónico de apoderamientos**.\n**5.5** El órgano **incorpora al expediente** la acreditación de la representación.\n**5.6** La falta o insuficiencia **no impide** el acto si se aporta o subsana en **diez días** (o más si las circunstancias lo requieren).\n**5.7** Las Administraciones pueden **habilitar** a personas físicas o jurídicas para transacciones electrónicas en nombre de los interesados (presunción de validez); pueden **exigir** acreditación en cualquier momento, y el interesado **siempre puede comparecer por sí mismo**."
+     }
+    ],
+    [
+     "lpac",
+     "6",
+     "Registro electrónico de apoderamientos y validez de poderes",
+     "Es el **archivo oficial de poderes**: se apunta quién da el poder, a quién, desde cuándo, por cuánto tiempo y de qué tipo. Tres tipos (**general / una Administración / trámites concretos**) y **máximo cinco años**, renovable.",
+     "¿Cuánto dura como máximo un poder inscrito y qué puede hacer el poderdante antes de que termine?",
+     {
+      "txt": "**6.1** La AGE, las CCAA y las Entidades Locales tendrán un **registro electrónico general de apoderamientos** (al menos poderes **generales** otorgados **apud acta**, con el **bastanteo**). En la AGE es el **Registro Electrónico de Apoderamientos de la AGE**. Cada organismo puede tener además su **registro particular**.\n**6.2** Los registros deben ser **interoperables**.\n**6.3** Cada asiento contiene: **poderdante, apoderado, fecha de inscripción, período de tiempo y tipo de poder**.\n**6.4** Tipos de poder: **a)** **general** (cualquier actuación ante cualquier Administración); **b)** para **una Administración u organismo concreto**; **c)** para **trámites determinados**.\n**6.5** El apoderamiento **apud acta** se otorga por **comparecencia electrónica en sede** o **personal** en las **oficinas de asistencia en materia de registros**.\n**6.6** Validez **máxima de cinco años** desde la inscripción; antes de que acabe el poderdante puede **revocar o prorrogar** (cada prórroga, **otros cinco años como máximo**).\n**6.7** Las solicitudes de inscripción, revocación, prórroga o denuncia pueden dirigirse a **cualquier registro** y surten efecto **desde la inscripción** en el registro de la Administración ante la que valga el poder."
+     }
+    ],
+    [
+     "lpac",
+     "7",
+     "Qué pasa si hay varios interesados en un escrito",
+     "Para no notificar a todos por separado, la Administración habla con **uno solo**: el que **hayan designado** o, si nadie lo hizo, **el primero que aparece**.",
+     "En un escrito firmado por tres vecinos sin designar a nadie, ¿con quién se entienden las actuaciones?",
+     {
+      "txt": "Si en una solicitud, escrito o comunicación **figuran varios interesados**, las actuaciones se hacen con el **representante o interesado que expresamente hayan señalado** y, **en su defecto**, con el que figure **en primer término**."
+     }
+    ],
+    [
+     "lpac",
+     "8",
+     "Avisar a nuevos interesados que aparecen durante la instrucción",
+     "Si en el expediente aparece alguien al que la resolución **puede perjudicar** y que **no sabe que existe el procedimiento**, la Administración **tiene que avisarle** para que pueda personarse. Solo cuando **no hubo publicidad** y la persona **resulta identificable del expediente**.",
+     "¿Quién tiene que avisar a un afectado que aparece durante la instrucción, y en qué condiciones?",
+     {
+      "txt": "Si durante la **instrucción** de un procedimiento **que no haya tenido publicidad** se advierte que hay personas **titulares de derechos o intereses legítimos y directos**, **cuya identificación resulte del expediente** y que puedan resultar afectadas por la resolución, se les **comunica la tramitación** del procedimiento."
+     }
+    ],
+    [
+     "lpac",
+     "9",
+     "Cómo se identifica el interesado: DNI y sistemas electrónicos",
+     "**Identificar** es demostrar **quién eres**. En papel: **DNI**. En electrónico: **certificado de firma o de sello**, o un sistema que la Administración apruebe tras avisar y esperar **dos meses**. Lo que acepta la **AGE** vale para todas.",
+     "¿Con qué dos sistemas electrónicos debe poder identificarse cualquiera en todo procedimiento?",
+     {
+      "txt": "**9.1** La Administración **debe verificar la identidad** comprobando **nombre y apellidos** o **denominación o razón social** que consten en el **DNI** o documento equivalente.\n**9.2** Identificación electrónica: **a)** certificados electrónicos **cualificados de firma electrónica**; **b)** certificados cualificados de **sello electrónico**; **c)** **cualquier otro sistema** que la Administración considere válido, con **registro previo como usuario**, comunicado a la **Secretaría General de Administración Digital** con declaración responsable; deben pasar **dos meses** antes de que tenga eficacia jurídica (el órgano estatal competente puede acudir a la vía jurisdiccional por seguridad pública). Las opciones **a) y b)** deben poder usarse **en todo procedimiento**.\n**9.3** Los recursos técnicos de los sistemas **c)** deben estar en **territorio de la Unión Europea** (datos de categorías especiales: en **España**); no se transfieren a terceros países salvo decisión de adecuación o compromisos internacionales.\n**9.4** Si la **AGE** acepta un sistema, sirve ante **todas** las Administraciones, **salvo prueba en contrario**."
+     }
+    ],
+    [
+     "lpac",
+     "10",
+     "Cómo se firma: medios válidos y firma electrónica",
+     "**Firmar** es mostrar que **quieres** lo que dice el documento y que **no se ha tocado**. La firma **ya identifica**: no hace falta identificarse además.",
+     "¿Hace falta identificarse aparte si ya se ha firmado con un sistema válido?",
+     {
+      "txt": "**10.1** Se puede firmar por **cualquier medio** que acredite la **autenticidad** de la expresión de la voluntad y el consentimiento, y la **integridad e inalterabilidad** del documento.\n**10.2** Si se usan medios electrónicos, son válidos: **a)** firma electrónica **cualificada y avanzada** con certificados cualificados; **b)** sello electrónico **cualificado y avanzado**; **c)** **otro sistema** admitido por la Administración (registro previo, comunicación a la SGAD y **dos meses**). Las opciones **a) y b)** deben poder usarse en **todos los procedimientos y trámites**.\n**10.3** Los recursos técnicos de los sistemas **c)** deben estar en la **UE** (datos especiales: en **España**).\n**10.4** Si la normativa lo dispone **expresamente**, los sistemas de **identificación** pueden admitirse como **firma**.\n**10.5** Al firmar con uno de estos sistemas, la **identidad se entiende ya acreditada por el propio acto de la firma**."
+     }
+    ],
+    [
+     "lpac",
+     "11",
+     "Cuándo basta identificarse y cuándo hay que firmar",
+     "La regla es **identificarse**; la **firma** solo en los 5 casos importantes. Truco para recordarlos: **S-D-R-D-R** → **S**olicitudes, **D**eclaraciones responsables/comunicaciones, **R**ecursos, **D**esistir, **R**enunciar.",
+     "¿En qué cinco casos exige la Administración firma obligatoria?",
+     {
+      "txt": "**11.1** Con carácter general, para **cualquier actuación** del procedimiento **basta con acreditar previamente la identidad**.\n**11.2** Solo se exige **firma obligatoria** para: **a)** formular **solicitudes**; **b)** presentar **declaraciones responsables o comunicaciones**; **c)** interponer **recursos**; **d)** **desistir** de acciones; **e)** **renunciar** a derechos."
+     }
+    ],
+    [
+     "lpac",
+     "12",
+     "Ayuda a quien no sabe usar medios electrónicos",
+     "Si no sabes usar lo electrónico, **te ayudan** (solo si **lo pides** y **no estás obligado** a ir por vía electrónica). Un **funcionario habilitado** puede firmar por ti, pero con **tu consentimiento expreso** y dejando **constancia**.",
+     "¿Quién puede pedir asistencia electrónica y qué necesita un funcionario para firmar por el interesado?",
+     {
+      "txt": "**12.1** Las Administraciones **garantizan** que los interesados pueden relacionarse por **medios electrónicos**, poniendo a su disposición los **canales de acceso** y los sistemas necesarios.\n**12.2** **Asisten** en el uso de medios electrónicos a los interesados **no obligados** a relacionarse electrónicamente (los no incluidos en el art. 14.2 y 14.3) **que lo soliciten**: identificación y firma electrónica, presentación de solicitudes por el **registro electrónico general** y **copias auténticas**. Si no tienen medios, un **funcionario público** puede identificarlos o firmar por ellos con su sistema; hace falta que el interesado **se identifique ante el funcionario** y dé su **consentimiento expreso** (debe quedar **constancia**).\n**12.3** Se mantiene un **registro de funcionarios habilitados** (AGE, CCAA y Entidades Locales), **interoperables**; constan al menos los que trabajan en las **oficinas de asistencia en materia de registros**."
+     }
+    ]
    ]
   }
  ],
@@ -583,6 +594,363 @@
    [
     "en primer término"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 3 de la Ley 39/2015, de 1 de octubre, tendrán capacidad de obrar ante las Administraciones Públicas, entre otros:",
+   [
+    "Los menores de edad para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento sin asistencia de quien ejerza la patria potestad, tutela o curatela",
+    "Todos los menores de edad para cualquier derecho o interés, sin necesidad de asistencia de quien ejerza la patria potestad, tutela o curatela",
+    "Solo los mayores de edad y las personas jurídicas, quedando excluidos los menores aunque el ordenamiento permita su actuación sin asistencia"
+   ],
+   0,
+   "Art. 3 b). Se exceptúan los menores incapacitados cuando la incapacitación afecte a los derechos de que se trate.",
+   "lpac 3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de la Ley 39/2015, de 1 de octubre, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos tendrán capacidad de obrar:",
+   [
+    "Cuando la Ley así lo declare expresamente",
+    "En todo caso",
+    "Solo si lo autoriza el órgano instructor"
+   ],
+   0,
+   "Art. 3 c).",
+   "lpac 3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de la Ley 39/2015, de 1 de octubre, se consideran interesados en el procedimiento administrativo:",
+   [
+    "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+    "Solo quienes lo promuevan como titulares de derechos subjetivos individuales",
+    "Únicamente los que sean parte en un procedimiento judicial previo"
+   ],
+   0,
+   "Art. 4.1 a). Además: los que tengan derechos que puedan resultar afectados (b) y los que se personen antes de la resolución definitiva (c).",
+   "lpac 4.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de la Ley 39/2015, de 1 de octubre, pueden ser interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento:",
+   [
+    "En tanto no haya recaído resolución definitiva",
+    "Hasta que finalice la instrucción",
+    "En cualquier momento, incluso tras la resolución firme"
+   ],
+   0,
+   "Art. 4.1 c).",
+   "lpac 4.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 de la Ley 39/2015, de 1 de octubre, las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de:",
+   [
+    "Intereses legítimos colectivos en los términos que la Ley reconozca",
+    "Derechos subjetivos individuales de cada uno de sus asociados, que ejercen en su nombre propio",
+    "Ningún interés propio, pues solo actúan por mandato expreso de cada asociado en cada procedimiento"
+   ],
+   0,
+   "Art. 4.2.",
+   "lpac 4.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.3 de la Ley 39/2015, de 1 de octubre, la condición de interesado se transmite a los causahabientes cuando:",
+   [
+    "La relación jurídica no se extinga por la muerte de la persona interesada",
+    "La relación jurídica sea de carácter personalísimo y se extinga con el fallecimiento de la persona interesada",
+    "Hayan transcurrido más de cinco años desde el fallecimiento y lo solicite expresamente un familiar"
+   ],
+   0,
+   "Art. 4.3.",
+   "lpac 4.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.1 de la Ley 39/2015, de 1 de octubre, los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas:",
+   [
+    "Salvo manifestación expresa en contra del interesado",
+    "En todo caso, sin excepción",
+    "Solo si el interesado lo comunica por escrito cada vez"
+   ],
+   0,
+   "Art. 5.1.",
+   "lpac 5.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.3 de la Ley 39/2015, de 1 de octubre, deberá acreditarse la representación para:",
+   [
+    "Formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos",
+    "Cualquier actuación del procedimiento, incluidos los actos y gestiones de mero trámite, sin presunción alguna de representación",
+    "Únicamente para interponer recursos, presumiéndose la representación para solicitudes, desistimientos y renuncias de derechos"
+   ],
+   0,
+   "Art. 5.3. Para actos y gestiones de mero trámite se presume la representación.",
+   "lpac 5.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.4 de la Ley 39/2015, de 1 de octubre, se entiende acreditada la representación realizada mediante:",
+   [
+    "Apoderamiento apud acta por comparecencia personal o electrónica, o inscripción en el registro electrónico de apoderamientos",
+    "Escrito presentado por el representante, firmado por él y sin necesidad de constancia fehaciente de la voluntad del interesado",
+    "Comunicación telefónica o por correo ordinario del representante, siempre que se aporte copia simple del DNI del poderdante"
+   ],
+   0,
+   "Art. 5.4.",
+   "lpac 5.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.6 de la Ley 39/2015, de 1 de octubre, la falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane:",
+   [
+    "En el plazo de diez días que deberá conceder el órgano administrativo, o uno superior si las circunstancias lo requieren",
+    "En el plazo improrrogable de cinco días que deberá conceder el órgano administrativo, sin posibilidad de ampliación alguna",
+    "En el plazo de un mes desde la presentación del escrito, contado de fecha a fecha, previa advertencia de archivo"
+   ],
+   0,
+   "Art. 5.6.",
+   "lpac 5.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.6 de la Ley 39/2015, de 1 de octubre, los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez determinada máxima de:",
+   [
+    "Cinco años a contar desde la fecha de inscripción",
+    "Diez años a contar desde la fecha de inscripción, sin posibilidad de prórroga por el poderdante",
+    "Tres años a contar desde la fecha de inscripción, prorrogables una sola vez por otro período igual"
+   ],
+   0,
+   "Art. 6.6. Pueden revocarse o prorrogarse antes de finalizar el plazo; cada prórroga tiene validez máxima de cinco años.",
+   "lpac 6.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.4 de la Ley 39/2015, de 1 de octubre, los poderes que se inscriban en los registros electrónicos de apoderamientos deberán corresponder, entre otras, a la tipología de:",
+   [
+    "Un poder general para actuar en cualquier actuación administrativa y ante cualquier Administración",
+    "Un poder exclusivo para actuar ante los Tribunales de Justicia en nombre del poderdante en cualquier procedimiento judicial",
+    "Un poder verbal, sin forma escrita ni inscripción, para actuaciones urgentes ante una Administración concreta"
+   ],
+   0,
+   "Art. 6.4 a). También: poder ante una Administración u Organismo concreto y poder para trámites determinados.",
+   "lpac 6.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.5 de la Ley 39/2015, de 1 de octubre, el apoderamiento «apud acta» se otorgará:",
+   [
+    "Mediante comparecencia electrónica en la sede electrónica o personal en las oficinas de asistencia en materia de registros",
+    "Mediante escritura pública otorgada ante notario y presentada posteriormente en cualquier oficina de asistencia en materia de registros",
+    "Por correo postal certificado dirigido al órgano competente, con firma manuscrita legitimada notarialmente"
+   ],
+   0,
+   "Art. 6.5.",
+   "lpac 6.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de la Ley 39/2015, de 1 de octubre, cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con el representante o interesado que expresamente hayan señalado y, en su defecto:",
+   [
+    "Con el que figure en primer término",
+    "Con todos ellos por separado",
+    "Con el de mayor edad"
+   ],
+   0,
+   "Art. 7.",
+   "lpac 7",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de la Ley 39/2015, de 1 de octubre, si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente:",
+   [
+    "Se les comunicará la tramitación del procedimiento",
+    "Se archivará el procedimiento y se iniciará otro",
+    "No se hará nada, pues deben personarse ellos"
+   ],
+   0,
+   "Art. 8.",
+   "lpac 8",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas están obligadas a verificar la identidad de los interesados en el procedimiento administrativo:",
+   [
+    "Mediante la comprobación de su nombre y apellidos o denominación o razón social, que consten en el DNI o documento identificativo equivalente",
+    "Solo mediante certificado electrónico cualificado del interesado, sin que baste el documento nacional de identidad o equivalente",
+    "Mediante declaración jurada del interesado ante la oficina de asistencia, que sustituye en todo caso a su documento identificativo"
+   ],
+   0,
+   "Art. 9.1.",
+   "lpac 9.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de la Ley 39/2015, de 1 de octubre, los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento, admitiéndose entre otros:",
+   [
+    "Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados",
+    "Únicamente la firma manuscrita digitalizada del interesado, sin certificado electrónico ni sistema alguno de garantía adicional",
+    "Una contraseña simple o clave de usuario, aunque no permita acreditar la integridad e inalterabilidad del documento firmado"
+   ],
+   0,
+   "Art. 10.2 a). También sellos electrónicos y cualquier otro sistema que las Administraciones consideren válido.",
+   "lpac 10.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de la Ley 39/2015, de 1 de octubre, con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo será suficiente con que los interesados:",
+   [
+    "Acrediten previamente su identidad por cualquiera de los medios de identificación previstos en la Ley",
+    "Firmen cada documento que presenten con firma electrónica cualificada, además de acreditar su identidad en cada actuación",
+    "Presenten en cada trámite el original del documento nacional de identidad en la oficina de asistencia en materia de registros"
+   ],
+   0,
+   "Art. 11.1.",
+   "lpac 11.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.2 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:",
+   [
+    "Formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos",
+    "Cualquier actuación prevista en el procedimiento administrativo, incluidas las de mero trámite y las alegaciones ordinarias",
+    "Únicamente interponer recursos y renunciar a derechos, quedando exentas de firma las solicitudes y declaraciones responsables"
+   ],
+   0,
+   "Art. 11.2.",
+   "lpac 11.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de la Ley 39/2015, de 1 de octubre, si un interesado no obligado a relacionarse electrónicamente no dispone de medios electrónicos, su identificación o firma electrónica podrá ser realizada válidamente por:",
+   [
+    "Un funcionario público mediante su sistema de firma electrónica, previa identificación del interesado y su consentimiento expreso, del que debe quedar constancia",
+    "Cualquier empleado de la oficina de registro, sin necesidad de consentimiento del interesado ni de dejar constancia alguna",
+    "Un tercero designado verbalmente por el interesado, aunque no tenga vinculación alguna con la Administración ni firma electrónica"
+   ],
+   0,
+   "Art. 12.3.",
+   "lpac 12.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de la Ley 39/2015, de 1 de octubre, las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados a relacionarse electrónicamente que así lo soliciten, especialmente en:",
+   [
+    "La identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas",
+    "La redacción y presentación de recursos contencioso-administrativos y la representación procesal ante los Tribunales de Justicia",
+    "El pago de tributos y sanciones municipales mediante cargo bancario, con exclusión de la identificación y firma electrónica"
+   ],
+   0,
+   "Art. 12.2.",
+   "lpac 12.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

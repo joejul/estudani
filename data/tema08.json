@@ -73,7 +73,51 @@
     "Lesividad (107): actos anulables favorables · 4 años · contencioso",
     "Revocación (109.1): actos de gravamen · Rectificación (109.2): errores materiales, de hecho o aritméticos"
    ],
-   "ic": "🔁"
+   "ic": "🔁",
+   "articulos": [
+    [
+     "lpac",
+     "106",
+     "Revisión de oficio de actos y disposiciones nulos",
+     "En **cualquier momento**, de oficio o a solicitud del interesado, y **previo dictamen favorable del Consejo de Estado** (u órgano consultivo autonómico), se declara la **nulidad** de los actos que **pusieron fin a la vía administrativa** o **no se recurrieron en plazo**, por las causas del **art. 47.1**; las **disposiciones** nulas (art. 47.2) se declaran **de oficio**. Se puede **inadmitir motivadamente** la solicitud, **sin dictamen**, si no se basa en el art. 47.1, carece manifiestamente de fundamento o ya se desestimaron otras iguales. Al declarar la nulidad se pueden fijar **indemnizaciones**; los actos firmes dictados con una disposición nula **subsisten**. **Plazo: seis meses**: si se inició de oficio, **caducidad**; si fue a solicitud, **silencio desestimatorio**.",
+     "¿Qué efecto tiene pasar seis meses sin resolver una revisión de oficio de nulidad, según se inicie de oficio o a solicitud?"
+    ],
+    [
+     "lpac",
+     "107",
+     "Declaración de lesividad de actos anulables favorables",
+     "La Administración puede **impugnar ante el contencioso** sus propios **actos favorables y anulables** (art. 48), **previa declaración de lesividad** para el interés público. **No se puede declarar pasados cuatro años** desde que se dictó el acto y exige **audiencia** previa de los interesados (art. 82). La declaración **no es recurrible**. **Seis meses** sin declarar lesividad: **caducidad**. En el **Estado y las CCAA** la adopta el **órgano competente en la materia**; en las **entidades locales**, el **Pleno** (o el órgano colegiado superior).",
+     "¿Quién declara la lesividad en una entidad local y en qué plazo máximo desde que se dictó el acto?"
+    ],
+    [
+     "lpac",
+     "108",
+     "Suspensión de la ejecución durante la revisión de oficio",
+     "Iniciada la revisión de oficio (arts. 106 y 107), el órgano competente puede **suspender la ejecución del acto** cuando ésta pudiera causar **perjuicios de imposible o difícil reparación**.",
+     "¿Cuándo puede suspenderse la ejecución de un acto durante la revisión de oficio?"
+    ],
+    [
+     "lpac",
+     "109",
+     "Revocación de actos de gravamen y rectificación de errores",
+     "**Revocar:** las Administraciones pueden revocar **actos de gravamen o desfavorables** **mientras no haya prescrito**, si no es **dispensa o exención no permitida**, ni contrario a la **igualdad, al interés público** o al **ordenamiento**. **Rectificar:** **en cualquier momento**, de oficio o a instancia, los **errores materiales, de hecho o aritméticos**.",
+     "¿Qué actos se pueden revocar y qué errores se rectifican en cualquier momento?"
+    ],
+    [
+     "lpac",
+     "110",
+     "Límites de las facultades de revisión",
+     "La revisión **no se puede ejercer** cuando, por **prescripción de acciones**, **tiempo transcurrido** u otras circunstancias, resulte **contraria a la equidad, la buena fe, el derecho de los particulares o las leyes**.",
+     "¿Qué límites tiene el ejercicio de las facultades de revisión de oficio?"
+    ],
+    [
+     "lpac",
+     "111",
+     "Competencia para la revisión de oficio en la AGE",
+     "En el Estado: el **Consejo de Ministros** revisa sus actos y los de los **Ministros**; los **Ministros**, los de **Secretarios de Estado** y de órganos directivos no dependientes de una Secretaría de Estado; los **Secretarios de Estado**, los de los órganos que dependen de ellos. En **organismos públicos y entidades vinculadas**: el órgano al que están **adscritos** revisa lo de su **máximo órgano rector**, y éste revisa lo de **sus órganos dependientes**.",
+     "¿Quién revisa de oficio los actos dictados por los Ministros?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -142,7 +186,72 @@
     "Fin de la vía administrativa (114) · causas de inadmisión (116)",
     "Resolución: estima, desestima o inadmite · sin agravar (119.3)"
    ],
-   "ic": "📑"
+   "ic": "📑",
+   "articulos": [
+    [
+     "lpac",
+     "112",
+     "Objeto y clases de recursos administrativos",
+     "Contra **resoluciones** y **actos de trámite** que **decidan el fondo**, **impidan continuar**, produzcan **indefensión** o **perjuicio irreparable**, se puede interponer **alzada** y **reposición potestativa**, por motivos de **nulidad o anulabilidad** (arts. 47 y 48). La oposición a los demás actos de trámite se alega **en la resolución final**. Las leyes pueden **sustituir** alzada o reposición por otros procedimientos (reclamación, mediación, arbitraje…) en sectores concretos. **Contra disposiciones de carácter general no cabe recurso administrativo**; un recurso que se funde solo en la nulidad de una disposición general puede interponerse **directamente ante el órgano que la dictó**. Las **reclamaciones económico-administrativas** siguen su ley específica.",
+     "¿Cabe recurso administrativo contra una disposición administrativa de carácter general?"
+    ],
+    [
+     "lpac",
+     "113",
+     "Recurso extraordinario de revisión: solo contra actos firmes",
+     "Contra los **actos firmes en vía administrativa**, **solo procede** el **recurso extraordinario de revisión** cuando concurra alguna de las circunstancias del **art. 125.1**.",
+     "¿Qué recurso administrativo cabe contra un acto firme en vía administrativa?"
+    ],
+    [
+     "lpac",
+     "114",
+     "Resoluciones que ponen fin a la vía administrativa",
+     "Ponen fin a la vía administrativa: **a)** resoluciones de **recursos de alzada**; **b)** resoluciones de los procedimientos **sustitutivos** del art. 112.2; **c)** resoluciones de órganos **sin superior jerárquico** (salvo ley en contrario); **d)** **acuerdos, pactos, convenios o contratos** finalizadores del procedimiento; **e)** resolución de **responsabilidad patrimonial**; **f)** **procedimientos complementarios sancionadores** (art. 90.4); **g)** otras que **así establezca una disposición**. En el **Estado**, además: actos de **miembros y órganos del Gobierno**, de **Ministros y Secretarios de Estado** en sus competencias, de **directores generales o superiores en personal**, y de los **máximos órganos de dirección de organismos públicos**.",
+     "¿Pone fin a la vía administrativa la resolución de un recurso de alzada?"
+    ],
+    [
+     "lpac",
+     "115",
+     "Interposición del recurso: contenido y defectos",
+     "El recurso expresa: **a)** **nombre y apellidos** e identificación del recurrente; **b)** **acto recurrido y razón** de la impugnación; **c)** **lugar, fecha, firma**, medio y lugar de notificaciones; **d)** **órgano** al que se dirige y su **código**; **e)** otras particularidades exigidas. **El error o ausencia de calificación** del recurso **no impide** su tramitación si se deduce su verdadero carácter. **No pueden alegar** los vicios que hagan anulable un acto **quienes los hubieran causado**.",
+     "¿Impide la tramitación que el recurrente califique mal su recurso?"
+    ],
+    [
+     "lpac",
+     "116",
+     "Causas de inadmisión de los recursos",
+     "Son causas de inadmisión: **a)** **incompetencia** del órgano cuando el competente es de **otra Administración** (se remite al competente); **b)** **falta de legitimación** del recurrente; **c)** **acto no susceptible de recurso**; **d)** **transcurso del plazo** para recurrir; **e)** recurso **manifiestamente sin fundamento**.",
+     "¿Cuáles son las cinco causas de inadmisión de un recurso?"
+    ],
+    [
+     "lpac",
+     "117",
+     "Suspensión de la ejecución al recurrir",
+     "Recurrir **no suspende** la ejecución, **salvo disposición en contrario**. El órgano que resuelve puede **suspender** (de oficio o a solicitud), tras **ponderar razonadamente** el perjuicio al interés público o a terceros frente al del recurrente, si: **a)** la ejecución puede causar **perjuicios de imposible o difícil reparación**, o **b)** la impugnación se funda en **nulidad de pleno derecho** (art. 47.1). Si **pasa un mes** desde la solicitud de suspensión sin resolución expresa, **se entiende suspendida**. Pueden adoptarse **medidas cautelares** y, si hay perjuicios, la suspensión exige **caución o garantía**. La suspensión se **prolonga** a la vía contenciosa si hay medida cautelar solicitada. Si afecta a una **pluralidad indeterminada** de personas, se **publica** en el periódico oficial.",
+     "¿Qué ocurre si pasa un mes desde que se solicita la suspensión sin que se resuelva?"
+    ],
+    [
+     "lpac",
+     "118",
+     "Audiencia de los interesados en la resolución de recursos",
+     "Si hay que tener en cuenta **nuevos hechos o documentos** no recogidos en el expediente, se ponen de manifiesto a los interesados, con un plazo **no inferior a diez días ni superior a quince**. **No se tienen en cuenta** hechos, documentos o alegaciones del recurrente que **pudo aportar antes y no lo hizo**, ni se admiten pruebas cuya falta **fuera imputable al interesado**. Si hay **otros interesados**, se les da **traslado del recurso** con el mismo plazo. **El recurso, los informes y las propuestas no son documentos nuevos**.",
+     "¿Qué plazo de alegaciones se da cuando hay que valorar hechos o documentos nuevos en el recurso?"
+    ],
+    [
+     "lpac",
+     "119",
+     "Resolución del recurso: estimar, desestimar o inadmitir",
+     "Se **estima** (total o parcialmente), se **desestima** o se declara la **inadmisión**. Si hay **vicio de forma** y no procede resolver el fondo, se **retrotrae** el procedimiento al momento del vicio (sin perjuicio de **convalidar**, art. 52). El órgano decide **todas las cuestiones**, de **forma y de fondo**, aunque no las hayan alegado los interesados (**se les oye** antes). La resolución es **congruente** con lo pedido y **nunca puede agravar la situación inicial** del recurrente (**prohibición de reformatio in peius**).",
+     "¿Puede empeorar la resolución de un recurso la situación inicial del recurrente?"
+    ],
+    [
+     "lpac",
+     "120",
+     "Pluralidad de recursos y suspensión del plazo para resolver",
+     "Cuando haya **muchos recursos** que traen causa del **mismo acto** y se haya interpuesto un **recurso judicial**, el órgano **puede suspender el plazo para resolver** hasta el pronunciamiento judicial. El acuerdo se **notifica** y **puede recurrirse**; recurrirlo no afecta a los demás recursos suspendidos. Tras la sentencia se **comunica** a los interesados y se puede resolver sin más trámites, salvo **audiencia** si procede.",
+     "¿Cuándo puede suspenderse el plazo para resolver una pluralidad de recursos?"
+    ]
+   ]
   },
   {
    "id": "e2",
@@ -225,7 +334,51 @@
     "Reposición: mismo órgano · potestativa · 1 mes / 1 mes",
     "Extraordinario de revisión: actos firmes, 4 motivos (125)"
    ],
-   "ic": "📨"
+   "ic": "📨",
+   "articulos": [
+    [
+     "lpac",
+     "121",
+     "Recurso de alzada: contra qué actos y ante quién",
+     "Se interpone contra resoluciones y actos del **art. 112.1** que **no pongan fin a la vía administrativa**, ante el **superior jerárquico** del que los dictó. Los **tribunales y órganos de selección** y los que actúan con **autonomía funcional** se consideran dependientes del órgano al que **están adscritos** o, si no, del que nombró a su presidente. Puede presentarse **ante el órgano que dictó el acto** o **ante el competente para resolverlo**; si es ante el primero, debe **remitirlo en diez días** con su **informe y copia completa y ordenada del expediente** (el titular es **responsable directo**).",
+     "¿En qué plazo debe remitir el órgano que dictó el acto el recurso de alzada al competente para resolverlo?"
+    ],
+    [
+     "lpac",
+     "122",
+     "Alzada: plazo de un mes y resolución en tres meses",
+     "**Plazo para recurrir: un mes** si el acto es **expreso** (pasado el plazo, el acto es **firme**). Si **no es expreso** (silencio), se puede recurrir **en cualquier momento** desde el día siguiente a que se produzcan los efectos del silencio. **Plazo para resolver y notificar: tres meses**; si no se resuelve, se puede **entender desestimado** (salvo el caso del art. 24.1, tercer párrafo: alzada contra silencio, que se entiende **estimada**). **Contra la resolución de alzada no cabe otro recurso administrativo**, salvo el **extraordinario de revisión**.",
+     "¿Cuál es el plazo para interponer alzada contra un acto expreso y en cuánto se resuelve?"
+    ],
+    [
+     "lpac",
+     "123",
+     "Recurso de reposición: potestativo ante el mismo órgano",
+     "Los actos que **ponen fin a la vía administrativa** pueden recurrirse **potestativamente en reposición** ante **el mismo órgano que los dictó**, o impugnarse **directamente ante el contencioso**. **No se puede interponer** el contencioso hasta que se **resuelva expresamente** la reposición o se produzca la **desestimación presunta**.",
+     "¿Ante qué órgano se interpone el recurso de reposición y es obligatorio?"
+    ],
+    [
+     "lpac",
+     "124",
+     "Reposición: plazo de un mes para recurrir y resolver",
+     "**Plazo para interponerlo: un mes** si el acto es **expreso**; pasado ese plazo solo cabe el **contencioso** (y, en su caso, el **extraordinario de revisión**). Si el acto **no es expreso**, **en cualquier momento** desde el día siguiente a que se produzca el **acto presunto**. **Plazo para resolver y notificar: un mes**. **No se puede recurrir de nuevo en reposición** la resolución de un recurso de reposición.",
+     "¿En qué plazo se resuelve el recurso de reposición y se puede recurrir de nuevo en reposición?"
+    ],
+    [
+     "lpac",
+     "125",
+     "Recurso extraordinario de revisión: causas y plazos",
+     "Contra **actos firmes en vía administrativa**, ante **el órgano que los dictó** (que también resuelve), cuando: **a)** **error de hecho** que resulte de los propios documentos del expediente; **b)** aparezcan **documentos de valor esencial** que evidencien el error; **c)** hayan influido **documentos o testimonios declarados falsos** por sentencia firme; **d)** resolución dictada por **prevaricación, cohecho, violencia, maquinación fraudulenta** u otra conducta punible declarada por **sentencia firme**. **Plazos:** para la causa **a)**, **cuatro años** desde la notificación; en los demás casos, **tres meses** desde el conocimiento de los documentos o desde que la sentencia fue firme. No perjudica las solicitudes de los **arts. 106 y 109.2**.",
+     "¿Cuáles son los plazos del recurso extraordinario de revisión según la causa?"
+    ],
+    [
+     "lpac",
+     "126",
+     "Resolución del recurso extraordinario de revisión: inadmisión y silencio",
+     "El órgano puede **inadmitir motivadamente**, **sin dictamen**, si el recurso **no se funda en las causas del art. 125.1** o si ya se desestimaron en cuanto al fondo otros **sustancialmente iguales**. Debe pronunciarse **sobre la procedencia y también, en su caso, sobre el fondo**. Pasados **tres meses** sin resolver, **se entiende desestimado** y queda **expedita la vía contencioso-administrativa**.",
+     "¿Qué se entiende si pasan tres meses sin resolver el recurso extraordinario de revisión?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -593,6 +746,958 @@
    [
     "error de hecho"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 106.1 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas declararán de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1:",
+   [
+    "En cualquier momento, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+    "Solo dentro de los cuatro años siguientes, previo dictamen facultativo del órgano consultivo correspondiente",
+    "En el plazo de un mes desde su notificación, sin necesidad de dictamen del Consejo de Estado"
+   ],
+   0,
+   "Art. 106.1.",
+   "lpac 106.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106.2 de la Ley 39/2015, de 1 de octubre, la nulidad de las disposiciones administrativas en los supuestos del artículo 47.2 podrá declararse:",
+   [
+    "En cualquier momento, de oficio y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente",
+    "A solicitud de interesado y sin necesidad de dictamen del órgano consultivo equivalente",
+    "Solo por el órgano jurisdiccional contencioso-administrativo a instancia de la propia Administración"
+   ],
+   0,
+   "Art. 106.2. Para disposiciones solo de oficio (no a solicitud de interesado).",
+   "lpac 106.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106.3 de la Ley 39/2015, de 1 de octubre, el órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes de los interesados, sin necesidad de dictamen, cuando:",
+   [
+    "No se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento",
+    "El solicitante no sea funcionario de la Administración que dictó el acto cuya nulidad se pretende",
+    "Hayan transcurrido más de cuatro años desde que se dictó el acto cuya nulidad se solicita"
+   ],
+   0,
+   "Art. 106.3.",
+   "lpac 106.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106.5 de la Ley 39/2015, de 1 de octubre, en la revisión de oficio de actos nulos iniciada de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá:",
+   [
+    "La caducidad del procedimiento",
+    "La desestimación por silencio",
+    "La estimación por silencio"
+   ],
+   0,
+   "Art. 106.5. Si se inició a solicitud de interesado, se podrá entender desestimada por silencio.",
+   "lpac 106.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106.5 de la Ley 39/2015, de 1 de octubre, si el procedimiento de revisión de oficio de un acto nulo se hubiera iniciado a solicitud de interesado y transcurren seis meses sin resolución:",
+   [
+    "Se podrá entender la solicitud desestimada por silencio administrativo",
+    "Caduca el procedimiento, ordenándose el archivo de las actuaciones por transcurso del plazo de seis meses",
+    "Se entiende declarada la nulidad del acto por silencio administrativo positivo a favor del solicitante"
+   ],
+   0,
+   "Art. 106.5.",
+   "lpac 106.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107.1 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa:",
+   [
+    "Su declaración de lesividad para el interés público",
+    "Su declaración de nulidad de pleno derecho, previo dictamen favorable del órgano consultivo",
+    "Autorización previa del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 107.1.",
+   "lpac 107.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107.2 de la Ley 39/2015, de 1 de octubre, la declaración de lesividad no podrá adoptarse una vez transcurridos:",
+   [
+    "Cuatro años desde que se dictó el acto administrativo",
+    "Dos años desde que se dictó el acto administrativo, con independencia de su notificación",
+    "Un año desde que se notificó el acto a los interesados, salvo causa de fuerza mayor"
+   ],
+   0,
+   "Art. 107.2. Exige audiencia previa de los interesados.",
+   "lpac 107.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107.2 de la Ley 39/2015, de 1 de octubre, la declaración de lesividad:",
+   [
+    "No será susceptible de recurso, sin perjuicio de su examen como presupuesto procesal en el proceso judicial",
+    "Puede recurrirse en alzada ante el superior jerárquico del órgano que la acordó",
+    "Puede recurrirse en reposición ante el mismo órgano que acordó la declaración de lesividad"
+   ],
+   0,
+   "Art. 107.2.",
+   "lpac 107.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107.3 de la Ley 39/2015, de 1 de octubre, transcurrido el plazo de seis meses desde la iniciación del procedimiento de declaración de lesividad sin que se hubiera declarado:",
+   [
+    "Se producirá la caducidad del procedimiento",
+    "Se entenderá declarada la lesividad",
+    "Se entenderá desestimada la solicitud"
+   ],
+   0,
+   "Art. 107.3.",
+   "lpac 107.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107.5 de la Ley 39/2015, de 1 de octubre, si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por:",
+   [
+    "El Pleno de la Corporación o, en defecto de éste, el órgano colegiado superior de la entidad",
+    "El Alcalde, previa audiencia de los interesados y dictamen favorable del Consejo de Estado",
+    "La Junta de Gobierno Local, previa audiencia de los interesados en el procedimiento"
+   ],
+   0,
+   "Art. 107.5.",
+   "lpac 107.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 108 de la Ley 39/2015, de 1 de octubre, iniciado el procedimiento de revisión de oficio, el órgano competente para declarar la nulidad o lesividad podrá suspender la ejecución del acto cuando:",
+   [
+    "Ésta pudiera causar perjuicios de imposible o difícil reparación",
+    "Lo solicite cualquier interesado, aunque la ejecución no cause perjuicios de difícil reparación",
+    "El acto sea de gravamen para los interesados, con independencia de los perjuicios que cause"
+   ],
+   0,
+   "Art. 108.",
+   "lpac 108",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 109.1 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción:",
+   [
+    "Sus actos de gravamen o desfavorables, siempre que no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
+    "Sus actos favorables en cualquier momento, aunque haya transcurrido el plazo de prescripción",
+    "Solo los actos nulos de pleno derecho, cuando así lo informe el órgano consultivo"
+   ],
+   0,
+   "Art. 109.1.",
+   "lpac 109.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 109.2 de la Ley 39/2015, de 1 de octubre, los errores materiales, de hecho o aritméticos existentes en los actos de la Administración podrán rectificarse:",
+   [
+    "En cualquier momento, de oficio o a instancia de los interesados",
+    "Solo en el plazo de un mes desde que se dictó el acto, de oficio o a instancia de los interesados",
+    "Solo mediante recurso de reposición interpuesto por los interesados en el plazo legalmente previsto"
+   ],
+   0,
+   "Art. 109.2.",
+   "lpac 109.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 110 de la Ley 39/2015, de 1 de octubre, las facultades de revisión no podrán ser ejercidas cuando su ejercicio resulte contrario:",
+   [
+    "A la equidad, a la buena fe, al derecho de los particulares o a las leyes",
+    "Al interés del órgano que dictó el acto o al criterio del instructor del procedimiento de revisión",
+    "A la voluntad del interesado que hubiera solicitado la revisión de oficio del acto"
+   ],
+   0,
+   "Art. 110.",
+   "lpac 110",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 111 de la Ley 39/2015, de 1 de octubre, en el ámbito estatal, el Consejo de Ministros es competente para la revisión de oficio de:",
+   [
+    "Sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros",
+    "Solo de sus propios actos y disposiciones, y no de los dictados por los Ministros",
+    "De los actos de los Secretarios de Estado y de los órganos directivos dependientes de ellos"
+   ],
+   0,
+   "Art. 111 a).",
+   "lpac 111",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 112.1 de la Ley 39/2015, de 1 de octubre, contra las resoluciones y los actos de trámite cualificados podrán interponerse por los interesados:",
+   [
+    "Los recursos de alzada y potestativo de reposición",
+    "Solo el recurso de alzada",
+    "El recurso extraordinario de revisión únicamente"
+   ],
+   0,
+   "Art. 112.1. Son de trámite cualificados los que deciden el fondo, impiden continuar, producen indefensión o perjuicio irreparable.",
+   "lpac 112.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 112.3 de la Ley 39/2015, de 1 de octubre, contra las disposiciones administrativas de carácter general:",
+   [
+    "No cabrá recurso en vía administrativa",
+    "Cabe recurso de alzada",
+    "Cabe recurso de reposición"
+   ],
+   0,
+   "Art. 112.3. Los recursos contra un acto fundados solo en la nulidad de una disposición pueden interponerse ante el órgano que la dictó.",
+   "lpac 112.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 112.1 de la Ley 39/2015, de 1 de octubre, la oposición a los restantes actos de trámite (no cualificados):",
+   [
+    "Podrá alegarse por los interesados para su consideración en la resolución que ponga fin al procedimiento",
+    "Puede recurrirse en alzada de forma autónoma e inmediata, sin esperar a la resolución final",
+    "No puede alegarse en ningún momento, pues solo cabe recurrir la resolución que ponga fin al procedimiento"
+   ],
+   0,
+   "Art. 112.1 segundo párrafo.",
+   "lpac 112.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 113 de la Ley 39/2015, de 1 de octubre, contra los actos firmes en vía administrativa sólo procederá:",
+   [
+    "El recurso extraordinario de revisión, cuando concurra alguna de las circunstancias del artículo 125.1",
+    "El recurso de alzada, interpuesto ante el órgano superior jerárquico del que dictó el acto",
+    "El recurso de reposición, interpuesto ante el mismo órgano que dictó el acto firme"
+   ],
+   0,
+   "Art. 113.",
+   "lpac 113",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 114.1 de la Ley 39/2015, de 1 de octubre, ponen fin a la vía administrativa:",
+   [
+    "Las resoluciones de los recursos de alzada",
+    "Las resoluciones de los actos de trámite",
+    "Las propuestas de resolución"
+   ],
+   0,
+   "Art. 114.1 a).",
+   "lpac 114.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 114.1 de la Ley 39/2015, de 1 de octubre, ponen fin a la vía administrativa, entre otros:",
+   [
+    "La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación de que derive",
+    "Las resoluciones de órganos que tengan superior jerárquico, aunque no se hayan recurrido",
+    "Los informes preceptivos emitidos por órganos consultivos antes de dictar la resolución"
+   ],
+   0,
+   "Art. 114.1 e).",
+   "lpac 114.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 114.1 de la Ley 39/2015, de 1 de octubre, ponen fin a la vía administrativa:",
+   [
+    "Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario",
+    "Las resoluciones de todos los órganos unipersonales, tengan o no superior jerárquico",
+    "Las resoluciones de los órganos colegiados únicamente, aunque tengan superior jerárquico"
+   ],
+   0,
+   "Art. 114.1 c).",
+   "lpac 114.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.1 de la Ley 39/2015, de 1 de octubre, la interposición del recurso deberá expresar, entre otros:",
+   [
+    "El acto que se recurre y la razón de su impugnación",
+    "La indemnización que se pretende obtener y la cuantía del daño causado por el acto recurrido",
+    "El dictamen previo del órgano consultivo, que debe acompañar necesariamente al escrito de recurso"
+   ],
+   0,
+   "Art. 115.1 b).",
+   "lpac 115.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.2 de la Ley 39/2015, de 1 de octubre, el error o la ausencia de la calificación del recurso por parte del recurrente:",
+   [
+    "No será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter",
+    "Determinará su inadmisión, aunque se deduzca su verdadero carácter del contenido del escrito",
+    "Obliga a archivar el recurso y a requerir al interesado para que presente uno nuevo"
+   ],
+   0,
+   "Art. 115.2.",
+   "lpac 115.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.3 de la Ley 39/2015, de 1 de octubre, los vicios y defectos que hagan anulable un acto:",
+   [
+    "No podrán ser alegados por quienes los hubieren causado",
+    "Pueden ser alegados por cualquiera, incluso por quienes los hubieren causado",
+    "Solo pueden ser alegados por quienes los hubieren causado, y no por los restantes interesados"
+   ],
+   0,
+   "Art. 115.3.",
+   "lpac 115.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116 de la Ley 39/2015, de 1 de octubre, es causa de inadmisión de los recursos administrativos:",
+   [
+    "Carecer de legitimación el recurrente",
+    "Haber presentado el recurso en papel",
+    "No haber solicitado la suspensión del acto"
+   ],
+   0,
+   "Art. 116 b). Otras: incompetencia (si corresponde a otra Administración, se remite), acto no susceptible de recurso, plazo transcurrido o carencia manifiesta de fundamento.",
+   "lpac 116",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116 de la Ley 39/2015, de 1 de octubre, si el órgano ante el que se interpone el recurso es incompetente por pertenecer el competente a otra Administración Pública:",
+   [
+    "El recurso deberá remitirse al órgano competente",
+    "Se inadmite sin más y se archiva, sin remitirlo a ningún órgano de otra Administración",
+    "Se devuelve al recurrente para que lo interponga ante el órgano que se indique"
+   ],
+   0,
+   "Art. 116 a).",
+   "lpac 116",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.1 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier recurso, excepto cuando una disposición establezca lo contrario:",
+   [
+    "No suspenderá la ejecución del acto impugnado",
+    "Suspende la ejecución del acto impugnado",
+    "Suspende la ejecución solo en sanciones"
+   ],
+   0,
+   "Art. 117.1.",
+   "lpac 117.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.2 de la Ley 39/2015, de 1 de octubre, el órgano competente para resolver el recurso podrá suspender la ejecución del acto impugnado, previa ponderación razonada, cuando concurra:",
+   [
+    "Que la ejecución pudiera causar perjuicios de imposible o difícil reparación, o que la impugnación se fundamente en una causa de nulidad de pleno derecho del artículo 47.1",
+    "Que el recurrente sea una persona jurídica o un colectivo con legitimación para impugnar el acto",
+    "Que el acto sea favorable a terceros y su ejecución no cause perjuicios de difícil reparación"
+   ],
+   0,
+   "Art. 117.2 a) y b).",
+   "lpac 117.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.3 de la Ley 39/2015, de 1 de octubre, la ejecución del acto impugnado se entenderá suspendida si, transcurrido un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico del órgano competente:",
+   [
+    "No se ha dictado y notificado resolución expresa al respecto",
+    "No se ha notificado el recurso a los demás interesados para que aleguen lo que estimen procedente",
+    "No se ha dictado la resolución del recurso en el que se solicitó la suspensión"
+   ],
+   0,
+   "Art. 117.3. Silencio positivo en la suspensión.",
+   "lpac 117.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.4 de la Ley 39/2015, de 1 de octubre, cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza, aquélla sólo producirá efectos:",
+   [
+    "Previa prestación de caución o garantía suficiente para responder de ellos",
+    "Tras un mes desde su concesión, sin necesidad de prestar caución ni garantía alguna",
+    "Desde su notificación al recurrente sin más trámite, aunque pudieran derivarse perjuicios"
+   ],
+   0,
+   "Art. 117.4.",
+   "lpac 117.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.1 de la Ley 39/2015, de 1 de octubre, cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que formulen alegaciones en un plazo:",
+   [
+    "No inferior a diez días ni superior a quince",
+    "No inferior a cinco días ni superior a diez",
+    "De un mes improrrogable"
+   ],
+   0,
+   "Art. 118.1.",
+   "lpac 118.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.3 de la Ley 39/2015, de 1 de octubre, a los efectos de la audiencia en la resolución de recursos, no tienen el carácter de documentos nuevos:",
+   [
+    "El recurso, los informes y las propuestas",
+    "Las pruebas propuestas por el recurrente",
+    "Los documentos aportados tras la resolución impugnada"
+   ],
+   0,
+   "Art. 118.3.",
+   "lpac 118.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 119.1 de la Ley 39/2015, de 1 de octubre, la resolución del recurso:",
+   [
+    "Estimará en todo o en parte o desestimará las pretensiones formuladas o declarará su inadmisión",
+    "Solo podrá estimarlo o desestimarlo, sin que quepa declarar su inadmisión en ningún caso",
+    "Deberá estimarlo siempre que haya vicio de forma, aunque no se resuelva sobre el fondo"
+   ],
+   0,
+   "Art. 119.1.",
+   "lpac 119.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 119.2 de la Ley 39/2015, de 1 de octubre, cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo:",
+   [
+    "Se ordenará la retroacción del procedimiento al momento en que el vicio fue cometido",
+    "Se declarará la nulidad del procedimiento completo y se archivará el recurso sin más trámite",
+    "Se archivará el recurso, sin ordenar actuación alguna, al apreciarse el vicio de forma"
+   ],
+   0,
+   "Art. 119.2.",
+   "lpac 119.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 119.3 de la Ley 39/2015, de 1 de octubre, la resolución del recurso será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda:",
+   [
+    "Agravarse su situación inicial",
+    "Estimarse parcialmente",
+    "Resolver cuestiones de forma"
+   ],
+   0,
+   "Art. 119.3. La prohibición de la «reformatio in peius».",
+   "lpac 119.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 120.1 de la Ley 39/2015, de 1 de octubre, cuando deban resolverse una pluralidad de recursos que traigan causa de un mismo acto y se hubiera interpuesto un recurso judicial, el órgano administrativo podrá acordar:",
+   [
+    "La suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial",
+    "La acumulación de todos los recursos en uno solo hasta que recaiga pronunciamiento judicial",
+    "La inadmisión de los recursos posteriores al primero por traer causa del mismo acto"
+   ],
+   0,
+   "Art. 120.1.",
+   "lpac 120.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121.1 de la Ley 39/2015, de 1 de octubre, las resoluciones y actos del artículo 112.1 que no pongan fin a la vía administrativa podrán ser recurridos en alzada:",
+   [
+    "Ante el órgano superior jerárquico del que los dictó",
+    "Ante el mismo órgano que los dictó",
+    "Ante la jurisdicción contencioso-administrativa"
+   ],
+   0,
+   "Art. 121.1.",
+   "lpac 121.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121.2 de la Ley 39/2015, de 1 de octubre, si el recurso de alzada se hubiera interpuesto ante el órgano que dictó el acto, éste deberá remitirlo al competente en el plazo de:",
+   [
+    "Diez días, con su informe y copia completa y ordenada del expediente",
+    "Cinco días, con su informe y copia completa y ordenada del expediente administrativo",
+    "Quince días, con su informe y copia completa y ordenada del expediente administrativo"
+   ],
+   0,
+   "Art. 121.2.",
+   "lpac 121.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121.1 de la Ley 39/2015, de 1 de octubre, los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas, a efectos del recurso de alzada, se considerarán dependientes:",
+   [
+    "Del órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente",
+    "Del Pleno del Ayuntamiento o del órgano que ostente la máxima representación de la Administración",
+    "De ningún órgano, por tener autonomía funcional, y sus actos no son recurribles en alzada"
+   ],
+   0,
+   "Art. 121.1: del órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente.",
+   "lpac 121.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122.1 de la Ley 39/2015, de 1 de octubre, el plazo para interponer el recurso de alzada será de:",
+   [
+    "Un mes, si el acto fuera expreso",
+    "Dos meses, si el acto fuera expreso",
+    "Quince días, si el acto fuera expreso"
+   ],
+   0,
+   "Art. 122.1. Si el acto no es expreso: en cualquier momento desde el día siguiente a que se produzcan los efectos del silencio.",
+   "lpac 122.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122.2 de la Ley 39/2015, de 1 de octubre, el plazo máximo para dictar y notificar la resolución del recurso de alzada será de:",
+   [
+    "Tres meses",
+    "Un mes",
+    "Seis meses"
+   ],
+   0,
+   "Art. 122.2. Transcurrido sin resolución, se podrá entender desestimado.",
+   "lpac 122.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122.3 de la Ley 39/2015, de 1 de octubre, contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo:",
+   [
+    "Salvo el recurso extraordinario de revisión, en los casos del artículo 125.1",
+    "Salvo el recurso de reposición, en los casos del artículo 125.1",
+    "Salvo un segundo recurso de alzada ante el superior jerárquico del órgano que resolvió el primero"
+   ],
+   0,
+   "Art. 122.3.",
+   "lpac 122.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 123.1 de la Ley 39/2015, de 1 de octubre, los actos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición:",
+   [
+    "Ante el mismo órgano que los hubiera dictado, o ser impugnados directamente ante la jurisdicción contencioso-administrativa",
+    "Ante el órgano superior jerárquico del que los hubiera dictado, o ser impugnados ante la jurisdicción contenciosa",
+    "Ante el Defensor del Pueblo o el órgano equivalente de la Comunidad Autónoma, con carácter potestativo"
+   ],
+   0,
+   "Art. 123.1.",
+   "lpac 123.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 123.2 de la Ley 39/2015, de 1 de octubre, si se ha interpuesto recurso de reposición, no se podrá interponer recurso contencioso-administrativo:",
+   [
+    "Hasta que sea resuelto expresamente o se haya producido la desestimación presunta",
+    "Hasta que transcurran tres meses desde su interposición, aunque no se haya resuelto expresamente",
+    "Hasta que se agote un recurso de alzada ante el superior jerárquico del órgano que dictó el acto"
+   ],
+   0,
+   "Art. 123.2.",
+   "lpac 123.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 124.1 de la Ley 39/2015, de 1 de octubre, el plazo para interponer recurso de reposición será de:",
+   [
+    "Un mes, si el acto fuera expreso",
+    "Dos meses, si el acto fuera expreso",
+    "Tres meses, si el acto fuera expreso"
+   ],
+   0,
+   "Art. 124.1.",
+   "lpac 124.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 124.2 de la Ley 39/2015, de 1 de octubre, el plazo máximo para dictar y notificar la resolución del recurso de reposición será de:",
+   [
+    "Un mes",
+    "Tres meses",
+    "Quince días"
+   ],
+   0,
+   "Art. 124.2.",
+   "lpac 124.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 124.3 de la Ley 39/2015, de 1 de octubre, contra la resolución de un recurso de reposición:",
+   [
+    "No podrá interponerse de nuevo dicho recurso",
+    "Cabe recurso de alzada",
+    "Cabe de nuevo recurso de reposición en el plazo de un mes"
+   ],
+   0,
+   "Art. 124.3.",
+   "lpac 124.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 de la Ley 39/2015, de 1 de octubre, contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión, que se interpone:",
+   [
+    "Ante el órgano administrativo que los dictó, que también será el competente para resolverlo",
+    "Ante el superior jerárquico del órgano que los dictó, que será el competente para resolverlo",
+    "Ante el Consejo de Estado u órgano consultivo equivalente, que lo resolverá con carácter vinculante"
+   ],
+   0,
+   "Art. 125.1.",
+   "lpac 125.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 de la Ley 39/2015, de 1 de octubre, es causa del recurso extraordinario de revisión:",
+   [
+    "Que al dictar el acto se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente",
+    "Que el acto sea desfavorable para el recurrente y se haya dictado en un procedimiento sancionador",
+    "Que el recurrente no esté conforme con la sanción o con la cuantía de la indemnización"
+   ],
+   0,
+   "Art. 125.1 a).",
+   "lpac 125.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 de la Ley 39/2015, de 1 de octubre, es causa del recurso extraordinario de revisión:",
+   [
+    "Que la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible declarada por sentencia judicial firme",
+    "Que se hubiera incurrido en un error de derecho en la interpretación de la norma aplicable",
+    "Que el acto se haya dictado fuera de plazo, una vez transcurrido el plazo máximo para resolver"
+   ],
+   0,
+   "Art. 125.1 d).",
+   "lpac 125.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.2 de la Ley 39/2015, de 1 de octubre, el recurso extraordinario de revisión se interpondrá, cuando se trate de la causa de error de hecho, dentro del plazo de:",
+   [
+    "Cuatro años siguientes a la fecha de notificación de la resolución impugnada",
+    "Tres meses desde la notificación de la resolución impugnada, con carácter general",
+    "Un año desde la notificación de la resolución impugnada, con carácter general"
+   ],
+   0,
+   "Art. 125.2. En los demás casos, tres meses desde el conocimiento de los documentos o desde que la sentencia quedó firme.",
+   "lpac 125.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.2 de la Ley 39/2015, de 1 de octubre, en las causas del recurso extraordinario de revisión distintas del error de hecho, el plazo será de:",
+   [
+    "Tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme",
+    "Cuatro años a contar desde el conocimiento de los documentos o desde que la sentencia quedó firme",
+    "Un mes a contar desde el conocimiento de los documentos o desde que la sentencia quedó firme"
+   ],
+   0,
+   "Art. 125.2.",
+   "lpac 125.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126.1 de la Ley 39/2015, de 1 de octubre, el órgano competente para resolver el recurso extraordinario de revisión podrá acordar motivadamente su inadmisión a trámite, sin recabar dictamen, cuando:",
+   [
+    "No se funde en alguna de las causas del artículo 125.1 o se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales",
+    "El recurrente no sea el destinatario del acto o el recurso se presente fuera del plazo de un mes",
+    "Se presente por medios electrónicos y no esté firmado con certificado cualificado"
+   ],
+   0,
+   "Art. 126.1.",
+   "lpac 126.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126.3 de la Ley 39/2015, de 1 de octubre, transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución:",
+   [
+    "Se entenderá desestimado, quedando expedita la vía contencioso-administrativa",
+    "Se entenderá estimado, quedando firme la resolución favorable al recurrente por silencio positivo",
+    "Caduca el procedimiento, ordenándose el archivo de las actuaciones y la inadmisión del recurso"
+   ],
+   0,
+   "Art. 126.3.",
+   "lpac 126.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126.2 de la Ley 39/2015, de 1 de octubre, el órgano que conoce del recurso extraordinario de revisión debe pronunciarse:",
+   [
+    "No sólo sobre la procedencia del recurso, sino también, en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido",
+    "Solo sobre la procedencia del recurso, sin entrar en el fondo de la cuestión resuelta por el acto recurrido",
+    "Solo sobre el fondo de la cuestión, sin pronunciarse sobre la procedencia del recurso interpuesto"
+   ],
+   0,
+   "Art. 126.2.",
+   "lpac 126.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

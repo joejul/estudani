@@ -46,6 +46,66 @@
    "Contrato menor",
    "Contrato de bajo importe (menos de 40.000 € en obras o 15.000 € en suministros y servicios) con tramitación simplificada.",
    "Art. 118 LCSP"
+  ],
+  [
+   "contrato-obras",
+   "Contrato de obras",
+   "El que tiene por objeto realizar una obra o ejecutar trabajos de construcción o ingeniería civil.",
+   "Art. 13 LCSP"
+  ],
+  [
+   "contrato-suministro",
+   "Contrato de suministro",
+   "El que tiene por objeto adquirir, arrendar o comprar productos o bienes muebles.",
+   "Art. 16 LCSP"
+  ],
+  [
+   "contrato-servicios",
+   "Contrato de servicios",
+   "El que tiene por objeto prestaciones de hacer consistentes en una actividad o un resultado distinto de una obra o suministro.",
+   "Art. 17 LCSP"
+  ],
+  [
+   "poder-adjudicador",
+   "Poder adjudicador",
+   "Entidad del sector público que puede adjudicar contratos: Administraciones Públicas y otros entes.",
+   "Art. 3 LCSP"
+  ],
+  [
+   "pliego-clausulas",
+   "Pliego de cláusulas administrativas",
+   "Documento con las condiciones jurídicas, económicas y administrativas que regirán el contrato.",
+   "Art. 122 LCSP"
+  ],
+  [
+   "pliego-prescripciones",
+   "Pliego de prescripciones técnicas",
+   "Documento con las características técnicas de lo que se va a contratar.",
+   "Art. 124 LCSP"
+  ],
+  [
+   "procedimiento-abierto",
+   "Procedimiento abierto",
+   "Cualquier empresa interesada puede presentar una oferta.",
+   "Art. 156 LCSP"
+  ],
+  [
+   "clasificacion-empresas",
+   "Clasificación de empresas",
+   "Acreditación oficial de la solvencia de una empresa para contratar determinados tipos de contrato.",
+   "Art. 77 LCSP"
+  ],
+  [
+   "garantia-definitiva",
+   "Garantía definitiva",
+   "Fianza que presta el adjudicatario, un 5 % del precio de adjudicación sin IVA, para responder del contrato.",
+   "Art. 107 LCSP"
+  ],
+  [
+   "prohibicion-contratar",
+   "Prohibición de contratar",
+   "Impedimento para contratar con el sector público por haber cometido ciertas infracciones.",
+   "Art. 71 LCSP"
   ]
  ],
  "hubs": [

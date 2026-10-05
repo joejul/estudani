@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Adquisición y pérdida de la relación de servicio",
-   "subtitulo": "Arts. 55 a 63 TREBEP",
+   "subtitulo": "Arts. 55 a 68 TREBEP",
    "clave": [
     "Principios rectores (55)",
     "Requisitos (56)",
@@ -99,7 +99,108 @@
     "Adquisición: proceso selectivo → nombramiento → acatamiento → toma de posesión (62)",
     "Pérdida: renuncia · nacionalidad · jubilación · separación · inhabilitación (63)"
    ],
-   "ic": "🚪"
+   "ic": "🚪",
+   "articulos": [
+    [
+     "trebep",
+     "55",
+     "Principios rectores del acceso al empleo público",
+     "Todos los ciudadanos tienen derecho al acceso al empleo público según los principios de **igualdad, mérito y capacidad**. Los procedimientos de selección garantizan además: **a)** **publicidad** de convocatorias y bases; **b)** **transparencia**; **c)** **imparcialidad y profesionalidad** de los órganos de selección; **d)** **independencia y discrecionalidad técnica**; **e)** **adecuación** entre el contenido de los procesos y las funciones; **f)** **agilidad**, sin perjuicio de la objetividad.",
+     "¿Qué principios garantizan, además de igualdad, mérito y capacidad, los procesos de selección?"
+    ],
+    [
+     "trebep",
+     "56",
+     "Requisitos generales para participar en los procesos selectivos",
+     "Hay que: **a)** tener **nacionalidad española** (salvo el art. 57); **b)** poseer **capacidad funcional**; **c)** tener cumplidos **dieciséis años** y no exceder la **edad máxima de jubilación forzosa** (otra edad máxima solo por **ley**); **d)** **no haber sido separado por expediente disciplinario** ni estar **inhabilitado**; **e)** poseer la **titulación** exigida (texto oficial).",
+     "¿Qué edad mínima exige el art. 56 para participar en un proceso selectivo?"
+    ],
+    [
+     "trebep",
+     "57",
+     "Acceso al empleo público de nacionales de otros Estados",
+     "Los **nacionales de la Unión Europea** pueden acceder como **personal funcionario** en igualdad con los españoles, **salvo** empleos que impliquen **participación en el ejercicio del poder público** o en la **salvaguardia de intereses del Estado o de las Administraciones**. Se extiende al **cónyuge** (no separado de derecho) y a **descendientes menores de 21 años o dependientes**, y a personas de **Tratados internacionales** sobre libre circulación de trabajadores.",
+     "¿A qué empleos no pueden acceder los nacionales de otros Estados de la UE?"
+    ],
+    [
+     "trebep",
+     "58",
+     "Acceso de funcionarios españoles de Organismos Internacionales",
+     "Las Administraciones fijan **requisitos y condiciones** para el acceso de **funcionarios españoles de Organismos Internacionales**, si poseen la **titulación** y **superan los procesos selectivos**; pueden quedar **exentos de pruebas** que acrediten conocimientos ya exigidos en su puesto internacional.",
+     "¿De qué pueden quedar exentos los funcionarios españoles de organismos internacionales?"
+    ],
+    [
+     "trebep",
+     "59",
+     "Personas con discapacidad: cupo de reserva del siete por ciento",
+     "En las ofertas de empleo se reserva un **cupo no inferior al 7 % de las vacantes** para **personas con discapacidad**, de modo que **progresivamente se alcance el 2 % de los efectivos totales**. De ese 7 %, **al menos el 2 % de las plazas ofertadas** es para **discapacidad intelectual** y **el resto** para otras discapacidades. Cada Administración adopta **adaptaciones y ajustes razonables** de tiempos y medios en el proceso y en el puesto de trabajo.",
+     "¿Qué parte del cupo del 7 % se reserva a personas con discapacidad intelectual?",
+     {}
+    ],
+    [
+     "trebep",
+     "60",
+     "Órganos de selección: colegiados, imparciales y profesionales",
+     "Son **colegiados**, con **imparcialidad y profesionalidad** y tendencia a la **paridad entre mujer y hombre**. **No pueden formar parte**: el **personal de elección o designación política**, los **funcionarios interinos** y el **personal eventual**. La pertenencia es **siempre a título individual**, sin representar a nadie.",
+     "¿Quiénes no pueden formar parte de los órganos de selección?"
+    ],
+    [
+     "trebep",
+     "61",
+     "Sistemas selectivos: carácter abierto y pruebas",
+     "Los procesos son **abiertos** y garantizan la **libre concurrencia**, sin perjuicio de la promoción interna y de las medidas de **discriminación positiva**. Las pruebas cuidan la **conexión con el desempeño** del puesto; pueden ser **orales o escritas**, **ejercicios de habilidades**, **idiomas** y **pruebas físicas**. La **valoración de méritos** solo puede tener una **puntuación proporcionada**, que no decide por sí sola el resultado (resto en el texto oficial).",
+     "¿Qué límite tiene la valoración de méritos en los procesos selectivos?"
+    ],
+    [
+     "trebep",
+     "62",
+     "Adquisición de la condición de funcionario de carrera",
+     "Se adquiere por el cumplimiento **sucesivo** de: **a)** **superación del proceso selectivo**; **b)** **nombramiento** por el órgano competente, publicado en el **Diario Oficial**; **c)** **acto de acatamiento de la Constitución** y, en su caso, del Estatuto de Autonomía y del resto del ordenamiento; **d)** **toma de posesión** en el plazo establecido.",
+     "¿Cuáles son los cuatro requisitos sucesivos para adquirir la condición de funcionario de carrera?"
+    ],
+    [
+     "trebep",
+     "63",
+     "Causas de pérdida de la condición de funcionario de carrera",
+     "Son: **a)** **renuncia**; **b)** **pérdida de la nacionalidad**; **c)** **jubilación total**; **d)** **sanción disciplinaria de separación del servicio** firme; **e)** **pena principal o accesoria de inhabilitación absoluta o especial** para cargo público firme.",
+     "¿Cuáles son las cinco causas de pérdida de la condición de funcionario de carrera?"
+    ],
+    [
+     "trebep",
+     "64",
+     "Renuncia a la condición de funcionario",
+     "Se manifiesta **por escrito** y la **Administración la acepta expresamente**. **No se acepta** si el funcionario está sujeto a **expediente disciplinario** o se ha dictado **auto de procesamiento o de apertura de juicio oral** por delito. **No inhabilita** para ingresar de nuevo por el procedimiento de selección.",
+     "¿En qué casos no puede aceptarse la renuncia a la condición de funcionario?"
+    ],
+    [
+     "trebep",
+     "65",
+     "Pérdida de la nacionalidad y condición de funcionario",
+     "La **pérdida de la nacionalidad española** (o de otro Estado miembro de la UE o con libre circulación) tenida en cuenta para el nombramiento **determina la pérdida de la condición de funcionario**, salvo que **simultáneamente se adquiera la nacionalidad** de alguno de esos Estados.",
+     "¿En qué caso la pérdida de la nacionalidad no hace perder la condición de funcionario?"
+    ],
+    [
+     "trebep",
+     "66",
+     "Inhabilitación absoluta o especial para cargo público",
+     "La pena **principal o accesoria de inhabilitación absoluta** firme produce la pérdida de la condición **respecto a todos los empleos o cargos**. La de **inhabilitación especial** firme, **respecto de los empleos o cargos especificados en la sentencia**.",
+     "¿Qué alcance tiene la inhabilitación especial respecto a los empleos del funcionario?"
+    ],
+    [
+     "trebep",
+     "67",
+     "Jubilación de los funcionarios: clases y edad forzosa",
+     "Puede ser **voluntaria** (a solicitud, si cumple los requisitos de Seguridad Social), **forzosa** (de oficio al cumplir **sesenta y cinco años**; se puede **solicitar la prolongación hasta los setenta**, con resolución motivada) o por **incapacidad permanente** para las funciones de su cuerpo o escala.",
+     "¿A qué edad se declara la jubilación forzosa y hasta cuándo puede prolongarse?"
+    ],
+    [
+     "trebep",
+     "68",
+     "Rehabilitación de la condición de funcionario",
+     "Tras la **pérdida de nacionalidad** o **jubilación por incapacidad permanente**, desaparecida la causa, el interesado **puede solicitar la rehabilitación**, que **se concede**. A quien perdió la condición por **inhabilitación** se puede **rehabilitar excepcionalmente**; si no se resuelve expresamente, **se entiende desestimada**.",
+     "¿Qué efecto tiene el silencio en la solicitud de rehabilitación tras una condena de inhabilitación?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -185,7 +286,65 @@
     "Interés particular: 5 años de servicios; sin retribución",
     "Suspensión > 6 meses: pierde el puesto (90)"
    ],
-   "ic": "🔄"
+   "ic": "🔄",
+   "articulos": [
+    [
+     "trebep",
+     "85",
+     "Situaciones administrativas de los funcionarios de carrera",
+     "Los funcionarios de carrera se hallan en: **a)** **servicio activo**; **b)** **servicios especiales**; **c)** **servicio en otras Administraciones Públicas**; **d)** **excedencia**; **e)** **suspensión de funciones**. Las leyes de Función Pública pueden regular **otras situaciones** (por ejemplo, por reestructuración o exceso de personal).",
+     "¿Cuáles son las cinco situaciones administrativas básicas de los funcionarios de carrera?"
+    ],
+    [
+     "trebep",
+     "86",
+     "Servicio activo",
+     "Están en servicio activo quienes **prestan servicios en su condición de funcionarios** en cualquier Administración u organismo y **no les corresponda otra situación**. Gozan de **todos los derechos** y quedan sujetos a **deberes y responsabilidades**; se rigen por el Estatuto y la normativa de función pública de la Administración donde sirven.",
+     "¿Quiénes se hallan en servicio activo?"
+    ],
+    [
+     "trebep",
+     "87",
+     "Servicios especiales: supuestos",
+     "Se declaran, entre otros casos, cuando sean designados **miembros del Gobierno o de órganos de gobierno autonómicos**, de **Instituciones de la UE** u organizaciones internacionales, **altos cargos**; cuando sean autorizados a una **misión superior a seis meses** en organismos internacionales o programas de cooperación; cuando sean adscritos al **Tribunal Constitucional** o al **Defensor del Pueblo**, o accedan a **Diputado o Senador**, entre otros (lista completa en el texto oficial).",
+     "¿Qué duración mínima debe tener la misión en organismos internacionales para pasar a servicios especiales?"
+    ],
+    [
+     "trebep",
+     "88",
+     "Servicio en otras Administraciones Públicas",
+     "Los funcionarios que, por **transferencias** o **provisión de puestos**, obtienen destino en **otra Administración** se declaran en **servicio en otras Administraciones Públicas**. Los **transferidos a las CCAA** se integran plenamente en su Función Pública (servicio activo allí), respetando **Grupo o Subgrupo** y **derechos económicos**.",
+     "¿En qué situación están los funcionarios que obtienen destino en otra Administración?"
+    ],
+    [
+     "trebep",
+     "89",
+     "Excedencia: modalidades y excedencia voluntaria por interés particular",
+     "Modalidades: **a)** **voluntaria por interés particular**; **b)** **voluntaria por agrupación familiar**; **c)** **por cuidado de familiares**; **d)** **por violencia de género o violencia sexual**; **e)** **por violencia terrorista**. La **voluntaria por interés particular** exige **cinco años de servicios efectivos** en Administraciones Públicas inmediatamente anteriores (las leyes de Función Pública pueden reducirlos), queda **subordinada a las necesidades del servicio** y **no puede declararse** si se instruye **expediente disciplinario** (resto en el texto oficial).",
+     "¿Cuántos años de servicios efectivos exige la excedencia voluntaria por interés particular?"
+    ],
+    [
+     "trebep",
+     "90",
+     "Suspensión de funciones: efectos y duración",
+     "El funcionario suspendido queda **privado del ejercicio de sus funciones y de todos los derechos** de su condición. La suspensión **determina la pérdida del puesto** si **excede de seis meses**. La **suspensión firme** (sentencia penal o sanción disciplinaria) **no puede exceder de seis años**. **No puede prestar servicios en ninguna Administración** durante la pena o sanción. Puede acordarse **provisionalmente** durante un procedimiento judicial o disciplinario.",
+     "¿A partir de cuántos meses la suspensión de funciones supone la pérdida del puesto de trabajo?"
+    ],
+    [
+     "trebep",
+     "91",
+     "Reingreso al servicio activo",
+     "**Reglamentariamente** se regulan **plazos, procedimientos y condiciones** del reingreso, según la situación de procedencia, **respetando el derecho a la reserva del puesto** cuando proceda.",
+     "¿Qué derecho se respeta en el reingreso al servicio activo?"
+    ],
+    [
+     "trebep",
+     "92",
+     "Situaciones del personal laboral",
+     "El **personal laboral** se rige por el **Estatuto de los Trabajadores** y los **convenios colectivos**; estos pueden **aplicar este capítulo** en lo compatible con el Estatuto de los Trabajadores.",
+     "¿Qué normas rigen las situaciones del personal laboral?"
+    ]
+   ]
   },
   {
    "id": "e2",
@@ -286,7 +445,51 @@
     "Sanciones: separación · despido · suspensión ≤ 6 años · traslado · demérito · apercibimiento (96)",
     "Prescripción faltas 3 años / 2 años / 6 meses; sanciones 3 / 2 / 1 año (97)"
    ],
-   "ic": "🚨"
+   "ic": "🚨",
+   "articulos": [
+    [
+     "trebep",
+     "93",
+     "Responsabilidad disciplinaria: inducción y encubrimiento",
+     "Funcionarios y personal laboral están sujetos al **régimen disciplinario** del título VII. Quien **induzca** a otros a cometer una falta incurre en **la misma responsabilidad**; también quien **encubra faltas consumadas muy graves o graves** si se deriva **daño grave** para la Administración o los ciudadanos. El régimen del personal laboral se completa con la **legislación laboral**.",
+     "¿Qué responsabilidad tiene quien induce a otro a cometer una falta disciplinaria?"
+    ],
+    [
+     "trebep",
+     "94",
+     "Ejercicio de la potestad disciplinaria y principios",
+     "Se corrigen las infracciones **sin perjuicio de la responsabilidad patrimonial o penal**. Principios: **legalidad y tipicidad**, **irretroactividad de las desfavorables y retroactividad de las favorables**, **proporcionalidad**, **culpabilidad** y **presunción de inocencia**. Si hay **indicios fundados de criminalidad**, se **suspende** la tramitación y se informa al **Ministerio Fiscal**; los **hechos probados por sentencias firmes vinculan**.",
+     "¿Qué cinco principios rigen la potestad disciplinaria?"
+    ],
+    [
+     "trebep",
+     "95",
+     "Faltas disciplinarias: muy graves, graves y leves",
+     "Pueden ser **muy graves, graves y leves**. **Muy graves**, entre otras: **incumplimiento del deber de respeto a la Constitución y Estatutos**; **discriminación** y **acoso** (por sexo, origen, religión, discapacidad, edad…, acoso moral y sexual); **abandono del servicio**; **acuerdos manifiestamente ilegales** que causen perjuicio grave; **publicación o utilización indebida de información** de su cargo; **negligencia en la custodia de secretos**, entre otras (lista completa en el texto oficial).",
+     "¿Qué tres clases de faltas disciplinarias existen?"
+    ],
+    [
+     "trebep",
+     "96",
+     "Sanciones disciplinarias",
+     "Pueden imponerse: **a)** **separación del servicio** (en interinos, **revocación del nombramiento**; **solo faltas muy graves**); **b)** **despido disciplinario** del personal laboral (**solo muy graves**); **c)** **suspensión firme de funciones** (o de empleo y sueldo), **máximo 6 años**; **d)** **traslado forzoso**; **e)** **demérito**; **f)** **apercibimiento**; **g)** otras por ley. La sanción se gradúa por **intencionalidad, descuido, daño, reiteración** y otros (texto oficial).",
+     "¿Qué sanciones solo pueden imponerse por faltas muy graves?"
+    ],
+    [
+     "trebep",
+     "97",
+     "Prescripción de las faltas y sanciones",
+     "**Faltas:** muy graves a los **3 años**, graves a los **2 años**, leves a los **6 meses**. **Sanciones:** muy graves **3 años**, graves **2 años**, leves **1 año**. Las faltas prescriben **desde que se cometieron** (o desde el cese si son continuadas); las sanciones, **desde la firmeza** de la resolución.",
+     "¿A los cuántos años prescriben las faltas graves y a los cuántos las sanciones leves?"
+    ],
+    [
+     "trebep",
+     "98",
+     "Procedimiento disciplinario y medidas provisionales",
+     "**No se impone sanción** por faltas **muy graves o graves** sin **procedimiento previamente establecido**; las **leves** por **procedimiento sumario con audiencia al interesado**. El procedimiento separa **fase instructora y sancionadora** en **órganos distintos**. Se pueden adoptar **medidas provisionales motivadas**; la **suspensión provisional** no puede **exceder de 6 meses**, salvo paralización imputable al interesado.",
+     "¿Qué procedimiento se sigue para sancionar faltas leves?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -673,6 +876,1057 @@
    [
     "firmeza"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 55.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
+   [
+    "Igualdad, mérito y capacidad",
+    "Igualdad, publicidad y transparencia",
+    "Mérito, capacidad y celeridad"
+   ],
+   0,
+   "Art. 55.1.",
+   "trebep 55.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 55.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los procesos selectivos garantizarán, además, los principios de:",
+   [
+    "Publicidad de las convocatorias y de sus bases, transparencia, imparcialidad y profesionalidad de los órganos de selección, independencia y discrecionalidad técnica, adecuación a las funciones y agilidad",
+    "Jerarquía, eficacia y coordinación, junto con la libre designación de los miembros de los órganos de selección",
+    "Libre designación y confianza política, con ausencia de publicidad en las bases de las convocatorias"
+   ],
+   0,
+   "Art. 55.2 a) a f).",
+   "trebep 55.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, para participar en los procesos selectivos será necesario, entre otros requisitos:",
+   [
+    "Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa",
+    "Tener cumplidos dieciocho años y no exceder de la edad máxima de jubilación forzosa en todo caso",
+    "Tener cumplidos veintiún años y no exceder de los sesenta años, edad máxima para el acceso"
+   ],
+   0,
+   "Art. 56.1 c).",
+   "trebep 56.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, para participar en los procesos selectivos será necesario, entre otros requisitos:",
+   [
+    "Poseer la capacidad funcional para el desempeño de las tareas y la titulación exigida",
+    "Haber trabajado antes en una Administración Pública durante, al menos, dos años en el mismo cuerpo",
+    "Estar empadronado en el municipio convocante con una antelación mínima de un año"
+   ],
+   0,
+   "Art. 56.1 b) y e).",
+   "trebep 56.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, no podrá participar en procesos selectivos quien:",
+   [
+    "Haya sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o se halle en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial",
+    "Haya sido sancionado con apercibimiento o con suspensión de funciones de duración inferior a seis meses",
+    "Haya sido funcionario interino o personal laboral temporal en cualquier Administración Pública"
+   ],
+   0,
+   "Art. 56.1 d).",
+   "trebep 56.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los nacionales de los Estados miembros de la Unión Europea podrán acceder como personal funcionario, en igualdad de condiciones que los españoles, a los empleos públicos, con excepción de:",
+   [
+    "Los que directa o indirectamente impliquen una participación en el ejercicio del poder público o en las funciones de salvaguardia de los intereses del Estado o de las Administraciones Públicas",
+    "Los puestos de nivel técnico y de gestión que requieran titulación universitaria de grado superior",
+    "Los puestos de atención al público y los de carácter instrumental en las oficinas de registro"
+   ],
+   0,
+   "Art. 57.1.",
+   "trebep 57.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios españoles de Organismos Internacionales que accedan a las Administraciones Públicas:",
+   [
+    "Deberán poseer la titulación requerida y superar los procesos selectivos, pudiendo quedar exentos de las pruebas que acrediten conocimientos ya exigidos para su puesto en el organismo internacional",
+    "Acceden directamente sin pruebas selectivas, al haber acreditado ya sus conocimientos en el organismo",
+    "Solo acceden por libre designación del órgano competente de la Administración, sin titulación específica"
+   ],
+   0,
+   "Art. 58.",
+   "trebep 58",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, en las ofertas de empleo público se reservará un cupo para personas con discapacidad no inferior a:",
+   [
+    "El siete por ciento de las vacantes, de modo que progresivamente se alcance el dos por ciento de los efectivos totales",
+    "El cinco por ciento de las vacantes, de modo que progresivamente se alcance el dos por ciento",
+    "El diez por ciento de las vacantes, de modo que progresivamente se alcance el cinco por ciento"
+   ],
+   0,
+   "Art. 59.1.",
+   "trebep 59.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, de la reserva mínima del siete por ciento para personas con discapacidad, al menos un cierto porcentaje de las plazas ofertadas lo será para personas con discapacidad intelectual. Ese porcentaje es:",
+   [
+    "El dos por ciento",
+    "El uno por ciento",
+    "El cinco por ciento"
+   ],
+   0,
+   "Art. 59.1 segundo párrafo.",
+   "trebep 59.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, cada Administración adoptará las medidas precisas para establecer:",
+   [
+    "Las adaptaciones y ajustes razonables de tiempos y medios en el proceso selectivo y, una vez superado, las adaptaciones en el puesto de trabajo a las necesidades de las personas con discapacidad",
+    "La exención de las pruebas de conocimientos para las personas con discapacidad, que accederán directamente",
+    "Un proceso selectivo separado y con distintos contenidos para las personas con discapacidad"
+   ],
+   0,
+   "Art. 59.2.",
+   "trebep 59.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los órganos de selección serán colegiados y su composición deberá ajustarse a los principios de imparcialidad y profesionalidad de sus miembros:",
+   [
+    "Y se tenderá, asimismo, a la paridad entre mujer y hombre",
+    "Así como a la paridad entre mujer y hombre",
+    "Respetando, cuando sea posible, la paridad"
+   ],
+   0,
+   "Art. 60.1.",
+   "trebep 60.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 37",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, no podrán formar parte de los órganos de selección:",
+   [
+    "El personal de elección o de designación política, los funcionarios interinos y el personal eventual",
+    "Los funcionarios de carrera que no pertenezcan a la Administración convocante del proceso selectivo",
+    "Los empleados laborales fijos y el personal funcionario de nivel técnico superior"
+   ],
+   0,
+   "Art. 60.2.",
+   "trebep 60.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la pertenencia a los órganos de selección será siempre:",
+   [
+    "A título individual, no pudiendo ostentarse en representación o por cuenta de nadie",
+    "En representación de los sindicatos más representativos, que designarán a sus miembros",
+    "En representación de la Administración convocante, cuyos intereses deben defender en el órgano"
+   ],
+   0,
+   "Art. 60.3.",
+   "trebep 60.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los procesos selectivos tendrán carácter abierto y garantizarán:",
+   [
+    "La libre concurrencia, sin perjuicio de lo establecido para la promoción interna y las medidas de discriminación positiva",
+    "La restricción del acceso a funcionarios de la propia Administración convocante, sin concurrencia libre",
+    "La preferencia de los residentes en el territorio de la Administración que convoca el proceso"
+   ],
+   0,
+   "Art. 61.1.",
+   "trebep 61.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los procesos selectivos que incluyan valoración de méritos sólo podrán otorgar a dicha valoración:",
+   [
+    "Una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado del proceso selectivo",
+    "Una puntuación decisiva, que podrá determinar por sí misma el resultado del proceso selectivo",
+    "Hasta el 50 % de la puntuación total del proceso, sin que pueda superarse ese límite"
+   ],
+   0,
+   "Art. 61.3.",
+   "trebep 61.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de:",
+   [
+    "Superación del proceso selectivo, nombramiento publicado en el Diario Oficial, acto de acatamiento de la Constitución y toma de posesión dentro del plazo establecido",
+    "Superación del proceso selectivo y firma del contrato, con acatamiento de la Constitución",
+    "Nombramiento y período de prácticas, sin necesidad de toma de posesión dentro de plazo"
+   ],
+   0,
+   "Art. 62.1 a) a d).",
+   "trebep 62.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, son causas de pérdida de la condición de funcionario de carrera:",
+   [
+    "La renuncia, la pérdida de la nacionalidad, la jubilación total, la sanción disciplinaria de separación del servicio firme y la pena de inhabilitación absoluta o especial para cargo público firme",
+    "El traslado forzoso y la suspensión de funciones impuestos como sanción disciplinaria firme",
+    "La excedencia voluntaria por interés particular y el pase a la situación de servicios especiales"
+   ],
+   0,
+   "Art. 63 a) a e).",
+   "trebep 63",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, no podrá ser aceptada la renuncia a la condición de funcionario:",
+   [
+    "Cuando esté sujeto a expediente disciplinario o haya sido dictado en su contra auto de procesamiento o de apertura de juicio oral por la comisión de algún delito",
+    "Cuando haya sido funcionario más de diez años, o desempeñe un puesto de libre designación",
+    "Cuando sea funcionario interino o esté en situación de excedencia voluntaria por interés particular"
+   ],
+   0,
+   "Art. 64.2.",
+   "trebep 64.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la renuncia a la condición de funcionario:",
+   [
+    "No inhabilita para ingresar de nuevo en la Administración Pública a través del procedimiento de selección establecido",
+    "Inhabilita durante cinco años para ingresar de nuevo en cualquier Administración Pública",
+    "Inhabilita de forma permanente para ingresar de nuevo en la Administración Pública"
+   ],
+   0,
+   "Art. 64.3.",
+   "trebep 64.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la pérdida de la nacionalidad española o de la de otro Estado de la UE que haya sido tenida en cuenta para el nombramiento determinará la pérdida de la condición de funcionario:",
+   [
+    "Salvo que simultáneamente se adquiera la nacionalidad de alguno de dichos Estados",
+    "En todo caso, aunque se adquiera simultáneamente la nacionalidad de otro Estado de la Unión Europea",
+    "Solo si así lo acuerda la Administración mediante resolución motivada y previa audiencia"
+   ],
+   0,
+   "Art. 65.",
+   "trebep 65",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la pena de inhabilitación absoluta, cuando hubiere adquirido firmeza la sentencia, produce:",
+   [
+    "La pérdida de la condición de funcionario respecto a todos los empleos o cargos que tuviere",
+    "La pérdida del puesto actual únicamente, manteniendo la condición respecto de los demás empleos",
+    "La suspensión de funciones por seis años respecto de todos los empleos o cargos que tuviere"
+   ],
+   0,
+   "Art. 66. La especial: solo los empleos o cargos especificados en la sentencia.",
+   "trebep 66",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la jubilación de los funcionarios podrá ser:",
+   [
+    "Voluntaria, forzosa o por declaración de incapacidad permanente",
+    "Voluntaria o forzosa únicamente, sin que proceda la jubilación por incapacidad permanente",
+    "Voluntaria, forzosa o anticipada, según los años de servicio acreditados por el funcionario"
+   ],
+   0,
+   "Art. 67.1.",
+   "trebep 67.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la jubilación forzosa se declarará de oficio al cumplir el funcionario:",
+   [
+    "Los sesenta y cinco años de edad, pudiendo solicitarse la prolongación en el servicio activo como máximo hasta los setenta años",
+    "Los sesenta años de edad, pudiendo solicitarse la prolongación como máximo hasta los sesenta y cinco",
+    "Los sesenta y siete años de edad, sin posibilidad de solicitar la prolongación en servicio activo"
+   ],
+   0,
+   "Art. 67.3.",
+   "trebep 67.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, en caso de extinción de la relación de servicios por pérdida de nacionalidad o jubilación por incapacidad permanente, una vez desaparecida la causa, el interesado:",
+   [
+    "Podrá solicitar la rehabilitación de su condición de funcionario, que le será concedida",
+    "No podrá recuperar la condición de funcionario, aunque desaparezca la causa que motivó la extinción",
+    "Solo podrá reingresar mediante la superación de un nuevo proceso selectivo, sin rehabilitación"
+   ],
+   0,
+   "Art. 68.1.",
+   "trebep 68.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la rehabilitación, con carácter excepcional, de quien perdió la condición de funcionario por inhabilitación podrá concederse por los órganos de gobierno; si transcurrido el plazo no se hubiera resuelto expresamente:",
+   [
+    "Se entenderá desestimada la solicitud",
+    "Se entenderá estimada",
+    "Se entenderá caducado el procedimiento"
+   ],
+   0,
+   "Art. 68.2.",
+   "trebep 68.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera se hallarán en alguna de las siguientes situaciones:",
+   [
+    "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones",
+    "Servicio activo, excedencia, jubilación y suspensión, además de los servicios especiales",
+    "Servicio activo, servicios especiales y excedencia, sin incluir la suspensión de funciones"
+   ],
+   0,
+   "Art. 85.1.",
+   "trebep 85.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, se hallarán en situación de servicio activo quienes:",
+   [
+    "Presten servicios en su condición de funcionarios públicos cualquiera que sea la Administración u organismo en que estén destinados y no les corresponda quedar en otra situación",
+    "Estén en comisión de servicios fuera de su Administración de origen, con derecho a reserva de puesto",
+    "Hayan solicitado excedencia voluntaria y estén pendientes de la concesión por el órgano competente"
+   ],
+   0,
+   "Art. 86.1.",
+   "trebep 86",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera serán declarados en situación de servicios especiales, entre otros casos:",
+   [
+    "Cuando sean designados miembros del Gobierno o de los órganos de gobierno de las comunidades autónomas, o accedan a la condición de Diputado o Senador si perciben retribuciones periódicas",
+    "Cuando soliciten un permiso por estudios de duración superior a seis meses en una universidad",
+    "Cuando cuiden de un familiar a su cargo que no pueda valerse por sí mismo por enfermedad"
+   ],
+   0,
+   "Art. 87.1 a) y e).",
+   "trebep 87.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera serán declarados en servicios especiales cuando sean autorizados para realizar una misión por período determinado en organismos internacionales, gobiernos o entidades públicas extranjeras o programas de cooperación internacional superior a:",
+   [
+    "Seis meses",
+    "Tres meses",
+    "Un año"
+   ],
+   0,
+   "Art. 87.1 b).",
+   "trebep 87.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera serán declarados en servicios especiales cuando desempeñen cargos electivos retribuidos y de dedicación exclusiva en las entidades locales:",
+   [
+    "Y cuando desempeñen responsabilidades de órganos superiores y directivos municipales",
+    "Solo si son Alcaldes del municipio, con dedicación exclusiva y retribución del cargo",
+    "Solo si son miembros de la Junta de Gobierno Local, con dedicación exclusiva y retribución"
+   ],
+   0,
+   "Art. 87.1 f).",
+   "trebep 87.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 88.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera que, por transferencias o procedimientos de provisión de puestos, obtengan destino en una Administración Pública distinta, serán declarados en la situación de:",
+   [
+    "Servicio en otras Administraciones Públicas",
+    "Servicio activo",
+    "Excedencia voluntaria"
+   ],
+   0,
+   "Art. 88.1.",
+   "trebep 88.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la excedencia de los funcionarios de carrera podrá adoptar las modalidades de:",
+   [
+    "Excedencia voluntaria por interés particular, por agrupación familiar, por cuidado de familiares, por razón de violencia de género o sexual y por razón de violencia terrorista",
+    "Excedencia voluntaria y excedencia forzosa, además de la excedencia por cuidado de familiares",
+    "Excedencia por interés particular y por cuidado de hijos únicamente, sin otras modalidades"
+   ],
+   0,
+   "Art. 89.1.",
+   "trebep 89.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un período mínimo de:",
+   [
+    "Cinco años inmediatamente anteriores",
+    "Tres años inmediatamente anteriores",
+    "Diez años inmediatamente anteriores"
+   ],
+   0,
+   "Art. 89.2.",
+   "trebep 89.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 30",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la concesión de excedencia voluntaria por interés particular:",
+   [
+    "Quedará subordinada a las necesidades del servicio debidamente motivadas y no podrá declararse cuando al funcionario se le instruya expediente disciplinario",
+    "Es un derecho absoluto del funcionario, que no puede denegarse por necesidades del servicio",
+    "Se concede por silencio positivo transcurridos tres meses desde la solicitud del funcionario"
+   ],
+   0,
+   "Art. 89.2.",
+   "trebep 89.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, quienes se encuentren en excedencia por interés particular:",
+   [
+    "No devengarán retribuciones ni les será computable el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social",
+    "Devengan el sueldo base y les es computable el tiempo a efectos de trienios y Seguridad Social",
+    "Computan el tiempo a efectos de trienios y de ascensos, aunque no devenguen retribuciones"
+   ],
+   0,
+   "Art. 89.2.",
+   "trebep 89.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo; el puesto de trabajo se reservará, al menos, durante:",
+   [
+    "Dos años, y transcurrido este período, la reserva lo será a un puesto en la misma localidad y de igual retribución",
+    "Un año, y transcurrido este período, la reserva lo será a un puesto en la misma localidad",
+    "Tres años, manteniéndose durante todo ese tiempo la reserva del mismo puesto de trabajo"
+   ],
+   0,
+   "Art. 89.4.",
+   "trebep 89.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.5 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las funcionarias víctimas de violencia de género podrán solicitar excedencia sin tener que haber prestado un tiempo mínimo de servicios previos; durante los dos primeros meses tendrán derecho a percibir:",
+   [
+    "Las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo",
+    "El cincuenta por ciento de las retribuciones y, en su caso, las prestaciones familiares",
+    "Solo las prestaciones familiares por hijo a cargo, sin retribuciones durante la excedencia"
+   ],
+   0,
+   "Art. 89.5. Reserva del puesto los seis primeros meses (prorrogable hasta 18).",
+   "trebep 89.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.6 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista tendrán derecho a disfrutar de un período de excedencia:",
+   [
+    "En las mismas condiciones que las víctimas de violencia de género o de violencia sexual",
+    "En las mismas condiciones que la excedencia voluntaria por interés particular",
+    "En las mismas condiciones que la excedencia por cuidado de familiares"
+   ],
+   0,
+   "Art. 89.6.",
+   "trebep 89.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 9",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el funcionario declarado en situación de suspensión quedará privado del ejercicio de sus funciones y de todos los derechos inherentes a la condición; la suspensión determinará la pérdida del puesto de trabajo cuando exceda de:",
+   [
+    "Seis meses",
+    "Un mes",
+    "Quince días"
+   ],
+   0,
+   "Art. 90.1.",
+   "trebep 90.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 3",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la suspensión firme por sanción disciplinaria no podrá exceder de:",
+   [
+    "Seis años",
+    "Tres años",
+    "Diez años"
+   ],
+   0,
+   "Art. 90.2.",
+   "trebep 90.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, podrá acordarse la suspensión de funciones con carácter provisional:",
+   [
+    "Con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario",
+    "Solo tras sentencia firme, una vez concluido el procedimiento judicial o el expediente disciplinario",
+    "Solo por decisión del Alcalde, como medida cautelar dictada de oficio, sin límite de duración"
+   ],
+   0,
+   "Art. 90.4.",
+   "trebep 90.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el personal laboral se regirá, en cuanto a sus situaciones:",
+   [
+    "Por el Estatuto de los Trabajadores y por los Convenios Colectivos que les sean de aplicación",
+    "Por las normas de los funcionarios de carrera de aplicación en cada Administración",
+    "Por las leyes de Función Pública únicamente, sin sujeción al Estatuto de los Trabajadores"
+   ],
+   0,
+   "Art. 92.",
+   "trebep 92",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido en el título correspondiente del TREBEP y en las leyes de Función Pública de desarrollo; y el régimen disciplinario del personal laboral se regirá, en lo no previsto en el título VII, por:",
+   [
+    "La legislación laboral",
+    "La legislación funcionarial",
+    "La Ley de procedimiento administrativo"
+   ],
+   0,
+   "Art. 93.4 (el régimen disciplinario es el Título VII).",
+   "trebep 93.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 1",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios o personal laboral que indujeren a otros a la realización de actos constitutivos de falta disciplinaria:",
+   [
+    "Incurrirán en la misma responsabilidad que éstos",
+    "Incurrirán en responsabilidad atenuada respecto de quienes ejecuten los actos constitutivos de falta",
+    "No incurren en responsabilidad alguna, pues esta recae solo en quien comete materialmente la falta"
+   ],
+   0,
+   "Art. 93.2.",
+   "trebep 93.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, incurrirán en responsabilidad los funcionarios o personal laboral que encubrieren las faltas consumadas:",
+   [
+    "Muy graves o graves, cuando de dichos actos se derive daño grave para la Administración o los ciudadanos",
+    "Leves, cuando de dichos actos se derive daño grave para la Administración o los ciudadanos",
+    "Muy graves únicamente, aunque no se derive daño grave para la Administración o los ciudadanos"
+   ],
+   0,
+   "Art. 93.3.",
+   "trebep 93.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la potestad disciplinaria se ejercerá de acuerdo con los principios de:",
+   [
+    "Legalidad y tipicidad, irretroactividad de las disposiciones sancionadoras no favorables, proporcionalidad, culpabilidad y presunción de inocencia",
+    "Jerarquía y eficacia, con sujeción a la discrecionalidad del órgano que ejerce la potestad",
+    "Oportunidad y discrecionalidad, de modo que no rija la presunción de inocencia en el procedimiento"
+   ],
+   0,
+   "Art. 94.2 a) a e).",
+   "trebep 94.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad:",
+   [
+    "Se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal",
+    "Se continuará hasta su resolución, sin necesidad de comunicar los hechos al Ministerio Fiscal",
+    "Se archivará el expediente, y los hechos se pondrán en conocimiento de la jurisdicción penal"
+   ],
+   0,
+   "Art. 94.3. Los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.",
+   "trebep 94.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las faltas disciplinarias pueden ser:",
+   [
+    "Muy graves, graves y leves",
+    "Graves y leves",
+    "Muy graves y graves"
+   ],
+   0,
+   "Art. 95.1.",
+   "trebep 95.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, son faltas muy graves, entre otras:",
+   [
+    "El abandono del servicio, la adopción de acuerdos manifiestamente ilegales que causen perjuicio grave y el acoso laboral",
+    "El retraso en la incorporación al puesto de trabajo, y la falta de respeto a los compañeros",
+    "La falta de asistencia injustificada a un día de trabajo y el descuido en la conservación de bienes"
+   ],
+   0,
+   "Art. 95.2 c), d), o).",
+   "trebep 95.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las faltas graves serán establecidas por ley de las Cortes Generales o de la asamblea legislativa de la comunidad autónoma o por los convenios colectivos para el personal laboral, atendiendo a:",
+   [
+    "El grado en que se haya vulnerado la legalidad, la gravedad de los daños causados al interés público y el descrédito para la imagen pública de la Administración",
+    "La antigüedad del funcionario y el número de infracciones previas cometidas por el mismo",
+    "La categoría profesional del infractor y la cuantía del daño económico causado a particulares"
+   ],
+   0,
+   "Art. 95.3.",
+   "trebep 95.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, por razón de las faltas cometidas podrán imponerse sanciones como:",
+   [
+    "Separación del servicio, despido disciplinario del personal laboral, suspensión firme de funciones (máximo 6 años), traslado forzoso, demérito y apercibimiento",
+    "Multa, arresto y suspensión de empleo y sueldo por plazo máximo de dos años",
+    "Solo apercibimiento y suspensión firme de funciones, quedando excluidos el demérito y el traslado"
+   ],
+   0,
+   "Art. 96.1.",
+   "trebep 96.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la sanción de separación del servicio de los funcionarios sólo podrá imponerse:",
+   [
+    "Por la comisión de faltas muy graves",
+    "Por la comisión de faltas graves",
+    "Por la comisión de faltas leves"
+   ],
+   0,
+   "Art. 96.1 a). El despido disciplinario del personal laboral también solo por faltas muy graves.",
+   "trebep 96.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la sanción de demérito consiste en:",
+   [
+    "La penalización a efectos de carrera, promoción o movilidad voluntaria",
+    "La reducción del sueldo durante el período que se fije, con efectos retributivos",
+    "El traslado forzoso, con o sin cambio de localidad de residencia, por el período que se establezca"
+   ],
+   0,
+   "Art. 96.1 e).",
+   "trebep 96.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a:",
+   [
+    "Los seis meses",
+    "Un año",
+    "Los tres meses"
+   ],
+   0,
+   "Art. 97.1.",
+   "trebep 97.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las faltas graves prescribirán:",
+   [
+    "A los dos años",
+    "A los tres años",
+    "Al año"
+   ],
+   0,
+   "Art. 97.1.",
+   "trebep 97.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 22",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las sanciones impuestas por faltas leves prescribirán:",
+   [
+    "Al año",
+    "A los seis meses",
+    "A los dos años"
+   ],
+   0,
+   "Art. 97.1.",
+   "trebep 97.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el plazo de prescripción de las sanciones se cuenta:",
+   [
+    "Desde la firmeza de la resolución sancionadora",
+    "Desde que se cometió la falta",
+    "Desde la notificación de la propuesta de resolución"
+   ],
+   0,
+   "Art. 97.2. El de las faltas desde que se hubieran cometido, o desde el cese de su comisión si son continuadas.",
+   "trebep 97.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la imposición de sanciones por faltas leves se llevará a cabo por:",
+   [
+    "Procedimiento sumario con audiencia al interesado",
+    "Procedimiento ordinario con pliego de cargos",
+    "Resolución directa sin audiencia"
+   ],
+   0,
+   "Art. 98.1 segundo párrafo.",
+   "trebep 98.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 31",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, no podrá imponerse sanción por la comisión de faltas muy graves o graves:",
+   [
+    "Sino mediante el procedimiento previamente establecido",
+    "Sin la audiencia previa del Comité de Empresa y de los delegados sindicales del personal",
+    "Sin el informe previo del Ministerio Fiscal sobre la existencia de indicios de criminalidad"
+   ],
+   0,
+   "Art. 98.1.",
+   "trebep 98.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, en el procedimiento disciplinario quedará establecida:",
+   [
+    "La debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos",
+    "La unidad de instructor y resolutor, para garantizar la rapidez del procedimiento disciplinario",
+    "La resolución por el superior jerárquico del presunto responsable, sin órgano instructor"
+   ],
+   0,
+   "Art. 98.2.",
+   "trebep 98.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de:",
+   [
+    "Seis meses, salvo en caso de paralización del procedimiento imputable al interesado",
+    "Tres meses, salvo en caso de paralización del procedimiento imputable al interesado",
+    "Un año, aunque el procedimiento se paralice por causa imputable a la Administración"
+   ],
+   0,
+   "Art. 98.3.",
+   "trebep 98.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Competencias y régimen urbanístico del suelo",
-   "subtitulo": "Arts. 8 a 18",
+   "subtitulo": "Arts. 8 a 20, 28 a 34 y 37",
    "clave": [
     "Municipios: actividad urbanística pública (8)",
     "Clasificación (11)",
@@ -80,12 +80,214 @@
     "Urbano: consolidado · no consolidado · Urbanizable: delimitado · no delimitado · No urbanizable: genérico (residual) · especial",
     "Clasifica el plan general (11) · solar = suelo urbano urbanizado apto para uso inmediato (14)"
    ],
-   "ic": "🌍"
+   "ic": "🌍",
+   "articulos": [
+    [
+     "urb",
+     "8",
+     "Competencias urbanísticas de los municipios y del Alcalde",
+     "A los **municipios** corresponde, con carácter general, la **actividad urbanística pública** y las **competencias urbanísticas no atribuidas expresamente a otras Administraciones**. Si carecen de medios, pueden pedir **asistencia de la Provincia o Comarca**. Al **Alcalde** le corresponde, entre otras: aprobar los **instrumentos de planeamiento de desarrollo** no atribuidos al Pleno, los **instrumentos de gestión urbanística** y **proyectos de urbanización**, y los **convenios de gestión** (texto oficial).",
+     "¿A quién corresponde con carácter general la actividad urbanística pública?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "9",
+     "Sociedades urbanísticas",
+     "Las Administraciones aragonesas y sus entidades instrumentales pueden constituir, solas, entre sí, mediante consorcios o con terceros, **sociedades urbanísticas de carácter mercantil** para **estudio, elaboración, desarrollo, gestión, promoción y ejecución del planeamiento**, **siempre que no impliquen ejercicio de autoridad**, respetando la **estabilidad presupuestaria**.",
+     "¿Qué límite tienen las sociedades urbanísticas en cuanto al ejercicio de autoridad?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "10",
+     "Régimen del suelo y edificabilidad no patrimonializada",
+     "El régimen urbanístico del suelo es el de la **legislación estatal de suelo**, esta ley y, por remisión, el **planeamiento**, según la **situación básica**, la **clasificación** y la **calificación** del suelo. La **previsión de edificabilidad por el planeamiento no integra por sí misma el derecho de propiedad**: la **patrimonialización** se produce **con su realización efectiva** y el cumplimiento de **deberes y cargas**.",
+     "¿Cuándo se patrimonializa la edificabilidad según el art. 10?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "11",
+     "Clasificación del suelo: urbano, urbanizable y no urbanizable",
+     "El **plan general clasifica todo el suelo del término municipal**: **a)** **suelo urbano** (consolidado o no consolidado); **b)** **suelo urbanizable** (delimitado o no delimitado); **c)** **suelo no urbanizable** (especial o genérico). El suelo no clasificado como urbano o urbanizable es **no urbanizable**. En municipios **sin plan general**, el suelo que no sea urbano es no urbanizable.",
+     "¿Qué clases y categorías de suelo establece el art. 11?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "12",
+     "Concepto de suelo urbano",
+     "Es suelo urbano: **a)** el que cuenta con **servicios urbanísticos suficientes** (red viaria, abastecimiento y evacuación de agua, energía eléctrica, telecomunicaciones y residuos); **b)** el que carece de alguno pero **puede contar con ellos sin otras obras que las de conexión** con las instalaciones preexistentes; **c)** el que el plan general incluya en **áreas consolidadas por la edificación, al menos, en las dos terceras partes** de su superficie (texto oficial).",
+     "¿Qué proporción de edificación consolidada exige el art. 12 para suelo urbano en áreas consolidadas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "13",
+     "Suelo urbano consolidado y no consolidado",
+     "El plan general puede distinguir **suelo urbano consolidado y no consolidado**. Es **no consolidado** el que soporta **actuaciones urbanísticas integradas** (nueva urbanización o intervención en suelos consolidados total o parcialmente por la edificación, art. 118). Lo que el plan **no defina como no consolidado** es **consolidado**.",
+     "¿Qué suelo urbano se considera consolidado si el plan general no lo define como no consolidado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "14",
+     "Concepto de solar: requisitos",
+     "Son **solares** las superficies de **suelo urbano aptas para uso inmediato** que: **a)** estén **urbanizadas** según el planeamiento (o dispongan de los **servicios básicos del art. 12.a)** con caudal y potencia adecuados, **alumbrado público** y **vía pavimentada** para peatones y vehículos); **b)** tengan **alineaciones y rasantes** si el planeamiento las define; **c)** no exijan **ceder terrenos** para calles o regularizar alineaciones. El suelo urbano no consolidado y el urbanizable solo alcanzan la condición de solar tras ejecutar y recibir la urbanización.",
+     "¿Qué tres requisitos debe reunir un terreno de suelo urbano para ser solar?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "urb",
+     "15",
+     "Suelo urbanizable: concepto y categorías",
+     "Es el clasificado así por prever su **posible transformación** mediante **servicios urbanísticos suficientes**, conforme al **modelo de evolución urbana**. El plan puede distinguir **delimitado** y **no delimitado**: es **delimitado** el que forma **sectores de urbanización prioritaria** previstos por el plan; **todo el restante es no delimitado**.",
+     "¿Qué suelo urbanizable es delimitado y cuál es no delimitado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "16",
+     "Suelo no urbanizable: concepto y causas",
+     "Son terrenos clasificados así por: **a)** estar **preservados de la transformación** por legislación de **protección del dominio público, medioambiental, patrimonio cultural** u otra sectorial; **b)** no ser transformables por **peligrosidad** para personas y bienes; **c)** estar preservados por sus **valores** (ecológicos, agrícolas, ganaderos, forestales, paisajísticos); **d)** los que el plan general **motivadamente no considere transformables** (texto oficial).",
+     "¿Por qué razones puede clasificarse un terreno como suelo no urbanizable?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "17",
+     "Suelo no urbanizable genérico: categoría residual",
+     "Es el **clasificado y calificado así por el plan general**. **Es la clase y categoría residual** del suelo no urbanizable.",
+     "¿Qué categoría de suelo no urbanizable es residual?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "18",
+     "Suelo no urbanizable especial",
+     "Son **en todo caso** los terrenos del **art. 16.1.a) y b)** (preservados por protección sectorial y por peligrosidad). También los del **art. 16.1.c)** cuando el **plan general les reconozca ese carácter** por los valores puestos de manifiesto en un **instrumento de planificación ambiental, territorial o cultural**.",
+     "¿Qué terrenos son siempre suelo no urbanizable especial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "19",
+     "Derechos del ciudadano en materia urbanística",
+     "Las Administraciones orientan su actuación urbanística a la **consecución de los derechos constitucionales** de los ciudadanos, promoviendo, entre otros: **derecho a una vivienda digna y adecuada** (políticas de programación pública de vivienda y vivienda protegida); **clasificación y calificación de suelo adecuado**; **aplicación preferente del suelo público** innecesario para fines de dominio público, en particular de los **patrimonios públicos de suelo**; y otros del texto oficial.",
+     "¿Qué derecho constitucional destaca el art. 19.a) en materia de vivienda?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "20",
+     "Deberes del ciudadano en relación con la actividad urbanística",
+     "Entre otros: **preservar y mejorar el medio ambiente natural y urbano**; **preservar el patrimonio cultural aragonés**; **respetar y hacer uso adecuado** de los bienes de dominio público, infraestructuras, servicios y **mobiliario urbano**; **abstenerse** de actos sin **títulos habilitantes** o que perturben bienes públicos o de terceros; **evitar actuaciones de riesgo ambiental**; **colaborar** con la actividad urbanística (texto oficial).",
+     "¿Qué deber tienen los ciudadanos respecto a los títulos habilitantes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "28",
+     "Facultades de uso, disfrute y disposición del propietario",
+     "La propiedad del suelo comprende las **facultades de uso, disfrute y explotación** según el **estado, clasificación y destino**, y la de **disposición** según leyes y planeamiento. En **suelo no urbanizable**, uso conforme a su naturaleza: **fines agrícolas, forestales, ganaderos, cinegéticos, ambientales, extractivos** y vinculados a la **utilización racional de recursos naturales**. **Quedan prohibidas** las parcelaciones que den lugar a **núcleos de población** (art. 242.2).",
+     "¿Qué parcelaciones están prohibidas en suelo no urbanizable?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "29",
+     "Facultad de edificar: condición de solar y edificación simultánea",
+     "En **suelo urbano y urbanizable no puede edificarse** terreno que no merezca la **condición de solar**, salvo que se asegure la **ejecución simultánea de la urbanización y la edificación** (arts. 235 o 236). **No se permite ocupar** los edificios hasta que los **servicios urbanísticos** estén en condiciones de funcionamiento. En casos justificados pueden autorizarse por **licencia municipal** construcciones de **uso no residencial** con obligaciones inscritas en el **Registro de la Propiedad**.",
+     "¿Puede edificarse un terreno que no tiene condición de solar?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "31",
+     "Deberes de los propietarios: conservación, uso y edificación",
+     "El derecho de propiedad comprende los **deberes de conservar** terrenos, instalaciones, construcciones y edificaciones en las **condiciones legales de seguridad, salubridad, accesibilidad y ornato**, y realizar trabajos de **mejora y rehabilitación** hasta donde alcance el **deber legal de conservación**. En suelo con **servicios básicos y edificabilidad**, el **deber de uso supone el de edificar** en los plazos que fije el planeamiento (texto oficial).",
+     "¿Hasta dónde alcanza el deber legal de conservación y rehabilitación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "32",
+     "Régimen del suelo urbanizable delimitado",
+     "Mientras **no se apruebe la ordenación pormenorizada** que permita urbanizar, **no se puede edificar** ni levantar otras instalaciones. Se puede edificar **antes de la urbanización total** tras aprobar el **plan parcial, los instrumentos de gestión y el proyecto de urbanización**, cumpliendo el **art. 236**. Pueden ejecutarse **infraestructuras del territorio y sistemas generales** previstos.",
+     "¿Qué hay que aprobar antes de edificar en suelo urbanizable delimitado sin urbanización completa?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "33",
+     "Régimen del suelo urbanizable no delimitado",
+     "Mientras **no se apruebe el plan parcial**, se aplica el **régimen del suelo no urbanizable genérico** (arts. 34 a 36) y sus propietarios tienen los **derechos y deberes del art. 28**.",
+     "¿Qué régimen tiene el suelo urbanizable no delimitado sin plan parcial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "34",
+     "Autorización de usos en suelo no urbanizable genérico",
+     "Los municipios pueden autorizar, por **título habilitante urbanístico**, **sin lesionar los valores** de la clasificación: **a)** construcciones para **explotaciones agrarias y ganaderas**, recursos naturales o **protección ambiental** (incluida **vivienda** de quien deba permanecer en la explotación); **b)** las vinculadas a **obras públicas**; y otras del texto oficial (instalaciones de interés público, etc.).",
+     "¿Qué construcciones pueden autorizar los municipios en suelo no urbanizable genérico?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "37",
+     "Régimen del suelo no urbanizable especial",
+     "**Está prohibida** cualquier construcción, actividad o uso que **transforme su destino o naturaleza**, **lesione el valor protegido** o **infrinja el régimen limitativo** de los instrumentos de ordenación, planes de recursos naturales, legislación sectorial o planeamiento. Estos instrumentos pueden prever usos **compatibles**, autorizables por los procedimientos de los **arts. 34 a 36**.",
+     "¿Qué está prohibido en el suelo no urbanizable especial?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e1",
    "titulo": "Planeamiento urbanístico",
-   "subtitulo": "Arts. 38 a 69",
+   "subtitulo": "Arts. 38 a 85 (selección)",
    "clave": [
     "Plan general (38-50)",
     "Planes parciales (51-60)",
@@ -151,12 +353,394 @@
     "Desarrollo: plan parcial (sectores) · plan especial · estudio de detalle (completa o adapta)",
     "Los planes obligan a todos (79) y son ejecutivos (80)"
    ],
-   "ic": "📐"
+   "ic": "📐",
+   "articulos": [
+    [
+     "urb",
+     "38",
+     "Plan general de ordenación urbana: concepto",
+     "Es el **instrumento de ordenación integral** que abarca **uno o varios términos municipales completos**, **clasifica el suelo** y define la **estructura general** de la ordenación urbanística. Respeta las **determinaciones vinculantes de las directrices de ordenación del territorio** y de los **planes de ordenación de recursos naturales**; la memoria **motiva** el no seguimiento de las indicativas.",
+     "¿Qué abarca el plan general de ordenación urbana?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "39",
+     "Modelo de evolución urbana y ocupación del territorio",
+     "El plan general concreta el **modelo de evolución urbana y ocupación del territorio** con las determinaciones de **ordenación estructural**, ponderando **desarrollo y sostenibilidad ambiental y económica**: modelo **sostenible**, que **evite consumos innecesarios de suelo**; **estudio territorial, urbanístico, ambiental y social** de nuevos núcleos de demanda; y otros criterios del texto oficial.",
+     "¿Qué debe concretar el plan general respecto al territorio?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "40",
+     "Ordenación estructural del plan general",
+     "Está constituida por la **estructura general** y las **directrices** del modelo adoptado, mediante: **a)** **clasificación de la totalidad del suelo** con delimitación de superficies y categorías; **b)** **sistemas generales**; **c)** otras determinaciones (modelo de ocupación, usos globales, intensidades, **protección de patrimonio**, etc.). En suelo urbano no consolidado se diferencian **unidades de ejecución o sectores** y el tipo de **actuación integrada**.",
+     "¿Qué determinación de ordenación estructural implica clasificar la totalidad del suelo?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "urb",
+     "41",
+     "Ordenación pormenorizada en suelo urbano consolidado",
+     "El plan general establece: **usos pormenorizados y ordenanzas de edificación** que **legitiman directamente** la ejecución sin planeamiento de desarrollo; **espacios verdes, libres, deportivos y equipamientos**; **redes de comunicaciones y servicios**; **alineaciones, rasantes y aparcamientos**; y otras (texto oficial).",
+     "¿Qué legitiman directamente los usos pormenorizados y las ordenanzas de edificación en suelo urbano consolidado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "42",
+     "Ordenación pormenorizada en suelo urbano no consolidado",
+     "Si el plan actúa **directamente por unidades de ejecución**, incluye **sistemas de gestión** posibles y **bases orientativas** (calidades, diseño urbano, plazos). Si establece **sectores precisados de planeamiento de desarrollo**, fija la **cuantía de reservas mínimas para dotaciones locales**, **reserva para viviendas protegidas** y otras determinaciones.",
+     "¿Qué fija el plan general cuando prevé sectores que requieren planeamiento de desarrollo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "43",
+     "Ordenación pormenorizada en suelo urbanizable delimitado",
+     "El plan general contiene: **desarrollo de sistemas generales**, **trazado de redes fundamentales**, posibles **sistemas de gestión** (incluso alternativos) y **bases orientativas** de calidades, plazos y diseño. Puede establecer las determinaciones del art. 42.1 para permitir **ejecutar sin ulterior planeamiento**, con **plazos máximos de ejecución**.",
+     "¿Qué contiene el plan general para el suelo urbanizable delimitado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "44",
+     "Ordenación pormenorizada en suelo urbanizable no delimitado",
+     "El plan general **podrá** establecer, como ordenación pormenorizada, **normativa complementaria**, especialmente **de protección**, mientras **no se delimite y desarrolle** el suelo.",
+     "¿Qué normativa puede establecer el plan general para el suelo urbanizable no delimitado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "45",
+     "Sector: concepto y delimitación",
+     "El **sector** es el **ámbito de ordenación propio de un plan parcial o plan especial de reforma interior**; cada plan abarca **uno o varios sectores completos**. Su delimitación garantiza el **desarrollo urbano racional** y es coherente con el **modelo de evolución urbana**.",
+     "¿Qué es un sector en materia urbanística?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "46",
+     "Ordenación pormenorizada en suelo no urbanizable",
+     "El plan general incluye: **régimen de protección** del suelo no urbanizable especial; si es necesario, **división del genérico en zonas** con distintos regímenes de uso; **régimen jurídico** de los terrenos genéricos y especiales con **actuaciones autorizables y prohibidas** y **parámetros urbanísticos** (rehabilitación de construcciones).",
+     "¿Qué incluye la ordenación pormenorizada del suelo no urbanizable?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "47",
+     "Documentación del plan general",
+     "Se desarrolla en: **a)** **memoria**; **b)** **planos de información y ordenación urbanística** (con mapas de riesgos); **c)** **catálogos urbanísticos**; **d)** **normas urbanísticas**; **e)** **estudio económico** (impacto en Haciendas Públicas y suficiencia de suelo)… Los bienes de **interés cultural** catalogados se rigen por la **normativa de Patrimonio Cultural**.",
+     "¿Qué documentos integran el plan general?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "48",
+     "Procedimiento municipal del plan general: avance y exposición",
+     "El plan lo **formula el Ayuntamiento**. Comienza con un **avance** (criterios, objetivos y soluciones generales) que se **expone al público durante un mínimo de un mes** para sugerencias y alternativas; se solicitan los **informes sectoriales** (patrimonio cultural, infraestructuras de transporte) y se consulta a los departamentos de **educación, sanidad y servicios sociales** sobre reservas de suelo (resto del procedimiento en el texto oficial).",
+     "¿Qué plazo mínimo de exposición pública tiene el avance del plan general?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "49",
+     "Aprobación definitiva del plan general: Consejo Provincial de Urbanismo",
+     "La **aprobación definitiva** corresponde al **Consejo Provincial de Urbanismo**; en planes conjuntos de municipios de distintas provincias, al **Director General competente en urbanismo**. Solo puede **denegarse** por **motivos de alcance supralocal** o de **legalidad** (modelo sostenible, reservas para infraestructuras supralocales, etc.).",
+     "¿Quién aprueba definitivamente el plan general de ordenación urbana?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "51",
+     "Planes parciales: objeto",
+     "Establecen, en desarrollo del plan general, la **ordenación pormenorizada** precisa para **ejecutar sectores enteros** en **suelo urbano no consolidado** y **urbanizable** si aún no la tienen. Pueden **modificar** la ordenación pormenorizada del plan general **sin alterar la ordenación estructural**. **No pueden aprobarse** sin que, previa o simultáneamente (expediente separado), se haya aprobado el **plan general**.",
+     "¿Pueden aprobarse planes parciales antes del plan general?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "52",
+     "Planes parciales: determinaciones",
+     "Además de las del art. 42.1: **evaluación económica** de servicios y obras de urbanización; **plan de etapas**; **sistemas generales incluidos o adscritos**; en urbanizable no delimitado, **delimitación y aprovechamiento medio** del sector; y **equipamientos** con cargo al sector. Pueden contener las determinaciones del **proyecto de urbanización**, al que sustituyen.",
+     "¿Qué documento de ejecución puede sustituir un plan parcial al contener sus determinaciones?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "53",
+     "Densidad y edificabilidad de los planes parciales",
+     "Deben ser **adecuadas y proporcionadas** al municipio y al uso del sector. En defecto de previsión: **residencial o turístico**, **75 viviendas por hectárea**; **industrial o terciario**, **0,5 m² de techo por m² de suelo**.",
+     "¿Cuántas viviendas por hectárea se admiten por defecto en sectores residenciales o turísticos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "54",
+     "Módulos de reserva para dotaciones locales",
+     "Los planes parciales respetan los **módulos mínimos de reserva** de la ley y del plan general. **Residencial:** por **número máximo de viviendas** o, si no está fijado, **una unidad de reserva por cada 85 m² construibles** de uso residencial. **Industrial o terciario:** **una unidad por cada 100 m²** de superficie construible.",
+     "¿Cuántos metros cuadrados construibles residenciales computan una unidad de reserva?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "56",
+     "Formulación municipal de planes parciales",
+     "Los municipios pueden formularlos **en cualquier momento, de oficio o a instancia de parte**, e introducir modificaciones en las propuestas de particulares. Pueden convocar **concursos de ideas** previos para espacios relevantes.",
+     "¿Cuándo pueden los municipios formular planes parciales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "57",
+     "Procedimiento de aprobación de planes parciales de iniciativa municipal",
+     "La **aprobación inicial** corresponde al **Alcalde** (dando cuenta al Pleno). Luego se someten simultáneamente a **informe de los órganos competentes** y a **información pública por un mínimo de un mes**; después, a **informe del órgano autonómico competente**. Si procede evaluación ambiental estratégica, el promotor inicia el trámite antes de la aprobación inicial.",
+     "¿Qué órgano aprueba inicialmente los planes parciales de iniciativa municipal?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "58",
+     "Formulación de planes parciales por particulares: preferencia",
+     "Pueden formularlos **cualesquiera personas físicas o jurídicas**. Tiene **preferencia** el suscrito por **propietarios de más de la mitad de la superficie** del sector o, si no, el **primero presentado**. Respetan las **condiciones, plazos y prioridades** del plan general; en **urbanizable no delimitado** puede exigirse **consulta previa de viabilidad**.",
+     "¿Qué proyecto de plan parcial tiene preferencia si concurren varios?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "60",
+     "Procedimiento de planes parciales de iniciativa no municipal",
+     "Sigue el de los de iniciativa municipal con especialidades: el **Alcalde puede denegar la aprobación inicial** por defectos formales o insuficiencia de garantías, incompatibilidad con la ordenación o ilegalidad manifiesta; **se entiende otorgada por silencio a los seis meses** desde la presentación de la documentación completa; en **inactividad municipal** cabe observar la información pública conforme a la **disposición adicional cuarta**.",
+     "¿A los cuántos meses se entiende otorgada por silencio la aprobación inicial de un plan parcial de iniciativa privada?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "61",
+     "Planes especiales: contenido y límites",
+     "Pueden formularse **independientes o en desarrollo** de directrices territoriales o del plan general. Contienen las **determinaciones necesarias** para su finalidad (memoria, planos, catálogos, ordenanzas, plan de etapas y evaluación de costes). **No pueden sustituir al plan general** ni **clasificar suelo**, sin perjuicio de limitaciones de uso. Desarrollan y complementan el plan general y pueden **modificar su ordenación pormenorizada**.",
+     "¿Pueden los planes especiales clasificar suelo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "63",
+     "Planes especiales en desarrollo de directrices territoriales",
+     "Los municipios y las Administraciones competentes por razón de la materia pueden formularlos **sin previa aprobación del plan general**. Se tramitan por el procedimiento de los **planes parciales de iniciativa municipal (art. 57)**: la Administración competente por la materia aprueba **inicialmente**, somete a **información pública** y remite a informe; la **aprobación definitiva** corresponde al **Ayuntamiento Pleno**.",
+     "¿Quién aprueba definitivamente estos planes especiales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "64",
+     "Planes especiales en desarrollo del plan general: finalidades",
+     "Pueden formularse para: **a)** **desarrollo de sistemas generales**; **b)** **protección del medio ambiente, naturaleza y paisaje**; **c)** **salubridad, higiene y seguridad** (abastecimiento, saneamiento, residuos); **d)** **protección del patrimonio edificado y reforma interior**; **e)** **vivienda protegida preferentemente de alquiler** y otros usos sociales; **f)** **protección de conjuntos históricos**; **g)** otras análogas.",
+     "¿Para qué finalidades pueden formularse planes especiales en desarrollo del plan general?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "65",
+     "Planes especiales de reforma interior",
+     "Solo en **desarrollo del plan general**, en **suelo urbano no consolidado**, para establecer la **ordenación pormenorizada** de áreas sujetas a **actuaciones de intervención en suelos consolidados total o parcialmente por la edificación**: **descongestión, renovación de usos, creación de dotaciones y equipamiento, saneamiento de barrios insalubres**, circulación o estética y mejora del medio ambiente.",
+     "¿En qué clase de suelo pueden formularse los planes especiales de reforma interior?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "66",
+     "Conjuntos de interés cultural y planes especiales de protección",
+     "La declaración de un **conjunto de interés cultural** obliga al municipio a **redactar uno o varios planes especiales** de protección, saneamiento y renovación (procedimiento de los arts. 57 o 60). **No es preceptivo** si el municipio **incorpora directamente** sus determinaciones al plan general. Deben incorporar una **memoria económica** con las fuentes de financiación.",
+     "¿Qué obligación nace para el municipio cuando se declara un conjunto de interés cultural?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "67",
+     "Estudios de detalle: contenido",
+     "Se formulan para **completar o adaptar** determinaciones del plan general en suelo urbano, de planes parciales y especiales y de Delimitaciones de Suelo Urbano. Pueden prever o reajustar: **alineaciones y rasantes** (sin afectar a la ordenación estructural ni disminuir espacios libres), **ordenación de volúmenes** y **condiciones estéticas y de composición**. **No pueden alterar el destino del suelo ni el aprovechamiento**.",
+     "¿Qué no pueden alterar los estudios de detalle?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "68",
+     "Estudios de detalle: procedimiento",
+     "Cualquier persona puede formularlos **a su costa**; la **aprobación inicial** corresponde al **Alcalde** y la **definitiva** al **Ayuntamiento Pleno**, previa **información pública y audiencia por un mes como mínimo**. En los de iniciativa privada: solo se deniega la aprobación inicial por defectos formales o ilegalidad manifiesta; **se entiende otorgada por silencio al mes**.",
+     "¿Quién aprueba definitivamente un estudio de detalle?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "70",
+     "Delimitación del suelo urbano: instrumento de municipios sin plan general",
+     "Es el **instrumento urbanístico de los municipios que carecen de plan general de ordenación urbana**. **No tiene la consideración de instrumento de planeamiento urbanístico** a los efectos de la ley.",
+     "¿Es la delimitación del suelo urbano un instrumento de planeamiento?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "71",
+     "Contenido mínimo de la delimitación del suelo urbano",
+     "Debe: **identificar el ámbito perimetral** de los terrenos del suelo urbano; **incluir los terrenos con servicios urbanísticos suficientes** (art. 12.a) y los que puedan contar con ellos **sin otras obras que la conexión** (art. 12.b), dentro de un **crecimiento racional**; y otros contenidos del texto oficial.",
+     "¿Qué terrenos debe incluir la delimitación del suelo urbano?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "76",
+     "Modificación de la delimitación del suelo urbano",
+     "Se modifica por los **procedimientos de los arts. 74 y 75**, sin aplicar las reglas de modificación de instrumentos de planeamiento. El **Consejo Provincial de Urbanismo** puede **denegarla** por **legalidad** o porque exceda del contenido de la delimitación, no responda al modelo urbanístico o convenga recogerla en un **plan general**.",
+     "¿Qué órgano puede denegar la modificación de la delimitación del suelo urbano?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "77",
+     "Suspensión de licencias para estudiar planes",
+     "El **Ayuntamiento Pleno** puede **suspender el otorgamiento de licencias de parcelación, edificación y demolición** en áreas o usos determinados **para estudiar la formación o reforma** de planes o estudios de detalle. La **aprobación inicial** también suspende las licencias en áreas cuyas nuevas determinaciones modifiquen el régimen vigente. **No afecta** a proyectos que cumplan simultáneamente el plan vigente y la modificación aprobada inicialmente.",
+     "¿Qué licencias puede suspender el Pleno para estudiar la formación o reforma de planes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "78",
+     "Plazos de la suspensión de licencias",
+     "La suspensión por **estudio de planes** se extingue **en un año**; si dentro de ese plazo hay **aprobación inicial**, se mantiene para las áreas afectadas hasta **dos años desde el acuerdo de suspensión**. Si no hubo suspensión previa, la derivada de la **aprobación inicial dura como máximo dos años**. **Se extingue en todo caso con la aprobación definitiva**.",
+     "¿Qué duración máxima tiene la suspensión derivada de la aprobación inicial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "79",
+     "Obligatoriedad de los planes: nulidad de las reservas de dispensación",
+     "**Particulares y Administraciones** están obligados a cumplir los **planes, normas y ordenanzas urbanísticos**. Son **nulas de pleno derecho las reservas de dispensación**.",
+     "¿Qué consecuencia tienen las reservas de dispensación en los planes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "80",
+     "Ejecutividad de los planes urbanísticos",
+     "Son **inmediatamente ejecutivos** una vez **publicada su aprobación definitiva** y **el texto íntegro de las normas** (y, en los casos legales, el **documento refundido**). Si la aprobación fue **parcial**, carecen de ejecutividad en la **parte con reparos** hasta publicarse el refundido o la rectificación.",
+     "¿Cuándo son ejecutivos los planes urbanísticos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "82",
+     "Edificios fuera de ordenación",
+     "Son los erigidos **antes de la aprobación definitiva** del planeamiento y **disconformes** con él (alineaciones, viales, zonas verdes, usos incompatibles o **expropiación prevista**). Salvo otro régimen, **no se pueden hacer obras de consolidación, aumento de volumen, modernización ni de incremento del valor de expropiación**, pero sí **pequeñas reparaciones** por higiene, ornato, seguridad y conservación. Pueden autorizarse **obras parciales de consolidación** si no se prevé la expropiación o demolición **en quince años**.",
+     "¿Qué obras no se permiten en los edificios fuera de ordenación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "83",
+     "Vigencia indefinida y suspensión autonómica de instrumentos",
+     "Los planes y demás instrumentos de ordenación urbanística tienen **vigencia indefinida**. En caso de **grave incumplimiento municipal** que afecte a la ordenación del territorio autonómica, el **Gobierno de Aragón**, con **audiencia, informes y acuerdo de las Cortes de Aragón**, puede **suspender total o parcialmente** la eficacia de los instrumentos y, excepcionalmente, **asumir la potestad de planeamiento**.",
+     "¿Qué vigencia tienen los planes de ordenación urbanística?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "84",
+     "Revisión de los planes y alteraciones sustanciales",
+     "La **revisión** sigue las **mismas reglas de documentación, procedimiento y competencia** que su aprobación. Es **revisión del plan general** cualquier alteración que **afecte sustancialmente a la ordenación estructural** (superficie, aprovechamientos o población afectados, alteración de sistemas generales o del sistema de núcleos de población).",
+     "¿Qué alteración del plan general se considera revisión?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "85",
+     "Modificaciones aisladas de los planes",
+     "Deben contener: **justificación de su necesidad o conveniencia** y **estudio de efectos sobre el territorio**; y la **definición del nuevo contenido** con **precisión similar** a lo modificado. Se tramitan por el procedimiento del plan modificado, salvo las **modificaciones del plan general** (menos las de menor entidad), que siguen el art. 57 con particularidades.",
+     "¿Qué dos elementos deben contener las modificaciones aisladas?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "Gestión urbanística",
-   "subtitulo": "Arts. 118 a 182",
+   "subtitulo": "Arts. 118 a 179 (selección)",
    "clave": [
     "Actuaciones aisladas e integradas (118, 131, 134)",
     "Reparcelación (140)",
@@ -245,12 +829,374 @@
     "Directa: expropiación · cooperación · Indirecta: compensación (junta) · urbanizador (programa)",
     "Reparcelación: agrupar y redividir las fincas (140)"
    ],
-   "ic": "🚜"
+   "ic": "🚜",
+   "articulos": [
+    [
+     "urb",
+     "118",
+     "Gestión urbanística: actuaciones aisladas e integradas",
+     "La **gestión urbanística** es el conjunto de procedimientos para la **distribución equitativa de beneficios y cargas** y la **transformación del uso del suelo** en ejecución del planeamiento. Según la clase de suelo, las **actuaciones** son: **a)** **aisladas**: **asistemáticas**, en **suelo urbano consolidado**, mediante **obras ordinarias** (con **normalización de fincas** si la ordenación lo requiere); **b)** **integradas**, en unidades de ejecución o sectores (texto oficial).",
+     "¿En qué clase de suelo se ejecutan las actuaciones aisladas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "119",
+     "Competencia para ejecutar el planeamiento",
+     "La ejecución del **planeamiento urbanístico** corresponde a los **municipios**. La de los **planes y proyectos de interés general de Aragón** corresponde a la **Administración de la Comunidad Autónoma**.",
+     "¿A quién corresponde la ejecución del planeamiento urbanístico?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "120",
+     "Formas de gestión de la actividad de ejecución",
+     "La Administración de la Comunidad Autónoma y los municipios pueden usar **todas las formas admitidas** por la legislación de régimen jurídico, contratación y régimen local: **entes de derecho público**, **organismos autónomos**, **consorcios** y **sociedades urbanísticas**, de **duración limitada o indefinida**.",
+     "¿Qué formas de gestión pueden usar los municipios para ejecutar el planeamiento?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "121",
+     "Presupuestos de la ejecución del planeamiento",
+     "**Actuaciones aisladas:** **licencia** y, si procede, **normalización de fincas** o **proyecto de obras ordinarias**. **Actuaciones integradas:** **instrumento de planeamiento con ordenación pormenorizada** y **delimitación de la unidad de ejecución**; después o a la vez: **instrumento técnico-jurídico de distribución de beneficios y cargas** y **proyecto de urbanización**. Los instrumentos de gestión siguen el régimen de los **documentos refundidos**.",
+     "¿Qué requiere la ejecución del planeamiento mediante actuaciones integradas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "122",
+     "Elección de los sistemas de gestión urbanística",
+     "Al aprobar el planeamiento pormenorizado o delimitar la unidad, **la Administración establece el sistema de gestión** más adecuado. Debe tener en cuenta los sistemas propuestos por los particulares; para que la propuesta de **compensación** vincule a la Administración, el proyecto debe estar **suscrito por propietarios de más de la mitad de la superficie** y garantizar el desarrollo de las obras (texto oficial).",
+     "¿Qué mayoría de superficie vincula a la Administración en la propuesta del sistema de compensación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "123",
+     "Recepción y conservación de las obras de urbanización",
+     "La **recepción** corresponde al **municipio**, de oficio o a instancia del urbanizador o del responsable de la conservación. Desde ella, el **deber de conservación** es del **municipio** o de la **entidad urbanística de conservación**. Se rigen por la **normativa de contratación**, y el **plazo de garantía no puede ser inferior a cinco años**.",
+     "¿Cuál es el plazo mínimo de garantía de las obras de urbanización?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "124",
+     "Edificabilidad, índices y aprovechamiento objetivo: definiciones",
+     "**Índice de edificabilidad bruta:** límite máximo de edificabilidad por uso (**m² de techo por m² de suelo**) aplicable a **parcela, unidad o sector**; **neta:** sobre la **superficie neta edificable**. **Edificabilidad:** **superficie construible máxima** resultante de aplicar los índices. **Aprovechamiento objetivo:** **superficie edificable homogeneizada** respecto del uso y tipología característicos (texto oficial).",
+     "¿En qué unidades se expresa el índice de edificabilidad?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "125",
+     "Aprovechamiento medio: concepto y cálculo",
+     "Es el **promedio de los aprovechamientos urbanísticos objetivos** de un ámbito, para ejecutar el planeamiento mediante la **distribución equitativa** entre los propietarios de los aprovechamientos subjetivos y las cargas, y la **participación de la comunidad en las plusvalías**. En una unidad de ejecución se calcula **dividiendo por su superficie el aprovechamiento objetivo total** asignado (texto oficial).",
+     "¿Qué es el aprovechamiento medio?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "126",
+     "Coeficientes de homogeneización y uso característico",
+     "El **plan general** establece justificadamente un **sistema de coeficientes de homogeneización** de usos y tipologías según sus **valores de repercusión del suelo urbanizado** (estudio de mercado). **Uso característico** es **el de mayor edificabilidad** de los existentes en la unidad de ejecución o sector.",
+     "¿Qué uso se considera característico en una unidad de ejecución?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "131",
+     "Actuaciones aisladas: finalidades y gestión",
+     "Pueden tener como finalidad: **completar la urbanización de parcelas** de suelo urbano consolidado para que alcancen la condición de **solar**; **obras aisladas y de remodelación** de la urbanización y espacios públicos; **obtener terrenos** donde se ejecute la urbanización; **actuaciones de rehabilitación**. La gestión corresponde a la **Administración o a cualquier otra persona** según los criterios del texto oficial.",
+     "¿Qué finalidad persigue completar la urbanización en una actuación aislada?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "132",
+     "Actuación sobre parcelas o solares existentes",
+     "Los **propietarios de suelo urbano consolidado** pueden ejecutar actuaciones aisladas sobre **sus parcelas o solares** con **solo la licencia**, con **previa o simultánea** urbanización pendiente. También quienes, **previa adjudicación de un programa de edificación** (art. 223), obtengan la **licencia**.",
+     "¿Qué requisito necesitan los propietarios para ejecutar una actuación aislada sobre su solar?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "133",
+     "Normalización de fincas: límite del quince por ciento",
+     "Procede cuando **no es necesaria la redistribución de beneficios y cargas** pero hay que **regularizar la configuración física de las fincas** conforme al planeamiento. Se limita a **definir los nuevos linderos**, **sin afectar a más del 15 % de la superficie de la finca**; esa cesión es **gratuita al municipio** para viario, espacios libres o dotaciones.",
+     "¿Qué porcentaje máximo de la finca puede afectar la normalización de fincas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "134",
+     "Actuaciones integradas: finalidades y unidades de ejecución",
+     "Pueden tener como finalidad: **ejecutar obras de urbanización**; **rehabilitación urbana**; **intervenir en suelos consolidados total o parcialmente** por la edificación; **reajustar la proporción de dotaciones públicas**. Se ejecutan en **una o varias unidades de ejecución completas** mediante el **sistema de gestión** que corresponda.",
+     "¿Dónde se ejecutan las actuaciones integradas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "137",
+     "Proyectos de urbanización: contenido y límites",
+     "Son **proyectos de obras** que hacen posible la **ejecución material del planeamiento**. Incluyen **todas las obras necesarias** en una o varias unidades o para sistemas generales, con precisión suficiente para ser ejecutadas por **técnico distinto del autor**. **No pueden contener determinaciones** sobre **ordenación ni régimen del suelo y de la edificación** ni **modificar las previsiones del planeamiento**.",
+     "¿Pueden los proyectos de urbanización contener determinaciones sobre la ordenación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "138",
+     "Unidades de ejecución: delimitación y discontinuidad",
+     "Se delimitan para permitir el **cumplimiento conjunto** de los deberes de **equidistribución, urbanización y cesión** de toda su superficie. En **suelo urbano no consolidado** y en **regeneración y renovación urbanas** pueden ser **discontinuas**. La delimitación está en el **planeamiento**; pueden **dividirse, agruparse, modificarse o suprimirse** por el procedimiento de los **estudios de detalle**.",
+     "¿Cuándo pueden ser discontinuas las unidades de ejecución?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "139",
+     "Cargas de urbanización y su reparto",
+     "Las **cargas** son los **costes de urbanización** y, en la **gestión indirecta por urbanizador**, además **gastos de gestión y beneficio empresarial**. Se **distribuyen entre los propietarios en proporción al aprovechamiento subjetivo**. Los costes comprenden **obras de vialidad, movimientos de tierras, demoliciones, pavimentación, abastecimiento y evacuación de aguas, energía, alumbrado**, etc.",
+     "¿En qué proporción se distribuyen las cargas de urbanización entre los propietarios?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "140",
+     "Reparcelación: concepto y objeto",
+     "Es la **agrupación de fincas** de la unidad de ejecución para su **nueva división ajustada al planeamiento**, con adjudicación de parcelas **en proporción a los derechos** y de los terrenos de **cesión obligatoria**. Tiene por objeto **distribuir justamente beneficios y cargas**, **regularizar las fincas** y situar el aprovechamiento en zonas aptas para edificar. La ejecución **exige la reparcelación**, salvo que sea suficiente la normalización (texto oficial).",
+     "¿Qué es la reparcelación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "141",
+     "Reparcelación voluntaria y forzosa",
+     "Puede ser **voluntaria o forzosa**. Es **voluntaria** la propuesta presentada: por **propietarios constituidos en agrupación de interés urbanístico** en plazo de gestión directa por cooperación; por la **junta de compensación**; por los propietarios con el **urbanizador**; y en actuaciones de **reajuste de dotaciones** (texto oficial).",
+     "¿Qué propuestas se consideran de reparcelación voluntaria?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "142",
+     "Contenido del proyecto de reparcelación: criterios",
+     "El derecho de los propietarios es **proporcional a la superficie de sus parcelas al aprobarse la delimitación de la unidad**; el valor de las parcelas resultantes sigue la **legislación estatal de valoraciones**; las **plantaciones, obras, edificaciones y mejoras** que no puedan conservarse se **valoran con independencia del suelo** y se **indemnizan** con cargo a los costes de urbanización (resto en el texto oficial).",
+     "¿A qué es proporcional el derecho de los propietarios en la reparcelación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "149",
+     "Gestión directa por expropiación",
+     "Se aplica **por unidades de ejecución completas** y comprende **todos los bienes y derechos** incluidos. La Administración puede **liberar de la expropiación** determinados bienes **mediante condiciones urbanísticas** aceptadas por el solicitante e **inscritas en el Registro de la Propiedad**.",
+     "¿Cómo se aplica la gestión directa por expropiación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "150",
+     "Gestión directa por cooperación",
+     "Los **propietarios aportan el suelo de cesión obligatoria** y la **Administración ejecuta las obras de urbanización**. Se aplica por **unidades de ejecución completas**. El **expediente de reparcelación forzosa** se entiende iniciado al aprobar el planeamiento; se puede dar a los propietarios **plazo no superior a seis meses** para presentar **reparcelación voluntaria**. El municipio puede exigir **pagos a cuenta**.",
+     "¿Quién ejecuta las obras de urbanización en la gestión directa por cooperación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "151",
+     "Gestión indirecta por compensación: caracteres",
+     "Fomenta la **participación directa de los propietarios** en la ejecución del planeamiento. Los propietarios se constituyen en **junta de compensación**, aportan los **terrenos de cesión obligatoria** mediante **reparcelación** y **ejecutan a su costa** la urbanización. **No es precisa la junta** si todos los terrenos pertenecen a **un mismo titular** o hay **acuerdo de todos los propietarios**; se suscribe un **convenio de gestión**.",
+     "¿Cuándo no es precisa la constitución de la junta de compensación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "152",
+     "Requisitos de la iniciativa en el sistema de compensación",
+     "Deben concurrir: **a)** que el **planeamiento** fije **gestión indirecta por compensación**; **b)** que los propietarios que asumen la iniciativa **representen más de la mitad de la superficie** de la unidad; **c)** que se asuman los **plazos de inicio de las obras y de conclusión de la urbanización**. El transcurso del plazo total habilita al Ayuntamiento para actuar (texto oficial).",
+     "¿Qué porcentaje de superficie deben representar los propietarios que asumen la iniciativa de compensación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "153",
+     "Ejercicio de la iniciativa en la compensación: documentación",
+     "Se formaliza presentando en el Ayuntamiento: **acreditación de la representación** de propietarios de **más de la mitad de la superficie** y **relación individualizada de bienes y derechos**; los **estatutos y las bases de actuación**; y otra documentación (texto oficial).",
+     "¿Qué documentos deben presentarse para ejercer la iniciativa de compensación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "154",
+     "Procedimiento de aprobación de estatutos y bases de actuación",
+     "Admitida la iniciativa, se aprueban **estatutos y bases de actuación** por el procedimiento de los **estudios de detalle**, con particularidades. Tras la aprobación inicial, los propietarios que no lo hubieran hecho deciden, **durante la información pública**, si **participan o no en la gestión** (adhiriéndose a la junta y asumiendo costes, u otras alternativas del texto oficial).",
+     "¿Qué deben decidir los propietarios durante el período de información pública de los estatutos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "155",
+     "Personalidad y naturaleza de la junta de compensación",
+     "La junta adquiere **personalidad jurídica y plena capacidad de obrar con el acto constituyente** (**escritura pública**). Sus **efectos administrativos** y su **naturaleza administrativa** quedan diferidos a la **comunicación mediante declaración responsable** y copia de la escritura a la Administración actuante y al **Registro de Entidades Urbanísticas Colaboradoras**, y al transcurso de **un mes** sin discrepancia.",
+     "¿Cuándo adquiere la junta de compensación personalidad jurídica?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "159",
+     "Gestión indirecta por urbanizador: caracteres",
+     "El **urbanizador gestiona la ejecución del planeamiento** y obtiene su **retribución de los propietarios** afectados conforme al **programa de urbanización**. Se aplica cuando lo regule el **planeamiento** que establezca la ordenación pormenorizada o lo determine el **Ayuntamiento** por el procedimiento correspondiente.",
+     "¿De quién obtiene su retribución el urbanizador?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "160",
+     "Programas de urbanización: contenido",
+     "**Organizan la ejecución** del planeamiento en **gestión indirecta**, en una o varias **unidades de ejecución completas**, estableciendo los **compromisos y obligaciones del urbanizador** y sus **relaciones con la Administración y los propietarios**. Prevén los **plazos de inicio de las obras y de conclusión de la urbanización**.",
+     "¿Qué establecen los programas de urbanización respecto del urbanizador?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "163",
+     "Alternativa técnica del programa de urbanización",
+     "Su contenido mínimo incluye: **memoria descriptiva** de la programación propuesta (con asunción de la ordenación del planeamiento); **identificación del ámbito**; **bases técnicas y económicas** para gestionar; y **anteproyecto de urbanización** (definición y esquema de obras, **memoria de calidades**, recursos para abastecimientos, etc.).",
+     "¿Qué documento incluye la alternativa técnica para definir las obras de urbanización?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "164",
+     "Proposición jurídico-económica del programa",
+     "Contiene, como mínimo: **identificación de la alternativa técnica** por la que se licita; **cargas de urbanización**; **acreditación de la titularidad de terrenos** a disposición del licitador, afectos con **garantía real inscrita**; y **regulación de las relaciones** con el urbanizador (resto en el texto oficial).",
+     "¿Qué garantía deben tener los terrenos del licitador afectados al cumplimiento del programa?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "165",
+     "El urbanizador: selección en pública competencia",
+     "Es el **agente público responsable de ejecutar la urbanización** en la gestión indirecta; puede ser o no **titular del suelo** y se **selecciona en pública competencia** (legislación de contratación). La relación con la Administración se rige por la ley y, **supletoriamente**, por la normativa del **contrato de gestión de servicios públicos**.",
+     "¿Cómo se selecciona al urbanizador?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "166",
+     "Derechos y prerrogativas del urbanizador",
+     "Puede: **a)** **redactar y someter a aprobación** instrumentos urbanísticos necesarios; **b)** someter a aprobación **proyectos de urbanización** y de **reparcelación forzosa** dentro del ámbito, siendo oído; **c)** **oponerse** a determinadas actuaciones y otras facultades del texto oficial.",
+     "¿Qué proyectos puede someter a aprobación administrativa el urbanizador?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "168",
+     "Responsabilidades del urbanizador por incumplimiento",
+     "El urbanizador que incumple adeuda al municipio: en caso de **resolución del programa**, el **valor de las retribuciones ya percibidas**, descontado el de las obras realizadas; y si incurre en **mora**, los **intereses** de esa cantidad. La deuda se declara por **resolución municipal previa audiencia** y, si no se paga, se recauda **por vía de apremio**.",
+     "¿Qué adeuda el urbanizador al municipio si se resuelve el programa por su incumplimiento?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "173",
+     "Redacción y promoción de los programas de urbanización",
+     "Pueden redactar y promover programas: **a)** los **municipios** y sus organismos o entidades; **b)** las **restantes Administraciones públicas**; **c)** los **particulares**, sean o no propietarios. Cualquiera puede **consultar a las Administraciones** sobre el contenido de los programas y obtener **información** completa.",
+     "¿Quiénes pueden redactar y promover programas de urbanización?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "174",
+     "Bases generales y particulares para adjudicar programas",
+     "Los municipios aprueban por **Ordenanza** las **bases generales** para la adjudicación de programas, fijando el **valor ponderado de los criterios**. Las **bases particulares** se aprueban como **anexo a la resolución** que acuerda la tramitación en competencia de cada alternativa técnica y contienen, entre otros, la **ordenación urbanística aplicable**.",
+     "¿Cómo se aprueban las bases generales para adjudicar programas de urbanización?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "179",
+     "Adjudicación del programa de urbanización",
+     "Tras seleccionar la alternativa técnica y con **separación mínima de cinco días**, el municipio abre las **plicas** en **audiencia pública** bajo fe pública de funcionario; hay **diez días** para consulta y alegación (los competidores pueden **asociarse**). Después, con los informes técnicos, **adjudica el programa** mediante acuerdo **expresamente motivado**.",
+     "¿Cuántos días hay para consulta y alegación tras la apertura de plicas?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e3",
    "titulo": "Edificación, uso del suelo y disciplina urbanística",
-   "subtitulo": "Arts. 225 a 285",
+   "subtitulo": "Arts. 217 a 285 (selección)",
    "clave": [
     "Licencia, declaración responsable y comunicación previa (225-228)",
     "Efectos (229)",
@@ -355,7 +1301,429 @@
     "Silencio negativo en licencias (239) · conservación y órdenes de ejecución (254) · ruina inminente (262)",
     "Infracciones: leves 600-6.000 € (1 año, Alcalde) · graves hasta 60.000 € (4 años, Pleno) · muy graves hasta 300.000 € (10 años, Pleno)"
    ],
-   "ic": "🏗️"
+   "ic": "🏗️",
+   "articulos": [
+    [
+     "urb",
+     "217",
+     "Plazos para edificar solares y construcciones en ruina",
+     "El propietario de **solares y construcciones en ruina o inadecuadas** debe **edificarlos o cesar el uso inadecuado** en los plazos de los instrumentos de ordenación y, **en su defecto, en dos años** desde que la parcela sea solar o desde la **declaración de ruina o inadecuación**. La edificación debe **finalizarse** en el plazo de la **licencia** o, en su defecto, **en dos años** desde la notificación. El municipio puede **prorrogar** los plazos por causa motivada.",
+     "¿En qué plazo, por defecto, debe edificarse un solar?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "218",
+     "Presupuestos de la edificación de parcelas y solares",
+     "Requiere: **a)** el **establecimiento de la ordenación pormenorizada** y el **cumplimiento de los deberes legales** de la propiedad; **b)** la **previa ejecución de las obras de urbanización pendientes** o el cumplimiento de los requisitos para **simultanearlas** con la edificación.",
+     "¿Qué dos presupuestos requiere la edificación de parcelas y solares?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "219",
+     "Efectos del incumplimiento del deber de edificar",
+     "Habilita al municipio, de oficio o a instancia de interesado y **previa audiencia del obligado**, a decretar la **expropiación por incumplimiento de la función social de la propiedad** o a **ejecutar el planeamiento mediante sustitución del propietario**, además de las demás consecuencias de la legislación básica.",
+     "¿Qué puede decretar el municipio si el propietario incumple el deber de edificar?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "220",
+     "Declaración de situación de ejecución por sustitución",
+     "Presupuesto: el **incumplimiento del deber de edificar declarado en procedimiento**. Puede iniciarse **de oficio o a instancia de cualquier persona**, con **audiencia al propietario**. Declarado el incumplimiento, se **requiere al propietario**; **transcurridos seis meses**, la parcela queda **por ministerio de la Ley en situación de ejecución por sustitución** (con resolución expresa y notificada).",
+     "¿A los cuántos meses del requerimiento queda la parcela en ejecución por sustitución?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "225",
+     "Actos sujetos a licencia, declaración responsable o comunicación previa",
+     "Los **actos de transformación, construcción, edificación y uso del suelo y subsuelo** requieren para su lícito ejercicio **licencia, declaración responsable o comunicación previa**, sin perjuicio de las demás intervenciones públicas exigibles y del respeto a los **derechos civiles** implicados.",
+     "¿Qué tres títulos pueden exigirse para los actos de uso del suelo?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "urb",
+     "226",
+     "Licencia urbanística: concepto y actos sujetos",
+     "Es el **acto administrativo por el que el Alcalde autoriza** a cualquier persona a realizar un acto de **transformación, construcción, edificación o uso del suelo o subsuelo**, expresando **objeto, condiciones y plazos**. Están sujetos, entre otros: **movimientos de tierra, explanaciones, parcelaciones y segregaciones** (si no forman parte de una reparcelación); **obras de edificación, construcción e implantación de instalaciones** (texto oficial).",
+     "¿Quién otorga la licencia urbanística?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "227",
+     "Declaración responsable en materia de urbanismo",
+     "Es el documento en que cualquier persona **manifiesta bajo su responsabilidad al Alcalde** que **cumple los requisitos** para el acto, que **dispone de la documentación** acreditativa y que se **compromete a mantener el cumplimiento** durante la realización del acto. Se somete a ella un **conjunto de actos** de menor entidad enumerados por la ley (texto oficial).",
+     "¿A quién se dirige la declaración responsable en materia de urbanismo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "228",
+     "Comunicación previa en materia de urbanismo",
+     "Es el documento en que cualquier persona **pone en conocimiento del Alcalde** que reúne los requisitos para un acto **no sujeto ni a declaración responsable ni a licencia**. Debe contener la **identificación y ubicación del objeto** y la **declaración de que concurren los requisitos** administrativos aplicables (con seguridad de personas y bienes).",
+     "¿Qué actos se someten a comunicación previa en materia de urbanismo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "229",
+     "Efectos de licencia, declaración responsable y comunicación previa",
+     "La **licencia legitima** desde la **fecha en que el Alcalde la adopta formalmente** (sin perjuicio de su notificación). La **comunicación previa y la declaración responsable legitiman desde el día de su presentación en el registro general** del municipio.",
+     "¿Desde cuándo legitima la declaración responsable el acto?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "230",
+     "Control municipal de los actos de uso del suelo",
+     "**En cualquier momento** el municipio puede **inspeccionar** la ejecución de los actos para comprobar que se realizan conforme a la **licencia o al contenido de la declaración o comunicación** y conforme a la **legalidad y el planeamiento**. El **Alcalde** puede actuar en **defensa de la legalidad** (arts. 268 y ss.) si no hay título o se actúa en contra de él.",
+     "¿Qué puede hacer el Alcalde si se realizan actos sin licencia o declaración?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "231",
+     "Resolución única de licencia urbanística y de actividad",
+     "Si un mismo acto requiere **licencia urbanística y autorización municipal de actividad** (clasificada o no), serán objeto de **resolución única**, con **piezas separadas** para cada intervención. El plazo para resolver las licencias urbanísticas **se interrumpe** desde que el interesado solicita las **autorizaciones previas** del Estado o de la Comunidad hasta su otorgamiento.",
+     "¿Cuándo se interrumpe el plazo para resolver las licencias urbanísticas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "232",
+     "Régimen de las licencias: normativa vigente y reservas",
+     "Se otorgan según la **legislación y el planeamiento vigentes en el momento de la resolución** (si se produce en plazo), resolviendo sobre la **pertinencia de las obras** y el **aprovechamiento urbanístico**. Se conceden **salvo el derecho de propiedad y sin perjuicio de tercero**; pueden **denegarse** si se pretende una **ocupación ilegal del dominio público**.",
+     "¿Qué normativa se aplica al otorgar una licencia?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "233",
+     "Revocación de licencias por cambio del planeamiento",
+     "Si una licencia obtenida resulta **incompatible** con un nuevo plan: si la edificación **ya está iniciada**, el municipio puede **revocarla** o **permitir terminar** las obras (el edificio queda **fuera de ordenación**); si **no se ha iniciado**, **revoca** la licencia. Siempre con **audiencia** y, si se revoca, **indemnización** que proceda.",
+     "¿Qué puede hacer el municipio con una licencia ya iniciada incompatible con el nuevo plan?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "234",
+     "Licencias para edificación y urbanización simultáneas",
+     "Puede promoverse la edificación de parcelas con **previa o simultánea ejecución de las obras de urbanización pendientes** para su conversión en solar. Los solicitantes acreditan **disponibilidad civil** de terrenos suficientes para asegurar que **edificarán y urbanizarán** en el plazo de la licencia o, por defecto, **en menos de tres años**.",
+     "¿En qué plazo por defecto deben ejecutarse la edificación y la urbanización simultáneas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "238",
+     "Procedimiento de licencias, declaraciones y comunicaciones",
+     "Se rige por la **normativa de régimen local** y las **ordenanzas municipales**. Las solicitudes van con **proyecto técnico** redactado por profesional competente cuando proceda, **visado** si es preciso. Las **licencias** deben otorgarse **en el plazo máximo de tres meses**. Las comunicaciones y declaraciones conformes son **tomadas en consideración** (texto oficial).",
+     "¿En qué plazo máximo deben otorgarse las licencias urbanísticas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "239",
+     "Silencio administrativo en licencias urbanísticas",
+     "En los supuestos de **sujeción a licencia urbanística**, transcurrido el plazo sin notificar resolución, el interesado **puede entender desestimada** su petición **por silencio administrativo**, en los términos de la **legislación básica estatal**.",
+     "¿Qué sentido tiene el silencio en la solicitud de licencia urbanística según esta ley?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "241",
+     "Parcelación rústica y urbanística: concepto",
+     "**Parcelación rústica:** división o segregación de terrenos en **dos o más lotes** con finalidad **exclusivamente agraria**. **Parcelación urbanística:** la que persigue **permitir o facilitar actos de edificación o uso del suelo** sometidos a **licencia**. **Notarios y Registradores** exigen **licencia o declaración de innecesariedad** para autorizar e inscribir divisiones de terrenos.",
+     "¿Qué distingue la parcelación urbanística de la rústica?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "242",
+     "Parcelaciones ilegales y núcleo de población",
+     "Es **ilegal** toda parcelación **contraria a la ley y al planeamiento**, en especial si puede originar un **núcleo de población**. **Núcleo de población** = **agrupación de edificaciones residenciales** susceptibles de necesitar **servicios urbanísticos y dotaciones comunes**. La **regularización**, cuando sea posible, sigue los **arts. 247 y ss.**",
+     "¿Qué es un núcleo de población a efectos urbanísticos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "243",
+     "Parcelas indivisibles",
+     "**No puede hacerse parcelación** que dé lotes **inferiores a la superficie o dimensiones mínimas** del planeamiento o legislación sectorial, salvo adquisición **simultánea por propietarios colindantes** para agruparlos. Son **indivisibles** las parcelas edificables cuando se edificó toda la superficie o la parte restante sea **inferior a la parcela mínima**.",
+     "¿Qué parcelaciones no pueden realizarse por dar lotes inferiores al mínimo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "260",
+     "Inspección periódica de edificaciones",
+     "Las edificaciones de **uso predominantemente residencial** con **más de cincuenta años** de antigüedad en **municipios de más de 25.000 habitantes** deben pasar **cada quince años** una **inspección** de su estado de conservación. Además, el planeamiento u ordenanza pueden delimitar **áreas** con inspección periódica.",
+     "¿Cada cuántos años deben pasar la inspección las edificaciones residenciales de más de cincuenta años?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "261",
+     "Declaración de ruina: supuestos y medidas",
+     "Si una construcción está **en estado ruinoso**, el municipio, de oficio o a instancia de interesado, **declara la situación y acuerda la total o parcial demolición**, **previa audiencia del propietario y moradores** (salvo peligro inminente). Procede la declaración de **ruina** cuando el **coste de las reparaciones necesarias supere el límite del deber normal de conservación**, entre otros supuestos del texto oficial.",
+     "¿Cuándo procede la declaración de ruina por el coste de las reparaciones?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "262",
+     "Ruina inminente: medidas del Alcalde",
+     "Si una construcción **amenaza con derruirse de modo inminente**, con peligro para la **seguridad pública** o el **patrimonio protegido**, el **Alcalde** puede disponer **todas las medidas precisas**: **apuntalamiento, desalojo y demoliciones** totales o parciales. El **municipio responde** de los daños de esas medidas, **repercutibles al propietario** hasta el límite del deber normal de conservación.",
+     "¿Quién puede adoptar medidas en caso de ruina inminente?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "264",
+     "Competencias de inspección urbanística",
+     "**Municipios, comarcas y Comunidad Autónoma** ejercen la **inspección** dentro de su ámbito de competencias y **de forma coordinada**, para comprobar e investigar el cumplimiento del ordenamiento urbanístico. La de la **Comunidad Autónoma** defiende los **intereses urbanísticos supramunicipales**.",
+     "¿Qué administraciones ejercen la actividad de inspección urbanística?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "265",
+     "Facultades de los inspectores urbanísticos",
+     "Tienen la condición de **agentes de la autoridad**, pueden pedir el **apoyo** de otras autoridades (Fuerzas y Cuerpos de Seguridad, Policías Locales…), y **deben acreditar su condición** con **credencial**. Para **entrar en un domicilio** se requiere **autorización judicial**, salvo **consentimiento del afectado** (resto en el texto oficial).",
+     "¿Qué se necesita para que un inspector entre en un domicilio?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "266",
+     "Actas de inspección: valor probatorio",
+     "Las **actas y diligencias** extendidas por los inspectores son **documentos públicos** y **prueban los hechos** que motivan su formalización, **salvo prueba en contrario**. Incluyen, como mínimo, **lugar, fecha y hora** de la inspección, las **circunstancias** de la observación de las presuntas infracciones, la **identidad del funcionario**, etc.",
+     "¿Qué valor tienen las actas de inspección urbanística?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "268",
+     "Obras y usos en curso de ejecución sin título habilitante",
+     "Cuando se realice un acto **sin título habilitante** o contra sus condiciones, el **Alcalde dispone la paralización inmediata** y, previa tramitación de expediente, acuerda: **a)** si son **total o parcialmente incompatibles con la ordenación**, la **demolición, reconstrucción o cesación definitiva** a costa del interesado; **b)** si pueden **legalizarse**, requiere la legalización (texto oficial).",
+     "¿Qué dispone inmediatamente el Alcalde ante obras en curso sin título habilitante?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "269",
+     "Obras terminadas sin título habilitante",
+     "Si el acto ha **concluido** sin título o contra sus condiciones, el **Alcalde**, **dentro del plazo de prescripción de la infracción** desde la **total terminación**, adopta alguno de los acuerdos del art. 268.1 a) o b). Salvo prueba en contrario, se presume como fecha de finalización la de **comprobación por la Administración**.",
+     "¿Hasta cuándo puede el Alcalde actuar sobre obras terminadas sin título?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "270",
+     "Ejecución forzosa para restablecer la legalidad urbanística",
+     "Las Administraciones competentes dictan **resolución que pone fin al procedimiento** y concretan las medidas (**demolición, reconstrucción o cesación definitiva**) **a costa del interesado**, otorgando un **plazo para cumplimiento voluntario** con advertencia de **ejecución forzosa** (texto oficial).",
+     "¿Qué plazo otorga la resolución para el cumplimiento voluntario de las medidas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "271",
+     "Suspensión de licencias manifiestamente ilegales",
+     "El **Alcalde dispone la suspensión de los efectos** de títulos habilitantes, órdenes de ejecución o instrumentos de ejecución, y la **paralización inmediata de las obras**, cuando su contenido constituya **manifiestamente una infracción urbanística grave o muy grave**. En **diez días** da traslado del acuerdo al **órgano judicial competente**. Hasta la sentencia continúa la paralización.",
+     "¿En cuántos días traslada el Alcalde al juez el acuerdo de suspensión?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "urb",
+     "272",
+     "Subrogación comarcal y competencias autonómicas en disciplina",
+     "El **órgano comarcal** puede **subrogarse** en las competencias de protección de la legalidad del Alcalde, **previo requerimiento y tras un mes de inactividad municipal**. El **Director General de urbanismo** puede ejercerlas directamente en **infracciones muy graves** que afecten a **dominio público autonómico, sistemas generales supralocales, suelo no urbanizable especial**, etc.",
+     "¿Tras cuánto tiempo de inactividad municipal puede subrogarse el órgano comarcal?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "273",
+     "Revisión de licencias y órdenes de ejecución ilegales",
+     "La Administración que las adoptó las **revisa** según las normas de **régimen jurídico de las Administraciones**. El **Consejero de urbanismo** puede, dentro de los plazos de revisión, **requerir al municipio copias** de los títulos que pudieran ser ilegales e **impugnarlos**. Las licencias otorgadas con infracción de la **zonificación o uso urbanísticos** tienen un régimen específico (texto oficial).",
+     "¿Qué puede requerir el Consejero de urbanismo al municipio sobre las licencias ilegales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "274",
+     "Suspensión de suministros por obras ilegales",
+     "Las **órdenes de suspensión, paralización o demolición** pueden ordenar la **suspensión de suministros de energía, agua, gas y telefonía**, notificándolo a las **empresas suministradoras**. Solo afecta a los suministros prestados **por razón de las obras o usos** que motivaron la orden; los costes son **a cargo de la empresa suministradora y el solicitante**, **solidariamente**.",
+     "¿Qué suministros pueden suspenderse con las órdenes de paralización?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "275",
+     "Inscripción registral de actos de disciplina urbanística",
+     "Los actos dictados en materia de disciplina urbanística son **inscribibles en el Registro de la Propiedad** en los supuestos de la **normativa estatal**.",
+     "¿Dónde se inscriben los actos de disciplina urbanística?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "277",
+     "Infracciones leves: multa de 600 a 6.000 euros",
+     "Son **leves** (multa de **600 a 6.000 euros**), entre otras: **parcelación rústica sin licencia** legalizable o de escasa entidad; **actos de edificación o uso sin título** o contra sus condiciones, **legalizables** o de escasa entidad; **incumplimientos de normas u ordenanzas** que por escasa entidad no sean graves o muy graves.",
+     "¿Entre qué cuantías se sancionan las infracciones leves?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "278",
+     "Infracciones graves: multa de 6.000,01 a 60.000 euros",
+     "Son **graves** (multa de **6.000 euros y un céntimo a 60.000 euros**): **actos de división** que incumplan las normas materiales sobre parcelaciones; **actos de edificación o uso sin título** de suficiente entidad y **no legalizables**; **incumplimiento de determinaciones urbanísticas** no legalizable, entre otras.",
+     "¿Entre qué cuantías se sancionan las infracciones graves?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "279",
+     "Infracciones muy graves: multa de 60.000,01 a 300.000 euros",
+     "Son **muy graves** (multa de **60.000 euros y un céntimo a 300.000 euros**): **parcelaciones urbanísticas en suelo urbanizable no delimitado y no urbanizable** que puedan constituir **núcleo de población**; **obras de urbanización incompatibles con la ordenación** sin el instrumento previo; **actos contra el ordenamiento sobre bienes de dominio público o suelo especial**, entre otras.",
+     "¿Entre qué cuantías se sancionan las infracciones muy graves?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "280",
+     "Responsables de las infracciones urbanísticas",
+     "En **urbanización, uso del suelo y edificación**: la **junta de compensación, el urbanizador, el promotor, el constructor y los técnicos directores**. En **parcelaciones**: los **propietarios iniciales** y el **promotor**. En no exigir licencia o suspender suministros: las **empresas suministradoras**. En el deber de conservación: los **propietarios**.",
+     "¿Quiénes son responsables de las infracciones en materia de parcelaciones?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "281",
+     "Infracciones al amparo de título habilitante",
+     "Si los actos se hacen **al amparo de un título habilitante** y conforme a sus determinaciones, **no se impone sanción mientras no se anule** el acto que los autoriza; el procedimiento de anulación **interrumpe la prescripción**. Si la anulación deriva del **instrumento de planeamiento o gestión**, **no hay sanción** a quienes actuaron con arreglo a ellos, salvo **dolo, culpa o negligencia grave** al promoverlo.",
+     "¿Se puede sancionar a quien actuó conforme a un título habilitante que se anula?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "282",
+     "Graduación de las sanciones: proporcionalidad y beneficio",
+     "La sanción debe ser **proporcionada a la gravedad** de los hechos. **En ningún caso** la infracción puede suponer **beneficio económico** para el infractor: la Administración **cuantifica ese beneficio y exige su pago**. Las multas a distintos sujetos por la misma infracción son **independientes**. Las cantidades ingresadas se **afectan a fines urbanísticos** (texto oficial).",
+     "¿Puede la infracción urbanística suponer beneficio económico para el infractor?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "283",
+     "Medidas complementarias: restaurar, reponer e indemnizar",
+     "Con independencia de las sanciones, la Administración **impone la obligación de restaurar el orden urbanístico alterado**, **reponer los bienes afectados** al estado anterior e **indemnizar daños y perjuicios**. Si los daños son de difícil evaluación se tienen en cuenta el **coste teórico de la restitución**, el **valor de los bienes dañados**, el **coste del proyecto** y el **beneficio obtenido**. En infracciones graves o muy graves del **urbanizador** puede imponerse **inhabilitación** como sanción accesoria.",
+     "¿Qué tres obligaciones impone la Administración con independencia de la sanción?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "284",
+     "Prescripción de las infracciones urbanísticas",
+     "Las **leves** prescriben **al año**, las **graves a los cuatro años** y las **muy graves a los diez años**. El plazo se cuenta **desde la fecha en que se cometieron** los hechos o, si es desconocida, desde que pudo incoarse el procedimiento (mientras no aparezcan **signos externos**).",
+     "¿A los cuántos años prescriben las infracciones graves y las muy graves?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "urb",
+     "285",
+     "Competencia para sancionar las infracciones urbanísticas",
+     "**Corresponde al Alcalde** sancionar las **infracciones leves** y al **Ayuntamiento Pleno** las **graves y muy graves**. El **órgano comarcal** puede **subrogarse** en las graves y muy graves si, tras requerir al municipio, **no inicia el expediente en el mes siguiente** o lo mantiene **paralizado más de tres meses**. El **Director General de urbanismo** puede ejercerlas directamente en ciertas infracciones muy graves.",
+     "¿Qué órgano sanciona las infracciones graves y muy graves?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -831,6 +2199,2853 @@
    [
     "infracciones graves y muy graves"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 8.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, con carácter general, la actividad urbanística pública corresponde:",
+   [
+    "A los municipios, que ejercerán las competencias que les hayan sido atribuidas y cuantas en materia urbanística no estén expresamente atribuidas a otras Administraciones",
+    "A la Comunidad Autónoma de Aragón, que ejercerá las competencias urbanísticas no atribuidas expresamente a las comarcas",
+    "A las comarcas, que ejercerán la actividad urbanística pública y asistirán a los municipios de su ámbito"
+   ],
+   0,
+   "Art. 8.1.",
+   "urb 8.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los municipios que no dispongan de medios técnicos, jurídicos o materiales suficientes para el ejercicio de sus competencias urbanísticas podrán recabar la asistencia de:",
+   [
+    "La correspondiente Provincia o Comarca",
+    "El Gobierno de Aragón exclusivamente",
+    "El Consejo Provincial de Urbanismo"
+   ],
+   0,
+   "Art. 8.2.",
+   "urb 8.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, corresponden al Alcalde, entre otras atribuciones, en materia urbanística:",
+   [
+    "La aprobación de los instrumentos de planeamiento de desarrollo del planeamiento general no atribuidos al Pleno, de los instrumentos de gestión urbanística y de los proyectos de urbanización",
+    "La aprobación definitiva del plan general y de las ordenanzas fiscales de contenido urbanístico",
+    "La aprobación de los instrumentos de planeamiento general y de las normas reguladoras del Pleno"
+   ],
+   0,
+   "Art. 8.3 a) y b).",
+   "urb 8.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las sociedades urbanísticas de carácter mercantil pueden constituirse por las Administraciones para el estudio, elaboración, desarrollo, gestión, promoción y ejecución del planeamiento, siempre que:",
+   [
+    "No implique ejercicio de autoridad y se respete la legislación sobre estabilidad presupuestaria y sostenibilidad financiera",
+    "Ejerzan potestades de autoridad urbanística y su capital sea íntegramente de titularidad privada",
+    "Impliquen ejercicio de autoridad, siempre que se respete la legislación sobre estabilidad presupuestaria"
+   ],
+   0,
+   "Art. 9.1.",
+   "urb 9.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la previsión de edificabilidad por la ordenación territorial y urbanística:",
+   [
+    "Por sí misma no la integra en el contenido del derecho de propiedad del suelo; su patrimonialización se produce únicamente con su realización efectiva y condicionada al cumplimiento de deberes y cargas",
+    "Se integra automáticamente en el derecho de propiedad del suelo desde la aprobación del plan general",
+    "Se patrimonializa con la aprobación del planeamiento, con independencia del cumplimiento de deberes y cargas"
+   ],
+   0,
+   "Art. 10.2.",
+   "urb 10.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, corresponde al plan general la clasificación de todo el suelo del término municipal, incluido el destinado a sistemas generales, en las siguientes clases:",
+   [
+    "Suelo urbano (consolidado o no consolidado), suelo urbanizable (delimitado o no delimitado) y suelo no urbanizable (especial o genérico)",
+    "Suelo urbano, de reserva urbana y rústico",
+    "Suelo delimitado y suelo no delimitado"
+   ],
+   0,
+   "Art. 11.1 (en el TR de 2014; el examen lo citó como art. 14.1).",
+   "urb 11.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 4",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en los municipios que carezcan de plan general, el suelo que no tenga la condición de urbano tendrá la consideración de:",
+   [
+    "Suelo no urbanizable",
+    "Suelo urbanizable no delimitado",
+    "Suelo urbanizable delimitado"
+   ],
+   0,
+   "Art. 11.3.",
+   "urb 11.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tendrán la condición de suelo urbano, entre otros, los terrenos que:",
+   [
+    "Cuenten con servicios urbanísticos suficientes (red viaria con conectividad, abastecimiento y evacuación de agua, energía eléctrica, telecomunicaciones y gestión de residuos)",
+    "No cuenten con ningún servicio urbanístico, pero estén incluidos en un sector de urbanización prioritaria",
+    "Estén clasificados como urbanizables delimitados por el plan general y cuenten con proyecto de urbanización"
+   ],
+   0,
+   "Art. 12 a).",
+   "urb 12",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, a efectos de considerar suelo urbano los terrenos que puedan llegar a contar con servicios urbanísticos sin otras obras que las de conexión con las instalaciones preexistentes, con carácter general:",
+   [
+    "No podrán considerarse las carreteras de circunvalación ni las vías de comunicación interurbanas",
+    "Pueden considerarse las carreteras de circunvalación y las vías de comunicación interurbanas",
+    "Pueden considerarse únicamente las vías de comunicación interurbanas, pero no las carreteras de circunvalación"
+   ],
+   0,
+   "Art. 12 b).",
+   "urb 12",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tendrán la condición de suelo urbano no consolidado los terrenos de suelo urbano que:",
+   [
+    "Soporten actuaciones urbanísticas integradas, sean de nueva urbanización o de intervención sobre suelos consolidados total o parcialmente por la edificación",
+    "Estén totalmente edificados y cuenten con todos los servicios urbanísticos de forma efectiva",
+    "Tengan todos los servicios urbanísticos y reúnan las condiciones para ser considerados solares"
+   ],
+   0,
+   "Art. 13.2.",
+   "urb 13.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el suelo urbano que el plan general no defina como no consolidado:",
+   [
+    "Tendrá la consideración de suelo urbano consolidado",
+    "Será suelo urbanizable, delimitado o no delimitado, según decida el Ayuntamiento",
+    "Será suelo no urbanizable genérico, al no estar definido como consolidado ni como no consolidado"
+   ],
+   0,
+   "Art. 13.3.",
+   "urb 13.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tendrán la consideración de solares las superficies de suelo urbano aptas para su uso inmediato que reúnan, entre otros, el requisito de:",
+   [
+    "Estar urbanizados conforme al planeamiento o, en su defecto, disponer de los servicios básicos, alumbrado público y confrontar con una vía pavimentada y adecuada para peatones y vehículos",
+    "Estar clasificados como suelo urbanizable delimitado y contar con el plan parcial definitivamente aprobado",
+    "Carecer de alineaciones y rasantes señaladas, aunque el planeamiento las defina para el suelo urbano"
+   ],
+   0,
+   "Art. 14.1 a).",
+   "urb 14.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, una de las condiciones para que una superficie de suelo urbano tenga la consideración de solar es:",
+   [
+    "Que tengan señaladas alineaciones y rasantes, si el planeamiento las define, y que no deban cederse terrenos para calles o para regularizar alineaciones o completar la red viaria",
+    "Que estén edificados y que sus propietarios hayan cedido los terrenos para calles o para regularizar alineaciones",
+    "Que sean de propiedad pública y estén urbanizados conforme al proyecto de urbanización aprobado"
+   ],
+   0,
+   "Art. 14.1 b) y c).",
+   "urb 14.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tendrán la consideración de suelo urbanizable delimitado:",
+   [
+    "Los sectores de urbanización prioritaria previstos por el plan general; el resto del suelo urbanizable tendrá la consideración de no delimitado",
+    "Todo el suelo urbanizable previsto en el plan general, sin distinguir entre sectores prioritarios y resto",
+    "Los sectores con proyecto de urbanización aprobado y con unidad de ejecución delimitada"
+   ],
+   0,
+   "Art. 15.3.",
+   "urb 15.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tendrán la condición de suelo no urbanizable, entre otros, los terrenos:",
+   [
+    "Preservados de su transformación urbanística por la legislación de protección del dominio público, medioambiental o de patrimonio cultural, y los no susceptibles de transformación por riesgos para la seguridad de personas y bienes",
+    "Con servicios urbanísticos suficientes para servir a la edificación que sobre ellos exista o se construya",
+    "Incluidos en sectores de urbanización prioritaria para su transformación en el corto plazo"
+   ],
+   0,
+   "Art. 16.1 a) y b).",
+   "urb 16.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el suelo no urbanizable genérico:",
+   [
+    "Será la clase y categoría residual, constituyendo el clasificado y calificado como tal por el plan general",
+    "El especialmente protegido por legislación sectorial, medioambiental o de patrimonio cultural",
+    "El suelo urbanizable no delimitado en tanto no se apruebe el correspondiente plan parcial"
+   ],
+   0,
+   "Art. 17.",
+   "urb 17",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tendrán la consideración de suelo no urbanizable especial en todo caso:",
+   [
+    "Los terrenos del artículo 16.1, apartados a) y b) (protección legal y riesgos); los del apartado c) solo cuando el plan general les reconozca ese carácter por los valores puestos de manifiesto en un instrumento de planificación",
+    "Todo el suelo no urbanizable, pues la Ley no distingue entre genérico y especial a estos efectos",
+    "Los terrenos con valores agrícolas, ganaderos o forestales, aunque el plan no les reconozca ese carácter"
+   ],
+   0,
+   "Art. 18.",
+   "urb 18",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las Administraciones públicas orientarán su actuación urbanística promoviendo, entre otros derechos de los ciudadanos:",
+   [
+    "El desarrollo del derecho constitucional a una vivienda digna y adecuada, mediante programación pública de vivienda y viviendas protegidas",
+    "El derecho a la propiedad privada ilimitada, que prevalece sobre las políticas públicas de vivienda",
+    "El derecho a edificar en cualquier clase de suelo, siempre que se disponga de licencia municipal"
+   ],
+   0,
+   "Art. 19 a).",
+   "urb 19",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, son deberes de los ciudadanos en relación con la actividad urbanística, entre otros:",
+   [
+    "Preservar y contribuir a mejorar el medio ambiente natural y urbano, preservar el patrimonio cultural aragonés y hacer uso adecuado de los bienes de dominio público y mobiliario urbano",
+    "Abonar la totalidad de los costes de urbanización de su ciudad, con independencia de su propiedad",
+    "Colaborar en la actividad urbanística solo si son propietarios de terrenos incluidos en una actuación"
+   ],
+   0,
+   "Art. 20 a), b), c).",
+   "urb 20",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los propietarios del suelo no urbanizable tendrán derecho a usar, disfrutar y disponer de los terrenos:",
+   [
+    "De conformidad con su naturaleza, destinándolos a fines agrícolas, forestales, ganaderos, cinegéticos, ambientales, extractivos y otros vinculados a la utilización racional de los recursos naturales",
+    "Para cualquier uso residencial compatible con la naturaleza del suelo, siempre que cuenten con licencia",
+    "Para parcelarlos libremente, aunque ello dé lugar a la formación de núcleos de población"
+   ],
+   0,
+   "Art. 28.2.",
+   "urb 28.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en el suelo no urbanizable quedan prohibidas:",
+   [
+    "Las parcelaciones que den lugar a núcleos de población conforme al artículo 242.2",
+    "Todas las parcelaciones rústicas, incluidas las vinculadas a la explotación agraria de la tierra",
+    "Las explotaciones agrarias y ganaderas que no estén vinculadas a la utilización racional de los recursos"
+   ],
+   0,
+   "Art. 28.3.",
+   "urb 28.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en suelo urbanizable y suelo urbano, no podrá ser edificado terreno alguno que no merezca la condición de solar:",
+   [
+    "Salvo que se asegure la ejecución simultánea de la urbanización precisa y la edificación; no se permitirá la ocupación de los edificios hasta que los servicios estén en condiciones de funcionamiento adecuado",
+    "En ningún caso, ni siquiera asegurando la ejecución simultánea de la urbanización y la edificación",
+    "Salvo que lo autorice el Alcalde verbalmente, asumiendo el propietario las obligaciones correspondientes"
+   ],
+   0,
+   "Art. 29.1.",
+   "urb 29.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el derecho de propiedad de los terrenos e instalaciones comprende, cualquiera que sea la situación en que se encuentren, el deber de:",
+   [
+    "Conservarlos en las condiciones legales de seguridad, salubridad, accesibilidad y ornato, así como realizar trabajos de mejora y rehabilitación hasta donde alcance el deber legal de conservación",
+    "Mejorar y rehabilitar sin límite a costa del propietario, aunque se supere el deber legal de conservación",
+    "Cederlos gratuitamente al municipio cuando se encuentren en estado de abandono o deterioro"
+   ],
+   0,
+   "Art. 31.1.",
+   "urb 31.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en suelo urbanizable delimitado, en tanto no se haya aprobado la correspondiente ordenación pormenorizada que permita la urbanización:",
+   [
+    "No se podrán edificar ni levantar cualesquiera otras instalaciones",
+    "Se podrá edificar libremente, siempre que el propietario asuma el coste de la urbanización",
+    "Se podrá edificar con licencia del Alcalde, aunque no se haya aprobado la ordenación pormenorizada"
+   ],
+   0,
+   "Art. 32.1. Excepto infraestructuras del territorio o sistemas generales (32.3).",
+   "urb 32.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en el suelo urbanizable no delimitado, en tanto no se haya aprobado el plan parcial:",
+   [
+    "Se aplicará el régimen establecido para el suelo no urbanizable genérico",
+    "Se aplicará el régimen del suelo urbano no consolidado, con los derechos y deberes de éste",
+    "Se aplicará el régimen del suelo no urbanizable especial, con prohibición de toda construcción"
+   ],
+   0,
+   "Art. 33.",
+   "urb 33",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en suelo no urbanizable genérico, los municipios podrán autorizar, mediante título habilitante urbanístico, entre otras, las construcciones e instalaciones:",
+   [
+    "Destinadas a explotaciones agrarias o ganaderas y a la explotación de recursos naturales, incluida la vivienda de personas que deban permanecer en la explotación",
+    "Residenciales de cualquier tipo, siempre que respeten las alineaciones del planeamiento urbanístico",
+    "Industriales, sin vinculación a la explotación de los recursos naturales ni a las obras públicas"
+   ],
+   0,
+   "Art. 34.1 a).",
+   "urb 34.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en el suelo no urbanizable especial:",
+   [
+    "Está prohibida cualquier construcción, actividad o uso que implique transformación de su destino o naturaleza, lesione el valor específico a proteger o infrinja el régimen limitativo establecido",
+    "Se pueden autorizar los mismos usos que en el genérico, sin sujeción a régimen limitativo alguno",
+    "Se puede edificar con licencia municipal cuando el uso sea compatible con la legislación sectorial"
+   ],
+   0,
+   "Art. 37.1.",
+   "urb 37.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el plan general de ordenación urbana, como instrumento de ordenación integral:",
+   [
+    "Abarcará uno o varios términos municipales completos, clasificará el suelo y definirá los elementos fundamentales de la estructura general adoptada para la ordenación urbanística del territorio",
+    "Abarcará parte del término municipal, delimitando solo el suelo urbano y el urbanizable",
+    "Solo desarrollará suelo urbano, dejando el no urbanizable al planeamiento territorial"
+   ],
+   0,
+   "Art. 38.1.",
+   "urb 38.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el plan general respetará las determinaciones vinculantes de las directrices de ordenación del territorio y de los planes de ordenación de los recursos naturales, y en su memoria:",
+   [
+    "Se motivará toda eventual falta de seguimiento de las determinaciones indicativas de tales instrumentos",
+    "Se omitirá cualquier mención a ellos, al ser instrumentos de ordenación del territorio y no urbanísticos",
+    "Se justificará la no aplicación de las determinaciones vinculantes de tales instrumentos"
+   ],
+   0,
+   "Art. 38.2.",
+   "urb 38.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el plan general, al establecer la ordenación estructural del término municipal, incluirá entre otras determinaciones:",
+   [
+    "La clasificación de la totalidad del suelo con delimitación de las superficies adscritas a cada clase y categorías de suelo",
+    "La edificabilidad máxima para la totalidad del suelo",
+    "Los sistemas generales y dotaciones locales de la totalidad del término"
+   ],
+   0,
+   "Art. 40.1 a).",
+   "urb 40.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 47",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en suelo urbano consolidado, el plan general establecerá como ordenación pormenorizada, entre otras determinaciones:",
+   [
+    "Usos pormenorizados y ordenanzas de edificación, delimitación de espacios verdes y dotaciones, trazado de redes de comunicaciones y servicios, y señalamiento de alineaciones y rasantes",
+    "Solo las alineaciones y rasantes, sin necesidad de señalar los usos pormenorizados ni las ordenanzas",
+    "Las bases orientativas de ejecución únicamente, relativas a calidades, diseño urbano y plazos"
+   ],
+   0,
+   "Art. 41.1 a) a d).",
+   "urb 41.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, cuando el plan general prevea actuar en suelo urbano no consolidado directamente a través de unidades de ejecución, incluirá como ordenación pormenorizada:",
+   [
+    "Además de lo anterior, la determinación de los posibles sistemas de gestión y las bases orientativas para su ejecución, relativas al menos a calidades, diseño urbano y plazos",
+    "Solo las alineaciones y rasantes del suelo urbano, sin determinar los sistemas de gestión",
+    "Nada, pues la ordenación pormenorizada se determina siempre en el plan parcial correspondiente"
+   ],
+   0,
+   "Art. 42.1.",
+   "urb 42.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en suelo urbanizable delimitado, el plan general contendrá, entre otras determinaciones:",
+   [
+    "El desarrollo de los sistemas generales con precisión suficiente para permitir planes parciales, el trazado de las redes fundamentales y bases orientativas para la ejecución",
+    "La ordenación pormenorizada completa de cada sector, de modo que no sea necesario plan parcial",
+    "Solo la clasificación del suelo, sin determinar el desarrollo de los sistemas generales"
+   ],
+   0,
+   "Art. 43.1.",
+   "urb 43.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en suelo urbanizable no delimitado, el plan general podrá establecer como ordenación pormenorizada:",
+   [
+    "Normativa complementaria, especialmente de protección, en tanto no se proceda a su delimitación y desarrollo",
+    "La ordenación completa del sector, que permita ejecutarlo sin planeamiento de desarrollo",
+    "Los sistemas de gestión de cada unidad de ejecución y los plazos máximos de su ejecución"
+   ],
+   0,
+   "Art. 44.",
+   "urb 44",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el sector es:",
+   [
+    "El ámbito de ordenación propio de un plan parcial o de un plan especial de reforma interior, que abarcará uno o varios sectores completos",
+    "Un ámbito de gestión de una actuación aislada en suelo urbano consolidado",
+    "El ámbito del plan general, que abarca uno o varios términos municipales completos"
+   ],
+   0,
+   "Art. 45.1.",
+   "urb 45.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en suelo no urbanizable, el plan general incluirá como ordenación pormenorizada, entre otras determinaciones:",
+   [
+    "El régimen de protección del suelo no urbanizable especial y el régimen jurídico de los terrenos del genérico y del especial, señalando actuaciones y usos autorizables y prohibidos",
+    "La delimitación de unidades de ejecución y el proyecto de urbanización de cada una de ellas",
+    "Las bases orientativas de ejecución y los plazos máximos de desarrollo de cada sector"
+   ],
+   0,
+   "Art. 46.1.",
+   "urb 46.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las determinaciones del plan general se desarrollarán en los siguientes documentos:",
+   [
+    "Memoria, planos de información y ordenación (incluidos mapas de riesgos), catálogos urbanísticos, normas urbanísticas, estudio económico, entre otros",
+    "Solo planos y normas urbanísticas, sin memoria ni estudio económico",
+    "Solo memoria y estudio económico, sin planos de ordenación ni normas urbanísticas"
+   ],
+   0,
+   "Art. 47.1.",
+   "urb 47.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el plan general será formulado por el Ayuntamiento; los trabajos comenzarán por un avance con los criterios, objetivos y soluciones generales, que se expondrá al público durante un plazo mínimo de:",
+   [
+    "Un mes, para que cualquier persona formule sugerencias y alternativas",
+    "Dos meses, para que los interesados formulen sugerencias y alternativas al avance",
+    "Quince días, para que cualquier persona formule sugerencias y alternativas"
+   ],
+   0,
+   "Art. 48.1.",
+   "urb 48.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la aprobación definitiva del plan general corresponde:",
+   [
+    "Al Consejo Provincial de Urbanismo (y al Director General competente en urbanismo si es plan conjunto de varios municipios de distintas provincias)",
+    "Al Ayuntamiento Pleno, que lo aprueba por mayoría absoluta del número legal de miembros",
+    "Al Alcalde, previo informe del Consejo Provincial de Urbanismo y del Gobierno de Aragón"
+   ],
+   0,
+   "Art. 49.1.",
+   "urb 49.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la aprobación definitiva del plan general sólo podrá denegarse:",
+   [
+    "Por motivos de alcance supralocal o de legalidad",
+    "Por razones de oportunidad, atendiendo a la conveniencia de la ordenación propuesta",
+    "Por cualquier motivo discrecional apreciado por el Consejo Provincial de Urbanismo"
+   ],
+   0,
+   "Art. 49.2.",
+   "urb 49.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los planes parciales tienen por objeto:",
+   [
+    "El establecimiento, en desarrollo del plan general, de la ordenación pormenorizada precisa para la ejecución de sectores enteros en suelo urbano no consolidado y en suelo urbanizable",
+    "Ordenar el suelo no urbanizable, estableciendo su régimen de protección y de usos",
+    "Sustituir al plan general en su función de instrumento de ordenación integral del territorio"
+   ],
+   0,
+   "Art. 51.1.",
+   "urb 51.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, no podrán aprobarse planes parciales sin que, previa o simultáneamente, pero en expediente separado:",
+   [
+    "Se haya aprobado definitivamente el plan general",
+    "Se haya aprobado el proyecto de urbanización",
+    "Se haya constituido la junta de compensación"
+   ],
+   0,
+   "Art. 51.3.",
+   "urb 51.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los planes parciales contendrán, además de las determinaciones del artículo 42.1, entre otras:",
+   [
+    "La evaluación económica de la implantación de servicios y obras de urbanización, el plan de etapas y los sistemas generales incluidos o adscritos",
+    "Solo el proyecto de reparcelación y los estatutos de la junta de compensación del sector",
+    "La delimitación del suelo urbano y la clasificación del suelo en el sector"
+   ],
+   0,
+   "Art. 52.1.",
+   "urb 52.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en defecto de previsión o de adecuada justificación, en sectores de uso característico residencial o turístico se aplicarán como parámetro máximo:",
+   [
+    "Setenta y cinco viviendas por hectárea, con la edificabilidad que establezca el plan general",
+    "Cien viviendas por hectárea, con la edificabilidad que establezca el plan general",
+    "Cincuenta viviendas por hectárea, con la edificabilidad que establezca el plan general"
+   ],
+   0,
+   "Art. 53.2 a). Industrial o terciario: 0,5 m² de techo por m² de suelo.",
+   "urb 53.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en defecto de previsión, en sectores de uso característico industrial o terciario la edificabilidad máxima será de:",
+   [
+    "Medio metro cuadrado de techo por metro cuadrado de suelo",
+    "Un metro cuadrado de techo por metro cuadrado de suelo",
+    "Dos metros cuadrados de techo por metro cuadrado de suelo"
+   ],
+   0,
+   "Art. 53.2 b).",
+   "urb 53.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en el suelo residencial sin densidad o número máximo de viviendas fijado, se computará una unidad de reserva por cada:",
+   [
+    "Ochenta y cinco metros cuadrados construibles de uso residencial",
+    "Cien metros cuadrados construibles de uso residencial",
+    "Sesenta metros cuadrados construibles de uso residencial"
+   ],
+   0,
+   "Art. 54.1 a). En industrial o terciario: una unidad por cada 100 m² construibles.",
+   "urb 54.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los municipios podrán formular planes parciales:",
+   [
+    "En cualquier momento, de oficio o a instancia de parte, e introducir modificaciones en las propuestas presentadas a instancia de los particulares",
+    "Solo a instancia de los propietarios de los terrenos incluidos en el sector",
+    "Solo cada cuatro años, coincidiendo con el mandato de la corporación municipal"
+   ],
+   0,
+   "Art. 56.1.",
+   "urb 56.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; una vez aprobados inicialmente se someterán a información pública por plazo mínimo de:",
+   [
+    "Un mes, simultáneamente al informe de los órganos competentes",
+    "Quince días, simultáneamente al informe de los órganos competentes",
+    "Dos meses, simultáneamente al informe de los órganos competentes"
+   ],
+   0,
+   "Art. 57.1.",
+   "urb 57.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en caso de concurrencia de varios planes parciales de iniciativa particular, tendrá preferencia en la tramitación:",
+   [
+    "El suscrito por propietarios que representen más de la mitad de la superficie de los terrenos del sector o, en su defecto, el primero formulado en expediente completo",
+    "El del propietario con más terrenos en el sector, aunque no alcance la mitad de la superficie",
+    "El que decida el Alcalde discrecionalmente entre los proyectos formulados en cada caso"
+   ],
+   0,
+   "Art. 58.1.",
+   "urb 58.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en los planes parciales de iniciativa no municipal, se entenderá otorgada la aprobación inicial por el transcurso de:",
+   [
+    "Seis meses desde la presentación de la documentación completa en el registro municipal",
+    "Tres meses desde la presentación de la documentación completa en el registro municipal",
+    "Un mes desde la presentación de la documentación completa en el registro municipal"
+   ],
+   0,
+   "Art. 60.1 a).",
+   "urb 60.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en ningún caso los planes especiales podrán:",
+   [
+    "Sustituir al plan general en su función de instrumento de ordenación integral del territorio, por lo que no podrán clasificar suelo",
+    "Establecer limitaciones de uso en el ámbito de su aplicación, sin clasificar suelo",
+    "Proteger el patrimonio edificado y los conjuntos históricos declarados conforme a la normativa"
+   ],
+   0,
+   "Art. 61.3.",
+   "urb 61.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en los planes especiales en desarrollo de directrices territoriales, la aprobación definitiva corresponderá:",
+   [
+    "Al Ayuntamiento Pleno",
+    "Al Consejo Provincial de Urbanismo",
+    "Al Gobierno de Aragón"
+   ],
+   0,
+   "Art. 63.2 b).",
+   "urb 63.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en desarrollo del plan general podrán formularse planes especiales para finalidades como:",
+   [
+    "El desarrollo de los sistemas generales, la protección del medio ambiente y paisaje, la mejora de condiciones de salubridad, la protección del patrimonio edificado y la reforma interior en suelo urbano",
+    "La clasificación del suelo y la aprobación del presupuesto de gestión de las actuaciones",
+    "La aprobación del planeamiento general y su modificación mediante procedimiento simplificado"
+   ],
+   0,
+   "Art. 64.1.",
+   "urb 64.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los planes especiales de reforma interior sólo podrán formularse:",
+   [
+    "En desarrollo del plan general, en suelo urbano no consolidado, para establecer la ordenación pormenorizada de áreas sujetas a actuaciones de intervención en suelos consolidados total o parcialmente por la edificación",
+    "En suelo no urbanizable, para ordenar las áreas sujetas a actuaciones de intervención",
+    "En suelo urbanizable delimitado, para establecer la ordenación pormenorizada de los sectores"
+   ],
+   0,
+   "Art. 65.1.",
+   "urb 65.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la declaración de un conjunto de interés cultural determinará:",
+   [
+    "La obligación del municipio de redactar uno o varios planes especiales para la protección y, en su caso, saneamiento y renovación del área afectada",
+    "La suspensión de licencias en toda la ciudad hasta que se apruebe un plan especial",
+    "La aprobación automática de un plan parcial que ordene el entorno del conjunto"
+   ],
+   0,
+   "Art. 66.1.",
+   "urb 66.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los estudios de detalle podrán formularse cuando fuere preciso:",
+   [
+    "Completar o adaptar determinaciones del plan general para el suelo urbano, de planes parciales y especiales y de delimitaciones de suelo urbano",
+    "Clasificar suelo urbano y urbanizable, en los municipios que carezcan de plan general",
+    "Cambiar la ordenación estructural del plan general en el ámbito del suelo urbano"
+   ],
+   0,
+   "Art. 67.1.",
+   "urb 67.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los estudios de detalle tendrán por finalidad prever, modificar o reajustar:",
+   [
+    "El señalamiento de alineaciones y rasantes que no afecten a la ordenación estructural ni disminuyan la superficie de espacios libres, la ordenación de volúmenes y las condiciones estéticas de la edificación",
+    "El destino del suelo o el aprovechamiento que corresponda a los propietarios del ámbito",
+    "La clasificación del suelo y la ordenación estructural establecida en el plan general"
+   ],
+   0,
+   "Art. 67.2 y 3.",
+   "urb 67.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, cualquier persona podrá formular a su costa estudios de detalle, cuya aprobación inicial corresponde al Alcalde y la definitiva:",
+   [
+    "Al Ayuntamiento Pleno, previo sometimiento a información pública y audiencia por plazo común de un mes como mínimo",
+    "Al Consejo Provincial de Urbanismo, previo informe del Ayuntamiento y trámite de audiencia",
+    "A la Junta de Gobierno Local, previa información pública de quince días"
+   ],
+   0,
+   "Art. 68.1.",
+   "urb 68.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en los estudios de detalle de iniciativa privada se entenderá otorgada la aprobación inicial por el transcurso de:",
+   [
+    "Un mes desde la presentación de la documentación completa en el registro municipal",
+    "Tres meses desde la presentación de la documentación completa en el registro municipal",
+    "Seis meses desde la presentación de la documentación completa en el registro municipal"
+   ],
+   0,
+   "Art. 68.2 b).",
+   "urb 68.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la delimitación del suelo urbano se configura como:",
+   [
+    "El instrumento urbanístico de los municipios que carecen de plan general de ordenación urbana, sin tener la consideración de instrumento de planeamiento urbanístico",
+    "El instrumento de desarrollo del plan general en suelo urbano no consolidado",
+    "Un tipo de plan especial que se tramita por el procedimiento de los planes parciales"
+   ],
+   0,
+   "Art. 70.",
+   "urb 70",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el Consejo Provincial de Urbanismo podrá denegar la modificación de la delimitación del suelo urbano, además de por motivos de legalidad, por:",
+   [
+    "Exceder del contenido de la delimitación, responder a una evolución de servicios no adecuada al modelo urbanístico o valorar la necesidad de recogerlo en un plan general",
+    "La falta de pago de las tasas urbanísticas o los cambios de gobierno en el municipio",
+    "La falta de acuerdo de los propietarios afectados o la oposición de los municipios colindantes"
+   ],
+   0,
+   "Art. 76.2.",
+   "urb 76.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el Ayuntamiento Pleno podrá acordar la suspensión del otorgamiento de licencias de parcelación, edificación y demolición para áreas o usos determinados:",
+   [
+    "Con el fin de estudiar la formación o reforma de los planes urbanísticos o estudios de detalle",
+    "Para sancionar infracciones urbanísticas y restablecer la legalidad en el término municipal",
+    "Para recaudar tasas y para autorizar la ejecución de obras de urbanización en suelo urbano"
+   ],
+   0,
+   "Art. 77.1.",
+   "urb 77.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la suspensión de licencias para estudiar planes se extinguirá, en todo caso, en el plazo de un año; si hubo aprobación inicial dentro de ese plazo, sus efectos se extinguen definitivamente transcurridos:",
+   [
+    "Dos años desde el acuerdo de suspensión adoptado para estudiar el planeamiento",
+    "Tres años desde el acuerdo de suspensión adoptado para estudiar el planeamiento o su reforma",
+    "Cuatro años desde el acuerdo de suspensión adoptado para estudiar el planeamiento o su reforma"
+   ],
+   0,
+   "Art. 78.1.",
+   "urb 78.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, si no se hubiese suspendido el otorgamiento de licencias antes de la aprobación inicial, la suspensión determinada por dicha aprobación tendrá una duración máxima de:",
+   [
+    "Dos años",
+    "Un año",
+    "Tres años"
+   ],
+   0,
+   "Art. 78.2.",
+   "urb 78.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, serán nulas de pleno derecho:",
+   [
+    "Las reservas de dispensación contenidas en los planes, normas y ordenanzas urbanísticos, así como las que se concedieren con independencia de ellos",
+    "Las licencias de obras menores, si se otorgan sin el informe técnico municipal correspondiente",
+    "Las ordenanzas urbanísticas aprobadas por mayoría simple por el Pleno de la entidad local"
+   ],
+   0,
+   "Art. 79.2.",
+   "urb 79.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los planes urbanísticos serán inmediatamente ejecutivos:",
+   [
+    "Una vez publicada su aprobación definitiva y el texto íntegro de las normas que contengan",
+    "Desde su aprobación inicial, una vez publicado el anuncio de información pública",
+    "A los quince días de su aprobación definitiva, sin necesidad de publicar el texto de las normas"
+   ],
+   0,
+   "Art. 80.1.",
+   "urb 80.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los edificios e instalaciones erigidos con anterioridad a la aprobación definitiva del planeamiento que resulten disconformes con el mismo por afectar a alineaciones, viales, zonas verdes, usos incompatibles u otras razones análogas serán calificados como:",
+   [
+    "Fuera de ordenación",
+    "Ilegales",
+    "En ruina"
+   ],
+   0,
+   "Art. 82.1.",
+   "urb 82.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en los edificios fuera de ordenación, salvo que el planeamiento disponga otro régimen, no podrán realizarse:",
+   [
+    "Obras de consolidación, aumento de volumen, modernización e incremento de su valor de expropiación, pero sí pequeñas reparaciones de higiene, ornato, seguridad y conservación",
+    "Ninguna obra, ni siquiera las pequeñas reparaciones exigidas por la higiene o la seguridad",
+    "Cualquier tipo de reforma, siempre que no suponga aumento del valor de expropiación"
+   ],
+   0,
+   "Art. 82.2.",
+   "urb 82.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en los edificios fuera de ordenación podrán autorizarse obras parciales y circunstanciales de consolidación cuando no estuviere prevista la expropiación o demolición de la finca en el plazo de:",
+   [
+    "Quince años, a contar desde la fecha en que se pretendiere realizarlas",
+    "Diez años, a contar desde la fecha en que se pretendiere realizarlas",
+    "Cinco años, a contar desde la fecha en que se pretendiere realizarlas"
+   ],
+   0,
+   "Art. 82.3.",
+   "urb 82.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los planes y demás instrumentos de ordenación urbanística tendrán:",
+   [
+    "Vigencia indefinida",
+    "Vigencia de ocho años",
+    "Vigencia de quince años"
+   ],
+   0,
+   "Art. 83.1.",
+   "urb 83.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tendrá la consideración de revisión del plan general:",
+   [
+    "Cualquier alteración que afecte sustancialmente a la ordenación estructural, en función de factores como la superficie, aprovechamientos o población afectados, la alteración de sistemas generales o supralocales o del sistema de núcleos de población",
+    "Cualquier modificación aislada, aunque no afecte sustancialmente a la ordenación estructural",
+    "La modificación de las ordenanzas de edificación del plan general en suelo urbano consolidado"
+   ],
+   0,
+   "Art. 84.2.",
+   "urb 84.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las modificaciones aisladas de las determinaciones de los planes deberán contener:",
+   [
+    "La justificación de su necesidad o conveniencia y el estudio de sus efectos sobre el territorio, y la definición del nuevo contenido con un grado de precisión similar al modificado",
+    "Solo un informe técnico que justifique el nuevo contenido del plan que se modifica",
+    "Únicamente el texto refundido de las determinaciones modificadas, sin estudio de efectos"
+   ],
+   0,
+   "Art. 85.1.",
+   "urb 85.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la gestión urbanística es:",
+   [
+    "El conjunto de procedimientos establecidos en la Ley para la distribución equitativa de beneficios y cargas y para la transformación del uso del suelo, en ejecución del planeamiento urbanístico",
+    "El conjunto de licencias municipales que autorizan los actos de edificación y uso del suelo",
+    "El procedimiento de aprobación del plan general y de los instrumentos que lo desarrollan"
+   ],
+   0,
+   "Art. 118.1.",
+   "urb 118.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las actuaciones aisladas son aquellas que se ejecutan:",
+   [
+    "De forma asistemática, sobre suelo urbano consolidado, a través del sistema de urbanización de obras ordinarias",
+    "De forma sistemática sobre suelo urbanizable, mediante unidades de ejecución completas",
+    "Mediante proyectos de urbanización en suelo urbano no consolidado, a través de reparcelación"
+   ],
+   0,
+   "Art. 118.2 a).",
+   "urb 118.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 119 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la ejecución del planeamiento urbanístico corresponde:",
+   [
+    "A los municipios; la de los planes y proyectos de interés general de Aragón corresponde a la Administración de la Comunidad Autónoma",
+    "A la Comunidad Autónoma, que ejecuta el planeamiento municipal por subrogación de los municipios",
+    "A las comarcas, que ejecutan el planeamiento de los municipios de su ámbito territorial"
+   ],
+   0,
+   "Art. 119.",
+   "urb 119",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 120 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, para la gestión de la actividad de ejecución, la Administración de la Comunidad Autónoma y los municipios podrán utilizar:",
+   [
+    "Todas las formas admitidas por la legislación de régimen jurídico, contratación y régimen local: entes de derecho público, organismos autónomos, consorcios y sociedades urbanísticas",
+    "Solo gestión directa por el propio ayuntamiento, quedando excluidas las sociedades urbanísticas",
+    "Solo sociedades mercantiles privadas, quedando excluidos los organismos autónomos y consorcios"
+   ],
+   0,
+   "Art. 120.",
+   "urb 120",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la ejecución del planeamiento mediante actuaciones aisladas requiere:",
+   [
+    "La obtención de la correspondiente licencia y, cuando proceda, la aprobación de la normalización de fincas o del proyecto de obras ordinarias",
+    "La delimitación de una unidad de ejecución y la aprobación del instrumento de distribución de cargas",
+    "La constitución de una junta de compensación y la aprobación del proyecto de reparcelación"
+   ],
+   0,
+   "Art. 121.1.",
+   "urb 121.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la ejecución del planeamiento mediante actuaciones integradas requiere:",
+   [
+    "La aprobación del instrumento que establezca la ordenación pormenorizada y la delimitación de la unidad de ejecución; después o simultáneamente, el instrumento de distribución de beneficios y cargas y el proyecto de urbanización",
+    "Solo la licencia de obras, sin necesidad de aprobar instrumento de planeamiento ni de gestión",
+    "Solo el proyecto de urbanización, sin delimitación de unidad de ejecución ni reparto de cargas"
+   ],
+   0,
+   "Art. 121.2.",
+   "urb 121.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, para que la propuesta del sistema de compensación vincule a la Administración respecto a una unidad de ejecución, el proyecto de planeamiento deberá estar suscrito por:",
+   [
+    "Propietarios que sumen más de la mitad de la superficie de esa unidad",
+    "Todos los propietarios",
+    "Propietarios que sumen al menos un tercio de la superficie"
+   ],
+   0,
+   "Art. 122.2.",
+   "urb 122.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 123.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el plazo de garantía de las obras de urbanización en la recepción no podrá ser inferior a:",
+   [
+    "Cinco años",
+    "Un año",
+    "Tres años"
+   ],
+   0,
+   "Art. 123.1. Desde la recepción, la conservación corresponde al municipio o a la entidad urbanística de conservación.",
+   "urb 123.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 124.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el índice de edificabilidad bruta indica:",
+   [
+    "El límite máximo de edificabilidad para cada uso, en metros cuadrados de techo por metro cuadrado de suelo, aplicable en una parcela, unidad de ejecución o sector",
+    "El número máximo de viviendas por hectárea, aplicable en una parcela, unidad de ejecución o sector",
+    "El aprovechamiento medio del sector, calculado dividiendo el aprovechamiento objetivo por su superficie"
+   ],
+   0,
+   "Art. 124.1. La neta se aplica sobre la superficie neta edificable.",
+   "urb 124.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 124.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el aprovechamiento objetivo indica:",
+   [
+    "La superficie edificable homogeneizada respecto del uso y tipología característicos, medida en metros cuadrados, que permita el planeamiento sobre un terreno dado",
+    "El aprovechamiento que corresponde al propietario tras la cesión obligatoria al municipio",
+    "El promedio de los aprovechamientos objetivos de un determinado ámbito territorial"
+   ],
+   0,
+   "Art. 124.3.",
+   "urb 124.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el aprovechamiento medio es:",
+   [
+    "El resultado de calcular el promedio de los aprovechamientos urbanísticos objetivos establecidos por el planeamiento en un determinado ámbito, para hacer posible la distribución equitativa de aprovechamientos y cargas",
+    "El aprovechamiento de cada parcela, medido en metros cuadrados de superficie edificable",
+    "El diez por ciento del aprovechamiento que se cede al municipio en cada unidad de ejecución"
+   ],
+   0,
+   "Art. 125.1.",
+   "urb 125.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, se considerará uso característico:",
+   [
+    "El de mayor edificabilidad de los existentes en la unidad de ejecución o sector considerados",
+    "El de mayor valor catastral de los existentes en la unidad de ejecución o sector considerados",
+    "El de menor edificabilidad de los existentes en la unidad de ejecución o sector considerados"
+   ],
+   0,
+   "Art. 126.2.",
+   "urb 126.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 131.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las actuaciones aisladas podrán tener, entre otras, la finalidad de:",
+   [
+    "Completar la urbanización de las parcelas de suelo urbano consolidado para que alcancen la condición de solar, ejecutar obras aisladas y de remodelación de la urbanización y obtener terrenos para urbanización",
+    "Ejecutar la urbanización de un sector entero mediante unidades de ejecución completas",
+    "Reparcelar una unidad de ejecución para distribuir beneficios y cargas entre los propietarios"
+   ],
+   0,
+   "Art. 131.1.",
+   "urb 131.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las actuaciones aisladas pueden ejecutarse por los propietarios de suelo urbano consolidado sobre sus propias parcelas o solares:",
+   [
+    "Sin más requisito que la obtención de la licencia correspondiente, con previa o simultánea realización de las obras de urbanización pendientes",
+    "Previa constitución de una junta de compensación y aprobación de los estatutos y bases de actuación",
+    "Previa delimitación de una unidad de ejecución completa y aprobación del instrumento de gestión"
+   ],
+   0,
+   "Art. 132.1.",
+   "urb 132.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la normalización de fincas no podrá afectar a más de:",
+   [
+    "El quince por ciento de la superficie de la finca (y las disminuciones del aprovechamiento subjetivo no podrán superar el quince por ciento)",
+    "El veinte por ciento de la superficie de la finca, con compensación económica de los perjuicios",
+    "El diez por ciento de la superficie de la finca, sin compensación económica alguna al propietario"
+   ],
+   0,
+   "Art. 133.2.",
+   "urb 133.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la normalización de fincas procederá siempre que:",
+   [
+    "No sea necesaria la redistribución de beneficios y cargas entre propietarios afectados, pero sea preciso regularizar la configuración física de las fincas para adaptarla al planeamiento",
+    "Sea necesaria la redistribución de los beneficios y cargas de la ordenación entre los propietarios afectados",
+    "Se trate de suelo urbanizable delimitado incluido en un sector de urbanización prioritaria"
+   ],
+   0,
+   "Art. 133.1.",
+   "urb 133.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 134.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las actuaciones integradas podrán tener, entre otras, la finalidad de:",
+   [
+    "La ejecución de obras de urbanización, actuaciones de rehabilitación urbana e intervención en suelos consolidados total o parcialmente por la edificación",
+    "Completar la urbanización de parcelas sueltas de suelo urbano consolidado para que alcancen la condición de solar",
+    "Obtener licencias de obra menor y ejecutar obras aisladas previstas por el planeamiento en suelo urbano"
+   ],
+   0,
+   "Art. 134.1.",
+   "urb 134.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 137.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los proyectos de urbanización:",
+   [
+    "Incluirán todas las obras necesarias para la ejecución del planeamiento en una o varias unidades de ejecución y en ningún caso podrán contener determinaciones sobre ordenación ni régimen del suelo y de la edificación, ni modificar las previsiones del planeamiento",
+    "Pueden modificar la ordenación del planeamiento que desarrollan cuando lo exija la ejecución material",
+    "Contienen la clasificación del suelo y el régimen jurídico de la edificación en su ámbito"
+   ],
+   0,
+   "Art. 137.2.",
+   "urb 137.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 138.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las unidades de ejecución se delimitarán de forma que permitan, en todo caso:",
+   [
+    "El cumplimiento conjunto de los deberes de equidistribución, urbanización y cesión de la totalidad de su superficie; en suelo urbano no consolidado podrán ser discontinuas",
+    "El cumplimiento de la normativa de patrimonio cultural; en suelo urbano no consolidado no podrán ser discontinuas",
+    "La cesión del 30 % del suelo de la unidad; en suelo urbano no consolidado podrán ser discontinuas"
+   ],
+   0,
+   "Art. 138.1.",
+   "urb 138.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 138.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la delimitación de unidades de ejecución se contiene en el planeamiento urbanístico, pero podrán dividirse, agruparse, modificarse o suprimirse:",
+   [
+    "Por el procedimiento de aprobación de los estudios de detalle",
+    "Por decreto del Alcalde, previa audiencia de los propietarios de la unidad de ejecución afectada",
+    "Por acuerdo de los propietarios que representen más de la mitad de la superficie de la unidad"
+   ],
+   0,
+   "Art. 138.2.",
+   "urb 138.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las cargas de urbanización se distribuirán entre los propietarios:",
+   [
+    "En proporción al aprovechamiento subjetivo que les corresponda",
+    "Por partes iguales, con independencia del aprovechamiento subjetivo que corresponda a cada uno",
+    "En proporción a la superficie de sus fincas, sin atender al aprovechamiento subjetivo de cada propietario"
+   ],
+   0,
+   "Art. 139.2.",
+   "urb 139.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, se entiende por reparcelación:",
+   [
+    "La agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus derechos y de los terrenos de cesión obligatoria a la Administración",
+    "La división de una finca en dos o más parcelas ajustadas al planeamiento, a instancia del propietario",
+    "La normalización de linderos para regularizar la configuración física de las fincas sin redistribuir cargas"
+   ],
+   0,
+   "Art. 140.1.",
+   "urb 140.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, será voluntaria la propuesta de reparcelación, entre otros supuestos:",
+   [
+    "La presentada por la junta de compensación",
+    "La impuesta por el municipio",
+    "La presentada por el Consejo Provincial de Urbanismo"
+   ],
+   0,
+   "Art. 141.2 b). Será forzosa cuando el municipio la imponga y los propietarios no hayan presentado propuesta (141.3).",
+   "urb 141.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 142 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en el proyecto de reparcelación, salvo unanimidad en otros criterios, el derecho de los propietarios será:",
+   [
+    "Proporcional a la superficie de las parcelas respectivas en el momento de aprobarse la delimitación de la unidad de ejecución",
+    "Proporcional al valor catastral de las parcelas respectivas en el momento de aprobarse el proyecto",
+    "Igual para todos los propietarios, con independencia de la superficie de las parcelas aportadas"
+   ],
+   0,
+   "Art. 142 a).",
+   "urb 142",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 149.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la gestión directa por expropiación se aplicará:",
+   [
+    "Por unidades de ejecución completas, comprendiendo todos los bienes y derechos incluidos en las mismas",
+    "Por parcelas individuales, comprendiendo solo los bienes y derechos que decida el Ayuntamiento",
+    "Solo en suelo no urbanizable, comprendiendo los bienes y derechos de los propietarios que no se adhieran"
+   ],
+   0,
+   "Art. 149.1.",
+   "urb 149.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 150.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en la gestión directa por cooperación:",
+   [
+    "Los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización",
+    "Los propietarios ejecutan a su costa las obras de urbanización y aportan el suelo de cesión obligatoria",
+    "Un urbanizador privado, seleccionado en pública competencia, ejecuta las obras con cargo a los propietarios"
+   ],
+   0,
+   "Art. 150.1.",
+   "urb 150.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 150.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en el acuerdo que determine la gestión directa por cooperación podrá otorgarse a los propietarios para presentar propuesta de reparcelación voluntaria un plazo:",
+   [
+    "No superior a seis meses",
+    "No superior a un mes",
+    "No superior a un año"
+   ],
+   0,
+   "Art. 150.2.",
+   "urb 150.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 151.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en la gestión indirecta por compensación, los propietarios:",
+   [
+    "Se constituyen en junta de compensación, aportan los terrenos de cesión obligatoria mediante reparcelación y ejecutan a su costa la obra pública de urbanización",
+    "Aportan el suelo y el Ayuntamiento ejecuta las obras de urbanización con cargo a las cuotas satisfechas",
+    "Contratan un urbanizador seleccionado en pública competencia para que ejecute las obras de urbanización"
+   ],
+   0,
+   "Art. 151.2.",
+   "urb 151.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 151.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, no será precisa la constitución de junta de compensación:",
+   [
+    "Cuando todos los terrenos pertenezcan a un mismo titular o exista acuerdo de la totalidad de los propietarios, suscribiéndose convenio de gestión con el municipio",
+    "Cuando haya más de diez propietarios que representen más de la mitad de la superficie de la unidad",
+    "Nunca, pues en todo caso es obligatoria la constitución de la junta de compensación"
+   ],
+   0,
+   "Art. 151.3.",
+   "urb 151.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 152.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, para que los propietarios puedan asumir la iniciativa en el sistema de compensación, entre otros requisitos, deben representar:",
+   [
+    "Más de la mitad de la superficie de la unidad de ejecución",
+    "Más de un tercio de la superficie de la unidad de ejecución y la mayoría de los propietarios",
+    "Más de dos tercios de la superficie de la unidad de ejecución, además de la mayoría de propietarios"
+   ],
+   0,
+   "Art. 152.1 b).",
+   "urb 152.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 153.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las iniciativas en el sistema de compensación se formalizarán presentando en el Ayuntamiento, entre otra documentación:",
+   [
+    "La acreditación de la representación de más de la mitad de la superficie y los estatutos y bases de actuación del sistema",
+    "Solo los estatutos de la junta, sin necesidad de acreditar la representación de la superficie",
+    "Solo el proyecto de reparcelación, redactado por el propietario único o por todos los propietarios"
+   ],
+   0,
+   "Art. 153.1 a) y b).",
+   "urb 153.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 155.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la junta de compensación adquirirá personalidad jurídica y plena capacidad de obrar:",
+   [
+    "Con el acto constituyente, que se contrae al otorgamiento de la escritura pública de constitución",
+    "Con la inscripción de la escritura de constitución en el Registro de la Propiedad",
+    "Con la aprobación de sus estatutos y bases de actuación por el Pleno del Ayuntamiento"
+   ],
+   0,
+   "Art. 155.1.",
+   "urb 155.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 159 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en la gestión indirecta por urbanizador:",
+   [
+    "El urbanizador gestiona la ejecución del planeamiento, obteniendo su retribución de los propietarios afectados conforme al programa de urbanización",
+    "El Ayuntamiento ejecuta directamente las obras, repercutiendo su coste a los propietarios afectados",
+    "Los propietarios constituyen una junta que ejecuta la urbanización a su costa"
+   ],
+   0,
+   "Art. 159.",
+   "urb 159",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 160.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los programas de urbanización:",
+   [
+    "Organizan la ejecución del planeamiento en régimen de gestión indirecta en su ámbito, comprensivo de una o varias unidades de ejecución completas",
+    "Son instrumentos de planeamiento de desarrollo que establecen la ordenación pormenorizada de los sectores",
+    "Regulan la gestión directa por expropiación de las unidades de ejecución completas"
+   ],
+   0,
+   "Art. 160.1.",
+   "urb 160.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 160.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el transcurso del plazo total de ejecución del programa de urbanización determinará:",
+   [
+    "Su caducidad y la resolución de su adjudicación, sin perjuicio de penalizaciones y otras medidas",
+    "Su prórroga automática por un período igual al inicialmente previsto, sin penalización alguna",
+    "La reparcelación forzosa de los terrenos y el cambio al sistema de gestión directa por cooperación"
+   ],
+   0,
+   "Art. 160.3.",
+   "urb 160.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 163 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la alternativa técnica del programa de urbanización tendrá, como mínimo, entre otro contenido:",
+   [
+    "Memoria descriptiva, identificación del ámbito, bases técnicas y económicas para gestionar la ejecución y anteproyecto de urbanización",
+    "Solo el proyecto de reparcelación y la identificación de los propietarios afectados por la actuación",
+    "Solo la proposición económica, con las cargas de urbanización y la retribución del urbanizador"
+   ],
+   0,
+   "Art. 163.1.",
+   "urb 163",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 164 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la proposición jurídico-económica del programa tendrá, como mínimo, entre otro contenido:",
+   [
+    "La identificación de la alternativa técnica por la que se licita, las cargas de urbanización y la regulación de las relaciones entre el urbanizador y los propietarios",
+    "Solo las cargas de urbanización, sin necesidad de identificar la alternativa técnica licitada",
+    "El anteproyecto de urbanización y la memoria de calidades de las obras que se han de ejecutar"
+   ],
+   0,
+   "Art. 164.1.",
+   "urb 164",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 165.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el urbanizador es:",
+   [
+    "El agente público responsable de ejecutar la urbanización en la gestión indirecta, que podrá ser o no titular del suelo afectado y será seleccionado en pública competencia",
+    "El propietario mayoritario de los terrenos de la unidad, que ejecuta la urbanización a su costa",
+    "El Alcalde, que ejecuta directamente la urbanización con los medios del Ayuntamiento"
+   ],
+   0,
+   "Art. 165.1.",
+   "urb 165.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 166 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el urbanizador puede ejercer, entre otras prerrogativas y facultades:",
+   [
+    "Redactar y someter a aprobación los instrumentos urbanísticos necesarios, someter proyectos de urbanización y de reparcelación forzosa y oponerse a la parcelación y edificación en el ámbito hasta el cumplimiento del programa",
+    "Dictar licencias urbanísticas y exigir a los propietarios el pago de las cargas de urbanización",
+    "Imponer sanciones urbanísticas a los propietarios que incumplan sus deberes de cesión y urbanización"
+   ],
+   0,
+   "Art. 166 a), b), c).",
+   "urb 166",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el urbanizador que incumpla sus obligaciones adeudará al municipio, en caso de resolución del programa:",
+   [
+    "El valor de las retribuciones ya percibidas, previo descuento del de las obras realizadas",
+    "El diez por ciento del presupuesto de la urbanización, en concepto de penalización por incumplimiento",
+    "El valor íntegro de la urbanización prevista en el programa, sin descuento de las obras realizadas"
+   ],
+   0,
+   "Art. 168.1 a).",
+   "urb 168.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, podrán redactar y promover programas de urbanización:",
+   [
+    "Los municipios y sus entidades, las restantes Administraciones públicas para el ejercicio de sus competencias y los particulares, sean o no propietarios de los terrenos",
+    "Solo los propietarios de los terrenos afectados, constituidos en agrupación de interés urbanístico",
+    "Solo los municipios y los organismos o entidades de ellos dependientes, para su planeamiento"
+   ],
+   0,
+   "Art. 173.1.",
+   "urb 173.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los municipios, mediante Ordenanza, aprobarán:",
+   [
+    "Bases generales para la adjudicación de programas de urbanización, fijando el valor ponderado de los criterios que establezcan",
+    "El plan general, que establece la clasificación del suelo y el modelo de evolución urbana del municipio",
+    "Los estatutos de las juntas de compensación y los modelos de convenios de gestión urbanística"
+   ],
+   0,
+   "Art. 174.1.",
+   "urb 174.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 179.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, tras la selección de la alternativa técnica, y con una separación temporal mínima de cinco días del acuerdo de selección, el municipio procederá a la apertura de las plicas; las actuaciones podrán ser objeto de consulta y alegación durante:",
+   [
+    "Los diez días siguientes, durante los cuales los competidores podrán asociarse unificando sus proposiciones",
+    "Los quince días siguientes, durante los cuales los competidores no podrán modificar sus proposiciones",
+    "El mes siguiente, durante el cual los propietarios podrán formular alegaciones y retirar sus terrenos"
+   ],
+   0,
+   "Art. 179.1.",
+   "urb 179.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 217.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el propietario de solares y construcciones en ruina o inadecuadas deberá edificarlos o cesar el uso inadecuado en los plazos que fijen los instrumentos urbanísticos y, en su defecto, en el de:",
+   [
+    "Dos años contados desde que la parcela merezca la calificación de solar o desde la declaración de ruina o inadecuación",
+    "Un año contado desde que la parcela merezca la calificación de solar o desde la declaración de ruina",
+    "Cuatro años contados desde que la parcela merezca la calificación de solar o la declaración de ruina"
+   ],
+   0,
+   "Art. 217.1.",
+   "urb 217.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 217.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el municipio podrá prorrogar los plazos del deber de edificar, por causa debidamente motivada:",
+   [
+    "Por un período máximo igual a los mismos",
+    "Por un año",
+    "Por cinco años"
+   ],
+   0,
+   "Art. 217.3.",
+   "urb 217.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 219 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el incumplimiento del deber de edificar habilitará al municipio para decretar, previa audiencia del obligado:",
+   [
+    "La expropiación por incumplimiento de la función social de la propiedad o proceder a la ejecución del planeamiento mediante sustitución del propietario",
+    "La demolición de la finca y la imposición de una multa coercitiva al propietario incumplidor",
+    "La suspensión del otorgamiento de licencias en todo el municipio mientras dure el procedimiento"
+   ],
+   0,
+   "Art. 219.",
+   "urb 219",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 220.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, declarado el incumplimiento del deber de edificar, se requerirá al propietario para que lo cumpla; transcurridos seis meses desde el requerimiento:",
+   [
+    "La parcela o solar quedará por ministerio de la Ley en situación de ejecución por sustitución, aunque debe haber resolución expresa y notificada",
+    "Se archivará el procedimiento y el propietario dispondrá de un nuevo plazo de dos años para edificar",
+    "Se expropiará automáticamente la parcela o solar, sin necesidad de resolución expresa"
+   ],
+   0,
+   "Art. 220.2.",
+   "urb 220.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 225 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los actos de transformación, construcción, edificación y uso del suelo y el subsuelo requerirán para su lícito ejercicio:",
+   [
+    "Licencia, declaración responsable o comunicación previa",
+    "Solo licencia urbanística, quedando excluidas la declaración responsable y la comunicación previa",
+    "Licencia, declaración responsable o comunicación previa y, además, orden de ejecución municipal"
+   ],
+   0,
+   "Art. 225.",
+   "urb 225",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 8",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 226.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la licencia urbanística es:",
+   [
+    "El acto administrativo por el que el Alcalde autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o subsuelo, expresando el objeto, condiciones y plazos de ejercicio",
+    "El acto del Pleno por el que se aprueba un plan o un instrumento de gestión urbanística",
+    "El documento mediante el cual el particular declara que cumple los requisitos y se compromete a mantenerlos"
+   ],
+   0,
+   "Art. 226.1.",
+   "urb 226.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 226.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, están sujetos a licencia urbanística, entre otros actos:",
+   [
+    "Movimientos de tierra, explanaciones, parcelaciones y segregaciones, obras de edificación de nueva planta y de ampliación o reforma que alteren la configuración arquitectónica",
+    "Todas las obras de escasa entidad constructiva y sencillez técnica que no tengan carácter residencial",
+    "Las obras menores que no alteren la configuración arquitectónica ni afecten a elementos estructurales"
+   ],
+   0,
+   "Art. 226.2.",
+   "urb 226.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 227.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la declaración responsable en materia de urbanismo es:",
+   [
+    "El documento en el que cualquier persona manifiesta bajo su responsabilidad al Alcalde que cumple los requisitos para realizar uno de los actos enumerados, dispone de la documentación acreditativa y se compromete a mantener el cumplimiento",
+    "La autorización expresa del Alcalde para realizar actos de transformación o uso del suelo o subsuelo",
+    "El acto administrativo que aprueba el planeamiento y legitima los actos de edificación que desarrollen"
+   ],
+   0,
+   "Art. 227.1.",
+   "urb 227.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 228.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la comunicación previa en materia de urbanismo es:",
+   [
+    "El documento en el que cualquier persona pone en conocimiento del Alcalde que reúne los requisitos para realizar un acto de transformación, construcción, edificación o uso del suelo que no está sujeto ni a declaración responsable ni a licencia",
+    "El documento que sustituye a la licencia de obra mayor y legitima la ejecución de las obras",
+    "La solicitud de licencia presentada por el interesado para que el Alcalde resuelva expresamente"
+   ],
+   0,
+   "Art. 228.1.",
+   "urb 228.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 229 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la licencia legitima para la realización de su objeto desde la fecha en que sea formalmente adoptada por el Alcalde; la declaración responsable y la comunicación previa legitiman:",
+   [
+    "Desde el día de su presentación en el registro general del municipio",
+    "Desde que el Alcalde las admita expresamente, mediante resolución notificada al interesado",
+    "Desde que transcurra un mes desde su presentación sin que el Ayuntamiento formule objeción"
+   ],
+   0,
+   "Art. 229.",
+   "urb 229",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 230.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el municipio podrá inspeccionar la ejecución de los actos de transformación, construcción, edificación y uso del suelo:",
+   [
+    "En cualquier momento, para comprobar que se realizan conforme a la licencia o declaración responsable y a la legalidad y planeamiento",
+    "Solo a petición del interesado, para comprobar que las obras se ajustan a lo declarado",
+    "Solo tras la finalización de las obras, en el momento de expedir el certificado final"
+   ],
+   0,
+   "Art. 230.1.",
+   "urb 230.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 231.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, cuando un mismo acto requiera licencia urbanística y autorización municipal relativa a la adecuación de las obras al ejercicio de una actividad:",
+   [
+    "Serán objeto de resolución única, sin perjuicio de la formación de piezas separadas para cada intervención administrativa",
+    "Se resolverán por separado en cada caso, sin formar piezas separadas para cada intervención",
+    "Se tramitará solo la licencia de actividad, quedando absorbida la licencia urbanística en ésta"
+   ],
+   0,
+   "Art. 231.1.",
+   "urb 231.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 232 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las licencias se otorgarán de acuerdo con las previsiones de la legislación y el planeamiento urbanísticos vigentes:",
+   [
+    "En el momento de la resolución, siempre que se produzca dentro del plazo legalmente establecido, y dejando a salvo el derecho de propiedad y sin perjuicio de tercero",
+    "En el momento de la solicitud, aunque la resolución se produzca fuera del plazo legalmente establecido",
+    "En el momento de la aprobación inicial del planeamiento que haya de aplicarse al caso"
+   ],
+   0,
+   "Art. 232.",
+   "urb 232",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 233.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, cuando una licencia de edificación obtenida resulte incompatible con un nuevo plan, si la edificación ya está iniciada el municipio:",
+   [
+    "Podrá revocar la licencia o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación",
+    "Debe permitir en todo caso la terminación de las obras, sin posibilidad de revocar la licencia",
+    "Debe ordenar la demolición de lo edificado, sin indemnización alguna para el interesado"
+   ],
+   0,
+   "Art. 233.1 a). Si no se ha iniciado la edificación, procederá la revocación.",
+   "urb 233.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 234.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, para promover la edificación con simultánea urbanización los solicitantes deberán acreditar la disponibilidad civil sobre terrenos suficientes y que edificarán en el plazo de la licencia o, en su defecto, en plazo inferior a:",
+   [
+    "Tres años",
+    "Dos años",
+    "Cinco años"
+   ],
+   0,
+   "Art. 234.2.",
+   "urb 234.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 238.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las licencias urbanísticas habrán de otorgarse en el plazo máximo de:",
+   [
+    "Tres meses",
+    "Un mes",
+    "Seis meses"
+   ],
+   0,
+   "Art. 238.3.",
+   "urb 238.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 239 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en los supuestos de sujeción a licencia urbanística, transcurrido el plazo de resolución sin haberse notificado ésta:",
+   [
+    "El interesado podrá entender desestimada su petición por silencio administrativo, en los términos de la legislación básica estatal",
+    "Se entiende estimada por silencio positivo, salvo que afecte al dominio público",
+    "Se entiende caducado el procedimiento y debe presentarse una nueva solicitud"
+   ],
+   0,
+   "Art. 239.",
+   "urb 239",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 241 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, se considera parcelación urbanística:",
+   [
+    "Toda división o segregación simultánea o sucesiva de terrenos en dos o más lotes, cuando tenga por finalidad permitir o facilitar actos de edificación o uso del suelo sometidos a licencia urbanística",
+    "Toda división de terrenos con finalidad exclusivamente vinculada a la explotación agraria de la tierra",
+    "La normalización de fincas que define nuevos linderos conforme al planeamiento urbanístico"
+   ],
+   0,
+   "Art. 241.2. La rústica: finalidad exclusivamente agraria (241.1).",
+   "urb 241",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 241.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los Notarios y Registradores de la Propiedad exigirán para autorizar e inscribir escrituras de división de terrenos:",
+   [
+    "Que se acredite el otorgamiento de la licencia o la declaración municipal de su innecesariedad",
+    "Informe del Consejo Provincial de Urbanismo sobre la adecuación de la parcelación al planeamiento",
+    "Autorización del Registro de Entidades Urbanísticas Colaboradoras, previa a la escritura"
+   ],
+   0,
+   "Art. 241.3.",
+   "urb 241.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 242.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en defecto de caracterización más estricta en el planeamiento, se considera núcleo de población:",
+   [
+    "La agrupación de edificaciones residenciales susceptibles de necesitar servicios urbanísticos y dotaciones comunes",
+    "Cualquier edificación aislada de uso residencial, con independencia de su relación con otras",
+    "Un conjunto de más de diez parcelas con acceso común a una vía de uso público"
+   ],
+   0,
+   "Art. 242.2.",
+   "urb 242.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 243.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, no podrá realizarse parcelación alguna que dé lugar a lotes de superficie inferior a las mínimas determinadas en el planeamiento o la legislación sectorial, salvo que:",
+   [
+    "Dichos lotes sean adquiridos simultáneamente por los propietarios de terrenos colindantes con el fin de agruparlos con sus fincas para constituir una nueva",
+    "Los autorice el Alcalde mediante resolución motivada, por razones de interés público",
+    "Se destinen a uso industrial vinculado a las explotaciones agrarias existentes en el municipio"
+   ],
+   0,
+   "Art. 243.1.",
+   "urb 243.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 260.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las edificaciones de uso predominantemente residencial con una antigüedad superior a cincuenta años situadas en municipios de más de veinticinco mil habitantes deberán pasar una inspección dirigida a determinar su estado de conservación:",
+   [
+    "Cada quince años",
+    "Cada diez años",
+    "Cada cinco años"
+   ],
+   0,
+   "Art. 260.1.",
+   "urb 260.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 261.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, cuando alguna construcción o parte de ella estuviere en estado ruinoso, el municipio, de oficio o a instancia de cualquier interesado:",
+   [
+    "Declarará esta situación y acordará la total o parcial demolición, previa audiencia del propietario y de los moradores, salvo inminente peligro que lo impidiera",
+    "Ordenará su reparación a cargo del municipio, sin audiencia del propietario ni de los moradores",
+    "Archivará el expediente, al no ser competente el municipio para declarar la situación de ruina"
+   ],
+   0,
+   "Art. 261.1.",
+   "urb 261.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 261.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, procederá la declaración de situación legal de ruina cuando:",
+   [
+    "El coste de las reparaciones necesarias para asegurar estabilidad, seguridad, estanqueidad y consolidación estructurales, devolver salubridad o recuperar condiciones mínimas para un uso compatible con el planeamiento supere el límite del deber normal de conservación",
+    "El edificio tenga más de cincuenta años y esté situado en un municipio de más de 25.000 habitantes",
+    "El propietario lo solicite y acredite que no puede costear las reparaciones necesarias"
+   ],
+   0,
+   "Art. 261.2 a).",
+   "urb 261.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 262 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, cuando una construcción amenace con derruirse de modo inminente, con peligro para la seguridad pública o el patrimonio protegido:",
+   [
+    "El Alcalde estará habilitado para disponer todas las medidas precisas, incluido el apuntalamiento, desalojo y demoliciones totales o parciales; estas medidas no presuponen la declaración de ruina",
+    "El Pleno deba declarar previamente la ruina y acordar el desalojo de los ocupantes",
+    "El Alcalde solo pueda ordenar el desalojo con autorización judicial previa y audiencia del propietario"
+   ],
+   0,
+   "Art. 262.1 y 3.",
+   "urb 262",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 264.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la actividad de inspección urbanística será ejercida:",
+   [
+    "Por los municipios, las comarcas y la Comunidad Autónoma dentro de su ámbito de competencias y de forma coordinada",
+    "Solo por la Comunidad Autónoma, que ejerce la inspección sobre todo el territorio aragonés",
+    "Solo por los municipios, sin intervención de las comarcas ni de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 264.1.",
+   "urb 264.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 265.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, los inspectores urbanísticos tienen la condición de:",
+   [
+    "Agentes de la autoridad, pudiendo solicitar apoyo de las Fuerzas y Cuerpos de Seguridad; para entrar en un domicilio necesitan autorización judicial salvo consentimiento del afectado",
+    "Funcionarios sin carácter de autoridad, que no pueden solicitar apoyo de otras autoridades",
+    "Peritos de parte, que deben acreditar su condición mediante la correspondiente credencial"
+   ],
+   0,
+   "Art. 265.1.",
+   "urb 265.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 266.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las actas y diligencias extendidas por los inspectores urbanísticos:",
+   [
+    "Tienen la naturaleza de documentos públicos y constituyen prueba de los hechos que motiven su formalización, salvo que se acredite lo contrario",
+    "No tienen valor probatorio, salvo que sean ratificados ante el órgano que instruya el procedimiento",
+    "Hacen prueba plena e irrefutable de los hechos que motiven su formalización"
+   ],
+   0,
+   "Art. 266.1.",
+   "urb 266.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 268.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, cuando se estuviera realizando algún acto sin título habilitante urbanístico o contra sus condiciones, el Alcalde dispondrá:",
+   [
+    "Su paralización inmediata y, previo expediente, adoptará alguno de los acuerdos del artículo (demolición/cesación si son incompatibles con la ordenación, o requerimiento para legalizar si pudieran ser compatibles)",
+    "Su sanción inmediata sin paralización de los actos que se estén realizando sin título",
+    "Su legalización automática, al entenderse otorgada la licencia por el transcurso del plazo"
+   ],
+   0,
+   "Art. 268.1.",
+   "urb 268.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 268.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, si las obras en curso sin título pudieran ser compatibles con la ordenación vigente, el Alcalde requerirá al interesado para que inicie la tramitación del título habilitante en el plazo de:",
+   [
+    "Dos meses",
+    "Un mes",
+    "Seis meses"
+   ],
+   0,
+   "Art. 268.1 b).",
+   "urb 268.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 269.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, salvo prueba en contrario, se presumirá como fecha de finalización de las obras:",
+   [
+    "La de comprobación de esa circunstancia por la Administración",
+    "La fecha de otorgamiento de la licencia, aunque las obras se hubieran terminado con posterioridad",
+    "La fecha de la denuncia presentada por los vecinos ante el Ayuntamiento"
+   ],
+   0,
+   "Art. 269.2.",
+   "urb 269.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 270.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, la resolución que ponga fin al procedimiento de restablecimiento de la legalidad urbanística otorgará un plazo para el cumplimiento voluntario, advirtiéndose que, en caso de incumplimiento:",
+   [
+    "La Administración procederá a la ejecución forzosa mediante ejecución subsidiaria y la imposición de multas coercitivas",
+    "Se archivará el expediente al tratarse de una actuación sin título habilitante ya finalizada",
+    "Se impondrá solo una sanción, sin posibilidad de ejecución forzosa ni multas coercitivas"
+   ],
+   0,
+   "Art. 270.1.",
+   "urb 270.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 271.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el Alcalde dispondrá la suspensión de los efectos de títulos habilitantes de naturaleza urbanística, órdenes de ejecución o instrumentos de ejecución y la paralización inmediata de las obras iniciadas a su amparo, cuando el contenido de dichos actos constituya:",
+   [
+    "Manifiestamente una infracción urbanística grave o muy grave",
+    "Una infracción urbanística anulable",
+    "Una infracción urbanística nula de pleno derecho"
+   ],
+   0,
+   "Art. 271.1.",
+   "urb 271.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 44",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 271.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el Alcalde, tras suspender los efectos de un título manifiestamente ilegal, dará traslado directo del acuerdo de suspensión al órgano judicial competente en el plazo de:",
+   [
+    "Diez días",
+    "Cinco días",
+    "Un mes"
+   ],
+   0,
+   "Art. 271.2.",
+   "urb 271.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 272.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el órgano comarcal competente podrá subrogarse en el ejercicio de las competencias de protección de la legalidad urbanística del Alcalde, previo requerimiento, en caso de inactividad municipal por plazo de:",
+   [
+    "Un mes",
+    "Tres meses",
+    "Quince días"
+   ],
+   0,
+   "Art. 272.1.",
+   "urb 272.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 272.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el Director General competente en urbanismo podrá ejercer directamente las competencias de protección de la legalidad en el supuesto de:",
+   [
+    "Infracciones muy graves que afecten a dominio público autonómico, sistema general supralocal, suelo no urbanizable especial o bienes protegidos por la legislación de patrimonio histórico",
+    "Cualquier infracción leve que afecte a bienes de dominio público de titularidad autonómica",
+    "Infracciones graves cometidas en suelo urbano consolidado que afecten a la ordenación estructural"
+   ],
+   0,
+   "Art. 272.2.",
+   "urb 272.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 273.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las licencias u órdenes de ejecución otorgadas con infracción de la zonificación o uso urbanístico de los terrenos destinados a sistemas generales, zonas verdes o espacios libres previstos en los planes serán:",
+   [
+    "Nulas de pleno derecho",
+    "Anulables",
+    "Válidas hasta su impugnación"
+   ],
+   0,
+   "Art. 273.3.",
+   "urb 273.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 274.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, las órdenes de suspensión, paralización o demolición de obras, usos o edificaciones podrán ordenar:",
+   [
+    "La suspensión de suministros de energía, agua, gas y telefonía, notificándolo a las empresas suministradoras",
+    "Solo la paralización de las obras, sin afectar a los suministros de las empresas suministradoras",
+    "El embargo de la parcela y la anotación preventiva de la orden en el Registro de la Propiedad"
+   ],
+   0,
+   "Art. 274.1.",
+   "urb 274.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 277 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, constituyen infracciones administrativas leves en materia urbanística, sancionadas con multa de:",
+   [
+    "Seiscientos a seis mil euros",
+    "Seis mil euros y un céntimo a sesenta mil euros",
+    "Sesenta mil euros y un céntimo a trescientos mil euros"
+   ],
+   0,
+   "Art. 277.",
+   "urb 277",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 278 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, constituyen infracciones administrativas graves en materia urbanística, sancionadas con multa de:",
+   [
+    "Seis mil euros y un céntimo a sesenta mil euros",
+    "Seiscientos a seis mil euros",
+    "Sesenta mil euros y un céntimo a trescientos mil euros"
+   ],
+   0,
+   "Art. 278.",
+   "urb 278",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 279 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, constituyen infracciones administrativas muy graves en materia urbanística, sancionadas con multa de:",
+   [
+    "Sesenta mil euros y un céntimo a trescientos mil euros",
+    "Seis mil euros y un céntimo a sesenta mil euros",
+    "Trescientos mil euros y un céntimo a seiscientos mil euros"
+   ],
+   0,
+   "Art. 279.",
+   "urb 279",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 279 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, constituye infracción muy grave:",
+   [
+    "La realización de parcelaciones urbanísticas en suelo urbanizable no delimitado y en suelo no urbanizable cuando pudieran dar lugar a un núcleo de población",
+    "La realización de actos de parcelación rústica que sean legalizables o de escasa entidad",
+    "El incumplimiento del deber de conservación de edificaciones de escasa entidad"
+   ],
+   0,
+   "Art. 279 a).",
+   "urb 279",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 280.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en las infracciones en materia de urbanización, uso del suelo y edificación serán responsables:",
+   [
+    "La junta de compensación, el urbanizador, el promotor, el constructor y los técnicos directores",
+    "Solo el propietario de los terrenos, al ser el titular de los deberes de conservación y edificación",
+    "Solo el constructor, que ejecuta materialmente las obras sin título habilitante o contra sus condiciones"
+   ],
+   0,
+   "Art. 280.1.",
+   "urb 280.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 280.4 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en las infracciones al deber de conservación serán responsables:",
+   [
+    "Los propietarios de las edificaciones o instalaciones",
+    "Los arrendatarios o usuarios de las edificaciones o instalaciones que las ocupen",
+    "El municipio, que debe velar por el ornato y la seguridad de las edificaciones en su término"
+   ],
+   0,
+   "Art. 280.4.",
+   "urb 280.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 281.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, si las actividades constitutivas de infracción urbanística se hacen al amparo de un título habilitante y de acuerdo con sus determinaciones:",
+   [
+    "No se puede imponer ninguna sanción mientras no se anule el acto administrativo que las autoriza; el procedimiento de anulación interrumpe el plazo de prescripción",
+    "Se sanciona igualmente, aunque la actividad se haya realizado conforme a las determinaciones del título",
+    "Se sanciona con la mitad de la multa, al haber actuado el infractor al amparo de un título habilitante"
+   ],
+   0,
+   "Art. 281.1.",
+   "urb 281.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 282.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en ningún caso la infracción puede suponer un beneficio económico para el infractor; por ello:",
+   [
+    "La Administración, al imponer la sanción, deberá además cuantificar dicho beneficio e imponer su pago al infractor",
+    "La sanción se reducirá a la mitad cuando el beneficio económico obtenido sea de escasa cuantía",
+    "Se condonará el beneficio obtenido por el infractor cuando éste restituya la realidad alterada"
+   ],
+   0,
+   "Art. 282.2.",
+   "urb 282.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 282.5 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, será circunstancia eximente:",
+   [
+    "La completa y voluntaria reposición de la realidad física ilegalmente alterada y la reparación de los daños causados, realizada antes del inicio del procedimiento sancionador",
+    "El desconocimiento de la norma por el infractor, acreditado mediante informe técnico municipal",
+    "La inexistencia de beneficio económico para el infractor derivado de la infracción cometida"
+   ],
+   0,
+   "Art. 282.5.",
+   "urb 282.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 283.3 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, en infracciones graves o muy graves cometidas por un agente urbanizador, podrá imponerse como sanción accesoria la inhabilitación para actuar como urbanizador por un tiempo:",
+   [
+    "Mínimo de un año y no superior a cinco años",
+    "Mínimo de seis meses y no superior a dos años",
+    "Mínimo de cinco años y no superior a diez años"
+   ],
+   0,
+   "Art. 283.3.",
+   "urb 283.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 284.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el plazo de prescripción para las infracciones urbanísticas leves, graves y muy graves es, respectivamente, de:",
+   [
+    "Un año, cuatro años y diez años",
+    "Seis meses, dos años y cuatro años",
+    "Dos años, cuatro años y ocho años"
+   ],
+   0,
+   "Art. 284.1.",
+   "urb 284.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 284.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el plazo de prescripción de las infracciones urbanísticas se computará:",
+   [
+    "Desde la fecha en que se hubieran cometido los hechos o, si fuere desconocida, desde la fecha en que hubiera podido incoarse el procedimiento sancionador",
+    "Desde la notificación de la sanción al infractor, con independencia de la fecha de comisión",
+    "Desde la terminación de las obras, siempre, aunque fuera conocida la fecha de los hechos"
+   ],
+   0,
+   "Art. 284.2.",
+   "urb 284.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 285.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, corresponde sancionar las infracciones urbanísticas leves y las graves y muy graves, respectivamente:",
+   [
+    "Al Alcalde y al Ayuntamiento Pleno",
+    "Al Pleno y al Alcalde",
+    "Al Alcalde y al Consejo Provincial de Urbanismo"
+   ],
+   0,
+   "Art. 285.1.",
+   "urb 285.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 285.2 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, el órgano comarcal podrá subrogarse en la competencia sancionadora por infracciones graves y muy graves cuando, tras requerir al municipio, éste no inicie el expediente en el plazo del mes siguiente o lo mantenga paralizado por más de:",
+   [
+    "Tres meses",
+    "Seis meses",
+    "Un mes"
+   ],
+   0,
+   "Art. 285.2.",
+   "urb 285.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

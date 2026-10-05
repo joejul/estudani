@@ -64,7 +64,128 @@
     "Actuaciones previas (55) · denuncia (62)",
     "Subsanación 10 días, desistimiento (68)"
    ],
-   "ic": "🚦"
+   "ic": "🚦",
+   "articulos": [
+    [
+     "lpac",
+     "53",
+     "Derechos del interesado en el procedimiento administrativo",
+     "**Todo interesado** tiene derecho a: **a)** conocer **en cualquier momento** el estado de la tramitación, el **sentido del silencio**, el **órgano instructor y resolutor** y los **actos de trámite**, y **acceder y obtener copia** de los documentos; **b)** **identificar** a autoridades y personal que tramitan; **c)** **no presentar originales** (y, si debe hacerlo, obtener **copia autenticada**); **d)** **no presentar datos y documentos** ya en poder de las Administraciones; **e)** **formular alegaciones** y aportar documentos **antes del trámite de audiencia**; **f)** **información y orientación** sobre requisitos; **g)** **actuar asistido de asesor**; **h)** **pagar por medios electrónicos** (art. 98.2); **i)** otros que reconozcan la Constitución y las leyes. **En procedimientos sancionadores**, el presunto responsable tiene además: **a)** ser **notificado** de los hechos, infracciones, sanciones, instructor, autoridad competente y norma que le da competencia; **b)** **presunción de no existencia de responsabilidad** mientras no se demuestre lo contrario. Ojo: *exigir responsabilidades a la Administración* está en el **art. 13**, no aquí.",
+     "¿Qué derechos añade el art. 53.2 cuando el procedimiento es sancionador?"
+    ],
+    [
+     "lpac",
+     "54",
+     "Clases de iniciación: de oficio o a solicitud",
+     "Los procedimientos solo pueden iniciarse **de oficio** (por la Administración) o **a solicitud del interesado**.",
+     "¿De qué dos formas puede iniciarse un procedimiento?"
+    ],
+    [
+     "lpac",
+     "55",
+     "Información y actuaciones previas antes de iniciar",
+     "Antes de iniciar, el órgano competente **puede abrir un período de información o actuaciones previas** para conocer el caso y ver **si conviene iniciar** el procedimiento. En los **sancionadores**, esas actuaciones buscan **hechos susceptibles de motivar la incoación, personas responsables y circunstancias relevantes**; las hacen los órganos de **investigación, averiguación e inspección** y, si no los hay, el órgano que designe el competente para iniciar o resolver.",
+     "¿Para qué sirven las actuaciones previas y quién las realiza en un procedimiento sancionador?"
+    ],
+    [
+     "lpac",
+     "56",
+     "Medidas provisionales: cuándo y cuáles pueden adoptarse",
+     "**Iniciado** el procedimiento, el órgano que resuelve puede adoptar **motivadamente** medidas provisionales para **asegurar la eficacia** de la resolución (proporcionalidad, efectividad, menor onerosidad). **Antes** de iniciar solo en **urgencia inaplazable**: deben **confirmarse, modificarse o levantarse en el acuerdo de iniciación**, que debe dictarse **en quince días**; si no se inicia en ese plazo o no se pronuncia, **quedan sin efecto**. Ejemplos: **suspensión temporal de actividades**, **fianzas**, **retirada o intervención de bienes**, **embargo preventivo**, **depósito o retención de cosa mueble**, **consignación de cantidades**, **retención de ingresos a cuenta**. **No se pueden** adoptar si causan **perjuicio de difícil o imposible reparación** o violan derechos. Pueden **alzarse o modificarse** y **se extinguen** cuando surte efecto la resolución final.",
+     "Si se adopta una medida provisional antes de iniciar el procedimiento, ¿en qué plazo debe dictarse el acuerdo de iniciación?"
+    ],
+    [
+     "lpac",
+     "57",
+     "Acumulación de procedimientos con identidad o conexión",
+     "El órgano que inicia o tramita puede acordar, **de oficio o a instancia de parte**, la **acumulación** de procedimientos con **identidad sustancial o íntima conexión**, siempre que **el mismo órgano** deba tramitar y resolver. **No cabe recurso** contra el acuerdo de acumulación.",
+     "¿Cabe recurso contra el acuerdo de acumulación?"
+    ],
+    [
+     "lpac",
+     "58",
+     "Iniciación de oficio: las cuatro formas",
+     "Se inicia **de oficio por acuerdo del órgano competente**, ya sea por **propia iniciativa**, por **orden superior**, por **petición razonada** de otros órganos o por **denuncia**.",
+     "¿Cuáles son las cuatro vías de inicio de oficio?"
+    ],
+    [
+     "lpac",
+     "59",
+     "Inicio a propia iniciativa: conocimiento directo o indirecto",
+     "**Propia iniciativa** es la actuación derivada del **conocimiento directo o indirecto** de los hechos por el **órgano que tiene la competencia de iniciación**.",
+     "¿Qué es el inicio a propia iniciativa?"
+    ],
+    [
+     "lpac",
+     "60",
+     "Inicio por orden superior jerárquico",
+     "**Orden superior** es la emitida por un órgano **superior jerárquico** del competente para iniciar. En los **sancionadores**, debe expresar, en lo posible, **responsables, hechos y su tipificación, y lugar y fecha** de los hechos.",
+     "¿Qué debe expresar la orden superior en un procedimiento sancionador?"
+    ],
+    [
+     "lpac",
+     "61",
+     "Inicio por petición razonada de otro órgano",
+     "**Petición razonada** es la propuesta de inicio hecha por un órgano **sin competencia para iniciar** que ha conocido los hechos. **No vincula** al órgano competente, que debe **comunicar los motivos** si no inicia. En **sancionadores** especifica responsables, hechos y tipificación; en **responsabilidad patrimonial** individualiza la **lesión**, la **relación de causalidad**, su **evaluación económica** (si es posible) y **cuándo** se produjo.",
+     "¿Vincula la petición razonada al órgano competente para iniciar?"
+    ],
+    [
+     "lpac",
+     "62",
+     "Inicio por denuncia: contenido y efectos",
+     "**Denuncia** = comunicar a un órgano un hecho que podría justificar la **iniciación de oficio**. Debe expresar la **identidad** de quien denuncia y el **relato de hechos** (si pueden ser infracción: **fecha** y, si es posible, **presuntos responsables**). Si invoca un **perjuicio al patrimonio público**, **no iniciar debe motivarse** y se **notifica** al denunciante. El denunciante que participó en la infracción puede quedar **exento o ver reducida la sanción** si aporta pruebas y cumple los requisitos. **Denunciar no da por sí solo la condición de interesado**.",
+     "¿Convierte la presentación de una denuncia al denunciante en interesado?"
+    ],
+    [
+     "lpac",
+     "63",
+     "Especialidades del inicio de procedimientos sancionadores",
+     "Los **sancionadores** se inician **siempre de oficio por acuerdo del órgano competente** y separan la **fase instructora** de la **sancionadora**, encomendadas a **órganos distintos**. **Nunca** se impone una sanción **sin procedimiento**. **No se inician nuevos procedimientos** por conductas que el infractor continúa cometiendo **mientras no haya una primera resolución sancionadora ejecutiva**.",
+     "¿Pueden instruir y sancionar el mismo órgano en un procedimiento sancionador?"
+    ],
+    [
+     "lpac",
+     "64",
+     "Acuerdo de iniciación del procedimiento sancionador y su contenido",
+     "El acuerdo se **comunica al instructor** (con las actuaciones existentes) y se **notifica a los interesados**, incluido siempre el **inculpado**; al **denunciante** si la norma lo prevé. Contenido mínimo: **a)** presuntos responsables; **b)** hechos, **posible calificación** y sanciones; **c)** **instructor y secretario** y régimen de **recusación**; **d)** **órgano competente** y norma, y posibilidad de **reconocer voluntariamente** la responsabilidad (art. 85); **e)** **medidas provisionales**; **f)** derecho a **alegaciones y audiencia** y plazos, y que si no se alega el acuerdo **podrá considerarse propuesta de resolución** si contiene pronunciamiento preciso. **Excepcionalmente**, si faltan elementos para calificar los hechos, la calificación se hace después mediante un **pliego de cargos**, que se **notifica**.",
+     "¿Qué es el pliego de cargos y cuándo se utiliza?"
+    ],
+    [
+     "lpac",
+     "65",
+     "Inicio de oficio de la responsabilidad patrimonial",
+     "Para iniciar **de oficio** un procedimiento de responsabilidad patrimonial **no debe haber prescrito** el derecho a reclamar (art. 67). Se **notifica** a los particulares presuntamente lesionados, con **diez días** para alegaciones, documentos y pruebas. El procedimiento **se instruye aunque no se personen**.",
+     "¿Se instruye el procedimiento de oficio si los lesionados no se personan en diez días?"
+    ],
+    [
+     "lpac",
+     "66",
+     "Contenido de las solicitudes de iniciación",
+     "La solicitud debe contener: **a)** **nombre y apellidos** del interesado (y representante); **b)** **medio electrónico o lugar físico** para notificar (y, opcionalmente, correo o dispositivo para **avisos**); **c)** **hechos, razones y petición**; **d)** **lugar y fecha**; **e)** **firma** o acreditación de su voluntad; **f)** **órgano, centro o unidad** destinatario y su **código de identificación** (las oficinas de asistencia lo facilitan). Varias pretensiones **idénticas o muy parecidas** pueden ir en **una sola solicitud**. Se puede exigir **recibo** con **fecha y hora**. Los **modelos específicos** fijados para un procedimiento son de **uso obligatorio**.",
+     "¿Qué seis datos debe incluir toda solicitud de iniciación?"
+    ],
+    [
+     "lpac",
+     "67",
+     "Solicitudes en responsabilidad patrimonial: prescripción al año",
+     "Solo se puede solicitar mientras **no haya prescrito** el derecho a reclamar: **un año** desde el hecho o su efecto lesivo. En **daños físicos o psíquicos**, desde la **curación o determinación de las secuelas**. Si procede por **anulación en vía administrativa o contenciosa** de un acto o disposición general, **un año desde la notificación** de la resolución o sentencia firme. La solicitud añade a lo del art. 66: **lesiones, relación de causalidad, evaluación económica** (si es posible), **momento** de la lesión, alegaciones, documentos y **proposición de prueba**.",
+     "¿En cuánto tiempo prescribe el derecho a reclamar una indemnización por responsabilidad patrimonial?"
+    ],
+    [
+     "lpac",
+     "68",
+     "Subsanación y mejora de la solicitud: diez días",
+     "Si la solicitud **no reúne los requisitos** de los arts. 66 y 67 (u otros), se **requiere al interesado** para que en **diez días** subsane o acompañe los documentos preceptivos, **con la advertencia** de que si no lo hace se le tendrá **por desistido** (previa resolución del art. 21). Salvo en **procedimientos selectivos o de concurrencia competitiva**, el plazo puede **ampliarse hasta cinco días** si hay dificultades especiales. El órgano puede pedir **modificación o mejora voluntarias** (se levanta **acta sucinta**). Si un **obligado a lo electrónico** (art. 14.2 y 14.3) presenta **presencialmente**, se le requiere subsanar por **vía electrónica** y la fecha de presentación es la **de la subsanación**.",
+     "¿Qué ocurre si el interesado no subsana la solicitud en diez días?"
+    ],
+    [
+     "lpac",
+     "69",
+     "Declaración responsable y comunicación: qué son y efectos",
+     "**Declaración responsable:** documento en que el interesado **manifiesta bajo su responsabilidad** que cumple los requisitos, que **dispone de la documentación** y que la **pondrá a disposición** de la Administración si se la pide, y que **mantendrá el cumplimiento**. **Comunicación:** documento que pone en conocimiento de la Administración **datos identificativos o relevantes** para iniciar una actividad o ejercer un derecho. Permiten el ejercicio del derecho o el inicio de la actividad **desde el día de su presentación**, sin perjuicio de la **comprobación, control e inspección**. La **inexactitud, falsedad u omisión esencial** impide continuar con el derecho o actividad. **Solo se puede exigir una de las dos**, nunca **ambas a la vez** (art. 69.6).",
+     "¿Puede exigirse a la vez una declaración responsable y una comunicación para la misma actividad?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -150,7 +271,107 @@
     "Alegaciones antes de la audiencia (76) · prueba 10-30 días (77) · informes 10 días (80)",
     "Audiencia 10-15 días (82) · información pública ≥ 20 días (83)"
    ],
-   "ic": "🔎"
+   "ic": "🔎",
+   "articulos": [
+    [
+     "lpac",
+     "70",
+     "Expediente administrativo: concepto, formato y contenido",
+     "**Expediente** = conjunto **ordenado de documentos y actuaciones** que sirven de **antecedente y fundamento** a la resolución, y las diligencias para **ejecutarla**. Tiene **formato electrónico**, se forma por **agregación ordenada** de documentos, pruebas, dictámenes, informes, acuerdos y notificaciones, con **índice numerado**, y debe constar **copia electrónica certificada** de la resolución. Al remitirlo debe ir **completo, foliado, autentificado y con índice autenticado**. **No forman parte** del expediente la información **auxiliar o de apoyo** (aplicaciones, ficheros, notas, borradores, opiniones, resúmenes, **comunicaciones e informes internos**, juicios de valor), salvo **informes preceptivos y facultativos solicitados antes de la resolución**.",
+     "¿Qué información de apoyo no forma parte del expediente administrativo?"
+    ],
+    [
+     "lpac",
+     "71",
+     "Impulso de oficio y orden riguroso de los expedientes",
+     "El procedimiento se **impulsa de oficio** en todos sus trámites y **por medios electrónicos** (celeridad, transparencia y publicidad). En el despacho se guarda **orden riguroso de incoación** en asuntos de **homogénea naturaleza**, salvo **orden motivada en contrario** del titular de la unidad (con constancia). Incumplirlo da lugar a **responsabilidad disciplinaria** y, en su caso, **remoción del puesto**. Instructores y titulares de unidades son **responsables directos** de la tramitación y de los **plazos**.",
+     "¿Qué orden hay que seguir al despachar expedientes de la misma naturaleza?"
+    ],
+    [
+     "lpac",
+     "72",
+     "Concentración de trámites: principio de simplificación administrativa",
+     "Siguiendo el **principio de simplificación administrativa**, se acuerdan **en un solo acto** todos los trámites que por su naturaleza admitan **impulso simultáneo** y no deban cumplirse sucesivamente. Al pedir trámites a **otros órganos** hay que consignar el **plazo legal**.",
+     "¿A qué principio remite la concentración de trámites del art. 72?"
+    ],
+    [
+     "lpac",
+     "73",
+     "Cumplimiento de trámites por los interesados: diez días",
+     "Los trámites que deben cumplir los interesados se hacen **en diez días** desde **el día siguiente** a la notificación, salvo otro plazo. Si un acto del interesado **no reúne los requisitos**, se le **concede otros diez días** para completarlo. Quien no cumple puede ser **declarado decaído en su derecho al trámite**, pero su actuación **se admite y produce efectos** si llega **antes o dentro del día en que se notifica** la resolución que da por transcurrido el plazo.",
+     "¿Qué plazo general tiene el interesado para cumplimentar un trámite?"
+    ],
+    [
+     "lpac",
+     "74",
+     "Cuestiones incidentales: no suspenden el procedimiento",
+     "Las **cuestiones incidentales**, incluso las de **nulidad de actuaciones**, **no suspenden la tramitación**, **salvo la recusación**.",
+     "¿Qué cuestión incidental sí suspende el procedimiento?"
+    ],
+    [
+     "lpac",
+     "75",
+     "Actos de instrucción: de oficio y por medios electrónicos",
+     "Los actos de instrucción para **determinar, conocer y comprobar los hechos** se hacen **de oficio y por medios electrónicos** por el órgano que tramita, sin perjuicio del derecho de los interesados a **proponer actuaciones**. Los sistemas deben **controlar tiempos y plazos**, identificar **órganos responsables** y facilitar la **simplificación y publicidad**. Si requieren al interesado, se practican en la forma **más conveniente para él** y compatible con sus **obligaciones laborales o profesionales**. Se respetan los principios de **contradicción e igualdad**.",
+     "¿Cómo deben practicarse los actos de instrucción que requieren al interesado?"
+    ],
+    [
+     "lpac",
+     "76",
+     "Alegaciones: hasta el trámite de audiencia y defectos de tramitación",
+     "Los interesados pueden **alegar y aportar documentos** **en cualquier momento anterior al trámite de audiencia**; el órgano los tiene en cuenta al redactar la **propuesta de resolución**. **En todo momento** pueden alegar **defectos de tramitación** (paralización, infracción de plazos, omisión de trámites subsanables), lo que puede dar lugar a **responsabilidad disciplinaria**.",
+     "¿Hasta cuándo se pueden aportar alegaciones y documentos con carácter general?"
+    ],
+    [
+     "lpac",
+     "77",
+     "Prueba: medios, período de prueba y rechazo de pruebas",
+     "Los hechos relevantes se acreditan por **cualquier medio de prueba admisible en Derecho** (valoración según la **Ley de Enjuiciamiento Civil**). Si la Administración no tiene por ciertos los hechos o la naturaleza lo exige, el instructor abre un **período de prueba de entre diez y treinta días**; a petición de los interesados puede abrir un período **extraordinario** de **hasta diez días**. El instructor **solo rechaza** pruebas **manifiestamente improcedentes o innecesarias**, mediante **resolución motivada**. Si se alega **discriminación** con indicios fundados, **quien la comete debe justificar** objetiva y razonablemente sus medidas. En **sancionadores**, los hechos probados por **sentencia penal firme vinculan**. Los documentos de funcionarios con **condición de autoridad** **hacen prueba** de los hechos constatados, salvo prueba en contrario. Un **informe de un órgano** se entiende **preceptivo**.",
+     "¿Cuánto puede durar el período de prueba ordinario y cuándo se pueden rechazar las pruebas?"
+    ],
+    [
+     "lpac",
+     "78",
+     "Práctica de la prueba: comunicación, técnicos y gastos",
+     "La Administración **comunica con antelación suficiente** el inicio de las actuaciones para practicar las pruebas admitidas. La notificación indica **lugar, fecha y hora** y que el interesado **puede nombrar técnicos** para asistirle. Si la prueba pedida por el interesado implica **gastos que no debe soportar la Administración**, ésta puede exigir **anticipo**, con **liquidación definitiva** después.",
+     "¿Qué puede exigir la Administración si la prueba pedida por el interesado supone gastos?"
+    ],
+    [
+     "lpac",
+     "79",
+     "Petición de informes: preceptivos y necesarios para resolver",
+     "Se solicitan los informes **preceptivos por ley** y los que se **juzguen necesarios**, **citando el precepto** que los exige o **fundamentando su conveniencia**. La petición **concreta el extremo** sobre el que se pide.",
+     "¿Qué hay que citar al pedir un informe preceptivo?"
+    ],
+    [
+     "lpac",
+     "80",
+     "Emisión de informes: plazo, efectos y falta de informe",
+     "Salvo disposición expresa, los informes son **facultativos y no vinculantes**. Se emiten **por medios electrónicos**, cumpliendo el **art. 26**, en **diez días** (salvo otro plazo). Si no llega: se **prosigue** el procedimiento, **salvo informe preceptivo**, en cuyo caso se puede **suspender el plazo máximo** (art. 22.1.d). Si lo debe emitir **otra Administración** y no llega, se prosigue; el informe **fuera de plazo** podrá **no tenerse en cuenta**.",
+     "¿En qué plazo se emiten los informes y qué pasa si no llegan?"
+    ],
+    [
+     "lpac",
+     "81",
+     "Informes y dictámenes en responsabilidad patrimonial",
+     "Es **preceptivo** el **informe del servicio** cuyo funcionamiento causó la lesión (**máximo diez días**). Si la indemnización reclamada es **igual o superior a 50.000 euros** (o la que fije la ley autonómica) o en los casos de la ley del Consejo de Estado, es **preceptivo el dictamen del Consejo de Estado** o del órgano consultivo autonómico. El instructor envía la **propuesta de resolución en diez días** desde el fin de la **audiencia**; el dictamen se emite en **dos meses**. Para el **funcionamiento anormal de la Administración de Justicia**, informe del **Consejo General del Poder Judicial** (dos meses; suspende el plazo).",
+     "¿A partir de qué cuantía es preceptivo el dictamen del Consejo de Estado en responsabilidad patrimonial?"
+    ],
+    [
+     "lpac",
+     "82",
+     "Trámite de audiencia: momento, plazo y excepciones",
+     "Tras instruir, **inmediatamente antes de redactar la propuesta de resolución**, se **pone de manifiesto el procedimiento** a los interesados (o sus representantes). La audiencia es **anterior a la solicitud del informe jurídico** o del **dictamen del Consejo de Estado u órgano consultivo**. Los interesados tienen **no menos de diez ni más de quince días** para **alegar y presentar documentos**. Si antes manifiestan que **no alegarán**, el trámite se da por realizado. Se puede **prescindir** del trámite cuando **no figuren ni se tengan en cuenta otros hechos, alegaciones o pruebas** que las del interesado. En **responsabilidad patrimonial por contratas**, siempre se da audiencia al **contratista**.",
+     "¿Qué plazo mínimo y máximo tienen los interesados en el trámite de audiencia?"
+    ],
+    [
+     "lpac",
+     "83",
+     "Información pública: anuncio, plazo mínimo y efectos",
+     "Cuando la naturaleza del procedimiento lo requiera, el órgano que resuelve **puede acordar un período de información pública**. Se publica un **anuncio en el diario oficial** para que **cualquiera** pueda examinar el expediente; indica el **lugar de exhibición**, debe estar disponible **en la sede electrónica** y fija el plazo de alegaciones, que **nunca será inferior a veinte días**. **No comparecer no impide recurrir** la resolución definitiva; **comparecer no otorga por sí la condición de interesado**, pero quien presenta alegaciones tiene derecho a una **respuesta razonada** (puede ser común). Pueden existir **otras formas de participación** previstas en las leyes.",
+     "¿Cuál es el plazo mínimo del trámite de información pública y qué pasa si alguien no comparece?"
+    ]
+   ]
   },
   {
    "id": "e2",
@@ -210,7 +431,193 @@
     "Caducidad: 3 meses de paralización imputable al interesado (95)",
     "Simplificada: 30 días (96) · Ejecutividad con 4 excepciones (98)"
    ],
-   "ic": "🏁"
+   "ic": "🏁",
+   "articulos": [
+    [
+     "lpac",
+     "84",
+     "Formas de terminación del procedimiento",
+     "Ponen fin al procedimiento: la **resolución**, el **desistimiento**, la **renuncia al derecho** (si no está prohibida), la **declaración de caducidad** y la **imposibilidad material de continuarlo por causas sobrevenidas** (la resolución debe ser **motivada**).",
+     "¿Qué formas ponen fin a un procedimiento además de la resolución?"
+    ],
+    [
+     "lpac",
+     "85",
+     "Terminación en sancionadores: reconocimiento y pago voluntario",
+     "Si el **infractor reconoce su responsabilidad**, se puede **resolver con la sanción que proceda**. Si la sanción es **solo pecuniaria** (o cabe pecuniaria y no pecuniaria justificando la improcedencia de la segunda), el **pago voluntario antes de la resolución** termina el procedimiento, salvo la **reposición de la situación alterada** y la **indemnización**. En ambos casos, si es **solo pecuniaria**, se aplican **reducciones de al menos el 20 %** (acumulables) sobre la sanción propuesta, que deben constar en la **notificación de inicio** y exigen **desistir o renunciar a acciones o recursos** en vía administrativa.",
+     "¿Qué reducción mínima se aplica a la sanción por reconocimiento o pago voluntario?"
+    ],
+    [
+     "lpac",
+     "86",
+     "Terminación convencional: acuerdos, pactos y convenios",
+     "Las Administraciones pueden celebrar **acuerdos, pactos, convenios o contratos** con personas de Derecho **público o privado**, si **no son contrarios al ordenamiento**, no versan sobre materias **no susceptibles de transacción** y buscan **satisfacer el interés público**. Pueden **terminar** el procedimiento o insertarse **antes**, con carácter previo vinculante o no. **Contenido mínimo:** **partes, ámbito personal, funcional y territorial, plazo de vigencia**; se publican o no según su naturaleza. Requieren **aprobación expresa del Consejo de Ministros** (u órgano equivalente autonómico) los acuerdos sobre **materias de su competencia directa**. **No alteran** competencias ni responsabilidades. En **responsabilidad patrimonial**, deben fijar **cuantía y modo de indemnización**.",
+     "¿Qué contenido mínimo deben tener los acuerdos de terminación convencional?"
+    ],
+    [
+     "lpac",
+     "87",
+     "Actuaciones complementarias antes de resolver",
+     "Antes de resolver, el órgano competente puede acordar **motivadamente** actuaciones complementarias **indispensables**. **No lo son** los **informes que preceden inmediatamente** a la resolución. Se **notifica** a los interesados, que tienen **siete días** para alegar tras su finalización. Se practican en **máximo quince días**. El **plazo para resolver queda suspendido** hasta que terminen.",
+     "¿Cuánto pueden durar como máximo las actuaciones complementarias y qué efecto tienen sobre el plazo de resolver?"
+    ],
+    [
+     "lpac",
+     "88",
+     "Contenido de la resolución: congruencia y recursos",
+     "La resolución **decide todas las cuestiones planteadas** y las derivadas. Si hay **cuestiones conexas** no planteadas, se pone de manifiesto a los interesados **hasta quince días**. En procedimientos **a solicitud**, debe ser **congruente** con lo pedido y **nunca agravar** la situación inicial (sin perjuicio de iniciar un nuevo procedimiento de oficio). Contiene la **decisión motivada** (casos del art. 35) y los **recursos** posibles, **órgano** y **plazo**. Se dicta **electrónicamente**. **No puede abstenerse de resolver** por silencio, oscuridad o insuficiencia de la ley (puede **inadmitir** solicitudes de derechos no previstos o manifiestamente infundadas, sin perjuicio del **derecho de petición**). Aceptar informes o dictámenes **sirve de motivación** si se incorporan al texto. Si instruye y resuelve **órganos distintos**, el instructor eleva una **propuesta de resolución**.",
+     "¿Puede la resolución agravar la situación inicial del interesado en un procedimiento iniciado a solicitud?"
+    ],
+    [
+     "lpac",
+     "89",
+     "Propuesta de resolución en procedimientos sancionadores",
+     "El instructor **archiva sin propuesta de resolución** si: **a)** **no existen los hechos**; **b)** **no están acreditados**; **c)** **no son infracción**; **d)** **no se identifica a los responsables** o están exentos; **e)** la infracción **ha prescrito**. Si no, al concluir la instrucción formula una **propuesta de resolución** que **se notifica** a los interesados, con **puesta de manifiesto** y **plazo de alegaciones**. Debe fijar **motivadamente** los hechos probados y su calificación, la infracción, los responsables, la sanción propuesta, la valoración de las pruebas y las **medidas provisionales**.",
+     "¿En qué cinco casos el instructor archiva sin formular propuesta de resolución?"
+    ],
+    [
+     "lpac",
+     "90",
+     "Resolución sancionadora: contenido y ejecutividad",
+     "La resolución sancionadora incluye la **valoración de las pruebas**, los **hechos**, **responsables**, **infracciones** y **sanciones** (o la **inexistencia** de infracción). **No puede aceptar hechos distintos** de los determinados en el procedimiento, aunque cambie su valoración jurídica; si el órgano considera la infracción **más grave** que la propuesta, **notifica al inculpado** para **alegaciones en quince días**. Es **ejecutiva** cuando **no cabe recurso ordinario en vía administrativa**; puede adoptar **medidas cautelares** y **suspenderse cautelarmente** si el interesado anuncia **recurso contencioso**.",
+     "¿Cuándo es ejecutiva la resolución sancionadora y qué plazo de alegaciones se da si la infracción es más grave que la propuesta?"
+    ],
+    [
+     "lpac",
+     "91",
+     "Resolución en responsabilidad patrimonial: causalidad e indemnización",
+     "Recibido el **dictamen** (art. 81.2) o, si no es preceptivo, terminada la **audiencia**, el órgano **resuelve** o somete a **terminación convencional**. La resolución debe pronunciarse sobre la **relación de causalidad** entre el servicio público y la lesión, y, si procede, sobre la **valoración del daño**, la **cuantía** y el **modo de la indemnización**. Pasados **seis meses** sin resolución expresa, **puede entenderse** que es **contraria a la indemnización**.",
+     "¿Qué se entiende si pasan seis meses sin resolución en un procedimiento de responsabilidad patrimonial?"
+    ],
+    [
+     "lpac",
+     "92",
+     "Quién resuelve la responsabilidad patrimonial según la Administración",
+     "En la **AGE**, el **Ministro** o el **Consejo de Ministros**. En el ámbito **autonómico y local**, los **órganos correspondientes** de la CCAA o de las Entidades Locales. Las **entidades de Derecho público** lo fijan en su norma; **si no**, se aplica este artículo.",
+     "¿Quién resuelve los procedimientos de responsabilidad patrimonial en el ámbito local?"
+    ],
+    [
+     "lpac",
+     "93",
+     "Desistimiento de la Administración en procedimientos de oficio",
+     "En los procedimientos **iniciados de oficio**, la Administración puede **desistir, motivadamente**, en los supuestos y con los requisitos que prevean las **leyes**.",
+     "¿Puede la Administración desistir de un procedimiento iniciado de oficio?"
+    ],
+    [
+     "lpac",
+     "94",
+     "Desistimiento y renuncia de los interesados",
+     "Todo interesado puede **desistir de su solicitud** o **renunciar a sus derechos** (si no está prohibido). Si fueron **varios**, afecta **solo a quien lo formuló**. Puede hacerse por **cualquier medio con constancia** y con las **firmas** que correspondan. La Administración **lo acepta de plano** y declara **concluso** el procedimiento, **salvo** que terceros personados **pidan continuar en diez días**. Si hay **interés general** o conviene aclarar la cuestión, puede **limitar los efectos** al interesado y **seguir** el procedimiento.",
+     "¿Qué plazo tienen los terceros personados para pedir que continúe el procedimiento tras un desistimiento?"
+    ],
+    [
+     "lpac",
+     "95",
+     "Caducidad: paralización imputable al interesado y tres meses",
+     "Si un procedimiento **a solicitud** se **paraliza por causa imputable al interesado**, la Administración le **advierte** de que, **transcurridos tres meses**, se producirá la **caducidad**; pasado el plazo, **acuerda el archivo** y lo notifica (**cabe recurso**). **No cabe caducidad** por simple inactividad en trámites **no indispensables**. La caducidad **no prescribe por sí sola** las acciones, pero los procedimientos caducados **no interrumpen la prescripción**; se pueden **incorporar actos y trámites** al nuevo procedimiento, que debe repetir **alegaciones, prueba y audiencia**. **Puede no aplicarse** si afecta al **interés general**.",
+     "¿Cuánto tiempo de paralización imputable al interesado hace falta para la caducidad y qué debe hacer antes la Administración?"
+    ],
+    [
+     "lpac",
+     "96",
+     "Tramitación simplificada: cuándo procede y plazo de treinta días",
+     "Por **razones de interés público** o **falta de complejidad**, se puede acordar **de oficio o a solicitud** la **tramitación simplificada**; en cualquier momento antes de resolver se puede volver a la **ordinaria**. Si es de oficio, se **notifica** a los interesados; si alguno **se opone expresamente**, se sigue la **ordinaria**. Si la **solicita el interesado**, la Administración puede **desestimarla en cinco días** sin recurso; **pasado el plazo se entiende desestimada**. En **responsabilidad patrimonial** puede acordarse si la **relación de causalidad, el daño y la indemnización** son inequívocos. En **sancionadores**, si la infracción es **leve** (sin posibilidad de oposición). El procedimiento simplificado se resuelve **en treinta días** desde la notificación del acuerdo de tramitación simplificada.",
+     "¿En cuántos días se resuelve un procedimiento de tramitación simplificada?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "lpac",
+     "97",
+     "Ejecución material: antes la resolución que la fundamente",
+     "Las Administraciones **no inician ninguna actuación material de ejecución** que **limite derechos** de los particulares **sin que antes se haya adoptado la resolución** que le sirva de **fundamento jurídico**. El órgano que ordene el acto de ejecución debe **notificar al interesado la resolución** que lo autoriza.",
+     "¿Qué debe existir antes de una actuación material de ejecución que limite derechos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "98",
+     "Ejecutoriedad: cuándo los actos son inmediatamente ejecutivos",
+     "Los actos son **inmediatamente ejecutivos**, **salvo que**: **a)** se **suspenda** su ejecución; **b)** sea una **resolución sancionadora** contra la que **quepa algún recurso en vía administrativa**, incluido el **potestativo de reposición**; **c)** una **disposición** diga lo contrario; **d)** se necesite **aprobación o autorización superior**. Las **obligaciones de pago a la Hacienda pública** (sanciones, multas…) se pagan **preferentemente por medios electrónicos**: **tarjeta de crédito o débito, transferencia, domiciliación** u otros autorizados.",
+     "¿Cuándo no es inmediatamente ejecutiva una resolución sancionadora?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "lpac",
+     "99",
+     "Ejecución forzosa: apercibimiento y límites",
+     "Las Administraciones pueden proceder, **previo apercibimiento**, a la **ejecución forzosa** de los actos, **salvo** cuando se **suspenda la ejecución** o cuando la **Constitución o la ley exijan intervención judicial**.",
+     "¿Qué requisito previo exige la ejecución forzosa de un acto administrativo?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "lpac",
+     "100",
+     "Medios de ejecución forzosa y entrada en domicilio",
+     "La ejecución forzosa respeta siempre el **principio de proporcionalidad** y se hace por: **a)** **apremio sobre el patrimonio**; **b)** **ejecución subsidiaria**; **c)** **multa coercitiva**; **d)** **compulsión sobre las personas**. Si hay varios admisibles, se elige **el menos restrictivo de la libertad individual**. Para **entrar en un domicilio** o lugar que requiera autorización del titular hace falta **su consentimiento** o, si no, **autorización judicial**.",
+     "¿Qué cuatro medios de ejecución forzosa existen y qué se necesita para entrar en un domicilio?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "101",
+     "Apremio sobre el patrimonio",
+     "Si un acto obliga a pagar **cantidad líquida**, se sigue el **procedimiento de apremio**. En ningún caso se puede imponer una **obligación pecuniaria** que no esté establecida por **norma con rango de ley**.",
+     "¿Qué rango debe tener la norma que establece una obligación pecuniaria?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "102",
+     "Ejecución subsidiaria: actos no personalísimos a costa del obligado",
+     "Procede en actos **no personalísimos**, que **puede realizar otra persona**: la Administración los hace **por sí o por quien determine, a costa del obligado**. El importe de **gastos, daños y perjuicios** se exige por el **apremio** (art. 101) y puede liquidarse **provisionalmente** antes de ejecutar.",
+     "¿A costa de quién se realiza la ejecución subsidiaria?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "103",
+     "Multa coercitiva: supuestos y compatibilidad con sanciones",
+     "Cuando **lo autoricen las leyes**, la Administración puede imponer **multas coercitivas reiteradas** para ejecutar: **a)** **actos personalísimos** sin compulsión directa; **b)** actos en que, **procediendo compulsión**, no se estime conveniente; **c)** actos que el obligado **puede encargar a otra persona**. Es **independiente** de las sanciones y **compatible** con ellas.",
+     "¿Es compatible la multa coercitiva con una sanción?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "104",
+     "Compulsión sobre las personas: obligaciones personalísimas",
+     "Los actos que imponen una **obligación personalísima de no hacer o soportar** pueden ejecutarse por **compulsión directa sobre las personas** **solo si la ley lo autoriza expresamente**, respetando la **dignidad** y los **derechos constitucionales**. Si es **personalísima de hacer** y no se cumple, el obligado debe **resarcir daños y perjuicios** (cobro en **vía administrativa**).",
+     "¿Cuándo se puede usar la compulsión directa sobre las personas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "105",
+     "Prohibición de acciones posesorias contra la Administración",
+     "**No se admiten a trámite acciones posesorias** contra actuaciones de los órganos administrativos realizadas **en materia de su competencia** y **con el procedimiento legalmente establecido**.",
+     "¿Se admiten acciones posesorias contra actuaciones administrativas legales?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -571,6 +978,1825 @@
    [
     "Solo afectará"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 53.1 de la Ley 39/2015, de 1 de octubre, los interesados en un procedimiento administrativo tienen derecho, entre otros, a:",
+   [
+    "No presentar documentos originales salvo que, de manera excepcional, la normativa aplicable establezca lo contrario",
+    "Presentar siempre documentos originales ante la Administración, sin que se admitan copias autenticadas en ningún caso",
+    "Elegir libremente al órgano administrativo que instruye el procedimiento, entre los que sean competentes por razón de la materia"
+   ],
+   0,
+   "Art. 53.1 c). Si excepcionalmente deben presentar el original, tienen derecho a copia autenticada.",
+   "lpac 53.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.1 de la Ley 39/2015, de 1 de octubre, los interesados tienen derecho a formular alegaciones y aportar documentos en cualquier fase del procedimiento:",
+   [
+    "Anterior al trámite de audiencia, y deben ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución",
+    "Posterior a la propuesta de resolución, y deben ser valoradas por el órgano que haya de dictar la resolución final",
+    "Únicamente durante el período de prueba, sin que puedan presentarse en otro momento del procedimiento"
+   ],
+   0,
+   "Art. 53.1 e).",
+   "lpac 53.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.1 de la Ley 39/2015, de 1 de octubre, los interesados tienen derecho a conocer, en cualquier momento:",
+   [
+    "El estado de tramitación, el sentido del silencio administrativo, el órgano competente para instruir y resolver y los actos de trámite dictados",
+    "Solo el órgano competente para resolver el procedimiento y la fecha en que se prevé que se dicte la resolución",
+    "Únicamente la fecha prevista de resolución y el estado de la tramitación, sin acceso a los actos de trámite dictados"
+   ],
+   0,
+   "Art. 53.1 a).",
+   "lpac 53.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.2 de la Ley 39/2015, de 1 de octubre, en los procedimientos sancionadores, los presuntos responsables tienen derecho, además:",
+   [
+    "A ser notificados de los hechos imputados, de las infracciones que puedan constituir y de las sanciones que puedan imponerse, así como a la presunción de no existencia de responsabilidad mientras no se demuestre lo contrario",
+    "A que el instructor del procedimiento sea el mismo órgano que resuelva, y a la presunción de existencia de responsabilidad hasta que se pruebe lo contrario",
+    "A no ser notificados de los hechos imputados hasta que se dicte la resolución que ponga fin al procedimiento"
+   ],
+   0,
+   "Art. 53.2 a) y b).",
+   "lpac 53.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54 de la Ley 39/2015, de 1 de octubre, los procedimientos podrán iniciarse:",
+   [
+    "De oficio o a solicitud del interesado",
+    "Solo de oficio",
+    "Solo a solicitud del interesado"
+   ],
+   0,
+   "Art. 54.",
+   "lpac 54",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 55.1 de la Ley 39/2015, de 1 de octubre, con anterioridad al inicio del procedimiento, el órgano competente podrá abrir:",
+   [
+    "Un período de información o actuaciones previas para conocer las circunstancias del caso y la conveniencia de iniciar el procedimiento",
+    "Un período de prueba, para acreditar los hechos que justifiquen la conveniencia de iniciar el procedimiento",
+    "Un trámite de audiencia previo, para que los posibles interesados se pronuncien sobre la conveniencia de iniciarlo"
+   ],
+   0,
+   "Art. 55.1.",
+   "lpac 55.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 55.2 de la Ley 39/2015, de 1 de octubre, en procedimientos de naturaleza sancionadora, las actuaciones previas serán realizadas por:",
+   [
+    "Los órganos con funciones de investigación, averiguación e inspección en la materia y, en su defecto, la persona u órgano que determine el competente para iniciar o resolver",
+    "El órgano que resuelva el procedimiento, en todo caso, sin posibilidad de encomendarlas a otro órgano",
+    "El denunciante, mediante la aportación de los elementos de prueba que considere oportunos"
+   ],
+   0,
+   "Art. 55.2.",
+   "lpac 55.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.2 de la Ley 39/2015, de 1 de octubre, antes de la iniciación del procedimiento, en casos de urgencia inaplazable, podrán adoptarse medidas provisionales, que deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que deberá efectuarse dentro de:",
+   [
+    "Los quince días siguientes a su adopción",
+    "Los diez días siguientes",
+    "El mes siguiente"
+   ],
+   0,
+   "Art. 56.2. Si no se inicia en ese plazo, las medidas quedan sin efecto.",
+   "lpac 56.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.3 de la Ley 39/2015, de 1 de octubre, entre las medidas provisionales que pueden acordarse se encuentran:",
+   [
+    "La suspensión temporal de actividades y la prestación de fianzas",
+    "La destitución del instructor y la declaración de caducidad del procedimiento cuando se paralice",
+    "La imposición de multa coercitiva y la ejecución subsidiaria a costa del interesado"
+   ],
+   0,
+   "Art. 56.3 a) y b).",
+   "lpac 56.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.4 de la Ley 39/2015, de 1 de octubre, no se podrán adoptar medidas provisionales que:",
+   [
+    "Puedan causar perjuicio de difícil o imposible reparación a los interesados o impliquen violación de derechos amparados por las leyes",
+    "Afecten a bienes productivos de la entidad o supongan la suspensión temporal de actividades económicas",
+    "Sean solicitadas por el propio interesado en defensa de sus intereses legítimos y de forma motivada"
+   ],
+   0,
+   "Art. 56.4.",
+   "lpac 56.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56.5 de la Ley 39/2015, de 1 de octubre, las medidas provisionales se extinguirán:",
+   [
+    "Cuando surta efectos la resolución administrativa que ponga fin al procedimiento",
+    "En cuanto se formule la propuesta de resolución por el órgano instructor del procedimiento",
+    "A los tres meses de su adopción, en todo caso, aunque no haya finalizado el procedimiento"
+   ],
+   0,
+   "Art. 56.5.",
+   "lpac 56.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de la Ley 39/2015, de 1 de octubre, el acuerdo de acumulación de procedimientos con identidad sustancial o íntima conexión:",
+   [
+    "No admite recurso alguno",
+    "Puede recurrirse en alzada",
+    "Puede recurrirse en reposición"
+   ],
+   0,
+   "Art. 57. Requiere que sea el mismo órgano quien deba tramitar y resolver.",
+   "lpac 57",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 de la Ley 39/2015, de 1 de octubre, los procedimientos se iniciarán de oficio por acuerdo del órgano competente:",
+   [
+    "Por propia iniciativa, por orden superior, a petición razonada de otros órganos o por denuncia",
+    "Solo por propia iniciativa o a petición del interesado, quedando excluidas la orden superior y la denuncia",
+    "Por propia iniciativa o por solicitud de los interesados, sin intervención de la denuncia ni de otros órganos"
+   ],
+   0,
+   "Art. 58.",
+   "lpac 58",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59 de la Ley 39/2015, de 1 de octubre, se entiende por propia iniciativa:",
+   [
+    "La actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación",
+    "La actuación derivada de la orden de un órgano superior jerárquico del que tiene atribuida la competencia",
+    "La actuación derivada de una denuncia presentada por un ciudadano ante el órgano competente"
+   ],
+   0,
+   "Art. 59.",
+   "lpac 59",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62.1 de la Ley 39/2015, de 1 de octubre, se entiende por denuncia:",
+   [
+    "El acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo un hecho que pudiera justificar la iniciación de oficio de un procedimiento",
+    "La solicitud presentada por un interesado para que se inicie un procedimiento administrativo a su favor",
+    "La orden de un órgano superior dirigida al competente para que investigue unos hechos determinados"
+   ],
+   0,
+   "Art. 62.1.",
+   "lpac 62.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62.5 de la Ley 39/2015, de 1 de octubre, la presentación de una denuncia:",
+   [
+    "No confiere, por sí sola, la condición de interesado en el procedimiento",
+    "Confiere en todo caso la condición de interesado en el procedimiento que se inicie como consecuencia de ella",
+    "Obliga a la Administración a notificar al denunciante la resolución final que ponga término al procedimiento"
+   ],
+   0,
+   "Art. 62.5.",
+   "lpac 62.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62.3 de la Ley 39/2015, de 1 de octubre, cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas:",
+   [
+    "La no iniciación del procedimiento deberá ser motivada y se notificará a los denunciantes la decisión",
+    "El procedimiento se iniciará siempre, sin que la Administración pueda decidir su no iniciación",
+    "No es necesario motivar la no iniciación ni comunicarla a quienes presentaron la denuncia"
+   ],
+   0,
+   "Art. 62.3.",
+   "lpac 62.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63.1 de la Ley 39/2015, de 1 de octubre, los procedimientos de naturaleza sancionadora:",
+   [
+    "Se iniciarán siempre de oficio y establecerán la debida separación entre la fase instructora y la sancionadora, encomendada a órganos distintos",
+    "Pueden iniciarse a solicitud del presunto infractor, además de por acuerdo del órgano competente",
+    "Los instruye y resuelve el mismo órgano, sin separación entre la fase instructora y la sancionadora"
+   ],
+   0,
+   "Art. 63.1.",
+   "lpac 63.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63.2 de la Ley 39/2015, de 1 de octubre, en ningún caso se podrá imponer una sanción:",
+   [
+    "Sin que se haya tramitado el oportuno procedimiento",
+    "Por infracciones leves, que se sancionan directamente por el órgano competente sin tramitar procedimiento",
+    "A personas jurídicas, que solo pueden ser sancionadas por los tribunales penales"
+   ],
+   0,
+   "Art. 63.2.",
+   "lpac 63.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64.2 de la Ley 39/2015, de 1 de octubre, el acuerdo de iniciación de un procedimiento sancionador deberá contener, entre otros:",
+   [
+    "La identificación del instructor y, en su caso, secretario, con indicación del régimen de recusación",
+    "La sanción definitiva que se propone imponer, sin perjuicio de lo que resulte de la instrucción",
+    "La identidad del denunciante, siempre, aunque las normas del procedimiento no lo prevean"
+   ],
+   0,
+   "Art. 64.2 c).",
+   "lpac 64.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64.2 de la Ley 39/2015, de 1 de octubre, en el acuerdo de iniciación del procedimiento sancionador debe indicarse que, de no efectuar alegaciones en plazo, el acuerdo:",
+   [
+    "Podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada",
+    "Quedará sin efecto y habrá que dictar una nueva propuesta de resolución tras la instrucción",
+    "Será resolución definitiva del procedimiento de forma automática, sin necesidad de más trámites"
+   ],
+   0,
+   "Art. 64.2 f).",
+   "lpac 64.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64.3 de la Ley 39/2015, de 1 de octubre, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos, ésta podrá realizarse en una fase posterior mediante:",
+   [
+    "Un Pliego de cargos, que deberá ser notificado a los interesados",
+    "Una propuesta de resolución, que deberá ser notificada a los interesados en todo caso",
+    "Un informe preceptivo del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 64.3.",
+   "lpac 64.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65.2 de la Ley 39/2015, de 1 de octubre, el acuerdo de iniciación de oficio de un procedimiento de responsabilidad patrimonial se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de:",
+   [
+    "Diez días para que aporten alegaciones, documentos o información y propongan pruebas",
+    "Quince días para que interpongan recurso contra el acuerdo de iniciación notificado",
+    "Cinco días improrrogables para que acepten o rechacen su condición de interesados"
+   ],
+   0,
+   "Art. 65.2. El procedimiento se instruirá aunque no se personen.",
+   "lpac 65.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66.1 de la Ley 39/2015, de 1 de octubre, las solicitudes de iniciación deberán contener, entre otros datos:",
+   [
+    "Hechos, razones y petición en que se concrete, con toda claridad, la solicitud",
+    "El número de la cuenta bancaria del solicitante, a efectos de la devolución de cantidades",
+    "La resolución que se pretende obtener, redactada por el solicitante, para su firma por el órgano"
+   ],
+   0,
+   "Art. 66.1 c).",
+   "lpac 66.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66.1 de la Ley 39/2015, de 1 de octubre, las solicitudes de iniciación deberán contener:",
+   [
+    "Identificación del medio electrónico, o en su defecto lugar físico, en que desea que se practique la notificación",
+    "El domicilio fiscal del solicitante, obligatoriamente, a efectos de notificaciones",
+    "Solo el nombre y apellidos y la firma, sin necesidad de indicar la petición concreta"
+   ],
+   0,
+   "Art. 66.1 b).",
+   "lpac 66.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66.3 de la Ley 39/2015, de 1 de octubre, de las solicitudes y escritos presentados electrónicamente o en las oficinas de asistencia en materia de registros, los interesados podrán exigir:",
+   [
+    "El correspondiente recibo que acredite la fecha y hora de presentación",
+    "Una copia notarial de la solicitud presentada, con la fecha y hora de presentación",
+    "Una certificación del órgano instructor sobre el contenido de la solicitud y su estado de tramitación"
+   ],
+   0,
+   "Art. 66.3.",
+   "lpac 66.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66.2 de la Ley 39/2015, de 1 de octubre, cuando las pretensiones de una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar:",
+   [
+    "Podrán formularse en una única solicitud, salvo que las normas del procedimiento específico dispongan otra cosa",
+    "Deberán formularse solicitudes separadas por cada persona, sin que se admitan solicitudes colectivas",
+    "Solo podrán formularse por una asociación u organización legalmente constituida que actúe en su nombre"
+   ],
+   0,
+   "Art. 66.2.",
+   "lpac 66.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67.1 de la Ley 39/2015, de 1 de octubre, el derecho a reclamar en los procedimientos de responsabilidad patrimonial prescribirá:",
+   [
+    "Al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo",
+    "A los dos años del hecho lesivo, con carácter general, y a los cinco en caso de daños físicos",
+    "A los cinco años de producido el hecho o acto que motive la indemnización o se manifieste su efecto"
+   ],
+   0,
+   "Art. 67.1. En daños físicos o psíquicos, desde la curación o determinación de secuelas.",
+   "lpac 67.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.1 de la Ley 39/2015, de 1 de octubre, si la solicitud de iniciación no reúne los requisitos exigidos, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si no lo hiciera:",
+   [
+    "Se le tendrá por desistido de su petición, previa resolución en los términos del artículo 21",
+    "Se archivará de forma automática, sin necesidad de dictar resolución alguna al respecto",
+    "Se desestimará su solicitud por silencio administrativo, una vez transcurrido el plazo concedido"
+   ],
+   0,
+   "Art. 68.1.",
+   "lpac 68.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.2 de la Ley 39/2015, de 1 de octubre, el plazo de subsanación podrá ampliarse prudencialmente hasta cinco días cuando la aportación de documentos presente dificultades especiales, siempre que:",
+   [
+    "No se trate de procedimientos selectivos o de concurrencia competitiva",
+    "Se trate de procedimientos selectivos o de concurrencia competitiva, en los que la subsanación es más estricta",
+    "El interesado sea persona jurídica o esté obligado a relacionarse electrónicamente con la Administración"
+   ],
+   0,
+   "Art. 68.2.",
+   "lpac 68.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.4 de la Ley 39/2015, de 1 de octubre, si un sujeto obligado a relacionarse electrónicamente presenta su solicitud presencialmente, la Administración le requerirá para que la subsane presentándola electrónicamente, y se considerará fecha de presentación:",
+   [
+    "Aquella en la que haya sido realizada la subsanación",
+    "La de la presentación presencial inicial, con independencia de la fecha de la subsanación",
+    "La de entrada de la solicitud en la unidad instructora del procedimiento"
+   ],
+   0,
+   "Art. 68.4.",
+   "lpac 68.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.1 de la Ley 39/2015, de 1 de octubre, se entiende por declaración responsable:",
+   [
+    "El documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple los requisitos para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación acreditativa y que la pondrá a disposición de la Administración cuando se le requiera",
+    "El documento mediante el cual se ponen en conocimiento de la Administración datos identificativos para iniciar una actividad",
+    "La solicitud de licencia o autorización que debe ser resuelta expresamente por la Administración competente"
+   ],
+   0,
+   "Art. 69.1.",
+   "lpac 69.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.2 de la Ley 39/2015, de 1 de octubre, se entiende por comunicación:",
+   [
+    "El documento mediante el que los interesados ponen en conocimiento de la Administración sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho",
+    "El documento en el que el interesado manifiesta bajo su responsabilidad que cumple los requisitos para ejercer un derecho",
+    "La respuesta que da la Administración a una solicitud, comunicando la aceptación del ejercicio de la actividad"
+   ],
+   0,
+   "Art. 69.2.",
+   "lpac 69.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.3 de la Ley 39/2015, de 1 de octubre, las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho o el inicio de una actividad:",
+   [
+    "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección",
+    "Desde que la Administración las admita expresamente, mediante un acto de conformidad notificado al interesado",
+    "Una vez transcurridos diez días desde su presentación sin que la Administración formule objeción alguna"
+   ],
+   0,
+   "Art. 69.3.",
+   "lpac 69.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.4 de la Ley 39/2015, de 1 de octubre, la inexactitud, falsedad u omisión de carácter esencial en una declaración responsable o comunicación determinará:",
+   [
+    "La imposibilidad de continuar con el ejercicio del derecho o actividad desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades a que hubiera lugar",
+    "La suspensión automática de la actividad durante seis meses, tras los cuales podrá reanudarse sin más trámite",
+    "Únicamente una sanción económica, sin que afecte a la continuidad del ejercicio del derecho o actividad"
+   ],
+   0,
+   "Art. 69.4.",
+   "lpac 69.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.6 de la Ley 39/2015, de 1 de octubre, para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho:",
+   [
+    "Únicamente será exigible o bien una declaración responsable o bien una comunicación, sin que sea posible exigir ambas acumulativamente",
+    "Se exigirán siempre ambas acumulativamente, para mayor garantía de comprobación de los requisitos por la Administración",
+    "Se exigirá siempre la declaración responsable y, además, licencia previa de la Administración competente"
+   ],
+   0,
+   "Art. 69.6.",
+   "lpac 69.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 de la Ley 39/2015, de 1 de octubre, se entiende por expediente administrativo:",
+   [
+    "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
+    "Solo la resolución final del procedimiento, con la que se pone fin al mismo y se notifica al interesado",
+    "El conjunto de borradores, notas y comunicaciones internas del órgano que tramita el procedimiento"
+   ],
+   0,
+   "Art. 70.1.",
+   "lpac 70.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.2 de la Ley 39/2015, de 1 de octubre, los expedientes tendrán formato electrónico y se formarán mediante agregación ordenada de los documentos que deban integrarlos, así como:",
+   [
+    "Un índice numerado de todos los documentos que contenga cuando se remita",
+    "Un resumen firmado por el instructor con las actuaciones más relevantes realizadas en el procedimiento",
+    "Un informe jurídico preceptivo elaborado por el servicio jurídico antes de su remisión"
+   ],
+   0,
+   "Art. 70.2. Deberá constar copia electrónica certificada de la resolución.",
+   "lpac 70.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.4 de la Ley 39/2015, de 1 de octubre, no formará parte del expediente administrativo:",
+   [
+    "La información de carácter auxiliar o de apoyo, como borradores, notas, opiniones, resúmenes y comunicaciones e informes internos",
+    "Los informes preceptivos y facultativos solicitados antes de la resolución que ponga fin al procedimiento",
+    "Las pruebas practicadas y los dictámenes incorporados al procedimiento antes de la resolución"
+   ],
+   0,
+   "Art. 70.4.",
+   "lpac 70.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.1 de la Ley 39/2015, de 1 de octubre, el procedimiento, sometido al principio de celeridad:",
+   [
+    "Se impulsará de oficio en todos sus trámites y a través de medios electrónicos",
+    "Se impulsará a instancia de los interesados en todos sus trámites, y a través de medios electrónicos",
+    "Se impulsará de oficio solo en los procedimientos sancionadores y a instancia de parte en los demás"
+   ],
+   0,
+   "Art. 71.1.",
+   "lpac 71.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.2 de la Ley 39/2015, de 1 de octubre, en el despacho de los expedientes se guardará:",
+   [
+    "El orden riguroso de incoación en asuntos de homogénea naturaleza, salvo orden motivada en contrario del titular de la unidad administrativa",
+    "El orden de entrada de las alegaciones presentadas por los interesados, sin excepción alguna",
+    "El orden que decida libremente cada funcionario encargado de la tramitación en función de su carga de trabajo"
+   ],
+   0,
+   "Art. 71.2.",
+   "lpac 71.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72.1 de la Ley 39/2015, de 1 de octubre, de acuerdo con el principio de simplificación administrativa:",
+   [
+    "Se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo",
+    "Los trámites se cumplirán siempre de forma sucesiva, aunque admitan un impulso simultáneo",
+    "Se suprimirán los informes preceptivos cuando el procedimiento haya sido declarado de urgencia"
+   ],
+   0,
+   "Art. 72.1.",
+   "lpac 72.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73.1 de la Ley 39/2015, de 1 de octubre, los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de:",
+   [
+    "Diez días a partir del siguiente al de la notificación del acto, salvo que la norma fije otro plazo",
+    "Cinco días desde la notificación del acto, salvo que la norma fije otro plazo distinto",
+    "Quince días naturales desde la notificación del acto, en todo caso"
+   ],
+   0,
+   "Art. 73.1.",
+   "lpac 73.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73.3 de la Ley 39/2015, de 1 de octubre, a los interesados que no cumplan los plazos de trámites se les podrá declarar decaídos en su derecho al trámite; no obstante, se admitirá su actuación si se produce:",
+   [
+    "Antes o dentro del día que se notifique la resolución en que se tenga por transcurrido el plazo",
+    "Hasta diez días después de dicha resolución, siempre que se justifique la causa del retraso",
+    "Nunca después de que transcurra el plazo, pues el derecho al trámite decae de forma automática"
+   ],
+   0,
+   "Art. 73.3.",
+   "lpac 73.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 de la Ley 39/2015, de 1 de octubre, las cuestiones incidentales que se susciten en el procedimiento, incluso las de nulidad de actuaciones:",
+   [
+    "No suspenderán la tramitación, salvo la recusación",
+    "Suspenderán siempre la tramitación",
+    "Suspenderán la tramitación si afectan a la competencia"
+   ],
+   0,
+   "Art. 74.",
+   "lpac 74",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.1 de la Ley 39/2015, de 1 de octubre, los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los hechos se realizarán:",
+   [
+    "De oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento",
+    "A instancia de los interesados exclusivamente, mediante escrito dirigido al órgano que resuelva el procedimiento",
+    "Por el órgano que resuelve el procedimiento, en todo caso y de forma presencial en sus dependencias"
+   ],
+   0,
+   "Art. 75.1.",
+   "lpac 75.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.3 de la Ley 39/2015, de 1 de octubre, los actos de instrucción que requieran la intervención de los interesados habrán de practicarse:",
+   [
+    "En la forma más conveniente para ellos y compatible, en lo posible, con sus obligaciones laborales o profesionales",
+    "En horario de oficina, sin excepciones, en la sede del órgano instructor del procedimiento",
+    "En la sede electrónica de la Administración, con independencia de las obligaciones laborales del interesado"
+   ],
+   0,
+   "Art. 75.3.",
+   "lpac 75.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.1 de la Ley 39/2015, de 1 de octubre, los interesados podrán aducir alegaciones y aportar documentos en cualquier momento del procedimiento:",
+   [
+    "Anterior al trámite de audiencia",
+    "Posterior a la propuesta de resolución",
+    "Solo dentro del período de prueba"
+   ],
+   0,
+   "Art. 76.1.",
+   "lpac 76.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.2 de la Ley 39/2015, de 1 de octubre, en todo momento podrán los interesados alegar:",
+   [
+    "Los defectos de tramitación, en especial los que supongan paralización, infracción de plazos o la omisión de trámites subsanables",
+    "Solo los defectos de fondo de la resolución, y no los de tramitación ni los plazos incumplidos",
+    "Únicamente los defectos de notificación del acuerdo de iniciación, durante la audiencia a los interesados"
+   ],
+   0,
+   "Art. 76.2.",
+   "lpac 76.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.2 de la Ley 39/2015, de 1 de octubre, cuando la Administración no tenga por ciertos los hechos alegados, el instructor acordará un período de prueba por un plazo:",
+   [
+    "No superior a treinta días ni inferior a diez",
+    "No superior a quince días",
+    "No inferior a treinta días"
+   ],
+   0,
+   "Art. 77.2. Período extraordinario: no superior a diez días.",
+   "lpac 77.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.3 de la Ley 39/2015, de 1 de octubre, el instructor sólo podrá rechazar las pruebas propuestas por los interesados:",
+   [
+    "Cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada",
+    "Cuando lo estime oportuno el instructor, sin necesidad de motivar su decisión de rechazo",
+    "Cuando se propongan fuera del primer mes del procedimiento, aunque sean pertinentes y necesarias"
+   ],
+   0,
+   "Art. 77.3.",
+   "lpac 77.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.4 de la Ley 39/2015, de 1 de octubre, en los procedimientos sancionadores, los hechos declarados probados por resoluciones judiciales penales firmes:",
+   [
+    "Vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien",
+    "No vincularán a la Administración, que podrá apreciarlos de forma distinta en el procedimiento sancionador",
+    "Vincularán solo si así lo acuerda motivadamente el instructor en el procedimiento sancionador"
+   ],
+   0,
+   "Art. 77.4.",
+   "lpac 77.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.5 de la Ley 39/2015, de 1 de octubre, los documentos formalizados por funcionarios con condición de autoridad en los que se recojan los hechos constatados por ellos:",
+   [
+    "Harán prueba de éstos salvo que se acredite lo contrario",
+    "Harán prueba plena e irrefutable de éstos, sin que se admita prueba en contrario",
+    "No tendrán valor probatorio alguno, salvo que sean ratificados por el funcionario ante el instructor"
+   ],
+   0,
+   "Art. 77.5.",
+   "lpac 77.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.2 de la Ley 39/2015, de 1 de octubre, en la notificación de la práctica de una prueba se consignará el lugar, fecha y hora, con la advertencia, en su caso, de que:",
+   [
+    "El interesado puede nombrar técnicos para que le asistan",
+    "Debe acudir personalmente a la práctica de la prueba, sin posibilidad de ser asistido por técnicos",
+    "Perderá el derecho a la prueba si no asiste a la fecha, hora y lugar señalados"
+   ],
+   0,
+   "Art. 78.2.",
+   "lpac 78.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.3 de la Ley 39/2015, de 1 de octubre, si el interesado propone pruebas cuya realización implique gastos que no deba soportar la Administración, ésta podrá:",
+   [
+    "Exigir el anticipo de los mismos, a reserva de la liquidación definitiva",
+    "Rechazar la prueba sin más trámite, dejando constancia de que el interesado no puede costearla",
+    "Imponer una multa al interesado por proponer pruebas de realización costosa para la Administración"
+   ],
+   0,
+   "Art. 78.3.",
+   "lpac 78.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.1 de la Ley 39/2015, de 1 de octubre, a efectos de la resolución del procedimiento, se solicitarán:",
+   [
+    "Los informes preceptivos por las disposiciones legales y los que se juzguen necesarios para resolver, citando el precepto que los exija o fundamentando su conveniencia",
+    "Solo los informes preceptivos establecidos por las disposiciones legales, sin que puedan pedirse otros",
+    "Todos los informes que soliciten los interesados, aunque no sean necesarios para resolver"
+   ],
+   0,
+   "Art. 79.1.",
+   "lpac 79.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.1 de la Ley 39/2015, de 1 de octubre, salvo disposición expresa en contrario, los informes serán:",
+   [
+    "Facultativos y no vinculantes",
+    "Preceptivos y vinculantes",
+    "Preceptivos y no vinculantes"
+   ],
+   0,
+   "Art. 80.1.",
+   "lpac 80.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.2 de la Ley 39/2015, de 1 de octubre, los informes serán emitidos a través de medios electrónicos en el plazo de:",
+   [
+    "Diez días, salvo que una disposición o el cumplimiento de los plazos del procedimiento permita o exija otro mayor o menor",
+    "Quince días, en todo caso, sin que una disposición pueda permitir o exigir otro plazo distinto",
+    "Un mes, salvo que la norma específica fije un plazo menor para su emisión"
+   ],
+   0,
+   "Art. 80.2.",
+   "lpac 80.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.3 de la Ley 39/2015, de 1 de octubre, de no emitirse el informe en plazo, se podrán proseguir las actuaciones, salvo cuando se trate de:",
+   [
+    "Un informe preceptivo, en cuyo caso se podrá suspender el plazo máximo para resolver",
+    "Un informe facultativo, en cuyo caso se podrá suspender el plazo máximo para resolver",
+    "Un informe que deba emitir un órgano de la misma Administración, que impedirá proseguir las actuaciones"
+   ],
+   0,
+   "Art. 80.3.",
+   "lpac 80.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.4 de la Ley 39/2015, de 1 de octubre, si el informe debe ser emitido por una Administración distinta y transcurre el plazo sin emitirse:",
+   [
+    "Se podrán proseguir las actuaciones, y el informe emitido fuera de plazo podrá no ser tenido en cuenta",
+    "Se suspende el procedimiento hasta que se emita el informe, por un plazo máximo de tres meses",
+    "Se archiva el procedimiento por falta de un informe preceptivo de otra Administración"
+   ],
+   0,
+   "Art. 80.4.",
+   "lpac 80.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.1 de la Ley 39/2015, de 1 de octubre, en los procedimientos de responsabilidad patrimonial será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión, sin que pueda exceder el plazo de su emisión de:",
+   [
+    "Diez días",
+    "Un mes",
+    "Quince días"
+   ],
+   0,
+   "Art. 81.1.",
+   "lpac 81.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.2 de la Ley 39/2015, de 1 de octubre, será preceptivo el dictamen del Consejo de Estado u órgano consultivo autonómico cuando las indemnizaciones reclamadas sean de cuantía igual o superior a:",
+   [
+    "50.000 euros, o la que establezca la legislación autonómica",
+    "30.000 euros, o la cuantía que establezca la legislación autonómica correspondiente",
+    "100.000 euros, o la cuantía que fije la legislación del Estado para cada caso"
+   ],
+   0,
+   "Art. 81.2. El dictamen se emite en el plazo de dos meses.",
+   "lpac 81.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.1 de la Ley 39/2015, de 1 de octubre, el trámite de audiencia se practicará:",
+   [
+    "Inmediatamente antes de redactar la propuesta de resolución, y antes de la solicitud de informe jurídico o dictamen del órgano consultivo",
+    "Después de la propuesta de resolución y del informe del órgano de asesoramiento jurídico",
+    "Antes de iniciarse la instrucción, para que los interesados puedan alegar sobre el acuerdo de iniciación"
+   ],
+   0,
+   "Art. 82.1.",
+   "lpac 82.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.2 de la Ley 39/2015, de 1 de octubre, en el trámite de audiencia los interesados podrán alegar y presentar documentos en un plazo:",
+   [
+    "No inferior a diez días ni superior a quince",
+    "No inferior a cinco días ni superior a diez",
+    "No inferior a quince días ni superior a veinte"
+   ],
+   0,
+   "Art. 82.2.",
+   "lpac 82.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.4 de la Ley 39/2015, de 1 de octubre, se podrá prescindir del trámite de audiencia cuando:",
+   [
+    "No figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado",
+    "El instructor lo considere innecesario por la sencillez del asunto, aunque figuren otros hechos o pruebas",
+    "Se trate de un procedimiento iniciado a solicitud del interesado y no de oficio por la Administración"
+   ],
+   0,
+   "Art. 82.4.",
+   "lpac 82.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.3 de la Ley 39/2015, de 1 de octubre, si antes del vencimiento del plazo de audiencia los interesados manifiestan su decisión de no efectuar alegaciones ni aportar nuevos documentos:",
+   [
+    "Se tendrá por realizado el trámite",
+    "Debe esperarse a que concluya el plazo",
+    "Se archivará el procedimiento"
+   ],
+   0,
+   "Art. 82.3.",
+   "lpac 82.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83.2 de la Ley 39/2015, de 1 de octubre, el anuncio de información pública determinará un plazo para formular alegaciones que en ningún caso podrá ser inferior a:",
+   [
+    "Veinte días",
+    "Diez días",
+    "Treinta días"
+   ],
+   0,
+   "Art. 83.2. Se publica en el Diario oficial correspondiente.",
+   "lpac 83.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83.3 de la Ley 39/2015, de 1 de octubre, la comparecencia en el trámite de información pública:",
+   [
+    "No otorga, por sí misma, la condición de interesado, pero quienes presenten alegaciones tienen derecho a una respuesta razonada",
+    "Otorga en todo caso la condición de interesado, con derecho a ser notificado de la resolución final",
+    "Impide recurrir posteriormente la resolución definitiva, al considerarse que el interesado ha participado"
+   ],
+   0,
+   "Art. 83.3. La incomparecencia no impide interponer los recursos procedentes.",
+   "lpac 83.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.1 de la Ley 39/2015, de 1 de octubre, ponen fin al procedimiento:",
+   [
+    "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud (cuando no esté prohibida) y la declaración de caducidad",
+    "Solo la resolución y el silencio administrativo, quedando excluidos el desistimiento y la caducidad",
+    "La resolución y la interposición del recurso de alzada contra el acto que ponga fin al procedimiento"
+   ],
+   0,
+   "Art. 84.1. También la imposibilidad material sobrevenida (84.2).",
+   "lpac 84.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.1 de la Ley 39/2015, de 1 de octubre, iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad:",
+   [
+    "Se podrá resolver el procedimiento con la imposición de la sanción que proceda",
+    "Se archiva el procedimiento sin imposición de sanción, al quedar acreditada la responsabilidad",
+    "Debe iniciarse otro procedimiento distinto para imponer la sanción que corresponda al infractor"
+   ],
+   0,
+   "Art. 85.1.",
+   "lpac 85.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.3 de la Ley 39/2015, de 1 de octubre, cuando la sanción tenga únicamente carácter pecuniario, por reconocimiento de responsabilidad o pago voluntario se aplicarán reducciones de, al menos:",
+   [
+    "El 20 % sobre el importe de la sanción propuesta, acumulables entre sí",
+    "El 10 % sobre el importe de la sanción propuesta, que no son acumulables entre sí",
+    "El 50 % sobre el importe de la sanción propuesta, aplicable solo si se renuncia a toda acción"
+   ],
+   0,
+   "Art. 85.3. Condicionadas al desistimiento o renuncia de acciones o recursos en vía administrativa.",
+   "lpac 85.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86.1 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos con personas de Derecho público o privado:",
+   [
+    "Siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción y tengan por objeto satisfacer el interés público",
+    "Sin limitación alguna, incluso cuando versen sobre materias no susceptibles de transacción",
+    "Solo con personas de Derecho público, y siempre que no versen sobre materias transigibles"
+   ],
+   0,
+   "Art. 86.1.",
+   "lpac 86.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86.2 de la Ley 39/2015, de 1 de octubre, los instrumentos de terminación convencional deberán establecer como contenido mínimo:",
+   [
+    "La identificación de las partes, el ámbito personal, funcional y territorial y el plazo de vigencia",
+    "El importe económico del acuerdo y la sanción alternativa que se aplicará en caso de incumplimiento",
+    "La identificación de las partes y el órgano que resolverá los recursos contra el acuerdo"
+   ],
+   0,
+   "Art. 86.2.",
+   "lpac 86.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87 de la Ley 39/2015, de 1 de octubre, el acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoles un plazo de siete días para alegar tras su finalización; las actuaciones deberán practicarse en un plazo:",
+   [
+    "No superior a quince días",
+    "No superior a diez días",
+    "No superior a un mes"
+   ],
+   0,
+   "Art. 87. El plazo para resolver queda suspendido hasta su terminación.",
+   "lpac 87",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87 de la Ley 39/2015, de 1 de octubre, no tendrán la consideración de actuaciones complementarias:",
+   [
+    "Los informes que preceden inmediatamente a la resolución final del procedimiento",
+    "Las pruebas técnicas y los análisis contradictorios propuestos por los interesados durante el procedimiento",
+    "Las inspecciones indispensables para resolver el procedimiento acordadas antes de dictar resolución"
+   ],
+   0,
+   "Art. 87 primer párrafo.",
+   "lpac 87",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 88.1 de la Ley 39/2015, de 1 de octubre, cuando se trate de cuestiones conexas que no hubieran sido planteadas por los interesados, el órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquéllos por un plazo no superior a:",
+   [
+    "Quince días",
+    "Diez días",
+    "Cinco días"
+   ],
+   0,
+   "Art. 88.1.",
+   "lpac 88.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 88.2 de la Ley 39/2015, de 1 de octubre, en los procedimientos a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda:",
+   [
+    "Agravar su situación inicial",
+    "Estimar parcialmente la petición",
+    "Imponer condiciones"
+   ],
+   0,
+   "Art. 88.2.",
+   "lpac 88.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 88.5 de la Ley 39/2015, de 1 de octubre, en ningún caso podrá la Administración abstenerse de resolver:",
+   [
+    "So pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables",
+    "Cuando la solicitud sea manifiestamente infundada o pretenda el reconocimiento de derechos no previstos en el ordenamiento",
+    "Cuando falte el informe preceptivo que debía emitir otro órgano y haya transcurrido el plazo para ello"
+   ],
+   0,
+   "Art. 88.5. Sí cabe inadmitir solicitudes de derechos no previstos o manifiestamente infundados.",
+   "lpac 88.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.1 de la Ley 39/2015, de 1 de octubre, el órgano instructor de un sancionador resolverá la finalización del procedimiento, con archivo de las actuaciones, sin necesidad de propuesta de resolución, cuando:",
+   [
+    "Se ponga de manifiesto la inexistencia de los hechos, que no resulten acreditados, que no constituyan infracción, que no exista responsable identificado o que haya prescrito la infracción",
+    "El presunto responsable lo pida expresamente reconociendo los hechos, o el denunciante retire la denuncia presentada",
+    "Se haya presentado alegación alguna de los interesados en el plazo de audiencia o se haya practicado ya la prueba"
+   ],
+   0,
+   "Art. 89.1 a) a e).",
+   "lpac 89.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89.2 de la Ley 39/2015, de 1 de octubre, una vez concluida la instrucción de un procedimiento sancionador, el órgano instructor:",
+   [
+    "Formulará una propuesta de resolución que deberá ser notificada a los interesados, indicando la puesta de manifiesto del procedimiento y el plazo para alegaciones",
+    "Dictará directamente la resolución del procedimiento, sin propuesta previa y sin notificarla a los interesados",
+    "Remitirá el expediente al denunciante para que formule alegaciones antes de dictar la resolución"
+   ],
+   0,
+   "Art. 89.2.",
+   "lpac 89.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.2 de la Ley 39/2015, de 1 de octubre, si el órgano competente para resolver un sancionador considera que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución:",
+   [
+    "Se notificará al inculpado para que aporte alegaciones en el plazo de quince días",
+    "Impondrá directamente la sanción de mayor gravedad, sin necesidad de dar audiencia al inculpado",
+    "Devolverá el expediente al instructor para que formule una nueva propuesta, sin trámite de alegaciones"
+   ],
+   0,
+   "Art. 90.2.",
+   "lpac 90.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.3 de la Ley 39/2015, de 1 de octubre, la resolución sancionadora será ejecutiva:",
+   [
+    "Cuando no quepa contra ella ningún recurso ordinario en vía administrativa",
+    "Desde que se dicta, en todo caso, aunque contra ella quepa recurso ordinario en vía administrativa",
+    "Cuando transcurran tres meses desde su notificación sin que se haya interpuesto recurso alguno"
+   ],
+   0,
+   "Art. 90.3.",
+   "lpac 90.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91.3 de la Ley 39/2015, de 1 de octubre, transcurridos seis meses desde que se inició el procedimiento de responsabilidad patrimonial sin que haya recaído y se notifique resolución expresa:",
+   [
+    "Podrá entenderse que la resolución es contraria a la indemnización del particular",
+    "Se entiende estimada la indemnización solicitada por el particular por silencio administrativo",
+    "Caduca el procedimiento y debe iniciarse otro, sin que se interrumpa el plazo de prescripción"
+   ],
+   0,
+   "Art. 91.3.",
+   "lpac 91.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91.2 de la Ley 39/2015, de 1 de octubre, la resolución en procedimientos de responsabilidad patrimonial deberá pronunciarse sobre:",
+   [
+    "La existencia o no de relación de causalidad entre el funcionamiento del servicio público y la lesión, la valoración del daño y la cuantía y modo de indemnización",
+    "Solo la cuantía de la indemnización, sin necesidad de pronunciarse sobre la relación de causalidad",
+    "Únicamente la existencia del daño y la responsabilidad del funcionario que tramitó el expediente"
+   ],
+   0,
+   "Art. 91.2.",
+   "lpac 91.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 de la Ley 39/2015, de 1 de octubre, en el ámbito autonómico y local, los procedimientos de responsabilidad patrimonial se resolverán por:",
+   [
+    "Los órganos correspondientes de las Comunidades Autónomas o de las Entidades que integran la Administración Local",
+    "El Consejo de Ministros en todo caso, cualquiera que sea la Administración en la que se produjo la lesión",
+    "El Consejo de Estado, previo dictamen del órgano consultivo de la Comunidad Autónoma correspondiente"
+   ],
+   0,
+   "Art. 92.",
+   "lpac 92",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93 de la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados de oficio, la Administración podrá desistir:",
+   [
+    "Motivadamente, en los supuestos y con los requisitos previstos en las Leyes",
+    "Libremente, sin motivación alguna, en cualquier momento anterior a la resolución del procedimiento",
+    "Solo con autorización judicial previa y audiencia de los interesados en el procedimiento"
+   ],
+   0,
+   "Art. 93.",
+   "lpac 93",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94.4 de la Ley 39/2015, de 1 de octubre, la Administración aceptará de plano el desistimiento o la renuncia y declarará concluso el procedimiento, salvo que, habiéndose personado terceros interesados, éstos insten su continuación en el plazo de:",
+   [
+    "Diez días desde que fueron notificados del desistimiento o renuncia",
+    "Cinco días desde que fueron notificados del desistimiento o renuncia del interesado inicial",
+    "Quince días desde que fueron notificados del desistimiento o renuncia del interesado inicial"
+   ],
+   0,
+   "Art. 94.4.",
+   "lpac 94.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94.2 de la Ley 39/2015, de 1 de octubre, si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia:",
+   [
+    "Sólo afectará a aquellos que la hubiesen formulado",
+    "Afectará a todos los interesados, incluso a los que no la hubiesen formulado expresamente",
+    "Requerirá la conformidad de todos los interesados para producir efectos en el procedimiento"
+   ],
+   0,
+   "Art. 94.2.",
+   "lpac 94.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95.1 de la Ley 39/2015, de 1 de octubre, cuando se paralice un procedimiento iniciado a solicitud por causa imputable al interesado, la Administración le advertirá que, transcurridos tres meses:",
+   [
+    "Se producirá la caducidad del procedimiento",
+    "Se entenderá estimada su solicitud",
+    "Se le sancionará"
+   ],
+   0,
+   "Art. 95.1.",
+   "lpac 95.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95.3 de la Ley 39/2015, de 1 de octubre, la caducidad del procedimiento:",
+   [
+    "No producirá por sí sola la prescripción de las acciones, pero los procedimientos caducados no interrumpirán el plazo de prescripción",
+    "Produce la prescripción inmediata de las acciones del particular o de la Administración",
+    "Interrumpe el plazo de prescripción de las acciones, que se reanuda al iniciarse el nuevo procedimiento"
+   ],
+   0,
+   "Art. 95.3.",
+   "lpac 95.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95.2 de la Ley 39/2015, de 1 de octubre, no podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites:",
+   [
+    "Siempre que no sean indispensables para dictar resolución",
+    "Cuando sean trámites facultativos para el interesado, aunque su cumplimentación sea indispensable para resolver",
+    "Nunca, ya que la inactividad del interesado en cualquier trámite produce siempre la caducidad"
+   ],
+   0,
+   "Art. 95.2. Esa inactividad solo supone la pérdida del derecho al trámite.",
+   "lpac 95.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96.6 de la Ley 39/2015, de 1 de octubre, salvo que reste menos para su tramitación ordinaria, los procedimientos tramitados de manera simplificada deberán ser resueltos en:",
+   [
+    "Treinta días, a contar desde el siguiente al de la notificación del acuerdo de tramitación simplificada",
+    "Quince días, a contar desde el siguiente al de la notificación del acuerdo de tramitación simplificada",
+    "Dos meses, a contar desde el siguiente al de la notificación del acuerdo de tramitación simplificada"
+   ],
+   0,
+   "Art. 96.6.",
+   "lpac 96.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96.5 de la Ley 39/2015, de 1 de octubre, en los procedimientos sancionadores, se podrá adoptar la tramitación simplificada cuando:",
+   [
+    "Existan elementos de juicio suficientes para calificar la infracción como leve, sin que quepa oposición expresa del interesado",
+    "La sanción propuesta sea superior a seis mil euros y se prevea la oposición expresa del interesado",
+    "El interesado lo solicite expresamente y haya reconocido los hechos que se le imputan"
+   ],
+   0,
+   "Art. 96.5.",
+   "lpac 96.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96.2 de la Ley 39/2015, de 1 de octubre, cuando la Administración acuerde de oficio la tramitación simplificada, si algún interesado manifiesta su oposición expresa:",
+   [
+    "La Administración deberá seguir la tramitación ordinaria",
+    "Se mantiene la tramitación simplificada, al no existir recurso contra el acuerdo que la declara",
+    "Se archiva el procedimiento y se inicia otro por la tramitación ordinaria"
+   ],
+   0,
+   "Art. 96.2.",
+   "lpac 96.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96.3 de la Ley 39/2015, de 1 de octubre, si el órgano considera que no concurren las razones de la tramitación simplificada solicitada por el interesado, podrá desestimar la solicitud en el plazo de:",
+   [
+    "Cinco días desde su presentación, sin posibilidad de recurso",
+    "Diez días desde su presentación, con posibilidad de recurso de alzada contra la desestimación",
+    "Quince días desde su presentación, con posibilidad de recurso de reposición contra la desestimación"
+   ],
+   0,
+   "Art. 96.3.",
+   "lpac 96.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97.1 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares:",
+   [
+    "Sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico",
+    "Sin comunicarlo previamente al Defensor del Pueblo ni a las demás Administraciones afectadas",
+    "Sin previo dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 97.1.",
+   "lpac 97.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que:",
+   [
+    "Se trate de una resolución sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición",
+    "Se trate de actos favorables a los interesados, que requieren siempre la notificación previa",
+    "Se dicten por órgano colegiado, que debe confirmarlos antes de su ejecución"
+   ],
+   0,
+   "Art. 98.1 b).",
+   "lpac 98.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.2 de la Ley 39/2015, de 1 de octubre, el pago de sanciones pecuniarias, multas o derechos a la Hacienda pública se efectuará preferentemente por medios electrónicos, tales como:",
+   [
+    "Tarjeta de crédito y débito, transferencia bancaria y domiciliación bancaria",
+    "Solo en efectivo, ante la oficina de la Hacienda pública competente en cada caso",
+    "Solo con cheque bancario nominativo a favor de la Administración acreedora"
+   ],
+   0,
+   "Art. 98.2.",
+   "lpac 98.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99 de la Ley 39/2015, de 1 de octubre, las Administraciones podrán proceder a la ejecución forzosa de los actos administrativos:",
+   [
+    "Previo apercibimiento, salvo suspensión de la ejecución o cuando la Constitución o la Ley exijan la intervención de un órgano judicial",
+    "Sin apercibimiento previo, en cualquier momento y aunque se haya suspendido la ejecución",
+    "Solo con autorización judicial previa en todos los casos, cualquiera que sea el acto"
+   ],
+   0,
+   "Art. 99.",
+   "lpac 99",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.1 de la Ley 39/2015, de 1 de octubre, los medios de ejecución forzosa, respetando el principio de proporcionalidad, son:",
+   [
+    "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas",
+    "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y expropiación forzosa",
+    "Apremio sobre el patrimonio, embargo preventivo, multa coercitiva y arresto administrativo"
+   ],
+   0,
+   "Art. 100.1.",
+   "lpac 100.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.2 de la Ley 39/2015, de 1 de octubre, si fueran varios los medios de ejecución admisibles:",
+   [
+    "Se elegirá el menos restrictivo de la libertad individual",
+    "Se elegirá el más rápido, aunque sea el más restrictivo de la libertad individual",
+    "Se elegirá el menos costoso para la Administración, con independencia de su incidencia en la libertad"
+   ],
+   0,
+   "Art. 100.2.",
+   "lpac 100.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.3 de la Ley 39/2015, de 1 de octubre, si fuese necesario entrar en el domicilio del afectado para ejecutar un acto:",
+   [
+    "Las Administraciones deberán obtener el consentimiento del mismo o, en su defecto, la oportuna autorización judicial",
+    "Basta con la orden del Alcalde, sin necesidad de consentimiento ni de autorización judicial",
+    "Basta con el apercibimiento previo al afectado, notificado con anterioridad a la ejecución"
+   ],
+   0,
+   "Art. 100.3.",
+   "lpac 100.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101.2 de la Ley 39/2015, de 1 de octubre, en ningún caso podrá imponerse a los administrados una obligación pecuniaria que:",
+   [
+    "No estuviese establecida con arreglo a una norma de rango legal",
+    "Supere el 10 % de los ingresos del obligado, aunque esté establecida en una norma con rango de ley",
+    "No haya sido consultada previamente con las organizaciones representativas de los afectados"
+   ],
+   0,
+   "Art. 101.2.",
+   "lpac 101.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102.1 de la Ley 39/2015, de 1 de octubre, habrá lugar a la ejecución subsidiaria cuando se trate de actos que:",
+   [
+    "Por no ser personalísimos puedan ser realizados por sujeto distinto del obligado",
+    "Sean personalísimos y no puedan ser realizados por sujeto distinto del obligado, a costa del mismo",
+    "Tengan contenido pecuniario y deban satisfacerse mediante el procedimiento de apremio"
+   ],
+   0,
+   "Art. 102.1. Se realizan a costa del obligado.",
+   "lpac 102.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 103.2 de la Ley 39/2015, de 1 de octubre, la multa coercitiva es:",
+   [
+    "Independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas",
+    "Incompatible con las sanciones que puedan imponerse con tal carácter, sustituyéndolas",
+    "Una forma de sanción, que sustituye a las que puedan imponerse por la misma conducta"
+   ],
+   0,
+   "Art. 103.2.",
+   "lpac 103.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104.1 de la Ley 39/2015, de 1 de octubre, los actos que impongan una obligación personalísima de no hacer o soportar podrán ser ejecutados por compulsión directa sobre las personas:",
+   [
+    "En los casos en que la ley expresamente lo autorice, con respeto a su dignidad y derechos constitucionales",
+    "En todo caso, sin necesidad de autorización legal expresa, y con respeto a su dignidad",
+    "Cuando lo decida el órgano competente, aunque la ley no lo autorice expresamente"
+   ],
+   0,
+   "Art. 104.1.",
+   "lpac 104.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 105 de la Ley 39/2015, de 1 de octubre, no se admitirán a trámite acciones posesorias:",
+   [
+    "Contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido",
+    "Contra ninguna actuación administrativa, incluso las realizadas fuera del procedimiento establecido",
+    "Contra las actuaciones de las entidades locales realizadas en materia de su competencia"
+   ],
+   0,
+   "Art. 105.",
+   "lpac 105",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

@@ -8,7 +8,7 @@
   {
    "id": "e0",
    "titulo": "Participación y gestión desconcentrada: marco legal",
-   "subtitulo": "LBRL 24, 69-70, 128 y Ley 10/2017, 52-53",
+   "subtitulo": "Reglamento de Órganos Territoriales y Participación Ciudadana: arts. 2 a 10 y 44 a 117",
    "clave": [
     "Órganos territoriales de gestión desconcentrada (24)",
     "Información y participación (69)",
@@ -78,12 +78,595 @@
     "Información y participación (69) · Pleno público, JGL no (70)",
     "Zaragoza: reglamento específico y distritos (Ley 10/2017, 52) · información en los distritos (53)"
    ],
-   "ic": "🗣️"
+   "ic": "🗣️",
+   "articulos": [
+    [
+     "rot",
+     "2",
+     "Distritos: dieciséis distritos y barrios rurales",
+     "Los **Distritos** son **divisiones territoriales propias** con **órganos de gestión desconcentrada** (**Juntas Municipales** y **Juntas Vecinales**) para impulsar la **participación ciudadana**, sin perjuicio de la **unidad de gobierno**. Zaragoza tiene **dieciséis distritos**, entre ellos el **Distrito Rural**, que comprende **catorce barrios rurales**: Alfocea, Casetas, Garrapinillos, Juslibol, La Cartuja Baja, Montañana, Monzalbarba, Movera, Peñaflor, San Gregorio, San Juan de Mozarrifar, Torrecilla, Venta del Olivar y Villarrapa. Los distritos se rigen por **Juntas Municipales** y los barrios rurales por **Juntas Vecinales**.",
+     "¿Cuántos distritos hay en Zaragoza y cuántos barrios rurales comprende el Distrito Rural?"
+    ],
+    [
+     "rot",
+     "3",
+     "Juntas Municipales y Vecinales: órganos territoriales",
+     "Son **órganos del Ayuntamiento de ámbito territorial** para la **gestión desconcentrada** de distritos y barrios rurales, mejoran la **eficacia de los servicios** y **corrigen desequilibrios** entre zonas. Se rigen por **unidad de gobierno, eficacia, coordinación y solidaridad**.",
+     "¿Qué principios rigen la actuación de las Juntas Municipales y Vecinales?"
+    ],
+    [
+     "rot",
+     "4",
+     "Consejos de Distrito: órganos de gestión desconcentrada",
+     "Son **órganos territoriales de gestión desconcentrada** para prestar servicios y **acercar el Ayuntamiento a los ciudadanos**, apoyo y cauce para tramitar asuntos de las Juntas. Los **distritos se pueden agrupar** en Consejos de Distrito (Título III).",
+     "¿Para qué sirven los Consejos de Distrito?"
+    ],
+    [
+     "rot",
+     "5",
+     "Desconcentración continua, uniforme y programas piloto",
+     "El proceso de **desconcentración** es **continuo y uniforme** en todo el municipio; se pueden aprobar **programas piloto** en una o varias Juntas para **evaluar su impacto** y extenderlos después.",
+     "¿Qué carácter tiene el proceso de desconcentración municipal?"
+    ],
+    [
+     "rot",
+     "6",
+     "Derecho a la ciudad y principios de actuación municipal",
+     "El Ayuntamiento reconoce el **derecho de todos a la ciudad** y garantiza la **participación ciudadana**. **Informan** reglamentos y actuación: participación, **eficacia, igualdad de oportunidades, desconcentración, solidaridad, equilibrio entre distritos y barrios** y **políticas contra la discriminación**. El **Consejo de la Ciudad** y la **Comisión Especial de Sugerencias y Reclamaciones** actúan en el ámbito del Área de Participación Ciudadana.",
+     "¿Qué derecho reconoce el art. 6 a todos los vecinos?"
+    ],
+    [
+     "rot",
+     "7",
+     "Derecho a la participación: acceso a plenos, información e iniciativas",
+     "Los vecinos pueden participar **directamente** en los asuntos públicos mediante **acceso a las sesiones plenarias** (pudiendo participar al terminar) y la difusión de acuerdos. El Ayuntamiento facilita el **acceso a la información** con servicios tradicionales y **telemáticos**, garantizando la **privacidad de datos**. Tienen derecho a la **Iniciativa Ciudadana, Audiencia Pública, Consulta Popular, Encuesta Ciudadana** y a acudir a la **Comisión Especial de Sugerencias y Reclamaciones**.",
+     "¿Qué instrumentos de participación reconoce el art. 7 a los vecinos?"
+    ],
+    [
+     "rot",
+     "8",
+     "Censo Municipal de Entidades Ciudadanas y derechos de las entidades",
+     "El **Censo Municipal de Entidades Ciudadanas** es el **instrumento básico** de relación entre la Administración y las entidades. Derechos reconocidos: **recibir convocatorias y publicaciones**, **participar en órganos municipales** (en especial el Consejo de la Ciudad), **obtener subvenciones**, **ejercer la Iniciativa Ciudadana** y otros (texto oficial).",
+     "¿Cuál es el instrumento básico de relación entre el Ayuntamiento y las entidades ciudadanas?"
+    ],
+    [
+     "rot",
+     "9",
+     "Consejo de la Ciudad de Zaragoza: composición y funciones",
+     "Se compone de **representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas**. Además de las funciones que determine el Pleno, emite **informes, estudios y propuestas** sobre **desarrollo económico local, planificación estratégica y grandes proyectos urbanos**.",
+     "¿Qué estudios y propuestas emite el Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "10",
+     "Fiscalización de Intervención y recursos contra Consejos de Distrito",
+     "Los actos y acuerdos con **contenido económico** deben ser **fiscalizados e intervenidos por la Intervención Municipal** (arts. 213 y ss. TRLRHL). Se pueden **recurrir ante el órgano municipal competente** los actos de los **Consejos de Distrito** que sean **definitivos** o, de trámite, **impidan continuar o causen indefensión**.",
+     "¿Qué actos de los Consejos de Distrito se pueden recurrir?"
+    ],
+    [
+     "rot",
+     "44",
+     "Información municipal: medios y Oficinas de Información",
+     "El Ayuntamiento informa de su gestión por **medios de comunicación, publicaciones, carteles, vídeos, tablones, paneles y actos informativos**. Hay **Oficinas de Información** en las áreas centrales y en las **Juntas Municipales y Vecinales**; allí se solicitan **copias y certificaciones** de acuerdos y se consultan **archivos y registros**.",
+     "¿Dónde se solicitan las copias y certificaciones de acuerdos municipales?"
+    ],
+    [
+     "rot",
+     "45",
+     "Medios de comunicación locales",
+     "El Ayuntamiento **potencia los medios locales** y propicia el acceso de **ciudadanos y asociaciones** inscritas en el Censo; fija **cauces y plazos** y **incorpora nuevas tecnologías** para facilitar la información y la participación.",
+     "¿A quién propicia el Ayuntamiento el acceso a los medios locales?"
+    ],
+    [
+     "rot",
+     "46",
+     "Boletín municipal trimestral",
+     "El Ayuntamiento promueve un **boletín municipal trimestral**; en su **consejo de redacción** deben estar **todos los grupos políticos** y el **Consejo de la Ciudad**.",
+     "¿Con qué periodicidad se edita el boletín municipal?"
+    ],
+    [
+     "rot",
+     "47",
+     "Radio y televisión local",
+     "El Ayuntamiento **potencia radio y televisión locales**; elabora un **reglamento interno** y garantiza la **representación de todos los grupos políticos y del Consejo de la Ciudad** en los planes de difusión y en los órganos de dirección de los medios municipales audiovisuales (con **voz y voto**).",
+     "¿Quién está representado en los órganos de los medios audiovisuales municipales?"
+    ],
+    [
+     "rot",
+     "48",
+     "Página web municipal: finalidades",
+     "La **página web** debe: **facilitar gestiones**, **mejorar la transparencia**, **potenciar la relación entre Administraciones**, **posibilitar trámites administrativos municipales** y **dar a conocer la red asociativa local**.",
+     "¿Qué cinco finalidades tiene la página web municipal?"
+    ],
+    [
+     "rot",
+     "49",
+     "Red informática cívica",
+     "El Ayuntamiento desarrollará progresivamente un **foro o red informática cívica**, abierto a los residentes, para **interactuar con los responsables de servicios**, **discutir con otros ciudadanos, expertos y Concejales** y **contribuir con propuestas**.",
+     "¿Para qué sirve la red informática cívica?"
+    ],
+    [
+     "rot",
+     "50",
+     "Firma electrónica y certificado de seguridad",
+     "El Ayuntamiento **fomenta la firma electrónica**; todos los vecinos tienen derecho a un **certificado de seguridad** de su correo electrónico o número clave para participar en la red cívica, encuestas y foros.",
+     "¿Qué derecho tienen los vecinos para participar en la red informática cívica?"
+    ],
+    [
+     "rot",
+     "51",
+     "Iniciativa Ciudadana y Oficina Municipal de Apoyo al Ciudadano",
+     "La **Iniciativa Ciudadana** es la forma de participación por la que los ciudadanos **solicitan al Ayuntamiento una actividad** de competencia o interés público municipal, **aportando medios económicos, bienes, derechos o trabajo personal**. La **Oficina Municipal de Apoyo al Ciudadano** presta apoyo para estas demandas. **No se admiten** propuestas de **intereses corporativos o de grupo** ajenos al interés general, ni contenido imposible, inconstitucional, ilegal o delictivo.",
+     "¿Qué aportan los ciudadanos en una Iniciativa Ciudadana?"
+    ],
+    [
+     "rot",
+     "52",
+     "Audiencia Pública: forma de participación y quién puede solicitarla",
+     "Es la forma de participación por la que los ciudadanos **proponen acuerdos** o **reciben información** de las actuaciones municipales; se realiza **de forma oral**, **en unidad de acto** y con asistencia de quien lo desee. Su ámbito es la **ciudad** o una **Junta Municipal o Vecinal**. Pueden solicitarla las **Juntas**, el **Consejo de la Ciudad**, la **Comisión de Sugerencias y Reclamaciones**, **entidades ciudadanas** y un **colectivo de mayores de edad empadronados que represente al menos el 10 % del padrón** (en ámbito de ciudad; porcentajes menores en Juntas).",
+     "¿Qué porcentaje del padrón debe representar un colectivo para solicitar una Audiencia Pública de ciudad?"
+    ],
+    [
+     "rot",
+     "53",
+     "Consulta Popular: asuntos, Pleno y firmas",
+     "El Alcalde, **previo acuerdo del Pleno por mayoría absoluta**, puede someter a **Consulta Popular** asuntos de **competencia municipal propia y carácter local** de especial importancia, **salvo los de Haciendas Locales**. Las **solicitudes** deben suscribirse por vecinos en número mínimo de **10.000 habitantes más el 5 % de los que excedan de 100.000**. La Corporación remite copia del acuerdo a la **Diputación General de Aragón** (reglas completas en el texto oficial).",
+     "¿Qué mayoría del Pleno exige someter un asunto a consulta popular y qué materia se excluye?"
+    ],
+    [
+     "rot",
+     "54",
+     "Estudios de opinión: encuesta ciudadana y Observatorio Urbano",
+     "Por medio de la **encuesta ciudadana**, el **Observatorio Urbano** (dependiente del **Área de Participación Ciudadana**) recoge la opinión de vecinos y entidades sobre los servicios y asuntos relevantes y analiza la **calidad de vida** con **indicadores**. Las encuestas respetan **voluntariedad, secreto, transparencia, especialidad y proporcionalidad**; se da cuenta al **Pleno** de las actividades.",
+     "¿De qué Área depende el Observatorio Urbano?"
+    ],
+    [
+     "rot",
+     "55",
+     "Publicidad de las sesiones del Pleno y de las Juntas",
+     "Las sesiones del **Pleno de la Corporación** y de los **Plenos de las Juntas Municipales y Vecinales son públicas**. Pueden acceder los **medios de comunicación**. A la **Junta de Gobierno Local y a las Comisiones** se puede convocar a representantes de **asociaciones vecinales** solo para escuchar su parecer. Las de otros órganos complementarios **podrán ser públicas**.",
+     "¿Son públicas las sesiones del Pleno de la Corporación y de los Plenos de las Juntas?"
+    ],
+    [
+     "rot",
+     "56",
+     "Turno de ruegos y preguntas del público en el Pleno",
+     "Terminada la sesión ordinaria del Pleno, el **Alcalde puede abrir un turno de ruegos y preguntas** del público sobre asuntos del orden del día; **lo ordena y cierra el Alcalde**. Quien quiera intervenir lo solicita **por escrito al Alcalde con antelación mínima de 24 horas**, en la Secretaría General del Pleno. Las preguntas se **contestan por escrito** en el plazo del texto oficial.",
+     "¿Con qué antelación hay que solicitar por escrito intervenir en el turno de ruegos y preguntas?"
+    ],
+    [
+     "rot",
+     "57",
+     "Reconocimiento de la dignidad cívica",
+     "El Ayuntamiento **reconoce actividades y trayectorias** de personas y entidades que sean **ejemplos de dignidad cívica**: cumplimiento de la ley, defensa de los derechos propios y ajenos y respeto a las instituciones. Se otorgan **premios** por conductas singularmente ejemplares.",
+     "¿Qué reconoce el Ayuntamiento con los premios del art. 57?"
+    ],
+    [
+     "rot",
+     "58",
+     "Fomento del asociacionismo y el voluntariado",
+     "A través del **Área de Participación Ciudadana**, el Ayuntamiento **fomenta el asociacionismo y el voluntariado** en entidades de **fines de interés social** y colabora en **formación, asesoramiento (incluida gestión compartida de instalaciones)** y **recursos** para programas de calidad.",
+     "¿Qué Área fomenta el asociacionismo y el voluntariado?"
+    ],
+    [
+     "rot",
+     "59",
+     "Censo Municipal de Entidades Ciudadanas: objetivos",
+     "Tiene dos objetivos: **1)** **reconocer a las entidades inscritas** y garantizar sus derechos; **2)** permitir al Ayuntamiento **conocer los datos de la sociedad civil** (representatividad, utilidad, autonomía, ayudas recibidas). Todas las inscritas pueden formar parte del **Consejo de la Ciudad** mediante la **Asamblea Ciudadana**.",
+     "¿Qué dos objetivos tiene el Censo Municipal de Entidades Ciudadanas?"
+    ],
+    [
+     "rot",
+     "60",
+     "Entidades que pueden inscribirse en el Censo",
+     "Pueden optar las **asociaciones sin ánimo de lucro** legalmente constituidas, de **organización democrática**, cuyo objetivo sea la **defensa, fomento o mejora de intereses generales o sectoriales** de los ciudadanos, con **ámbito en el término municipal** y **sede o delegación estable** en él. Las muy descentralizadas pueden inscribir por separado a sus **grupos en las Juntas**. La **Alcaldía-Presidencia** regula la estructura del Censo.",
+     "¿Qué requisitos deben cumplir las asociaciones para inscribirse en el Censo?"
+    ],
+    [
+     "rot",
+     "61",
+     "Documentos para solicitar la inscripción en el Censo",
+     "Se presenta **instancia a la Alcaldía** con: **estatutos**, **número de inscripción en el Registro de Asociaciones**, **acta de la última asamblea** que eligió la junta, **sede social o delegación**, **CIF**, **certificación del número de socios**, **programa o memoria anual** y **presupuesto anual** (lista completa en el texto oficial).",
+     "¿A quién se dirige la solicitud de inscripción en el Censo?"
+    ],
+    [
+     "rot",
+     "62",
+     "Inscripción en el Censo: treinta días y adscripción",
+     "El Alcalde o Teniente de Alcalde delegado **acuerda la inscripción por resolución en treinta días** desde la solicitud (salvo interrupción por subsanación) y notifica el **número de inscripción**; desde entonces está **de alta**. Las entidades de **ámbito de ciudad** se relacionan a través del **Área de Participación Ciudadana**; las demás se **adscriben a la Junta Municipal o Vecinal** de su actividad principal. La denegación requiere **resolución motivada** y **informe del Consejo de la Ciudad**.",
+     "¿En cuántos días se acuerda la inscripción de una entidad en el Censo?"
+    ],
+    [
+     "rot",
+     "63",
+     "Comunicación de modificaciones de datos: un mes",
+     "Las entidades inscritas **comunican las modificaciones** de los datos de inscripción **en el mes siguiente** a que se produzcan; la comunicación debe ir **firmada por el Secretario o por el Presidente** que conste en el Censo.",
+     "¿En qué plazo deben comunicar las entidades inscritas las modificaciones de sus datos?"
+    ],
+    [
+     "rot",
+     "64",
+     "Memoria anual y acreditación de socios y cargos",
+     "Si el Censo lo requiere, las entidades presentan **memoria de actividades del año anterior** y acreditan **número de asociados y nombramientos de cargos directivos**. La falta de esa documentación puede determinar **la no continuidad de la inscripción**, **previa audiencia** al interesado.",
+     "¿Qué puede ocurrir si una entidad no presenta la documentación que le pide el Censo?"
+    ],
+    [
+     "rot",
+     "65",
+     "Envío de los datos del Censo a las Áreas Municipales",
+     "Los datos del Censo se envían a **todas las Áreas municipales y centros territorializados** para canalizar la participación, **una vez por trimestre** y siempre que un órgano lo pida por escrito.",
+     "¿Con qué frecuencia se envían los datos del Censo a las Áreas Municipales?"
+    ],
+    [
+     "rot",
+     "66",
+     "El Censo es único, público y Fichero de Entidades Ciudadanas",
+     "El Censo es **único** y depende del **Área de Participación Ciudadana**. Sus **datos generales son públicos** (con restricciones legales). **Anualmente** se elabora y actualiza un **Fichero de Entidades Ciudadanas** con datos y **subvenciones recibidas**.",
+     "¿Cuántos Censos de entidades ciudadanas hay y de qué Área depende?"
+    ],
+    [
+     "rot",
+     "67",
+     "Declaración de Interés público municipal o de Interés ciudadano",
+     "Las entidades inscritas con **fines de interés social y funcionamiento democrático** pueden pedir ser declaradas de **Interés público municipal** o de **Interés ciudadano**. Para la primera hace falta **declaración supramunicipal de Utilidad Pública** o **dos años consecutivos de Interés ciudadano**. **Caduca a los cinco años**.",
+     "¿A los cuántos años caduca la declaración de Interés público municipal?"
+    ],
+    [
+     "rot",
+     "68",
+     "Derechos de las entidades de Interés público municipal",
+     "Además de los de toda entidad inscrita: **participar en sesiones del Pleno** y **Comisiones**, ser consultadas en **encuestas**, acceder a **ayudas municipales**, **promover iniciativas ciudadanas de disposiciones generales**, **promover encuestas** y **Audiencia Pública**, recibir **órdenes del día y actas**, mencionar la declaración en sus documentos, entre otros (texto oficial).",
+     "¿Qué iniciativas pueden promover las entidades de Interés público municipal?"
+    ],
+    [
+     "rot",
+     "69",
+     "Solicitud de Interés público municipal: memoria",
+     "La entidad dirige su petición al **Alcalde** con una **memoria suscrita por Presidente y Secretario**: **número de socios**, **beneficiarios**, **medios personales y materiales**, **actividades de los dos últimos años**, **resultados** y **cumplimiento de fines**. La propuesta se informa por los **servicios municipales** y por el **Consejo de la Ciudad**.",
+     "¿Qué órganos informan la propuesta de declaración de Interés público municipal?"
+    ],
+    [
+     "rot",
+     "70",
+     "Actualización anual antes del 1 de marzo",
+     "Las entidades de Interés público municipal **actualizan cada año, antes del 1 de marzo**, la documentación; la **falta de presentación** supone **pérdida automática**. La declaración **caduca a los cinco años** y su prórroga exige **resolución expresa del Pleno** previa solicitud.",
+     "¿Qué ocurre si una entidad de Interés público municipal no actualiza su documentación antes del 1 de marzo?"
+    ],
+    [
+     "rot",
+     "71",
+     "Interés ciudadano: entidades con más de dos años de inscripción",
+     "Pueden solicitarlo las entidades, federaciones o uniones **inscritas más de dos años** en el Censo. La declaración puede ser **vecinal, ambiental, deportivo, cultural, social u otras análogas**.",
+     "¿Cuánto tiempo debe llevar inscrita una entidad para pedir la declaración de Interés ciudadano?"
+    ],
+    [
+     "rot",
+     "72",
+     "Derechos de las entidades de Interés ciudadano",
+     "**Preferencia** en el acceso a **subvenciones municipales** y a **locales públicos** y espacios de centros cívicos y culturales; **mencionar la declaración**; **solicitar el Interés público municipal tras dos años**; ser **consultadas en encuestas** de la Junta Municipal o Vecinal y de ciudad, entre otros.",
+     "¿Qué preferencia tienen las entidades de Interés ciudadano?"
+    ],
+    [
+     "rot",
+     "73",
+     "Solicitud de Interés ciudadano: memoria",
+     "Se dirige al **Alcalde** con una **memoria suscrita por Presidente y Secretario** (socios, beneficiarios, medios, **actividades de los dos últimos años**, resultados y cumplimiento de fines). La propuesta se informa por los **servicios municipales** y el **Consejo de la Ciudad**.",
+     "¿Qué actividades debe reflejar la memoria de solicitud de Interés ciudadano?"
+    ],
+    [
+     "rot",
+     "74",
+     "Actualización anual de la documentación del Interés ciudadano",
+     "Las entidades de **Interés ciudadano** deben presentar **cada año, antes del 1 de marzo**, la actualización de los documentos; la **falta de presentación podrá dar lugar** a la pérdida de la declaración.",
+     "¿Pierde automáticamente la declaración de Interés ciudadano quien no actualiza antes del 1 de marzo?"
+    ],
+    [
+     "rot",
+     "75",
+     "Iniciativa Ciudadana de las entidades y gestión cívica",
+     "Las entidades pueden hacer **propuestas por escrito** sobre su barrio o la ciudad, **a través de la Oficina Municipal de Apoyo al Ciudadano**; no se admiten las que defiendan **intereses corporativos** o tengan contenido imposible, inconstitucional, ilegal o delictivo. Las entidades **sin ánimo de lucro** pueden participar en la gestión de servicios o equipamientos municipales (**gestión cívica**: **voluntaria y no lucrativa**, por **concurso público** si hay varias).",
+     "¿Qué carácter tiene la gestión cívica de competencias municipales?"
+    ],
+    [
+     "rot",
+     "76",
+     "Audiencia Pública solicitada por entidades: 10 % de asociados",
+     "Las entidades inscritas pueden ejercer la **Audiencia Pública** acreditando que **sus asociados mayores de edad superan el 10 % del Padrón**. Para la de **Junta Municipal o Vecinal**, los porcentajes del art. 52.",
+     "¿Qué porcentaje del Padrón deben superar los asociados de una entidad para ejercer la Audiencia Pública?"
+    ],
+    [
+     "rot",
+     "77",
+     "Estudios de opinión ciudadana a las entidades",
+     "El Ayuntamiento, a través del **Consejo de la Ciudad**, el **Observatorio Urbano** o la **Comisión Especial de Sugerencias y Reclamaciones**, puede **pedir la opinión de las entidades inscritas** sobre asuntos relevantes o la **calidad de los servicios** relacionados con su objeto social.",
+     "¿Qué órganos pueden solicitar la opinión de las entidades inscritas?"
+    ],
+    [
+     "rot",
+     "78",
+     "Subvenciones y acceso a locales para las entidades",
+     "El Ayuntamiento **subvenciona** a las entidades inscritas que **complementen el fin público municipal**, según los recursos y convocatorias. Todas pueden **acceder a Centros Cívicos y Deportivos** respetando la **preferencia** de las de **Interés público municipal o Interés ciudadano**.",
+     "¿Qué entidades tienen preferencia en el acceso a locales y espacios municipales?"
+    ],
+    [
+     "rot",
+     "79",
+     "Participación de las entidades en foros supramunicipales",
+     "El Ayuntamiento promueve, según sus disponibilidades presupuestarias, la **participación de las entidades en entes supramunicipales** que complementen el fin público municipal y su integración en **Federaciones, Uniones o Confederaciones democráticas** sin ánimo de lucro.",
+     "¿En qué agrupaciones promueve el Ayuntamiento la integración de las entidades?"
+    ],
+    [
+     "rot",
+     "80",
+     "Intervención de las entidades ante el Pleno del Ayuntamiento",
+     "Las entidades inscritas pueden intervenir ante el **Pleno** sobre un **punto del orden del día de la parte resolutiva**, **solicitándolo al Alcalde por escrito** a la Secretaría General del Pleno antes de la sesión. Con autorización y **a través de un único representante**, exponen su parecer **antes de la lectura, debate y votación**.",
+     "¿Cuántos representantes puede utilizar una entidad para intervenir en el Pleno?"
+    ],
+    [
+     "rot",
+     "81",
+     "Intervención de las entidades en las Juntas Municipales y Vecinales",
+     "Las entidades inscritas intervienen ante los **Plenos de las Juntas** a las que pertenezcan, **solicitándolo al Concejal Presidente o Alcalde de Barrio**, con **un único representante**. También en el **turno de intervenciones** que el Presidente puede abrir al final de la sesión.",
+     "¿A quién solicitan las entidades intervenir ante el Pleno de una Junta?"
+    ],
+    [
+     "rot",
+     "82",
+     "Presupuestos participativos y talleres de debate",
+     "El Ayuntamiento, a través del **Consejo de la Ciudad** y atendiendo al **Observatorio Urbano** y a la **Comisión de Sugerencias y Reclamaciones**, puede promover instrumentos como **presupuestos y programas de inversión participativos** y **talleres de debate** sobre propuestas de futuro.",
+     "¿Qué instrumentos de participación local puede promover el Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "83",
+     "Consejo de la Ciudad: órgano necesario y consultivo",
+     "Es el **Consejo Social de la Ciudad**, **instrumento participativo de carácter consultivo** de las principales organizaciones económicas y sociales, centrado en **desarrollo local, planificación estratégica y grandes proyectos urbanos**. Es un **órgano municipal necesario** con representantes de organizaciones **económicas, sociales, profesionales y de vecinos más representativas**.",
+     "¿Qué carácter tiene el Consejo de la Ciudad de Zaragoza?"
+    ],
+    [
+     "rot",
+     "84",
+     "Acuerdos del Consejo de la Ciudad: informe o petición",
+     "Los acuerdos del Consejo de la Ciudad **tienen carácter de informe o petición** y **no son vinculantes** para los órganos de gobierno municipal.",
+     "¿Son vinculantes los acuerdos del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "85",
+     "Funciones del Consejo de la Ciudad",
+     "Entre otras: **coordinar y dirigir la participación sectorial**, **constituir consejos sectoriales, comisiones y grupos de trabajo**; **presentar iniciativas, sugerencias y propuestas**; **proponer soluciones a problemas de la ciudad**; **colaborar con el Observatorio Urbano** (lista completa en el texto oficial).",
+     "¿Qué órganos puede constituir el Consejo de la Ciudad para participar sectorialmente?"
+    ],
+    [
+     "rot",
+     "86",
+     "Ámbito de actuación del Consejo de la Ciudad",
+     "El ámbito del Consejo de la Ciudad **coincide con el del municipio**.",
+     "¿Qué ámbito territorial tiene el Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "87",
+     "Estructura del Consejo de la Ciudad",
+     "Tiene necesariamente: **Presidencia, Vicepresidencia, Pleno del Consejo, Comisiones y Oficina Técnica**. Los asisten el **Secretario General del Pleno** (o funcionario delegado) y el **Área de Participación Ciudadana**. El **Secretario de Actas del Pleno** actúa como **Secretario del Pleno del Consejo**.",
+     "¿Qué cinco elementos componen la estructura del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "88",
+     "Comisiones de estudio, grupos de trabajo y consejos sectoriales",
+     "El **Pleno del Consejo** puede crear **comisiones de estudio, grupos de trabajo o consejos sectoriales**, cada uno con **finalidad concreta, composición determinada y duración prefijada**.",
+     "¿Qué tres características tienen las comisiones y grupos que crea el Pleno del Consejo?"
+    ],
+    [
+     "rot",
+     "89",
+     "Presidencia del Consejo de la Ciudad: el Alcalde",
+     "La Presidencia corresponde al **Alcalde**, que **puede delegar** el cargo en cualquier miembro del Consejo.",
+     "¿A quién corresponde la Presidencia del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "90",
+     "Funciones de la Presidencia del Consejo de la Ciudad",
+     "**Presidir y coordinar** el Consejo; **fijar el orden del día, convocar y moderar** el Pleno; **autorizar con su firma** actos y certificaciones; **velar por el cumplimiento de fines**; ejecutar acuerdos; **proponer consejos sectoriales y comisiones**; y **representar** al Consejo.",
+     "¿Quién fija el orden del día y convoca el Pleno del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "91",
+     "Vicepresidencia del Consejo de la Ciudad",
+     "El Presidente nombra **Vicepresidente al Teniente de Alcalde de Participación Ciudadana**, que le **asiste**, le **suple** en vacante, enfermedad o ausencia y ejerce las funciones que le **delegue**.",
+     "¿Quién es el Vicepresidente del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "92",
+     "Composición del Pleno del Consejo de la Ciudad",
+     "Forman parte, con **voz y voto**: el **Alcalde (Presidente)**; el **Teniente de Alcalde Coordinador del Área de Participación Ciudadana (Vicepresidente)**; **nueve representantes de la Corporación**; **nueve representantes de la sociedad civil** (cinco elegidos por la **Asamblea Ciudadana**, que se reúne **cada dos años**, hasta dos para entidades de **Interés público municipal** y dos para federaciones vecinales), y **nueve miembros de entidades sociales, económicas y profesionales** (texto oficial).",
+     "¿Cuántos representantes de la Corporación y de la sociedad civil forman parte del Pleno del Consejo?"
+    ],
+    [
+     "rot",
+     "93",
+     "Funciones del Pleno del Consejo de la Ciudad",
+     "Corresponde al **Pleno del Consejo** realizar las funciones del **art. 85** y las que le encomiende el **Pleno municipal**.",
+     "¿A qué artículo remiten las funciones del Pleno del Consejo?"
+    ],
+    [
+     "rot",
+     "94",
+     "Sesiones del Pleno del Consejo: cuatro ordinarias al año",
+     "El Pleno del Consejo se reúne **cuatro veces al año** en **sesión ordinaria**; en **extraordinaria** cuando lo considere el Presidente o lo pida **un tercio** de sus miembros. Convocatoria ordinaria con **quince días naturales** de antelación; extraordinaria con **mínimo de dos días**. El orden del día lo fija el Presidente con la **Oficina Técnica**.",
+     "¿Con cuántos días naturales de antelación se convoca una sesión ordinaria del Pleno del Consejo?"
+    ],
+    [
+     "rot",
+     "95",
+     "Consejos sectoriales, comisiones de estudio y grupos de trabajo",
+     "El Consejo puede proponer, con **carácter temporal o permanente**, **Consejos Sectoriales, Comisiones de estudio y grupos de trabajo** para analizar los problemas de la ciudad. Funciones: **estudios e iniciativas** sobre necesidades de la ciudad y **asesorar a los órganos del Consejo**.",
+     "¿Qué funciones tienen las comisiones y grupos de trabajo del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "96",
+     "Número y composición de las comisiones: lo decide el Pleno",
+     "El **Pleno del Consejo** determina en cada caso el **número, funciones u objetivos y composición** de las Comisiones, grupos de estudio y Consejos Sectoriales, que se integran por **miembros del Consejo** y **personas y entidades** relacionadas con su objeto.",
+     "¿Quién determina la composición de las comisiones y grupos de estudio del Consejo?"
+    ],
+    [
+     "rot",
+     "97",
+     "Consejo Municipal de Niños y Niñas",
+     "Se puede crear el **Consejo Municipal de Niños/as** como **órgano de participación ciudadana** para abordar asuntos relativos a los niños; el **Consejo de la Ciudad lo promueve**, hace seguimiento de sus propuestas y destina medios. Su finalidad es la **información y participación de los niños en la vida municipal**.",
+     "¿Qué finalidad tiene el Consejo Municipal de Niños y Niñas?"
+    ],
+    [
+     "rot",
+     "98",
+     "Oficina Técnica del Consejo de la Ciudad",
+     "El Consejo dispone de una **Oficina Técnica** (soporte técnico y administrativo) **adscrita al Área de Participación Ciudadana**, que puede encomendar parte de sus funciones a **entidades sin ánimo de lucro** con finalidad pública. Funciones: **registro de miembros**, **preparar reuniones y convocatorias**, **actas** y asistencia técnica (texto oficial).",
+     "¿A qué Área está adscrita la Oficina Técnica del Consejo?"
+    ],
+    [
+     "rot",
+     "99",
+     "Derechos de los miembros del Consejo de la Ciudad",
+     "**Solicitar la inclusión de asuntos** en el orden del día; **asistir, debatir, formular ruegos y preguntas y votar**; **solicitar certificaciones** de acuerdos por el Presidente; **recibir información** adecuada.",
+     "¿Qué derechos tienen los miembros de los órganos del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "100",
+     "Deberes de los miembros del Consejo de la Ciudad",
+     "**Asistir** a las reuniones; **abstenerse** cuando se traten asuntos que afecten a intereses particulares de las entidades que representan; **guardar confidencialidad** cuando el asunto lo requiera.",
+     "¿Cuándo deben abstenerse los miembros del Consejo de la Ciudad?"
+    ],
+    [
+     "rot",
+     "101",
+     "Pérdida de la condición de miembro del Consejo",
+     "Se pierde por: **acuerdo** de los órganos o entidades representados; **renuncia**; **declaración judicial** que afecte a la capacidad de obrar o inhabilite para cargo público; **cese en el cargo público** que representaban; **transcurso del período** de elección. Los representantes de la sociedad civil cesados **no pueden ser nombrados de nuevo** durante el mandato de la Corporación.",
+     "¿Pueden ser nombrados otra vez en el mismo mandato los representantes de la sociedad civil cesados?"
+    ],
+    [
+     "rot",
+     "102",
+     "Comisión Especial de Sugerencias y Reclamaciones: creación y composición",
+     "Se crea para **defender los derechos de los vecinos** ante la Administración; está **adscrita al Área de Participación Ciudadana**; supervisa la actividad municipal y **da cuenta al Pleno mediante informe anual**. La forman **Concejales de todos los grupos** de forma **proporcional**, con un número máximo **igual al de la Junta de Gobierno Local**; los nombra el **Alcalde** a propuesta de los grupos.",
+     "¿A qué Área está adscrita la Comisión Especial de Sugerencias y Reclamaciones?"
+    ],
+    [
+     "rot",
+     "103",
+     "Funciones de la Comisión: autonomía e investigación de quejas",
+     "**No está sujeta a mandato imperativo** ni recibe instrucciones. Funciones: **recibir quejas, reclamaciones y sugerencias** por retrasos o deficiencias; **recabar información** y formular **advertencias, propuestas, recomendaciones y recordatorios de deberes legales**; recibir **iniciativas de mejora** de servicios, entre otras.",
+     "¿Puede la Comisión Especial de Sugerencias y Reclamaciones recibir instrucciones de alguna autoridad?"
+    ],
+    [
+     "rot",
+     "104",
+     "Causas de cese de los miembros de la Comisión",
+     "Cesan por: **renuncia**; **pérdida de la condición de miembro del Pleno**; **expiración del plazo**; **muerte, inhabilitación o incapacidad**; **notoria negligencia**; **condena firme por delito doloso**; **reprobación del Pleno por mayoría de sus Concejales**.",
+     "¿Qué mayoría del Pleno puede reprobar a un miembro de la Comisión?"
+    ],
+    [
+     "rot",
+     "105",
+     "Investigaciones y alcance de las resoluciones de la Comisión",
+     "Puede **iniciar y proseguir investigaciones de oficio o a petición de parte**, proponer **fórmulas de conciliación** y **recomendar la modificación o derogación** de una norma que produzca resultados injustos. Sus resoluciones **no modifican ni anulan por sí mismas** actos administrativos ni puede **interponer acciones judiciales**.",
+     "¿Pueden anular actos administrativos las resoluciones de la Comisión?"
+    ],
+    [
+     "rot",
+     "106",
+     "Sesiones y quórum de la Comisión de Sugerencias y Reclamaciones",
+     "Se reúne **al menos tres veces al año** (con reuniones extraordinarias si hay gravedad o urgencia). Para su constitución se requiere **un tercio de sus miembros**; si no hay quórum, se constituye **media hora después** en segunda convocatoria con los asistentes. Los acuerdos se adoptan **por mayoría simple**.",
+     "¿Cuántas veces al año se reúne como mínimo la Comisión?"
+    ],
+    [
+     "rot",
+     "107",
+     "Sesiones no públicas y reserva de la investigación",
+     "Las sesiones **no son públicas**. Pueden comparecer **autoridades, funcionarios o empleados** relacionados con la queja para informar y deben **abandonar la reunión antes de la deliberación**. La investigación se hace con **absoluta reserva** respecto a particulares y autoridades no relacionados.",
+     "¿Son públicas las sesiones de la Comisión Especial de Sugerencias y Reclamaciones?"
+    ],
+    [
+     "rot",
+     "108",
+     "Oficina Técnica de la Comisión de Sugerencias y Reclamaciones",
+     "El Ayuntamiento adscribe al **Área de Participación Ciudadana** una **Oficina Técnica** que presta **apoyo técnico y administrativo** a la Comisión; sus titulares son responsables de la **tramitación**. Sus funciones principales incluyen la **comunicación, por orden de la Comisión, con todos los órganos municipales**, y el soporte de la tramitación.",
+     "¿Qué apoyo presta la Oficina Técnica a la Comisión?"
+    ],
+    [
+     "rot",
+     "109",
+     "Inicio de actuaciones y legitimación para quejas y sugerencias",
+     "La Comisión actúa **de oficio o a instancia de parte**. **Quejas o reclamaciones**: toda **persona física o jurídica con capacidad de obrar** que invoque **interés legítimo**. **Sugerencias**: las mismas personas, **tengan o no relación** con el asunto. **Ninguna autoridad administrativa** puede presentar quejas ante la Comisión **en asuntos de su competencia**.",
+     "¿Quién no puede presentar quejas ante la Comisión en asuntos de su competencia?"
+    ],
+    [
+     "rot",
+     "110",
+     "Medios de presentación de quejas y sugerencias",
+     "Pueden presentarse, **a elección del interesado**, por los **medios habituales** de la Administración Pública.",
+     "¿Cómo se pueden presentar las quejas o reclamaciones y sugerencias?"
+    ],
+    [
+     "rot",
+     "111",
+     "Quejas en papel: tramitación en la Oficina Técnica",
+     "Las quejas o reclamaciones y sugerencias en **soporte papel** deben **tramitarse en la Oficina Técnica de la Comisión**.",
+     "¿Dónde se tramitan las quejas presentadas en papel?"
+    ],
+    [
+     "rot",
+     "112",
+     "Tratamiento uniforme de las quejas y sugerencias",
+     "La tramitación sigue un **tratamiento uniforme** que garantice su **rápida contestación o conocimiento**.",
+     "¿Qué garantiza el tratamiento uniforme de las quejas?"
+    ],
+    [
+     "rot",
+     "113",
+     "Plazos de tramitación de quejas: diez y quince días",
+     "En **diez días** desde la presentación, la Comisión (resolución de su Presidente) **recaba la información** y realiza las investigaciones. Los servicios responsables **responden por escrito en máximo quince días** desde la primera comunicación de la Oficina Técnica. Los interesados pueden manifestar su **disconformidad en quince días** (resto en el texto oficial).",
+     "¿En cuántos días deben responder por escrito los servicios responsables de una queja?"
+    ],
+    [
+     "rot",
+     "114",
+     "Colaboración con el Justicia de Aragón",
+     "La Comisión **colabora estrechamente con el Justicia de Aragón**; si una queja ya la **tramita el Justicia**, la Comisión **se abstiene** de continuar a resultas de su decisión.",
+     "¿Qué hace la Comisión si el Justicia de Aragón ya tramita la misma queja?"
+    ],
+    [
+     "rot",
+     "115",
+     "Informe anual de la Comisión al Pleno",
+     "La Comisión da cuenta al **Pleno** de su gestión **en sesión extraordinaria**; su Presidente presenta el **informe anual** y hace una **exposición oral resumida**. El informe incluye **número y tipo de quejas**, **rechazadas y causas**, **investigadas y resultado**, **sugerencias y recomendaciones admitidas** y **deficiencias observadas**; puede publicarse.",
+     "¿En qué tipo de sesión se da cuenta al Pleno del informe anual de la Comisión?"
+    ],
+    [
+     "rot",
+     "116",
+     "Consejos Sectoriales: naturaleza y creación excepcional",
+     "Funcionan **coordinados y bajo la dependencia del Consejo de la Ciudad**. Son **órganos de participación, información, control y asesoramiento de naturaleza consultiva**. Se crean **con carácter excepcional**, si el **Consejo de la Ciudad informa positivamente** por causas objetivas, evitando duplicidades. Cada **Área Municipal** puede proponer su creación.",
+     "¿Con qué carácter se crean los Consejos Sectoriales?"
+    ],
+    [
+     "rot",
+     "117",
+     "Funciones de los Consejos Sectoriales",
+     "**Presentar iniciativas y propuestas**; **proponer soluciones** a problemas del sector; **colaborar en estudios, programas y disposiciones** del sector; **informar** al Ayuntamiento a requerimiento; y **coordinarse con el Consejo de la Ciudad** para evitar duplicidades.",
+     "¿Con quién deben coordinarse los Consejos Sectoriales?"
+    ]
+   ]
   },
   {
    "id": "e1",
    "titulo": "Organización territorial de Zaragoza (datos del examen 2025)",
-   "subtitulo": "Reglamento de Órganos Territoriales y Participación Ciudadana",
+   "subtitulo": "Reglamento de Órganos Territoriales y Participación Ciudadana: arts. 11 a 43",
    "clave": [
     "16 distritos, uno rural con 14 barrios rurales (art. 2)",
     "Juntas Municipales en distritos; Juntas Vecinales en barrios rurales",
@@ -143,7 +726,240 @@
     "Distritos: Juntas Municipales · Barrios rurales: Juntas Vecinales",
     "Iniciativa ciudadana: 10 % del padrón (art. 51)"
    ],
-   "ic": "📍"
+   "ic": "📍",
+   "articulos": [
+    [
+     "rot",
+     "11",
+     "Fines y principios reguladores de las Juntas Municipales",
+     "La actividad de las Juntas se basa en: **eficacia en los servicios, desconcentración y proximidad**; **coordinación y colaboración con los órganos centrales**; **máxima participación** de vecinos, colectivos y entidades; **información y publicidad**; **solidaridad y equilibrio entre distritos y barrios**; servir de **cauce a las aspiraciones de los vecinos**; garantizar los **derechos y deberes de los vecinos**; **fomentar el asociacionismo**; **sometimiento pleno a la ley y al derecho**.",
+     "¿Qué principios regulan la actividad de las Juntas Municipales?"
+    ],
+    [
+     "rot",
+     "12",
+     "Competencias de las Juntas Municipales y Vecinales",
+     "Ejercen las **competencias asignables y desconcentrables por ley** que les confieran los órganos municipales según los **Planes de Desconcentración**; pueden ser de **iniciativa, gestión, consultivas o de control**. Ámbitos citados: **seguridad en lugares públicos**, **tráfico**, **protección civil e incendios**, **urbanismo, vivienda, parques y jardines**, entre otros (lista completa en el texto oficial).",
+     "¿Qué carácter pueden tener las competencias de las Juntas?"
+    ],
+    [
+     "rot",
+     "13",
+     "Atribución de competencias: general para todos los distritos",
+     "La atribución se hace **con carácter general para todos los Distritos**; el **Pleno** puede asignar competencias **experimentales o específicas** a uno o más. Los órganos competentes pueden **exceptuar** instalaciones o servicios **generales de la ciudad**. El acuerdo debe incluir **descripción de la función**, **distrito**, **órgano de la Junta** y **facultades de coordinación, inspección y control**.",
+     "¿Con qué carácter se atribuyen las competencias a los distritos?"
+    ],
+    [
+     "rot",
+     "14",
+     "Órganos necesarios de las Juntas Municipales",
+     "**Necesarios:** **el Presidente** y **el Pleno** (Presidente, vocales de los grupos políticos, presidentes de Concejos Locales, representantes de asociaciones de vecinos y otros). **Potestativos:** el **Consejo Rector** (si lo establece el Manual de Funcionamiento Interno) y los **grupos de trabajo** y otros órganos complementarios.",
+     "¿Cuáles son los órganos necesarios de las Juntas Municipales?"
+    ],
+    [
+     "rot",
+     "15",
+     "Presidencia de las Juntas Municipales: Alcalde y Vicepresidente",
+     "El **Alcalde es Presidente nato** de todas las Juntas y puede **delegar la Presidencia efectiva en un Concejal**, previa consulta con los grupos y dando cuenta al Pleno, procurando que **al menos un Concejal de cada grupo** presida una Junta. El Presidente **designa libremente un Vicepresidente** entre los vocales propuestos por los grupos.",
+     "¿Quién es el Presidente nato de todas las Juntas Municipales?"
+    ],
+    [
+     "rot",
+     "16",
+     "Competencias del Presidente de la Junta Municipal",
+     "**Dirigir el gobierno y la administración** de la Junta; **representar al Ayuntamiento** en su ámbito; someter al Pleno el **Manual de Funcionamiento Interno** y el **Plan y Programa de Actuación**; **elevar propuestas**; **convocar y presidir** el Consejo Rector, el Pleno y los demás órganos (lista completa en el texto oficial).",
+     "¿Qué documentos somete el Presidente al Pleno de la Junta?"
+    ],
+    [
+     "rot",
+     "17",
+     "Pleno de la Junta Municipal: Presidente y diez vocales",
+     "Lo integran el **Presidente** y **diez Vocales nombrados por el Alcalde a propuesta de los grupos políticos** según los resultados electorales en el ámbito de la Junta; deben ser **personas idóneas, mayores de edad, vecinos de Zaragoza**, con vinculación al territorio, **sin ser vocales de otra Junta** ni inelegibles o incompatibles para concejal. Se suman **Presidentes de Concejos Locales** y **representantes de asociaciones de vecinos** (texto oficial).",
+     "¿Cuántos vocales nombra el Alcalde para el Pleno de una Junta Municipal?"
+    ],
+    [
+     "rot",
+     "18",
+     "Funciones del Pleno de la Junta y periodicidad mínima",
+     "El Pleno se reúne **como mínimo una vez al trimestre** (el Manual puede establecer mensual). Le corresponde **controlar la gestión del Presidente** y reprobarla, **controlar a los vocales y proponer su cese**, **aprobar el Manual de Funcionamiento Interno**, **aprobar el Programa de Actuación y de Gastos**, **proponer temas** a los órganos de gobierno y **elaborar estudios** (lista completa en el texto oficial).",
+     "¿Con qué periodicidad mínima se reúne el Pleno de la Junta Municipal?"
+    ],
+    [
+     "rot",
+     "19",
+     "Consejo Rector de la Junta Municipal",
+     "Es **potestativo** (según el Manual). Lo forman el **Presidente**, **un Vocal por cada grupo** con representación en la Junta, los **Presidentes de Concejos Locales** y, **con voz y sin voto**, un **representante de las Asociaciones de Vecinos**. El Presidente nombra a los miembros a propuesta de los grupos. Se reúne **como mínimo una vez al mes** y ejerce funciones de **iniciativa, gestión y coordinación**.",
+     "¿Con qué periodicidad mínima se reúne el Consejo Rector de una Junta Municipal?"
+    ],
+    [
+     "rot",
+     "20",
+     "Comisiones de Trabajo en las Juntas Municipales",
+     "Se pueden crear **Comisiones de Trabajo permanentes** para estudios y actividades, por iniciativa propia o por encargo. **El Pleno de la Junta** fija libremente su **número, denominación y composición**, procurando su correspondencia con las **grandes áreas** de servicios. Pueden adscribirse **vocales, presidentes de Concejos Locales** y representantes de **entidades ciudadanas inscritas** en el Censo.",
+     "¿Quién fija el número y la composición de las Comisiones de Trabajo?"
+    ],
+    [
+     "rot",
+     "21",
+     "Régimen de sesiones y quórum de las Juntas",
+     "Sesión plenaria ordinaria **una vez al mes**, con mínimo de **una reunión trimestral** según el Manual; el Manual fija el calendario. Los órganos se constituyen válidamente con **un tercio del número legal de miembros con derecho a voto, nunca menos de tres**; si no hay quórum, queda convocada **quince minutos más tarde**. No hay sesión válida **sin el Presidente (o sustituto) y el Secretario**.",
+     "¿Qué quórum exige la válida constitución de los órganos colegiados de las Juntas?"
+    ],
+    [
+     "rot",
+     "22",
+     "Clases de sesiones: ordinarias, extraordinarias y urgentes",
+     "**Ordinarias:** con la periodicidad aprobada por el Pleno de la Junta. **Extraordinarias:** por disposición legal, a decisión del **Concejal Presidente o Alcalde de Barrio**, o a solicitud de **la cuarta parte** del número legal de miembros con voto; **ningún vocal puede solicitar más de tres al año**. **Extraordinarias urgentes:** las convoca el Presidente cuando la urgencia no permite la antelación mínima; el primer punto es el **pronunciamiento sobre la urgencia**.",
+     "¿Qué parte de los miembros puede solicitar una sesión extraordinaria?"
+    ],
+    [
+     "rot",
+     "23",
+     "Sesiones extraordinarias solicitadas por los miembros",
+     "**Ningún vocal** puede pedir **más de tres sesiones extraordinarias al año**. La solicitud, suscrita por **al menos la cuarta parte**, se hace **por escrito** al Presidente con razones, asunto de competencia de la Junta y **texto del acuerdo**. La sesión **no puede demorarse más de quince días hábiles**; el asunto no puede incorporarse a otra sesión sin autorización de los solicitantes.",
+     "¿En cuántos días hábiles debe celebrarse la sesión extraordinaria solicitada por los miembros?"
+    ],
+    [
+     "rot",
+     "24",
+     "Convocatoria: dos días hábiles de antelación",
+     "Las sesiones plenarias se convocan **al menos con dos días hábiles de antelación**, salvo las extraordinarias urgentes. La convocatoria contiene **fecha, hora, lugar y orden del día**, con **segunda convocatoria 15 minutos después**; en ese caso basta la asistencia del **Presidente, Secretario y dos Vocales** con voto. Se **expone en el tablón** y se remite a los miembros y otros destinatarios.",
+     "¿Con cuánta antelación se convocan las sesiones plenarias de una Junta?"
+    ],
+    [
+     "rot",
+     "25",
+     "Orden del día y mociones de los grupos",
+     "Lo fija el **Presidente**. El **primer punto** es la **aprobación del acta anterior**; deben incluirse las **decisiones del Concejal Presidente** conformadas. Los **grupos, o un mínimo de tres Vocales**, pueden presentar **mociones** con **antelación mínima de tres días hábiles**.",
+     "¿Cuántos vocales como mínimo pueden presentar una moción?"
+    ],
+    [
+     "rot",
+     "26",
+     "Desarrollo de la sesión: unidad de acto y dirección",
+     "Las sesiones respetan la **unidad de acto** y procuran terminar el mismo día. **Dirige la sesión y mantiene el orden** el **Concejal Presidente o Alcalde de Barrio**. Comienzan preguntando si hay **observaciones al acta** anterior; si no, se aprueba. El Manual fija el orden de los debates y la difusión pública (texto oficial).",
+     "¿Con qué punto comienzan las sesiones de las Juntas?"
+    ],
+    [
+     "rot",
+     "27",
+     "Actas de las sesiones: contenido mínimo",
+     "El Secretario extiende acta con: **lugar, fecha y hora** de inicio y fin; **nombre del Presidente y miembros** asistentes y ausentes; **carácter** de la sesión (ordinaria, extraordinaria, urgente) y **convocatoria**; asistencia del **Secretario**; **asuntos tratados, votos y acuerdos**; y **opiniones sucintas**. Quien quiera la transcripción íntegra de su intervención debe **proporcionar el texto**.",
+     "¿Qué datos debe contener como mínimo el acta de cada sesión?"
+    ],
+    [
+     "rot",
+     "28",
+     "Suspensión de acuerdos ilegales de las Juntas",
+     "Si el Presidente considera que un acuerdo **vulnera el ordenamiento jurídico**, puede **suspender su ejecución** y **dar cuenta al Alcalde en veinticuatro horas**; el Alcalde, en **setenta y dos horas**, **debe ratificarla expresamente**; si no, **se alza la suspensión** y el acuerdo produce efectos desde su adopción. El Alcalde puede suspender acuerdos en otros supuestos (texto oficial).",
+     "¿En cuántas horas debe el Alcalde ratificar la suspensión de un acuerdo de la Junta?"
+    ],
+    [
+     "rot",
+     "29",
+     "Distrito Rural y Juntas Vecinales de los barrios rurales",
+     "El **Alcalde puede delegar en un concejal la presidencia efectiva del Distrito Rural**, que comprende el término municipal de los **catorce barrios rurales**, regidos por sus **Juntas Vecinales**. La actividad de las Juntas Vecinales se basa en los **mismos fines, objetivos y funciones** que las Juntas Municipales, con especialidades, y pueden ejercer **las mismas competencias**.",
+     "¿Qué comprende el Distrito Rural y por qué órganos se rige?"
+    ],
+    [
+     "rot",
+     "30",
+     "Consejo Territorial de Alcaldes de Barrio: composición y funciones",
+     "Es un **órgano de coordinación, información y propuesta** de la gestión municipal de los **Barrios Rurales**. Lo integran el **Concejal Presidente del Distrito Rural (Presidente)**, **todos los Alcaldes de Barrio** y los **Portavoces de los grupos municipales** en la **Comisión del Pleno de Participación Ciudadana**; actúa de **Secretario** el de esa Comisión. Funciones: presentar **iniciativas, sugerencias y propuestas** y otras del texto oficial.",
+     "¿Quiénes integran el Consejo Territorial de Alcaldes de Barrio?"
+    ],
+    [
+     "rot",
+     "31",
+     "Órganos necesarios y potestativos de los Barrios Rurales",
+     "**Necesarios:** el **Presidente (Alcalde del Barrio)** y el **Pleno**. **Potestativos:** el **Consejo Rector** (si lo establece el Manual) y los **grupos de trabajo** y otros órganos complementarios. El régimen de sesiones y funcionamiento sigue lo previsto para las **Juntas Municipales**.",
+     "¿Qué nombre tradicional recibe el Presidente de una Junta Vecinal?"
+    ],
+    [
+     "rot",
+     "32",
+     "Alcalde de Barrio: representante personal del Alcalde",
+     "El **Alcalde nombra a un vecino del barrio como Representante personal**, con la denominación tradicional de **Alcalde de Barrio**: vecino del núcleo rural, **mayor de edad**, sin causas de **inelegibilidad o incompatibilidad** para concejal, y **elegido por los vecinos** con el **mayor número de votos** en un **proceso democrático de consulta** supervisado por el Ayuntamiento. Su cargo dura **el mandato de la Corporación**, es **retribuido** (cuantía fijada por el Pleno) y el Alcalde de Barrio en funciones continúa hasta nuevo nombramiento.",
+     "¿Cómo se elige al Alcalde de Barrio y quién lo nombra?"
+    ],
+    [
+     "rot",
+     "33",
+     "Pleno de la Junta Vecinal: vocales según población",
+     "El Pleno lo integra el **Alcalde del Barrio (Presidente)**; las **Juntas Vecinales con menos de 2.000 habitantes tienen cuatro Vocales** y **seis las restantes**; los **Presidentes de Concejos Locales** (o su delegado) y, **con voz y sin voto**, un **representante de cada Asociación de Vecinos** con domicilio en el ámbito, inscrita en el Censo.",
+     "¿Cuántos vocales tiene una Junta Vecinal de menos de 2.000 habitantes?"
+    ],
+    [
+     "rot",
+     "34",
+     "Consejo Rector de la Junta Vecinal",
+     "Creado **potestativamente** según el Manual: lo forman el **Presidente**, los **Vocales**, los **Presidentes de Concejos Locales** y, **con voz y sin voto**, un representante de las Asociaciones de Vecinos. Se reúne **como mínimo una vez al mes** y ejerce **iniciativa, gestión y coordinación**.",
+     "¿Con qué periodicidad mínima se reúne el Consejo Rector de una Junta Vecinal?"
+    ],
+    [
+     "rot",
+     "35",
+     "Comisiones de Trabajo en las Juntas Vecinales",
+     "Pueden crearse **Comisiones de Trabajo permanentes** para estudios y actividades; el **Pleno de la Junta** establece libremente su **número, denominación y composición**, procurando su correspondencia con las grandes áreas de servicios, con adscripción de **vocales, presidentes de Concejos Locales** y **entidades ciudadanas inscritas**.",
+     "¿Quién establece las Comisiones de Trabajo de la Junta Vecinal?"
+    ],
+    [
+     "rot",
+     "36",
+     "Concejos Locales: constitución y composición",
+     "La **iniciativa** para constituir o disolver Concejos Locales corresponde al **Ayuntamiento** o a la **población interesada** (petición escrita de la **mayoría de vecinos mayores de 16 años**); lo resuelve el **Pleno**. El Concejo Local se integra por **un Presidente, cuatro Vocales** y, **con voz y sin voto**, un representante de cada Asociación de Vecinos del territorio.",
+     "¿Cuántos vocales tiene un Concejo Local?"
+    ],
+    [
+     "rot",
+     "37",
+     "Consejos de Distrito: órganos de desconcentración administrativa",
+     "Se pueden crear **Consejos de Distrito**, **órganos de ámbito territorial para la desconcentración administrativa** que sirven de cauce para tramitar asuntos de gestión municipal en su ámbito. Actúan con **unidad de gobierno, eficacia, coordinación y solidaridad**.",
+     "¿Qué son los Consejos de Distrito?"
+    ],
+    [
+     "rot",
+     "38",
+     "Criterios para constituir Consejos de Distrito",
+     "Se constituyen **por Juntas Municipales completas**, que deben ser **limítrofes territorialmente**, y pueden estar formadas por **barrios urbanos y rurales**.",
+     "¿Qué criterios territoriales deben cumplir las Juntas que forman un Consejo de Distrito?"
+    ],
+    [
+     "rot",
+     "39",
+     "Creación de los Consejos de Distrito: Pleno y acuerdos",
+     "El **Pleno del Ayuntamiento** acuerda la **creación** de cada Consejo de Distrito y la **asignación de recursos humanos y materiales**. Los acuerdos fijan **normas de funcionamiento, órganos de gobierno y competencias**, garantizando **publicidad, transparencia y representación política**.",
+     "¿Qué órgano acuerda la creación de cada Consejo de Distrito?"
+    ],
+    [
+     "rot",
+     "40",
+     "Órganos de los Consejos de Distrito",
+     "Son órganos de los Consejos de Distrito: **a)** el **Presidente**; **b)** el **Consejo Rector**.",
+     "¿Cuáles son los órganos de los Consejos de Distrito?"
+    ],
+    [
+     "rot",
+     "41",
+     "Presidente del Consejo de Distrito: Alcalde, Vicepresidente y competencias",
+     "El **Alcalde es Presidente nato** de todos los Consejos de Distrito y puede **delegar en un Concejal** la Presidencia y sus atribuciones. El Presidente **designa libremente un Vicepresidente** entre los **Concejales Presidentes de Juntas Municipales** de su territorio. Competencias mínimas: **dirigir la administración del Consejo**, presidir el **Consejo Rector**, ejercer la **dirección del personal** e **inspeccionar los servicios y obras** del territorio, entre otras.",
+     "¿Quién es el Presidente nato de los Consejos de Distrito?"
+    ],
+    [
+     "rot",
+     "42",
+     "Consejo Rector del Consejo de Distrito",
+     "Lo forman el **Presidente del Consejo de Distrito** y los **Presidentes de las Juntas**; con **voz y sin voto**, un **Vocal por cada grupo municipal** y un **representante del movimiento vecinal**. Actúa de Secretario el de la Comisión del Pleno de Participación Ciudadana (o de la materia). Es el **órgano de coordinación y gestión** de las Juntas que lo integran. Se reúne **como mínimo una vez al mes** en sesión ordinaria.",
+     "¿Con qué periodicidad mínima se reúne el Consejo Rector de un Consejo de Distrito?"
+    ],
+    [
+     "rot",
+     "43",
+     "Oficinas administrativas de las Juntas Municipales y Vecinales",
+     "Las Juntas Municipales y Vecinales están asistidas por **oficinas administrativas** con recursos suficientes, que se **coordinan a través del Consejo de Distrito**. Se **desconcentra el máximo** de competencias y servicios según su dotación y las características del territorio, por **acuerdos plenarios y decretos de Alcaldía**.",
+     "¿Quién asiste a las Juntas Municipales y Vecinales en su gestión administrativa?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -245,7 +1061,10 @@
    "h-marco",
    [
     "gestión desconcentrada"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "En los municipios de gran población, los distritos son:",
@@ -261,7 +1080,10 @@
    "h-marco",
    [
     "deberán crearlos"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Las sesiones del Pleno de las corporaciones locales son:",
@@ -277,7 +1099,10 @@
    "h-marco",
    [
     "públicas"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Las sesiones de la Junta de Gobierno Local:",
@@ -293,7 +1118,10 @@
    "h-marco",
    [
     "No son públicas"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Las formas, medios y procedimientos de participación que establezcan las Corporaciones:",
@@ -309,7 +1137,10 @@
    "h-marco",
    [
     "menoscabar las facultades de decisión"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Según el art. 53 de la Ley 10/2017, el Ayuntamiento de Zaragoza dispondrá de Unidades de información y de atención al público:",
@@ -325,7 +1156,10 @@
    "h-marco",
    [
     "distritos"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Conforme al art. 2, párrafo segundo, del Reglamento de Órganos Territoriales y Participación Ciudadana, en el término municipal de Zaragoza:",
@@ -374,6 +1208,2194 @@
    [
     "10 % del padrón"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 2 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Distritos del término municipal de Zaragoza son:",
+   [
+    "Divisiones territoriales propias, dotadas de órganos de gestión desconcentrada denominados Juntas Municipales y Juntas Vecinales, para impulsar la participación ciudadana, sin perjuicio de la unidad de gobierno y gestión del municipio",
+    "Entidades locales con personalidad jurídica propia, dotadas de órganos de gobierno y competencias exclusivas",
+    "Órganos consultivos del Pleno del Ayuntamiento para emitir informe sobre las decisiones municipales"
+   ],
+   0,
+   "Art. 2.",
+   "rot 2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza en el término municipal de Zaragoza se asientan:",
+   [
+    "Dieciséis distritos, incluido el Distrito Rural, que comprende catorce barrios rurales",
+    "Quince distritos urbanos, más el Distrito Rural, que comprende doce barrios rurales",
+    "Diecisiete distritos, incluido el Distrito Rural, que comprende quince barrios rurales"
+   ],
+   0,
+   "Art. 2. El Distrito Rural comprende los catorce barrios rurales.",
+   "rot 2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza para modificar la actual estructura de Distritos y de Barrios Rurales o modificar sus linderos será preciso:",
+   [
+    "Acuerdo del Ayuntamiento Pleno, adoptado con mayoría absoluta, siguiendo los trámites de elaboración de reglamentos y ordenanzas",
+    "Acuerdo de la Junta de Gobierno Local, adoptado por mayoría simple, sin trámites de reglamento",
+    "Resolución de la Alcaldía, previo informe del Consejo de la Ciudad de Zaragoza"
+   ],
+   0,
+   "Art. 2.",
+   "rot 2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 5",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza es un barrio rural del Distrito Rural de Zaragoza:",
+   [
+    "Casetas",
+    "Santa Isabel",
+    "Miralbueno"
+   ],
+   0,
+   "Art. 2. Santa Isabel y Miralbueno son distritos urbanos.",
+   "rot 2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 7",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las Juntas Municipales y las Juntas Vecinales son:",
+   [
+    "Órganos del Ayuntamiento de Zaragoza de ámbito territorial para la gestión de los Distritos y los Barrios Rurales",
+    "Entidades locales con personalidad jurídica propia para la gestión de los Distritos y los Barrios Rurales",
+    "Órganos de la Comunidad Autónoma de Aragón de ámbito territorial para la gestión de los Distritos"
+   ],
+   0,
+   "Art. 3.",
+   "rot 3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la actuación de las Juntas Municipales y de las Juntas Vecinales debe regirse por los principios de:",
+   [
+    "Unidad de gobierno, eficacia, coordinación y solidaridad",
+    "Jerarquía y desconcentración",
+    "Unidad de gobierno, jerarquía, eficiencia y solidaridad"
+   ],
+   0,
+   "Art. 3 segundo párrafo.",
+   "rot 3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Consejos de Distrito son:",
+   [
+    "Órganos territoriales de gestión desconcentrada para la prestación de servicios y el acercamiento del Ayuntamiento a los ciudadanos, que sirven de apoyo y cauce para la tramitación de los asuntos derivados de la gestión de las Juntas",
+    "Órganos consultivos de la ciudad para la prestación de servicios y el acercamiento a los ciudadanos",
+    "Órganos de gobierno del Distrito Rural, que sustituyen a las Juntas Vecinales en la tramitación de asuntos"
+   ],
+   0,
+   "Art. 4.",
+   "rot 4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el proceso de desconcentración municipal en sus órganos territoriales será:",
+   [
+    "Continuo y uniforme en todo el ámbito municipal; pueden aprobarse programas de desconcentración como experiencias piloto en una o varias Juntas",
+    "Gradual y diferenciado según los distritos, con experiencias piloto que no podrán extenderse a otras Juntas",
+    "Voluntario para cada Junta Municipal y Vecinal, que decidirá si acepta las competencias desconcentradas"
+   ],
+   0,
+   "Art. 5.",
+   "rot 5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Ayuntamiento de Zaragoza reconoce:",
+   [
+    "El derecho de todos a la ciudad, como lugar de convivencia y espacio de realización humana, garantizando la participación ciudadana",
+    "El derecho de los vecinos a legislar sobre la ciudad mediante iniciativas de carácter normativo",
+    "El derecho exclusivo de los empadronados a votar en el Pleno del Ayuntamiento"
+   ],
+   0,
+   "Art. 6.",
+   "rot 6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza todos los vecinos tienen derecho a la Iniciativa Ciudadana, a la Audiencia Pública, a la Consulta Popular, a la Encuesta Ciudadana y:",
+   [
+    "A requerir el acceso a los servicios de la Comisión Especial de Sugerencias y Reclamaciones",
+    "A vetar los acuerdos del Pleno del Ayuntamiento cuando afecten a su barrio o distrito",
+    "A designar a los miembros del Consejo de la Ciudad de Zaragoza mediante sufragio directo"
+   ],
+   0,
+   "Art. 7.",
+   "rot 7",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el instrumento básico para las relaciones de la Administración municipal con las entidades ciudadanas es:",
+   [
+    "El Censo Municipal de Entidades Ciudadanas",
+    "El Consejo de la Ciudad",
+    "La Comisión de Sugerencias y Reclamaciones"
+   ],
+   0,
+   "Art. 8.",
+   "rot 8",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo de la Ciudad de Zaragoza se compone de:",
+   [
+    "Representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas",
+    "Solo concejales de todos los grupos políticos, designados en proporción a su representación en el Pleno",
+    "Funcionarios municipales designados por el Alcalde para asesorar en materia de desarrollo local"
+   ],
+   0,
+   "Art. 9.",
+   "rot 9",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza todos los actos y acuerdos del Reglamento que den lugar a reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico deberán ser:",
+   [
+    "Fiscalizados e intervenidos por la Intervención Municipal",
+    "Aprobados por el Pleno del Ayuntamiento, previo dictamen de la Comisión de Participación Ciudadana",
+    "Comunicados al Gobierno de Aragón para su control de legalidad, en el plazo de quince días"
+   ],
+   0,
+   "Art. 10.",
+   "rot 10",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza en las dependencias de las Áreas Centrales y en las de Administración Desconcentrada, Juntas Municipales y Vecinales, existirá:",
+   [
+    "Una Oficina de Información que canalizará la información de la gestión del Ayuntamiento y la participación de los ciudadanos",
+    "Una Oficina del Defensor del Pueblo, que canalizará las quejas de los vecinos sobre la gestión municipal",
+    "Una Oficina de Recaudación, que canalizará el pago de los tributos y precios públicos municipales"
+   ],
+   0,
+   "Art. 44.",
+   "rot 44",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Ayuntamiento promoverá la edición de un boletín municipal con periodicidad:",
+   [
+    "Trimestral",
+    "Mensual",
+    "Semestral"
+   ],
+   0,
+   "Art. 46. En su consejo de redacción deben estar representados todos los grupos políticos y el Consejo de la Ciudad.",
+   "rot 46",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza a través de la página web municipal, el Ayuntamiento fomentará, entre otras finalidades:",
+   [
+    "Facilitar las gestiones con la Administración local, mejorar la transparencia, posibilitar trámites administrativos y facilitar el conocimiento de la red asociativa local",
+    "Sustituir las oficinas de atención presencial, de modo que los trámites se realicen solo por vía telemática",
+    "Publicar solo las actas del Pleno y las ordenanzas municipales, sin otra información de carácter público"
+   ],
+   0,
+   "Art. 48.",
+   "rot 48",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la red informática cívica que desarrollará progresivamente el Ayuntamiento será:",
+   [
+    "Un foro abierto a todas las personas residentes en la ciudad que permita la interacción con los responsables de los servicios municipales y la discusión on-line con otros ciudadanos, expertos y Concejales",
+    "Un servicio exclusivo para entidades inscritas en el Censo, que permite la discusión con los Concejales",
+    "Un portal para la contratación pública, abierto a las empresas que deseen licitar con el Ayuntamiento"
+   ],
+   0,
+   "Art. 49.",
+   "rot 49",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza todos los vecinos tienen derecho a obtener:",
+   [
+    "Un certificado de seguridad de su correo electrónico o número clave que facilite participar en la red informática cívica, encuestas ciudadanas y foros",
+    "Un certificado digital cualificado gratuito, expedido por el Ayuntamiento a todos los residentes",
+    "Un voto electrónico en las sesiones del Pleno del Ayuntamiento, mediante número clave personal"
+   ],
+   0,
+   "Art. 50.",
+   "rot 50",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la Iniciativa Ciudadana es:",
+   [
+    "La forma de participación por la que los ciudadanos solicitan al Ayuntamiento que lleve a cabo una determinada actividad de competencia o interés público municipal, aportando medios económicos, bienes, derechos o trabajo personal",
+    "La solicitud de Consulta Popular formulada por los vecinos sobre asuntos de especial importancia",
+    "La petición de Audiencia Pública a los órganos municipales sobre los acuerdos que deban adoptarse"
+   ],
+   0,
+   "Art. 51.",
+   "rot 51",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la Audiencia Pública es:",
+   [
+    "La forma de participación por medio de la cual los ciudadanos proponen a la Administración municipal la adopción de determinados acuerdos o reciben información de sus actuaciones, de forma oral y en unidad de acto",
+    "Una consulta escrita a todos los ciudadanos sobre asuntos de competencia municipal, sin acto único",
+    "Una encuesta anónima sobre la calidad de los servicios, que se realiza con carácter periódico"
+   ],
+   0,
+   "Art. 52.",
+   "rot 52",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza un colectivo de ciudadanos mayores de edad empadronados en la ciudad podrá solicitar la Audiencia Pública si representa, como mínimo:",
+   [
+    "El 10 % del padrón municipal",
+    "El 5 % del padrón municipal",
+    "El 20 % del padrón municipal"
+   ],
+   0,
+   "Art. 52. Para Juntas Municipales: 10 % del padrón del territorio de la Junta, sin necesidad de más de 300 firmas (Vecinales) o 3.000 (Municipales).",
+   "rot 52",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza recibida la documentación de la Audiencia Pública, el Alcalde o el Concejal competente, en el plazo máximo de un mes, convocará la Audiencia Pública con una antelación mínima de:",
+   [
+    "Quince días",
+    "Diez días",
+    "Treinta días"
+   ],
+   0,
+   "Art. 52.",
+   "rot 52",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Alcalde, previo acuerdo del Pleno por mayoría absoluta, podrá someter a Consulta Popular los asuntos de competencia propia municipal y de carácter local de especial importancia, salvo:",
+   [
+    "Los relativos a las Haciendas Locales",
+    "Los relativos a urbanismo",
+    "Los relativos a servicios sociales"
+   ],
+   0,
+   "Art. 53.",
+   "rot 53",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Alcalde someterá al Pleno las solicitudes de Consulta Popular cuando se suscriban por un número de vecinos que, como mínimo, sea de:",
+   [
+    "10.000 habitantes más el 5 % de los habitantes que excedan de los 100.000",
+    "5.000 habitantes más el 10 % de los habitantes que excedan de 100.000",
+    "20.000 habitantes más el 2 % de los que excedan de 100.000"
+   ],
+   0,
+   "Art. 53.",
+   "rot 53",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza autorizada la Consulta Popular por el Gobierno del Estado, el Ayuntamiento fijará la fecha de la consulta, que habrá de celebrarse:",
+   [
+    "Entre los treinta y los sesenta días posteriores a la publicación de la convocatoria en el Boletín Oficial de Aragón",
+    "Entre los quince y los treinta días posteriores a la publicación de la convocatoria en el BOA",
+    "Entre los sesenta y los noventa días posteriores a la publicación de la convocatoria en el BOA"
+   ],
+   0,
+   "Art. 53.",
+   "rot 53",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza corresponde autorizar la convocatoria de Consulta Popular:",
+   [
+    "Al Gobierno del Estado, a través del Gobierno de Aragón (que adjunta, en su caso, informe)",
+    "Al Gobierno de Aragón, que adjunta informe sobre la conveniencia de efectuar la consulta",
+    "Al Pleno del Ayuntamiento, por mayoría absoluta, sin intervención de otras Administraciones"
+   ],
+   0,
+   "Art. 53, regla 3.",
+   "rot 53",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Observatorio Urbano de Zaragoza:",
+   [
+    "Depende del Área de Participación Ciudadana, y tiene la finalidad de conocer y analizar la evolución de la calidad de vida a través del seguimiento de indicadores",
+    "Depende del Ministerio de Administraciones Públicas y se coordina con el Observatorio de ésta",
+    "Es un órgano del Consejo de la Ciudad, encargado de elaborar el informe anual sobre la ciudad"
+   ],
+   0,
+   "Art. 54.",
+   "rot 54",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza todas las encuestas ciudadanas se realizarán con sometimiento a los principios de:",
+   [
+    "Voluntariedad, secreto, transparencia, especialidad y proporcionalidad",
+    "Obligatoriedad, publicidad e igualdad, de modo que todos los vecinos deban contestar a las encuestas",
+    "Eficacia, coordinación y solidaridad entre los distintos distritos y barrios del municipio"
+   ],
+   0,
+   "Art. 54.",
+   "rot 54",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 55 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las sesiones del Pleno de la Corporación y las de los Plenos de las Juntas Municipales y Vecinales son:",
+   [
+    "Públicas",
+    "Reservadas",
+    "Públicas solo si lo decide el Alcalde"
+   ],
+   0,
+   "Art. 55.",
+   "rot 55",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza terminada la sesión ordinaria del Pleno, el Alcalde podrá establecer un turno de ruegos y preguntas por el público; quienes deseen intervenir deberán solicitarlo por escrito al Alcalde con una antelación mínima de:",
+   [
+    "24 horas a la celebración de la sesión del Pleno",
+    "48 horas a la celebración de la sesión del Pleno, mediante escrito presentado al Alcalde",
+    "Una semana a la celebración de la sesión del Pleno, mediante escrito presentado a la Secretaría"
+   ],
+   0,
+   "Art. 56.",
+   "rot 56",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Ayuntamiento, a través del Área de Participación Ciudadana, fomentará:",
+   [
+    "El asociacionismo y el voluntariado en entidades que tengan fines estatutarios de interés social",
+    "Solo el asociacionismo vecinal, quedando excluido el voluntariado en entidades de interés social",
+    "La creación de partidos políticos locales y de asociaciones con fines lucrativos"
+   ],
+   0,
+   "Art. 58.",
+   "rot 58",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza todas las entidades inscritas en el Censo Municipal de Entidades Ciudadanas podrán formar parte del Consejo de la Ciudad:",
+   [
+    "A través de la Asamblea Ciudadana",
+    "Directamente con voto",
+    "Solo si tienen Interés público municipal"
+   ],
+   0,
+   "Art. 59.",
+   "rot 59",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza pueden optar a ser inscritas en el Censo Municipal de Entidades Ciudadanas:",
+   [
+    "Las asociaciones sin ánimo de lucro legalmente constituidas, democráticas, con objetivos de interés general o sectorial de los ciudadanos del municipio, con sede social o delegación estable en él",
+    "Cualquier sociedad mercantil con sede en el término municipal que persiga fines de interés general",
+    "Los partidos políticos con representación en el Pleno, que cumplan los requisitos democráticos"
+   ],
+   0,
+   "Art. 60.",
+   "rot 60",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza para solicitar la inscripción en el Censo Municipal de Entidades Ciudadanas, las entidades presentarán, entre otros documentos:",
+   [
+    "Instancia dirigida a la Alcaldía, copia de los estatutos, número de inscripción en el Registro de Asociaciones, acta de la última asamblea, sede social o delegación, CIF y certificación del número de socios",
+    "Solo los estatutos de la entidad, sin necesidad de aportar el CIF ni la certificación del número de socios",
+    "Solo el CIF y el acta de constitución, sin copia de los estatutos ni número de registro"
+   ],
+   0,
+   "Art. 61.",
+   "rot 61",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza en el término de treinta días desde la solicitud de inscripción, el Alcalde o Teniente de Alcalde Delegado, por Resolución:",
+   [
+    "Acordará la inscripción de la entidad en el Censo, notificándola con el número de inscripción asignado; desde ese momento se considerará de alta a todos los efectos",
+    "Remitirá el expediente al Pleno, que acordará la inscripción en el plazo de tres meses",
+    "Solicitará informe al Consejo de la Ciudad antes de acordar la inscripción de la entidad"
+   ],
+   0,
+   "Art. 62.",
+   "rot 62",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades inscritas están obligadas a comunicar al Ayuntamiento cualquier modificación de los datos incluidos en la documentación de inscripción:",
+   [
+    "Dentro del mes siguiente al de la fecha en que dicha modificación se haya producido",
+    "Dentro de los quince días siguientes al de la fecha en que dicha modificación se haya producido",
+    "Dentro del trimestre siguiente al de la fecha en que dicha modificación se haya producido"
+   ],
+   0,
+   "Art. 63.",
+   "rot 63",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades inscritas, cuando sean requeridas por el Censo, están obligadas a presentar:",
+   [
+    "Una memoria de las actividades del año anterior y acreditar el número de asociados y los nombramientos de sus cargos directivos",
+    "Un balance contable auditado del ejercicio anterior y la relación de subvenciones recibidas",
+    "Una declaración responsable sobre el cumplimiento de los requisitos de inscripción en el Censo"
+   ],
+   0,
+   "Art. 64. La falta de documentación puede determinar la no continuidad de la inscripción, previa audiencia.",
+   "rot 64",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los datos del Censo deberán ser enviados a la totalidad de las Áreas Municipales:",
+   [
+    "Una vez por trimestre y siempre que un órgano lo solicite por escrito al Departamento responsable del Censo",
+    "Una vez al año, junto con la actualización anual del Fichero de Entidades Ciudadanas",
+    "Una vez al mes, y siempre que lo solicite un órgano municipal por escrito al Departamento"
+   ],
+   0,
+   "Art. 65.",
+   "rot 65",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Censo Municipal de Entidades Ciudadanas:",
+   [
+    "Será único, dependerá del Área de Participación Ciudadana y sus datos generales serán públicos; anualmente se elaborará un Fichero de Entidades Ciudadanas",
+    "Será uno por cada distrito, y dependerá de cada Junta Municipal o Vecinal",
+    "Será reservado, dependerá de la Alcaldía y sus datos no serán públicos"
+   ],
+   0,
+   "Art. 66.",
+   "rot 66",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la declaración de Interés público municipal caduca:",
+   [
+    "A los cinco años de su obtención",
+    "A los dos años",
+    "A los diez años"
+   ],
+   0,
+   "Art. 67. Pueden solicitarla entidades con declaración supramunicipal de Utilidad Pública o con Interés ciudadano mantenido dos años consecutivos.",
+   "rot 67",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades declaradas de Interés público municipal podrán, entre otros derechos:",
+   [
+    "Participar en las sesiones del Pleno y en las Comisiones del Pleno por razón de la materia, promover iniciativas ciudadanas de aprobación de disposiciones generales y promover la Audiencia Pública",
+    "Votar en el Pleno del Ayuntamiento sobre los puntos del orden del día que afecten a su objeto",
+    "Aprobar ordenanzas municipales relacionadas con su objeto social y participar en la Junta de Gobierno"
+   ],
+   0,
+   "Art. 68.",
+   "rot 68",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades declaradas de Interés público municipal deberán presentar todos los años, antes del 1 de marzo:",
+   [
+    "La actualización de los documentos de la memoria; la falta de presentación da lugar a la pérdida automática de la declaración",
+    "El presupuesto anual de la entidad, con pérdida de la declaración si no se presenta",
+    "El balance de cuentas del ejercicio anterior, con pérdida de la declaración si no se presenta"
+   ],
+   0,
+   "Art. 70.",
+   "rot 70",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades ciudadanas que lleven inscritas más de dos años en el Censo podrán solicitar:",
+   [
+    "La declaración de Interés ciudadano, de carácter vecinal, ambiental, deportivo, cultural, social u otras análogas",
+    "La declaración de Interés público municipal directamente, sin necesidad de ningún período previo",
+    "La declaración de utilidad pública supramunicipal, que concede el Ayuntamiento tras el informe del Consejo"
+   ],
+   0,
+   "Art. 71.",
+   "rot 71",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la declaración de Interés ciudadano supone, entre otros derechos:",
+   [
+    "Tener preferencia respecto de las entidades sin esta declaración en el acceso a las subvenciones municipales y a la utilización de locales públicos y espacios en Centros Cívicos",
+    "Participar con voto en las Comisiones del Pleno y recibir órdenes del día y actas de los órganos de decisión",
+    "Acceso exclusivo a las subvenciones municipales y a los espacios de los Centros Cívicos"
+   ],
+   0,
+   "Art. 72.",
+   "rot 72",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades declaradas de Interés ciudadano deberán presentar todos los años, antes del 1 de marzo:",
+   [
+    "La actualización de los documentos presentados para su solicitud; la falta de presentación podrá dar lugar a la pérdida de la declaración",
+    "La memoria de actividades solo si se les requiere, perdiendo la declaración automáticamente en otro caso",
+    "Un informe de la Intervención sobre su contabilidad, con pérdida de la declaración si no se presenta"
+   ],
+   0,
+   "Art. 74. A diferencia de Interés público municipal (pérdida automática), aquí «podrá» dar lugar a la pérdida.",
+   "rot 74",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades ciudadanas podrán plantear propuestas de Iniciativa Ciudadana:",
+   [
+    "Por escrito, a través de la Oficina Municipal de Apoyo al Ciudadano; no se admitirán las que defiendan intereses corporativos o ajenos a los generales o de contenido imposible, inconstitucional, ilegal o delictivo",
+    "Oralmente ante el Pleno del Ayuntamiento, sin necesidad de presentar propuesta escrita",
+    "Por correo ordinario únicamente, dirigido a la Alcaldía, sin intervención de la Oficina de Apoyo"
+   ],
+   0,
+   "Art. 75.",
+   "rot 75",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades inscritas en el Censo podrán ejercer la Audiencia Pública acreditando que el conjunto de sus asociados mayores de edad supera:",
+   [
+    "El 10 % del Padrón Municipal de la ciudad",
+    "El 5 % del Padrón Municipal",
+    "El 25 % del Padrón Municipal"
+   ],
+   0,
+   "Art. 76.",
+   "rot 76",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Ayuntamiento, a través del Consejo de la Ciudad, del Observatorio Urbano o de la Comisión de Sugerencias y Reclamaciones, podrá solicitar:",
+   [
+    "La opinión de las entidades inscritas en el Censo sobre los asuntos más relevantes o sobre la calidad de los servicios públicos relacionados con su objeto social",
+    "El voto vinculante de las entidades sobre los asuntos más relevantes de competencia municipal",
+    "Un informe económico a las entidades sobre las subvenciones recibidas de otras Administraciones"
+   ],
+   0,
+   "Art. 77.",
+   "rot 77",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades ciudadanas inscritas podrán intervenir ante el Pleno del Ayuntamiento en relación con un punto del orden del día de la parte resolutiva:",
+   [
+    "Mediante escrito a la Secretaría General del Pleno dirigido al Alcalde, a través de un único representante y con autorización del Alcalde",
+    "Mediante varios representantes sin autorización, que podrán intervenir tras el debate y la votación",
+    "Solo por escrito, sin intervención oral, remitido a la Secretaría General del Pleno"
+   ],
+   0,
+   "Art. 80.",
+   "rot 80",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las entidades ciudadanas inscritas podrán intervenir ante los Plenos de las Juntas Municipales y Vecinales a las que pertenezcan:",
+   [
+    "Solicitándolo al Concejal Presidente o al Alcalde de Barrio, con autorización y a través de un único representante",
+    "Sin necesidad de autorización del Presidente, a través de los representantes que designe la entidad",
+    "Solo si tienen declarado Interés público municipal, mediante un único representante"
+   ],
+   0,
+   "Art. 81.",
+   "rot 81",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Ayuntamiento podrá promover instrumentos de participación local como:",
+   [
+    "Los presupuestos y programas de inversión participativos y los talleres de debate sobre propuestas de futuro",
+    "El referéndum vinculante sobre las decisiones del Pleno, a petición de los ciudadanos",
+    "La iniciativa legislativa popular, para presentar proposiciones de ley ante las Cortes de Aragón"
+   ],
+   0,
+   "Art. 82.",
+   "rot 82",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo de la Ciudad de Zaragoza es:",
+   [
+    "Un órgano municipal necesario, de carácter consultivo, integrado por representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas",
+    "Un órgano potestativo del Pleno, de carácter consultivo, integrado por concejales de todos los grupos",
+    "Un órgano decisorio del Ayuntamiento, integrado por representantes de las organizaciones más representativas"
+   ],
+   0,
+   "Art. 83.",
+   "rot 83",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los acuerdos del Consejo de la Ciudad:",
+   [
+    "Tendrán el carácter de informe o petición, y no serán vinculantes para los órganos de gobierno municipal",
+    "Serán vinculantes para el Pleno del Ayuntamiento, que deberá adoptar los acuerdos propuestos",
+    "Serán vinculantes para el Alcalde, que deberá ejecutarlos en el plazo de un mes"
+   ],
+   0,
+   "Art. 84.",
+   "rot 84",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 20",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son funciones del Consejo de la Ciudad, entre otras:",
+   [
+    "Coordinar y dirigir la participación sectorial de la ciudad, constituir consejos sectoriales y comisiones, presentar iniciativas, sugerencias y propuestas y proponer soluciones a problemas de la ciudad",
+    "Aprobar el presupuesto municipal y resolver los recursos de alzada que se interpongan contra el Ayuntamiento",
+    "Dirigir la política municipal y aprobar las ordenanzas sectoriales de los consejos sectoriales"
+   ],
+   0,
+   "Art. 85.",
+   "rot 85",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el ámbito de actuación del Consejo de la Ciudad:",
+   [
+    "Coincidirá con el del municipio",
+    "Coincidirá con el de la provincia",
+    "Será el de cada distrito"
+   ],
+   0,
+   "Art. 86.",
+   "rot 86",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo de la Ciudad de Zaragoza tendrá necesariamente la siguiente estructura:",
+   [
+    "Presidencia, Vicepresidencia, Pleno del Consejo, Comisiones del Consejo y Oficina Técnica",
+    "Presidencia, Pleno y Secretaría, asistidas por el Secretario General del Pleno",
+    "Alcalde, Junta de Gobierno y comisiones, asistidos por el Área de Participación Ciudadana"
+   ],
+   0,
+   "Art. 87.",
+   "rot 87",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 88 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Pleno del Consejo de la Ciudad podrá crear comisiones de estudio, grupos de trabajo o consejos sectoriales, que tendrán:",
+   [
+    "Una finalidad concreta, una composición determinada y una duración prefijada",
+    "Carácter permanente y competencias decisorias en las materias de su ámbito de estudio",
+    "Una composición abierta a cualquier ciudadano y una duración indefinida mientras subsistan"
+   ],
+   0,
+   "Art. 88.",
+   "rot 88",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza corresponde la Presidencia del Consejo de la Ciudad:",
+   [
+    "Al Alcalde de la Corporación, que podrá delegar el cargo en cualquier miembro del Consejo si así lo estima",
+    "Al Teniente de Alcalde de Participación Ciudadana, que podrá delegarla en cualquier miembro",
+    "Al Secretario general del Pleno, que ejercerá la presidencia por delegación del Alcalde"
+   ],
+   0,
+   "Art. 89.",
+   "rot 89",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Presidente nombrará Vicepresidente del Consejo de la Ciudad:",
+   [
+    "Al Teniente de Alcalde de Participación Ciudadana",
+    "Al Concejal más antiguo de la Corporación, que asumirá la Vicepresidencia por ministerio de la ley",
+    "Al Secretario General del Pleno de la Corporación, que asistirá a las sesiones del Consejo"
+   ],
+   0,
+   "Art. 91.",
+   "rot 91",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza forman parte, en todo caso, del Pleno del Consejo de la Ciudad con voz y voto, entre otros:",
+   [
+    "El Alcalde, el Teniente de Alcalde Coordinador del Área de Participación Ciudadana, nueve representantes de la Corporación y nueve de la sociedad civil",
+    "Solo los concejales de la Corporación, designados por los grupos políticos en proporción al Pleno",
+    "El Alcalde y los Presidentes de las Juntas Municipales y Vecinales, sin otros representantes"
+   ],
+   0,
+   "Art. 92.",
+   "rot 92",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza corresponde al Pleno del Consejo:",
+   [
+    "Realizar las funciones del artículo 85 y las que le encomiende el Pleno Municipal",
+    "Aprobar los presupuestos del Consejo y las ordenanzas sectoriales que afecten a la participación",
+    "Nombrar al Presidente del Consejo y a los miembros de las comisiones de estudio"
+   ],
+   0,
+   "Art. 93.",
+   "rot 93",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Pleno del Consejo de la Ciudad se reunirá en sesión ordinaria:",
+   [
+    "Cuatro veces al año; la convocatoria ordinaria se hará con antelación de quince días naturales y la extraordinaria con dos días",
+    "Una vez al mes, con convocatoria con antelación de quince días naturales para las ordinarias",
+    "Dos veces al año, con convocatoria con antelación de dos días para las sesiones ordinarias"
+   ],
+   0,
+   "Art. 94.",
+   "rot 94",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Pleno del Consejo se reunirá en sesión extraordinaria cuando el Presidente lo considere necesario o lo soliciten:",
+   [
+    "Un tercio de sus miembros",
+    "La mitad de sus miembros",
+    "Una cuarta parte de sus miembros"
+   ],
+   0,
+   "Art. 94.",
+   "rot 94",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el número, funciones o composición de las Comisiones, grupos de estudio y Consejos Sectoriales será determinado en cada caso por:",
+   [
+    "El Pleno del Consejo de la Ciudad",
+    "El Alcalde",
+    "El Pleno del Ayuntamiento"
+   ],
+   0,
+   "Art. 96.",
+   "rot 96",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo Municipal de Niños/as:",
+   [
+    "Podrá crearse como órgano de participación ciudadana para tratar los asuntos relativos a la situación de los niños de la ciudad",
+    "Es un órgano necesario del Ayuntamiento, que debe constituirse en toda la ciudad",
+    "Es un consejo sectorial de creación obligatoria, que depende de la Alcaldía"
+   ],
+   0,
+   "Art. 97.",
+   "rot 97",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo de la Ciudad dispondrá de una Oficina Técnica:",
+   [
+    "Adscrita al Área de Participación Ciudadana, con las funciones de órgano de soporte técnico y administrativo",
+    "Adscrita a la Secretaría General del Pleno, con funciones de soporte técnico y administrativo",
+    "Adscrita a la Alcaldía, que podrá encomendar sus funciones a entidades con ánimo de lucro"
+   ],
+   0,
+   "Art. 98.",
+   "rot 98",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son derechos de los miembros de los órganos del Consejo de la Ciudad:",
+   [
+    "Solicitar la inclusión de asuntos en el orden del día, asistir a las reuniones, participar, formular ruegos y preguntas y votar, solicitar certificaciones y recibir información",
+    "Cobrar dietas de asistencia a las reuniones y vetar los acuerdos adoptados por el Pleno del Consejo",
+    "Recibir un informe económico de cada sesión y solicitar la disolución de las comisiones de estudio"
+   ],
+   0,
+   "Art. 99.",
+   "rot 99",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son deberes de los miembros de los órganos del Consejo:",
+   [
+    "Asistir a las reuniones, abstenerse cuando los asuntos afecten a intereses particulares de las entidades que representan y guardar la confidencialidad precisa",
+    "Votar siempre en bloque con la entidad que representan y comunicar sus acuerdos a la prensa",
+    "Asistir solo a las sesiones plenarias y abstenerse de participar en las comisiones de estudio"
+   ],
+   0,
+   "Art. 100.",
+   "rot 100",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza se perderá la condición de miembro del Consejo de la Ciudad, entre otros casos:",
+   [
+    "Por renuncia del interesado, por declaración judicial que afecte su capacidad de obrar y por cese en el cargo público representado",
+    "Por inasistencia a una sola sesión del Pleno o por decisión del Alcalde de la Corporación",
+    "Por acuerdo del Alcalde, aunque no medie renuncia ni declaración judicial que afecte a su capacidad"
+   ],
+   0,
+   "Art. 101.",
+   "rot 101",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la Comisión Especial de Sugerencias y Reclamaciones está formada:",
+   [
+    "Por Concejales de todos los grupos del Pleno, atendiendo a la proporcionalidad, siendo su número máximo el de la Junta de Gobierno Local",
+    "Por funcionarios municipales designados por el Alcalde, en número no superior al de la Junta de Gobierno",
+    "Por representantes vecinales exclusivamente, elegidos por las asociaciones del Censo de Entidades"
+   ],
+   0,
+   "Art. 102.",
+   "rot 102",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 103 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la Comisión Especial de Sugerencias y Reclamaciones:",
+   [
+    "No estará sujeta a mandato imperativo alguno ni recibirá instrucciones de ninguna Autoridad",
+    "Recibirá instrucciones del Alcalde sobre la tramitación y resolución de las quejas presentadas",
+    "Estará sujeta a las directrices del Pleno, que podrá avocar cualquier asunto en tramitación"
+   ],
+   0,
+   "Art. 103.",
+   "rot 103",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los miembros de la Comisión Especial de Sugerencias y Reclamaciones cesarán, entre otras causas:",
+   [
+    "Por reprobación del Pleno de la Corporación por mayoría de sus Concejales, o por condena mediante sentencia firme por delito doloso",
+    "Por una única inasistencia a las sesiones de la Comisión, o por decisión del Alcalde",
+    "Por decisión del Alcalde, sin necesidad de reprobación del Pleno ni de sentencia judicial"
+   ],
+   0,
+   "Art. 104.",
+   "rot 104",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 105 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones:",
+   [
+    "No supondrán por sí mismas la modificación o anulación de actos o resoluciones administrativas, ni podrá interponer acciones judiciales",
+    "Anulan los actos administrativos objeto de queja cuando aprecien que existe un error de derecho",
+    "Obligan al Alcalde a modificar los actos, y la Comisión puede interponer acciones ante los Tribunales"
+   ],
+   0,
+   "Art. 105.",
+   "rot 105",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la Comisión Especial de Sugerencias y Reclamaciones se reunirá, al menos:",
+   [
+    "Tres veces al año, con carácter periódico",
+    "Una vez al mes",
+    "Dos veces al año"
+   ],
+   0,
+   "Art. 106.1. Quórum: un tercio; segunda convocatoria media hora después; acuerdos por mayoría simple.",
+   "rot 106",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza para la válida constitución de la Comisión Especial de Sugerencias y Reclamaciones se requerirá la asistencia de:",
+   [
+    "Un tercio del número de miembros; de no haber quórum, se constituirá media hora después en segunda convocatoria, cualquiera que sea el número de asistentes",
+    "La mitad de sus miembros; de no haber quórum, la reunión se aplaza a la siguiente sesión",
+    "Dos tercios de sus miembros; de no haber quórum, se constituye una hora después en segunda convocatoria"
+   ],
+   0,
+   "Art. 106.2.",
+   "rot 106",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las sesiones de la Comisión Especial de Sugerencias y Reclamaciones:",
+   [
+    "No serán públicas",
+    "Serán públicas",
+    "Serán públicas salvo decisión del Presidente"
+   ],
+   0,
+   "Art. 107.",
+   "rot 107",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 109 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza podrá dirigirse a la Comisión para presentar quejas o reclamaciones:",
+   [
+    "Toda persona, natural o jurídica, con capacidad de obrar, que invoque un interés legítimo; ninguna autoridad administrativa podrá presentar quejas en asuntos de su competencia",
+    "Solo las personas empadronadas en el municipio, siempre que acrediten una relación directa con el asunto",
+    "Solo las entidades inscritas en el Censo, y las autoridades administrativas en asuntos de su competencia"
+   ],
+   0,
+   "Art. 109.",
+   "rot 109",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 110 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las quejas o reclamaciones y sugerencias podrán ser presentadas:",
+   [
+    "A elección del interesado, por los medios habituales utilizados en la Administración Pública",
+    "Solo en la Oficina Técnica de la Comisión, en soporte papel y mediante escrito firmado",
+    "Solo por medios electrónicos, a través de la sede electrónica del Ayuntamiento de Zaragoza"
+   ],
+   0,
+   "Art. 110.",
+   "rot 110",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 111 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza todas las quejas, reclamaciones y sugerencias formuladas en soporte papel deberán ser tramitadas:",
+   [
+    "En la Oficina Técnica de la Comisión",
+    "En el Registro General",
+    "En la Alcaldía"
+   ],
+   0,
+   "Art. 111.",
+   "rot 111",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 113 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza en el plazo de diez días desde la presentación de las quejas en la Oficina Técnica, la Comisión, por resolución de su Presidente:",
+   [
+    "Recabará la información precisa y realizará las investigaciones pertinentes; los servicios responsables deberán responder a los interesados en el plazo máximo de quince días",
+    "Archivará las quejas no admitidas y resolverá definitivamente las demás en el plazo de un mes",
+    "Resolverá definitivamente las quejas, dando traslado de su resolución a los servicios responsables"
+   ],
+   0,
+   "Art. 113.1 y 2.",
+   "rot 113",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 114 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza cuando una queja presentada en la Comisión esté tramitándose por el Justicia de Aragón:",
+   [
+    "La Comisión se abstendrá de continuar sus actuaciones a resultas de la decisión tomada por el Justicia",
+    "La Comisión continuará paralelamente su investigación, para contrastar el resultado con el del Justicia",
+    "La Comisión resolverá antes que el Justicia, que se abstendrá de continuar sus actuaciones"
+   ],
+   0,
+   "Art. 114.",
+   "rot 114",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la Comisión Especial de Sugerencias y Reclamaciones dará cuenta al Pleno de la gestión realizada:",
+   [
+    "En una sesión extraordinaria convocada al efecto, mediante informe o memoria anual presentado por el Presidente de la Comisión",
+    "En cada sesión ordinaria del Pleno, mediante un informe verbal del Presidente de la Comisión",
+    "En la sesión de debate del estado de la ciudad, mediante la memoria anual aprobada por el Alcalde"
+   ],
+   0,
+   "Art. 115.",
+   "rot 115",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Consejos Sectoriales se crearán:",
+   [
+    "Con carácter excepcional, previo informe positivo del Consejo de la Ciudad al existir causas objetivas, de modo que no se dupliquen los trabajos",
+    "Con carácter general para cada materia, sin necesidad de informe del Consejo de la Ciudad",
+    "Por acuerdo del Alcalde, a propuesta del Teniente de Alcalde de Participación Ciudadana"
+   ],
+   0,
+   "Art. 116.",
+   "rot 116",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son funciones de los Consejos Sectoriales:",
+   [
+    "Presentar iniciativas y propuestas, proponer soluciones a problemas del sector, colaborar en estudios, informar al Ayuntamiento a su requerimiento y coordinarse con el Consejo de la Ciudad",
+    "Aprobar ordenanzas sectoriales y resolver las quejas de los vecinos en su ámbito de actividad",
+    "Dirigir la participación sectorial de la ciudad y constituir comisiones y grupos de trabajo"
+   ],
+   0,
+   "Art. 117.",
+   "rot 117",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la actividad de las Juntas Municipales se basa, entre otros fines y objetivos:",
+   [
+    "En lograr la eficacia en la prestación de servicios, la desconcentración y proximidad de la gestión a los vecinos, la coordinación con los órganos centrales y la máxima participación de los vecinos",
+    "Sustituir al Pleno del Ayuntamiento en la gestión de los asuntos de su territorio y recaudar tributos propios",
+    "Garantizar la jerarquía y la uniformidad de los servicios, sin atender al equilibrio entre distritos"
+   ],
+   0,
+   "Art. 11.",
+   "rot 11",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las Juntas Municipales y Vecinales ejercerán las competencias:",
+   [
+    "Asignables y desconcentrables por ley que les sean conferidas por los órganos municipales, con arreglo a los Planes de Desconcentración vigentes",
+    "Todas las del Ayuntamiento, sin sujeción a los Planes de Desconcentración vigentes en cada momento",
+    "Solo las competencias de control sobre los órganos de gobierno municipal, no las de gestión"
+   ],
+   0,
+   "Art. 12.1.",
+   "rot 12",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la atribución de competencias a los Distritos deberá hacerse:",
+   [
+    "Con carácter general para todos los Distritos; el Pleno podrá establecer actividades que, por su carácter experimental o específico, solo puedan ser ejercidas por uno o más Distritos",
+    "Distrito por distrito, de manera singular, atendiendo a las necesidades específicas de cada territorio",
+    "Solo para los distritos urbanos, quedando excluido el Distrito Rural y los barrios rurales"
+   ],
+   0,
+   "Art. 13.",
+   "rot 13",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los acuerdos de asignación de competencias a los Distritos deberán contener necesariamente:",
+   [
+    "Descripción exacta de la función asignada y su carácter, designación del Distrito y el órgano de la Junta que desempeñará la función",
+    "El presupuesto asignado a la función y el plazo de duración de la asignación de competencias",
+    "El órgano del Ayuntamiento que supervisará la función y las instalaciones afectadas a la misma"
+   ],
+   0,
+   "Art. 13.",
+   "rot 13",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son órganos necesarios de las Juntas Municipales:",
+   [
+    "El Presidente y el Pleno",
+    "El Presidente y el Consejo Rector",
+    "El Pleno y las Comisiones de Trabajo"
+   ],
+   0,
+   "Art. 14. El Consejo Rector y los grupos de trabajo son potestativos.",
+   "rot 14",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Alcalde es el Presidente nato de todas las Juntas Municipales y, previa consulta con los grupos municipales:",
+   [
+    "Podrá delegar la Presidencia efectiva en un Concejal, dando cuenta al Pleno del Ayuntamiento",
+    "Debe delegar la Presidencia efectiva en un Concejal, dando cuenta al Pleno del Ayuntamiento",
+    "No puede delegar la Presidencia, que ejercerá personalmente en todas las Juntas Municipales"
+   ],
+   0,
+   "Art. 15.",
+   "rot 15",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Presidente de la Junta Municipal, de entre los vocales propuestos por los grupos municipales:",
+   [
+    "Designará libremente un Vicepresidente que le sustituirá en caso de vacante, ausencia o enfermedad en los órganos colegiados de la Junta y en aquellos otros actos que la legislación local lo permita",
+    "Será sustituido por el vocal más antiguo de la Junta, que asumirá la presidencia en funciones",
+    "Será sustituido por el Secretario de la Junta, en los órganos colegiados y en los demás actos"
+   ],
+   0,
+   "Art. 15.",
+   "rot 15",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza corresponde al Presidente de la Junta Municipal, entre otras funciones:",
+   [
+    "Dirigir el gobierno y la administración de la Junta, convocar y presidir las sesiones del Consejo Rector y del Pleno con voto de calidad y ejercer la dirección del personal de la Junta",
+    "Aprobar el Manual de Funcionamiento Interno y el Programa de Actuación y de Gastos de la Junta",
+    "Dirigir los servicios y obras de la Junta sin informar al Pleno de la Junta de las actuaciones"
+   ],
+   0,
+   "Art. 16. Esas dos últimas son funciones del Pleno de la Junta (art. 18).",
+   "rot 16",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Pleno de la Junta Municipal está integrado por:",
+   [
+    "El Presidente y diez Vocales nombrados por el Alcalde a propuesta de los grupos políticos, según los resultados electorales en el ámbito de la Junta",
+    "El Presidente y cinco Vocales nombrados por el Alcalde a propuesta de los grupos con representación",
+    "El Presidente y quince Vocales nombrados por el Alcalde a propuesta de las asociaciones de vecinos"
+   ],
+   0,
+   "Art. 17.",
+   "rot 17",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Vocales de las Juntas Municipales serán cesados por el Alcalde, entre otros supuestos:",
+   [
+    "Por inasistencia injustificada a tres sesiones consecutivas del Pleno o a cinco alternas en el plazo de un año",
+    "Por inasistencia injustificada a una sola sesión del Pleno de la Junta, comunicada al Alcalde",
+    "Por inasistencia injustificada a diez sesiones consecutivas del Pleno de la Junta o a doce alternas"
+   ],
+   0,
+   "Art. 17.",
+   "rot 17",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Pleno de la Junta Municipal se reunirá, como mínimo:",
+   [
+    "Una vez al trimestre, sin perjuicio de que su Manual de Funcionamiento Interno establezca una periodicidad mensual",
+    "Una vez al mes, sin perjuicio de que su Manual de Funcionamiento Interno establezca una periodicidad trimestral",
+    "Una vez al año, sin perjuicio de que su Manual de Funcionamiento Interno establezca una periodicidad mensual"
+   ],
+   0,
+   "Art. 18.",
+   "rot 18",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza corresponden al Pleno de la Junta Municipal, en todo caso:",
+   [
+    "El control de la gestión del Presidente y la reprobación de ésta, la aprobación del Manual de Funcionamiento Interno y del Programa de Actuación y de Gastos",
+    "Dirigir los servicios y obras de la Junta y ejecutar los acuerdos del Consejo Rector",
+    "Dictar bandos y disponer gastos dentro de los límites de los decretos de delegación de la Alcaldía"
+   ],
+   0,
+   "Art. 18.",
+   "rot 18",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo Rector de la Junta Municipal:",
+   [
+    "Se crea potestativamente conforme al Manual de Funcionamiento Interno y se reunirá, como mínimo, una vez al mes ejerciendo funciones de iniciativa, gestión y coordinación",
+    "Es órgano necesario de la Junta, que se reúne como mínimo una vez al trimestre",
+    "Se crea por decreto de la Alcaldía y se reúne como mínimo una vez al trimestre, sin funciones de gestión"
+   ],
+   0,
+   "Art. 19.",
+   "rot 19",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza en las Juntas Municipales se podrán crear Comisiones de Trabajo de carácter permanente, cuyo número, denominación y composición será establecido libremente por:",
+   [
+    "El Pleno de la Junta",
+    "El Presidente de la Junta",
+    "El Alcalde"
+   ],
+   0,
+   "Art. 20.",
+   "rot 20",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las Juntas Municipales y Vecinales celebrarán con carácter general sesión plenaria ordinaria:",
+   [
+    "Una vez al mes, sin perjuicio de que el Manual de Funcionamiento Interno establezca como mínimo una reunión trimestral",
+    "Una vez al trimestre, sin perjuicio de que el Manual de Funcionamiento Interno establezca una reunión mensual",
+    "Una vez cada dos meses, sin perjuicio de que el Manual de Funcionamiento Interno establezca una reunión mensual"
+   ],
+   0,
+   "Art. 21.1.",
+   "rot 21",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los órganos colegiados de gobierno de las Juntas se constituirán válidamente con la asistencia de:",
+   [
+    "Un tercio del número legal de sus miembros con derecho a voto, que nunca podrán ser menos de tres; si no hay quórum, la sesión queda convocada automáticamente quince minutos más tarde",
+    "La mitad del número legal de sus miembros con derecho a voto; en caso contrario, la sesión se aplaza",
+    "Dos tercios del número legal de sus miembros con derecho a voto, que nunca podrán ser menos de cinco"
+   ],
+   0,
+   "Art. 21.2.",
+   "rot 21",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son sesiones extraordinarias de las Juntas las que se celebren por establecerlo una disposición legal, cuando así lo decida el Concejal Presidente o Alcalde de Barrio, o lo solicite:",
+   [
+    "La cuarta parte, al menos, del número legal de miembros con derecho a voto, sin que ningún Vocal pueda solicitar más de tres al año",
+    "Un tercio de los miembros con derecho a voto, sin que ningún Vocal pueda solicitar más de cinco al año",
+    "La mitad de los miembros con derecho a voto, sin que ningún Vocal pueda solicitar más de una al año"
+   ],
+   0,
+   "Art. 22.2.",
+   "rot 22",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la celebración de la sesión extraordinaria solicitada por los miembros de la Junta no podrá demorarse más de:",
+   [
+    "Quince días hábiles desde que fue solicitada",
+    "Diez días naturales",
+    "Treinta días hábiles"
+   ],
+   0,
+   "Art. 23.3.",
+   "rot 23",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las sesiones plenarias de las Juntas serán convocadas por el Presidente del Distrito o Alcalde de Barrio, al menos con:",
+   [
+    "Dos días hábiles de antelación a la fecha prevista, salvo las extraordinarias urgentes",
+    "Cinco días hábiles de antelación a la fecha prevista, salvo las extraordinarias urgentes",
+    "Quince días naturales de antelación a la fecha prevista, incluidas las extraordinarias urgentes"
+   ],
+   0,
+   "Art. 24.1.",
+   "rot 24",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza en la primera convocatoria de las sesiones plenarias de las Juntas se señalará que, si no existe quórum, la sesión se entenderá convocada automáticamente:",
+   [
+    "Quince minutos más tarde, siendo suficiente la asistencia del Presidente, Secretario y dos Vocales con derecho a voto",
+    "Media hora más tarde, siendo suficiente la asistencia del Presidente y el Secretario",
+    "Al día siguiente a la misma hora, con la asistencia de un tercio de los miembros"
+   ],
+   0,
+   "Art. 24.2.",
+   "rot 24",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la aprobación del acta de la sesión anterior será:",
+   [
+    "El primer punto del orden del día",
+    "El último punto del orden del día",
+    "Un punto potestativo"
+   ],
+   0,
+   "Art. 25.2.",
+   "rot 25",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Grupos, o un mínimo de tres Vocales, podrán presentar mociones con una antelación mínima de:",
+   [
+    "Tres días hábiles respecto de la sesión correspondiente",
+    "Cinco días naturales respecto de la sesión correspondiente, en la sede administrativa de la Junta",
+    "Un día hábil respecto de la sesión correspondiente, en la sede administrativa de la Junta"
+   ],
+   0,
+   "Art. 25.3.",
+   "rot 25",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza todas las sesiones de las Juntas respetarán el principio de:",
+   [
+    "Unidad de acto, procurándose que finalicen el mismo día que comiencen",
+    "Publicidad restringida, de modo que solo asistan los miembros y los representantes de las entidades",
+    "Duración máxima de dos horas, finalizando la sesión aunque queden asuntos del orden del día"
+   ],
+   0,
+   "Art. 26.1.",
+   "rot 26",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el acta de cada sesión deberá recoger, como mínimo:",
+   [
+    "Lugar, fecha y hora, asistentes, carácter de la sesión y convocatoria, relación de asuntos tratados, votos emitidos y acuerdos adoptados, y sucintamente las opiniones emitidas",
+    "Solo los acuerdos adoptados y los votos emitidos, sin necesidad de reflejar las opiniones emitidas",
+    "La transcripción íntegra de todas las intervenciones, de forma obligatoria en todas las sesiones"
+   ],
+   0,
+   "Art. 27.",
+   "rot 27",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza si el Presidente de la Junta considera que un acuerdo vulnera el ordenamiento jurídico, podrá suspender su ejecución, dando cuenta de los motivos al Alcalde en el plazo de:",
+   [
+    "Veinticuatro horas desde la finalización de la sesión; el Alcalde, en setenta y dos horas, deberá ratificarla expresamente",
+    "Cuarenta y ocho horas desde la finalización de la sesión; el Alcalde, en cinco días, deberá ratificarla",
+    "Diez días desde la finalización de la sesión; el Alcalde, en un mes, deberá ratificarla"
+   ],
+   0,
+   "Art. 28. La no ratificación alza la suspensión.",
+   "rot 28",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Alcalde podrá delegar en un concejal la presidencia efectiva del Distrito Rural, que comprende:",
+   [
+    "Los catorce barrios rurales regidos por sus respectivas Juntas Vecinales",
+    "Los dieciséis distritos de la ciudad, regidos por sus Juntas Municipales y Vecinales",
+    "Los barrios urbanos del sur de la ciudad, regidos por sus respectivas Juntas Municipales"
+   ],
+   0,
+   "Art. 29.",
+   "rot 29",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo Territorial de Alcaldes de Barrio es:",
+   [
+    "Un órgano para la coordinación, información y propuesta de la gestión municipal referida a los Barrios Rurales de Zaragoza",
+    "Un órgano para la colaboración, información y propuesta de la gestión de los Barrios Urbanos",
+    "Un órgano para la participación, colaboración y resolución referida a los Barrios Rurales"
+   ],
+   0,
+   "Art. 30.",
+   "rot 30",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 12",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo Territorial de Alcaldes de Barrio está integrado por:",
+   [
+    "El Concejal Presidente del Distrito Rural (su Presidente), todos los Alcaldes de Barrio y los Portavoces de los Grupos Municipales en la Comisión del Pleno de Participación Ciudadana",
+    "Los Presidentes de las Juntas Municipales de la ciudad, que presiden el Consejo y designan Secretario",
+    "Solo los Alcaldes de Barrio y los Portavoces de los Grupos Municipales en el Pleno del Ayuntamiento"
+   ],
+   0,
+   "Art. 30.",
+   "rot 30",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son órganos necesarios de cada Barrio Rural:",
+   [
+    "El Presidente, que recibe el nombre tradicional de Alcalde del Barrio, y el Pleno",
+    "El Presidente, que recibe el nombre de Alcalde del Barrio, y el Consejo Rector de la Junta Vecinal",
+    "El Alcalde de Barrio y las Comisiones de Trabajo, junto con los grupos de trabajo del barrio"
+   ],
+   0,
+   "Art. 31.",
+   "rot 31",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Alcalde de Barrio:",
+   [
+    "Es el representante personal del Alcalde, nombrado por éste, recayendo el nombramiento en un vecino del barrio elegido por los vecinos con el mayor número de votos en un proceso democrático de consulta",
+    "Es elegido y nombrado por el Alcalde sin consulta",
+    "Es elegido por el Pleno del Ayuntamiento"
+   ],
+   0,
+   "Art. 32.",
+   "rot 32",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 27",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el cargo de Alcalde de Barrio tendrá, con carácter general:",
+   [
+    "La duración del mandato de la Corporación, y será retribuido en la cuantía y condiciones que apruebe el Pleno",
+    "Una duración de dos años, prorrogable por otros dos, retribuido por la Junta Vecinal del barrio",
+    "Carácter honorífico no retribuido, con la duración del mandato de la Corporación municipal"
+   ],
+   0,
+   "Art. 32.",
+   "rot 32",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las Juntas Vecinales con menos de 2.000 habitantes tendrán:",
+   [
+    "Cuatro Vocales, y seis Vocales las restantes",
+    "Seis Vocales, y diez las restantes",
+    "Dos Vocales, y cuatro las restantes"
+   ],
+   0,
+   "Art. 33.",
+   "rot 33",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza en el Pleno de la Junta Vecinal, un representante de cada Asociación de Vecinos con domicilio social en el ámbito de la Junta, inscrita en el Censo, será miembro:",
+   [
+    "Con voz y sin voto",
+    "Con voz y voto",
+    "Sin voz ni voto"
+   ],
+   0,
+   "Art. 33.4.",
+   "rot 33",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo Rector de la Junta Vecinal se reunirá, como mínimo:",
+   [
+    "Una vez al mes",
+    "Una vez al trimestre",
+    "Una vez al año"
+   ],
+   0,
+   "Art. 34.",
+   "rot 34",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Concejo Local estará integrado por:",
+   [
+    "Un Presidente, cuatro Vocales y, con voz y sin voto, un representante de cada Asociación de Vecinos del territorio",
+    "Un Presidente y dos Vocales, y con voz y sin voto un representante de cada Asociación de Vecinos",
+    "Un Presidente y seis Vocales, y con voz y voto un representante de cada Asociación de Vecinos"
+   ],
+   0,
+   "Art. 36.2.",
+   "rot 36",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza la resolución del expediente de constitución o disolución de Concejos Locales requiere:",
+   [
+    "Acuerdo del Ayuntamiento Pleno",
+    "Resolución de la Alcaldía",
+    "Acuerdo de la Junta Municipal"
+   ],
+   0,
+   "Art. 36.1.",
+   "rot 36",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Consejos de Distrito son:",
+   [
+    "Órganos de ámbito territorial para la desconcentración administrativa que sirven de cauce para la tramitación de los asuntos derivados de la gestión municipal en su ámbito territorial",
+    "Órganos de representación vecinal que agrupan a las asociaciones del distrito para la gestión",
+    "Órganos de la Comunidad Autónoma de Aragón para la tramitación de asuntos de gestión municipal"
+   ],
+   0,
+   "Art. 37.",
+   "rot 37",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Consejos de Distrito podrán constituirse conforme a los siguientes criterios:",
+   [
+    "Por Juntas Municipales completas, limítrofes territorialmente, que podrán estar formadas por barrios urbanos y rurales",
+    "Por Juntas parciales de cualquier territorio, aunque no sean limítrofes entre sí",
+    "Por barrios rurales solamente, quedando excluidas las Juntas Municipales de los distritos urbanos"
+   ],
+   0,
+   "Art. 38.",
+   "rot 38",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el acuerdo de creación de cada uno de los Consejos de Distrito corresponde:",
+   [
+    "Al Pleno del Ayuntamiento de Zaragoza",
+    "Al Alcalde",
+    "A la Junta de Gobierno Local"
+   ],
+   0,
+   "Art. 39.",
+   "rot 39",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza son órganos de los Consejos de Distrito:",
+   [
+    "El Presidente y el Consejo Rector",
+    "El Presidente y el Pleno",
+    "El Pleno y las Comisiones"
+   ],
+   0,
+   "Art. 40.",
+   "rot 40",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Alcalde es el Presidente nato de todos los Consejos de Distrito y:",
+   [
+    "Podrá delegar en un Concejal esta Presidencia y sus atribuciones",
+    "No puede delegar la Presidencia, que ejercerá personalmente en todos los Consejos de Distrito",
+    "Debe delegar la Presidencia en el Concejal más votado en cada distrito, con todas sus atribuciones"
+   ],
+   0,
+   "Art. 41.1.",
+   "rot 41",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Presidente del Consejo de Distrito, de entre los Concejales Presidentes de Juntas Municipales de su territorio:",
+   [
+    "Designará libremente un Vicepresidente que le sustituirá en caso de vacante, ausencia o enfermedad en los órganos colegiados del Consejo y en aquellos otros actos que la legislación local lo permita",
+    "Designará un Vicepresidente solo para los órganos no colegiados",
+    "Será sustituido por el Concejal de mayor edad"
+   ],
+   0,
+   "Art. 41.2.",
+   "rot 41",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 21",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza el Consejo Rector del Consejo de Distrito está formado por:",
+   [
+    "El Presidente del Consejo de Distrito y los Presidentes de las Juntas; con voz y sin voto, un Vocal por cada grupo municipal y un representante del movimiento vecinal",
+    "Solo los Presidentes de las Juntas, sin representación de los grupos municipales ni del movimiento vecinal",
+    "El Alcalde y los Concejales Delegados, con voz y voto, junto con los Presidentes de las Juntas"
+   ],
+   0,
+   "Art. 42. Actúa como Secretario el de la Comisión del Pleno de Participación Ciudadana.",
+   "rot 42",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza las Juntas Municipales y Vecinales estarán asistidas, para su funcionamiento, por:",
+   [
+    "Oficinas administrativas suficientemente dotadas, coordinadas a través del Consejo de Distrito al que pertenecen",
+    "El Secretario general del Pleno, que ejercerá las funciones administrativas de cada Junta",
+    "La Intervención municipal, que coordinará las oficinas a través del Área de Participación Ciudadana"
+   ],
+   0,
+   "Art. 43.",
+   "rot 43",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

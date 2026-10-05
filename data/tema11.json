@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "La actividad de policía (intervención)",
-   "subtitulo": "Art. 84 LBRL y arts. 193-198 Ley 7/1999",
+   "subtitulo": "Arts. 84 a 84 ter LBRL y arts. 193-198 Ley 7/1999",
    "clave": [
     "Medios de intervención (84.1)",
     "Licencia previa",
@@ -79,12 +79,95 @@
     "Ordenanzas y bandos · licencia previa · comunicación/declaración responsable · control posterior · órdenes individuales",
     "Ordenanzas: adaptan infracciones, no crean nuevas (197)"
    ],
-   "ic": "👮"
+   "ic": "👮",
+   "articulos": [
+    [
+     "lbrl",
+     "84",
+     "Medios de intervención local en la actividad ciudadana",
+     "Las entidades locales pueden **intervenir la actividad de los ciudadanos** mediante: **a)** **ordenanzas y bandos**; **b)** **previa licencia** y otros actos de control preventivo; **c)** **comunicación previa o declaración responsable**; **d)** **control posterior** al inicio de la actividad; **e)** **órdenes individuales** de mandato para ejecutar o prohibir un acto. La intervención respeta **igualdad de trato, necesidad y proporcionalidad**. Las **licencias de otras Administraciones no eximen** de obtener las licencias locales.",
+     "¿Cuáles son los cinco medios de intervención del art. 84 LBRL?"
+    ],
+    [
+     "lbrl",
+     "84 bis",
+     "Regla general: sin licencia salvo razones justificadas",
+     "Con carácter general, las actividades **no se someten a licencia** ni otro control preventivo. Solo puede exigirse **licencia** para **actividades económicas** cuando esté justificado por **orden público, seguridad pública, salud pública o protección del medio ambiente** (y no baste una declaración responsable o comunicación) o cuando el **número de operadores sea limitado** (escasez de recursos naturales, uso del dominio público, impedimentos técnicos o servicios con tarifas reguladas). Las **instalaciones** solo se someten a autorización si lo establece **una ley** y generan riesgos y resulta **proporcionado**.",
+     "¿En qué casos puede exigirse licencia para una actividad económica?"
+    ],
+    [
+     "lbrl",
+     "84 ter",
+     "Procedimientos de comunicación y verificación posterior",
+     "Cuando la actividad **no precise autorización previa**, las entidades locales deben **establecer y planificar los procedimientos de comunicación** y los de **verificación posterior** del cumplimiento de los requisitos.",
+     "¿Qué deben establecer las entidades locales cuando la actividad no precisa autorización previa?"
+    ],
+    [
+     "l7-1999",
+     "193",
+     "Función de policía en la ley aragonesa",
+     "Las entidades locales pueden intervenir mediante: **a)** **ordenanzas y decretos normativos de emergencia**; **b)** **licencia previa**; **c)** **comunicación previa o declaración responsable**; **d)** **control posterior**; **e)** **órdenes individuales**. La intervención respeta **igualdad de trato, congruencia con los motivos y fines, respeto a la libertad individual y proporcionalidad**.",
+     "¿Qué cuatro principios rigen la actividad de intervención según la Ley 7/1999?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "194",
+     "Autorizaciones y licencias: competencia del Alcalde y tramitación conjunta",
+     "Se exigen según la **legislación sectorial**. Los regímenes de autorización se basan en **criterios que impidan la arbitrariedad**. **Competencia:** el **Alcalde**, salvo que la legislación sectorial atribuya otra. Si intervienen **varias unidades o servicios municipales**, se tramitan **conjunta y simultáneamente** en **un solo procedimiento** que termina en **una sola resolución**.",
+     "¿A quién corresponde otorgar las licencias y autorizaciones, salvo atribución sectorial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "195",
+     "Efectos de las licencias: sin perjuicio de tercero",
+     "Las licencias, autorizaciones y demás actos de control **producen efectos entre la entidad local y el solicitante** y se entienden otorgadas **salvo el derecho de propiedad y sin perjuicio de tercero**.",
+     "¿Qué efecto tienen las licencias respecto del derecho de propiedad y de terceros?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "196",
+     "Revocación y anulación de licencias",
+     "Las licencias **quedan sin efecto** si el titular **incumple las condiciones** por causas imputables. Son **anulables** en los supuestos de la legislación de procedimiento común; **no hay indemnización** si se otorgaron por **dolo, culpa o negligencia grave del interesado**. Procede su **revocación** por **cambio o desaparición de las circunstancias** que justificaron el otorgamiento, o si sobrevienen otras que habrían justificado su denegación, o por **nuevos criterios** normativos; se **da audiencia** a los interesados.",
+     "¿En qué casos procede la revocación de una licencia?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "197",
+     "Infracciones y sanciones en las ordenanzas locales",
+     "Las **ordenanzas** pueden **complementar y adaptar** el sistema de infracciones y sanciones de las leyes sectoriales **sin crear nuevas infracciones ni alterar su naturaleza o límites**. En las materias de **competencia exclusiva local** y sin previsión legal, pueden **tipificar como infracción** el incumplimiento de sus mandatos, con **límites máximos de multa** (leves, graves y muy graves) fijados en el texto, y se exige además la **indemnización de daños** o la **reposición** de las cosas.",
+     "¿Pueden las ordenanzas crear infracciones nuevas diferentes a las de las leyes sectoriales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "198",
+     "Actividades y servicios de interés público bajo intervención local",
+     "La actividad de **particulares o servicios de interés público** cuya tutela esté atribuida a las entidades locales **está sujeta a intervención local**. La potestad puede comprender la **regulación de las bases de prestación**, la **autorización**, la **aprobación de tarifas** y el **régimen de infracciones y sanciones**. Si hay **uso especial o privativo del dominio público**, la autorización fija **alcance y condiciones**.",
+     "¿Qué puede comprender la potestad de intervención sobre servicios de interés público?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e1",
    "titulo": "El servicio público local y sus formas de gestión",
-   "subtitulo": "Arts. 85 y 86 LBRL; 199 y 221 Ley 7/1999",
+   "subtitulo": "Arts. 85 a 86 LBRL; arts. 199 y 221 Ley 7/1999; art. 118 Ley 40/2015; arts. 220 y 231 del Reglamento aragonés",
    "clave": [
     "Servicios públicos locales (85.1)",
     "Gestión directa (85.2.A)",
@@ -142,12 +225,89 @@
     "Directa: propia entidad · OA · EPE · sociedad mercantil pública · Indirecta: contrato de gestión (concesión)",
     "Iniciativa pública económica: aprueba el Pleno (86)"
    ],
-   "ic": "🚌"
+   "ic": "🚌",
+   "articulos": [
+    [
+     "lbrl",
+     "85",
+     "Servicios públicos locales y formas de gestión directa o indirecta",
+     "Son **servicios públicos locales** los que prestan las entidades locales **en el ámbito de sus competencias**, gestionados de la forma **más sostenible y eficiente**. **Gestión directa:** **a)** por la **propia entidad**; **b)** **organismo autónomo local**; **c)** **entidad pública empresarial local**; **d)** **sociedad mercantil local** de capital público (c y d solo si una **memoria justificativa** acredita que son más sostenibles y eficientes). **Gestión indirecta:** las formas del **contrato de gestión de servicios públicos** de la legislación de contratos.",
+     "¿Qué cuatro formas de gestión directa enumera el art. 85 LBRL?"
+    ],
+    [
+     "lbrl",
+     "85 bis",
+     "Organismos autónomos y entidades públicas empresariales locales",
+     "Se rigen por la **Ley 6/1997 (LOFAGE)** con especialidades: **creación, modificación, refundición y supresión por el Pleno**, que aprueba los **estatutos**; adscripción a una **Concejalía o Área**; el máximo órgano de dirección lo ocupa un **funcionario de carrera o laboral** o un **profesional del sector privado**, titulados superiores (en el segundo caso con **más de cinco años** de ejercicio); en **organismos autónomos** debe existir **consejo rector**.",
+     "¿Qué órgano local crea y suprime los organismos autónomos y aprueba sus estatutos?"
+    ],
+    [
+     "lbrl",
+     "85 ter",
+     "Sociedades mercantiles locales",
+     "Se rigen **íntegramente por el ordenamiento jurídico privado**, salvo **normativa presupuestaria, contable, de control financiero, de control de eficacia y de contratación**. Adoptan una forma del **texto refundido de la Ley de Sociedades de Capital** y en la escritura consta el **capital aportado por las Administraciones**. Los **estatutos** fijan la designación y funcionamiento de la **Junta General** y del **Consejo de Administración**.",
+     "¿Qué derecho rige las sociedades mercantiles locales, con qué excepciones?"
+    ],
+    [
+     "lbrl",
+     "86",
+     "Iniciativa pública económica y reserva de servicios esenciales",
+     "Las entidades locales pueden ejercer la **iniciativa pública para actividades económicas** si está garantizada la **estabilidad presupuestaria y sostenibilidad financiera**; el **expediente** (con análisis de mercado) lo aprueba el **Pleno**. **Reserva a favor de las entidades locales** de: **abastecimiento domiciliario y depuración de aguas**, **recogida, tratamiento y aprovechamiento de residuos** y **transporte público de viajeros**. Prestar estos servicios **en régimen de monopolio** requiere, además del Pleno, aprobación del órgano competente de la Comunidad Autónoma.",
+     "¿Qué tres servicios esenciales reserva el art. 86 LBRL a las entidades locales?"
+    ],
+    [
+     "l7-1999",
+     "199",
+     "Servicios públicos locales y libertad para organizarlos",
+     "**Servicios públicos locales** son los que se prestan para satisfacer **intereses y necesidades de la comunidad vecinal** en asuntos de su competencia. Las entidades tienen **plena libertad** para **constituir, regular, modificar y suprimir** servicios de su competencia, y **garantizan el funcionamiento** de los **servicios obligatorios municipales** (art. 44), salvo **dispensa**.",
+     "¿Qué servicios deben garantizar siempre las entidades locales, salvo dispensa?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "221",
+     "Formas de gestión de actividades económicas locales",
+     "La **explotación de actividades económicas** puede ser realizada por las entidades locales **por sí mismas** o **en colaboración con otras entidades públicas o privadas y particulares** mediante **sociedades mercantiles**. Estas se rigen por el **derecho privado**, con sujeción plena a las reglas de **libre concurrencia**.",
+     "¿Qué derecho rige las sociedades mercantiles creadas para actividades económicas locales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lrjsp",
+     "118",
+     "Consorcios: concepto y actividades propias",
+     "Los **consorcios** son **entidades de derecho público con personalidad jurídica propia y diferenciada**, creadas por **varias Administraciones o entidades del sector público**, entre sí o con participación de **entidades privadas**, para **actividades de interés común**. Pueden realizar **actividades de fomento, prestacionales o de gestión común de servicios públicos**, y gestionar servicios públicos en el marco de convenios de **cooperación transfronteriza**.",
+     "¿Qué actividades pueden realizar los consorcios según el art. 118 de la Ley 40/2015?"
+    ],
+    [
+     "rbaso",
+     "220",
+     "Dispensa de prestación de servicios obligatorios",
+     "Los municipios pueden **solicitar la dispensa** del establecimiento o prestación de servicios obligatorios cuando sea **imposible o muy difícil** su cumplimiento, o cuando el servicio sea **innecesario**. La solicitud se dirige al **Departamento de Presidencia y Relaciones Institucionales**, previa **instrucción del procedimiento**.",
+     "¿A quién se dirige la solicitud de dispensa de un servicio obligatorio?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "rbaso",
+     "231",
+     "Formas de gestión de los servicios públicos locales",
+     "Se gestionan de forma **directa o indirecta**. **Directa:** **a)** por la **propia entidad** (órganos ordinarios u **órgano especial de administración**); **b)** **organismo autónomo local**; **c)** **sociedad mercantil con capital íntegramente de la entidad**. **Indirecta:** **a)** **concesión**; **b)** **gestión interesada**; **c)** **arrendamiento**; **d)** **concierto**; **e)** **sociedad mercantil o cooperativa** con capital **parcialmente** de la entidad. La **forma de gestión** la decide la entidad local.",
+     "¿Qué cinco formas de gestión indirecta enumera el art. 231 del Reglamento aragonés?",
+     {
+      "add": "z"
+     }
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "La actividad de fomento",
-   "subtitulo": "Arts. 224 y 225 Ley 7/1999",
+   "subtitulo": "Arts. 224-225 Ley 7/1999 y art. 184 del Reglamento aragonés",
    "clave": [
     "Subvenciones (224)",
     "Principios del fomento (225)"
@@ -183,7 +343,36 @@
     "Fomento: auxilios económicos a entidades públicas o privadas y particulares (224)",
     "Principios: publicidad · objetividad · libre concurrencia · igualdad (225)"
    ],
-   "ic": "🎁"
+   "ic": "🎁",
+   "articulos": [
+    [
+     "l7-1999",
+     "224",
+     "Subvenciones: auxilios económicos a actividades de interés público",
+     "Las entidades locales pueden otorgar **auxilios económicos a entidades públicas o privadas y a particulares** que realicen **actividades de interés público** que **complementen o suplan** las de la entidad local.",
+     "¿A quién pueden otorgar las entidades locales subvenciones según el art. 224?"
+    ],
+    [
+     "l7-1999",
+     "225",
+     "Principios generales de la actividad de fomento",
+     "La actividad de **fomento** se realiza conforme a los principios de **publicidad, objetividad, libre concurrencia e igualdad**, respeto de la **libre competencia** y **legalidad presupuestaria**. Se tienen en cuenta los **planes sectoriales de coordinación** estatales o autonómicos. Las entidades **comprueban la aplicación efectiva** de las ayudas a su finalidad.",
+     "¿Qué principios rigen la actividad de fomento local?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "184",
+     "Forma de otorgamiento de las subvenciones: concurso o directa",
+     "Las subvenciones pueden otorgarse **mediante concurso público o directamente**. **Regla general: concurso público**, previa **convocatoria**, con una **Comisión** que propone el otorgamiento, ajustándose a las **bases reguladoras** y a los principios del art. 178. **Directamente**, entre otros supuestos: **previstas singularmente en el presupuesto**, **impuestas por norma con rango legal**, etc. (resto en el texto oficial).",
+     "¿Cuál es la forma general de otorgar subvenciones locales según el Reglamento aragonés?",
+     {
+      "add": "z"
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -482,6 +671,822 @@
    [
     "servicios obligatorios"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 84.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las Entidades locales podrán intervenir la actividad de los ciudadanos a través de los siguientes medios:",
+   [
+    "Ordenanzas y bandos; sometimiento a previa licencia; comunicación previa o declaración responsable; control posterior al inicio de la actividad; órdenes individuales",
+    "Solo ordenanzas y sometimiento a previa licencia, con exclusión de las órdenes individuales y del control posterior",
+    "Ordenanzas, reglamentos orgánicos, decretos de emergencia y órdenes generales dictadas por el Pleno"
+   ],
+   0,
+   "Art. 84.1 a) a e).",
+   "lbrl 84.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de:",
+   [
+    "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "Jerarquía, eficacia y coordinación con las demás Administraciones públicas con competencia en la actividad",
+    "Legalidad, publicidad y concurrencia entre los operadores económicos que ejerzan la actividad"
+   ],
+   0,
+   "Art. 84.2 LBRL. La ley aragonesa (art. 193.2) añade congruencia con los motivos y fines y respeto a la libertad individual.",
+   "lbrl 84.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.3 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las licencias o autorizaciones otorgadas por otras Administraciones Públicas:",
+   [
+    "No eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales",
+    "Eximen de obtener la correspondiente licencia municipal cuando se hayan concedido por una Administración superior",
+    "Sustituyen a la licencia local si fueron otorgadas con anterioridad a la solicitud de ésta"
+   ],
+   0,
+   "Art. 84.3.",
+   "lbrl 84.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, con carácter general, el ejercicio de actividades:",
+   [
+    "No se someterá a la obtención de licencia u otro medio de control preventivo",
+    "Se someterá siempre a licencia previa u otro medio de control preventivo, salvo declaración responsable",
+    "Se someterá a licencia cuando así lo decida el Alcalde para cada actividad concreta"
+   ],
+   0,
+   "Art. 84 bis.1. Podrá exigirse licencia por razones de orden público, seguridad pública, salud pública o protección del medio ambiente que no puedan salvaguardarse con declaración responsable o comunicación; o cuando el número de operadores sea limitado.",
+   "lbrl 84 bis",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos:",
+   [
+    "Cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente y no puedan salvaguardarse mediante declaración responsable o comunicación",
+    "Siempre que lo prevea una ordenanza municipal, aunque no concurran razones de orden público ni de salud",
+    "Cuando el solicitante sea una persona jurídica y la actividad se desarrolle en un local de más de 300 metros"
+   ],
+   0,
+   "Art. 84 bis.1 a).",
+   "lbrl 84 bis",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 ter de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, cuando el ejercicio de actividades no precise autorización habilitante y previa, las Entidades locales deberán establecer y planificar:",
+   [
+    "Los procedimientos de comunicación necesarios, así como los de verificación posterior del cumplimiento de los requisitos",
+    "Un régimen de licencia posterior, que habilite el ejercicio de la actividad una vez comprobados los requisitos",
+    "Procedimientos de autorización tácita, que permitan iniciar la actividad transcurrido un mes sin respuesta"
+   ],
+   0,
+   "Art. 84 ter.",
+   "lbrl 84 ter",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 193.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las Entidades locales aragonesas podrán intervenir la actividad de los ciudadanos a través de, entre otros medios:",
+   [
+    "Ordenanzas y Decretos normativos de emergencia",
+    "Ordenanzas y bandos, en los mismos términos que la legislación básica de régimen local",
+    "Solo ordenanzas, excluidos los bandos y los decretos normativos de emergencia"
+   ],
+   0,
+   "Art. 193.1 a) (la LBRL dice «ordenanzas y bandos»).",
+   "l7-1999 193.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 194.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la competencia para otorgar autorizaciones y licencias corresponde:",
+   [
+    "Al Alcalde, a no ser que la legislación sectorial la atribuya a otro órgano",
+    "Al Pleno, a no ser que la legislación sectorial la atribuya a otro órgano local",
+    "A la Junta de Gobierno Local en todo caso, con independencia de lo que disponga la legislación sectorial"
+   ],
+   0,
+   "Art. 194.3, regla 1.ª.",
+   "l7-1999 194.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 194.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, cuando el ejercicio de una actividad requiera una licencia en cuyo otorgamiento hayan de intervenir diversas unidades o servicios municipales:",
+   [
+    "Se les dará tramitación conjunta y simultánea en un único procedimiento que concluirá en una sola resolución",
+    "Se tramitarán sucesivamente por cada unidad o servicio, concluyendo con la resolución del último",
+    "Se dictará una resolución por cada servicio, sin perjuicio de la coordinación entre las distintas unidades"
+   ],
+   0,
+   "Art. 194.3, regla 2.ª.",
+   "l7-1999 194.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 194.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, si la actividad requiere autorización o licencia municipal y de la Administración de la Comunidad Autónoma, deberá establecerse:",
+   [
+    "Un procedimiento de gestión coordinada que comportará una sola autorización de una de las dos administraciones",
+    "Dos autorizaciones independientes, una municipal y otra autonómica, sin coordinación entre ambas",
+    "La autorización solo de la Comunidad Autónoma, debiendo informar el municipio una vez concedida"
+   ],
+   0,
+   "Art. 194.3, regla 3.ª. La que no adopte la autorización final informará previamente.",
+   "l7-1999 194.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 194.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, los regímenes de autorización deberán basarse en criterios que delimiten el ejercicio de la facultad de apreciación de las autoridades competentes con el fin de que:",
+   [
+    "Dicha facultad no se ejerza de forma arbitraria",
+    "Se resuelva siempre favorablemente a los solicitantes que cumplan los requisitos mínimos",
+    "Se otorguen por silencio positivo cuando transcurra el plazo máximo para resolver"
+   ],
+   0,
+   "Art. 194.2.",
+   "l7-1999 194.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 195 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las licencias, autorizaciones y demás actos de control producirán efectos entre la entidad local y el solicitante y se entenderán otorgadas:",
+   [
+    "Salvo el derecho de propiedad y sin perjuicio de tercero",
+    "Con efecto frente a terceros, quedando extinguido el derecho de propiedad sobre el inmueble afectado",
+    "Con carácter de título de propiedad, que acredita la titularidad del suelo ante terceros"
+   ],
+   0,
+   "Art. 195.",
+   "l7-1999 195",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 196.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las autorizaciones o licencias quedarán resueltas y sin efecto cuando:",
+   [
+    "Su titular incumpla las condiciones impuestas por causas que le sean imputables",
+    "Cambie la composición de la Corporación o el titular del órgano que las concedió",
+    "Transcurran cinco años desde su otorgamiento sin que se haya iniciado la actividad"
+   ],
+   0,
+   "Art. 196.1.",
+   "l7-1999 196.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 196.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, no procederá indemnización cuando la anulación de la licencia se deba a:",
+   [
+    "Dolo, culpa o negligencia grave imputable al interesado",
+    "Un cambio de criterio de la Corporación en la apreciación de las condiciones para su otorgamiento",
+    "Un cambio sobrevenido de circunstancias que hubiera justificado su denegación en un principio"
+   ],
+   0,
+   "Art. 196.2.",
+   "l7-1999 196.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 196.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, procederá la revocación de las licencias:",
+   [
+    "Por cambio o desaparición de las circunstancias que determinaron su otorgamiento, o por sobrevenir otras nuevas que hubieran justificado su denegación; en el procedimiento se dará audiencia a los interesados",
+    "Solo por incumplimiento de las condiciones impuestas por causas imputables a su titular",
+    "Solo por anulación judicial de la licencia mediante sentencia firme del orden contencioso-administrativo"
+   ],
+   0,
+   "Art. 196.3.",
+   "l7-1999 196.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 197.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las ordenanzas locales podrán complementar y adaptar el sistema de infracciones y sanciones de las leyes sectoriales, introduciendo especificaciones o graduaciones, sin que en ningún caso:",
+   [
+    "Supongan nuevas infracciones o sanciones, ni alteren su naturaleza o límites",
+    "Se modifique la cuantía de las sanciones previstas por las leyes sectoriales en cada materia",
+    "Se aplique a materias de competencia exclusiva de las entidades locales, sin previsión legal"
+   ],
+   0,
+   "Art. 197.1.",
+   "l7-1999 197.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 197.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las ordenanzas locales, en materias de competencia exclusiva local y en ausencia de previsión legal específica, podrán:",
+   [
+    "Tipificar como infracción el incumplimiento de los mandatos y prohibiciones en ellas establecidos, con multas dentro de los límites señalados",
+    "Establecer penas privativas de libertad para el incumplimiento de los mandatos de las ordenanzas",
+    "Crear sanciones de cualquier cuantía, sin sujeción a los límites fijados por la ley"
+   ],
+   0,
+   "Art. 197.2.",
+   "l7-1999 197.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 198.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la realización por los particulares de actividades o la prestación de servicios de interés público, cuya tutela esté legalmente atribuida a las entidades locales:",
+   [
+    "Estará también sujeta a la intervención administrativa local",
+    "Queda excluida de la intervención administrativa local, correspondiendo su control a la Comunidad Autónoma",
+    "Solo se sujeta a la intervención local cuando exista denuncia de algún vecino o interesado"
+   ],
+   0,
+   "Art. 198.1.",
+   "l7-1999 198.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 198.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la potestad de intervención en actividades de interés público podrá comprender:",
+   [
+    "La regulación de las bases generales de prestación del servicio, la autorización de su ejercicio, la aprobación de tarifas y el régimen de infracciones y sanciones",
+    "Solo la aprobación de las tarifas, quedando fuera la autorización del ejercicio y el régimen sancionador",
+    "Solo la autorización de su ejercicio, sin que alcance a la regulación de las bases ni a las tarifas"
+   ],
+   0,
+   "Art. 198.2.",
+   "l7-1999 198.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, son servicios públicos locales:",
+   [
+    "Los que prestan las entidades locales en el ámbito de sus competencias",
+    "Los que presta cualquier Administración en el territorio municipal",
+    "Los declarados esenciales por Ley"
+   ],
+   0,
+   "Art. 85.1.",
+   "lbrl 85.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los servicios públicos de competencia local habrán de gestionarse:",
+   [
+    "De la forma más sostenible y eficiente de entre las enumeradas en el artículo",
+    "Siempre mediante gestión directa por la propia Entidad Local, sin acudir a otras formas de gestión",
+    "Siempre mediante concesión a un empresario particular seleccionado en pública competencia"
+   ],
+   0,
+   "Art. 85.2.",
+   "lbrl 85.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la gestión directa de los servicios públicos locales puede ser:",
+   [
+    "Por la propia Entidad Local, organismo autónomo local, entidad pública empresarial local o sociedad mercantil local con capital social de titularidad pública",
+    "Concesión, gestión interesada, concierto y arrendamiento, como modalidades de gestión directa",
+    "Solo por la propia Entidad Local, excluidos los organismos autónomos y las sociedades mercantiles"
+   ],
+   0,
+   "Art. 85.2 A).",
+   "lbrl 85.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, solo podrá hacerse uso de la entidad pública empresarial local o de la sociedad mercantil local cuando:",
+   [
+    "Quede acreditado mediante memoria justificativa que resultan más sostenibles y eficientes que la gestión por la propia Entidad o el organismo autónomo",
+    "El Alcalde lo decida motivadamente, sin necesidad de memoria justificativa ni informe del Interventor",
+    "Lo autorice expresamente la Comunidad Autónoma, previa memoria justificativa de la entidad local"
+   ],
+   0,
+   "Art. 85.2 A) segundo párrafo.",
+   "lbrl 85.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la creación, modificación, refundición y supresión de organismos autónomos y entidades públicas empresariales locales corresponderá:",
+   [
+    "Al Pleno de la entidad local, quien aprobará sus estatutos",
+    "Al Alcalde, quien aprobará sus estatutos mediante decreto, dando cuenta posteriormente al Pleno",
+    "A la Junta de Gobierno Local, que aprobará sus estatutos y los adscribirá a una Concejalía"
+   ],
+   0,
+   "Art. 85 bis.1 a).",
+   "lbrl 85 bis",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 ter de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las sociedades mercantiles locales se regirán íntegramente, cualquiera que sea su forma jurídica, por:",
+   [
+    "El ordenamiento jurídico privado, salvo las materias en que les sea de aplicación la normativa presupuestaria, contable, de control financiero, de control de eficacia y contratación",
+    "El derecho administrativo en todo caso, con aplicación del régimen presupuestario y contable público",
+    "El derecho público en todos los aspectos, incluida la normativa de contratación y de control financiero"
+   ],
+   0,
+   "Art. 85 ter.1.",
+   "lbrl 85 ter",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 ter de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la sociedad mercantil local deberá adoptar:",
+   [
+    "Una de las formas previstas en el texto refundido de la Ley de Sociedades de Capital, constando en la escritura el capital aportado por las Administraciones o entes públicos",
+    "Siempre la forma de sociedad anónima, cualquiera que sea el capital aportado por las Administraciones",
+    "Una forma específica de derecho público, distinta de las previstas en la Ley de Sociedades de Capital"
+   ],
+   0,
+   "Art. 85 ter.2.",
+   "lbrl 85 ter",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, corresponde al Pleno de la respectiva Corporación local:",
+   [
+    "La aprobación del expediente de iniciativa pública para el desarrollo de actividades económicas, que determinará la forma concreta de gestión del servicio",
+    "La ejecución material del servicio, que corresponde a la sociedad o entidad que se constituya al efecto",
+    "La designación de los gestores del servicio, que podrán ser nombrados libremente por el Alcalde"
+   ],
+   0,
+   "Art. 86.1.",
+   "lbrl 86.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, para ejercer la iniciativa pública para el desarrollo de actividades económicas, las Entidades Locales:",
+   [
+    "Deben garantizar el cumplimiento del objetivo de estabilidad presupuestaria y sostenibilidad financiera, con un análisis del mercado sobre oferta, demanda, rentabilidad y efectos sobre la concurrencia empresarial",
+    "No necesitan justificar nada, bastando el acuerdo del Pleno de la respectiva Corporación local",
+    "Solo necesitan el informe del Secretario sobre la legalidad del expediente de iniciativa económica"
+   ],
+   0,
+   "Art. 86.1.",
+   "lbrl 86.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, se declara la reserva en favor de las Entidades Locales, entre otras, de la actividad de:",
+   [
+    "Abastecimiento domiciliario y depuración de aguas, recogida, tratamiento y aprovechamiento de residuos, y transporte público de viajeros",
+    "Mercados y lonjas centrales, así como el abastecimiento de productos de primera necesidad",
+    "Cementerios y servicios funerarios, junto con la recogida y tratamiento de residuos"
+   ],
+   0,
+   "Art. 86.2. El Estado y las CCAA podrán establecer por Ley idéntica reserva para otras actividades.",
+   "lbrl 86.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la efectiva ejecución de las actividades reservadas en régimen de monopolio requiere, además del acuerdo de aprobación del Pleno:",
+   [
+    "La aprobación por el órgano competente de la Comunidad Autónoma",
+    "La aprobación del Consejo de Ministros, mediante real decreto, en todo caso",
+    "La aprobación de la Diputación Provincial correspondiente, previo informe de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 86.2 segundo párrafo.",
+   "lbrl 86.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 199.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, son servicios públicos locales:",
+   [
+    "Cuantos se prestan para satisfacer los intereses y necesidades de la comunidad vecinal en los asuntos de competencia de las entidades locales",
+    "Solo los servicios obligatorios para los municipios, quedando excluidos los de carácter potestativo",
+    "Los prestados por la Comunidad Autónoma en el territorio de las entidades locales aragonesas"
+   ],
+   0,
+   "Art. 199.1.",
+   "l7-1999 199.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 199.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales tendrán plena libertad para constituir, regular, modificar y suprimir los servicios de su competencia de acuerdo con las leyes, garantizando en todo caso:",
+   [
+    "El funcionamiento de los servicios obligatorios municipales, salvo los supuestos de dispensa",
+    "Que todos los servicios locales sean gratuitos para los vecinos, mediante financiación presupuestaria",
+    "Que los servicios se presten en régimen de concesión a empresas privadas de la localidad"
+   ],
+   0,
+   "Art. 199.2.",
+   "l7-1999 199.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 221 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las sociedades mercantiles locales para explotar actividades económicas se regirán:",
+   [
+    "Por el derecho privado, con sujeción plena a las reglas de libre concurrencia con la iniciativa privada, y estatutos que garanticen la máxima autonomía",
+    "Por el derecho administrativo en todo caso, con sujeción a las reglas de la contratación pública",
+    "Por el derecho público con prerrogativas administrativas, al ser sociedades de capital local"
+   ],
+   0,
+   "Art. 221.2.",
+   "l7-1999 221",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.1 de la Ley 40/2015, de 1 de octubre, los consorcios son:",
+   [
+    "Entidades de derecho público, con personalidad jurídica propia y diferenciada, creadas por varias Administraciones Públicas o entidades del sector público institucional, entre sí o con participación de entidades privadas, para actividades de interés común",
+    "Sociedades mercantiles de capital público, sin personalidad jurídica distinta de la Administración que las crea",
+    "Entidades sin personalidad jurídica propia, creadas por varias Administraciones para actividades comunes"
+   ],
+   0,
+   "Art. 118.1 Ley 40/2015.",
+   "lrjsp 118.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.4 de la Ley 40/2015, de 1 de octubre, en la denominación de los consorcios deberá figurar necesariamente:",
+   [
+    "La indicación «consorcio» o su abreviatura «C»",
+    "La indicación «fundación» o su abreviatura, para diferenciarlos de otras entidades públicas",
+    "La indicación «empresa pública» o su abreviatura «EP», según su régimen jurídico"
+   ],
+   0,
+   "Art. 118.4 Ley 40/2015.",
+   "lrjsp 118.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.2 de la Ley 40/2015, de 1 de octubre, los consorcios podrán realizar:",
+   [
+    "Actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes",
+    "Solo actividades de fomento, quedando excluidas las prestacionales y la gestión de servicios públicos",
+    "Solo la gestión común de servicios públicos, sin poder desarrollar actividades de fomento"
+   ],
+   0,
+   "Art. 118.2.",
+   "lrjsp 118.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 220.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, los municipios podrán solicitar la dispensa del establecimiento o prestación de los servicios obligatorios cuando:",
+   [
+    "Resulte imposible o muy difícil su cumplimiento",
+    "Lo decida el Alcalde, mediante decreto y con carácter discrecional para cualquier servicio",
+    "Se prefiera la gestión indirecta, por considerarse más sostenible y eficiente que la directa"
+   ],
+   0,
+   "Art. 220.1. También cuando sea innecesaria la prestación (220.2).",
+   "rbaso 220.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 220.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la solicitud de dispensa de servicios obligatorios se dirigirá:",
+   [
+    "Al Departamento de Presidencia y Relaciones Institucionales, previa instrucción del procedimiento",
+    "Al Ministerio de Política Territorial, previa instrucción del procedimiento en la forma establecida",
+    "A la Diputación Provincial correspondiente, previa instrucción del procedimiento en la forma establecida"
+   ],
+   0,
+   "Art. 220.3.",
+   "rbaso 220.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 231.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la gestión directa de los servicios públicos locales adoptará alguna de las siguientes formas:",
+   [
+    "Gestión por la propia Entidad local (órganos ordinarios o especial de administración), organismo autónomo local o sociedad mercantil cuyo capital pertenezca íntegramente a la Entidad",
+    "Concesión, arrendamiento y concierto, junto con la gestión por la propia Entidad local",
+    "Gestión interesada y sociedad mixta, con capital social participado por la Entidad local"
+   ],
+   0,
+   "Art. 231.2.",
+   "rbaso 231.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 231.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la gestión indirecta de los servicios públicos locales adoptará alguna de las siguientes formas:",
+   [
+    "Concesión, gestión interesada, arrendamiento, concierto y sociedad mercantil o cooperativa cuyo capital pertenezca parcialmente a la Entidad",
+    "Organismo autónomo local y sociedad mercantil cuyo capital social pertenezca íntegramente a la Entidad",
+    "Gestión por la propia Entidad local, a través de sus órganos ordinarios o mediante órgano especial"
+   ],
+   0,
+   "Art. 231.3.",
+   "rbaso 231.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 231.4 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la facultad de establecer la forma de gestión de los servicios públicos corresponderá:",
+   [
+    "A las Entidades locales, sin perjuicio de lo que disponga la legislación sectorial",
+    "A la Comunidad Autónoma, que fijará la forma de gestión de cada servicio de competencia local",
+    "Al Gobierno de Aragón, mediante decreto, previo informe del Consejo local de Aragón"
+   ],
+   0,
+   "Art. 231.4.",
+   "rbaso 231.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 224 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales podrán otorgar auxilios económicos a entidades públicas o privadas y a los particulares que realicen:",
+   [
+    "Actividades de interés público que complementen o suplan las de la entidad local",
+    "Cualquier actividad privada que los solicitantes consideren de utilidad para la población local",
+    "Solo actividades que sean realizadas por las propias entidades locales con sus medios propios"
+   ],
+   0,
+   "Art. 224.",
+   "l7-1999 224",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 225.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la actividad de fomento se realizará de acuerdo con los principios de:",
+   [
+    "Publicidad, objetividad, libre concurrencia e igualdad, respeto de las reglas de libre competencia y adecuación a la legalidad presupuestaria",
+    "Eficacia, jerarquía y coordinación, con sujeción plena a la legalidad presupuestaria",
+    "Legalidad, jerarquía y publicidad, con adecuación a las reglas de la contratación pública"
+   ],
+   0,
+   "Art. 225.1.",
+   "l7-1999 225.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 225.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales comprobarán:",
+   [
+    "La aplicación efectiva de las ayudas recibidas a la finalidad prevista",
+    "Solo la solicitud de la ayuda, sin comprobar su destino una vez concedida",
+    "La identidad del beneficiario únicamente, sin verificar la aplicación de los fondos"
+   ],
+   0,
+   "Art. 225.3.",
+   "l7-1999 225.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las subvenciones locales podrán otorgarse:",
+   [
+    "Mediante concurso público o directamente; con carácter general, mediante concurso público previa convocatoria",
+    "Solo directamente, sin convocatoria previa ni concurso público, por decisión del órgano competente",
+    "Solo por concurso público, sin que existan supuestos de concesión directa de subvenciones"
+   ],
+   0,
+   "Art. 184.1 y 2.",
+   "rbaso 184.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las subvenciones podrán otorgarse directamente, entre otros supuestos:",
+   [
+    "Cuando estuvieran previstas singularmente en el presupuesto de la Entidad",
+    "Siempre que el beneficiario lo solicite y reúna los requisitos para obtener la subvención",
+    "Cuando lo decida el Secretario de la Corporación mediante informe motivado"
+   ],
+   0,
+   "Art. 184.3 a).",
+   "rbaso 184.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, podrán otorgarse directamente las subvenciones:",
+   [
+    "Destinadas a atender situaciones perentorias de necesidad social de carácter individual o familiar",
+    "Destinadas a empresas privadas que generen empleo en el término municipal de la entidad",
+    "Que no figuren previstas singularmente en el presupuesto de la entidad local"
+   ],
+   0,
+   "Art. 184.3 d).",
+   "rbaso 184.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá:",
+   [
+    "A una Comisión cuya composición deberá establecer las bases reguladoras de la convocatoria",
+    "Al Alcalde sin más trámite, tras la valoración de las solicitudes presentadas en plazo",
+    "Al Pleno directamente, sin necesidad de constituir una Comisión de valoración"
+   ],
+   0,
+   "Art. 184.2.",
+   "rbaso 184.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

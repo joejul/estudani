@@ -40,11 +40,24 @@ async function init() {
       const x = Array.isArray(g) ? { id: g[0], termino: g[1], def: g[2], ref: g[3] || '', ...(g[4] ? { trampa: g[4] } : {}) } : g;
       if (!D.glos.some((y) => y.id === x.id)) D.glos.push(x);
     }));
+    try { D.leyes = await getJSON('data/leyes.json'); D.zgz = await getJSON('data/zaragoza.json'); } catch { D.leyes = {}; D.zgz = {}; }
     D.glosMap = Object.fromEntries(D.glos.map((g) => [g.id, g]));
     setGlosario(D.glos);
-    D.preguntas = Object.values(D.tema).flatMap((t) =>
-      t.preguntas.map((q) => ({ ...q, tema: t.n }))
-    );
+    // cada pregunta nueva («lx artículo») hereda el epígrafe de la ficha que la explica y muestra su referencia legible
+    const epiPorArt = {};
+    Object.values(D.tema).forEach((t) => t.epigrafes.forEach((e) => (e.articulos || []).forEach((a) => { epiPorArt[`${t.n}:${a.lx}:${a.n}`] = e.id; })));
+    Object.values(D.tema).forEach((t) => {
+      t.preguntas = t.preguntas.filter((q) => !q.off).map((q) => {
+        const r = { ...q, tema: t.n };
+        if (q.lx) {
+          r.epi = q.epi || epiPorArt[`${t.n}:${q.lx}:${q.art}`];
+          const ley = (D.leyes[q.lx] && D.leyes[q.lx].corto) || q.lx;
+          r.ref = `${etiquetaArt(q.art).replace(/^Art\. .*/, `Art. ${q.artTxt}`)} · ${ley}`;
+        }
+        return r;
+      });
+    });
+    D.preguntas = Object.values(D.tema).flatMap((t) => t.preguntas);
     D.qById = Object.fromEntries(D.preguntas.map((q) => [q.id, q]));
     D.hubs = Object.values(D.tema).flatMap((t) => ((t.visual && t.visual.hubs) || []).map((h) => ({ ...h, tema: t.n })));
     D.hubById = Object.fromEntries(D.hubs.map((h) => [h.id, h]));
@@ -64,7 +77,7 @@ async function cargarExamen() {
     const ok = (q, n) => q.c !== null && q.c !== undefined && q.o.length === n && q.o.every((o) => o.length > 1);
     const mk = (q, id, ref, extra = {}) => ({ id, tema: 0, tipo: 'real', dif: 3, q: q.q, o: q.o, c: q.c, e: q.e || '', ref, claves: [], ...extra });
     D.examen = {
-      p1: e1.preguntas.filter((q) => !String(q.n).startsWith('R') && ok(q, 3)).map((q) => mk(q, `x25-${q.n}`, `Examen 2025 · pregunta ${q.n}`)),
+      p1: e1.preguntas.filter((q) => !String(q.n).startsWith('R') && ok(q, 3)).map((q) => mk(q, `x25-${q.n}`, `Prueba oficial · pregunta ${q.n}`)),
       descartadas: e1.preguntas.filter((q) => !String(q.n).startsWith('R') && !ok(q, 3)).length,
       sup: e2.supuestos.map((sp, i) => ({
         titulo: sp.titulo,
@@ -342,20 +355,32 @@ function cuerpoLeccion(n, t) {
     <p class="tiny muted">Cada epígrafe: explicación desde cero → conceptos clave → ejemplo → trampa → tarjetas de memoria → test.</p>`;
 }
 
-// «Artículo por artículo»: ficha plegable con contenido, intuición y pregunta mental (+ marcas ⭐ / 🟠)
+// «Artículo por artículo»: ficha plegable con la etiqueta corta, el texto oficial literal, la explicación sencilla
+// y una pregunta mental (+ marcas ⭐ preguntado en Zaragoza / 🟠 añadido para cobertura 2026)
+const etiquetaArt = (n) => {
+  const m = /^D([ATFD])(\d+)$/.exec(String(n));
+  return m ? `Disp. ${{ A: 'adicional', T: 'transitoria', F: 'final', D: 'derogatoria' }[m[1]]} ${m[2]}.ª` : `Art. ${n}`;
+};
 function articulosHtml(e) {
   if (!e.articulos || !e.articulos.length) return '';
-  const parrafos = (x) => String(x).split('\n').map((l) => `<p>${fmt(l)}</p>`).join('');
+  const lineas = (x) => String(x).split('\n').map((l) => `<p>${fmt(l)}</p>`).join('');
+  const ficha = (a) => {
+    const ley = (D.leyes || {})[a.lx] || {};
+    const oficial = ley.arts && ley.arts[a.n];
+    const zs = (D.zgz || {})[`${a.lx}:${a.n}`] || [];
+    return `<details class="art ${zs.length ? 'zgz' : ''}"><summary><span class="art-n">${esc(etiquetaArt(a.n))}</span><b>${esc(a.ref)}</b>${zs.length ? '<span class="art-b" title="Preguntado en Zaragoza">⭐</span>' : ''}${a.add === 1 ? '<span class="art-b" title="Añadido para cobertura 2026">🟠</span>' : ''}</summary>
+      <p class="art-ley">${esc(ley.corto || a.lx)}</p>
+      ${oficial ? `<div class="art-of"><h4>📜 Texto oficial</h4>${oficial.split('\n').map((l, i) => (i === 0 ? `<p><b>${esc(l)}</b></p>` : `<p>${esc(l)}</p>`)).join('')}<p class="tiny muted">Texto consolidado vigente · ${esc(ley.nombre)}</p></div>` : '<p class="tiny muted">El texto oficial de este artículo no está incluido aún.</p>'}
+      ${a.txt ? `<div class="art-t"><h4>✅ Lo esencial</h4>${lineas(a.txt)}</div>` : ''}
+      <p class="art-i"><b>🧠 En sencillo:</b> ${fmt(a.int)}</p>
+      <p class="art-q"><b>💭 Pregunta mental:</b> ${fmt(a.preg)}</p>
+      ${zs.map((z) => `<p class="art-z">⭐ PREGUNTADO EN ZARAGOZA — ${esc(z)} · ${esc(ley.corto || '')}, ${esc(etiquetaArt(a.n).toLowerCase())}</p>`).join('')}
+      ${a.add === 1 ? '<p class="art-add">🟠 AÑADIDO PARA COBERTURA 2026</p>' : ''}${a.add === 'z' ? '<p class="art-add">⭐ AÑADIDO POR HABER SIDO PREGUNTADO EN ZARAGOZA</p>' : ''}
+    </details>`;
+  };
   return `<section class="arts"><h3>📚 Artículo por artículo</h3>
     <p class="tiny muted">Toca un artículo para abrirlo. ⭐ = ya se preguntó en un examen de Zaragoza.</p>
-    ${e.articulos.map((a) => `<details class="art ${a.z ? 'zgz' : ''}"><summary><span class="art-n">Art. ${esc(a.n)}</span><b>${esc(a.ref)}</b>${a.z ? '<span class="art-b" title="Preguntado en Zaragoza">⭐</span>' : ''}${a.add ? '<span class="art-b" title="Añadido para cobertura 2026">🟠</span>' : ''}</summary>
-      <p class="art-ley">${esc(a.ley)}</p>
-      <div class="art-t">${parrafos(a.txt)}</div>
-      <p class="art-i"><b>🧠 Intuición:</b> ${fmt(a.int)}</p>
-      <p class="art-q"><b>💭 Pregunta mental:</b> ${fmt(a.preg)}</p>
-      ${(a.z || []).map((z) => `<p class="art-z">⭐ PREGUNTADO EN ZARAGOZA — ${esc(z)}</p>`).join('')}
-      ${a.add ? '<p class="art-add">🟠 AÑADIDO PARA COBERTURA 2026</p>' : ''}
-    </details>`).join('')}</section>`;
+    ${e.articulos.map(ficha).join('')}</section>`;
 }
 
 function vistaEpigrafe(n, id) {
@@ -547,8 +572,8 @@ function vistaRepaso() {
       <button class="btn" data-act="empezar" data-modo="rapido">Empezar (10)</button></section>
     <section class="card"><h3>Simulacro tipo examen</h3><p class="muted">Sin corrección hasta el final, con cronómetro y <strong>penalización por fallo</strong>. Practica cuándo dejar en blanco.</p>
       <button class="btn" data-act="empezar" data-modo="simulacro">Simulacro (20)</button></section>
-    ${D.examen ? `<section class="card examen"><h3>🎯 Examen real 2025</h3>
-      <p class="muted">Preguntas oficiales del Ayuntamiento (1-jun-2025) con su plantilla de respuestas. Sin ayudas, con cronómetro y penalización.</p>
+    ${D.examen ? `<section class="card examen"><h3>🎯 Prueba oficial real</h3>
+      <p class="muted">Preguntas oficiales del Ayuntamiento con su plantilla de respuestas. Sin ayudas, con cronómetro y penalización.</p>
       <button class="btn primary" data-act="empezar" data-modo="examen">Parte 1 completa (${D.examen.p1.length} preguntas · 3 opciones)</button>
       <button class="btn" data-act="empezar" data-modo="examen20">Parte 1: 20 al azar</button>
       ${D.examen.sup.map((sp, i) => `<button class="btn" data-act="empezar" data-modo="supuesto" data-n="${i}">${esc(sp.titulo)} (${sp.preguntas.length})</button>`).join('')}
@@ -613,7 +638,7 @@ function empezar(modo, p = {}) {
   }
   else if (modo === 'examen' || modo === 'examen20') {
     pool = modo === 'examen' ? D.examen.p1.slice() : barajar(D.examen.p1).slice(0, 20);
-    titulo = modo === 'examen' ? 'Examen 2025' : 'Examen 2025 (20)'; inmediato = false;
+    titulo = modo === 'examen' ? 'Prueba oficial' : 'Prueba oficial (20)'; inmediato = false;
   }
   else if (modo === 'supuesto') { pool = D.examen.sup[+p.n].preguntas.slice(); titulo = `Supuesto ${+p.n + 1}`; inmediato = false; ordenar = true; }
   else if (modo === 'rapido') { pool = barajar(D.preguntas).slice(0, 10); titulo = 'Test rápido'; }
@@ -682,6 +707,7 @@ function vistaQuiz() {
       ${q.trampa ? `<p class="tiny"><b>Tipo de trampa:</b> ${esc(q.trampa)}</p>` : ''}
       ${q.ojo ? `<p class="tiny tr-t"><b>⚠ Ojo:</b> ${esc(q.ojo)}</p>` : ''}
       <p class="tiny muted">${esc(q.ref)}</p>
+      ${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}
       ${enlaceIdea(q)}
       <button class="btn primary" data-act="sig">${S.i + 1 < total ? 'Siguiente' : 'Ver resultado'}</button>
     </section>`;
@@ -771,7 +797,7 @@ function vistaResultados() {
         ${q.pistas ? `<ul class="pistas">${q.pistas.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
         <p class="tiny"><b>${etiqueta}</b></p>
         <p class="tiny ok-t"><b>Correcta:</b> ${esc(q.o[q.c])}</p>
-        ${q.e ? `<p>${esc(q.e)}</p>` : ''}${q.trampa ? `<p class="tiny"><b>Trampa:</b> ${esc(q.trampa)}</p>` : ''}<p class="tiny muted">${esc(q.ref)}</p></details>`;
+        ${q.e ? `<p>${esc(q.e)}</p>` : ''}${q.trampa ? `<p class="tiny"><b>Trampa:</b> ${esc(q.trampa)}</p>` : ''}<p class="tiny muted">${esc(q.ref)}</p>${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}</details>`;
     })
     .join('');
   const html = `
@@ -794,7 +820,7 @@ function vistaResultados() {
 function vistaGlosario(abrir) {
   const lista = [...D.glos].sort((a, b) => a.termino.localeCompare(b.termino, 'es'));
   const item = (g) => `<details class="gl" id="g-${g.id}" ${abrir === g.id ? 'open' : ''} data-t="${esc((g.termino + ' ' + g.def).toLowerCase())}">
-      <summary>${esc(g.termino)}</summary>
+      <summary>${esc(g.termino)}${g.tipo ? ` <span class="gl-tipo">${esc(g.tipo)}</span>` : ''}</summary>
       <p>${esc(g.def)}</p>
       ${g.ejemplo ? `<p class="tiny"><b>Ejemplo:</b> ${esc(g.ejemplo)}</p>` : ''}
       ${g.trampa ? `<p class="tiny tr-t"><b>⚠ Trampa:</b> ${esc(g.trampa)}</p>` : ''}

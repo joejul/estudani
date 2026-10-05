@@ -49,6 +49,60 @@
    "Inventario de bienes",
    "Relación valorada de todos los bienes y derechos de una entidad local, que se actualiza cada año.",
    "Art. 175 Ley 7/1999"
+  ],
+  [
+   "bienes-uso-publico",
+   "Bienes de uso público",
+   "Bienes demaniales que usa directamente la ciudadanía: calles, plazas, parques, caminos.",
+   "Art. 3 RBASO"
+  ],
+  [
+   "servicio-publico-bien",
+   "Bienes de servicio público",
+   "Bienes destinados directamente a un servicio público local, como el edificio del Ayuntamiento o un colegio público.",
+   "Art. 3 RBASO"
+  ],
+  [
+   "inalienable",
+   "Inalienable, imprescriptible e inembargable",
+   "Características de los bienes de dominio público: no se pueden vender, no se ganan por el paso del tiempo y no se pueden embargar.",
+   "Art. 132 CE"
+  ],
+  [
+   "mutacion-demanial",
+   "Mutación demanial",
+   "Cambio de destino de un bien de dominio público a otro uso público sin que pierda su carácter.",
+   "RBASO"
+  ],
+  [
+   "adscripcion",
+   "Adscripción",
+   "Destinar un bien de una Administración a un órgano o servicio que lo va a utilizar.",
+   "Legislación patrimonial"
+  ],
+  [
+   "usucapion",
+   "Prescripción adquisitiva",
+   "Ganar la propiedad de un bien por poseerlo durante cierto tiempo. No se puede hacer con bienes demaniales.",
+   "Código Civil"
+  ],
+  [
+   "recuperacion-oficio",
+   "Recuperación de oficio",
+   "Facultad de la entidad local de recobrar por sí misma la posesión de sus bienes indebidamente ocupados.",
+   "Art. 82 LBRL"
+  ],
+  [
+   "deslinde",
+   "Deslinde",
+   "Procedimiento para determinar los límites de un bien de la entidad local.",
+   "Art. 56 RBASO"
+  ],
+  [
+   "patrimonio-municipal-suelo",
+   "Patrimonio municipal del suelo",
+   "Conjunto de bienes de la entidad local destinados a fines sociales y de vivienda protegida.",
+   "Legislación urbanística"
   ]
  ],
  "hubs": [

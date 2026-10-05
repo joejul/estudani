@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Normas generales de actuación",
-   "subtitulo": "Arts. 13 a 17",
+   "subtitulo": "Arts. 13 a 20 y 26 a 28",
    "clave": [
     "Derechos de las personas (13)",
     "Obligados a relacionarse por medios electrónicos (14.2)",
@@ -77,7 +77,86 @@
     "Lengua (15) · Registro Electrónico General (16)",
     "Presentación: registro electrónico · Correos · consulados · oficinas de asistencia · otros (16.4)"
    ],
-   "ic": "📏"
+   "ic": "📏",
+   "articulos": [
+    [
+     "lpac",
+     "13",
+     "Derechos de toda persona frente a la Administración",
+     "Lista de **derechos básicos** de quien tiene **capacidad de obrar**: comunicarse por el **Punto de Acceso General** electrónico, ser **asistido** en medios electrónicos, usar las **lenguas oficiales**, acceder a la **información pública**, ser **tratado con respeto**, **exigir responsabilidades**, usar **identificación y firma electrónica**, proteger sus **datos personales** y los que reconozcan la Constitución y las leyes. Ojo: los derechos *del interesado en un procedimiento* están en el **art. 53**, no aquí.",
+     "¿Qué derechos tiene cualquier persona (no solo el interesado) en sus relaciones con la Administración?"
+    ],
+    [
+     "lpac",
+     "14",
+     "Cuándo es obligatorio relacionarse por medios electrónicos",
+     "Las **personas físicas eligen** si se relacionan por medios electrónicos o no, y pueden **cambiar** cuando quieran. **Siempre están obligados** a lo electrónico: **personas jurídicas**, **entidades sin personalidad jurídica**, **profesionales con colegiación obligatoria** (incluye notarios y registradores), **quienes representan** a un obligado y **empleados públicos** (para trámites por su condición de empleado). Además, un **reglamento** puede obligar a otros colectivos que tengan medios acreditados.",
+     "¿Qué cinco grupos están obligados siempre a relacionarse electrónicamente con la Administración?"
+    ],
+    [
+     "lpac",
+     "15",
+     "Lengua de los procedimientos y cuándo se traduce",
+     "En la **Administración General del Estado** la lengua es el **castellano**, pero el interesado puede usar la **cooficial** y entonces el procedimiento se tramita en ella. Si **varios interesados discrepan**, se tramita en **castellano** (los documentos que pidan se expiden en la lengua que elijan). En **CCAA y Entidades Locales** manda la **legislación autonómica**. Se **traduce al castellano** lo que deba surtir efecto **fuera de la Comunidad Autónoma** y lo que pida un interesado; no hace falta traducir si surte efecto donde esa lengua es **cooficial**.",
+     "Si varios interesados no se ponen de acuerdo en la lengua, ¿en cuál se tramita el procedimiento estatal?"
+    ],
+    [
+     "lpac",
+     "16",
+     "Registro electrónico general: dónde y cómo se presentan documentos",
+     "Cada Administración tiene un **Registro Electrónico General** donde se anota **todo documento que entra** (y puede anotarse lo que sale). El ciudadano puede presentar documentos en: **registro electrónico**, **oficinas de Correos**, **representaciones diplomáticas o consulares** de España en el extranjero, **oficinas de asistencia en materia de registros** y cualquier otro que fijen las normas. Lo presentado **en papel se digitaliza** y se **devuelve el original**. Se emite **recibo** con fecha, hora y número. Los pagos se pueden hacer por **transferencia**.",
+     "¿En qué sitios puede una persona presentar un documento dirigido a la Administración?"
+    ],
+    [
+     "lpac",
+     "17",
+     "Archivo electrónico único de documentos",
+     "Cada Administración debe tener un **archivo electrónico único** con los documentos de los **procedimientos ya finalizados**. Se conservan en un formato que garantice **autenticidad, integridad y conservación** y se pueden **trasladar a otros formatos**. **Eliminar** documentos exige **autorización**. El almacenamiento cumple el **Esquema Nacional de Seguridad** y la protección de datos.",
+     "¿Qué archivo debe mantener cada Administración con los procedimientos terminados?"
+    ],
+    [
+     "lpac",
+     "18",
+     "Deber de colaborar con la Administración",
+     "Las personas **colaboran** con la Administración (informes, inspecciones, investigaciones), salvo que se vulnere el **honor, la intimidad** o se comuniquen **datos confidenciales de terceros** conocidos por servicios profesionales de **diagnóstico, asesoramiento o defensa**. Un interesado que **conozca a otros interesados que no han comparecido** tiene el **deber de dar sus datos** a la Administración. Si la inspección exige **entrar en un domicilio**, se aplica el **art. 100**.",
+     "Si conoces a otro afectado que no ha comparecido, ¿tienes que decírselo a la Administración?"
+    ],
+    [
+     "lpac",
+     "19",
+     "Comparecencia: cuándo es obligatoria y qué debe indicar la citación",
+     "Comparecer ante una oficina pública (presencial o electrónicamente) **solo es obligatorio si lo dice una norma con rango de ley**. La **citación** debe indicar **lugar, fecha, hora, medios disponibles, objeto** de la comparecencia y **efectos de no atenderla**. Si lo pides, la Administración te entrega **certificación** de que has comparecido.",
+     "¿Cuándo es obligatorio comparecer ante una oficina pública y qué debe constar en la citación?"
+    ],
+    [
+     "lpac",
+     "20",
+     "Responsabilidad de quienes tramitan los asuntos",
+     "Los **titulares de las unidades administrativas** y el **personal que despacha los asuntos** son **responsables directos de la tramitación**: deben **quitar los obstáculos** que retrasen o dificulten los derechos de los interesados. Los interesados pueden **pedir que se exija esa responsabilidad** a la Administración de la que dependa el personal.",
+     "¿Quién es responsable directo de que un expediente se tramite sin retrasos?"
+    ],
+    [
+     "lpac",
+     "26",
+     "Documentos públicos administrativos y requisitos del documento electrónico",
+     "Son **documentos públicos administrativos** los **válidamente emitidos por órganos de las Administraciones**; se emiten **por escrito, a través de medios electrónicos**, salvo que su naturaleza exija otra forma. Para ser válido, el documento electrónico debe tener: **información en soporte electrónico**, **datos de identificación**, **referencia temporal**, **metadatos mínimos** y las **firmas electrónicas** que correspondan. **No necesitan firma electrónica** los documentos de **carácter meramente informativo** ni los que **no forman parte de un expediente** (pero sí se identifica su origen).",
+     "¿Qué documentos electrónicos de la Administración no necesitan firma electrónica?"
+    ],
+    [
+     "lpac",
+     "27",
+     "Copias auténticas: validez, quién las hace y plazo",
+     "**Copia auténtica** = copia hecha por el órgano competente donde **queda garantizada la identidad del órgano y el contenido**. Tiene la **misma validez y eficacia que el original** y vale en **todas las Administraciones**. Las copias auténticas de **documentos privados** solo surten **efectos administrativos**. Se hacen por **funcionario habilitado** o por **actuación administrativa automatizada**. Los interesados pueden **pedir copias auténticas** de documentos públicos administrativos: se expiden en **quince días** desde que la solicitud entra en el registro. Las Administraciones deben expedir **copias auténticas electrónicas** de los documentos en papel que presenten los interesados para el expediente.",
+     "¿Qué valor tiene una copia auténtica y en cuánto tiempo hay que expedirla si se solicita?"
+    ],
+    [
+     "lpac",
+     "28",
+     "Documentos aportados: derecho a no repetir lo ya presentado",
+     "El interesado aporta los datos y documentos que **exija la normativa** y puede aportar otros. Tiene **derecho a no aportar documentos** que **ya estén en poder de la Administración actuante** o los haya elaborado **otra Administración**: ésta los **recaba electrónicamente**, **salvo oposición** del interesado (que **no cabe** en **potestades sancionadoras o de inspección**). Los **informes preceptivos** de otro órgano se remiten en **diez días**. **No se exigen originales** salvo excepción. Si la relevancia del documento lo exige o hay dudas sobre la copia, la Administración puede pedir **motivadamente el cotejo**, requiriendo la **exhibición del original**. Las copias aportadas solo valen **dentro de la actividad administrativa** y el interesado **responde de la veracidad** de lo que presenta.",
+     "¿Puede la Administración exigir un documento que ya obra en su poder o que emitió otra Administración?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -135,7 +214,44 @@
     "Resolver y notificar (21.1) · plazo ≤ 6 meses (21.2) · 3 meses si no hay plazo (21.3)",
     "Silencio: positivo (regla) · negativo (petición, dominio público, medio ambiente, responsabilidad patrimonial)"
    ],
-   "ic": "🤐"
+   "ic": "🤐",
+   "articulos": [
+    [
+     "lpac",
+     "21",
+     "Obligación de resolver y notificar, y plazo máximo",
+     "La Administración **debe dictar resolución expresa y notificarla en todos los procedimientos**, cualquiera que sea su forma de inicio. Si hay **prescripción, renuncia, caducidad, desistimiento** o **desaparición del objeto**, la resolución **declara esa circunstancia**. **Excepciones:** terminación por **pacto o convenio** y procedimientos de **declaración responsable o comunicación**. **Plazo:** el que fije la norma, **máximo seis meses** (salvo ley o Derecho de la UE); si no hay plazo, **tres meses**. Se cuenta: **de oficio**, desde el **acuerdo de iniciación**; **a solicitud**, desde la **entrada en el registro** del órgano competente. Hay que **informar** al interesado del plazo y del efecto del silencio (comunicación en **diez días** desde que la solicitud llega al registro). El incumplimiento genera **responsabilidad disciplinaria**.",
+     "Si la norma no fija plazo, ¿cuánto tiene la Administración para resolver y desde cuándo se cuenta si el procedimiento empezó a solicitud?"
+    ],
+    [
+     "lpac",
+     "22",
+     "Causas que suspenden el plazo máximo para resolver",
+     "**Se puede suspender** el plazo (mientras dure la causa) cuando: se **requiere al interesado** para **subsanar** o aportar documentos; hay que obtener un **pronunciamiento previo y preceptivo de la UE** o hay un **procedimiento europeo pendiente** que condiciona la resolución; se piden **informes preceptivos** a otro órgano (suspensión **máxima de tres meses**; si no llega el informe, se sigue); hay **pruebas técnicas o análisis** propuestos por los interesados; se inician **negociaciones para un pacto o convenio (art. 86)**; hace falta un **pronunciamiento judicial** previo. **Se suspende** además (apartado 2): **requerimiento a otra Administración** para anular un acto ilegal (art. 39.5), **actuaciones complementarias** (art. 87) y **recusación** de un instructor.",
+     "¿Cuál es la duración máxima de la suspensión por solicitud de informes preceptivos?"
+    ],
+    [
+     "lpac",
+     "23",
+     "Ampliar excepcionalmente el plazo máximo para resolver",
+     "**Excepcionalmente**, cuando **se hayan agotado los medios personales y materiales** (art. 21.5), el órgano competente para resolver puede **ampliar de forma motivada** el plazo máximo, **sin superar el plazo establecido para tramitar** el procedimiento. El acuerdo se **notifica** a los interesados y **no cabe recurso** contra él.",
+     "¿Cabe recurso contra el acuerdo que amplía el plazo máximo de resolución?"
+    ],
+    [
+     "lpac",
+     "24",
+     "Silencio administrativo en procedimientos iniciados a solicitud",
+     "**Regla general: silencio positivo** (se entiende **estimada** la solicitud). **Silencio negativo** (desestimatorio) cuando una **ley o norma europea o internacional** lo diga y, en todo caso, en: **derecho de petición (art. 29 CE)**, facultades sobre **dominio público o servicio público**, actividades que puedan **dañar el medio ambiente**, **responsabilidad patrimonial**, **impugnación de actos y disposiciones** y **revisión de oficio** a solicitud. Excepción: un **recurso de alzada** contra una desestimación por silencio se entiende **estimado** si no se resuelve a tiempo (salvo esas materias). **Estimación por silencio = acto que termina el procedimiento**; **desestimación por silencio** solo sirve para **poder recurrir**. Resolución expresa tardía: tras estimación por silencio, **solo si confirma**; tras desestimación, **sin quedar vinculada** al silencio. El **certificado del silencio** se expide **de oficio en quince días**.",
+     "¿Cuál es el efecto de la desestimación por silencio y cuándo la resolución tardía solo puede ser confirmatoria?"
+    ],
+    [
+     "lpac",
+     "25",
+     "Falta de resolución en procedimientos iniciados de oficio",
+     "En los procedimientos **iniciados de oficio**, pasar el plazo **no exime** de resolver. **Efectos:** si pudiera derivarse **reconocer o constituir derechos**, los interesados que **hayan comparecido** pueden entender **desestimadas** sus pretensiones; si la Administración ejerce **potestades sancionadoras o de intervención** con efectos **desfavorables**, se produce la **caducidad** y se **archivan** las actuaciones (art. 95). Si el procedimiento se **paraliza por culpa del interesado**, se **interrumpe** el cómputo del plazo.",
+     "¿Qué ocurre si caduca un procedimiento sancionador iniciado de oficio?"
+    ]
+   ]
   },
   {
    "id": "e2",
@@ -222,7 +338,44 @@
     "Último día inhábil → siguiente hábil",
     "Ampliación ≤ mitad (32) · Urgencia: mitad, salvo solicitudes y recursos (33)"
    ],
-   "ic": "⏳"
+   "ic": "⏳",
+   "articulos": [
+    [
+     "lpac",
+     "29",
+     "Los plazos obligan a la Administración y a los interesados",
+     "Los **términos y plazos** fijados en esta u otras leyes **obligan** tanto a las **autoridades y personal** que tramitan los asuntos como a los **interesados**.",
+     "¿A quién obligan los plazos: solo al ciudadano o también a la Administración?"
+    ],
+    [
+     "lpac",
+     "30",
+     "Cómputo de plazos: horas, días, meses y años",
+     "**Horas:** son **hábiles** y se cuentan **de hora en hora**; **máximo 24 horas**. **Días:** son **hábiles**, se **excluyen sábados, domingos y festivos**; los **naturales** solo si lo dice una **ley o el Derecho de la UE** (y se hace constar en la notificación). El plazo empieza **al día siguiente** de la notificación, publicación o del silencio. **Meses y años:** acaban **el mismo día** del mes o año de vencimiento; si ese día no existe, el **último día del mes**. Si el último día es **inhábil**, pasa al **primer día hábil siguiente**. Si un día es hábil en el lugar del interesado e inhábil en la sede del órgano (o al revés), se considera **inhábil**. El **calendario de días inhábiles** lo fijan la **AGE** y las **CCAA** (incluye a sus entidades locales).",
+     "¿Desde qué día se empieza a contar un plazo de días y qué días se excluyen?"
+    ],
+    [
+     "lpac",
+     "31",
+     "Cómputo de plazos en el registro electrónico",
+     "El **registro electrónico** admite documentos **todos los días del año, 24 horas**, y se rige por la **fecha y hora oficial de la sede electrónica**. Presentar en **día inhábil** se entiende hecho en la **primera hora del primer día hábil siguiente**, salvo que una norma permita la recepción en día inhábil. Para los **plazos de la Administración**, el inicio lo marca la **fecha y hora de presentación** en el registro, que se comunica al interesado. El calendario de inhábiles es el de la **sede del registro**; **no se aplica el art. 30.6**.",
+     "Si presento un documento un domingo en el registro electrónico, ¿cuándo se entiende presentado?"
+    ],
+    [
+     "lpac",
+     "32",
+     "Ampliar plazos: hasta la mitad y antes de vencer",
+     "La Administración puede **ampliar de oficio o a petición** los plazos, **hasta la mitad** de su duración, si las circunstancias lo aconsejan y **no se perjudican derechos de tercero**. La **petición y la decisión** deben producirse **antes del vencimiento**; **un plazo vencido no se puede ampliar**. El acuerdo de ampliación o de denegación **no es recurrible** (sin perjuicio del recurso contra la resolución final). Si una **incidencia técnica** impide el funcionamiento del sistema, o un **ciberincidente** afecta gravemente a los servicios, se pueden **ampliar** los plazos no vencidos.",
+     "¿Hasta cuánto se puede ampliar un plazo y se puede ampliar uno que ya ha vencido?"
+    ],
+    [
+     "lpac",
+     "33",
+     "Tramitación de urgencia: plazos reducidos a la mitad",
+     "Por **razones de interés público**, de oficio o a petición del interesado, se aplica la **tramitación de urgencia**: se **reducen a la mitad los plazos** del procedimiento ordinario, **salvo los de presentación de solicitudes y recursos**. **No cabe recurso** contra el acuerdo que declare la urgencia (sin perjuicio del recurso contra la resolución final).",
+     "¿Qué plazos no se reducen en la tramitación de urgencia?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -537,6 +690,737 @@
    [
     "fecha y hora oficial"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 14.2 de la Ley 39/2015, de 1 de octubre, están obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas, en todo caso:",
+   [
+    "Las personas jurídicas",
+    "Las personas físicas que no ejerzan actividad profesional",
+    "Los menores de edad con representante legal"
+   ],
+   0,
+   "Art. 14.2 a): personas jurídicas, entidades sin personalidad, profesionales con colegiación obligatoria, sus representantes y empleados públicos. Las personas físicas en general eligen (art. 14.1).",
+   "lpac 14.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2 de la Ley 39/2015, de 1 de octubre, entre los obligados a relacionarse electrónicamente con las Administraciones se encuentran:",
+   [
+    "Quienes ejerzan una actividad profesional con colegiación obligatoria, en los trámites de dicha actividad",
+    "Todas las personas físicas mayores de edad, aunque no ejerzan actividad profesional ni representen a persona alguna",
+    "Únicamente las sociedades mercantiles, quedando excluidas las asociaciones y las entidades sin personalidad jurídica"
+   ],
+   0,
+   "Art. 14.2 c): colegiación obligatoria (incluye notarios y registradores de la propiedad y mercantiles).",
+   "lpac 14.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de la Ley 39/2015, de 1 de octubre, las personas físicas, salvo que estén obligadas a relacionarse electrónicamente:",
+   [
+    "Podrán elegir en todo momento si se comunican por medios electrónicos o no, y modificar su elección en cualquier momento",
+    "Deberán comunicarse siempre por medios electrónicos, sin que puedan elegir el medio ni modificar su elección posteriormente",
+    "Elegirán una sola vez el medio de comunicación, que no podrá modificarse después salvo autorización expresa de la Administración"
+   ],
+   0,
+   "Art. 14.1: elección libre y modificable en cualquier momento.",
+   "lpac 14.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.3 de la Ley 39/2015, de 1 de octubre, la Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y:",
+   [
+    "Los dirigidos a los interesados que expresamente lo soliciten",
+    "Todos los documentos del expediente sin excepción",
+    "Los documentos redactados por funcionarios"
+   ],
+   0,
+   "Art. 15.3. No hace falta traducir si deben surtir efecto en una Comunidad donde sea cooficial esa misma lengua.",
+   "lpac 15.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.4 de la Ley 39/2015, de 1 de octubre, los documentos que los interesados dirijan a las Administraciones Públicas podrán presentarse, entre otros lugares:",
+   [
+    "En las oficinas de Correos, en la forma que reglamentariamente se establezca",
+    "En cualquier notaría o colegio profesional, con independencia de que exista convenio con la Administración destinataria",
+    "Exclusivamente en el registro del órgano administrativo al que se dirijan, sin posibilidad de presentarlos en otros registros"
+   ],
+   0,
+   "Art. 16.4 b). También: registros electrónicos, representaciones diplomáticas u oficinas consulares en el extranjero, oficinas de asistencia en materia de registros.",
+   "lpac 16.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.5 de la Ley 39/2015, de 1 de octubre, los documentos presentados de manera presencial ante las Administraciones Públicas deberán ser:",
+   [
+    "Digitalizados por la oficina de asistencia en materia de registros, devolviéndose los originales al interesado",
+    "Conservados en papel por la oficina y no se incorporarán al expediente electrónico, salvo que el interesado lo solicite expresamente",
+    "Remitidos por correo ordinario al órgano competente sin digitalizar, devolviéndose los originales una vez resuelto el procedimiento"
+   ],
+   0,
+   "Art. 16.5: digitalización para incorporarlos al expediente electrónico, salvo custodia obligatoria o imposibilidad de digitalizar.",
+   "lpac 16.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3 de la Ley 39/2015, de 1 de octubre, el registro electrónico emitirá automáticamente un recibo consistente en:",
+   [
+    "Una copia autenticada del documento, con fecha y hora de presentación y número de entrada de registro",
+    "Un justificante verbal de la presentación, sin copia del documento ni constancia de fecha y hora, que expide el funcionario",
+    "Una copia simple del documento sin fecha ni hora de presentación, a retirar por el interesado en la oficina de registro"
+   ],
+   0,
+   "Art. 16.3: garantiza integridad y no repudio.",
+   "lpac 16.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.1 de la Ley 39/2015, de 1 de octubre, cada Administración deberá mantener un archivo electrónico único de:",
+   [
+    "Los documentos electrónicos correspondientes a procedimientos finalizados",
+    "Todos los documentos en papel recibidos, ordenados por orden cronológico de entrada en las oficinas de registro",
+    "Los documentos de los procedimientos en tramitación, que se trasladarán al archivo cuando se dicte la resolución"
+   ],
+   0,
+   "Art. 17.1.",
+   "lpac 17.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 de la Ley 39/2015, de 1 de octubre, la comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando:",
+   [
+    "Así esté previsto en una norma con rango de ley",
+    "Lo disponga cualquier reglamento municipal",
+    "Lo decida el instructor del procedimiento"
+   ],
+   0,
+   "Art. 19.1: reserva de ley.",
+   "lpac 19.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.2 de la Ley 39/2015, de 1 de octubre, cuando proceda la comparecencia, la citación hará constar expresamente:",
+   [
+    "El lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla",
+    "Solo la fecha y el lugar de la comparecencia, sin indicar su objeto ni los efectos de no atenderla",
+    "El lugar y la hora de la comparecencia, sin necesidad de expresar el objeto ni los medios disponibles"
+   ],
+   0,
+   "Art. 19.2.",
+   "lpac 19.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.2 de la Ley 39/2015, de 1 de octubre, los interesados podrán solicitar la exigencia de responsabilidad del personal que tramita un asunto:",
+   [
+    "A la Administración Pública de que dependa el personal afectado",
+    "Directamente a los Tribunales contencioso-administrativos",
+    "Al Defensor del Pueblo exclusivamente"
+   ],
+   0,
+   "Art. 20.2.",
+   "lpac 20.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.2 de la Ley 39/2015, de 1 de octubre, el plazo máximo en que debe notificarse la resolución expresa no podrá exceder de seis meses, salvo que:",
+   [
+    "Una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea",
+    "El instructor del procedimiento lo acuerde motivadamente atendiendo a la complejidad del asunto",
+    "El Alcalde lo decida mediante decreto, en los procedimientos tramitados por las entidades locales"
+   ],
+   0,
+   "Art. 21.2.",
+   "lpac 21.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.3 de la Ley 39/2015, de 1 de octubre, cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de:",
+   [
+    "Tres meses",
+    "Seis meses",
+    "Un mes"
+   ],
+   0,
+   "Art. 21.3. Se cuenta desde el acuerdo de iniciación (de oficio) o desde la entrada de la solicitud en el registro del órgano competente (a solicitud).",
+   "lpac 21.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.3 de la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados a solicitud del interesado, el plazo máximo para resolver se cuenta desde:",
+   [
+    "La fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación",
+    "La fecha en que el interesado firma la solicitud, aunque se presente posteriormente en el registro",
+    "La fecha en que el instructor admite a trámite la solicitud tras comprobar que reúne los requisitos"
+   ],
+   0,
+   "Art. 21.3 b).",
+   "lpac 21.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.4 de la Ley 39/2015, de 1 de octubre, la Administración informará al interesado del plazo máximo de resolución y de los efectos del silencio mediante comunicación dirigida dentro de:",
+   [
+    "Los diez días siguientes a la recepción de la solicitud en el registro electrónico del órgano competente",
+    "Los quince días siguientes a la recepción de la solicitud en el registro electrónico del órgano competente",
+    "Los cinco días siguientes a la resolución del procedimiento, junto con la notificación de ésta"
+   ],
+   0,
+   "Art. 21.4 segundo párrafo.",
+   "lpac 21.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.1 de la Ley 39/2015, de 1 de octubre, la obligación de dictar resolución expresa no existe en:",
+   [
+    "Los supuestos de terminación del procedimiento por pacto o convenio",
+    "Los casos de caducidad del procedimiento, en los que basta con archivar sin dictar resolución",
+    "Los casos de desistimiento de la solicitud, en los que no es necesario declarar la circunstancia"
+   ],
+   0,
+   "Art. 21.1 tercer párrafo. En caducidad, prescripción, renuncia o desistimiento la resolución declara la circunstancia.",
+   "lpac 21.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.1 de la Ley 39/2015, de 1 de octubre, el plazo máximo para resolver se podrá suspender cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, sin que la suspensión pueda exceder de:",
+   [
+    "Tres meses",
+    "Un mes",
+    "Seis meses"
+   ],
+   0,
+   "Art. 22.1 d). Si no se recibe el informe en ese plazo, proseguirá el procedimiento.",
+   "lpac 22.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.1 de la Ley 39/2015, de 1 de octubre, se podrá suspender el plazo máximo para resolver, entre otros casos:",
+   [
+    "Cuando deba requerirse al interesado para subsanar deficiencias, por el tiempo entre la notificación del requerimiento y su cumplimiento",
+    "Cuando el instructor esté de baja o de vacaciones y no pueda impulsar la tramitación del expediente",
+    "Cuando el interesado presente alegaciones por propia iniciativa sin que la Administración se lo haya requerido"
+   ],
+   0,
+   "Art. 22.1 a).",
+   "lpac 22.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.2 de la Ley 39/2015, de 1 de octubre, el plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando:",
+   [
+    "Los interesados promuevan la recusación, desde que se plantee hasta que sea resuelta por el superior jerárquico",
+    "Se solicite un informe facultativo y no vinculante a un órgano de la misma Administración",
+    "Se presente un recurso de reposición contra un acto de trámite del propio procedimiento"
+   ],
+   0,
+   "Art. 22.2 c). El apartado 2 recoge suspensiones obligatorias; el 1, potestativas.",
+   "lpac 22.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23.1 de la Ley 39/2015, de 1 de octubre, la ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior:",
+   [
+    "Al establecido para la tramitación del procedimiento",
+    "A la mitad del plazo inicialmente fijado para resolver y notificar, con carácter general",
+    "A tres meses, en todo caso, cualquiera que sea el plazo máximo del procedimiento"
+   ],
+   0,
+   "Art. 23.1: exige que se hayan agotado los medios personales y materiales y acuerdo motivado.",
+   "lpac 23.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23.2 de la Ley 39/2015, de 1 de octubre, contra el acuerdo que resuelva sobre la ampliación de plazos de resolución:",
+   [
+    "No cabrá recurso alguno",
+    "Cabe recurso de alzada",
+    "Cabe recurso de reposición potestativo"
+   ],
+   0,
+   "Art. 23.2.",
+   "lpac 23.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.1 de la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificar resolución expresa legitima para entenderla estimada por silencio, excepto:",
+   [
+    "Cuando una norma con rango de ley o de Derecho de la UE o internacional establezca lo contrario",
+    "Cuando el órgano competente para resolver sea unipersonal en lugar de colegiado",
+    "Cuando la solicitud se haya presentado en papel en lugar de por medios electrónicos"
+   ],
+   0,
+   "Art. 24.1.",
+   "lpac 24.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.1 de la Ley 39/2015, de 1 de octubre, tendrán efecto desestimatorio por silencio, entre otros, los procedimientos:",
+   [
+    "De responsabilidad patrimonial de las Administraciones Públicas",
+    "De solicitud de certificados o de copias de documentos administrativos que consten en la Administración",
+    "De solicitud de cambio de domicilio en el padrón municipal de habitantes del ayuntamiento"
+   ],
+   0,
+   "Art. 24.1 segundo párrafo: derecho de petición, transferencia de facultades sobre dominio o servicio público, actividades que puedan dañar el medio ambiente y responsabilidad patrimonial.",
+   "lpac 24.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.2 de la Ley 39/2015, de 1 de octubre, la estimación por silencio administrativo tiene, a todos los efectos, la consideración de:",
+   [
+    "Acto administrativo finalizador del procedimiento",
+    "Mera expectativa de derecho, sin efectos jurídicos mientras no se dicte resolución expresa",
+    "Propuesta de resolución que debe ser ratificada por el órgano competente para producir efectos"
+   ],
+   0,
+   "Art. 24.2. La desestimación por silencio solo permite recurrir.",
+   "lpac 24.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.2 de la Ley 39/2015, de 1 de octubre, la desestimación por silencio administrativo tiene:",
+   [
+    "Los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo",
+    "Los efectos de un acto finalizador del procedimiento, equiparable a una resolución expresa estimatoria",
+    "Los efectos de la caducidad del procedimiento, que se declara de oficio sin necesidad de resolución"
+   ],
+   0,
+   "Art. 24.2.",
+   "lpac 24.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.3 de la Ley 39/2015, de 1 de octubre, en caso de estimación por silencio, la resolución expresa posterior a la producción del acto sólo podrá dictarse:",
+   [
+    "De ser confirmatoria del mismo",
+    "En sentido desestimatorio, si hay causa justificada",
+    "Sin vinculación al sentido del silencio"
+   ],
+   0,
+   "Art. 24.3 a). En la desestimación por silencio (b) la resolución expresa se adopta sin vinculación al sentido del silencio.",
+   "lpac 24.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.4 de la Ley 39/2015, de 1 de octubre, el certificado acreditativo del silencio producido se expedirá de oficio por el órgano competente para resolver en el plazo de:",
+   [
+    "Quince días desde que expire el plazo máximo para resolver",
+    "Diez días desde que se presente la solicitud iniciadora del procedimiento ante el registro competente",
+    "Un mes desde que expire el plazo máximo para resolver, previa petición del interesado"
+   ],
+   0,
+   "Art. 24.4. El interesado puede pedirlo en cualquier momento.",
+   "lpac 24.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1 de la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados de oficio susceptibles de producir efectos desfavorables o de intervención, el vencimiento del plazo máximo sin resolución produce:",
+   [
+    "La caducidad",
+    "La estimación por silencio",
+    "La desestimación por silencio"
+   ],
+   0,
+   "Art. 25.1 b). La resolución que declare la caducidad ordenará el archivo de las actuaciones.",
+   "lpac 25.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1 de la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos u otras situaciones favorables, el vencimiento del plazo máximo permite a los interesados que hubieren comparecido:",
+   [
+    "Entender desestimadas sus pretensiones por silencio administrativo",
+    "Entenderlas estimadas por silencio positivo, al haberse agotado el plazo máximo para resolver",
+    "Solicitar la declaración de caducidad del procedimiento por haber transcurrido el plazo máximo"
+   ],
+   0,
+   "Art. 25.1 a).",
+   "lpac 25.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29 de la Ley 39/2015, de 1 de octubre, los términos y plazos establecidos en la Ley obligan:",
+   [
+    "A las autoridades y personal al servicio de las Administraciones, así como a los interesados",
+    "Solo a los interesados en el procedimiento, sin que vinculen a las autoridades ni al personal tramitador",
+    "Solo a la Administración tramitadora, sin que alcancen a los interesados en el procedimiento"
+   ],
+   0,
+   "Art. 29.",
+   "lpac 29",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.2 de la Ley 39/2015, de 1 de octubre, cuando los plazos se señalen por días, salvo que por Ley o Derecho de la UE se disponga otro cómputo, se entiende que éstos son:",
+   [
+    "Hábiles, excluyéndose sábados, domingos y festivos",
+    "Naturales, incluyéndose en el cómputo los sábados, los domingos y los declarados festivos",
+    "Hábiles, excluyéndose del cómputo los domingos y festivos pero incluyéndose los sábados"
+   ],
+   0,
+   "Art. 30.2. Los plazos por horas también son hábiles (art. 30.1).",
+   "lpac 30.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.3 de la Ley 39/2015, de 1 de octubre, los plazos expresados en días se contarán:",
+   [
+    "A partir del día siguiente a aquel en que tenga lugar la notificación o publicación, o se produzca el silencio administrativo",
+    "Desde el mismo día en que tenga lugar la notificación o publicación del acto de que se trate",
+    "Desde el día en que se dicta el acto, aunque todavía no se haya notificado al interesado"
+   ],
+   0,
+   "Art. 30.3.",
+   "lpac 30.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.4 de la Ley 39/2015, de 1 de octubre, si el plazo se fija en meses o años, éste concluirá:",
+   [
+    "El mismo día en que se produjo la notificación, publicación o silencio, en el mes o año de vencimiento",
+    "El día anterior al de la notificación, publicación o silencio, en el mes o año de vencimiento",
+    "El último día del mes de vencimiento, en todo caso, aunque exista día equivalente"
+   ],
+   0,
+   "Art. 30.4. Si en el mes de vencimiento no hay día equivalente, expira el último día del mes.",
+   "lpac 30.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.5 de la Ley 39/2015, de 1 de octubre, cuando el último día del plazo sea inhábil, se entenderá:",
+   [
+    "Prorrogado al primer día hábil siguiente",
+    "Concluido el día hábil anterior",
+    "Ampliado en cinco días"
+   ],
+   0,
+   "Art. 30.5.",
+   "lpac 30.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.6 de la Ley 39/2015, de 1 de octubre, cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado e inhábil en la sede del órgano administrativo, o a la inversa, se considerará:",
+   [
+    "Inhábil en todo caso",
+    "Hábil en todo caso",
+    "Hábil solo para el interesado"
+   ],
+   0,
+   "Art. 30.6.",
+   "lpac 30.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.2 de la Ley 39/2015, de 1 de octubre, el registro electrónico de cada Administración se regirá, a efectos del cómputo de los plazos, por:",
+   [
+    "La fecha y hora oficial de la sede electrónica de acceso",
+    "La hora del equipo informático del interesado en el momento de la presentación del documento",
+    "El horario de apertura de las oficinas de asistencia en materia de registros del órgano competente"
+   ],
+   0,
+   "Art. 31.2.",
+   "lpac 31.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.2 de la Ley 39/2015, de 1 de octubre, a efectos del cumplimiento de plazos por los interesados, la presentación en un día inhábil en el registro electrónico se entenderá realizada:",
+   [
+    "En la primera hora del primer día hábil siguiente, salvo que una norma permita la recepción en día inhábil",
+    "El mismo día inhábil, a las cero horas, con efectos desde ese instante a efectos de cómputo",
+    "El último día hábil anterior, a la última hora de cierre de las oficinas de registro"
+   ],
+   0,
+   "Art. 31.2. El registro electrónico permite presentar todos los días del año durante las 24 horas.",
+   "lpac 31.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.1 de la Ley 39/2015, de 1 de octubre, la Administración podrá conceder una ampliación de los plazos establecidos que no exceda:",
+   [
+    "De la mitad de los mismos",
+    "Del doble de los mismos",
+    "De diez días"
+   ],
+   0,
+   "Art. 32.1: si las circunstancias lo aconsejan y no se perjudican derechos de terceros.",
+   "lpac 32.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.3 de la Ley 39/2015, de 1 de octubre, tanto la petición de ampliación de plazo como la decisión sobre la misma deberán producirse:",
+   [
+    "Antes del vencimiento del plazo de que se trate; nunca se puede ampliar un plazo ya vencido",
+    "En los cinco días siguientes al vencimiento del plazo, siempre que se justifique la causa del retraso",
+    "En cualquier momento del procedimiento, incluso una vez vencido el plazo que se pretende ampliar"
+   ],
+   0,
+   "Art. 32.3.",
+   "lpac 32.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33.1 de la Ley 39/2015, de 1 de octubre, la tramitación de urgencia supone reducir a la mitad los plazos del procedimiento ordinario, salvo:",
+   [
+    "Los relativos a la presentación de solicitudes y recursos",
+    "Los de notificación y los de interposición de recursos, que se reducen igualmente a la mitad",
+    "Los relativos a la práctica de pruebas, que se mantienen sin reducción alguna"
+   ],
+   0,
+   "Art. 33.1.",
+   "lpac 33.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33.2 de la Ley 39/2015, de 1 de octubre, contra el acuerdo que declare la aplicación de la tramitación de urgencia:",
+   [
+    "No cabrá recurso alguno, sin perjuicio del procedente contra la resolución final",
+    "Cabe recurso de alzada ante el superior jerárquico del órgano que acordó la tramitación de urgencia",
+    "Cabe recurso extraordinario de revisión por error de hecho en el acuerdo que la declara"
+   ],
+   0,
+   "Art. 33.2.",
+   "lpac 33.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28.2 de la Ley 39/2015, de 1 de octubre, los interesados tienen derecho a no aportar documentos que:",
+   [
+    "Ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración",
+    "Hayan sido elaborados por los propios interesados y se encuentren en poder de entidades privadas",
+    "Se encuentren en poder de otras Administraciones, siempre que no hayan sido elaborados por éstas"
+   ],
+   0,
+   "Art. 28.2.",
+   "lpac 28.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de la Ley 39/2015, de 1 de octubre, los interesados tienen derecho, entre otros, a:",
+   [
+    "Comunicarse con las Administraciones a través de un Punto de Acceso General electrónico",
+    "Elegir libremente al funcionario encargado de la instrucción entre los de la unidad competente",
+    "Exigir que todo trámite se realice presencialmente cuando así lo prefiera la persona interesada"
+   ],
+   0,
+   "Art. 13 a).",
+   "lpac 13",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Concepto y clases de bienes",
-   "subtitulo": "Arts. 79 LBRL, 1-7 RD 1372/1986, 169-171 Ley 7/1999",
+   "subtitulo": "Arts. 79 y 83 LBRL; 169-171 Ley 7/1999; 1-5 y 7 Reglamento aragonés",
    "clave": [
     "Patrimonio local (79.1)",
     "Dominio público y patrimoniales (79.2)",
@@ -76,12 +76,118 @@
     "Patrimoniales o de propios: no afectos, fuente de ingresos",
     "Parcelas sobrantes y efectos no utilizables → patrimoniales (7 RD 1372/1986)"
    ],
-   "ic": "🏠"
+   "ic": "🏠",
+   "articulos": [
+    [
+     "lbrl",
+     "79",
+     "Patrimonio local: bienes de dominio público, comunales y patrimoniales",
+     "El **patrimonio de las entidades locales** es el conjunto de **bienes, derechos y acciones** que les pertenecen. Sus bienes son **de dominio público o patrimoniales**. Son **de dominio público** los destinados a un **uso o servicio público**; son **comunales** aquellos cuyo **aprovechamiento corresponde al común de los vecinos**.",
+     "¿Qué dos categorías de bienes distingue el art. 79 LBRL y qué son los comunales?"
+    ],
+    [
+     "lbrl",
+     "83",
+     "Montes vecinales en mano común",
+     "Los **montes vecinales en mano común** se regulan por su **legislación específica**.",
+     "¿Qué legislación regula los montes vecinales en mano común?"
+    ],
+    [
+     "l7-1999",
+     "169",
+     "Bienes de las entidades locales aragonesas: dominio público o patrimoniales",
+     "El patrimonio local aragonés es el conjunto de **bienes y derechos** de la entidad. Sus bienes son **de dominio público o patrimoniales**.",
+     "¿En qué dos clases se dividen los bienes de las entidades locales según la Ley 7/1999?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "170",
+     "Bienes de dominio público: uso público, servicio público y comunales",
+     "Son de dominio público los destinados a un **uso o servicio público** y los **comunales**. **Uso público local:** caminos, carreteras, plazas, calles, paseos, parques, fuentes, canales, puentes y obras públicas de aprovechamiento general. **Servicio público:** los destinados a fines públicos de competencia local (**Casas Consistoriales, mataderos, mercados, lonjas, hospitales, museos**…). **Comunales:** aprovechamiento de **los vecinos en común**.",
+     "¿Qué diferencia hay entre bienes de uso público y de servicio público local?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "171",
+     "Bienes patrimoniales o de propios y parcelas sobrantes",
+     "Son **patrimoniales o de propios** los bienes de la entidad que **no están destinados directamente al uso público**, ni afectados a un **servicio público**, ni son **comunales**. Las **parcelas sobrantes** no aprovechables y los **bienes no utilizables** son patrimoniales.",
+     "¿Qué bienes se consideran patrimoniales por exclusión?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "1",
+     "El patrimonio de las entidades locales aragonesas",
+     "El patrimonio local es el conjunto de **bienes y derechos** de la entidad. Las entidades tienen **plena capacidad jurídica** para **adquirir y poseer bienes** de todas clases y **ejercitar acciones y recursos** en defensa de su patrimonio.",
+     "¿Qué capacidad tienen las entidades locales sobre sus bienes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "2",
+     "Clasificación de los bienes locales de Aragón",
+     "Los bienes de las entidades locales de Aragón se clasifican en **bienes de dominio público** y **bienes patrimoniales o de propios**.",
+     "¿En qué dos clases se clasifican los bienes de las entidades locales aragonesas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "3",
+     "Bienes de dominio público en el Reglamento aragonés",
+     "Son de dominio público los destinados a **uso o servicio público** y los **comunales**. **Uso público local:** los destinados a ser utilizados **directamente por los particulares** (caminos, plazas, calles, parques, fuentes, puentes…). **Servicio público:** los destinados **directamente a fines públicos** de competencia local (Casas Consistoriales, mercados, hospitales, escuelas, museos, **instalaciones deportivas, cementerios**…). **Comunales:** titularidad de la entidad y disfrute **del común de los vecinos**.",
+     "¿Qué ejemplos de bienes de servicio público cita el art. 3 del Reglamento aragonés?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "rbaso",
+     "4",
+     "Bienes patrimoniales o de propios y presunción de patrimonialidad",
+     "Son patrimoniales los bienes de la entidad que **no estén destinados al uso público**, afectados a un **servicio público** ni sean **comunales**. Las **parcelas sobrantes** y los **bienes no utilizables** son patrimoniales. **Si no consta** la afectación a uso o servicio público ni su naturaleza comunal, **se presume su carácter patrimonial**.",
+     "¿Qué se presume si no consta la afectación de un bien a un uso o servicio público?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "5",
+     "Parcelas sobrantes y bienes no utilizables",
+     "**Parcela sobrante:** porción de terreno de la entidad que por su **reducida extensión, forma irregular o emplazamiento** no es susceptible de uso adecuado; se declara con **procedimiento de calificación** (art. 10), salvo si resulta de planes o proyectos. **Bien no utilizable:** el que por **deterioro, depreciación o mal estado** carece de utilidad; la declaración requiere **informe técnico** y la resuelve el **Presidente de la entidad**, previo informe del **Interventor** y del **Secretario** o letrados.",
+     "¿Quién declara un bien como no utilizable y con qué informes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "7",
+     "Calificación jurídica de los bienes",
+     "Las entidades locales **asignan a los bienes y derechos de su patrimonio la calificación jurídica** que les corresponda.",
+     "¿Quién asigna la calificación jurídica a los bienes de la entidad?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e1",
    "titulo": "Régimen jurídico y prerrogativas",
-   "subtitulo": "Arts. 80 y 82 LBRL; 172-175 Ley 7/1999",
+   "subtitulo": "Arts. 80 y 82 LBRL; 172-176 Ley 7/1999; 6 y 54 Reglamento aragonés",
    "clave": [
     "Inalienables, inembargables, imprescriptibles (80.1)",
     "Patrimoniales: derecho privado (80.2)",
@@ -147,12 +253,88 @@
     "Patrimoniales: legislación específica y derecho privado (80.2)",
     "Recuperación: público siempre; patrimonial 1 año (82) · inventario anual (175)"
    ],
-   "ic": "🔒"
+   "ic": "🔒",
+   "articulos": [
+    [
+     "lbrl",
+     "80",
+     "Régimen de los bienes: inalienables, inembargables e imprescriptibles",
+     "Los **bienes comunales y demás de dominio público** son **inalienables, inembargables e imprescriptibles** y **no están sujetos a tributo alguno**. Los **bienes patrimoniales** se rigen por su **legislación específica** y, en su defecto, por el **Derecho privado**.",
+     "¿Qué tres características tienen los bienes de dominio público y están sujetos a tributo?"
+    ],
+    [
+     "lbrl",
+     "82",
+     "Prerrogativas: recuperar posesión y deslindar",
+     "Las entidades locales pueden: **a)** **recuperar por sí mismas su posesión**, **en cualquier momento** si son de **dominio público** y **en el plazo de un año** si son **patrimoniales**; **b)** **deslindar** sus bienes, conforme a la legislación del Patrimonio del Estado y, en su caso, de montes.",
+     "¿En qué plazo pueden recuperar de oficio la posesión de un bien patrimonial?"
+    ],
+    [
+     "l7-1999",
+     "172",
+     "Régimen jurídico de los bienes en Aragón",
+     "Los **bienes de dominio público** son **inalienables, inembargables e imprescriptibles** y **no están sujetos a tributo**. A los **comunales** se les aplica ese régimen (sin perjuicio de normas sobre su aprovechamiento). Los **patrimoniales** se rigen por su **legislación específica** y, en su defecto, por el **derecho privado**.",
+     "¿Qué régimen se aplica a los bienes comunales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "173",
+     "Prerrogativas y deber de defensa de los bienes",
+     "Las entidades pueden: **a)** **investigar** la situación de los bienes que se presuman suyos; **b)** **recuperar la posesión** (en cualquier momento si son demaniales, **en un año** si patrimoniales); **c)** **deslindar** sus bienes de los de particulares; **d)** **potestad sancionadora** para defender su patrimonio; **e)** **desahucio administrativo** al extinguirse derechos sobre bienes de dominio público. Tienen la **obligación de defender** sus bienes y **cualquier ciudadano puede requerirlo**.",
+     "¿Qué cinco prerrogativas tienen las entidades locales aragonesas sobre sus bienes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "175",
+     "Inventario valorado de bienes y derechos",
+     "Las entidades **forman un inventario valorado** de todos sus bienes y derechos, con **actualización continua**, **rectificación anual** y **comprobación siempre que se renueve la Corporación**. Se **remite copia de las rectificaciones anuales** a la Diputación General de Aragón.",
+     "¿Cuándo se rectifica el inventario de bienes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "176",
+     "Inscripción de los bienes en el Registro de la Propiedad",
+     "Las entidades **inscriben en el Registro de la Propiedad** sus **bienes inmuebles y derechos reales**. Para la **inmatriculación** basta la **certificación del Secretario**, con el visto bueno del Alcalde o Presidente, **respecto del inventario aprobado**, con los efectos de una **escritura pública**.",
+     "¿Qué documento basta para inmatricular un bien de la entidad local?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "6",
+     "Régimen jurídico general de los bienes locales",
+     "Los bienes **demaniales** son **inalienables, inembargables e imprescriptibles** y **no tributan**. Los **comunales** siguen ese régimen. Los **patrimoniales** se rigen por su legislación y, si no, por el **derecho privado**; los que, siendo patrimoniales, se **destinan materialmente a un servicio público** son **inembargables**. Los **patrimonios municipales del suelo** se rigen por la **legislación urbanística de Aragón**.",
+     "¿Qué bienes patrimoniales son inembargables?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "rbaso",
+     "54",
+     "Potestad de deslinde de los bienes",
+     "Las entidades locales **promueven y ejecutan el deslinde** entre sus bienes y los de terceros cuando los **límites sean imprecisos** o haya **indicios de usurpación o indebida ocupación**. Los **dueños de terrenos colindantes** (o enclavados en fincas locales) **pueden solicitar** el deslinde.",
+     "¿Quién puede solicitar el deslinde de fincas colindantes con bienes de la entidad local?",
+     {
+      "add": "z"
+     }
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "Alteración de la calificación y desafectación",
-   "subtitulo": "Arts. 81 LBRL, 8 RD 1372/1986, 177-179 Ley 7/1999",
+   "subtitulo": "Art. 81 LBRL; 177-179 Ley 7/1999; 10-14 Reglamento aragonés",
    "clave": [
     "Alteración expresa (81.1)",
     "Alteración automática (81.2)",
@@ -206,12 +388,98 @@
     "Automática: planes urbanos y proyectos · patrimoniales > 25 años a un servicio · cesión obligatoria",
     "Desafectación de comunales: > 10 años sin uso, mayoría absoluta y aprobación del Gobierno de Aragón"
    ],
-   "ic": "🔄"
+   "ic": "🔄",
+   "articulos": [
+    [
+     "lbrl",
+     "81",
+     "Alteración de la calificación jurídica de los bienes",
+     "La **alteración de la calificación jurídica** exige **expediente** que acredite **oportunidad y legalidad**. Se produce **automáticamente** con: **a)** la **aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios**; **b)** la **adscripción de bienes patrimoniales por más de veinticinco años** a un uso o servicio público.",
+     "¿Cuándo se altera automáticamente la calificación jurídica de un bien?"
+    ],
+    [
+     "l7-1999",
+     "177",
+     "Alteración expresa y mutaciones demaniales en Aragón",
+     "La alteración exige **expediente** que acredite oportunidad y legalidad, resuelto por el **Pleno** tras **información pública de un mes**; si es de **dominio público**, **mayoría absoluta** del número legal. Las **mutaciones demaniales** (cambio de sujeto o destino sin perder la naturaleza) requieren **acuerdo de la Corporación** que acredite la **utilidad pública**.",
+     "¿Qué mayoría exige la alteración de la calificación de un bien de dominio público?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "178",
+     "Alteración tácita: supuestos en que ocurre automáticamente",
+     "Se produce **automáticamente** por: **a)** **aprobación definitiva de planes de ordenación urbana y proyectos de obras y servicios**; **b)** **adscripción de bienes patrimoniales por más de veinticinco años** a un uso o servicio público o al aprovechamiento comunal; **c)** **adquisición por cesión obligatoria** para uso o servicio público. La **afectación** se entiende producida **sin acto formal** si la entidad adquiere por **usucapión** bienes destinados al uso o servicio público.",
+     "¿Qué tres supuestos producen alteración automática de la calificación en Aragón?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "179",
+     "Desafectación de bienes comunales no aprovechados durante diez años",
+     "Los **comunales** no disfrutados como tales **más de diez años** pueden **perder su carácter comunal** y calificarse como **patrimoniales** por **acuerdo de la entidad**, que exige **información pública**, **voto favorable de la mayoría absoluta** del número legal de miembros y **posterior aprobación del Consejero de Presidencia** del Gobierno de Aragón. Su destino preferente: **arrendamiento a los vecinos**.",
+     "¿Cuántos años sin aprovechamiento permiten desafectar un bien comunal y quién aprueba finalmente?"
+    ],
+    [
+     "rbaso",
+     "10",
+     "Alteración expresa de la calificación jurídica",
+     "Requiere **procedimiento** que acredite **legalidad y oportunidad**, resuelto por el **Pleno**, previa **información pública de un mes**. Si afecta a **bienes de dominio público**, el acuerdo exige **mayoría absoluta del número legal** de miembros.",
+     "¿Qué órgano resuelve la alteración expresa de la calificación jurídica de un bien?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "11",
+     "Alteración tácita o por transcurso del tiempo",
+     "Automática por: **aprobación definitiva de planes y proyectos de obras y servicios**; **adscripción de bienes patrimoniales por más de veinticinco años** a un uso o servicio público o comunal; **cesión obligatoria** para uso o servicio público. La **afectación** se entiende producida sin acto formal si se adquiere por **usucapión** un bien destinado al uso o servicio público.",
+     "¿Cuántos años de adscripción de un bien patrimonial a un servicio público producen la alteración tácita?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "12",
+     "Desafectación de bienes comunales",
+     "Los comunales no disfrutados **más de diez años** pueden **calificarse como patrimoniales**. Exige **procedimiento con información pública de un mes**, acuerdo del **Pleno** con **mayoría absoluta del número legal** y **aprobación posterior del Consejero de Presidencia**. Destino preferente: **arrendamiento a vecinos**.",
+     "¿Qué mayoría del Pleno exige la desafectación de bienes comunales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "13",
+     "Desafectación de comunales para su posterior cesión",
+     "Para **transmitir o permutar** bienes comunales o ceder su uso a otra Administración o entidad sin ánimo de lucro: **acuerdo inicial del Pleno motivado**, **información pública de un mes**, **aprobación provisional por mayoría de dos tercios** del número legal y **aprobación del Gobierno de Aragón** con declaración de **utilidad pública o social**.",
+     "¿Qué mayoría del Pleno exige la desafectación de comunales para su posterior cesión?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "14",
+     "Mutaciones demaniales: cambio de destino o de titular",
+     "**Cambio de destino** sin alterar la calificación: **procedimiento y acuerdo del Pleno por mayoría simple** que acredite la **utilidad pública**. **Cesión de titularidad a otra Administración** manteniendo el uso o servicio público: **mayoría absoluta**. Si cambia el titular por **alteración de términos municipales** o redistribución de competencias, hay **sucesión** en derechos y obligaciones.",
+     "¿Qué mayoría exige la mutación demanial por cambio de destino y cuál la cesión a otra Administración?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e3",
    "titulo": "Utilización y adquisición de los bienes",
-   "subtitulo": "Reglamento aragonés de Bienes y Ley 33/2003",
+   "subtitulo": "Art. 174 Ley 7/1999; arts. 72-76, 80 y 99-102 del Reglamento aragonés",
    "clave": [
     "Bienes patrimoniales: rentabilidad económica o social (99.1)",
     "Concesión administrativa (81)",
@@ -277,7 +545,116 @@
     "Dominio público con instalaciones fijas: concesión, máx. 50 años, en concurrencia (83; Ley 33/2003, 93)",
     "Principios: publicidad, transparencia, concurrencia, objetividad (Ley 33/2003, 8)"
    ],
-   "ic": "🔑"
+   "ic": "🔑",
+   "articulos": [
+    [
+     "l7-1999",
+     "174",
+     "Adquisición de bienes: formas y requisitos",
+     "Las entidades tienen **capacidad jurídica plena** para adquirir y poseer bienes. Adquisición por **atribución legal**, **a título oneroso** (contrato o expropiación), **herencia, legado o donación**, **prescripción**, **ocupación** u otro modo legítimo. A título oneroso: **normas de contratación** y, en inmuebles, **informe pericial previo**. A título gratuito con **condición o carga**: solo si el **valor del gravamen no excede del valor adquirido**.",
+     "¿Qué informe exige la adquisición onerosa de un bien inmueble?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "72",
+     "Modalidades de utilización de los bienes de dominio público",
+     "La utilización puede ser de **uso común, general o especial**, o **uso privativo**.",
+     "¿Qué modalidades de uso tienen los bienes de dominio y uso público?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "73",
+     "Uso común general: libre para cualquier ciudadano",
+     "Es el que puede ejercer **libremente cualquier ciudadano** utilizando el bien **conforme a su naturaleza** y a las disposiciones que lo reglamenten.",
+     "¿Cómo se define el uso común general?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "74",
+     "Uso común especial: intensidad, peligrosidad o circunstancias singulares",
+     "Es aquel en que concurren **circunstancias singulares de intensidad, peligrosidad u otras similares**.",
+     "¿Qué circunstancias caracterizan el uso común especial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "75",
+     "Uso privativo: ocupación que limita o excluye a otros",
+     "Se **ocupa una porción del dominio público** limitando o excluyendo la utilización por otros. Es **más intenso** (uso privativo agravado) cuando requiere **instalaciones fijas y permanentes**; no lo son las **instalaciones desmontables** (obras de cimentación puntuales, elementos prefabricados, montaje y desmontaje sin demolición).",
+     "¿Cuándo se considera agravado el uso privativo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "76",
+     "Uso normal o anormal del dominio público",
+     "Es **normal** si es conforme con el **destino principal del bien** y **anormal** si no lo es.",
+     "¿Cuándo es normal el uso de un bien de dominio público?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "80",
+     "Licencias de uso del dominio público: régimen jurídico",
+     "Las licencias se otorgan **directamente**, salvo que se limite su número: entonces **licitación** con publicidad y concurrencia o, si todos reúnen las mismas condiciones, **sorteo**. Las **Ordenanzas** fijan si son **transmisibles**; si no lo dicen, **lo son**, salvo las concedidas por **cualidades personales** o de **número limitado**. **No pueden otorgarse por plazo superior a diez años** y **pueden revocarse en cualquier momento por motivos de interés público**.",
+     "¿Por qué plazo máximo pueden otorgarse las licencias de uso del dominio público y cuándo pueden revocarse?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "rbaso",
+     "99",
+     "Formas de utilización de los bienes patrimoniales",
+     "Las entidades **regulan la utilización** de sus bienes patrimoniales con **criterios de rentabilidad económica o social**. Puede hacerse **directamente por la entidad** o **cediéndola a particulares mediante contrato**.",
+     "¿Con qué criterios regulan las entidades la utilización de sus bienes patrimoniales?"
+    ],
+    [
+     "rbaso",
+     "100",
+     "Normas generales de cesión de uso de bienes patrimoniales",
+     "El **arrendamiento y cesiones de uso** se rigen por la **normativa de contratación**. Regla general: precio **no inferior al seis por ciento del valor en venta** del bien (salvo cesión por motivos sociales, art. 102). La adjudicación puede ser por **subasta, concurso o procedimiento negociado sin publicidad**.",
+     "¿Qué precio mínimo se exige, como regla general, por el uso de bienes patrimoniales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "101",
+     "Cuándo es obligatoria la subasta pública",
+     "Es **necesaria subasta pública** si la cesión dura **más de cinco años** o su precio **excede del cinco por ciento de los recursos ordinarios** del presupuesto. **Excepcionalmente**, se puede adjudicar **por concurso** si el arrendamiento o cesión fomenta **actividades económicas que redunden notoriamente en el interés general** de los vecinos.",
+     "¿Cuándo es obligatoria la subasta pública en la cesión de uso de bienes patrimoniales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "102",
+     "Cesión de uso por motivos sociales",
+     "Las Corporaciones pueden priorizar la **rentabilidad social** cuando el bien se destine a **servicios sociales, iniciativas locales de empleo, actividades culturales y deportivas** u otras análogas. Pueden ceder el uso **directamente o por concurso**, **gratuitamente** o con contraprestación, a otras Administraciones o **entidades sin ánimo de lucro**, fijando la **finalidad concreta**, el **plazo** o su carácter **en precario**.",
+     "¿A quién se puede ceder el uso de bienes patrimoniales por motivos sociales?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -475,7 +852,10 @@
    "h-clases",
    [
     "servicio público"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Se clasificarán como bienes patrimoniales:",
@@ -491,7 +871,10 @@
    "h-clases",
    [
     "parcelas sobrantes"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Los bienes comunales y demás bienes de dominio público son:",
@@ -651,7 +1034,10 @@
    "h-uso",
    [
     "Concesión administrativa"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "El otorgamiento de concesiones sobre bienes de dominio público se efectuará, según la Ley 33/2003, en régimen de:",
@@ -667,7 +1053,1081 @@
    "h-uso",
    [
     "concurrencia"
-   ]
+   ],
+   {
+    "off": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los bienes de las entidades locales son:",
+   [
+    "De dominio público o patrimoniales",
+    "De dominio público, comunales y de propios como tres categorías independientes",
+    "Públicos, privados y comunales"
+   ],
+   0,
+   "Art. 79.2. Los comunales son dominio público cuyo aprovechamiento corresponde al común de los vecinos (79.3).",
+   "lbrl 79.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.3 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, son bienes de dominio público de las entidades locales:",
+   [
+    "Los destinados a un uso o servicio público; son comunales aquellos cuyo aprovechamiento corresponde al común de los vecinos",
+    "Los que no estén afectados a ningún uso público y sean propiedad de la entidad local; son comunales los adquiridos por los vecinos",
+    "Los adquiridos por herencia, legado o donación, aunque estén afectados a un uso o servicio público"
+   ],
+   0,
+   "Art. 79.3.",
+   "lbrl 79.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el patrimonio de las entidades locales está constituido por:",
+   [
+    "El conjunto de bienes, derechos y acciones que les pertenezcan",
+    "Solo los bienes inmuebles de su propiedad",
+    "Los bienes y derechos de dominio público únicamente"
+   ],
+   0,
+   "Art. 79.1. La LBRL incluye también las «acciones»; la ley aragonesa dice «bienes y derechos».",
+   "lbrl 79.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los bienes comunales y demás bienes de dominio público son:",
+   [
+    "Inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Alienables previo acuerdo del Pleno por mayoría absoluta, aunque estén sujetos a tributo alguno",
+    "Embargables solo por deudas tributarias, e imprescriptibles aunque no estén sujetos a tributo"
+   ],
+   0,
+   "Art. 80.1.",
+   "lbrl 80.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los bienes patrimoniales de las entidades locales se rigen:",
+   [
+    "Por su legislación específica y, en su defecto, por las normas de Derecho privado",
+    "Por el Derecho administrativo exclusivamente, sin que sean de aplicación las normas de Derecho privado",
+    "Por las normas del dominio público, con aplicación supletoria de la legislación específica"
+   ],
+   0,
+   "Art. 80.2.",
+   "lbrl 80.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las entidades locales gozan de la prerrogativa de recuperar por sí mismas la posesión de sus bienes en cualquier momento cuando se trate de bienes de dominio público y en el plazo de un año:",
+   [
+    "Cuando se trate de bienes patrimoniales",
+    "Cuando se trate de bienes comunales",
+    "En ningún caso"
+   ],
+   0,
+   "Art. 82 a).",
+   "lbrl 82",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la alteración de la calificación jurídica de los bienes locales se produce automáticamente en los casos de:",
+   [
+    "Aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios, y adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio públicos",
+    "Adscripción de bienes patrimoniales por más de diez años a un uso o servicio público, o aprobación provisional de planes urbanísticos",
+    "Acuerdo del Alcalde sin expediente en el que se acrediten su oportunidad y legalidad, y adscripción durante cinco años"
+   ],
+   0,
+   "Art. 81.2 a) y b).",
+   "lbrl 81.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la alteración de la calificación jurídica de los bienes de las entidades locales requiere:",
+   [
+    "Expediente en el que se acrediten su oportunidad y legalidad",
+    "Autorización de la Comunidad Autónoma",
+    "Acuerdo de la Junta de Gobierno Local sin más trámite"
+   ],
+   0,
+   "Art. 81.1.",
+   "lbrl 81.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los montes vecinales en mano común se regulan:",
+   [
+    "Por su legislación específica",
+    "Por la legislación del Patrimonio del Estado",
+    "Por el Código Civil"
+   ],
+   0,
+   "Art. 83.",
+   "lbrl 83",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, son bienes de uso público local:",
+   [
+    "Los caminos y carreteras, plazas, calles, paseos, parques, fuentes, canales, puentes y obras públicas de aprovechamiento o utilización generales cuya conservación y policía sean de competencia de la entidad local",
+    "Las Casas Consistoriales, mataderos y mercados cuya conservación y policía sean competencia de la entidad local",
+    "Los terrenos y edificios arrendados a particulares destinados al uso general de los vecinos"
+   ],
+   0,
+   "Art. 170.2. Casas Consistoriales, mataderos, mercados... son bienes de servicio público (170.3).",
+   "l7-1999 170.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, son bienes de servicio público los destinados al cumplimiento de fines públicos de competencia de las entidades locales, tales como:",
+   [
+    "Las Casas Consistoriales, mataderos, mercados, lonjas, hospitales y centros asistenciales, museos y centros culturales",
+    "Las calles, plazas, paseos y parques, y las obras públicas de aprovechamiento o utilización generales",
+    "Las parcelas sobrantes y los bienes no utilizables, destinados a fines públicos de competencia local"
+   ],
+   0,
+   "Art. 170.3.",
+   "l7-1999 170.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.4 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, tienen la consideración de comunales aquellos bienes:",
+   [
+    "Cuya utilización, aprovechamiento y disfrute corresponde al común de los vecinos",
+    "Cuya titularidad corresponde a los vecinos y su aprovechamiento a la entidad local, en régimen de propiedad comunal",
+    "Que no están afectados a ningún uso o servicio público y pertenecen a la entidad local"
+   ],
+   0,
+   "Art. 170.4.",
+   "l7-1999 170.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, son bienes patrimoniales o de propios:",
+   [
+    "Los que, siendo propiedad de la entidad local, no estén destinados directamente al uso público ni afectados a algún servicio público ni sean comunales",
+    "Los destinados directamente a un servicio público, aunque sean propiedad de la entidad local",
+    "Los comunales, cuyo aprovechamiento corresponde al común de los vecinos del municipio"
+   ],
+   0,
+   "Art. 171.",
+   "l7-1999 171",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las parcelas sobrantes no susceptibles por sí de un uso adecuado y los bienes no utilizables tienen la consideración de:",
+   [
+    "Bienes patrimoniales",
+    "Bienes de dominio público",
+    "Bienes comunales"
+   ],
+   0,
+   "Art. 171 segundo párrafo.",
+   "l7-1999 171",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, los bienes de las entidades locales aragonesas son:",
+   [
+    "De dominio público o patrimoniales",
+    "De dominio público, patrimoniales o comunales",
+    "De uso público o de servicio público únicamente"
+   ],
+   0,
+   "Art. 169.2.",
+   "l7-1999 169.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 172.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, a los bienes comunales les será aplicable:",
+   [
+    "El régimen jurídico de los bienes de dominio público, sin perjuicio de las normas específicas que regulen su aprovechamiento",
+    "El régimen de los bienes patrimoniales, sin perjuicio de las normas específicas sobre su aprovechamiento",
+    "Un régimen propio, sin relación con el de los bienes de dominio público, regulado por su legislación específica"
+   ],
+   0,
+   "Art. 172.2.",
+   "l7-1999 172.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, entre las prerrogativas de las entidades locales respecto de sus bienes se encuentra:",
+   [
+    "La de investigar la situación de los que se presuman de su propiedad, deslindar, recuperar su posesión, ejercer la potestad sancionadora y el desahucio administrativo",
+    "Solo la de recuperar por sí mismas su posesión, sin potestad sancionadora ni de desahucio administrativo",
+    "La de enajenar sus bienes sin necesidad de acuerdo del Pleno ni de información pública"
+   ],
+   0,
+   "Art. 173.1 a) a e).",
+   "l7-1999 173.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales podrán recuperar por sí mismas la posesión de los bienes patrimoniales:",
+   [
+    "En el plazo de un año",
+    "En el plazo de cinco años",
+    "En cualquier momento"
+   ],
+   0,
+   "Art. 173.1 b).",
+   "l7-1999 173.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales tienen la obligación de ejercitar todos los medios, acciones y recursos en defensa de sus bienes y derechos, y:",
+   [
+    "Cualquier ciudadano podrá requerir ese ejercicio a la entidad local interesada",
+    "Solo los vecinos empadronados en el municipio, mediante escrito dirigido al Alcalde de la entidad local",
+    "Nadie puede requerirlo, pues la defensa de los bienes corresponde de forma exclusiva a la entidad"
+   ],
+   0,
+   "Art. 173.2.",
+   "l7-1999 173.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales están obligadas a formar inventario valorado de todos los bienes y derechos que les pertenecen, que se rectificará:",
+   [
+    "Anualmente, comprobándose siempre que se renueve la Corporación",
+    "Cada cuatro años, comprobándose siempre que se renueve la Corporación, con copia a la Diputación General",
+    "Cada diez años, comprobándose siempre que se renueve la Corporación, con copia al Gobierno de Aragón"
+   ],
+   0,
+   "Art. 175.1. Copia de las rectificaciones anuales a la Diputación General de Aragón (175.2).",
+   "l7-1999 175",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 176.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, para la inmatriculación de sus bienes en el Registro de la Propiedad será suficiente la certificación que expida:",
+   [
+    "El Secretario, con el visto bueno del Alcalde o Presidente, con relación al inventario aprobado",
+    "El Interventor, con el visto bueno del Alcalde, con relación al inventario aprobado por la Corporación",
+    "El Alcalde por sí solo, con relación al inventario aprobado, sin intervención del Secretario"
+   ],
+   0,
+   "Art. 176.2. Produce iguales efectos que una escritura pública.",
+   "l7-1999 176.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 177.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la alteración expresa de la calificación jurídica de los bienes locales habrá de ser resuelta:",
+   [
+    "Por el Pleno de la Corporación, previa información pública por plazo de un mes",
+    "Por el Alcalde, previa información pública por plazo de quince días",
+    "Por la Junta de Gobierno Local sin información pública"
+   ],
+   0,
+   "Art. 177.2.",
+   "l7-1999 177.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 177.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, si la alteración de la calificación jurídica se refiere a bienes de dominio público, el acuerdo habrá de adoptarse por:",
+   [
+    "Mayoría absoluta del número legal de miembros de la Corporación",
+    "Mayoría simple del número legal de miembros de la Corporación, previa información pública de un mes",
+    "Dos tercios del número legal de miembros de la Corporación, previa información pública de un mes"
+   ],
+   0,
+   "Art. 177.2.",
+   "l7-1999 177.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 177.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las mutaciones demaniales (cambio de sujeto o destino sin pérdida de la naturaleza) requerirán:",
+   [
+    "Acuerdo de la Corporación local en que se acredite la utilidad pública de la alteración",
+    "Informe favorable de la Comunidad Autónoma, en el que se acredite la utilidad pública de la alteración",
+    "Aprobación del Gobierno de Aragón, acreditándose la oportunidad y legalidad de la alteración"
+   ],
+   0,
+   "Art. 177.3.",
+   "l7-1999 177.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 178.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la alteración de la calificación jurídica y la afectación de los bienes al dominio público se produce automáticamente en los casos de:",
+   [
+    "Aprobación definitiva de planes de ordenación urbana y proyectos de obras y servicios, adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio público o al aprovechamiento comunal, y adquisición por cesión obligatoria con destino a uso o servicio público",
+    "Solo en la aprobación definitiva de planes de ordenación urbana, no en los proyectos de obras y servicios",
+    "Adscripción de bienes patrimoniales por más de diez años a un uso o servicio público, o al aprovechamiento comunal"
+   ],
+   0,
+   "Art. 178.1 a), b) y c).",
+   "l7-1999 178.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 178.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando:",
+   [
+    "La entidad local adquiera por usucapión bienes destinados al uso o servicio público o al aprovechamiento comunal",
+    "El Alcalde lo ordene verbalmente, sin necesidad de acto formal escrito de afectación",
+    "Se publique en el boletín oficial el acuerdo de afectación aprobado por el Pleno de la Corporación"
+   ],
+   0,
+   "Art. 178.2.",
+   "l7-1999 178.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 179.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, los bienes comunales que no hubieren sido objeto de disfrute durante más de un cierto tiempo podrán ser desprovistos de su carácter comunal y calificados como patrimoniales. Ese tiempo es:",
+   [
+    "Diez años, aunque en alguno de ellos se haya producido acto aislado de aprovechamiento",
+    "Cinco años, sin excepción, aunque se haya producido algún acto aislado de aprovechamiento",
+    "Veinticinco años, aunque no se haya producido acto alguno de aprovechamiento comunal"
+   ],
+   0,
+   "Art. 179.1.",
+   "l7-1999 179.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 179.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, el acuerdo de desafectación de bienes comunales requiere, previa información pública:",
+   [
+    "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación y posterior aprobación del Consejero competente del Gobierno de Aragón",
+    "El voto favorable de la mayoría simple de los miembros presentes y posterior aprobación del Consejero competente",
+    "Solo la aprobación del Alcalde, sin necesidad de información pública ni de aprobación autonómica"
+   ],
+   0,
+   "Art. 179.1 (aprobación del Consejero de Presidencia y Relaciones Institucionales).",
+   "l7-1999 179.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 179.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, si los bienes comunales desafectados fueran susceptibles de aprovechamiento agrícola, de pastos o de otro tipo, su destino preferente será:",
+   [
+    "Su arrendamiento a los vecinos del municipio, individualmente o agrupados en cooperativas o sociedades",
+    "Su venta en subasta pública, para destinar el producto a financiar gastos corrientes de la entidad",
+    "Su cesión gratuita a otras Administraciones públicas para fines de interés general"
+   ],
+   0,
+   "Art. 179.2.",
+   "l7-1999 179.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la adquisición de bienes por las entidades locales podrá tener lugar, entre otras formas:",
+   [
+    "Por atribución legal, a título oneroso, por herencia, legado o donación, por prescripción y por ocupación",
+    "Solo a título oneroso, a través de contrato, con informe pericial del valor de los inmuebles",
+    "Solo por compraventa y expropiación, quedando excluidas la herencia, el legado y la donación"
+   ],
+   0,
+   "Art. 174.2.",
+   "l7-1999 174.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, tratándose de adquisición de bienes inmuebles a título oneroso se exigirá, en todo caso:",
+   [
+    "Informe previo pericial de su valor",
+    "Informe del Consejo de Estado",
+    "Subasta pública previa"
+   ],
+   0,
+   "Art. 174.3.",
+   "l7-1999 174.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174.4 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, cuando la adquisición de bienes a título gratuito llevare aneja alguna condición o carga, sólo podrá aceptarse:",
+   [
+    "Previo expediente en que se acredite que el valor del gravamen impuesto no excede del valor de lo que se adquiera",
+    "Previa información pública de un mes, sin necesidad de acreditar el valor del gravamen impuesto",
+    "Previa autorización del Gobierno de Aragón, en todo caso, cuando se trate de bienes inmuebles"
+   ],
+   0,
+   "Art. 174.4.",
+   "l7-1999 174.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, los bienes de las Entidades locales de Aragón se clasifican en:",
+   [
+    "Bienes de dominio público y bienes patrimoniales o de propios",
+    "Bienes de uso público, de servicio público y comunales",
+    "Bienes de dominio público, patrimoniales y comunales"
+   ],
+   0,
+   "Art. 2 del Reglamento.",
+   "rbaso 2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las Entidades locales tienen plena capacidad jurídica para:",
+   [
+    "Adquirir y poseer bienes de todas las clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio",
+    "Adquirir solo bienes inmuebles, y ejercitar las acciones en defensa del patrimonio con autorización del Pleno",
+    "Poseer bienes de dominio público únicamente, quedando excluidos los bienes patrimoniales"
+   ],
+   0,
+   "Art. 1.2.",
+   "rbaso 1.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como:",
+   [
+    "Casas Consistoriales, mataderos, mercados, lonjas, hospitales, escuelas, museos, instalaciones deportivas y cementerios",
+    "Calles, plazas, paseos y parques, destinados a ser utilizados directamente por los particulares",
+    "Los bienes comunales, cuyo aprovechamiento corresponde al común de los vecinos del municipio"
+   ],
+   0,
+   "Art. 3.3.",
+   "rbaso 3.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal, se presume:",
+   [
+    "Su carácter patrimonial",
+    "Su carácter de dominio público",
+    "Su carácter comunal"
+   ],
+   0,
+   "Art. 4.3.",
+   "rbaso 4.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, se considerarán parcelas sobrantes:",
+   [
+    "Aquellas porciones de terreno propiedad de las Entidades locales que por su reducida extensión, forma irregular o emplazamiento no fueren susceptibles de uso adecuado",
+    "Los terrenos deteriorados que carezcan de utilidad para los servicios municipales por su estado de conservación",
+    "Los terrenos cedidos a particulares mediante contraprestación, aunque sean susceptibles de uso adecuado"
+   ],
+   0,
+   "Art. 5.1.",
+   "rbaso 5.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la declaración de bien no utilizable requiere procedimiento en que se acredite esta circunstancia mediante informe técnico, que será resuelto por:",
+   [
+    "El Presidente de la Entidad local, previo informe del Interventor y del Secretario o de los Letrados de los Servicios Jurídicos",
+    "El Pleno de la Corporación, previo informe del Interventor y del Secretario, tras informe técnico",
+    "La Junta de Gobierno Local, previo informe del Interventor y del Secretario, tras informe técnico"
+   ],
+   0,
+   "Art. 5.2.",
+   "rbaso 5.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, los bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública:",
+   [
+    "Serán inembargables",
+    "Serán embargables",
+    "Pasan a ser bienes comunales"
+   ],
+   0,
+   "Art. 6.3 del Reglamento.",
+   "rbaso 6.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.4 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, los Patrimonios Municipales del Suelo, como patrimonios separados, se regulan en cuanto a su constitución, bienes, destino y cesiones por:",
+   [
+    "La legislación urbanística de Aragón",
+    "La legislación de régimen local estatal",
+    "El Código Civil"
+   ],
+   0,
+   "Art. 6.4.",
+   "rbaso 6.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, los dueños de los terrenos colindantes con fincas pertenecientes a las Entidades locales o enclavadas dentro de aquéllas:",
+   [
+    "Podrán solicitar su deslinde",
+    "No tienen ninguna facultad",
+    "Podrán promover el deslinde por sí mismos"
+   ],
+   0,
+   "Art. 54.2.",
+   "rbaso 54",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la alteración expresa de la calificación jurídica de los bienes requerirá procedimiento resuelto por el Pleno, previa información pública por plazo de:",
+   [
+    "Un mes",
+    "Quince días",
+    "Veinte días"
+   ],
+   0,
+   "Art. 10.",
+   "rbaso 10",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la alteración de calificación jurídica se producirá automáticamente en el caso de:",
+   [
+    "Adquisición por cesión obligatoria con el fin de ser destinado al uso público o a la prestación de un servicio público determinado",
+    "Adscripción de bienes patrimoniales durante tres años a un servicio público determinado de la entidad",
+    "Aprobación provisional de planes urbanísticos y de proyectos de obras y servicios"
+   ],
+   0,
+   "Art. 11.1 c).",
+   "rbaso 11",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la desafectación de bienes comunales requerirá información pública por plazo de un mes y acuerdo del Pleno adoptado con el voto favorable de:",
+   [
+    "La mayoría absoluta del número legal de sus miembros, y posterior aprobación del Consejero de Presidencia y Relaciones Institucionales del Gobierno de Aragón",
+    "La mayoría simple de los presentes, y posterior aprobación del Consejero de Presidencia del Gobierno de Aragón",
+    "Los dos tercios del número legal de miembros, y posterior aprobación del Consejero competente"
+   ],
+   0,
+   "Art. 12.2.",
+   "rbaso 12",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la desafectación de bienes comunales para la posterior transmisión del dominio o su permuta requiere aprobación provisional por el Pleno por mayoría de:",
+   [
+    "Los dos tercios del número legal de miembros de la Corporación, y aprobación del Gobierno de Aragón con declaración de utilidad pública o social",
+    "La mayoría absoluta del número legal de miembros de la Corporación, y aprobación del Consejero competente",
+    "La mayoría simple, con aprobación del Gobierno de Aragón y declaración de utilidad pública o social"
+   ],
+   0,
+   "Art. 13.1 c) y d).",
+   "rbaso 13",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la mutación demanial consistente en el cambio de destino de un bien de dominio público sin alteración de su calificación jurídica requerirá acuerdo del Pleno adoptado por:",
+   [
+    "Mayoría simple, acreditando la utilidad pública del cambio de destino",
+    "Mayoría absoluta del número legal de miembros, acreditando la utilidad pública del cambio de destino",
+    "Dos tercios del número legal de miembros, acreditando la utilidad pública del cambio de destino"
+   ],
+   0,
+   "Art. 14.1.",
+   "rbaso 14.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la mutación demanial consistente en la cesión de la titularidad de un bien a otra Administración Pública, manteniendo su afección al uso o servicio público, requerirá acuerdo del Pleno con el voto favorable de:",
+   [
+    "La mayoría absoluta del número legal de sus miembros",
+    "La mayoría simple de los miembros presentes, manteniéndose la afección del bien al uso o servicio público",
+    "Los dos tercios del número legal de miembros, manteniéndose la afección del bien al servicio público"
+   ],
+   0,
+   "Art. 14.2.",
+   "rbaso 14.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la utilización de los bienes de dominio y uso público podrá adoptar las modalidades de:",
+   [
+    "Uso común (general o especial) y uso privativo",
+    "Uso general, uso especial y uso compartido, según la intensidad de la utilización del bien",
+    "Uso normal y uso anormal únicamente, según sea conforme o no con el destino principal del bien"
+   ],
+   0,
+   "Art. 72.",
+   "rbaso 72",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el uso común general es aquel que:",
+   [
+    "Puede ejercer libremente cualquier ciudadano utilizando el bien de acuerdo con su naturaleza y con las disposiciones que lo reglamenten",
+    "Exige licencia previa y se ejerce con intensidad, peligrosidad u otras circunstancias singulares",
+    "Excluye la utilización por otros interesados al ocuparse una porción del dominio público"
+   ],
+   0,
+   "Art. 73.",
+   "rbaso 73",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el uso común especial es aquel en que concurren:",
+   [
+    "Circunstancias singulares de intensidad, peligrosidad u otras similares",
+    "La ocupación exclusiva de una porción del dominio público, que limita o excluye a otros interesados",
+    "Instalaciones fijas y permanentes que dan lugar a un uso privativo agravado del bien"
+   ],
+   0,
+   "Art. 74.",
+   "rbaso 74",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el uso privativo es aquel por el que:",
+   [
+    "Se ocupa una porción del dominio público de modo que se limita o excluye la utilización por parte de otros interesados",
+    "Cualquier ciudadano utiliza el bien libremente, de acuerdo con su naturaleza y las disposiciones que lo reglamenten",
+    "Se utiliza el bien con intensidad, peligrosidad u otras circunstancias singulares que lo hacen especial"
+   ],
+   0,
+   "Art. 75.1.",
+   "rbaso 75.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el uso privativo que requiere la implantación de instalaciones fijas y permanentes se considerará:",
+   [
+    "Uso privativo agravado",
+    "Uso común especial",
+    "Uso normal"
+   ],
+   0,
+   "Art. 75.2.",
+   "rbaso 75.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.4 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, se entenderán por instalaciones desmontables aquellas que, entre otros requisitos:",
+   [
+    "Precisen a lo sumo obras puntuales de cimentación que no sobresalgan del terreno y estén constituidas por elementos de serie prefabricados, sin soldaduras ni elaboración de materiales en obra",
+    "Precisen cimentación profunda y estén construidas con elaboración de materiales en obra mediante soldaduras",
+    "Se levanten mediante demolición, y se construyan con elaboración de materiales en obra"
+   ],
+   0,
+   "Art. 75.4.",
+   "rbaso 75.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la utilización del dominio público se considera normal o anormal según sea o no:",
+   [
+    "Conforme con el destino principal del bien de que se trate",
+    "Conforme con la voluntad del titular del bien o con la autorización concedida en cada caso",
+    "Compatible con el uso simultáneo de otros particulares que utilicen el mismo bien de dominio público"
+   ],
+   0,
+   "Art. 76.",
+   "rbaso 76",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las licencias relativas a la utilización del dominio y uso público se otorgarán directamente, salvo que se limite el número de las mismas; en ese caso se otorgarán:",
+   [
+    "Previa licitación, observando reglas de publicidad y concurrencia, y si no fuere posible, mediante sorteo",
+    "Siempre por sorteo, aunque no se limite el número de licencias disponibles",
+    "Siempre por adjudicación directa, aunque se limite por cualquier circunstancia el número de licencias"
+   ],
+   0,
+   "Art. 80.1.",
+   "rbaso 80.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, no podrán otorgarse licencias de uso del dominio público por plazo superior a:",
+   [
+    "Diez años",
+    "Cinco años",
+    "Veinticinco años"
+   ],
+   0,
+   "Art. 80.3. Podrán ser revocadas en cualquier momento por motivos de interés público (80.4).",
+   "rbaso 80.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, si las Ordenanzas no determinan el carácter transmisible o intransmisible de las licencias:",
+   [
+    "Se considerarán transmisibles, salvo las concedidas en atención a cualidades personales o de número limitado",
+    "Se considerarán intransmisibles, salvo las concedidas en atención a cualidades personales",
+    "Se considerarán transmisibles en todo caso, incluso las de número limitado"
+   ],
+   0,
+   "Art. 80.2.",
+   "rbaso 80.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, corresponde a las Entidades locales regular la forma de utilización de sus bienes patrimoniales de acuerdo con criterios de:",
+   [
+    "Rentabilidad económica o social",
+    "Interés general exclusivamente",
+    "Utilidad pública única"
+   ],
+   0,
+   "Art. 99.1. La utilización puede realizarse directamente o cederse mediante contrato (99.2).",
+   "rbaso 99",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, como regla general, en la cesión de uso de bienes patrimoniales el usuario habrá de satisfacer un precio que no podrá ser inferior a:",
+   [
+    "El seis por ciento del valor en venta de los bienes",
+    "El tres por ciento del valor en venta de los bienes patrimoniales objeto de cesión",
+    "El diez por ciento del valor en venta de los bienes patrimoniales objeto de cesión"
+   ],
+   0,
+   "Art. 100.2. Se exceptúa la cesión por motivos sociales (art. 102).",
+   "rbaso 100.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, será necesaria la realización de subasta pública siempre que la duración de la cesión sea superior a cinco años o su precio exceda de:",
+   [
+    "El cinco por ciento de los recursos ordinarios del presupuesto de la Entidad local",
+    "El diez por ciento de los recursos ordinarios del presupuesto de la Entidad local",
+    "El uno por ciento de los recursos ordinarios del presupuesto de la Entidad local"
+   ],
+   0,
+   "Art. 101.1.",
+   "rbaso 101.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101.2 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, excepcionalmente, y de forma justificada, la adjudicación podrá hacerse por concurso aunque el plazo de cesión sea superior a cinco años y el precio exceda del cinco por ciento de los recursos ordinarios cuando:",
+   [
+    "El arrendamiento o cesión tenga por objeto el fomento o ejercicio de actividades económicas que redunden notoriamente en la satisfacción del interés general de los vecinos",
+    "El arrendatario sea una persona jurídica sin ánimo de lucro que realice actividades de interés social",
+    "El Pleno lo acuerde por mayoría simple, aunque no se fomenten actividades económicas de interés general"
+   ],
+   0,
+   "Art. 101.2.",
+   "rbaso 101.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, por motivos sociales, las Corporaciones podrán ceder el uso de bienes patrimoniales directamente o por concurso, de forma gratuita o con la contraprestación convenida, a:",
+   [
+    "Otras Administraciones y Entidades públicas o privadas sin ánimo de lucro para fines de utilidad pública o interés social",
+    "Cualquier empresa privada, siempre que abone una contraprestación equivalente al valor de mercado",
+    "Solo a otras Administraciones públicas, y nunca a entidades privadas sin ánimo de lucro"
+   ],
+   0,
+   "Art. 102.2. El acuerdo debe determinar la finalidad, el plazo o su carácter de cesión en precario.",
+   "rbaso 102",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.3 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el procedimiento de adjudicación de la utilización onerosa de los bienes patrimoniales de las Entidades locales podrá ser:",
+   [
+    "Subasta, concurso o procedimiento negociado sin publicidad",
+    "Solo subasta pública, quedando excluidos el concurso y el procedimiento negociado",
+    "Solo adjudicación directa, sin publicidad ni concurrencia, por razones de rentabilidad social"
+   ],
+   0,
+   "Art. 100.3.",
+   "rbaso 100.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

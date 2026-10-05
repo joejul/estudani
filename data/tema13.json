@@ -85,7 +85,51 @@
     "Anexo: plan de inversión a 4 años (166)",
     "Corrientes: servicios, intereses, transferencias corrientes · Capital: inversiones, transferencias de capital, activos/pasivos financieros"
    ],
-   "ic": "📊"
+   "ic": "📊",
+   "articulos": [
+    [
+     "trlrhl",
+     "162",
+     "Definición del presupuesto general de las entidades locales",
+     "Los **presupuestos generales** son la **expresión cifrada, conjunta y sistemática** de las **obligaciones que, como máximo, pueden reconocer** la entidad y sus organismos autónomos y de los **derechos que prevean liquidar** en el ejercicio, así como de las **previsiones de ingresos y gastos de las sociedades mercantiles** de capital íntegramente local.",
+     "¿Qué expresa cifradamente el presupuesto general de la entidad local?"
+    ],
+    [
+     "trlrhl",
+     "163",
+     "Ámbito temporal: el ejercicio coincide con el año natural",
+     "El ejercicio presupuestario **coincide con el año natural**. Se imputan a él: **a)** los **derechos liquidados** en el ejercicio, cualquiera que sea el período del que deriven; **b)** las **obligaciones reconocidas** durante el ejercicio.",
+     "¿Qué se imputa al ejercicio presupuestario: derechos liquidados y obligaciones reconocidas?"
+    ],
+    [
+     "trlrhl",
+     "164",
+     "Contenido del presupuesto general y organismos autónomos",
+     "El presupuesto general integra: **a)** el presupuesto de la **propia entidad**; **b)** los de sus **organismos autónomos**; **c)** los **estados de previsión de gastos e ingresos de las sociedades mercantiles** de capital íntegramente local. Los organismos autónomos se clasifican en **administrativos** y **comerciales, industriales, financieros o análogos**; su norma de creación indica el carácter.",
+     "¿Qué tres presupuestos se integran en el presupuesto general?"
+    ],
+    [
+     "trlrhl",
+     "165",
+     "Estados de gastos, de ingresos y bases de ejecución",
+     "El presupuesto general atiende al principio de **estabilidad** y contiene, para cada presupuesto integrante, los **estados de gastos** (créditos necesarios) y los **estados de ingresos** (estimaciones de recursos). Incluye las **bases de ejecución**, que **adaptan las disposiciones presupuestarias** a la organización de la entidad, **sin modificar lo legislado** ni incluir preceptos administrativos con procedimiento propio.",
+     "¿Qué son las bases de ejecución del presupuesto y qué no pueden hacer?"
+    ],
+    [
+     "trlrhl",
+     "166",
+     "Anexos al presupuesto general",
+     "Se unen como **anexos**: **a)** **planes y programas de inversión y financiación a cuatro años** (municipios y entidades supramunicipales); **b)** **programas anuales de actuación, inversiones y financiación** de las sociedades mercantiles; **c)** **estado de consolidación** de presupuestos; **d)** **estado de previsión de movimientos y situación de la deuda**.",
+     "¿Qué cuatro anexos acompañan al presupuesto general?"
+    ],
+    [
+     "trlrhl",
+     "167",
+     "Estructura de los estados de ingresos y gastos",
+     "El **Ministerio de Hacienda** fija la **estructura** de los presupuestos locales con criterios de **naturaleza económica** y **finalidades**. Los gastos se clasifican **por programas** (área de gasto, política de gasto, grupos de programas…) y **por naturaleza económica**; las entidades pueden clasificar también según su **estructura propia**.",
+     "¿Qué dos clasificaciones aplican los estados de gastos locales?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -193,7 +237,44 @@
     "Reclamaciones: 3 causas (170.2) · Contencioso directo (171)",
     "Zaragoza: Gobierno de Zaragoza inicia · Pleno antes del 15-oct (art. 50 Ley 10/2017)"
    ],
-   "ic": "🗳️"
+   "ic": "🗳️",
+   "articulos": [
+    [
+     "trlrhl",
+     "168",
+     "Elaboración y aprobación inicial del presupuesto por el Presidente",
+     "El presupuesto lo **forma el Presidente**, con **memoria explicativa**, **liquidación del ejercicio anterior** y avance del corriente (al menos seis meses), **anexo de personal**, **anexo de inversiones**, **anexo de beneficios fiscales**, **anexo de convenios con las CCAA** y los demás documentos legales. Luego se informa por **Intervención** y lo **aprueba inicialmente el Pleno** (texto completo del procedimiento en el oficial).",
+     "¿Quién forma el presupuesto y qué documentación debe acompañarlo?"
+    ],
+    [
+     "trlrhl",
+     "169",
+     "Exposición pública de 15 días y aprobación antes del 31-XII",
+     "Aprobado inicialmente, se **expone al público 15 días** (previo anuncio en el boletín) para **reclamaciones ante el Pleno**. Si no hay reclamaciones, **queda definitivamente aprobado**; si las hay, el Pleno tiene **un mes** para resolverlas. La **aprobación definitiva** debe hacerse **antes del 31 de diciembre** del año anterior al ejercicio. Se **inserta en el boletín oficial** (resumido por capítulos) y se **remite copia** a la Administración del Estado y a la CCAA. Entra en vigor al publicarse.",
+     "¿Cuántos días se expone el presupuesto y antes de qué fecha debe aprobarse definitivamente?"
+    ],
+    [
+     "trlrhl",
+     "170",
+     "Reclamaciones al presupuesto: interesados y causas",
+     "Son **interesados**: **a)** habitantes del territorio; **b)** **directamente afectados**; **c)** **colegios, cámaras, sindicatos, asociaciones** en defensa de intereses propios. **Solo cabe reclamar** por: **a)** **incumplir los trámites legales**; **b)** **omitir el crédito necesario** para obligaciones exigibles; **c)** **insuficiencia manifiesta de ingresos** respecto a gastos o de estos respecto a las necesidades.",
+     "¿Por qué tres causas únicamente se pueden reclamar contra el presupuesto?"
+    ],
+    [
+     "trlrhl",
+     "171",
+     "Recurso contencioso contra el presupuesto aprobado",
+     "Contra la **aprobación definitiva** cabe **directamente recurso contencioso-administrativo**. Si afecta a la **nivelación presupuestaria**, debe **informar antes el Tribunal de Cuentas**. La interposición **no suspende por sí sola** la aplicación del presupuesto.",
+     "¿Suspende la aplicación del presupuesto la interposición del recurso contencioso?"
+    ],
+    [
+     "l10-2017",
+     "50",
+     "Aprobación del presupuesto municipal de Zaragoza",
+     "El presupuesto general se tramita según el art. 48 con estas **especialidades**: la **iniciativa** corresponde al **Gobierno de Zaragoza**; **exposición pública de quince días**; se **remite al Pleno antes del 15 de octubre**; las **enmiendas que modifiquen ingresos** requieren **conformidad del Gobierno de Zaragoza**; las de **gastos** deben **compensarse** dentro de la **misma área y naturaleza**; **entra en vigor tras su publicación oficial**; si no ha entrado en vigor al iniciarse el ejercicio, **se prorroga el anterior**.",
+     "¿Antes de qué fecha se remite al Pleno el proyecto de presupuesto de Zaragoza?"
+    ]
+   ]
   },
   {
    "id": "e2",
@@ -299,12 +380,91 @@
     "Ampliables: bases de ejecución (178) · Transferencias: 179-180 · Generación: ingresos no tributarios (181) · Incorporación: ejercicio siguiente (182)",
     "Baja por anulación a 31-dic (175)"
    ],
-   "ic": "🔧"
+   "ic": "🔧",
+   "articulos": [
+    [
+     "trlrhl",
+     "172",
+     "Especialidad y carácter limitativo y vinculante de los créditos",
+     "Los créditos se destinan **exclusivamente a la finalidad específica** para la que fueron autorizados. Son **limitativos y vinculantes**; los **niveles de vinculación** son los fijados por la **legislación presupuestaria del Estado**, salvo otra disposición reglamentaria.",
+     "¿Qué carácter tienen los créditos autorizados en el presupuesto?"
+    ],
+    [
+     "trlrhl",
+     "173",
+     "Exigibilidad de las obligaciones y embargabilidad de bienes locales",
+     "Las obligaciones de pago **solo son exigibles** si resultan de la **ejecución del presupuesto** o de **sentencia firme**. **No se despachan mandamientos de ejecución ni embargos** contra derechos, fondos, valores y bienes de la hacienda local, salvo **bienes patrimoniales no afectados** a un uso o servicio público. El cumplimiento de resoluciones judiciales corresponde **solo a la entidad**; si hace falta crédito extraordinario o suplemento, se solicita al **Pleno dentro de tres meses** (texto oficial).",
+     "¿Qué bienes locales pueden ser objeto de embargo?"
+    ],
+    [
+     "trlrhl",
+     "174",
+     "Compromisos de gasto plurianual",
+     "Los gastos plurianuales se **subordinan al crédito** que autoricen los presupuestos de cada ejercicio. Pueden adquirirse compromisos para ejercicios posteriores si **su ejecución se inicia en el propio ejercicio** y son: **inversiones y transferencias de capital**; **contratos** que no puedan estipularse o resulten antieconómicos por un año; **arrendamiento de inmuebles**; **cargas financieras**; **transferencias corrientes por convenios**, entre otros (límites de porcentajes en el texto oficial).",
+     "¿Qué condición debe cumplir un gasto plurianual respecto al ejercicio en que se autoriza?"
+    ],
+    [
+     "trlrhl",
+     "175",
+     "Bajas por anulación de créditos",
+     "Los créditos que **el último día del ejercicio** no estén afectados a **obligaciones ya reconocidas** **quedan anulados de pleno derecho**, salvo las excepciones del **art. 182** (incorporaciones).",
+     "¿Qué ocurre con los créditos no comprometidos el último día del ejercicio?"
+    ],
+    [
+     "trlrhl",
+     "176",
+     "Temporalidad de los créditos: gastos del año natural",
+     "Con cargo a los créditos solo pueden contraerse **obligaciones de gastos realizados en el año natural** del ejercicio. **Excepciones** que se aplican al presupuesto vigente al reconocerse: **atrasos de personal** y **compromisos de gasto adquiridos en ejercicios anteriores** con incorporación de crédito.",
+     "¿Qué dos obligaciones de ejercicios anteriores se aplican al presupuesto vigente?"
+    ],
+    [
+     "trlrhl",
+     "177",
+     "Créditos extraordinarios y suplementos de crédito",
+     "Si hay que hacer un **gasto que no puede demorarse** y no existe crédito (**crédito extraordinario**) o es insuficiente o no ampliable (**suplemento de crédito**), el Presidente incoa el expediente; lo informa la **Intervención** y lo **aprueba el Pleno** con los **mismos trámites que el presupuesto** (información, reclamación y publicidad del art. 169). En **organismos autónomos**, lo propone el organismo y tramita la entidad local. El expediente especifica la **partida a incrementar** y los **recursos** que lo financian (texto oficial).",
+     "¿Qué órgano aprueba los créditos extraordinarios y suplementos y con qué trámites?"
+    ],
+    [
+     "trlrhl",
+     "178",
+     "Créditos ampliables: los que fijan las bases de ejecución",
+     "Son **ampliables** los créditos que **de modo taxativo y explícito** se relacionen en las **bases de ejecución**; su cuantía puede incrementarse según la **efectividad de los recursos afectados**.",
+     "¿Dónde se relacionan los créditos ampliables?"
+    ],
+    [
+     "trlrhl",
+     "179",
+     "Transferencias de crédito: régimen y competencia",
+     "Las **bases de ejecución** regulan las transferencias y el **órgano competente**. **El Pleno** aprueba las transferencias **entre distintos grupos de función**, salvo si bajas y altas afectan a **créditos de personal**. Los **organismos autónomos** pueden hacerlas con las mismas reglas. Las aprobadas por el Pleno siguen las normas de **información, reclamaciones, recursos y publicidad** de los arts. 169 a 171.",
+     "¿Qué órgano aprueba transferencias entre distintos grupos de función?"
+    ],
+    [
+     "trlrhl",
+     "180",
+     "Transferencias de crédito: límites objetivos",
+     "**No afectarán** a los **créditos ampliables** ni a los **extraordinarios** concedidos en el ejercicio; **no pueden minorarse** los créditos incrementados con suplementos o transferencias (salvo **personal**) ni los **incorporados por remanentes**; **no incrementarán** créditos minorados por otras transferencias (salvo personal). No se aplican a **imprevistos** ni en **reorganizaciones administrativas** aprobadas por el Pleno.",
+     "¿Qué créditos no pueden minorarse mediante transferencias?"
+    ],
+    [
+     "trlrhl",
+     "181",
+     "Generaciones de crédito por ingresos no tributarios",
+     "Pueden **generar crédito** los **ingresos no tributarios** derivados de: **a)** **aportaciones** de personas físicas o jurídicas para financiar gastos conjuntos; **b)** **enajenación de bienes**; **c)** **prestación de servicios**; **d)** **reembolso de préstamos**; **e)** **reintegros de pagos indebidos** del presupuesto corriente.",
+     "¿Qué cinco ingresos no tributarios generan crédito?"
+    ],
+    [
+     "trlrhl",
+     "182",
+     "Incorporaciones de crédito al ejercicio siguiente",
+     "Pueden incorporarse al presupuesto del **ejercicio siguiente**, si hay **recursos financieros suficientes**: **a)** **créditos extraordinarios, suplementos y transferencias** concedidos **en el último trimestre**; **b)** créditos de **compromisos de gasto** del art. 176.2.b); **c)** créditos por **operaciones de capital**; **d)** créditos autorizados por **recaudación de derechos afectados**. Los créditos de **proyectos con ingresos afectados** se incorporan **obligatoriamente**.",
+     "¿Qué créditos deben incorporarse obligatoriamente al ejercicio siguiente?"
+    ]
+   ]
   },
   {
    "id": "e3",
    "titulo": "Ejecución del gasto y liquidación",
-   "subtitulo": "Arts. 183 a 193 TRLRHL y arts. 52 a 67 RD 500/1990",
+   "subtitulo": "Arts. 183 a 193 TRLRHL",
    "clave": [
     "Las 4 fases del gasto (184)",
     "Autorización · Disposición · Reconocimiento · Pago",
@@ -395,7 +555,86 @@
     "Responsabilidad personal por gasto sin crédito (188)",
     "Liquidación 31-dic (191) · remanente negativo: reducir gastos (193)"
    ],
-   "ic": "💸"
+   "ic": "💸",
+   "articulos": [
+    [
+     "trlrhl",
+     "183",
+     "Régimen jurídico de la ejecución del presupuesto de gastos",
+     "La ejecución de los créditos del presupuesto de gastos se rige por la **sección de esta ley** y, complementariamente, por las **normas de cada entidad** en las **bases de ejecución del presupuesto**.",
+     "¿Dónde plasma cada entidad las normas complementarias de ejecución del presupuesto?"
+    ],
+    [
+     "trlrhl",
+     "184",
+     "Cuatro fases de gestión del gasto",
+     "La gestión del presupuesto de gastos se realiza en estas **fases**: **a)** **autorización de gasto**; **b)** **disposición o compromiso de gasto**; **c)** **reconocimiento o liquidación de la obligación**; **d)** **ordenación de pago**. Se pueden **abarcar en un solo acto dos o más fases**.",
+     "¿Cuáles son las cuatro fases de gestión del gasto y se pueden acumular?"
+    ],
+    [
+     "trlrhl",
+     "185",
+     "Competencias en gestión de gastos: Presidente o Pleno",
+     "**Autorización y disposición** de gastos: **Presidente o Pleno**, según la atribución de competencias. **Reconocimiento y liquidación de obligaciones** de gastos legalmente adquiridos: **Presidente**. Pueden **desconcentrarse o delegarse** (art. 23 LBRL) y recogerse en las **bases de ejecución**. En **organismos autónomos**, los órganos que fijen sus estatutos.",
+     "¿Quién reconoce y liquida las obligaciones derivadas de gastos legalmente adquiridos?"
+    ],
+    [
+     "trlrhl",
+     "186",
+     "Ordenación de pagos: competencia del Presidente",
+     "**Competen al Presidente** las funciones de **ordenación de pagos**. El Pleno, a propuesta del Presidente, puede crear una **unidad de ordenación de pagos**; en entidades de **más de 500.000 habitantes**, una **unidad central de tesorería**. En **organismos autónomos**, el órgano que designen sus estatutos.",
+     "¿A partir de cuántos habitantes puede crearse una unidad central de tesorería?"
+    ],
+    [
+     "trlrhl",
+     "187",
+     "Plan de disposición de fondos de la tesorería",
+     "Las **órdenes de pago** se acomodan al **plan de disposición de fondos** establecido por el **Presidente**, que **debe recoger la prioridad** de los **gastos de personal** y de las **obligaciones contraídas en ejercicios anteriores**.",
+     "¿Qué gastos tienen prioridad en el plan de disposición de fondos?"
+    ],
+    [
+     "trlrhl",
+     "188",
+     "Responsabilidad personal de ordenadores de gastos e interventores",
+     "Los **ordenadores de gastos y de pagos**, y los **interventores** cuando no adviertan por escrito su improcedencia, son **personalmente responsables** de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen **sin crédito suficiente**.",
+     "¿Quién responde personalmente de los gastos autorizados sin crédito suficiente?"
+    ],
+    [
+     "trlrhl",
+     "189",
+     "Requisitos previos a las órdenes de pago",
+     "Antes de expedir órdenes de pago hay que **acreditar documentalmente** la **realización de la prestación** o el derecho del acreedor conforme a los acuerdos que autorizaron y comprometieron el gasto. Los **perceptores de subvenciones** deben acreditar que están **al corriente de sus obligaciones fiscales** con la entidad y **justificar después** la aplicación de los fondos.",
+     "¿Qué deben acreditar los perceptores de subvenciones antes de cobrarlas?"
+    ],
+    [
+     "trlrhl",
+     "190",
+     "Pagos a justificar y anticipos de caja fija",
+     "Las órdenes de pago sin documentos justificativos son **«a justificar»**; los perceptores justifican en **máximo tres meses** y **no se expiden nuevas** a quien tenga fondos pendientes por los mismos conceptos. Para atenciones **periódicas o repetitivas**, pueden ser **anticipos de caja fija** (régimen detallado en el texto oficial).",
+     "¿En qué plazo máximo se justifican las órdenes de pago a justificar?"
+    ],
+    [
+     "trlrhl",
+     "191",
+     "Cierre del presupuesto y liquidación antes del 1 de marzo",
+     "El presupuesto se **liquida el 31 de diciembre** del año natural; los ingresos y pagos pendientes quedan a cargo de la **Tesorería**. El **remanente de tesorería** = obligaciones reconocidas y liquidadas no satisfechas, derechos pendientes de cobro y fondos líquidos a 31 de diciembre (minorando los de difícil recaudación). La liquidación se confecciona **antes del 1 de marzo** y la **aprueba el Presidente**, previo **informe de Intervención**.",
+     "¿Antes de qué fecha se confecciona la liquidación del presupuesto y quién la aprueba?"
+    ],
+    [
+     "trlrhl",
+     "192",
+     "Cierre y liquidación de los presupuestos de organismos autónomos",
+     "Se ajusta a lo del art. 191.1. La liquidación, **informada por la Intervención** del organismo y **propuesta por su órgano competente**, se remite a la **entidad local para su aprobación por el Presidente**.",
+     "¿Quién aprueba la liquidación del presupuesto de un organismo autónomo local?"
+    ],
+    [
+     "trlrhl",
+     "193",
+     "Liquidación con remanente de tesorería negativo",
+     "Con **remanente negativo**, el **Pleno** (u órgano del organismo), en la **primera sesión que celebre**, **reduce los gastos del nuevo presupuesto** por **igual cuantía** al déficit. Si no es posible, se puede **concertar una operación de crédito** por su importe (con las condiciones del art. 177.5). Si no, el presupuesto siguiente se aprueba con **superávit inicial no inferior al déficit**.",
+     "¿Qué debe hacer el Pleno en la primera sesión si hay remanente de tesorería negativo?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -906,7 +1145,10 @@
    "h-ejec",
    [
     "relevancia jurídica"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "El art. 67.1 del RD 500/1990 dice que un mismo acto podrá abarcar más de una fase, pudiendo darse los casos de:",
@@ -922,7 +1164,10 @@
    "h-ejec",
    [
     "Autorización-disposición"
-   ]
+   ],
+   {
+    "off": 1
+   }
   ],
   [
    "Serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente:",
@@ -971,6 +1216,909 @@
    [
     "remanente de tesorería negativo"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 162 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los presupuestos generales de las entidades locales constituyen:",
+   [
+    "La expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la entidad y sus organismos autónomos, y de los derechos que prevean liquidar durante el ejercicio",
+    "Una previsión orientativa de ingresos y gastos, sin carácter limitativo para la entidad local",
+    "La lista de bienes y derechos de la entidad local y de sus organismos autónomos valorados a fin de ejercicio"
+   ],
+   0,
+   "Art. 162.",
+   "trlrhl 162",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 163 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el ejercicio presupuestario coincidirá con el año natural y a él se imputarán:",
+   [
+    "Los derechos liquidados en el ejercicio, cualquiera que sea el período de que deriven, y las obligaciones reconocidas durante el ejercicio",
+    "Solo los derechos cobrados en el ejercicio, y las obligaciones efectivamente pagadas durante el mismo",
+    "Los derechos y obligaciones del ejercicio anterior pendientes de cobro y de pago a 31 de diciembre"
+   ],
+   0,
+   "Art. 163.",
+   "trlrhl 163",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 164.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el presupuesto general de las entidades locales integra:",
+   [
+    "El presupuesto de la propia entidad, los de los organismos autónomos dependientes y los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad",
+    "Solo el presupuesto de la propia entidad y los de las sociedades mercantiles de capital privado",
+    "El presupuesto de la entidad y los de las empresas con participación minoritaria de la entidad local"
+   ],
+   0,
+   "Art. 164.1.",
+   "trlrhl 164.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 164.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los organismos autónomos de las entidades locales se clasifican, a efectos presupuestarios y contables, en:",
+   [
+    "Organismos autónomos de carácter administrativo y de carácter comercial, industrial, financiero o análogo",
+    "Organismos autónomos de carácter estatal y de carácter local, según la Administración de la que dependan",
+    "Organismos autónomos permanentes y temporales, según la duración prevista en su norma de creación"
+   ],
+   0,
+   "Art. 164.2.",
+   "trlrhl 164.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 165.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el presupuesto general contendrá para cada uno de los presupuestos que en él se integren:",
+   [
+    "Los estados de gastos, los estados de ingresos y las bases de ejecución",
+    "Solo el estado de gastos, quedando fuera el estado de ingresos y las bases de ejecución",
+    "Solo el estado de ingresos y el anexo de personal, sin las bases de ejecución del presupuesto"
+   ],
+   0,
+   "Art. 165.1. Las bases de ejecución no pueden modificar lo legislado para la administración económica ni comprender preceptos de orden administrativo que requieran legislación especial.",
+   "trlrhl 165.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 166.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, se unirán como anexos al presupuesto general:",
+   [
+    "Los planes y programas de inversión y financiación a cuatro años, los programas anuales de las sociedades mercantiles, el estado de consolidación y el estado de previsión de movimientos y situación de la deuda",
+    "Solo el anexo de personal de la entidad local y el de inversiones a realizar en el ejercicio",
+    "Los convenios suscritos con otras Administraciones y la relación de beneficios fiscales en tributos locales"
+   ],
+   0,
+   "Art. 166.1.",
+   "trlrhl 166.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las entidades locales podrán clasificar los gastos e ingresos:",
+   [
+    "Atendiendo a su propia estructura, de acuerdo con sus reglamentos o decretos de organización",
+    "Solo según la estructura fijada con carácter general por el Ministerio de Hacienda, sin posible adaptación",
+    "Libremente, sin sujeción a estructura alguna, según los criterios que decida cada presidente"
+   ],
+   0,
+   "Art. 167.2. El Ministerio de Hacienda establece la estructura con carácter general (167.1).",
+   "trlrhl 167.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el presupuesto de la Entidad Local será formado por:",
+   [
+    "Su Presidente, quien unirá la documentación exigida (memoria, liquidación del ejercicio anterior y avance del corriente, anexos de personal, inversiones, etc.)",
+    "El Pleno de la corporación, que unirá la memoria y los anexos de personal e inversiones",
+    "El Interventor de la entidad local, que acompañará la liquidación del ejercicio anterior"
+   ],
+   0,
+   "Art. 168.1.",
+   "trlrhl 168.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, al presupuesto de la Entidad Local habrá de unirse, entre otra documentación, la liquidación del presupuesto del ejercicio anterior y avance de la del corriente, referida, al menos, a:",
+   [
+    "Seis meses del ejercicio corriente",
+    "Tres meses del ejercicio corriente",
+    "Nueve meses del ejercicio corriente"
+   ],
+   0,
+   "Art. 168.1 b).",
+   "trlrhl 168.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado inicialmente el presupuesto general, se expondrá al público, previo anuncio en el boletín oficial de la provincia, por:",
+   [
+    "Quince días, durante los cuales los interesados podrán examinarlo y presentar reclamaciones ante el Pleno",
+    "Treinta días, durante los cuales los interesados podrán examinarlo y presentar reclamaciones ante el Alcalde",
+    "Diez días, durante los cuales los interesados podrán examinarlo y presentar reclamaciones ante el Pleno"
+   ],
+   0,
+   "Art. 169.1. Si hay reclamaciones, el Pleno dispone de un mes para resolverlas.",
+   "trlrhl 169.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, si durante el período de exposición pública no se hubiesen presentado reclamaciones al presupuesto:",
+   [
+    "Se considerará definitivamente aprobado",
+    "Debe aprobarse por el Pleno de nuevo",
+    "Debe remitirse a la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 169.1.",
+   "trlrhl 169.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, la aprobación definitiva del presupuesto general por el Pleno habrá de realizarse:",
+   [
+    "Antes del día 31 de diciembre del año anterior al del ejercicio en que deba aplicarse",
+    "Antes del 31 de marzo del ejercicio en que deba aplicarse, una vez resueltas las reclamaciones",
+    "Antes del 1 de enero del ejercicio en que deba aplicarse, por la Junta de Gobierno Local"
+   ],
+   0,
+   "Art. 169.2.",
+   "trlrhl 169.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, tendrán la consideración de interesados para reclamar contra el presupuesto:",
+   [
+    "Los habitantes en el territorio de la entidad, los directamente afectados aunque no habiten en él, y los colegios oficiales, cámaras, sindicatos y asociaciones que defiendan intereses propios",
+    "Solo los habitantes en el territorio de la entidad local, y no los afectados que habiten fuera de él",
+    "Solo los concejales de la corporación y las asociaciones vecinales inscritas en el registro municipal"
+   ],
+   0,
+   "Art. 170.1.",
+   "trlrhl 170.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, únicamente podrán entablarse reclamaciones contra el presupuesto:",
+   [
+    "Por no haberse ajustado su elaboración y aprobación a los trámites legales, por omitir el crédito necesario para obligaciones exigibles, o por manifiesta insuficiencia de ingresos respecto a gastos o de éstos respecto a las necesidades",
+    "Por cualquier motivo que alegue el interesado, con independencia de los trámites seguidos en su aprobación",
+    "Solo por falta de publicidad del acuerdo de aprobación inicial en el boletín oficial de la provincia"
+   ],
+   0,
+   "Art. 170.2.",
+   "trlrhl 170.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, contra la aprobación definitiva del presupuesto podrá interponerse directamente:",
+   [
+    "Recurso contencioso-administrativo, en la forma y plazos de dicha jurisdicción",
+    "Recurso de alzada ante el órgano superior, en la forma y plazos de la legislación sobre procedimiento",
+    "Recurso de reposición obligatorio ante el Pleno, antes de acudir a la jurisdicción contenciosa"
+   ],
+   0,
+   "Art. 171.1. La interposición del recurso no suspende por sí sola la aplicación del presupuesto (171.3).",
+   "trlrhl 171.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, cuando la impugnación del presupuesto afecte a la nivelación presupuestaria:",
+   [
+    "El Tribunal de Cuentas deberá informar previamente a la resolución del recurso",
+    "El Consejo de Estado deberá dictaminar con carácter previo a la resolución del recurso interpuesto",
+    "La Comunidad Autónoma debe autorizar previamente la interposición del recurso contencioso-administrativo"
+   ],
+   0,
+   "Art. 171.2.",
+   "trlrhl 171.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en el presupuesto municipal de Zaragoza, el proyecto de presupuesto se remitirá al Pleno:",
+   [
+    "Antes del día quince de octubre de cada año",
+    "Antes del 31 de diciembre",
+    "Antes del 1 de julio"
+   ],
+   0,
+   "Art. 50 c) Ley 10/2017.",
+   "l10-2017 50",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, la iniciativa para la aprobación del proyecto de presupuesto general del Ayuntamiento de Zaragoza corresponde:",
+   [
+    "Al Gobierno de Zaragoza",
+    "Al Pleno",
+    "Al Alcalde en solitario"
+   ],
+   0,
+   "Art. 50 a) Ley 10/2017.",
+   "l10-2017 50",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en el presupuesto municipal de Zaragoza, las enmiendas que supongan modificación de ingresos requerirán, para su tramitación:",
+   [
+    "La conformidad del Gobierno de Zaragoza",
+    "La conformidad del Interventor",
+    "La aprobación del Gobierno de Aragón"
+   ],
+   0,
+   "Art. 50 d) Ley 10/2017.",
+   "l10-2017 50",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 172.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los créditos para gastos se destinarán exclusivamente a:",
+   [
+    "La finalidad específica para la cual hayan sido autorizados en el presupuesto o en sus modificaciones debidamente aprobadas",
+    "Cualquier gasto de la entidad local, con independencia de la finalidad para la que se autorizó el crédito",
+    "El gasto corriente únicamente, quedando excluidas las inversiones y transferencias de capital"
+   ],
+   0,
+   "Art. 172.1. Principio de especialidad.",
+   "trlrhl 172.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 172.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los créditos autorizados tienen carácter:",
+   [
+    "Limitativo y vinculante",
+    "Orientativo y ampliable",
+    "Estimativo"
+   ],
+   0,
+   "Art. 172.2.",
+   "trlrhl 172.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten:",
+   [
+    "De la ejecución de sus respectivos presupuestos, con los límites del artículo anterior, o de sentencia judicial firme",
+    "De cualquier contrato firmado por el Alcalde, aunque excedan los límites del crédito autorizado",
+    "De cualquier resolución administrativa, aunque no estén previstas en el presupuesto de la entidad"
+   ],
+   0,
+   "Art. 173.1.",
+   "trlrhl 173.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, no podrán despacharse mandamientos de ejecución ni dictarse providencias de embargo contra los derechos, fondos, valores y bienes de la hacienda local, excepto cuando se trate de:",
+   [
+    "Bienes patrimoniales no afectados a un uso o servicio público",
+    "Bienes de dominio público, siempre que no estén afectos a un servicio público esencial",
+    "Bienes comunales, salvo que los vecinos hayan dejado de aprovecharlos durante más de diez años"
+   ],
+   0,
+   "Art. 173.2.",
+   "trlrhl 173.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, podrán adquirirse compromisos por gastos que hayan de extenderse a ejercicios posteriores siempre que su ejecución se inicie en el propio ejercicio y se encuentren, entre otros, en el caso de:",
+   [
+    "Inversiones y transferencias de capital, arrendamientos de bienes inmuebles y cargas financieras de las deudas",
+    "Gastos de personal y gastos corrientes en bienes y servicios de funcionamiento ordinario",
+    "Gastos corrientes de funcionamiento ordinario y suministros que puedan estipularse por un año"
+   ],
+   0,
+   "Art. 174.2.",
+   "trlrhl 174.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los créditos para gastos que el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas:",
+   [
+    "Quedarán anulados de pleno derecho, sin más excepciones que las del artículo 182",
+    "Pasan automáticamente al ejercicio siguiente sin necesidad de acuerdo alguno de incorporación",
+    "Se incorporan al remanente de tesorería del ejercicio siguiente en su totalidad"
+   ],
+   0,
+   "Art. 175.",
+   "trlrhl 175",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 176.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, con cargo a los créditos del estado de gastos de cada presupuesto sólo podrán contraerse obligaciones derivadas de gastos que se realicen:",
+   [
+    "En el año natural del propio ejercicio presupuestario",
+    "En el año siguiente al del ejercicio presupuestario, siempre que estén comprometidos",
+    "En cualquier ejercicio, siempre que existan recursos financieros suficientes para atenderlos"
+   ],
+   0,
+   "Art. 176.1. Excepciones: atrasos de personal y compromisos de ejercicios anteriores (176.2).",
+   "trlrhl 176.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 177.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, cuando haya de realizarse un gasto que no pueda demorarse al ejercicio siguiente y no exista crédito en el presupuesto, el Presidente ordenará la incoación del expediente de:",
+   [
+    "Crédito extraordinario (y suplemento de crédito si el crédito existe pero es insuficiente o no ampliable)",
+    "Transferencia de crédito, para trasladar el crédito disponible de otra partida del mismo presupuesto",
+    "Generación de crédito, por ingresos de naturaleza no tributaria obtenidos por la entidad"
+   ],
+   0,
+   "Art. 177.1.",
+   "trlrhl 177.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 177.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el expediente de crédito extraordinario o suplemento de crédito habrá de ser previamente informado por la Intervención y se someterá a:",
+   [
+    "La aprobación del Pleno, con sujeción a los mismos trámites y requisitos que los presupuestos",
+    "La aprobación del Alcalde, previo informe de la Intervención y dando cuenta al Pleno",
+    "La aprobación de la Junta de Gobierno Local, con sujeción a los trámites de las ordenanzas"
+   ],
+   0,
+   "Art. 177.2.",
+   "trlrhl 177.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 178 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, tendrán la condición de créditos ampliables:",
+   [
+    "Aquellos que de modo taxativo y debidamente explicitados se relacionen en las bases de ejecución del presupuesto",
+    "Todos los créditos de gastos corrientes, que se declaran ampliables por ministerio de la Ley",
+    "Los que decida el Presidente en cada caso, aunque no figuren en las bases de ejecución"
+   ],
+   0,
+   "Art. 178.",
+   "trlrhl 178",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 179.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, la aprobación de las transferencias de crédito entre distintos grupos de función corresponderá:",
+   [
+    "Al Pleno de la corporación, salvo cuando las bajas y altas afecten a créditos de personal",
+    "Al Presidente en todo caso, salvo cuando las bajas y altas afecten a créditos de personal",
+    "A la Intervención, que autorizará las transferencias de crédito entre distintos grupos de función"
+   ],
+   0,
+   "Art. 179.2.",
+   "trlrhl 179.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 180.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las transferencias de créditos de cualquier clase no podrán, entre otras limitaciones:",
+   [
+    "Afectar a los créditos ampliables ni a los extraordinarios concedidos durante el ejercicio",
+    "Afectar a créditos de personal, que quedan siempre excluidos de las transferencias de crédito",
+    "Realizarse entre áreas de gasto distintas, aunque pertenezcan al mismo grupo de función"
+   ],
+   0,
+   "Art. 180.1 a).",
+   "trlrhl 180.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 181 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, podrán generar crédito en los estados de gastos los ingresos de naturaleza no tributaria derivados de:",
+   [
+    "Aportaciones de personas físicas o jurídicas, enajenaciones de bienes, prestación de servicios, reembolso de préstamos y reintegros de pagos indebidos",
+    "Los impuestos municipales recaudados por encima de las previsiones iniciales del presupuesto",
+    "Las participaciones en los tributos del Estado percibidas en exceso sobre lo presupuestado"
+   ],
+   0,
+   "Art. 181.",
+   "trlrhl 181",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 182.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, podrán incorporarse a los créditos del ejercicio inmediato siguiente, si existen recursos financieros suficientes, entre otros:",
+   [
+    "Los créditos extraordinarios, suplementos y transferencias concedidos o autorizados en el último trimestre del ejercicio y los créditos por operaciones de capital",
+    "Los créditos de personal no comprometidos al final del ejercicio, aunque no existan recursos suficientes",
+    "Los créditos no comprometidos de gastos corrientes, con independencia de su fecha de autorización"
+   ],
+   0,
+   "Art. 182.1.",
+   "trlrhl 182.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 182.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los remanentes de crédito incorporados podrán ser aplicados:",
+   [
+    "Tan sólo dentro del ejercicio presupuestario al que la incorporación se acuerde",
+    "Durante dos ejercicios presupuestarios, el de incorporación y el siguiente",
+    "Sin limitación temporal alguna, mientras permanezcan sin gastar los remanentes incorporados"
+   ],
+   0,
+   "Art. 182.2.",
+   "trlrhl 182.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las fases del procedimiento de gestión de los gastos son:",
+   [
+    "Autorización, disposición o compromiso, reconocimiento o liquidación de la obligación y ordenación de pago",
+    "Autorización, intervención, pago y justificación del gasto realizado por el órgano competente",
+    "Previsión, contratación, recepción de la prestación y pago al acreedor de la obligación"
+   ],
+   0,
+   "Art. 184.1.",
+   "trlrhl 184.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las entidades locales podrán abarcar en un solo acto administrativo:",
+   [
+    "Dos o más fases de ejecución del gasto, en la forma que reglamentariamente se establezca",
+    "Todas las fases sin límite, reglamentariamente determinadas, en un único acto administrativo",
+    "Ninguna fase, que deben tramitarse siempre por separado y en actos administrativos distintos"
+   ],
+   0,
+   "Art. 184.2.",
+   "trlrhl 184.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 185.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, corresponde la autorización y disposición de los gastos:",
+   [
+    "Al presidente o al Pleno de la entidad, de acuerdo con la atribución de competencias de la normativa vigente",
+    "Siempre al Pleno de la entidad, cualquiera que sea la atribución de competencias de la normativa",
+    "Siempre al Interventor, dentro del importe de los créditos autorizados en los presupuestos"
+   ],
+   0,
+   "Art. 185.1.",
+   "trlrhl 185.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 185.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, corresponderá al presidente de la corporación:",
+   [
+    "El reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos",
+    "La autorización de todos los gastos de la entidad, incluidos los que correspondan al Pleno",
+    "El control interno de la gestión económica, que corresponde a la Intervención de la entidad"
+   ],
+   0,
+   "Art. 185.2.",
+   "trlrhl 185.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 186.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las funciones de ordenación de pagos competen:",
+   [
+    "Al presidente de la entidad local",
+    "Al Interventor",
+    "Al Tesorero"
+   ],
+   0,
+   "Art. 186.1.",
+   "trlrhl 186.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 186.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el Pleno de las entidades locales de más de 500.000 habitantes de derecho, a propuesta del presidente, podrá crear:",
+   [
+    "Una unidad central de tesorería que ejerza las funciones de la ordenación de pagos bajo la superior autoridad del presidente",
+    "Una Junta de Contratación que ejerza las funciones de contratación bajo la autoridad del presidente",
+    "Un Consejo Económico y Social que asesore al presidente en materia de ordenación de pagos"
+   ],
+   0,
+   "Art. 186.3.",
+   "trlrhl 186.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 187 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el plan de disposición de fondos de la tesorería, establecido por el presidente, deberá recoger en todo caso:",
+   [
+    "La prioridad de los gastos de personal y de las obligaciones contraídas en ejercicios anteriores",
+    "La prioridad de los gastos derivados de la amortización de deuda del ejercicio vigente",
+    "La prioridad de las inversiones nuevas"
+   ],
+   0,
+   "Art. 187.",
+   "trlrhl 187",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 8",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 188 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente:",
+   [
+    "Los ordenadores de gastos y de pagos, y los interventores cuando no adviertan por escrito su improcedencia",
+    "Solo los ordenadores de pagos, pero no los ordenadores de gastos ni los interventores",
+    "Solo los interventores, aunque hayan advertido por escrito la improcedencia del gasto"
+   ],
+   0,
+   "Art. 188.",
+   "trlrhl 188",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 189.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, previamente a la expedición de las órdenes de pago habrá de acreditarse documentalmente:",
+   [
+    "Ante el órgano que haya de reconocer las obligaciones, la realización de la prestación o el derecho del acreedor conforme a los acuerdos que autorizaron y comprometieron el gasto",
+    "La existencia de remanente de tesorería suficiente en el momento de expedir la orden de pago",
+    "La conformidad del Interventor sobre la legalidad del gasto y la disponibilidad del crédito"
+   ],
+   0,
+   "Art. 189.1.",
+   "trlrhl 189.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 189.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los perceptores de subvenciones locales vendrán obligados a acreditar, antes de su percepción:",
+   [
+    "Que se encuentran al corriente de sus obligaciones fiscales con la entidad, y posteriormente justificar la aplicación de los fondos",
+    "Que han realizado la actividad subvencionada, y justificar después la aplicación de los fondos",
+    "Que no han recibido otras subvenciones para la misma finalidad de otras Administraciones"
+   ],
+   0,
+   "Art. 189.2.",
+   "trlrhl 189.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 190.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los perceptores de órdenes de pago a justificar quedarán obligados a justificar la aplicación de las cantidades percibidas en el plazo máximo de:",
+   [
+    "Tres meses",
+    "Seis meses",
+    "Un mes"
+   ],
+   0,
+   "Art. 190.2.",
+   "trlrhl 190.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 190.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, respecto de las órdenes de pago a justificar:",
+   [
+    "En ningún caso podrán expedirse nuevas, por los mismos conceptos presupuestarios, a perceptores que tuviesen aún en su poder fondos pendientes de justificación",
+    "Pueden expedirse nuevas aunque el perceptor tenga fondos pendientes de justificación por otros conceptos",
+    "Solo pueden expedirse una vez al año, a cada perceptor y por el mismo concepto presupuestario"
+   ],
+   0,
+   "Art. 190.2.",
+   "trlrhl 190.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 191.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, el presupuesto de cada ejercicio se liquidará, en cuanto a la recaudación de derechos y al pago de obligaciones:",
+   [
+    "El 31 de diciembre del año natural correspondiente",
+    "El 31 de marzo del ejercicio siguiente, que es la fecha de cierre y liquidación del presupuesto",
+    "El 1 de marzo del ejercicio siguiente, que es la fecha de cierre y liquidación del presupuesto"
+   ],
+   0,
+   "Art. 191.1.",
+   "trlrhl 191.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 191.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las obligaciones reconocidas y liquidadas no satisfechas el último día del ejercicio, los derechos pendientes de cobro y los fondos líquidos a 31 de diciembre configurarán:",
+   [
+    "El remanente de tesorería de la entidad local",
+    "El resultado presupuestario",
+    "El superávit inicial"
+   ],
+   0,
+   "Art. 191.2.",
+   "trlrhl 191.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 191.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las entidades locales deberán confeccionar la liquidación de su presupuesto antes del día:",
+   [
+    "Primero de marzo del ejercicio siguiente",
+    "Primero de enero del ejercicio siguiente",
+    "Treinta y uno de marzo del ejercicio siguiente"
+   ],
+   0,
+   "Art. 191.3. La aprobación de la liquidación corresponde al presidente, previo informe de la Intervención.",
+   "trlrhl 191.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 191.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, la aprobación de la liquidación del presupuesto corresponde:",
+   [
+    "Al presidente de la entidad local, previo informe de la Intervención",
+    "Al Pleno de la entidad local, previo informe de la Intervención y dando cuenta al Alcalde",
+    "A la Junta de Gobierno Local, previo informe de la Intervención de la entidad local"
+   ],
+   0,
+   "Art. 191.3.",
+   "trlrhl 191.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 192.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, la liquidación de los presupuestos de los organismos autónomos, informada por la Intervención y propuesta por el órgano competente de éstos, será remitida a la entidad local para:",
+   [
+    "Su aprobación por su presidente",
+    "Su aprobación por el Pleno",
+    "Su aprobación por el Interventor"
+   ],
+   0,
+   "Art. 192.2.",
+   "trlrhl 192.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 193.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, en caso de liquidación del presupuesto con remanente de tesorería negativo, el Pleno deberá proceder, en la primera sesión que celebre:",
+   [
+    "A la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido",
+    "A la aprobación de nuevos impuestos o a la subida de los tipos de gravamen en vigor",
+    "A solicitar un crédito de tesorería por importe igual al déficit producido en el ejercicio"
+   ],
+   0,
+   "Art. 193.1.",
+   "trlrhl 193.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 193.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, de no adoptarse ninguna de las medidas previstas en caso de remanente de tesorería negativo (reducción de gastos u operación de crédito):",
+   [
+    "El presupuesto del ejercicio siguiente habrá de aprobarse con un superávit inicial de cuantía no inferior al repetido déficit",
+    "Se prorroga el presupuesto anterior hasta que se apruebe el nuevo, con un límite de seis meses",
+    "Se disuelve el Pleno de la corporación y se convocan nuevas elecciones municipales"
+   ],
+   0,
+   "Art. 193.3.",
+   "trlrhl 193.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

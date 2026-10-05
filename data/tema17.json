@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Concepto y clases de empleados públicos",
-   "subtitulo": "Arts. 8 a 12 TREBEP",
+   "subtitulo": "Arts. 8 a 13 TREBEP",
    "clave": [
     "Concepto (art. 8.1)",
     "4 clases (art. 8.2)",
@@ -88,12 +88,56 @@
     "Interinos: vacante 3 años · sustitución · programa 3 años (+12 meses) · exceso de tareas 9 meses en 18",
     "Eventual: confianza y asesoramiento especial, no permanente"
    ],
-   "ic": "👥"
+   "ic": "👥",
+   "articulos": [
+    [
+     "trebep",
+     "8",
+     "Concepto y clases de empleados públicos",
+     "**Empleados públicos** son quienes **desempeñan funciones retribuidas en las Administraciones Públicas** al servicio de los **intereses generales**. Se clasifican en: **a)** **funcionarios de carrera**; **b)** **funcionarios interinos**; **c)** **personal laboral** (fijo, por tiempo indefinido o temporal); **d)** **personal eventual**.",
+     "¿Cuáles son las cuatro clases de empleados públicos?"
+    ],
+    [
+     "trebep",
+     "9",
+     "Funcionarios de carrera y funciones reservadas",
+     "Son funcionarios de carrera quienes, por **nombramiento legal**, están vinculados a una Administración por una **relación estatutaria** regulada por el **Derecho Administrativo** para **servicios profesionales retribuidos de carácter permanente**. Las funciones que impliquen **participación directa o indirecta en el ejercicio de potestades públicas** o en la **salvaguardia de los intereses generales** corresponden **exclusivamente a funcionarios públicos**.",
+     "¿Qué funciones corresponden exclusivamente a los funcionarios públicos?"
+    ],
+    [
+     "trebep",
+     "10",
+     "Funcionarios interinos: causas y plazos máximos",
+     "Son nombrados **con carácter temporal**, por **necesidad y urgencia justificadas**, para funciones de funcionarios de carrera en estos casos: **a)** **plazas vacantes** que no pueden cubrirse por funcionarios de carrera, **máximo tres años**; **b)** **sustitución transitoria** de titulares; **c)** **programas de carácter temporal**, **máximo tres años** (ampliable doce meses por las leyes de Función Pública); **d)** **exceso o acumulación de tareas**, **máximo nueve meses dentro de dieciocho**. Su selección es **pública** (igualdad, mérito, capacidad, publicidad y celeridad) y **no da la condición de funcionario de carrera**.",
+     "¿Cuántos meses máximo dura el nombramiento interino por exceso o acumulación de tareas?"
+    ],
+    [
+     "trebep",
+     "11",
+     "Personal laboral: contrato de trabajo y selección",
+     "Es el que presta servicios retribuidos por las Administraciones en virtud de **contrato de trabajo formalizado por escrito**; puede ser **fijo, por tiempo indefinido o temporal**. Las leyes de Función Pública fijan los **puestos** que puede desempeñar, **respetando el art. 9.2**. Su selección es **pública**, por **igualdad, mérito y capacidad** (el temporal, además, **celeridad**).",
+     "¿Cómo se formaliza el contrato del personal laboral?"
+    ],
+    [
+     "trebep",
+     "12",
+     "Personal eventual: confianza y asesoramiento especial",
+     "Es el que, por **nombramiento y con carácter no permanente**, solo realiza **funciones de confianza o asesoramiento especial**, retribuido con **créditos presupuestarios** para ese fin. **Nombramiento y cese libres**; cesa cuando cesa la autoridad a la que presta la función. **No constituye mérito** para acceder a la Función Pública ni para la promoción interna. El **número máximo y sus retribuciones son públicos**.",
+     "¿Constituye mérito para el acceso a la Función Pública ser personal eventual?"
+    ],
+    [
+     "trebep",
+     "13",
+     "Personal directivo profesional",
+     "Es el que desarrolla **funciones directivas profesionales** definidas como tales en las normas específicas de cada Administración. Su designación atiende a **mérito, capacidad e idoneidad**, con **publicidad y concurrencia**; está sujeto a **evaluación** por **eficacia y eficiencia, responsabilidad y control de resultados**. Sus **condiciones de empleo no son materia de negociación colectiva**; si es laboral, se rige por la **relación laboral especial de alta dirección**.",
+     "¿Es materia de negociación colectiva la determinación de las condiciones de empleo del personal directivo?"
+    ]
+   ]
   },
   {
    "id": "e1",
    "titulo": "Derechos de los empleados públicos",
-   "subtitulo": "Arts. 14 a 20 TREBEP",
+   "subtitulo": "Arts. 14 a 24 TREBEP",
    "clave": [
     "Derechos individuales (14)",
     "Inamovilidad del funcionario de carrera",
@@ -167,12 +211,91 @@
     "Colectivos (15): libertad sindical · negociación colectiva",
     "Carrera (16-19) · evaluación del desempeño (20)"
    ],
-   "ic": "🎖️"
+   "ic": "🎖️",
+   "articulos": [
+    [
+     "trebep",
+     "14",
+     "Derechos individuales de los empleados públicos",
+     "Entre otros: **inamovilidad** del funcionario de carrera; **desempeño efectivo** de las funciones propias de su condición; **progresión en la carrera y promoción interna** (igualdad, mérito y capacidad); **retribuciones e indemnizaciones**; **participar en los objetivos** de su unidad e **ser informado**; **defensa jurídica y protección** de la Administración; **formación continua**; **respeto a su intimidad, orientación e identidad sexual**, entre otros (lista completa en el texto oficial).",
+     "¿Qué derecho tienen los funcionarios de carrera respecto a su condición?"
+    ],
+    [
+     "trebep",
+     "15",
+     "Derechos individuales ejercidos colectivamente",
+     "Son: **a)** **libertad sindical**; **b)** **negociación colectiva** y participación en la determinación de las condiciones de trabajo; **c)** **huelga**, con **mantenimiento de los servicios esenciales**; **d)** **planteamiento de conflictos colectivos**; **e)** **reunión** (art. 46).",
+     "¿Qué cinco derechos individuales se ejercen de forma colectiva?"
+    ],
+    [
+     "trebep",
+     "16",
+     "Carrera profesional: concepto y modalidades",
+     "Los funcionarios de carrera tienen derecho a la **promoción profesional**. La **carrera profesional** es el **conjunto ordenado de oportunidades de ascenso y expectativas de progreso** (igualdad, mérito y capacidad). Modalidades: **carrera horizontal** (progresión de grado sin cambiar de puesto), **carrera vertical** (ascenso en la estructura de puestos), **promoción interna vertical** y **promoción interna horizontal** (texto oficial).",
+     "¿Qué es la carrera horizontal?"
+    ],
+    [
+     "trebep",
+     "17",
+     "Carrera horizontal: grados, categorías o escalones",
+     "Se articula un **sistema de grados, categorías o escalones** con **remuneración propia**, con **ascensos consecutivos** (salvo excepciones). Se valora la **trayectoria y actuación profesional, calidad de los trabajos, conocimientos y evaluación del desempeño**.",
+     "¿Qué se valora para ascender en la carrera horizontal?"
+    ],
+    [
+     "trebep",
+     "18",
+     "Promoción interna: requisitos y dos años de antigüedad",
+     "Se realiza mediante **procesos selectivos** con **igualdad, mérito y capacidad**. Los funcionarios deben **poseer los requisitos de ingreso**, tener **al menos dos años de servicio activo** en el inferior Subgrupo (o Grupo) y **superar las pruebas**. Las Administraciones adoptan **medidas que incentiven** la participación.",
+     "¿Cuántos años de servicio activo en el inferior subgrupo exige la promoción interna?"
+    ],
+    [
+     "trebep",
+     "19",
+     "Carrera y promoción del personal laboral",
+     "El personal laboral tiene **derecho a la promoción profesional**, que se hace efectiva por los procedimientos del **Estatuto de los Trabajadores** o de los **convenios colectivos**.",
+     "¿Qué normas regulan la promoción del personal laboral?"
+    ],
+    [
+     "trebep",
+     "20",
+     "Evaluación del desempeño",
+     "Es el **procedimiento que mide y valora la conducta profesional y el rendimiento o logro de resultados**. Los sistemas respetan **transparencia, objetividad, imparcialidad y no discriminación**. La evaluación influye en la **carrera horizontal, la formación, la provisión de puestos y las retribuciones complementarias**; la continuidad en un puesto obtenido por **concurso** se vincula a ella, con **audiencia** al interesado.",
+     "¿Qué mide y valora la evaluación del desempeño?"
+    ],
+    [
+     "trebep",
+     "21",
+     "Determinación de cuantías y de incrementos retributivos",
+     "Las **retribuciones básicas**, el incremento de las **complementarias** y la **masa salarial del personal laboral** se reflejan en la **ley de presupuestos**. No se pueden acordar incrementos globales de la masa salarial superiores a los **límites de la Ley de Presupuestos Generales del Estado**.",
+     "¿Dónde se reflejan las cuantías de las retribuciones básicas?"
+    ],
+    [
+     "trebep",
+     "22",
+     "Retribuciones de los funcionarios: básicas, complementarias y pagas extra",
+     "Se clasifican en **básicas y complementarias**. Las **básicas** retribuyen según el **Subgrupo o Grupo** de clasificación y la **antigüedad** (sueldo y trienios, incluidos en pagas extraordinarias). Las **complementarias** retribuyen **características del puesto, carrera o desempeño**. Hay **dos pagas extraordinarias al año**, cada una de **una mensualidad de básicas** y de la **totalidad de las complementarias** (salvo las de los apartados c y d del art. 24). **No se puede percibir participación en tributos** ni **en multas** como contraprestación.",
+     "¿Cuántas pagas extraordinarias hay al año y qué importe tiene cada una?"
+    ],
+    [
+     "trebep",
+     "23",
+     "Retribuciones básicas: sueldo y trienios",
+     "Se fijan en la **Ley de Presupuestos Generales del Estado** y comprenden **única y exclusivamente**: **a)** el **sueldo** del Subgrupo o Grupo; **b)** los **trienios**, cantidad igual para cada Subgrupo por **cada tres años de servicio**.",
+     "¿Qué dos conceptos integran únicamente las retribuciones básicas?"
+    ],
+    [
+     "trebep",
+     "24",
+     "Retribuciones complementarias: factores",
+     "Se establecen por las leyes de cada Administración atendiendo, entre otros, a: **a)** **progresión alcanzada** en la carrera administrativa; **b)** **especial dificultad técnica, responsabilidad, dedicación o incompatibilidad** del puesto o condiciones del trabajo; **c)** **interés, iniciativa o esfuerzo** y rendimiento; **d)** **servicios extraordinarios** fuera de la jornada normal.",
+     "¿Qué cuatro factores determinan las retribuciones complementarias?"
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "Deberes y representación",
-   "subtitulo": "Arts. 52 a 54 y 39 TREBEP",
+   "subtitulo": "Arts. 39 y 52 a 54 TREBEP",
    "clave": [
     "Principios del Código de Conducta (52)",
     "Delegados de Personal (6 a 49)",
@@ -231,7 +354,40 @@
     "Deberes: diligencia, intereses generales, Código de Conducta (52)",
     "Representación: 6-49 → Delegados (1 hasta 30; 3 de 31 a 49) · ≥ 50 → Junta de Personal (39)"
    ],
-   "ic": "🤝"
+   "ic": "🤝",
+   "articulos": [
+    [
+     "trebep",
+     "39",
+     "Órganos de representación: Delegados y Juntas de Personal",
+     "Los **órganos específicos de representación de los funcionarios** son los **Delegados de Personal** y las **Juntas de Personal**. Con **6 a 49 funcionarios**: **Delegados de Personal** (hasta 30, **uno**; de 31 a 49, **tres**, con representación conjunta y mancomunada). Las **Juntas de Personal** se constituyen en unidades electorales con **censo mínimo de 50 funcionarios**.",
+     "¿A partir de cuántos funcionarios se constituyen Juntas de Personal?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "trebep",
+     "52",
+     "Deberes de los empleados públicos y Código de Conducta",
+     "Deben **desempeñar con diligencia** las tareas y **velar por los intereses generales** con sujeción a la Constitución y al ordenamiento, y actuar con arreglo a los principios de: **objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres**. Informan la interpretación del **régimen disciplinario**.",
+     "¿Qué principios inspiran el Código de Conducta de los empleados públicos?"
+    ],
+    [
+     "trebep",
+     "53",
+     "Principios éticos de los empleados públicos",
+     "**Respetar la Constitución y el ordenamiento**; perseguir la **satisfacción de los intereses generales** con **imparcialidad**; actuar con **lealtad y buena fe**; **respetar los derechos fundamentales** evitando discriminación; **abstenerse** en asuntos con interés personal y evitar **conflictos de intereses**; no aceptar situaciones de privilegio; y los demás del texto oficial.",
+     "¿Cuándo deben abstenerse los empleados públicos?"
+    ],
+    [
+     "trebep",
+     "54",
+     "Principios de conducta de los empleados públicos",
+     "Entre otros: **atención y respeto** a ciudadanos, superiores y compañeros; **diligencia y cumplimiento de jornada y horario**; **obedecer instrucciones y órdenes profesionales**, **salvo infracción manifiesta del ordenamiento** (se comunica a los órganos de inspección); **informar a los ciudadanos**; **administrar con austeridad** los bienes públicos; **rechazar regalos** que excedan los usos habituales; **garantizar la permanencia de documentos**; **mantener actualizada su formación** (resto en el texto oficial).",
+     "¿Cuándo no deben obedecer los empleados públicos las órdenes de sus superiores?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -583,6 +739,773 @@
    [
     "tres"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 8.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, son empleados públicos:",
+   [
+    "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+    "Solo los funcionarios de carrera y los funcionarios interinos que desempeñen funciones públicas",
+    "Quienes trabajan en cualquier empresa o entidad participada por la Administración con capital público"
+   ],
+   0,
+   "Art. 8.1.",
+   "trebep 8.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos se clasifican en:",
+   [
+    "Funcionarios de carrera, funcionarios interinos, personal laboral (fijo, indefinido o temporal) y personal eventual",
+    "Funcionarios de carrera, funcionarios interinos y personal directivo, con exclusión del laboral",
+    "Funcionarios y personal contratado, sin distinguir entre personal laboral y personal eventual"
+   ],
+   0,
+   "Art. 8.2. El personal directivo se regula aparte (art. 13).",
+   "trebep 8.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, son funcionarios de carrera quienes:",
+   [
+    "En virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente",
+    "Están vinculados por contrato de trabajo indefinido a una Administración Pública, con carácter permanente",
+    "Son nombrados para funciones de confianza o asesoramiento especial, con carácter no permanente"
+   ],
+   0,
+   "Art. 9.1.",
+   "trebep 9.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales corresponde:",
+   [
+    "Exclusivamente a los funcionarios públicos",
+    "A funcionarios y personal laboral indistintamente",
+    "A cualquier empleado público"
+   ],
+   0,
+   "Art. 9.2.",
+   "trebep 9.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, son funcionarios interinos los nombrados con carácter temporal por razones de necesidad y urgencia, entre otras circunstancias, para:",
+   [
+    "La cobertura de plazas vacantes cuando no sea posible por funcionarios de carrera, por un máximo de tres años",
+    "Funciones de confianza o asesoramiento especial, por el tiempo que dure el mandato de la autoridad",
+    "Dirigir servicios públicos con carácter profesional, previa evaluación del desempeño de su gestión"
+   ],
+   0,
+   "Art. 10.1 a).",
+   "trebep 10.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el nombramiento de funcionarios interinos por exceso o acumulación de tareas podrá hacerse por un plazo máximo de:",
+   [
+    "Nueve meses, dentro de un período de dieciocho meses",
+    "Seis meses, dentro de un período de doce meses, por razones de exceso o acumulación de tareas",
+    "Un año, dentro de un período de dos años, por razones de exceso o acumulación de tareas"
+   ],
+   0,
+   "Art. 10.1 d).",
+   "trebep 10.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los programas de carácter temporal que justifican el nombramiento de interinos no podrán tener una duración superior a:",
+   [
+    "Tres años, ampliable hasta doce meses más por las leyes de Función Pública",
+    "Dos años, sin ampliación posible por las leyes de Función Pública de desarrollo del Estatuto",
+    "Cinco años, ampliable hasta dieciocho meses más por las leyes de Función Pública"
+   ],
+   0,
+   "Art. 10.1 c).",
+   "trebep 10.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los procedimientos de selección del personal funcionario interino serán públicos, regidos por los principios de:",
+   [
+    "Igualdad, mérito, capacidad, publicidad y celeridad; el nombramiento nunca dará lugar a la condición de funcionario de carrera",
+    "Libre designación y confianza política, con nombramiento directo por el órgano competente",
+    "Igualdad y mérito únicamente, y el nombramiento puede dar lugar a la condición de funcionario de carrera"
+   ],
+   0,
+   "Art. 10.2.",
+   "trebep 10.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, es personal laboral el que:",
+   [
+    "En virtud de contrato de trabajo formalizado por escrito presta servicios retribuidos por las Administraciones Públicas; según su duración podrá ser fijo, por tiempo indefinido o temporal",
+    "Está vinculado por nombramiento legal a la Administración mediante una relación estatutaria",
+    "Realiza funciones expresamente calificadas de confianza o asesoramiento especial, con carácter no permanente"
+   ],
+   0,
+   "Art. 11.1.",
+   "trebep 11.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, es personal eventual el que:",
+   [
+    "En virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial",
+    "Sustituye de forma transitoria a los funcionarios de carrera durante el tiempo estrictamente necesario",
+    "Presta servicios mediante contrato laboral temporal, retribuido con cargo a créditos de personal laboral"
+   ],
+   0,
+   "Art. 12.1.",
+   "trebep 12.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso:",
+   [
+    "Cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento",
+    "Al cumplirse un año desde su nombramiento, salvo que la autoridad acuerde su prórroga expresa",
+    "Al finalizar el ejercicio presupuestario en el que fue nombrado, por falta de consignación"
+   ],
+   0,
+   "Art. 12.3.",
+   "trebep 12.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la condición de personal eventual:",
+   [
+    "No podrá constituir mérito para el acceso a la Función Pública o para la promoción interna",
+    "Puntúa como mérito en la promoción interna y en el acceso a la Función Pública",
+    "Da derecho a consolidar una plaza de funcionario de carrera tras tres años de servicios"
+   ],
+   0,
+   "Art. 12.4.",
+   "trebep 12.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el personal directivo es el que:",
+   [
+    "Desarrolla funciones directivas profesionales en las Administraciones Públicas, designado por mérito, capacidad e idoneidad con publicidad y concurrencia y sujeto a evaluación por eficacia, eficiencia y resultados",
+    "Es nombrado libremente por confianza política, sin sujeción a principios de mérito ni a evaluación",
+    "Es siempre personal eventual, nombrado y cesado libremente por la autoridad de la que depende"
+   ],
+   0,
+   "Art. 13.1 a 3.",
+   "trebep 13",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la determinación de las condiciones de empleo del personal directivo:",
+   [
+    "No tendrá la consideración de materia objeto de negociación colectiva; si es personal laboral, estará sometido a la relación laboral especial de alta dirección",
+    "Es materia objeto de negociación colectiva, fijándose en el acuerdo con las organizaciones sindicales",
+    "Se fija en el convenio colectivo aplicable, y si es laboral estará sometido a la relación laboral común"
+   ],
+   0,
+   "Art. 13.4.",
+   "trebep 13.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, tienen los empleados públicos derecho, entre otros, de carácter individual:",
+   [
+    "A la inamovilidad en la condición de funcionario de carrera y a la progresión en la carrera profesional y promoción interna",
+    "A la huelga y a la libertad sindical, que se ejercen de forma individual por cada empleado",
+    "A la negociación colectiva y a la participación en la determinación de las condiciones de trabajo"
+   ],
+   0,
+   "Art. 14 a) y c). La huelga y la negociación son derechos individuales de ejercicio colectivo (art. 15).",
+   "trebep 14",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración Pública:",
+   [
+    "En los procedimientos ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos",
+    "Solo en el orden penal, cuando el empleado sea querellado por actuaciones de su cargo",
+    "Solo en el orden contencioso-administrativo, en los recursos contra actos de la Administración"
+   ],
+   0,
+   "Art. 14 f).",
+   "trebep 14",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos tienen derecho a la formación continua y a la actualización permanente de sus conocimientos:",
+   [
+    "Preferentemente en horario laboral",
+    "Exclusivamente fuera del horario laboral",
+    "Solo si la Administración lo ofrece"
+   ],
+   0,
+   "Art. 14 g).",
+   "trebep 14",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, son derechos individuales de los empleados públicos que se ejercen de forma colectiva:",
+   [
+    "La libertad sindical, la negociación colectiva, el ejercicio de la huelga con mantenimiento de servicios esenciales, el planteamiento de conflictos colectivos y la reunión",
+    "La inamovilidad en la condición de funcionario de carrera y la progresión en la carrera profesional",
+    "La formación continua y la defensa jurídica y protección de la Administración Pública"
+   ],
+   0,
+   "Art. 15.",
+   "trebep 15",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la carrera profesional es:",
+   [
+    "El conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad",
+    "El conjunto de retribuciones complementarias que se perciben por el desempeño del puesto de trabajo",
+    "El ascenso automático por antigüedad dentro de la estructura de puestos de trabajo"
+   ],
+   0,
+   "Art. 16.2.",
+   "trebep 16.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la carrera horizontal consiste en:",
+   [
+    "La progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo",
+    "El ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos",
+    "El acceso a cuerpos o escalas de un Subgrupo superior mediante procesos selectivos de promoción"
+   ],
+   0,
+   "Art. 16.3 a). La vertical es el ascenso en la estructura de puestos (b).",
+   "trebep 16.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la promoción interna vertical consiste en:",
+   [
+    "El ascenso desde un cuerpo o escala de un Subgrupo o Grupo a otro superior",
+    "El acceso a cuerpos o escalas del mismo Subgrupo profesional, mediante procesos selectivos",
+    "La progresión de escalón o categoría sin necesidad de cambiar de puesto de trabajo"
+   ],
+   0,
+   "Art. 16.3 c). La horizontal: acceso a cuerpos del mismo Subgrupo (d).",
+   "trebep 16.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, en la carrera horizontal se articulará:",
+   [
+    "Un sistema de grados, categorías o escalones de ascenso, fijándose la remuneración de cada uno, siendo los ascensos consecutivos con carácter general",
+    "Un sistema de libre designación que permita asignar discrecionalmente los grados y categorías",
+    "Un sistema de ascensos por antigüedad exclusivamente, sin valorar la trayectoria ni la evaluación"
+   ],
+   0,
+   "Art. 17 a).",
+   "trebep 17",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, para la promoción interna los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de al menos:",
+   [
+    "Dos años de servicio activo en el inferior Subgrupo o Grupo y superar las pruebas selectivas",
+    "Un año de servicio activo en el inferior Subgrupo o Grupo y superar las correspondientes pruebas",
+    "Cinco años de servicio activo en cualquier Administración Pública y superar las pruebas selectivas"
+   ],
+   0,
+   "Art. 18.2.",
+   "trebep 18.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la carrera profesional y la promoción del personal laboral se hará efectiva:",
+   [
+    "A través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos",
+    "Según las leyes de Función Pública que se dicten en desarrollo del Estatuto, como para funcionarios",
+    "Mediante libre designación con convocatoria pública, como en el caso de los puestos de confianza"
+   ],
+   0,
+   "Art. 19.2.",
+   "trebep 19",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la evaluación del desempeño es:",
+   [
+    "El procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados",
+    "El procedimiento de selección del personal, mediante pruebas de conocimientos y valoración de méritos",
+    "La valoración de méritos que se realiza para el ascenso de grupo mediante promoción interna"
+   ],
+   0,
+   "Art. 20.1.",
+   "trebep 20.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de:",
+   [
+    "Transparencia, objetividad, imparcialidad y no discriminación",
+    "Eficacia y jerarquía, aplicándose solo a los puestos de trabajo obtenidos por concurso",
+    "Mérito y capacidad, aplicándose a todos los empleados con carácter anual y obligatorio"
+   ],
+   0,
+   "Art. 20.2.",
+   "trebep 20.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deberán reflejarse para cada ejercicio presupuestario en:",
+   [
+    "La correspondiente ley de presupuestos",
+    "El convenio colectivo",
+    "La relación de puestos de trabajo"
+   ],
+   0,
+   "Art. 21.1.",
+   "trebep 21.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las retribuciones de los funcionarios de carrera se clasifican en:",
+   [
+    "Básicas y complementarias",
+    "Fijas y variables",
+    "Ordinarias y extraordinarias"
+   ],
+   0,
+   "Art. 22.1.",
+   "trebep 22.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las pagas extraordinarias serán:",
+   [
+    "Dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las complementarias, salvo las de los apartados c) y d) del artículo 24",
+    "Tres al año, cada una por el importe de una mensualidad de retribuciones básicas y complementarias",
+    "Una al año, por el importe de una mensualidad de retribuciones básicas y de las complementarias"
+   ],
+   0,
+   "Art. 22.4.",
+   "trebep 22.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.5 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, no podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio:",
+   [
+    "Ni participación o premio en multas impuestas, aunque estuviesen normativamente atribuidas a los servicios",
+    "Salvo que lo prevea la ordenanza fiscal o reglamento de la entidad correspondiente",
+    "Salvo las multas de tráfico, que podrán atribuirse a los agentes que las impongan"
+   ],
+   0,
+   "Art. 22.5.",
+   "trebep 22.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por:",
+   [
+    "El sueldo asignado a cada Subgrupo o Grupo y los trienios",
+    "El sueldo, los trienios y el complemento de destino",
+    "El sueldo y el complemento específico"
+   ],
+   0,
+   "Art. 23.",
+   "trebep 23",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los trienios consisten en:",
+   [
+    "Una cantidad, igual para cada Subgrupo o Grupo, por cada tres años de servicio",
+    "Una cantidad variable según el puesto de trabajo que se desempeñe, por cada tres años de servicio",
+    "Un complemento por rendimiento que retribuye los servicios extraordinarios fuera de la jornada"
+   ],
+   0,
+   "Art. 23 b).",
+   "trebep 23",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la cuantía y estructura de las retribuciones complementarias se establecerán atendiendo, entre otros, a los factores de:",
+   [
+    "Progresión en la carrera, especial dificultad técnica o responsabilidad, grado de interés e iniciativa o rendimiento y servicios extraordinarios fuera de la jornada normal",
+    "Solo la antigüedad del funcionario en el cuerpo o escala al que pertenezca",
+    "Solo el sueldo base asignado a cada Subgrupo, sin tener en cuenta los puestos de trabajo"
+   ],
+   0,
+   "Art. 24 a) a d).",
+   "trebep 24",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los órganos específicos de representación de los funcionarios son:",
+   [
+    "Los Delegados de Personal y las Juntas de Personal",
+    "Los Comités de Empresa y las Juntas de Personal, según el número de empleados de la unidad",
+    "Los Sindicatos más representativos y los Delegados de Personal de las unidades electorales"
+   ],
+   0,
+   "Art. 39.1.",
+   "trebep 39.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, en las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponderá a:",
+   [
+    "Los Delegados de Personal (uno hasta 30 funcionarios y tres de 31 a 49)",
+    "La Junta de Personal, que se constituirá en las unidades con censo igual o superior a 6 funcionarios",
+    "El Comité de Empresa, elegido por todos los empleados públicos de la unidad electoral"
+   ],
+   0,
+   "Art. 39.2.",
+   "trebep 39.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de:",
+   [
+    "50 funcionarios",
+    "100 funcionarios",
+    "25 funcionarios"
+   ],
+   0,
+   "Art. 39.3.",
+   "trebep 39.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, de 50 a 100 funcionarios, la Junta de Personal estará compuesta por:",
+   [
+    "5 representantes",
+    "9 representantes",
+    "3 representantes"
+   ],
+   0,
+   "Art. 39.5. De 101 a 250: 9; de 251 a 500: 13; de 501 a 750: 17; de 751 a 1.000: 21.",
+   "trebep 39.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos deberán desempeñar con diligencia las tareas asignadas y velar por los intereses generales, actuando con arreglo a los principios de:",
+   [
+    "Objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres",
+    "Jerarquía, eficacia y coordinación, con sujeción plena a la Constitución y al resto del ordenamiento",
+    "Legalidad, publicidad y concurrencia, en el desempeño de las tareas que tengan asignadas"
+   ],
+   0,
+   "Art. 52.",
+   "trebep 52",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5:",
+   [
+    "Se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada que pueda suponer riesgo de conflicto de intereses",
+    "Intervendrán en todos los asuntos de su unidad aunque tengan en ellos un interés personal",
+    "Ejercerán sin limitación actividades privadas, con independencia del riesgo de conflicto de intereses"
+   ],
+   0,
+   "Art. 53.5.",
+   "trebep 53.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos ajustarán su actuación a los principios de:",
+   [
+    "Lealtad y buena fe con la Administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos",
+    "Jerarquía y obediencia debida, que prevalecen sobre cualquier otra consideración en su actuación",
+    "Eficacia y celeridad en la tramitación, sin atender a la lealtad con superiores y compañeros"
+   ],
+   0,
+   "Art. 53.3.",
+   "trebep 53.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, tratarán con atención y respeto:",
+   [
+    "A los ciudadanos, a sus superiores y a los restantes empleados públicos",
+    "Solo a los ciudadanos, que son los destinatarios de la actividad de la Administración",
+    "Solo a sus superiores jerárquicos, a quienes deben obediencia y respeto en el desempeño"
+   ],
+   0,
+   "Art. 54.1.",
+   "trebep 54.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que constituyan:",
+   [
+    "Una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes",
+    "Delito o infracción administrativa",
+    "Una infracción penal"
+   ],
+   0,
+   "Art. 54.3.",
+   "trebep 54.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 38",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.5 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos administrarán los recursos y bienes públicos:",
+   [
+    "Con austeridad, sin utilizarlos en provecho propio o de personas allegadas, y velando por su conservación",
+    "Con libertad de uso personal moderado, siempre que no perjudique el servicio público",
+    "Con los criterios de su superior jerárquico, sin que exista deber de velar por su conservación"
+   ],
+   0,
+   "Art. 54.5.",
+   "trebep 54.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.6 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, respecto a regalos y favores, los empleados públicos:",
+   [
+    "Rechazarán cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía, sin perjuicio del Código Penal",
+    "Podrán aceptar regalos de cualquier valor, siempre que se comuniquen posteriormente al superior",
+    "Solo podrán aceptar regalos con autorización de su superior, aunque excedan los usos de cortesía"
+   ],
+   0,
+   "Art. 54.6.",
+   "trebep 54.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.9 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los empleados públicos:",
+   [
+    "Observarán las normas sobre seguridad y salud laboral y mantendrán actualizada su formación y cualificación",
+    "Quedan eximidos de las normas de seguridad laboral, que solo vinculan al personal laboral",
+    "Solo se formarán por iniciativa de la Administración, sin deber de mantener actualizada su cualificación"
+   ],
+   0,
+   "Art. 54.8 y 9.",
+   "trebep 54.9",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

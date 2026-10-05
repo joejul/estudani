@@ -74,7 +74,37 @@
     "Motivación: limitan derechos, revisión y recursos, separación de precedentes, suspensión, urgencia, pruebas rechazadas, sancionadores, discrecionales (35)",
     "Forma electrónica (36) · inderogabilidad singular (37)"
    ],
-   "ic": "✅"
+   "ic": "✅",
+   "articulos": [
+    [
+     "lpac",
+     "34",
+     "Órgano competente, procedimiento y contenido del acto",
+     "Los actos se dictan **de oficio o a instancia del interesado** por el **órgano competente**, ajustándose a los **requisitos y al procedimiento** establecido. Su **contenido** debe respetar el **ordenamiento jurídico** y ser **determinado y adecuado a sus fines**.",
+     "¿Qué tres condiciones deben cumplir los actos: quién los dicta, cómo y qué contienen?"
+    ],
+    [
+     "lpac",
+     "35",
+     "Qué actos deben motivarse con hechos y fundamentos",
+     "Hay que **motivar** (con **sucinta referencia de hechos y fundamentos de derecho**): **a)** los que **limitan derechos o intereses legítimos**; **b)** los que resuelven **revisión de oficio, recursos y arbitraje**, y los que **inadmiten**; **c)** los que **se separan del criterio anterior** o de un **dictamen consultivo**; **d)** **suspensión de actos** y **medidas provisionales**; **e)** **tramitación de urgencia, ampliación de plazos** y **actuaciones complementarias**; **f)** los que **rechazan pruebas**; **g)** **terminación por imposibilidad material sobrevenida** y **desistimiento de la Administración** en procedimientos de oficio; **h)** **propuestas de resolución sancionadoras** y resoluciones **sancionadoras o de responsabilidad patrimonial**; **i)** actos de **potestades discrecionales**. En procedimientos **selectivos o de concurrencia competitiva**, la motivación sigue lo que digan las **bases de la convocatoria**.",
+     "Cita al menos cinco tipos de actos que obligatoriamente se motivan."
+    ],
+    [
+     "lpac",
+     "36",
+     "Forma de los actos: escrito, electrónico o verbal",
+     "Los actos se producen **por escrito y por medios electrónicos**, salvo que su naturaleza exija otra forma. Si el órgano actúa **verbalmente**, la **constancia escrita** la hace y **firma** el titular del órgano inferior o funcionario que la reciba, indicando la autoridad de la que procede; si son **resoluciones**, el titular autoriza una **relación** de las dictadas verbalmente. Una **serie de actos de la misma naturaleza** (nombramientos, concesiones, licencias) puede **refundirse en un único acto**.",
+     "¿Qué se hace cuando un órgano ejerce su competencia de forma verbal?"
+    ],
+    [
+     "lpac",
+     "37",
+     "Una resolución particular no puede vulnerar una norma general",
+     "Las **resoluciones de carácter particular no pueden vulnerar** una **disposición de carácter general**, **aunque las dicte un órgano de igual o superior jerarquía** al que la aprobó. Las que lo hagan son **nulas**.",
+     "¿Puede una resolución particular saltarse un reglamento si la dicta el mismo órgano que lo aprobó?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -150,7 +180,72 @@
     "Notificación ≤ 10 días con texto íntegro, vía administrativa, recursos, órgano y plazo (40)",
     "Electrónica: rechazo a 10 días naturales (43) · Papel: 2 intentos, 3 horas de margen (42) · BOE si infructuosa (44)"
    ],
-   "ic": "📬"
+   "ic": "📬",
+   "articulos": [
+    [
+     "lpac",
+     "38",
+     "Los actos administrativos son ejecutivos",
+     "Los actos de las Administraciones sujetos al **Derecho Administrativo** son **ejecutivos**: se pueden **cumplir y hacer cumplir** conforme a la ley, sin esperar a que nadie los confirme.",
+     "¿Qué quiere decir que un acto administrativo es ejecutivo?"
+    ],
+    [
+     "lpac",
+     "39",
+     "Presunción de validez, eficacia y retroactividad de los actos",
+     "Los actos se **presumen válidos** y producen efectos **desde la fecha en que se dictan**, salvo que digan otra cosa. La **eficacia se demora** cuando lo exige el contenido o depende de **notificación, publicación o aprobación superior**. Solo **excepcionalmente** tienen **eficacia retroactiva**: si **sustituyen a actos anulados** o son **favorables** al interesado, siempre que los hechos ya existieran y no se lesionen derechos de otros. Los actos de un órgano **obligan al resto** aunque no dependan de él o sean de otra Administración. Si una Administración debe dictar un acto basado en otro **ilegal** de otra Administración, puede **requerirla** para que lo anule (art. 44 LJCA) y, si rechaza, **recurrir** ante el contencioso; el procedimiento **queda suspendido**.",
+     "¿Cuándo pueden tener eficacia retroactiva los actos administrativos?"
+    ],
+    [
+     "lpac",
+     "40",
+     "Notificación: plazo y contenido obligatorio",
+     "Se **notifican** a los interesados **cuyos derechos o intereses se vean afectados**. La notificación debe cursarse **en diez días** desde que se dicta el acto y contener: **texto íntegro**, si **pone fin o no a la vía administrativa**, **recursos** que caben (administrativos y judiciales), **órgano** ante el que presentarlos y **plazo**. Si lleva el texto íntegro pero **omite alguno de los demás requisitos**, surte efecto **desde que el interesado actúa** mostrando conocimiento o **interpone un recurso**. Para cumplir el **plazo máximo del procedimiento** basta el **texto íntegro y un intento de notificación acreditado**. Se pueden adoptar medidas de **protección de datos personales** si hay varios destinatarios.",
+     "¿En qué plazo debe cursarse una notificación y qué debe contener?"
+    ],
+    [
+     "lpac",
+     "41",
+     "Condiciones generales de las notificaciones: electrónicas y en papel",
+     "Se practican **preferentemente por medios electrónicos** y, **en todo caso**, a quienes estén **obligados**. Pueden hacerse **en papel** si el interesado **comparece espontáneamente** en la oficina de asistencia en materia de registros y **pide la notificación personal**, o si para asegurar la eficacia hace falta **entrega directa de un empleado público**. Son **válidas** si dejan constancia de **envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro y identidad fidedigna** de remitente y destinatario. Los **no obligados** pueden **elegir o dejar** lo electrónico en cualquier momento. **Nunca por medios electrónicos**: actos con **elementos no convertibles** a formato electrónico y los que **contengan medios de pago** (como cheques). Un correo o dispositivo indicado sirve para **avisos**, no para notificar.",
+     "¿En qué casos nunca se notifica por medios electrónicos?"
+    ],
+    [
+     "lpac",
+     "42",
+     "Notificaciones en papel: domicilio, intentos y entrega",
+     "Toda notificación en papel se **pone también a disposición en la sede electrónica**. En el **domicilio**, si el interesado no está, puede recibirla **cualquier persona mayor de catorce años** que se identifique. Si nadie la recoge, se deja constancia de **día y hora** y se **repite una sola vez**, en **hora distinta**, **dentro de los tres días siguientes**: si el primer intento fue **antes de las 15 h**, el segundo **después**, y viceversa, con **al menos tres horas** de diferencia. Si también fracasa, se aplica el **art. 44** (anuncio). Si el interesado accede en sede, se le **ofrece** recibir el resto de notificaciones por vía electrónica.",
+     "¿Cuántas veces se intenta una notificación en el domicilio y con qué diferencia horaria?"
+    ],
+    [
+     "lpac",
+     "43",
+     "Notificaciones electrónicas: cuándo se entienden practicadas o rechazadas",
+     "Se practican por **comparecencia en la sede electrónica**, en la **dirección electrónica habilitada única** o por **ambos sistemas**. Se **entienden practicadas cuando se accede a su contenido**. Si la notificación electrónica es **obligatoria** o la eligió el interesado, se **entiende rechazada** si pasan **diez días naturales** desde la puesta a disposición **sin acceder**. Con la **puesta a disposición** se cumple la obligación de notificar en plazo (art. 40.4). El acceso puede hacerse desde el **Punto de Acceso General electrónico**.",
+     "¿Cuándo se entiende rechazada una notificación electrónica obligatoria?"
+    ],
+    [
+     "lpac",
+     "44",
+     "Notificación infructuosa: anuncio en el BOE",
+     "Si los interesados son **desconocidos**, se **ignora el lugar** de notificación o, **intentada, no se pudo practicar**, se notifica con un **anuncio en el «Boletín Oficial del Estado»**. **Antes y de forma facultativa** se puede publicar en el **boletín de la CCAA o de la Provincia**, en el **tablón de edictos del Ayuntamiento** del último domicilio o en el **consulado**. Otras formas complementarias **no eximen** de publicar en el BOE.",
+     "¿Dónde se publica el anuncio cuando la notificación no ha podido practicarse?"
+    ],
+    [
+     "lpac",
+     "45",
+     "Publicación de actos: cuándo es obligatoria y qué efectos tiene",
+     "Los actos se **publican** cuando lo diga la norma del procedimiento o lo aconseje el **interés público**. **En todo caso** se publican, con **efectos de notificación**: **a)** actos para una **pluralidad indeterminada de personas** (o cuando la notificación a uno solo no basta: entonces la publicación es **adicional**); **b)** actos de **procedimientos selectivos o de concurrencia competitiva**, en el **medio que indique la convocatoria** (en otro no valen). Debe contener lo mismo que exige el **art. 40.2**. Se publica en el **diario oficial** que corresponda y eso cubre los **tablones o edictos** exigidos por las normas.",
+     "¿En qué dos casos la publicación sustituye siempre a la notificación?"
+    ],
+    [
+     "lpac",
+     "46",
+     "Notificación o publicación que lesiona: solo una somera indicación",
+     "Si notificar por **anuncio** o publicar el acto **lesiona derechos o intereses legítimos**, el órgano **solo publica** en el diario oficial una **somera indicación del contenido** y **del lugar donde comparecer**, en el plazo fijado, para conocer el **contenido íntegro**. Se pueden añadir otras formas complementarias, pero **sin excluir** el diario oficial.",
+     "¿Qué se publica cuando el contenido íntegro del acto lesionaría derechos?"
+    ]
+   ]
   },
   {
    "id": "e2",
@@ -240,7 +335,51 @@
     "47.2: disposiciones nulas",
     "Anulabilidad (48) · límites (49) · conversión (50) · conservación (51) · convalidación (52)"
    ],
-   "ic": "❌"
+   "ic": "❌",
+   "articulos": [
+    [
+     "lpac",
+     "47",
+     "Casos de nulidad de pleno derecho de actos y disposiciones",
+     "Son **nulos de pleno derecho** los actos que: **a)** lesionan **derechos y libertades susceptibles de amparo constitucional**; **b)** dicta un órgano **manifiestamente incompetente** por **materia o territorio**; **c)** tienen **contenido imposible**; **d)** son **infracción penal** o se dictan por ella; **e)** se dictan **prescindiendo total y absolutamente del procedimiento** o de las reglas esenciales de los **órganos colegiados**; **f)** **actos expresos o presuntos** contrarios al ordenamiento por los que se adquieren **facultades o derechos sin los requisitos esenciales**; **g)** los que **una ley con rango de ley** declare. También son **nulas las disposiciones** que vulneren la **Constitución, leyes u otras disposiciones de rango superior**, las que regulen **materias reservadas a la ley** y las que establezcan la **retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales**.",
+     "¿Qué siete tipos de actos son nulos de pleno derecho?"
+    ],
+    [
+     "lpac",
+     "48",
+     "Anulabilidad: infracciones, defectos de forma y plazos",
+     "Son **anulables** los actos que incurran en **cualquier infracción del ordenamiento jurídico**, **incluida la desviación de poder**. El **defecto de forma** solo causa anulabilidad si el acto **carece de los requisitos formales indispensables** para alcanzar su fin o causa **indefensión**. Actuar **fuera del tiempo establecido** solo causa anulabilidad cuando lo imponga la **naturaleza del término o plazo**.",
+     "¿Cuándo un defecto de forma hace anulable un acto?"
+    ],
+    [
+     "lpac",
+     "49",
+     "Límites a la extensión de la nulidad o anulabilidad",
+     "La nulidad o anulabilidad de un acto **no se extiende** a los **actos posteriores del procedimiento que sean independientes** del primero. Si es **solo parcial**, no afecta a las **partes independientes**, salvo que la parte viciada sea **tan importante** que sin ella el acto **no se habría dictado**.",
+     "¿Contagia la nulidad de un acto a los actos posteriores independientes?"
+    ],
+    [
+     "lpac",
+     "50",
+     "Conversión: un acto viciado produce los efectos de otro",
+     "Los actos **nulos o anulables** que **contengan los elementos constitutivos de otro distinto** producen **los efectos de este otro**.",
+     "¿Qué efectos produce un acto viciado que contiene los elementos de otro acto distinto?"
+    ],
+    [
+     "lpac",
+     "51",
+     "Conservación de actos y trámites no afectados por el vicio",
+     "El órgano que **declara la nulidad o anula** actuaciones **dispone siempre la conservación** de los **actos y trámites cuyo contenido habría sido el mismo** de no haberse cometido la infracción.",
+     "¿Qué actos se conservan cuando se declara una nulidad?"
+    ],
+    [
+     "lpac",
+     "52",
+     "Convalidación de actos anulables: quién y con qué efectos",
+     "La Administración **puede convalidar los actos anulables subsanando sus vicios**. La convalidación produce efecto **desde su fecha** (salvo la retroactividad excepcional del **art. 39.3**). Si el vicio es **incompetencia no determinante de nulidad**, convalida el **superior jerárquico** del que dictó el acto. Si falta una **autorización**, se convalida **otorgándola** el órgano competente.",
+     "¿Quién puede convalidar un acto viciado de incompetencia que no causa nulidad?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -598,6 +737,805 @@
    [
     "actos anulables"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de la Ley 39/2015, de 1 de octubre, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+   [
+    "Los actos que limiten derechos subjetivos o intereses legítimos",
+    "Los actos de mero trámite sin efectos en los derechos",
+    "Solo las resoluciones que pongan fin a la vía administrativa"
+   ],
+   0,
+   "Art. 35.1 a).",
+   "lpac 35.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de la Ley 39/2015, de 1 de octubre, serán motivados, entre otros, los actos:",
+   [
+    "Que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos",
+    "Que concedan una autorización solicitada por el interesado, sin que perjudiquen derechos de terceros",
+    "Que admitan las pruebas propuestas por los interesados y acuerden su práctica en el procedimiento"
+   ],
+   0,
+   "Art. 35.1 c). Los que RECHACEN pruebas sí (f), no los que las admiten.",
+   "lpac 35.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de la Ley 39/2015, de 1 de octubre, serán motivados, entre otros:",
+   [
+    "Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias",
+    "Los acuerdos de apertura del trámite de audiencia y de información pública del procedimiento",
+    "Los actos de comunicación y de mero trámite entre las unidades administrativas del mismo órgano"
+   ],
+   0,
+   "Art. 35.1 e).",
+   "lpac 35.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de la Ley 39/2015, de 1 de octubre, serán motivados, entre otros:",
+   [
+    "Los actos que se dicten en el ejercicio de potestades discrecionales",
+    "Los actos reglados que no limiten derechos subjetivos ni intereses legítimos de los interesados",
+    "Los actos de trámite cualificado únicamente, y no los dictados en ejercicio de potestades discrecionales"
+   ],
+   0,
+   "Art. 35.1 i).",
+   "lpac 35.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de la Ley 39/2015, de 1 de octubre, serán motivados, entre otros:",
+   [
+    "Las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan procedimientos sancionadores o de responsabilidad patrimonial",
+    "Las resoluciones sancionadoras definitivas, pero no las propuestas de resolución ni las de responsabilidad patrimonial",
+    "Los actos que resuelvan procedimientos de responsabilidad patrimonial, pero no los de carácter sancionador"
+   ],
+   0,
+   "Art. 35.1 h).",
+   "lpac 35.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de la Ley 39/2015, de 1 de octubre, serán motivados los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos, recursos administrativos y procedimientos de arbitraje, así como:",
+   [
+    "Los que declaren su inadmisión",
+    "Ninguno más",
+    "Solo los que los estimen"
+   ],
+   0,
+   "Art. 35.1 b).",
+   "lpac 35.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.1 de la Ley 39/2015, de 1 de octubre, los actos administrativos se producirán:",
+   [
+    "Por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Siempre en papel y con firma manuscrita del titular del órgano, salvo que se exija otra forma de constancia",
+    "Verbalmente como regla general, dejando constancia escrita únicamente cuando lo solicite el interesado"
+   ],
+   0,
+   "Art. 36.1.",
+   "lpac 36.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.2 de la Ley 39/2015, de 1 de octubre, cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
+   [
+    "El titular del órgano inferior o funcionario que la reciba oralmente, expresando la autoridad de la que procede",
+    "El titular de la competencia exclusivamente, que deberá firmar cada constancia escrita del acto verbal",
+    "El interesado destinatario del acto, que redactará y firmará la constancia escrita de lo comunicado oralmente"
+   ],
+   0,
+   "Art. 36.2.",
+   "lpac 36.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.3 de la Ley 39/2015, de 1 de octubre, cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias:",
+   [
+    "Podrán refundirse en un único acto acordado por el órgano competente, que especificará las personas u otras circunstancias que individualicen los efectos para cada interesado",
+    "Deberán dictarse siempre actos separados para cada interesado, sin posibilidad de refundirlos en un único acto",
+    "Se dictarán por el superior jerárquico del órgano competente, que especificará las circunstancias de cada interesado"
+   ],
+   0,
+   "Art. 36.3.",
+   "lpac 36.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 de la Ley 39/2015, de 1 de octubre, las resoluciones administrativas de carácter particular:",
+   [
+    "No podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición",
+    "Podrán vulnerar lo establecido en un reglamento cuando procedan de un órgano de superior jerarquía al que lo dictó",
+    "Podrán derogar singularmente la disposición general en casos justificados, si lo acuerda el órgano competente"
+   ],
+   0,
+   "Art. 37.1: inderogabilidad singular de los reglamentos.",
+   "lpac 37",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones sujetos al Derecho Administrativo:",
+   [
+    "Se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo disposición en contrario",
+    "Se presumirán nulos hasta que se notifiquen y produzcan efectos desde la fecha de su notificación al interesado",
+    "Solo serán válidos y eficaces si los confirma un tribunal contencioso-administrativo en vía de recurso"
+   ],
+   0,
+   "Art. 39.1.",
+   "lpac 39.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de la Ley 39/2015, de 1 de octubre, la eficacia del acto quedará demorada cuando:",
+   [
+    "Así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior",
+    "El interesado lo solicite expresamente en el escrito de iniciación o en cualquier momento anterior a la resolución",
+    "Se interponga cualquier recurso administrativo contra el acto, mientras no se resuelva el recurso"
+   ],
+   0,
+   "Art. 39.2.",
+   "lpac 39.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.3 de la Ley 39/2015, de 1 de octubre, excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando:",
+   [
+    "Se dicten en sustitución de actos anulados, o produzcan efectos favorables al interesado, si los supuestos de hecho existían ya y no se lesionan derechos de otras personas",
+    "Se dicten por razones de urgencia, aunque los supuestos de hecho no existieran en la fecha de retroacción",
+    "El órgano que los dicta lo decida libremente, aunque se lesionen derechos o intereses de otras personas"
+   ],
+   0,
+   "Art. 39.3.",
+   "lpac 39.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de la Ley 39/2015, de 1 de octubre, cuando una Administración tenga que dictar un acto que tenga por base otro dictado por una Administración distinta y entienda que es ilegal:",
+   [
+    "Podrá requerir a ésta para que lo anule o revise y, de rechazar el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "Deberá anularlo directamente por sí misma y dictar después el acto que le corresponda en el ámbito de sus competencias",
+    "Podrá ignorar el acto base y dictar el suyo, sin necesidad de requerir a la otra Administración"
+   ],
+   0,
+   "Art. 39.5.",
+   "lpac 39.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de la Ley 39/2015, de 1 de octubre, toda notificación deberá ser cursada dentro del plazo de:",
+   [
+    "Diez días a partir de la fecha en que el acto haya sido dictado",
+    "Cinco días desde la propuesta de resolución elevada al órgano competente para dictar el acto",
+    "Quince días a partir de la fecha en que el acto haya sido dictado por el órgano competente"
+   ],
+   0,
+   "Art. 40.2.",
+   "lpac 40.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de la Ley 39/2015, de 1 de octubre, la notificación deberá contener:",
+   [
+    "El texto íntegro de la resolución, si pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+    "Solo la parte dispositiva de la resolución y el plazo para interponer recurso, sin indicar el órgano ante el que presentarlo",
+    "El texto íntegro de la resolución, sin necesidad de indicar si pone fin a la vía administrativa ni los recursos"
+   ],
+   0,
+   "Art. 40.2.",
+   "lpac 40.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.3 de la Ley 39/2015, de 1 de octubre, las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos surtirán efecto:",
+   [
+    "A partir de la fecha en que el interesado realice actuaciones que supongan conocimiento del contenido y alcance de la resolución, o interponga cualquier recurso procedente",
+    "Desde la fecha en que se dictó el acto, aunque el interesado no haya tenido conocimiento de su contenido",
+    "Nunca, pues serán nulas de pleno derecho y habrá de practicarse de nuevo la notificación completa"
+   ],
+   0,
+   "Art. 40.3.",
+   "lpac 40.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.4 de la Ley 39/2015, de 1 de octubre, a los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo del procedimiento, será suficiente la notificación que contenga:",
+   [
+    "Cuando menos, el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado",
+    "Solo el intento de notificación debidamente acreditado, sin necesidad de que se incorpore el texto de la resolución",
+    "La publicación del anuncio en el tablón de edictos del Ayuntamiento del último domicilio del interesado"
+   ],
+   0,
+   "Art. 40.4.",
+   "lpac 40.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 de la Ley 39/2015, de 1 de octubre, las notificaciones se practicarán:",
+   [
+    "Preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía",
+    "Preferentemente en papel y, en todo caso, por medios electrónicos cuando el interesado lo solicite",
+    "Exclusivamente por medios electrónicos, sin que puedan practicarse notificaciones por medios no electrónicos"
+   ],
+   0,
+   "Art. 41.1.",
+   "lpac 41.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.2 de la Ley 39/2015, de 1 de octubre, en ningún caso se efectuarán por medios electrónicos las notificaciones:",
+   [
+    "Aquellas en las que el acto vaya acompañado de elementos no susceptibles de conversión a formato electrónico y las que contengan medios de pago a favor de los obligados, como cheques",
+    "Las dirigidas a personas jurídicas y las que se dirijan a quienes ejerzan una actividad profesional colegiada",
+    "Las que contengan sanciones o resoluciones que pongan fin a la vía administrativa"
+   ],
+   0,
+   "Art. 41.2.",
+   "lpac 41.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 de la Ley 39/2015, de 1 de octubre, las Administraciones podrán practicar notificaciones por medios no electrónicos, entre otros supuestos:",
+   [
+    "Cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado en las oficinas de asistencia en materia de registro y solicite la notificación personal en ese momento",
+    "Siempre que lo prefiera el órgano notificante, aunque el interesado esté obligado a relacionarse electrónicamente",
+    "Cuando el interesado sea una persona jurídica que haya comparecido espontáneamente en las oficinas de registro"
+   ],
+   0,
+   "Art. 41.1 a). Otro supuesto: entrega directa por empleado público cuando sea necesaria para la eficacia.",
+   "lpac 41.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.5 de la Ley 39/2015, de 1 de octubre, cuando el interesado o su representante rechace la notificación de una actuación administrativa:",
+   [
+    "Se hará constar en el expediente, especificándose las circunstancias del intento, dando por efectuado el trámite y siguiéndose el procedimiento",
+    "Se archivará el procedimiento sin más trámite, al entenderse que el interesado desiste de su solicitud",
+    "Se repetirá la notificación en el domicilio hasta que sea aceptada, suspendiéndose el procedimiento mientras tanto"
+   ],
+   0,
+   "Art. 41.5.",
+   "lpac 41.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.6 de la Ley 39/2015, de 1 de octubre, la falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación:",
+   [
+    "No impedirá que la notificación sea considerada plenamente válida",
+    "Anula la notificación, que deberá repetirse en todo caso por medios no electrónicos en el domicilio del interesado",
+    "Obliga a repetir la notificación en papel, sin que produzca efectos la practicada electrónicamente"
+   ],
+   0,
+   "Art. 41.6.",
+   "lpac 41.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.7 de la Ley 39/2015, de 1 de octubre, cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación:",
+   [
+    "La de aquélla que se hubiera producido en primer lugar",
+    "La de la última notificación que se hubiera producido, desechando las practicadas anteriormente por otros cauces",
+    "La de la notificación practicada en papel, aunque se hubiera producido antes otra por medios electrónicos"
+   ],
+   0,
+   "Art. 41.7.",
+   "lpac 41.7",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de la Ley 39/2015, de 1 de octubre, en las notificaciones en papel practicadas en el domicilio, de no hallarse presente el interesado, podrá hacerse cargo de la misma cualquier persona:",
+   [
+    "Mayor de catorce años que se encuentre en el domicilio y haga constar su identidad",
+    "Mayor de edad vinculada familiarmente con el interesado y que acredite su relación de parentesco",
+    "Mayor de dieciséis años, aunque no resida en el domicilio y no haga constar su identidad"
+   ],
+   0,
+   "Art. 42.2.",
+   "lpac 42.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de la Ley 39/2015, de 1 de octubre, si nadie se hiciera cargo de la notificación en papel, el intento se repetirá por una sola vez y en una hora distinta:",
+   [
+    "Dentro de los tres días siguientes",
+    "Dentro de los diez días siguientes",
+    "En el plazo de una semana"
+   ],
+   0,
+   "Art. 42.2. Si el primer intento fue antes de las 15 h, el segundo después, y viceversa, con al menos tres horas de diferencia.",
+   "lpac 42.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de la Ley 39/2015, de 1 de octubre, la notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando:",
+   [
+    "Hayan transcurrido diez días naturales desde su puesta a disposición sin que se acceda a su contenido",
+    "Hayan transcurrido diez días hábiles desde su puesta a disposición sin que se acceda a su contenido",
+    "Hayan transcurrido tres días naturales desde su puesta a disposición sin que se acceda a su contenido"
+   ],
+   0,
+   "Art. 43.2.",
+   "lpac 43.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de la Ley 39/2015, de 1 de octubre, las notificaciones por medios electrónicos se entenderán practicadas:",
+   [
+    "En el momento en que se produzca el acceso a su contenido",
+    "En el momento de su puesta a disposición en la sede electrónica, haya accedido o no el interesado a su contenido",
+    "Al día siguiente de su envío al dispositivo o a la dirección de correo electrónico del interesado"
+   ],
+   0,
+   "Art. 43.2.",
+   "lpac 43.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de la Ley 39/2015, de 1 de octubre, cuando los interesados sean desconocidos, se ignore el lugar de la notificación o, intentada, no se hubiese podido practicar, la notificación se hará:",
+   [
+    "Por medio de un anuncio publicado en el «Boletín Oficial del Estado»",
+    "Por anuncio en el tablón de edictos del Ayuntamiento exclusivamente",
+    "Por publicación en el boletín de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 44. Previamente y con carácter facultativo, anuncio en boletín autonómico o provincial, tablón del Ayuntamiento o Consulado.",
+   "lpac 44",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.1 de la Ley 39/2015, de 1 de octubre, los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso:",
+   [
+    "Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas",
+    "Cuando el acto afecte a un solo interesado cuyo domicilio se desconozca, sin necesidad de intentar la notificación",
+    "Cuando lo decida discrecionalmente el instructor del procedimiento atendiendo a las circunstancias del caso"
+   ],
+   0,
+   "Art. 45.1 a). También en actos de procedimientos selectivos o de concurrencia competitiva (b).",
+   "lpac 45.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.1 de la Ley 39/2015, de 1 de octubre, en los actos integrantes de un procedimiento selectivo o de concurrencia competitiva, la convocatoria deberá indicar el medio donde se efectuarán las sucesivas publicaciones:",
+   [
+    "Careciendo de validez las que se lleven a cabo en lugares distintos",
+    "Pudiendo además publicarse válidamente en otros medios",
+    "Sin necesidad de indicar medio alguno"
+   ],
+   0,
+   "Art. 45.1 b).",
+   "lpac 45.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.3 de la Ley 39/2015, de 1 de octubre, la publicación de los actos se realizará:",
+   [
+    "En el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto",
+    "Siempre en el Boletín Oficial del Estado, cualquiera que sea la Administración de la que proceda el acto",
+    "En el tablón de anuncios del órgano que dicta el acto, además de en su sede electrónica"
+   ],
+   0,
+   "Art. 45.3.",
+   "lpac 45.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1 de la Ley 39/2015, de 1 de octubre, son nulos de pleno derecho los actos de las Administraciones Públicas:",
+   [
+    "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
+    "Los dictados por órgano incompetente por razón del grado jerárquico o de la cuantía del asunto",
+    "Los que incurran en defecto de forma sin que se cause indefensión a los interesados"
+   ],
+   0,
+   "Art. 47.1 b). La incompetencia jerárquica no determina nulidad (art. 52.3).",
+   "lpac 47.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1 de la Ley 39/2015, de 1 de octubre, son nulos de pleno derecho, entre otros, los actos:",
+   [
+    "Que lesionen los derechos y libertades susceptibles de amparo constitucional",
+    "Dictados fuera del plazo establecido para ello, aunque el plazo no sea esencial por su naturaleza",
+    "Que carezcan de motivación suficiente, aunque no lesionen derechos ni causen indefensión"
+   ],
+   0,
+   "Art. 47.1 a).",
+   "lpac 47.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1 de la Ley 39/2015, de 1 de octubre, son nulos de pleno derecho, entre otros, los actos:",
+   [
+    "Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido",
+    "Dictados prescindiendo de un trámite no esencial del procedimiento legalmente establecido",
+    "Que contengan errores materiales, de hecho o aritméticos que puedan rectificarse en cualquier momento"
+   ],
+   0,
+   "Art. 47.1 e).",
+   "lpac 47.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1 de la Ley 39/2015, de 1 de octubre, son nulos de pleno derecho, entre otros, los actos:",
+   [
+    "Constitutivos de infracción penal o dictados como consecuencia de ésta",
+    "Que infrinjan una norma de carácter reglamentario aprobada por un órgano de la misma Administración",
+    "Que incurran en desviación de poder, es decir, en el uso de potestades para fines distintos de los previstos"
+   ],
+   0,
+   "Art. 47.1 d). La desviación de poder es causa de anulabilidad (art. 48.1).",
+   "lpac 47.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.2 de la Ley 39/2015, de 1 de octubre, también serán nulas de pleno derecho las disposiciones administrativas que:",
+   [
+    "Vulneren la Constitución, las leyes u otras disposiciones de rango superior, regulen materias reservadas a la Ley o establezcan la retroactividad de disposiciones sancionadoras no favorables",
+    "Vulneren únicamente la Constitución, pero no las leyes ni las disposiciones administrativas de rango superior",
+    "Sean inconvenientes para el interés público, aunque respeten la Constitución y las leyes aplicables"
+   ],
+   0,
+   "Art. 47.2.",
+   "lpac 47.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.1 de la Ley 39/2015, de 1 de octubre, son anulables los actos de la Administración que incurran:",
+   [
+    "En cualquier infracción del ordenamiento jurídico, incluso la desviación de poder",
+    "Solo en infracciones graves del ordenamiento jurídico, quedando excluida la desviación de poder",
+    "En vulneración de derechos y libertades susceptibles de amparo constitucional, que determinan su nulidad"
+   ],
+   0,
+   "Art. 48.1.",
+   "lpac 48.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.2 de la Ley 39/2015, de 1 de octubre, el defecto de forma sólo determinará la anulabilidad cuando:",
+   [
+    "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+    "Exista cualquier irregularidad formal, aunque el acto alcance su fin y no cause indefensión a los interesados",
+    "El interesado lo alegue en el plazo de diez días desde la notificación, aunque no cause indefensión"
+   ],
+   0,
+   "Art. 48.2.",
+   "lpac 48.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.3 de la Ley 39/2015, de 1 de octubre, la realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto:",
+   [
+    "Cuando así lo imponga la naturaleza del término o plazo",
+    "En todo caso, aunque el plazo no tenga carácter esencial por la naturaleza del término o plazo",
+    "Nunca, ya que los plazos para la actuación de la Administración tienen carácter meramente orientativo"
+   ],
+   0,
+   "Art. 48.3.",
+   "lpac 48.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.1 de la Ley 39/2015, de 1 de octubre, la nulidad o anulabilidad de un acto no implicará la de:",
+   [
+    "Los sucesivos en el procedimiento que sean independientes del primero",
+    "Ninguno de los posteriores, que quedan siempre sin efecto aunque sean independientes del primero",
+    "Todos los posteriores, incluso los que sean independientes del acto declarado nulo o anulable"
+   ],
+   0,
+   "Art. 49.1.",
+   "lpac 49.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.2 de la Ley 39/2015, de 1 de octubre, la nulidad o anulabilidad en parte del acto no implicará la de las partes independientes, salvo que:",
+   [
+    "La parte viciada sea de tal importancia que sin ella el acto no hubiera sido dictado",
+    "Lo decida el interesado en el escrito de recurso, aunque la parte viciada no sea de especial importancia",
+    "La parte viciada sea la primera del acto, aunque sin ella el acto se hubiera dictado igualmente"
+   ],
+   0,
+   "Art. 49.2.",
+   "lpac 49.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de la Ley 39/2015, de 1 de octubre, los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste:",
+   [
+    "Si se dan los requisitos de efectos de este último (conversión de actos viciados)",
+    "Nunca, pues deben ser anulados íntegramente y sin posibilidad de producir los efectos de otro acto distinto",
+    "Solo si el interesado lo solicita expresamente y el órgano competente lo acuerda de forma motivada"
+   ],
+   0,
+   "Art. 50: conversión de actos viciados.",
+   "lpac 50",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51 de la Ley 39/2015, de 1 de octubre, el órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de:",
+   [
+    "Los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción",
+    "Ninguno de los trámites realizados, que deberán repetirse íntegramente desde el inicio del procedimiento",
+    "Solo los actos de trámite cualificado, que se mantendrán aunque el vicio afecte a su contenido"
+   ],
+   0,
+   "Art. 51: conservación de actos y trámites.",
+   "lpac 51",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.1 de la Ley 39/2015, de 1 de octubre, la Administración podrá convalidar:",
+   [
+    "Los actos anulables, subsanando los vicios de que adolezcan",
+    "Los actos nulos de pleno derecho, subsanando los vicios de que adolezcan mediante resolución motivada",
+    "Los actos nulos y anulables indistintamente, subsanando en ambos casos los vicios de que adolezcan"
+   ],
+   0,
+   "Art. 52.1.",
+   "lpac 52.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.3 de la Ley 39/2015, de 1 de octubre, si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por:",
+   [
+    "El órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+    "Cualquier órgano de la Administración con competencia por razón de la materia, aunque no sea superior jerárquico",
+    "El órgano inferior jerárquico del que dictó el acto viciado, previa autorización del órgano competente"
+   ],
+   0,
+   "Art. 52.3.",
+   "lpac 52.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.2 de la Ley 39/2015, de 1 de octubre, el acto de convalidación producirá efecto:",
+   [
+    "Desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad",
+    "Desde la fecha del acto viciado, siempre, con eficacia retroactiva sin necesidad de que concurran los requisitos legales",
+    "Desde su notificación al interesado, sin posibilidad de otorgar eficacia retroactiva en ningún caso"
+   ],
+   0,
+   "Art. 52.2.",
+   "lpac 52.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

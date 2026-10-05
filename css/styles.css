@@ -447,3 +447,11 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 .art-z { background: var(--warn-soft); border-left: 4px solid var(--warn); border-radius: 8px; padding: 8px 12px; margin: 10px 0; font-weight: 600; }
 .art-add { background: var(--warn-soft); border-radius: 8px; padding: 8px 12px; margin: 10px 0; font-weight: 600; }
 .art > :last-child { margin-bottom: 14px; }
+
+.art-of { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 4px 12px 10px; margin: 8px 0; }
+.art-of h4, .art-t h4 { margin: 10px 0 4px; font-size: 1rem; }
+.art-of p { margin: 6px 0; }
+
+.gl-tipo { font-size: 1rem; font-weight: 600; color: var(--brand-text); background: var(--brand-soft); border-radius: 99px; padding: 1px 9px; margin-left: 6px; white-space: nowrap; }
+
+.z-t { background: var(--warn-soft); border-left: 4px solid var(--warn); border-radius: 8px; padding: 6px 10px; }

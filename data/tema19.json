@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Grupos de clasificación profesional",
-   "subtitulo": "Art. 76 TREBEP",
+   "subtitulo": "Arts. 69 a 77 TREBEP",
    "clave": [
     "Grupo A (A1 y A2): título de Grado",
     "Grupo B: Técnico Superior",
@@ -70,7 +70,72 @@
    "esquema": [
     "A (A1, A2): Grado · B: Técnico Superior · C1: Bachiller o Técnico · C2: ESO · AP: sin titulación"
    ],
-   "ic": "🪜"
+   "ic": "🪜",
+   "articulos": [
+    [
+     "trebep",
+     "69",
+     "Objetivos e instrumentos de la planificación de recursos humanos",
+     "La **planificación** busca la **eficacia en los servicios** y la **eficiencia en el uso de recursos** mediante la **dimensión adecuada de efectivos**, su **mejor distribución, formación, promoción profesional y movilidad**. Las Administraciones pueden aprobar **Planes para la ordenación de sus recursos humanos**, con medidas como **análisis de disponibilidades y necesidades**, previsiones sobre **organización del trabajo** y otras del texto oficial.",
+     "¿Qué objetivos persigue la planificación de los recursos humanos?"
+    ],
+    [
+     "trebep",
+     "70",
+     "Oferta de empleo público: tres años y diez por ciento",
+     "Las necesidades de personal de nuevo ingreso con **asignación presupuestaria** se concretan en la **Oferta de empleo público**, que obliga a **convocar los procesos selectivos** para las plazas comprometidas **y hasta un diez por cien adicional**. Su ejecución debe desarrollarse en el **plazo improrrogable de tres años**. Se **aprueba anualmente** por los órganos de gobierno y se **publica en el Diario oficial**.",
+     "¿En qué plazo improrrogable debe ejecutarse la Oferta de empleo público?"
+    ],
+    [
+     "trebep",
+     "71",
+     "Registros de personal y gestión integrada de recursos humanos",
+     "Cada Administración **constituye un Registro de personal**; los **contenidos mínimos comunes** se fijan por **convenio de Conferencia Sectorial**. Las Administraciones **impulsan la gestión integrada de recursos humanos**; las **entidades locales sin medios suficientes** pueden recibir asistencia (texto oficial).",
+     "¿Qué instrumento fija los contenidos mínimos comunes de los Registros de personal?"
+    ],
+    [
+     "trebep",
+     "72",
+     "Estructuración de los recursos humanos",
+     "En el marco de su **autoorganización**, las Administraciones **estructuran sus recursos humanos** según las normas de **selección, promoción profesional, movilidad y distribución de funciones**.",
+     "¿En qué marco estructuran sus recursos humanos las Administraciones?"
+    ],
+    [
+     "trebep",
+     "73",
+     "Desempeño y agrupación de puestos de trabajo",
+     "Los empleados tienen **derecho al desempeño de un puesto** según el sistema de estructuración del empleo público. Las Administraciones pueden asignar **funciones distintas** a las del puesto, **adecuadas a su clasificación, grado o categoría**, por necesidades del servicio **sin merma retributiva**. Los puestos pueden **agruparse** para ordenar selección, formación y movilidad.",
+     "¿Pueden asignarse funciones distintas a las del puesto y con qué condición retributiva?"
+    ],
+    [
+     "trebep",
+     "74",
+     "Ordenación de los puestos: relaciones de puestos de trabajo",
+     "Se estructura la organización mediante **relaciones de puestos de trabajo** u otros instrumentos similares que comprenden, **al menos**: **denominación de los puestos**, **grupos de clasificación profesional**, **cuerpos o escalas**, **sistemas de provisión** y **retribuciones complementarias**. Estos instrumentos son **públicos**.",
+     "¿Qué contenido mínimo tienen las relaciones de puestos de trabajo?"
+    ],
+    [
+     "trebep",
+     "75",
+     "Cuerpos y escalas de funcionarios",
+     "Los funcionarios se agrupan en **cuerpos, escalas, especialidades** u otros sistemas con **competencias, capacidades y conocimientos comunes acreditados mediante proceso selectivo**. Se **crean, modifican y suprimen por ley** de las **Cortes Generales** o de las **asambleas legislativas autonómicas**.",
+     "¿Cómo se crean, modifican y suprimen los cuerpos y escalas?"
+    ],
+    [
+     "trebep",
+     "76",
+     "Grupos de clasificación profesional del personal funcionario",
+     "Los cuerpos y escalas se clasifican por la **titulación exigida**: **Grupo A** (**Subgrupos A1 y A2**; **título universitario de Grado**); **Grupo B** (**Técnico Superior**); **Grupo C** (**C1**: **Bachiller o Técnico**; **C2**: **Graduado en Educación Secundaria Obligatoria**). El Subgrupo depende del nivel de responsabilidad de las funciones y de las pruebas de acceso.",
+     "¿Qué titulación se exige para el acceso a los cuerpos del Grupo C2?"
+    ],
+    [
+     "trebep",
+     "77",
+     "Clasificación del personal laboral",
+     "El **personal laboral** se clasifica **conforme a la legislación laboral**.",
+     "¿Con qué legislación se clasifica el personal laboral?"
+    ]
+   ]
   },
   {
    "id": "e1",
@@ -172,12 +237,139 @@
     "AE: Técnica · Servicios Especiales (Policía Local, Incendios, Cometidos Especiales, Oficios, Agentes forestales)",
     "Habilitación nacional: Secretaría · Intervención-tesorería · Secretaría-intervención"
    ],
-   "ic": "🧩"
+   "ic": "🧩",
+   "articulos": [
+    [
+     "lbrl",
+     "89",
+     "Personal al servicio de las entidades locales",
+     "Está integrado por **funcionarios de carrera**, **contratados en régimen de derecho laboral** y **personal eventual** que desempeña **puestos de confianza o asesoramiento especial**.",
+     "¿Qué tres clases de personal integran el de las entidades locales?"
+    ],
+    [
+     "lbrl",
+     "90",
+     "Plantilla, relación de puestos y registros de personal locales",
+     "Cada Corporación **aprueba anualmente, a través del Presupuesto, la plantilla**, con todos los **puestos reservados a funcionarios, personal laboral y eventual**, según **racionalidad, economía y eficiencia**. Forman la **relación de puestos de trabajo**; el **Estado** fija las normas de las relaciones de puestos, la descripción de puestos tipo y las normas básicas de la **carrera administrativa**. Constituyen **Registros de personal** coordinados con los de otras Administraciones.",
+     "¿Cómo aprueba cada Corporación local su plantilla?"
+    ],
+    [
+     "lbrl",
+     "91",
+     "Oferta de empleo y selección del personal local",
+     "Las Corporaciones **forman públicamente su oferta de empleo** según la normativa básica estatal. La **selección de todo el personal** (funcionario o laboral) se realiza conforme a la oferta, **por convocatoria pública** y **concurso, oposición o concurso-oposición libre**, garantizando **igualdad, mérito, capacidad y publicidad**.",
+     "¿Qué sistemas de selección admite el art. 91 LBRL?"
+    ],
+    [
+     "lbrl",
+     "92",
+     "Funcionarios locales: normas aplicables y funciones reservadas",
+     "Se rigen por la ley local, el **Estatuto Básico del Empleado Público**, la legislación estatal y la **autonómica** de función pública. **Con carácter general, los puestos son desempeñados por funcionarios**. **Corresponde exclusivamente a funcionarios de carrera** el ejercicio de funciones que impliquen **participación directa o indirecta en potestades públicas** o en la **salvaguardia de intereses generales**, y las que impliquen **ejercicio de autoridad**.",
+     "¿Qué funciones corresponden exclusivamente a los funcionarios de carrera locales?"
+    ],
+    [
+     "lbrl",
+     "93",
+     "Retribuciones de los funcionarios locales",
+     "Las **básicas** tienen la **misma estructura y cuantía** que en toda la función pública. Las **complementarias** siguen la **estructura y criterios de valoración objetiva** del resto; su **cuantía global la fija el Pleno** dentro de los **límites máximos y mínimos del Estado**. Se reflejan **anualmente en los presupuestos**.",
+     "¿Quién fija la cuantía global de las retribuciones complementarias de los funcionarios locales?"
+    ],
+    [
+     "rdleg781",
+     "167",
+     "Escalas y subescalas de los funcionarios locales",
+     "Los funcionarios **sin habilitación nacional** se integran en las **escalas de Administración General y Administración Especial**, agrupadas en los **grupos** que determine el Estado. **Administración General:** subescalas **Técnica, de Gestión, Administrativa, Auxiliar y Subalterna**. **Administración Especial:** subescalas **Técnica y de Servicios Especiales**. La creación de escalas, subescalas y clases la hace **cada Corporación**.",
+     "¿Qué cinco subescalas componen la Escala de Administración General?",
+     {
+      "add": "z"
+     }
+    ],
+    [
+     "rdleg781",
+     "168",
+     "Provisión de puestos reservados a funcionarios de carrera",
+     "Los puestos reservados a funcionarios de carrera se proveen por las **normas que dicte la Administración del Estado** en desarrollo de la **legislación básica de función pública local**.",
+     "¿Quién dicta las normas de provisión de puestos de funcionarios de carrera locales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rdleg781",
+     "169",
+     "Escala de Administración General: funciones y subescalas",
+     "Corresponde a sus funcionarios el **desempeño de funciones comunes** al ejercicio de la actividad administrativa; los **puestos predominantemente burocráticos** los desempeñan funcionarios **técnicos, de gestión, administrativos o auxiliares** de Administración General. **Técnica:** gestión, estudio y propuesta de **nivel superior**; **Gestión:** nivel medio (resto de subescalas en el texto oficial).",
+     "¿Qué funciones desempeña la Subescala Técnica de Administración General?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rdleg781",
+     "170",
+     "Escala de Administración Especial",
+     "Son funcionarios de Administración Especial los que tienen atribuido el **objeto peculiar de una carrera, profesión, arte u oficio**. Los puestos de **servicios especiales** pueden existir en **cualquier clase de Corporación**. El personal de **Servicios de Informática** no incluido en Administración General se clasifica según su **especialidad y título** en las Subescalas **Técnicas** o de **Servicios Especiales**.",
+     "¿Qué funcionarios son de Administración Especial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rdleg781",
+     "171",
+     "Subescala Técnica de Administración Especial",
+     "Pertenecen a ella los funcionarios que desarrollan tareas de una **carrera para la que las leyes exigen determinados títulos académicos o profesionales**, divididos en **Técnicos Superiores, Medios y Auxiliares**. El ingreso es por **oposición, concurso o concurso-oposición libre**, con el **título académico o profesional** correspondiente.",
+     "¿En qué clases se divide la Subescala Técnica de Administración Especial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rdleg781",
+     "172",
+     "Subescala de Servicios Especiales y sus clases",
+     "Comprende funcionarios que desarrollan tareas que requieren **aptitud específica** y para las que **no se exigen, con carácter general, títulos académicos o profesionales**. Clases: **a)** **Policía Local y sus auxiliares**; **b)** **Servicio de Extinción de Incendios**; **c)** **Plazas de Cometidos Especiales**; **d)** **Personal de Oficios**; **e)** **Agentes forestales y medioambientales**.",
+     "¿Qué cinco clases comprende la Subescala de Servicios Especiales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rdleg781",
+     "173",
+     "Policía Local: funciones según la ley de Fuerzas y Cuerpos",
+     "La **Policía Local** ejerce sus funciones conforme al **Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad**.",
+     "¿Qué norma regula las funciones de la Policía Local?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rdleg781",
+     "174",
+     "Clase de cometidos especiales",
+     "Incluye al personal de las **Bandas de Música** y a los funcionarios que realizan tareas **predominantemente no manuales** no comprendidas en el art. 171.1, en las diversas ramas de las Corporaciones, subdivididos en **categorías según el nivel de titulación**.",
+     "¿A qué personal incluye la clase de cometidos especiales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rdleg781",
+     "175",
+     "Clase de personal de oficios",
+     "Integra a los funcionarios que realizan tareas **predominantemente manuales** referidas a **un oficio, industria o arte**. Se clasifican en **Encargado, Maestro, Oficial, Ayudante y Operario** según responsabilidad o especialización. Estas tareas **no tienen la consideración de funciones públicas** del art. 92.2 LBRL.",
+     "¿Cómo se clasifica el personal de oficios dentro de cada oficio?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "Régimen de los funcionarios locales",
-   "subtitulo": "Arts. 92 y 93 LBRL y RDLeg 781/1986",
+   "subtitulo": "Arts. 94 a 104 LBRL y arts. 78 a 84 TREBEP",
    "clave": [
     "Normativa aplicable (92.1)",
     "Retribuciones (93)",
@@ -215,7 +407,135 @@
     "Rigen: LBRL → TREBEP → legislación estatal → legislación autonómica (92.1)",
     "Básicas: iguales que en todo el Estado · complementarias: cuantía global la fija el Pleno (93)"
    ],
-   "ic": "📚"
+   "ic": "📚",
+   "articulos": [
+    [
+     "lbrl",
+     "94",
+     "Jornada de trabajo de los funcionarios locales",
+     "La **jornada de trabajo en cómputo anual** es **la misma que se fije para los funcionarios de la Administración Civil del Estado**, con las mismas normas de **equivalencia y reducción**.",
+     "¿Qué jornada anual tienen los funcionarios de la Administración local?"
+    ],
+    [
+     "lbrl",
+     "95",
+     "Participación sindical en las condiciones de empleo",
+     "La **participación de los funcionarios, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo** es la **establecida con carácter general** para todas las Administraciones en el Estatuto Básico de la función pública.",
+     "¿Qué norma regula la participación sindical de los funcionarios locales?"
+    ],
+    [
+     "lbrl",
+     "96",
+     "Formación del Instituto de Estudios de Administración Local",
+     "El **Instituto de Estudios de Administración Local** desarrolla **cursos de perfeccionamiento, especialización y promoción** para los funcionarios locales y colabora con los **Institutos o Escuelas autonómicos**.",
+     "¿Qué organismo desarrolla cursos de perfeccionamiento para funcionarios locales?"
+    ],
+    [
+     "lbrl",
+     "97",
+     "Publicación de convocatorias y bases en la función pública local",
+     "Los **anuncios de convocatorias** de pruebas de acceso y de concursos de provisión se publican en el **BOE**. Las **bases** se publican en el **Boletín Oficial de la Provincia**, salvo las de **habilitación de carácter nacional**, que se publican en el **BOE**.",
+     "¿Dónde se publican las bases de las convocatorias de la función pública local?"
+    ],
+    [
+     "lbrl",
+     "98",
+     "Selección y habilitación de los funcionarios con habilitación nacional",
+     "La **selección, formación y habilitación** de los funcionarios del art. 92.3 (con **habilitación de carácter nacional**) corresponde al **Instituto de Estudios de Administración Local**, que debe **encomendar la formación por delegación** a los Institutos autonómicos que lo soliciten. Quienes obtienen la habilitación ingresan en la **Función Pública Local** y pueden **participar en los concursos de méritos** para las plazas reservadas.",
+     "¿Quién selecciona y habilita a los funcionarios con habilitación de carácter nacional?"
+    ],
+    [
+     "lbrl",
+     "99",
+     "Concurso: sistema normal de provisión y reparto de méritos",
+     "El **concurso** es el **sistema normal de provisión**. **Méritos generales** (preceptiva valoración, fijados por el **Estado**): hasta el **65 %** del total; méritos del **conocimiento de la organización y normativa autonómica** (fijados por la **CCAA**): hasta el **10 %**; **méritos específicos** (fijados por cada **Corporación**): hasta el **25 %** (resto de reglas en el texto oficial).",
+     "¿Qué porcentaje del total pueden alcanzar los méritos generales en el concurso?"
+    ],
+    [
+     "lbrl",
+     "100",
+     "Selección de funcionarios locales: competencia de cada Corporación",
+     "**Cada Corporación local** selecciona a sus funcionarios, **salvo los de habilitación de carácter nacional**. **El Estado** establece reglamentariamente las **reglas básicas y programas mínimos** y los **títulos académicos** requeridos (y diplomas del Instituto de Estudios de Administración Local).",
+     "¿Qué funcionarios locales no selecciona la propia Corporación?"
+    ],
+    [
+     "lbrl",
+     "101",
+     "Provisión de puestos reservados: concurso de méritos o libre designación",
+     "Los puestos vacantes reservados a funcionarios con habilitación nacional se proveen por **convocatoria pública**, mediante **concurso de méritos** o **libre designación**; pueden participar los funcionarios **de la entidad convocante** y los de **cualquier Administración pública**, según las relaciones de puestos.",
+     "¿Por qué procedimientos se proveen los puestos reservados a funcionarios con habilitación nacional?"
+    ],
+    [
+     "lbrl",
+     "102",
+     "Bases y convocatorias: competencia del Presidente de la Corporación",
+     "Las **pruebas de selección y los concursos** se rigen por las **bases que apruebe el Presidente de la Corporación**, a quien corresponde **convocarlas**. El tribunal **eleva la relación de aprobados** al Presidente para el **nombramiento**, y a él corresponde la **resolución motivada de los concursos**, previa propuesta de los órganos de selección.",
+     "¿Quién aprueba las bases y convoca las pruebas de selección en la Corporación local?"
+    ],
+    [
+     "lbrl",
+     "103",
+     "Selección del personal laboral de la Corporación",
+     "El **personal laboral** es seleccionado por la **propia Corporación**, ateniéndose al **art. 91** y respetando al máximo el **principio de igualdad de oportunidades**.",
+     "¿A qué artículo se atiene la selección del personal laboral local?"
+    ],
+    [
+     "lbrl",
+     "104",
+     "Personal eventual local: determinación, nombramiento y cese",
+     "El **número, características y retribuciones** del personal eventual los determina el **Pleno** **al comienzo de su mandato**; solo se modifican al **aprobar los presupuestos anuales**. **Nombramiento y cese libres** por el **Alcalde o Presidente**; **cesan automáticamente** cuando cesa o expira el mandato de la autoridad a la que prestan su función. Los nombramientos se **publican en el Boletín Oficial de la Provincia**.",
+     "¿Cuándo cesa automáticamente el personal eventual local?"
+    ],
+    [
+     "trebep",
+     "78",
+     "Principios y procedimientos de provisión de puestos de trabajo",
+     "Se proveen por procedimientos basados en **igualdad, mérito, capacidad y publicidad**. La provisión se hace por **concurso** y **libre designación con convocatoria pública**. Las leyes de Función Pública pueden prever **otros procedimientos** (movilidad, permutas, salud o rehabilitación, reingreso, cese o remoción, supresión de puestos).",
+     "¿Cuáles son los dos procedimientos ordinarios de provisión de puestos?"
+    ],
+    [
+     "trebep",
+     "79",
+     "Concurso de provisión de puestos del personal funcionario de carrera",
+     "Consiste en la **valoración de méritos y capacidades** (y, en su caso, aptitudes) de los candidatos por **órganos colegiados de carácter técnico**, con **profesionalidad y especialización** y **paridad** entre mujer y hombre. Las leyes establecen el **plazo mínimo de ocupación** de los puestos obtenidos por concurso.",
+     "¿Qué órganos valoran los méritos en el concurso de provisión?"
+    ],
+    [
+     "trebep",
+     "80",
+     "Libre designación con convocatoria pública",
+     "Consiste en la **apreciación discrecional por el órgano competente de la idoneidad** de los candidatos. Las leyes fijan los **puestos de especial responsabilidad y confianza** que pueden cubrirse así. Los titulares **pueden ser cesados discrecionalmente**.",
+     "¿Pueden ser cesados discrecionalmente los titulares de puestos de libre designación?"
+    ],
+    [
+     "trebep",
+     "81",
+     "Movilidad del personal funcionario de carrera",
+     "Cada Administración puede **ordenar la movilidad voluntaria** en sectores prioritarios. Pueden **trasladar motivadamente** a sus funcionarios por **necesidades de servicio o funcionales** a otras unidades u organismos, **respetando retribuciones y condiciones esenciales** (resto en el texto oficial).",
+     "¿Qué debe respetar el traslado de funcionarios por necesidades del servicio?"
+    ],
+    [
+     "trebep",
+     "82",
+     "Movilidad por violencia de género, sexual y terrorista",
+     "Las **mujeres víctimas de violencia de género o sexual** que deban abandonar su puesto en la localidad tienen **derecho al traslado** a otro puesto de su **cuerpo, escala o categoría** de **análogas características, sin necesidad de vacante de necesaria cobertura**; es **traslado forzoso**. La Administración les comunica las vacantes en la localidad que soliciten (texto oficial).",
+     "¿A qué tienen derecho las víctimas de violencia de género que deben abandonar su puesto?"
+    ],
+    [
+     "trebep",
+     "83",
+     "Provisión de puestos y movilidad del personal laboral",
+     "Se realiza conforme a los **convenios colectivos** aplicables y, **en su defecto**, por el sistema de provisión y movilidad del **personal funcionario de carrera**.",
+     "¿Qué sistema se aplica al personal laboral si no hay convenio?"
+    ],
+    [
+     "trebep",
+     "84",
+     "Movilidad voluntaria entre Administraciones Públicas",
+     "La AGE, las CCAA y las entidades locales establecen **medidas de movilidad interadministrativa**, preferentemente por **convenio de Conferencia Sectorial**. La **Conferencia Sectorial de Administración Pública** puede aprobar **criterios generales para las homologaciones**. Los funcionarios que obtienen destino en otra Administración quedan en **servicio en otras Administraciones Públicas** respecto de la de origen.",
+     "¿En qué situación quedan los funcionarios que obtienen destino por movilidad en otra Administración?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -523,6 +843,1081 @@
    [
     "misma estructura e idéntica cuantía"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 69.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo:",
+   [
+    "Contribuir a la eficacia en la prestación de los servicios y a la eficiencia en la utilización de los recursos económicos mediante la dimensión adecuada de sus efectivos, su mejor distribución, formación, promoción profesional y movilidad",
+    "Reducir el número de empleados públicos mediante la amortización de las plazas que queden vacantes",
+    "Aumentar las retribuciones de los empleados públicos para incentivar su movilidad y promoción profesional"
+   ],
+   0,
+   "Art. 69.1.",
+   "trebep 69.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante personal de nuevo ingreso serán objeto de la Oferta de empleo público; su ejecución deberá desarrollarse dentro del plazo improrrogable de:",
+   [
+    "Tres años",
+    "Dos años",
+    "Cuatro años"
+   ],
+   0,
+   "Art. 70.1. Obliga a convocar las plazas comprometidas y hasta un diez por cien adicional.",
+   "trebep 70.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la Oferta de empleo público comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta:",
+   [
+    "Un diez por cien adicional",
+    "Un cinco por cien adicional",
+    "Un veinte por cien adicional"
+   ],
+   0,
+   "Art. 70.1.",
+   "trebep 70.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la Oferta de empleo público se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá ser:",
+   [
+    "Publicada en el Diario oficial correspondiente",
+    "Notificada a los sindicatos únicamente",
+    "Comunicada al Ministerio de Hacienda"
+   ],
+   0,
+   "Art. 70.2.",
+   "trebep 70.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, cada Administración Pública constituirá:",
+   [
+    "Un Registro en el que se inscribirán los datos relativos al personal contemplado en los artículos 2 y 5 del Estatuto",
+    "Un registro único estatal en el que se inscribirán todos los empleados públicos de todas las Administraciones",
+    "Un fichero de uso exclusivo de los sindicatos con los datos del personal al servicio de cada Administración"
+   ],
+   0,
+   "Art. 71.1.",
+   "trebep 71.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las del puesto que desempeñen:",
+   [
+    "Siempre que resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen sin merma en las retribuciones",
+    "En cualquier caso, a su libre criterio, aunque no resulten adecuadas a su clasificación, grado o categoría",
+    "Solo con el consentimiento del empleado y con una compensación económica adicional por las nuevas funciones"
+   ],
+   0,
+   "Art. 73.2.",
+   "trebep 73.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos similares, que comprenderán, al menos:",
+   [
+    "La denominación de los puestos, los grupos de clasificación, los cuerpos o escalas, los sistemas de provisión y las retribuciones complementarias; serán públicos",
+    "Solo la denominación de los puestos y las retribuciones complementarias; no serán públicos",
+    "Solo la plantilla presupuestaria de la entidad, con los grupos de clasificación profesional"
+   ],
+   0,
+   "Art. 74.",
+   "trebep 74",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los cuerpos y escalas de funcionarios se crean, modifican y suprimen por:",
+   [
+    "Ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas",
+    "Decreto del Gobierno de la Nación o del Consejo de Gobierno de la Comunidad Autónoma correspondiente",
+    "Acuerdo del Pleno de la Corporación, a propuesta del Alcalde y previa negociación con los sindicatos"
+   ],
+   0,
+   "Art. 75.2.",
+   "trebep 75.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los cuerpos y escalas se clasifican, de acuerdo con la titulación exigida para el acceso, en los grupos:",
+   [
+    "A (subgrupos A1 y A2), B y C (subgrupos C1 y C2)",
+    "A, B, C y D, según la titulación exigida para el acceso a los cuerpos o escalas",
+    "A1, A2, B, C1, C2 y E, según la titulación exigida para el acceso a los cuerpos o escalas"
+   ],
+   0,
+   "Art. 76.",
+   "trebep 76",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, para el acceso a los cuerpos o escalas del Subgrupo C2 se exige:",
+   [
+    "Título de Graduado en Educación Secundaria Obligatoria",
+    "Título de Bachiller o Técnico, que se exige para el acceso a los cuerpos o escalas de este Subgrupo",
+    "Título de Técnico Superior, que se exige para el acceso a los cuerpos o escalas de este Subgrupo"
+   ],
+   0,
+   "Art. 76. C1: Bachiller o Técnico; B: Técnico Superior; A: Grado universitario.",
+   "trebep 76",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, para el acceso a los cuerpos o escalas del Subgrupo C1 se exige:",
+   [
+    "Título de Bachiller o Técnico",
+    "Título de Graduado en ESO",
+    "Título de Técnico Superior"
+   ],
+   0,
+   "Art. 76.",
+   "trebep 76",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de:",
+   [
+    "Técnico Superior",
+    "Bachiller",
+    "Grado universitario"
+   ],
+   0,
+   "Art. 76.",
+   "trebep 76",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el personal laboral se clasificará:",
+   [
+    "De conformidad con la legislación laboral",
+    "De conformidad con el artículo 76 del Estatuto",
+    "Según lo que decida cada Administración libremente"
+   ],
+   0,
+   "Art. 77.",
+   "trebep 77",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el personal al servicio de las entidades locales estará integrado por:",
+   [
+    "Funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial",
+    "Solo funcionarios de carrera, quedando excluido el personal laboral y el eventual de confianza",
+    "Funcionarios de carrera y funcionarios interinos, sin personal laboral ni personal eventual"
+   ],
+   0,
+   "Art. 89.",
+   "lbrl 89",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto:",
+   [
+    "La plantilla, que deberá comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual",
+    "La relación de puestos de trabajo existentes, que se formará por las normas del Estado",
+    "La oferta de empleo público y las bases de las pruebas para la selección del personal"
+   ],
+   0,
+   "Art. 90.1.",
+   "lbrl 90.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.3 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las Corporaciones locales constituirán:",
+   [
+    "Registros de personal, coordinados con los de las demás Administraciones públicas, cuyos datos determinarán las nóminas",
+    "Un registro único con la Diputación Provincial, que centralizará los datos de todo el personal local",
+    "Un registro de funcionarios habilitados, coordinado con el Instituto de Estudios de Administración Local"
+   ],
+   0,
+   "Art. 90.3.",
+   "lbrl 90.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la selección de todo el personal, sea funcionario o laboral, debe realizarse:",
+   [
+    "De acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre, garantizando igualdad, mérito, capacidad y publicidad",
+    "Por libre designación del Alcalde, entre los candidatos que reúnan los requisitos de la convocatoria",
+    "Por concurso restringido a vecinos del municipio, con valoración de la antigüedad y el arraigo"
+   ],
+   0,
+   "Art. 91.2.",
+   "lbrl 91.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por:",
+   [
+    "Personal funcionario",
+    "Personal laboral",
+    "Personal eventual"
+   ],
+   0,
+   "Art. 92.2.",
+   "lbrl 92.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92.3 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, corresponde exclusivamente a los funcionarios de carrera al servicio de la Administración local:",
+   [
+    "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales, así como las que impliquen ejercicio de autoridad",
+    "Todas las funciones administrativas, incluidas las de mero trámite, que no puede ejercer el personal laboral",
+    "Las funciones de mero trámite y colaboración, que no pueden ser desempeñadas por personal laboral"
+   ],
+   0,
+   "Art. 92.3.",
+   "lbrl 92.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las retribuciones básicas de los funcionarios locales tendrán:",
+   [
+    "La misma estructura e idéntica cuantía que las establecidas con carácter general para toda la función pública",
+    "Cuantía fijada por cada Corporación local dentro de los límites del presupuesto aprobado por el Pleno",
+    "Cuantía fijada por la Comunidad Autónoma para los funcionarios de las entidades locales de su territorio"
+   ],
+   0,
+   "Art. 93.1. La cuantía global de las complementarias la fija el Pleno dentro de los límites del Estado (93.2).",
+   "lbrl 93",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.1 del Real Decreto Legislativo 781/1986, de 18 de abril, los funcionarios de carrera de la Administración local que no tengan habilitación de carácter nacional se integrarán en:",
+   [
+    "Las escalas de Administración General y Administración Especial de cada Corporación",
+    "Las escalas estatales de funcionarios de Administración local con habilitación de carácter nacional",
+    "Una escala única de Administración Local, agrupada en los grupos que determine la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 167.1.",
+   "rdleg781 167.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.2 del Real Decreto Legislativo 781/1986, de 18 de abril, la escala de administración general se divide en las subescalas:",
+   [
+    "Técnica, de gestión, administrativa, auxiliar y subalterna",
+    "Técnica, de gestión, administrativa, auxiliar, subalterna y de Servicios Especiales",
+    "Técnica, de gestión, administrativa, auxiliar, subalterna, de Servicios Especiales, Policía Local y Servicio de Extinción de Incendios"
+   ],
+   0,
+   "Art. 167.2.",
+   "rdleg781 167.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 3",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.3 del Real Decreto Legislativo 781/1986, de 18 de abril, la Escala de Administración Especial se divide en las Subescalas:",
+   [
+    "Técnica y de Servicios Especiales",
+    "Técnica, de gestión y administrativa",
+    "Técnica, administrativa y auxiliar"
+   ],
+   0,
+   "Art. 167.3.",
+   "rdleg781 167.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168 del Real Decreto Legislativo 781/1986, de 18 de abril, la provisión de puestos de trabajo reservados o que puedan ser desempeñados por funcionarios de carrera se regirá:",
+   [
+    "Por las normas que, en desarrollo de la legislación básica en materia de función pública local, dicte la Administración del Estado",
+    "Por las normas que apruebe cada Corporación local en ejercicio de su potestad de autoorganización",
+    "Por los convenios colectivos aplicables a cada Corporación, con arreglo al Estatuto de los Trabajadores"
+   ],
+   0,
+   "Art. 168.",
+   "rdleg781 168",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1 del Real Decreto Legislativo 781/1986, de 18 de abril, corresponde a los funcionarios de la Escala de Administración General:",
+   [
+    "El desempeño de funciones comunes al ejercicio de la actividad administrativa",
+    "Las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio",
+    "Las funciones de policía local"
+   ],
+   0,
+   "Art. 169.1.",
+   "rdleg781 169.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1 del Real Decreto Legislativo 781/1986, de 18 de abril, pertenecerán a la Subescala Técnica de Administración General los funcionarios que realicen:",
+   [
+    "Tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior",
+    "Tareas administrativas, normalmente de trámite y colaboración, de nivel medio en la organización",
+    "Tareas de mecanografía, despacho de correspondencia, archivo de documentos y cálculo sencillo"
+   ],
+   0,
+   "Art. 169.1 a).",
+   "rdleg781 169.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1 del Real Decreto Legislativo 781/1986, de 18 de abril, pertenecerán a la Subescala de gestión de Administración General los funcionarios que realicen:",
+   [
+    "Tareas de apoyo a las funciones de nivel superior",
+    "Tareas de gestión, estudio y propuesta de nivel superior",
+    "Tareas de mecanografía y archivo"
+   ],
+   0,
+   "Art. 169.1 b).",
+   "rdleg781 169.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1 del Real Decreto Legislativo 781/1986, de 18 de abril, pertenecerán a la Subescala Administrativa de Administración General los funcionarios que realicen:",
+   [
+    "Tareas administrativas, normalmente de trámite y colaboración",
+    "Tareas de apoyo a funciones de nivel superior",
+    "Tareas de mecanografía, despacho de correspondencia y cálculo sencillo"
+   ],
+   0,
+   "Art. 169.1 c).",
+   "rdleg781 169.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1 del Real Decreto Legislativo 781/1986, de 18 de abril, pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen:",
+   [
+    "Tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas, archivo de documentos y similares",
+    "Tareas administrativas de trámite y colaboración, junto con las de gestión de nivel superior",
+    "Tareas de vigilancia, custodia, porteo y ordenanza de edificios y dependencias de la Corporación"
+   ],
+   0,
+   "Art. 169.1 d).",
+   "rdleg781 169.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.1 del Real Decreto Legislativo 781/1986, de 18 de abril, tendrán la consideración de funcionarios de Administración Especial:",
+   [
+    "Los que tengan atribuido el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio",
+    "Los que realicen funciones administrativas comunes al ejercicio de la actividad de la Corporación",
+    "Los funcionarios con habilitación de carácter nacional que desempeñen puestos reservados"
+   ],
+   0,
+   "Art. 170.1.",
+   "rdleg781 170.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171.1 del Real Decreto Legislativo 781/1986, de 18 de abril, pertenecerán a la Subescala Técnica de Administración Especial los funcionarios que desarrollen:",
+   [
+    "Tareas objeto de una carrera para cuyo ejercicio exigen las leyes estar en posesión de determinados títulos académicos o profesionales; se dividen en Técnicos Superiores, Medios y Auxiliares",
+    "Tareas manuales referidas a un determinado oficio, industria o arte, sin exigencia de titulación",
+    "Tareas administrativas comunes de apoyo a las funciones de nivel superior de la Corporación"
+   ],
+   0,
+   "Art. 171.1.",
+   "rdleg781 171.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171.2 del Real Decreto Legislativo 781/1986, de 18 de abril, el ingreso en la Subescala Técnica de Administración Especial se hará:",
+   [
+    "Por oposición, concurso o concurso-oposición libre, según acuerde la Corporación, exigiéndose el título académico o profesional correspondiente",
+    "Solo por oposición libre, con exigencia del título académico o profesional de la clase correspondiente",
+    "Por libre designación del Alcalde, con exigencia del título académico o profesional correspondiente"
+   ],
+   0,
+   "Art. 171.2.",
+   "rdleg781 171.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 172.1 del Real Decreto Legislativo 781/1986, de 18 de abril, pertenecerán a la Subescala de Servicios Especiales los funcionarios que desarrollen:",
+   [
+    "Tareas que requieran una aptitud específica, y para cuyo ejercicio no se exija con carácter general la posesión de títulos académicos o profesionales determinados",
+    "Tareas que exijan siempre título universitario y para cuyo ejercicio se requiera una carrera profesional",
+    "Tareas administrativas comunes de la Corporación que no requieran aptitud específica alguna"
+   ],
+   0,
+   "Art. 172.1.",
+   "rdleg781 172.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 172.2 del Real Decreto Legislativo 781/1986, de 18 de abril, se comprenden en la Subescala de Servicios Especiales las clases de:",
+   [
+    "Policía Local y sus auxiliares, Servicio de Extinción de Incendios, Plazas de Cometidos Especiales, Personal de Oficios y Agentes forestales y medioambientales",
+    "Técnicos Superiores, Medios y Auxiliares, según el carácter y nivel del título exigido",
+    "Administrativos, auxiliares y subalternos, según el nivel de las tareas administrativas"
+   ],
+   0,
+   "Art. 172.2.",
+   "rdleg781 172.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173 del Real Decreto Legislativo 781/1986, de 18 de abril, la Policía Local ejercerá sus funciones:",
+   [
+    "De acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+    "De acuerdo con lo previsto en la Ley de Bases del Régimen Local, en el marco del Título X",
+    "De acuerdo con el reglamento de cada municipio exclusivamente, sin sujeción a la ley orgánica"
+   ],
+   0,
+   "Art. 173.",
+   "rdleg781 173",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 del Real Decreto Legislativo 781/1986, de 18 de abril, se comprenderán en la clase de cometidos especiales:",
+   [
+    "El personal de las Bandas de Música y los restantes funcionarios que realicen tareas de carácter predominantemente no manual no comprendidas en el artículo 171.1",
+    "Los funcionarios que realicen tareas predominantemente manuales en los distintos sectores de la Corporación",
+    "Los agentes forestales y medioambientales, junto con el personal de oficios de la Corporación"
+   ],
+   0,
+   "Art. 174.",
+   "rdleg781 174",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 del Real Decreto Legislativo 781/1986, de 18 de abril, se integrarán en la clase de Personal de Oficios los funcionarios que realicen:",
+   [
+    "Tareas de carácter predominantemente manual referidas a un determinado oficio, industria o arte; se clasifican en Encargado, Maestro, Oficial, Ayudante y Operario",
+    "Tareas de carácter predominantemente no manual, referidas a las diversas ramas de actuación de la Corporación",
+    "Tareas de policía y seguridad en lugares públicos, que se clasifican en escalas de mando"
+   ],
+   0,
+   "Art. 175.",
+   "rdleg781 175",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la jornada de trabajo de los funcionarios de la Administración local será:",
+   [
+    "En cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado",
+    "La que fije libremente cada Corporación local, atendiendo a las necesidades de sus servicios",
+    "La que fije la Comunidad Autónoma, con equivalencia y reducción de jornada propias"
+   ],
+   0,
+   "Art. 94.",
+   "lbrl 94",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será:",
+   [
+    "La establecida con carácter general para todas las Administraciones Públicas en el Estatuto básico de la función pública",
+    "La que establezca cada ayuntamiento en su acuerdo regulador de las condiciones de empleo",
+    "La establecida en la legislación laboral y en los convenios colectivos de cada sector"
+   ],
+   0,
+   "Art. 95.",
+   "lbrl 95",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el Instituto de Estudios de Administración Local desarrollará:",
+   [
+    "Cursos de perfeccionamiento, especialización y promoción para los funcionarios al servicio de las entidades locales",
+    "Las pruebas selectivas de todos los funcionarios locales, con sujeción a las bases de cada Corporación",
+    "La gestión del Padrón municipal y la formación de los registros de personal de las entidades locales"
+   ],
+   0,
+   "Art. 96.",
+   "lbrl 96",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse:",
+   [
+    "En el «Boletín Oficial del Estado», y las bases en el «Boletín Oficial de la Provincia»",
+    "En el Boletín Oficial de la Provincia únicamente, y las bases en el Boletín Oficial del Estado",
+    "En el boletín de la Comunidad Autónoma, y las bases en el Boletín Oficial de la Provincia"
+   ],
+   0,
+   "Art. 97. Las bases de las pruebas de habilitación nacional se publican en el BOE.",
+   "lbrl 97",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la selección, formación y habilitación de los funcionarios con habilitación de carácter nacional corresponde:",
+   [
+    "Al Instituto de Estudios de Administración Local, conforme a las bases y programas aprobados reglamentariamente",
+    "A cada Corporación local, que aprobará las bases y programas conforme a su plantilla",
+    "A las Comunidades Autónomas, que realizarán la selección y habilitación por delegación del Estado"
+   ],
+   0,
+   "Art. 98.1.",
+   "lbrl 98.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el concurso será el sistema normal de provisión de puestos de trabajo; los méritos generales, de preceptiva valoración, se determinarán por la Administración del Estado y su puntuación alcanzará:",
+   [
+    "El 65 por 100 del total posible",
+    "El 50 por 100 del total posible",
+    "El 75 por 100 del total posible"
+   ],
+   0,
+   "Art. 99.1. Méritos autonómicos: hasta 10 %; específicos de la Corporación: hasta 25 %.",
+   "lbrl 99.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los méritos correspondientes al conocimiento de las especialidades de la organización territorial de la Comunidad Autónoma y su normativa específica se fijarán por cada Comunidad Autónoma y su puntuación podrá alcanzar:",
+   [
+    "Hasta un 10 por 100 del total posible",
+    "Hasta un 25 por 100",
+    "Hasta un 5 por 100"
+   ],
+   0,
+   "Art. 99.1.",
+   "lbrl 99.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los méritos específicos de los concursos de funcionarios con habilitación nacional se podrán determinar por cada Corporación local y su puntuación alcanzará:",
+   [
+    "Hasta un 25 por 100 del total posible",
+    "Hasta un 10 por 100 del total posible",
+    "Hasta un 65 por 100 del total posible"
+   ],
+   0,
+   "Art. 99.1.",
+   "lbrl 99.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, es competencia de cada Corporación local la selección de los funcionarios:",
+   [
+    "Con la excepción de los funcionarios con habilitación de carácter nacional",
+    "Todos sin excepción, incluidos los funcionarios con habilitación de carácter nacional",
+    "Solo de los funcionarios de Administración General, quedando fuera los de Administración Especial"
+   ],
+   0,
+   "Art. 100.1.",
+   "lbrl 100.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los puestos de trabajo vacantes que deban ser cubiertos por funcionarios con habilitación nacional se proveerán en convocatoria pública por los procedimientos de:",
+   [
+    "Concurso de méritos o de libre designación",
+    "Oposición libre",
+    "Comisión de servicios"
+   ],
+   0,
+   "Art. 101.",
+   "lbrl 101",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las pruebas de selección y los concursos para la provisión de puestos de trabajo se regirán por las bases que apruebe:",
+   [
+    "El Presidente de la Corporación, a quien corresponderá su convocatoria",
+    "El Pleno, que también acordará su convocatoria y el nombramiento de los aprobados",
+    "La Junta de Gobierno Local, que convocará las pruebas y resolverá motivadamente los concursos"
+   ],
+   0,
+   "Art. 102.1.",
+   "lbrl 102.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, en las pruebas selectivas locales, el tribunal u órgano similar elevará la relación de aprobados:",
+   [
+    "Al Presidente de la Corporación para hacer el nombramiento",
+    "Al Pleno de la Corporación, para que haga el nombramiento de los funcionarios que corresponda",
+    "Al Secretario de la Corporación, para que formalice el nombramiento y la toma de posesión"
+   ],
+   0,
+   "Art. 102.2.",
+   "lbrl 102.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 103 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el personal laboral de la Corporación será seleccionado:",
+   [
+    "Por la propia Corporación, ateniéndose a lo dispuesto en el artículo 91 y con el máximo respeto al principio de igualdad de oportunidades",
+    "Por el Instituto de Estudios de Administración Local, conforme a las bases y programas reglamentarios",
+    "Por la Comunidad Autónoma, a través de sus institutos o escuelas de funcionarios"
+   ],
+   0,
+   "Art. 103.",
+   "lbrl 103",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el número, características y retribuciones del personal eventual será determinado:",
+   [
+    "Por el Pleno de cada Corporación al comienzo de su mandato, y solo podrá modificarse con motivo de la aprobación de los presupuestos anuales",
+    "Por el Alcalde en cualquier momento, sin necesidad de acuerdo del Pleno ni de modificación presupuestaria",
+    "Por la Junta de Gobierno Local anualmente, junto con la aprobación de la plantilla y del presupuesto"
+   ],
+   0,
+   "Art. 104.1.",
+   "lbrl 104.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el nombramiento y cese del personal eventual local es libre y corresponde:",
+   [
+    "Al Alcalde o Presidente de la entidad local, cesando automáticamente al cesar o expirar el mandato de la autoridad a la que presten su función",
+    "Al Pleno de la Corporación, cesando automáticamente al expirar el mandato de la autoridad",
+    "Al Secretario de la entidad, con cese cuando lo decida el Alcalde por razones de servicio"
+   ],
+   0,
+   "Art. 104.2.",
+   "lbrl 104.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de:",
+   [
+    "Igualdad, mérito, capacidad y publicidad",
+    "Igualdad, eficacia y capacidad",
+    "Mérito, capacidad y confianza"
+   ],
+   0,
+   "Art. 78.1.",
+   "trebep 78.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 27",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de:",
+   [
+    "Concurso y de libre designación con convocatoria pública",
+    "Libre designación únicamente, con convocatoria pública y apreciación discrecional de la idoneidad",
+    "Concurso-oposición, con valoración de méritos y superación de pruebas de conocimientos"
+   ],
+   0,
+   "Art. 78.2.",
+   "trebep 78.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, el concurso, como procedimiento normal de provisión de puestos de trabajo, consistirá en:",
+   [
+    "La valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos por órganos colegiados de carácter técnico, con composición profesional, especializada y paritaria",
+    "La designación discrecional de la idoneidad de los candidatos por el órgano competente",
+    "La realización de pruebas de oposición ante un órgano colegiado de carácter técnico y paritario"
+   ],
+   0,
+   "Art. 79.1.",
+   "trebep 79.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las leyes de Función Pública establecerán:",
+   [
+    "El plazo mínimo de ocupación de los puestos obtenidos por concurso para poder participar en otros concursos",
+    "Los criterios de libre designación únicamente, que se aplicarán a los puestos de especial confianza",
+    "Las retribuciones complementarias de cada puesto y el plazo máximo de ocupación de los mismos"
+   ],
+   0,
+   "Art. 79.2.",
+   "trebep 79.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la libre designación con convocatoria pública consiste en:",
+   [
+    "La apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto",
+    "La valoración objetiva de méritos y capacidades de los candidatos por un órgano colegiado técnico",
+    "La designación del candidato sin convocatoria pública, por el órgano competente para el nombramiento"
+   ],
+   0,
+   "Art. 80.1.",
+   "trebep 80.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.4 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los titulares de puestos provistos por libre designación con convocatoria pública:",
+   [
+    "Podrán ser cesados discrecionalmente, debiendo asignárseles un puesto conforme al sistema de carrera profesional propio de cada Administración",
+    "No pueden ser cesados, salvo que incurran en infracción disciplinaria muy grave debidamente sancionada",
+    "Solo pueden ser cesados por falta disciplinaria, previo expediente con audiencia del interesado"
+   ],
+   0,
+   "Art. 80.4.",
+   "trebep 80.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio o funcionales:",
+   [
+    "A unidades, departamentos u organismos distintos a los de su destino, respetando sus retribuciones y condiciones esenciales de trabajo",
+    "Con reducción de retribuciones y modificación de sus condiciones esenciales de trabajo",
+    "Sin necesidad de motivación, siempre que el traslado sea a otra unidad de la misma localidad"
+   ],
+   0,
+   "Art. 81.2.",
+   "trebep 81.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, en caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse:",
+   [
+    "Con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables",
+    "Definitivamente sin convocatoria pública, mediante nombramiento directo del órgano competente",
+    "Por libre designación sin límite de tiempo, hasta que se cubran por el sistema ordinario"
+   ],
+   0,
+   "Art. 81.3.",
+   "trebep 81.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, las mujeres víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde prestaban servicios tendrán derecho:",
+   [
+    "Al traslado a otro puesto propio de su cuerpo, escala o categoría, de análogas características, sin necesidad de que sea vacante de necesaria cobertura; tendrá la consideración de traslado forzoso",
+    "A un permiso sin sueldo de hasta seis meses para hacer efectiva su protección y asistencia",
+    "A la excedencia obligatoria con reserva del puesto durante los tres primeros años"
+   ],
+   0,
+   "Art. 82.1.",
+   "trebep 82.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la provisión de puestos y movilidad del personal laboral se realizará:",
+   [
+    "De conformidad con los convenios colectivos y, en su defecto, por el sistema del personal funcionario de carrera",
+    "Por libre designación del órgano competente de la Administración, con independencia del convenio",
+    "Por concurso restringido a los empleados de la propia entidad, según el Estatuto de los Trabajadores"
+   ],
+   0,
+   "Art. 83.",
+   "trebep 83",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación de:",
+   [
+    "Servicio en otras Administraciones Públicas",
+    "Servicio activo",
+    "Excedencia voluntaria"
+   ],
+   0,
+   "Art. 84.3.",
+   "trebep 84.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

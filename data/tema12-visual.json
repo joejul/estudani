@@ -423,5 +423,73 @@
     }
    ]
   }
+ ],
+ "glosario": [
+  [
+   "recursos-haciendas",
+   "Recursos de las haciendas locales",
+   "Fuentes de ingresos de las entidades locales: tributos, participación en los del Estado y Comunidad, ingresos patrimoniales y operaciones de crédito.",
+   "Art. 2 TRLRHL"
+  ],
+  [
+   "tasa-concepto",
+   "Tasa",
+   "Tributo que se paga por usar el dominio público o recibir un servicio que beneficia al obligado y que no se presta por el sector privado.",
+   "Art. 20 TRLRHL"
+  ],
+  [
+   "precio-publico-local",
+   "Precio público local",
+   "Contraprestación por servicios que sí pueden prestar los particulares o que se solicitan voluntariamente.",
+   "Art. 41 TRLRHL"
+  ],
+  [
+   "ibi",
+   "Impuesto sobre Bienes Inmuebles",
+   "Impuesto municipal obligatorio que grava la titularidad de bienes inmuebles.",
+   "Art. 60 TRLRHL"
+  ],
+  [
+   "iae",
+   "Impuesto sobre Actividades Económicas",
+   "Impuesto municipal obligatorio que grava el ejercicio de actividades económicas.",
+   "Art. 78 TRLRHL"
+  ],
+  [
+   "ivtm",
+   "Impuesto sobre Vehículos de Tracción Mecánica",
+   "Impuesto municipal obligatorio que grava la titularidad de vehículos aptos para circular.",
+   "Art. 92 TRLRHL"
+  ],
+  [
+   "icio",
+   "Impuesto sobre Construcciones, Instalaciones y Obras",
+   "Impuesto municipal potestativo que grava la realización de obras para las que se exige licencia.",
+   "Art. 100 TRLRHL"
+  ],
+  [
+   "iivtnu",
+   "Impuesto sobre el Incremento de Valor de los Terrenos",
+   "Impuesto municipal potestativo (plusvalía) sobre el aumento de valor de terrenos urbanos al transmitirlos.",
+   "Art. 104 TRLRHL"
+  ],
+  [
+   "participacion-tributos",
+   "Participación en tributos del Estado",
+   "Parte de la recaudación estatal que se reparte entre los municipios para financiarlos.",
+   "Art. 39 TRLRHL"
+  ],
+  [
+   "imposicion-ordenacion",
+   "Imposición y ordenación",
+   "El Ayuntamiento acuerda crear un tributo (imposición) y regula sus elementos mediante ordenanza fiscal (ordenación).",
+   "Art. 15 TRLRHL"
+  ],
+  [
+   "exencion-bonificacion",
+   "Exención y bonificación",
+   "La exención libra totalmente de pagar el tributo; la bonificación solo reduce la cuota.",
+   "TRLRHL"
+  ]
  ]
 }

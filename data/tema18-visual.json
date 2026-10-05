@@ -40,6 +40,72 @@
    "Inhabilitación",
    "Pena que impide ocupar cargos públicos. Si es firme, hace perder la condición de funcionario.",
    "Art. 63 TREBEP"
+  ],
+  [
+   "oferta-empleo",
+   "Oferta de empleo público",
+   "Plazas vacantes que la Administración decide cubrir en un año, aprobada por el órgano competente.",
+   "Art. 70 TREBEP"
+  ],
+  [
+   "proceso-selectivo",
+   "Proceso selectivo",
+   "Procedimiento para elegir a los empleados públicos: oposición, concurso-oposición o, excepcionalmente, concurso.",
+   "Art. 61 TREBEP"
+  ],
+  [
+   "oposicion",
+   "Oposición",
+   "Sistema selectivo basado en pruebas de conocimientos y capacidades.",
+   "Art. 61 TREBEP"
+  ],
+  [
+   "concurso",
+   "Concurso",
+   "Sistema selectivo basado en la valoración de méritos.",
+   "Art. 61 TREBEP"
+  ],
+  [
+   "provision-puestos",
+   "Provisión de puestos",
+   "Forma de cubrir un puesto concreto: concurso o libre designación con convocatoria pública.",
+   "Art. 78 TREBEP"
+  ],
+  [
+   "servicio-activo",
+   "Servicio activo",
+   "Situación del funcionario que presta servicios en su puesto.",
+   "Art. 87 TREBEP"
+  ],
+  [
+   "servicios-especiales",
+   "Servicios especiales",
+   "Situación del funcionario que ejerce un cargo público o misión específica, con reserva de plaza y cómputo de antigüedad.",
+   "Art. 87 TREBEP"
+  ],
+  [
+   "suspension-funciones",
+   "Suspensión de funciones",
+   "Situación en que el funcionario queda privado de sus funciones y derechos durante el tiempo que dure la suspensión.",
+   "Art. 90 TREBEP"
+  ],
+  [
+   "separacion-servicio",
+   "Separación del servicio",
+   "Sanción por falta muy grave que hace perder la condición de funcionario.",
+   "Art. 96 TREBEP"
+  ],
+  [
+   "incompatibilidades",
+   "Incompatibilidades",
+   "Prohibición de compatibilizar el puesto público con otros trabajos o actividades que afecten a su imparcialidad.",
+   "Ley 53/1984"
+  ],
+  [
+   "jubilacion",
+   "Jubilación",
+   "Pérdida de la condición de funcionario por cumplir la edad legal (jubilación forzosa a los 65 años).",
+   "Art. 67 TREBEP"
   ]
  ],
  "hubs": [

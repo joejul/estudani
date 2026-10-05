@@ -28,6 +28,60 @@
    "Plantilla",
    "Relación de todos los puestos de trabajo (funcionarios, laborales y eventuales) de una Corporación. Se aprueba cada año con el Presupuesto.",
    "Art. 90 LBRL"
+  ],
+  [
+   "funcion-publica-local",
+   "Función pública local",
+   "Régimen de los empleados de las entidades locales, regido por la legislación básica y la autonómica.",
+   "Arts. 91 a 94 LBRL"
+  ],
+  [
+   "funcionarios-habilitacion",
+   "Funcionarios con habilitación de carácter nacional",
+   "Funcionarios locales para funciones de secretaría, intervención-tesorería, reservadas por el Estado.",
+   "Art. 92 bis LBRL"
+  ],
+  [
+   "secretaria-intervencion",
+   "Secretaría-intervención",
+   "Subescala que ejerce funciones de secretaría e intervención en municipios pequeños.",
+   "RD 128/2018"
+  ],
+  [
+   "relacion-puestos",
+   "Relación de puestos de trabajo",
+   "Instrumento que ordena los puestos de la Administración: denominación, funciones, requisitos y retribuciones.",
+   "Art. 74 TREBEP"
+  ],
+  [
+   "retribuciones-basicas",
+   "Retribuciones básicas",
+   "Sueldo, trienios y pagas extraordinarias.",
+   "Art. 23 TREBEP"
+  ],
+  [
+   "retribuciones-complementarias",
+   "Retribuciones complementarias",
+   "Complemento de destino, específico, de productividad y gratificaciones.",
+   "Art. 24 TREBEP"
+  ],
+  [
+   "trienio",
+   "Trienio",
+   "Retribución que se cobra por cada tres años de servicio.",
+   "Art. 23 TREBEP"
+  ],
+  [
+   "personal-eventual-local",
+   "Personal eventual",
+   "Personal de confianza o asesoramiento especial, cuyo nombramiento y cese son libres.",
+   "Art. 104 bis LBRL"
+  ],
+  [
+   "escala-administracion-general",
+   "Escala de Administración general",
+   "Escala con funciones administrativas comunes, que incluye las subescalas técnica, de gestión, administrativa y auxiliar.",
+   "Art. 167 TRRL"
   ]
  ],
  "hubs": [

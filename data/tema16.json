@@ -7,7 +7,7 @@
   {
    "id": "e0",
    "titulo": "Potestad reglamentaria, reglamentos y ordenanzas",
-   "subtitulo": "Art. 4 LBRL y art. 139 Ley 7/1999",
+   "subtitulo": "Arts. 4 LBRL, 139 Ley 7/1999 y 125-126 del Reglamento aragonés",
    "clave": [
     "Potestad reglamentaria (4.1.a)",
     "Reglamento frente a ordenanza (139.1)",
@@ -67,12 +67,51 @@
     "Reglamento = organización y funcionamiento · Ordenanza = el resto (139.1)",
     "Jerarquía y competencia · no hay dispensa singular (139.2-3)"
    ],
-   "ic": "📘"
+   "ic": "📘",
+   "articulos": [
+    [
+     "lbrl",
+     "4",
+     "Potestades de municipios, provincias e islas",
+     "Los **municipios, las provincias y las islas** tienen, en todo caso y dentro de sus competencias: **a)** **potestades reglamentaria y de autoorganización**; **b)** **potestades tributaria y financiera**; **c)** **programación o planificación**; **d)** **expropiatoria** y de **investigación, deslinde y recuperación de oficio** de sus bienes; **e)** **presunción de legitimidad y ejecutividad** de sus actos; **f)** **ejecución forzosa y sancionadora**; **g)** **revisión de oficio**; **h)** **prelaciones y preferencias de la Hacienda Pública** e **inembargabilidad** de sus bienes.",
+     "¿Qué ocho potestades enumera el art. 4.1 LBRL?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "139",
+     "Reglamentos y ordenanzas: denominación, jerarquía y vinculación",
+     "Las **disposiciones generales** de las entidades locales se llaman **reglamentos** si regulan la **organización y funcionamiento** de la entidad, y **ordenanzas** en los demás casos. Se integran en el ordenamiento con sujeción a **jerarquía normativa y competencia**. **Vinculan por igual a ciudadanos y a la entidad local**, que **no puede dispensar individualmente** su observancia.",
+     "¿Cuál es la diferencia entre reglamento y ordenanza según el art. 139 de la Ley 7/1999?"
+    ],
+    [
+     "rbaso",
+     "125",
+     "Reglamentos y ordenanzas en el Reglamento aragonés",
+     "Igual que la Ley 7/1999: **reglamentos** (organización y funcionamiento) y **ordenanzas** (demás casos); **jerarquía y competencia**; vinculan por igual a **ciudadanos y entidad**, que no puede **dispensar individualmente**.",
+     "¿Qué denominación reciben las disposiciones generales sobre organización y funcionamiento de la entidad?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "126",
+     "Clases de ordenanzas municipales",
+     "Además de las **ordenanzas fiscales, urbanísticas, de instalaciones industriales y comerciales, de actividades clasificadas y protección medioambiental y de aprovechamiento de bienes**, los municipios pueden aprobar **disposiciones generales** para regular las actividades de los ciudadanos, como una **ordenanza general para el buen gobierno** de la localidad, que recoja la **convivencia en medio urbano y rural** y, en su caso, la **costumbre local**.",
+     "¿Qué es la ordenanza general para el buen gobierno de la localidad?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e1",
    "titulo": "Procedimiento de aprobación",
-   "subtitulo": "Art. 49 LBRL, art. 140 Ley 7/1999 y art. 48 Ley 10/2017",
+   "subtitulo": "Arts. 49 y 70 bis LBRL; 140 Ley 7/1999; 48 Ley 10/2017; 127-132 del Reglamento aragonés",
    "clave": [
     "Aprobación inicial por el Pleno (49.a)",
     "Información pública: mínimo 30 días (49.b)",
@@ -151,12 +190,105 @@
     "Sin reclamaciones: definitivo automáticamente",
     "Zaragoza: Gobierno aprueba proyecto → información 30 días naturales → Comisión → Pleno en acto único → publicación"
    ],
-   "ic": "📝"
+   "ic": "📝",
+   "articulos": [
+    [
+     "lbrl",
+     "49",
+     "Procedimiento básico de aprobación de las ordenanzas locales",
+     "**a)** **Aprobación inicial por el Pleno**; **b)** **información pública y audiencia** a los interesados **mínimo treinta días** para reclamaciones y sugerencias; **c)** **resolución de reclamaciones y aprobación definitiva por el Pleno**. Si **no hay reclamaciones**, el acuerdo provisional **se entiende definitivo**.",
+     "¿Cuál es el plazo mínimo de información pública en la aprobación de ordenanzas locales?"
+    ],
+    [
+     "l7-1999",
+     "140",
+     "Procedimiento de elaboración de reglamentos y ordenanzas en Aragón",
+     "**a)** **Aprobación inicial por el Pleno**; **b)** **información pública** (anuncio en el **BOA** y en el tablón) **mínimo treinta días**; **c)** **audiencia previa a asociaciones vecinales y de consumidores** inscritas con fines relacionados; **d)** **resolución de reclamaciones y aprobación definitiva por el Pleno**. Si no hay reclamaciones, **se entiende definitivo**. Para **modificar** se siguen **los mismos trámites**.",
+     "¿A quién se concede audiencia previa en el procedimiento aragonés de aprobación de ordenanzas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l10-2017",
+     "48",
+     "Aprobación de ordenanzas y reglamentos municipales de Zaragoza",
+     "**Iniciativa:** el **Gobierno de Zaragoza** (proyecto), los **grupos políticos** (proposición) y la **iniciativa popular**. **Procedimiento:** **aprobación del proyecto por el Gobierno de Zaragoza** (salvo normas del Pleno y sus Comisiones, que aprueba el Pleno); **información pública y audiencia mínimo treinta días naturales**; remisión a la **Comisión plenaria** para **dictamen**; **aprobación en acto único por el Pleno** resolviendo reclamaciones; **publicación íntegra** en el boletín oficial.",
+     "¿Qué órgano aprueba el proyecto de ordenanza en Zaragoza y cuál la aprueba en acto único?"
+    ],
+    [
+     "lbrl",
+     "70 bis",
+     "Participación vecinal e iniciativa popular local",
+     "Los ayuntamientos establecen en **normas orgánicas** procedimientos y órganos para la **participación efectiva** de los vecinos (en el municipio y los **distritos**). Los vecinos con **derecho de sufragio activo** pueden ejercer la **iniciativa popular** (propuestas de acuerdos, actuaciones o **proyectos de reglamentos**) suscritas por **20 % (hasta 5.000 hab.), 15 % (5.001 a 20.000) o 10 % (desde 20.001)**. Se **debaten y votan en el Pleno**, con **informe de legalidad del secretario** (e informe del interventor si afecta a derechos u obligaciones económicas).",
+     "¿Qué porcentaje de vecinos debe suscribir una iniciativa popular en un municipio de más de 20.000 habitantes?"
+    ],
+    [
+     "rbaso",
+     "127",
+     "Procedimiento de elaboración y aprobación de reglamentos y ordenanzas",
+     "Se rige por la **Ley 7/1999**, la legislación sectorial y este Reglamento. Las **ordenanzas fiscales y urbanísticas** siguen el **procedimiento de su legislación específica**.",
+     "¿Qué procedimiento siguen las ordenanzas fiscales y urbanísticas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "128",
+     "Iniciativa para formar o modificar reglamentos y ordenanzas",
+     "La iniciativa corresponde a los **órganos de las Entidades locales**. Los **vecinos** pueden **instarla**, individualmente o a través de **entidades o asociaciones** para la defensa de los derechos de los ciudadanos.",
+     "¿Quién puede instar la formación de un reglamento o una ordenanza?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "129",
+     "Formación del proyecto de reglamento u ordenanza",
+     "Se ordena la iniciación de los **trabajos preparatorios** hasta la **redacción del proyecto**; se incorporan al expediente **estudios, informes y dictámenes** (internos o externos). Las entidades pueden pedir **colaboración técnica y económica** de las **Diputaciones** y de la **Comarca**.",
+     "¿Qué colaboración pueden solicitar las entidades locales para formar reglamentos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "130",
+     "Aprobación inicial, información pública y audiencia",
+     "Aprueba inicialmente el **Pleno**. **Información pública** con anuncio en el **BOA** y el tablón, **mínimo treinta días**. **Audiencia previa** a asociaciones vecinales y de consumidores inscritas con fines relacionados, sin perjuicio de la debida a quienes ejercieron la iniciativa.",
+     "¿Quién aprueba inicialmente el proyecto de reglamento u ordenanza?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "131",
+     "Propuesta de aprobación tras las reclamaciones",
+     "Las **reclamaciones, reparos u observaciones** se estudian por la **comisión informativa** correspondiente; una vez informadas, se formula la **propuesta de aprobación** del reglamento u ordenanza.",
+     "¿Qué órgano estudia las reclamaciones presentadas al proyecto?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "132",
+     "Aprobación definitiva, remisión y mayorías",
+     "La **aprobación definitiva** corresponde al **Pleno**, que resuelve **motivadamente** las reclamaciones. Si no hay reclamaciones, el acuerdo inicial **se eleva a definitivo**, acreditado por el **Secretario**. **Regla general: mayoría simple**; **mayoría absoluta** para instrumentos de **planeamiento general**, **ordenanzas fiscales**, **reglamento orgánico** y **ordenanzas de aprovechamiento de bienes comunales**, entre otros (texto oficial).",
+     "¿Qué ordenanzas requieren mayoría absoluta del Pleno?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "Ordenanzas fiscales, entrada en vigor y bandos",
-   "subtitulo": "Arts. 15-17 TRLRHL; 141-142 Ley 7/1999",
+   "subtitulo": "Arts. 15-19 TRLRHL; 49 Ley 10/2017; 141-143 Ley 7/1999; 50 LBRL; 133 del Reglamento aragonés",
    "clave": [
     "Ordenanzas fiscales: 30 días de exposición (17.1)",
     "Entrada en vigor: 15 días tras la publicación (141.1)",
@@ -225,7 +357,110 @@
     "General: efectos a los 15 días de publicar (141.1) · fiscal: al publicar (141.2)",
     "Bandos: exhortan, usos y costumbre, catástrofe: medidas e informe al Pleno (142)"
    ],
-   "ic": "📣"
+   "ic": "📣",
+   "articulos": [
+    [
+     "trlrhl",
+     "15",
+     "Ordenanzas fiscales: acuerdo de imposición y supresión de tributos",
+     "Las entidades locales **acuerdan la imposición y supresión** de sus tributos propios y aprueban las **ordenanzas fiscales**, salvo los **impuestos obligatorios (art. 59.1)**, en que si el ayuntamiento quiere usar sus facultades de fijar elementos de cuota, debe **acordarlo y aprobar ordenanza**. También pueden aprobar ordenanzas **de gestión, liquidación, inspección y recaudación**.",
+     "¿Qué tributos locales no exigen acuerdo de imposición?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trlrhl",
+     "16",
+     "Contenido de las ordenanzas fiscales",
+     "Contienen **al menos**: **hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo o cuota, período impositivo y devengo**; **regímenes de declaración e ingreso**; **fechas de aprobación y comienzo de aplicación**. Se aprueban **simultáneamente al acuerdo de imposición**; las modificaciones recogen la **nueva redacción** y las fechas.",
+     "¿Qué elementos mínimos debe contener una ordenanza fiscal?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trlrhl",
+     "17",
+     "Elaboración y publicación de ordenanzas fiscales: treinta días",
+     "Los **acuerdos provisionales** y las ordenanzas se exponen en el **tablón de anuncios durante treinta días como mínimo** para **reclamaciones**. Se publican anuncios en el **boletín oficial de la provincia** y, en diputaciones, entes supramunicipales y **ayuntamientos de más de 10.000 habitantes**, además en **un diario de mayor difusión**. Si **no hay reclamaciones**, el acuerdo provisional se **entiende definitivo sin nuevo acuerdo del Pleno**. Los acuerdos definitivos se **publican** (texto íntegro) para su entrada en vigor.",
+     "¿Cuántos días mínimo se expone el acuerdo provisional y qué pasa si no hay reclamaciones?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trlrhl",
+     "18",
+     "Interesados para reclamar contra acuerdos provisionales",
+     "Son interesados: **a)** quienes tengan **interés directo** o resulten **afectados**; **b)** **colegios oficiales, cámaras, asociaciones y entidades** legalmente constituidas que defiendan **intereses profesionales, económicos o vecinales** propios.",
+     "¿Quiénes pueden reclamar contra los acuerdos provisionales de ordenanzas fiscales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trlrhl",
+     "19",
+     "Recurso contencioso contra las ordenanzas fiscales",
+     "Las ordenanzas rigen durante el plazo **determinado o indefinido** que fijen; **solo cabe el recurso contencioso-administrativo**, desde su **publicación** en el boletín oficial. Si una sentencia firme **anula o modifica** los acuerdos u ordenanzas, la entidad **adecúa sus actuaciones posteriores** a ella; **se mantienen los actos firmes** salvo prohibición expresa.",
+     "¿Qué único recurso cabe contra una ordenanza fiscal?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l10-2017",
+     "49",
+     "Aprobación de las ordenanzas fiscales de Zaragoza",
+     "Se tramitan como las demás ordenanzas con **especialidades**: el **Gobierno de Zaragoza** aprueba el **proyecto** y lo remite a la **Comisión plenaria** para **dictamen y aprobación inicial**; **exposición pública mínimo treinta días** (boletín, tablón y **sede electrónica**); la Comisión propone al **Pleno** resolver reclamaciones y **aprobar en acto único**. Si **no hay reclamaciones**, la ordenanza fiscal se entiende **definitivamente aprobada**.",
+     "¿Quién dictamina y aprueba inicialmente la ordenanza fiscal de Zaragoza?"
+    ],
+    [
+     "l7-1999",
+     "141",
+     "Entrada en vigor de reglamentos y ordenanzas",
+     "No producen efectos jurídicos hasta que pasen **quince días desde el día siguiente a la publicación íntegra en el boletín oficial de la provincia**; en ese plazo el Estado o la Comunidad pueden **requerir su anulación**. Las **ordenanzas fiscales** entran en vigor al publicarse íntegramente el **acuerdo definitivo y el texto**, salvo que se demore su aplicación.",
+     "¿Cuántos días deben transcurrir desde la publicación para que un reglamento produzca efectos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rbaso",
+     "133",
+     "Publicación, edición y consulta de reglamentos y ordenanzas",
+     "No producen efectos hasta **quince días desde la publicación del texto íntegro en el BOA**; las **ordenanzas fiscales** entran en vigor al publicarse el acuerdo definitivo y el texto. Se publica también la **referencia del BOA** en el boletín informativo y el **tablón**. Las entidades **editan** sus normas y mantienen una **recopilación ordenada** para consulta.",
+     "¿Dónde se publica el texto íntegro de los reglamentos y ordenanzas aragoneses?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l7-1999",
+     "142",
+     "Bandos de los Alcaldes: finalidad y medidas de urgencia",
+     "Los **bandos** del Alcalde sirven para **exhortar a los ciudadanos** a cumplir las leyes, ordenanzas y reglamentos, **recordar obligaciones y plazos** y hacer **convocatorias populares**; se publican **según los usos y costumbres** locales. **En catástrofe, infortunio público o grave riesgo**, el Alcalde puede adoptar **medidas necesarias y adecuadas**, **dando cuenta inmediata al Pleno**.",
+     "¿Qué puede hacer el Alcalde mediante bando en caso de catástrofe y a quién da cuenta?"
+    ],
+    [
+     "lbrl",
+     "50",
+     "Conflictos de atribuciones y de competencias entre órganos locales",
+     "**Conflictos de atribuciones** entre órganos y entidades de una misma Corporación: los resuelve **el Pleno** si afectan a **órganos colegiados**, miembros o entidades del art. 45; **el Alcalde o Presidente** en los demás. **Conflictos de competencias** entre entidades locales: los resuelve la **Administración de la CCAA o del Estado** previa audiencia. **Deslindes entre municipios de distintas CCAA**: el **Estado**, con informe del IGN y dictamen del Consejo de Estado.",
+     "¿Quién resuelve los conflictos de atribuciones que afecten a órganos colegiados?"
+    ],
+    [
+     "l7-1999",
+     "143",
+     "Conflictos de atribuciones en la Ley 7/1999 de Aragón",
+     "Los **conflictos de atribuciones positivos o negativos** entre órganos y entidades de una misma Corporación los resuelven el **Pleno** (si afectan a órganos colegiados, sus miembros o entidades dependientes del municipio) o el **Alcalde o Presidente** en los demás casos. Procedimiento: **requerimiento de inhibición**, remisión de actuaciones y, si hay incompetencia, decisión **en ocho días**.",
+     "¿En cuántos días decide sobre su competencia el órgano al que se remiten las actuaciones por incompetencia?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -580,6 +815,824 @@
    [
     "cuenta inmediata"
    ]
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, corresponden en todo caso a los municipios, las provincias y las islas, dentro de la esfera de sus competencias:",
+   [
+    "Las potestades reglamentaria y de autoorganización, tributaria y financiera, de programación o planificación, expropiatoria, de ejecución forzosa y sancionadora, y de revisión de oficio",
+    "Solo las potestades reglamentaria y de autoorganización, y las de programación o planificación",
+    "Las potestades legislativa y reglamentaria, así como las tributaria y financiera en todo su alcance"
+   ],
+   0,
+   "Art. 4.1.",
+   "lbrl 4.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, entre las potestades de municipios, provincias e islas se encuentra:",
+   [
+    "La presunción de legitimidad y la ejecutividad de sus actos",
+    "La potestad legislativa, en las materias de competencia propia de cada entidad local",
+    "La inviolabilidad de sus miembros por los votos y opiniones emitidos en el ejercicio de su cargo"
+   ],
+   0,
+   "Art. 4.1 e).",
+   "lbrl 4.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales:",
+   [
+    "Debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades",
+    "Automáticamente todas ellas, sin necesidad de que las leyes de las comunidades autónomas las concreten",
+    "Según decida cada entidad en sus estatutos, también en el caso de las mancomunidades de municipios"
+   ],
+   0,
+   "Art. 4.2.",
+   "lbrl 4.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las disposiciones generales aprobadas por las entidades locales que tengan por objeto regular la organización y funcionamiento de la entidad local adoptarán la denominación de:",
+   [
+    "Reglamentos",
+    "Ordenanzas",
+    "Bandos"
+   ],
+   0,
+   "Art. 139.1. En otro caso, ordenanzas.",
+   "l7-1999 139.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 29",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las disposiciones generales aprobadas por las entidades locales que no tengan por objeto regular su organización y funcionamiento adoptarán la denominación de:",
+   [
+    "Ordenanzas",
+    "Reglamentos",
+    "Decretos"
+   ],
+   0,
+   "Art. 139.1.",
+   "l7-1999 139.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de:",
+   [
+    "Jerarquía normativa y competencia",
+    "Jerarquía y desconcentración",
+    "Legalidad y proporcionalidad"
+   ],
+   0,
+   "Art. 139.2.",
+   "l7-1999 139.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139.3 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que ésta pueda:",
+   [
+    "Dispensar individualmente de su observancia",
+    "Modificarlo mediante ordenanza posterior",
+    "Aplicarlo con carácter retroactivo"
+   ],
+   0,
+   "Art. 139.3.",
+   "l7-1999 139.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y:",
+   [
+    "Las demás son ordenanzas",
+    "Las demás son bandos",
+    "Las demás son decretos normativos"
+   ],
+   0,
+   "Art. 125.1 del Reglamento aragonés.",
+   "rbaso 125",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, los municipios podrán aprobar, entre otras, una ordenanza general:",
+   [
+    "Para el buen gobierno de la localidad, que recoja las normas que regulen la actividad y la convivencia de los ciudadanos en el medio urbano y rural y, en su caso, la costumbre local",
+    "Para fijar los impuestos municipales y las tasas por la prestación de los servicios locales",
+    "Para organizar el funcionamiento del Pleno y de las comisiones informativas de la corporación"
+   ],
+   0,
+   "Art. 126.",
+   "rbaso 126",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento:",
+   [
+    "Aprobación inicial por el Pleno, información pública y audiencia por un plazo mínimo de treinta días, y resolución de reclamaciones con aprobación definitiva por el Pleno",
+    "Aprobación inicial por el Alcalde, información pública de diez días y aprobación definitiva por la Junta de Gobierno",
+    "Aprobación inicial por la Junta de Gobierno, información pública de quince días y aprobación por el Pleno"
+   ],
+   0,
+   "Art. 49.",
+   "lbrl 49",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, si en el procedimiento de aprobación de una ordenanza local no se hubiera presentado ninguna reclamación o sugerencia:",
+   [
+    "Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional",
+    "Debe aprobarse de nuevo por el Pleno para entenderse definitivamente adoptado el acuerdo",
+    "Se remite a la Comunidad Autónoma para su aprobación y posterior publicación en el boletín"
+   ],
+   0,
+   "Art. 49 in fine.",
+   "lbrl 49",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas, el plazo mínimo de información pública es de:",
+   [
+    "Treinta días, previo anuncio en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad",
+    "Quince días, previo anuncio en el BOA y en el tablón de anuncios de la entidad",
+    "Veinte días, previo anuncio en el boletín de la provincia y en el tablón de anuncios"
+   ],
+   0,
+   "Art. 140.1 b).",
+   "l7-1999 140.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas debe concederse, además, audiencia previa:",
+   [
+    "A las asociaciones vecinales y de defensa de los consumidores y usuarios inscritas en el Registro correspondiente, cuyos fines guarden relación directa con el objeto de la disposición",
+    "A todos los vecinos del municipio, mediante anuncio en el tablón de edictos de la entidad",
+    "A las cámaras de comercio y a los colegios profesionales con sede en el ámbito territorial"
+   ],
+   0,
+   "Art. 140.1 c).",
+   "l7-1999 140.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, para la modificación de las ordenanzas y reglamentos locales deberán seguirse:",
+   [
+    "Los mismos trámites que para su aprobación",
+    "Un procedimiento simplificado",
+    "Solo la aprobación por el Pleno"
+   ],
+   0,
+   "Art. 140.2.",
+   "l7-1999 140.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en Zaragoza, la iniciativa para la aprobación de ordenanzas y reglamentos de competencia del Pleno corresponderá a:",
+   [
+    "El Gobierno de Zaragoza (mediante proyecto normativo), los grupos políticos (mediante proposición) y la iniciativa popular",
+    "Solo el Gobierno de Zaragoza, mediante la remisión del correspondiente proyecto normativo",
+    "Solo el Alcalde, mediante decreto, y la iniciativa popular en los términos de la normativa básica"
+   ],
+   0,
+   "Art. 48.2.",
+   "l10-2017 48",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en Zaragoza, el proyecto de ordenanza o reglamento es aprobado por el Gobierno de Zaragoza, excepto:",
+   [
+    "Los proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponde al Pleno",
+    "Los proyectos de ordenanzas fiscales, cuya aprobación corresponde siempre al Pleno",
+    "Los proyectos de reglamentos orgánicos, cuya aprobación corresponde siempre al Pleno"
+   ],
+   0,
+   "Art. 48.3 a).",
+   "l10-2017 48",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de:",
+   [
+    "Treinta días naturales",
+    "Quince días naturales",
+    "Treinta días hábiles"
+   ],
+   0,
+   "Art. 48.3 b).",
+   "l10-2017 48",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en Zaragoza, tras la información pública, el proyecto se remitirá:",
+   [
+    "A la Comisión plenaria competente, con todas las reclamaciones y sugerencias recibidas, para la emisión del dictamen",
+    "Directamente al Pleno, para su aprobación en acto único, sin dictamen de comisión",
+    "A la Junta de Portavoces, para que emita informe antes de la aprobación en el Pleno"
+   ],
+   0,
+   "Art. 48.3 c).",
+   "l10-2017 48",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los vecinos con derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal, suscritas, en municipios de más de 20.000 habitantes, por:",
+   [
+    "El 10 por ciento de los vecinos",
+    "El 20 por ciento de los vecinos",
+    "El 5 por ciento de los vecinos"
+   ],
+   0,
+   "Art. 70 bis.2: hasta 5.000 hab. 20 %; de 5.001 a 20.000, 15 %; desde 20.001, 10 %.",
+   "lbrl 70 bis",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, en la iniciativa popular local, en los municipios de hasta 5.000 habitantes, la iniciativa deberá ir suscrita al menos por:",
+   [
+    "El 20 por ciento de los vecinos",
+    "El 10 por ciento de los vecinos",
+    "El 15 por ciento de los vecinos"
+   ],
+   0,
+   "Art. 70 bis.2 a).",
+   "lbrl 70 bis",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las iniciativas populares locales deberán ser sometidas a debate y votación en el Pleno, requiriéndose en todo caso:",
+   [
+    "El previo informe de legalidad del secretario del ayuntamiento, y del interventor cuando afecte a derechos y obligaciones de contenido económico",
+    "El informe del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
+    "El informe del Alcalde sobre la oportunidad de la iniciativa y su coste para el presupuesto"
+   ],
+   0,
+   "Art. 70 bis.2.",
+   "lbrl 70 bis",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los ayuntamientos deberán establecer y regular en normas de carácter orgánico:",
+   [
+    "Procedimientos y órganos adecuados para la efectiva participación de los vecinos en los asuntos de la vida pública local, en el ámbito del municipio y de los distritos",
+    "Solo el procedimiento de iniciativa popular, sin regular órganos de participación en los distritos",
+    "Los órganos de gobierno del municipio y la composición de las comisiones informativas del Pleno"
+   ],
+   0,
+   "Art. 70 bis.1.",
+   "lbrl 70 bis",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 127 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, en la aprobación y modificación de las ordenanzas fiscales y las urbanísticas se seguirá:",
+   [
+    "El procedimiento establecido en la legislación específica que resulte aplicable",
+    "El procedimiento general de reglamentos y ordenanzas, sin especialidades por razón de la materia",
+    "El procedimiento de las ordenanzas de buen gobierno, con información pública de quince días"
+   ],
+   0,
+   "Art. 127.2.",
+   "rbaso 127",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 128 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde:",
+   [
+    "A los órganos de las Entidades locales, pudiendo los vecinos instarla individualmente o a través de entidades o asociaciones legalmente constituidas",
+    "Solo a los vecinos, que podrán instarla individualmente, sin intervención de los órganos de la entidad",
+    "Solo al Alcalde, que decidirá sobre la formación de reglamentos y ordenanzas de forma discrecional"
+   ],
+   0,
+   "Art. 128.",
+   "rbaso 128",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 129 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las Entidades locales podrán solicitar la colaboración técnica y económica, para la formación o modificación de reglamentos y ordenanzas, de:",
+   [
+    "Las Diputaciones Provinciales y, en su caso, de la Comarca",
+    "El Gobierno de Aragón exclusivamente, a través del departamento competente en administración local",
+    "La Federación Española de Municipios y Provincias, mediante convenio con la entidad local"
+   ],
+   0,
+   "Art. 129.3.",
+   "rbaso 129",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, corresponde la aprobación inicial del proyecto de reglamento u ordenanza:",
+   [
+    "Al Pleno de la Entidad local, con información pública de treinta días como mínimo mediante anuncio en el BOA y en el tablón de anuncios",
+    "A la Junta de Gobierno Local, con información pública de quince días mediante anuncio en el BOP",
+    "Al Alcalde, con información pública de treinta días mediante anuncio en el tablón de anuncios"
+   ],
+   0,
+   "Art. 130.1 y 2.",
+   "rbaso 130",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 131 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las reclamaciones, reparos u observaciones presentadas al proyecto de reglamento u ordenanza serán estudiadas:",
+   [
+    "Por la comisión informativa que corresponda o la que se constituya a este efecto, tras lo cual se formulará la propuesta de aprobación",
+    "Por el Secretario de la entidad, que formulará directamente la propuesta de aprobación al Pleno",
+    "Por la Intervención, que informará sobre su incidencia en el presupuesto antes de la aprobación"
+   ],
+   0,
+   "Art. 131.",
+   "rbaso 131",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, con carácter general, los reglamentos y ordenanzas locales aragoneses se aprobarán por:",
+   [
+    "Mayoría simple, requiriéndose mayoría absoluta para los instrumentos de planeamiento general, las ordenanzas fiscales, el reglamento orgánico y las ordenanzas de aprovechamientos comunales",
+    "Mayoría absoluta siempre, incluso para las ordenanzas urbanísticas previstas en la Ley Urbanística",
+    "Dos tercios del número legal siempre, y mayoría simple solo para las ordenanzas fiscales"
+   ],
+   0,
+   "Art. 132.3.",
+   "rbaso 132",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, si no se ha presentado ninguna reclamación contra el proyecto de reglamento u ordenanza, el acuerdo de aprobación inicial:",
+   [
+    "Se elevará a definitivo, debidamente acreditado por el Secretario de la Corporación",
+    "Debe ser aprobado de nuevo por el Pleno, tras informe del Secretario de la Corporación",
+    "Requiere informe previo de la Intervención y remisión al Gobierno de Aragón para su ratificación"
+   ],
+   0,
+   "Art. 132.2.",
+   "rbaso 132",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las Entidades locales remitirán a la Administración del Estado y al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón el acuerdo de aprobación definitiva del reglamento u ordenanza en el plazo de:",
+   [
+    "Quince días desde su aprobación",
+    "Diez días",
+    "Un mes"
+   ],
+   0,
+   "Art. 132.4.",
+   "rbaso 132",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales:",
+   [
+    "Salvo en los supuestos del artículo 59.1 (impuestos obligatorios: IBI, IAE e IVTM)",
+    "Sin excepciones, pues todos los impuestos locales exigen acuerdo de imposición y ordenanza fiscal",
+    "Solo para tasas y contribuciones especiales, ya que los impuestos no requieren ordenanza"
+   ],
+   0,
+   "Art. 15.1.",
+   "trlrhl 15",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los acuerdos de aprobación de las ordenanzas fiscales de tributos con imposición voluntaria deberán adoptarse:",
+   [
+    "Simultáneamente a los de imposición de los respectivos tributos",
+    "Con posterioridad a los de imposición, en un plazo no superior a tres meses",
+    "Antes de los de imposición, sin que exista necesidad de adoptarlos simultáneamente"
+   ],
+   0,
+   "Art. 16.1.",
+   "trlrhl 16.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, los acuerdos provisionales para el establecimiento o modificación de tributos y ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días como mínimo; los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además:",
+   [
+    "En un diario de los de mayor difusión de la provincia o comunidad autónoma uniprovincial",
+    "En el Boletín Oficial del Estado, junto con el boletín oficial de la provincia o de la comunidad",
+    "En la sede electrónica de la Diputación Provincial, sin necesidad de publicarlos en diario alguno"
+   ],
+   0,
+   "Art. 17.2.",
+   "trlrhl 17",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones:",
+   [
+    "Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional",
+    "Debe adoptarse un nuevo acuerdo del Pleno que apruebe definitivamente la ordenanza fiscal",
+    "Debe remitirse al Ministerio de Hacienda para que autorice su entrada en vigor"
+   ],
+   0,
+   "Art. 17.3.",
+   "trlrhl 17.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que:",
+   [
+    "El contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia o comunidad autónoma uniprovincial",
+    "El recurso de alzada ante el órgano superior, a partir de la publicación en el boletín oficial",
+    "El recurso de reposición ante el Pleno, a partir de la publicación en el boletín oficial"
+   ],
+   0,
+   "Art. 19.1.",
+   "trlrhl 19.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales, si por resolución judicial firme resultaren anulados o modificados los acuerdos locales o el texto de las ordenanzas fiscales, salvo que lo prohibiera la sentencia:",
+   [
+    "Se mantendrán los actos firmes o consentidos dictados al amparo de la ordenanza anulada o modificada",
+    "Se anularán todos los actos dictados al amparo de la ordenanza, aunque sean firmes o consentidos",
+    "Se revisarán de oficio todos los actos dictados, incluso los que hubieran adquirido firmeza"
+   ],
+   0,
+   "Art. 19.2.",
+   "trlrhl 19.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en Zaragoza, la ordenanza fiscal aprobada inicialmente por la Comisión plenaria se expondrá al público por el plazo mínimo de:",
+   [
+    "Treinta días, previo anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal",
+    "Quince días, previo anuncio en el boletín oficial, en el tablón de anuncios y en la sede electrónica",
+    "Veinte días, previo anuncio en el boletín oficial, en el tablón de anuncios y en la sede electrónica"
+   ],
+   0,
+   "Art. 49 b).",
+   "l10-2017 49",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, en Zaragoza, si no se hubieran presentado reclamaciones contra la ordenanza fiscal:",
+   [
+    "La ordenanza fiscal se entenderá definitivamente aprobada",
+    "Debe aprobarse por el Pleno en acto único, previa propuesta de la Comisión plenaria competente",
+    "Debe remitirse de nuevo a la Comisión plenaria para su dictamen antes de su aprobación definitiva"
+   ],
+   0,
+   "Art. 49 c).",
+   "l10-2017 49",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, los reglamentos y las ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido:",
+   [
+    "Quince días contados desde el siguiente al de la publicación de su texto íntegro en el Boletín Oficial de la provincia",
+    "Diez días desde su publicación íntegra en el Boletín Oficial de la provincia de que se trate",
+    "Veinte días desde su aprobación definitiva por el Pleno de la entidad local correspondiente"
+   ],
+   0,
+   "Art. 141.1. Ese plazo permite al Estado o CCAA ejercer su requerimiento de anulación.",
+   "l7-1999 141.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las ordenanzas fiscales entrarán en vigor:",
+   [
+    "Una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en el boletín, a no ser que se demore su aplicación a una fecha posterior",
+    "A los quince días de su publicación íntegra del acuerdo definitivo y del texto en el boletín",
+    "Al día siguiente de su aprobación definitiva por el Pleno, sin esperar a su publicación"
+   ],
+   0,
+   "Art. 141.2.",
+   "l7-1999 141.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes:",
+   [
+    "Para su consulta por todos los ciudadanos, con texto íntegro actualizado, y llevarán un registro cronológico de los aprobados y sus modificaciones",
+    "Solo para uso interno de la entidad, y no para consulta de los ciudadanos, en formato digital",
+    "Exclusivamente en formato papel, sin obligación de llevar registro de sus modificaciones"
+   ],
+   0,
+   "Art. 133.3.",
+   "rbaso 133",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 142.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, los bandos dictados por los Alcaldes tendrán como finalidad:",
+   [
+    "Exhortar a los ciudadanos a la observancia de las obligaciones establecidas en leyes, ordenanzas y reglamentos, recordarles su contenido y plazos, y efectuar convocatorias populares; se publicarán conforme a los usos y costumbre de la localidad",
+    "Aprobar ordenanzas de urgencia que regulen las materias de competencia municipal en casos de catástrofe",
+    "Regular la organización del ayuntamiento y la distribución de competencias entre sus órganos"
+   ],
+   0,
+   "Art. 142.1.",
+   "l7-1999 142.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 142.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en los casos de catástrofe o infortunio públicos o grave riesgo, los Alcaldes podrán adoptar las medidas necesarias y adecuadas:",
+   [
+    "Dando cuenta inmediata al Pleno",
+    "Previa autorización del Pleno",
+    "Previa autorización de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 142.2.",
+   "l7-1999 142.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los conflictos de atribuciones que surjan entre órganos y entidades dependientes de una misma Corporación local se resolverán por el Pleno cuando afecten a órganos colegiados, miembros de éstos o entidades locales del artículo 45, y en el resto de supuestos por:",
+   [
+    "El Alcalde o Presidente de la Corporación",
+    "La Junta de Gobierno Local",
+    "La Comunidad Autónoma"
+   ],
+   0,
+   "Art. 50.1.",
+   "lbrl 50.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los conflictos de competencias planteados entre diferentes entidades locales serán resueltos:",
+   [
+    "Por la Administración de la Comunidad Autónoma o del Estado, previa audiencia de las Comunidades afectadas, según sean de la misma o distinta Comunidad",
+    "Por el Pleno de la entidad de mayor población, oída la entidad afectada y el Consejo de Estado",
+    "Por los Tribunales ordinarios, a instancia de la entidad local que se considere afectada"
+   ],
+   0,
+   "Art. 50.2.",
+   "lbrl 50.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.3 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por:",
+   [
+    "La Administración del Estado, previo informe del Instituto Geográfico Nacional, audiencia de los municipios y CCAA afectados y dictamen del Consejo de Estado",
+    "Los Tribunales Superiores de Justicia, previo informe del Instituto Geográfico Nacional",
+    "Las comunidades autónomas conjuntamente, previo informe del Consejo de Estado de cada una"
+   ],
+   0,
+   "Art. 50.3.",
+   "lbrl 50.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, cuando un órgano o entidad se considere incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de:",
+   [
+    "Ocho días; si se considerase incompetente remitirá de inmediato el expediente, con su informe, al que corresponda decidir el conflicto",
+    "Diez días; si se considerase incompetente remitirá de inmediato el expediente al que decida el conflicto",
+    "Quince días; si se considerase incompetente archivará el expediente con su informe"
+   ],
+   0,
+   "Art. 143.2 b).",
+   "l7-1999 143.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.2 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla:",
+   [
+    "Suspenderá las actuaciones y las remitirá inmediatamente, con el requerimiento y su informe, al órgano a que corresponda resolver el conflicto",
+    "Continuará las actuaciones por sí mismo, hasta que se resuelva por el órgano que se considere competente",
+    "Archivará el expediente y comunicará el hecho al órgano que conozca del asunto para su tramitación"
+   ],
+   0,
+   "Art. 143.2 a).",
+   "l7-1999 143.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

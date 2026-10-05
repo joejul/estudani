@@ -67,6 +67,72 @@
    "Licencia urbanística",
    "Autorización del Alcalde para realizar un acto de construcción, edificación o uso del suelo.",
    "Art. 226 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "clasificacion-suelo",
+   "Clasificación del suelo",
+   "División del territorio en suelo urbano, urbanizable y no urbanizable, hecha por el plan general.",
+   "Art. 11 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "suelo-urbano-consolidado",
+   "Suelo urbano consolidado",
+   "Suelo urbano que ya cuenta con todos los servicios y condición de solar.",
+   "Art. 13 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "suelo-urbano-no-consolidado",
+   "Suelo urbano no consolidado",
+   "Suelo urbano que necesita completar su urbanización o hacerlo mediante reparcelación.",
+   "Art. 13 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "solar",
+   "Solar",
+   "Superficie de suelo urbano apta para su uso inmediato porque cuenta con acceso, agua, saneamiento y energía.",
+   "Art. 14 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "sector",
+   "Sector",
+   "Ámbito de suelo urbanizable o urbano no consolidado que se ordena con un plan parcial.",
+   "LUA"
+  ],
+  [
+   "aprovechamiento",
+   "Aprovechamiento",
+   "Edificabilidad que se puede materializar en un suelo. El propietario tiene derecho a una parte (aprovechamiento subjetivo).",
+   "Ley de Urbanismo de Aragón"
+  ],
+  [
+   "cesion-obligatoria",
+   "Cesión obligatoria",
+   "Suelo que el propietario entrega gratuitamente al municipio para viales, zonas verdes o equipamientos.",
+   "Ley de Urbanismo de Aragón"
+  ],
+  [
+   "proyecto-urbanizacion",
+   "Proyecto de urbanización",
+   "Proyecto técnico que define las obras de urbanización de un ámbito: calles, redes, jardines.",
+   "Ley de Urbanismo de Aragón"
+  ],
+  [
+   "deber-conservacion",
+   "Deber de conservación",
+   "Obligación del propietario de mantener edificios y terrenos en condiciones de seguridad y ornato.",
+   "Ley de Urbanismo de Aragón"
+  ],
+  [
+   "declaracion-ruina",
+   "Declaración de ruina",
+   "Declaración municipal de que un edificio no se puede reparar razonablemente y debe demolerse o desalojarse.",
+   "Art. 261 Ley de Urbanismo de Aragón"
+  ],
+  [
+   "disciplina-urbanistica",
+   "Disciplina urbanística",
+   "Conjunto de medidas para que se cumpla la ordenación urbanística: inspección, órdenes de restablecimiento y sanciones.",
+   "Arts. 264 y ss. Ley de Urbanismo de Aragón"
   ]
  ],
  "hubs": [

@@ -405,7 +405,49 @@
     "Reforma agravada (168): 2/3 + disolución + 2/3 + referéndum obligatorio",
     "Art. 169: no reformar en guerra ni en estados excepcionales"
    ],
-   "ic": "🧱"
+   "ic": "🧱",
+   "articulos": [
+    [
+     "ce",
+     "166",
+     "Iniciativa de reforma constitucional",
+     "La iniciativa de reforma se ejerce **igual que la de las leyes** (art. 87, apartados 1 y 2): **Gobierno, Congreso, Senado** y **Asambleas de las Comunidades Autónomas** (que pueden pedir al Gobierno un proyecto o enviar una proposición al Congreso). **No incluye** la iniciativa popular del art. 87.3.",
+     "¿Pueden los ciudadanos, por iniciativa popular, proponer una reforma de la Constitución?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "167",
+     "Reforma ordinaria: tres quintos de cada Cámara",
+     "Los proyectos de reforma necesitan **tres quintos de cada Cámara**. Si no hay acuerdo, una **Comisión paritaria** de Diputados y Senadores presenta un texto que votan ambas Cámaras. Si aun así no se logra, y el texto tiene la **mayoría absoluta del Senado**, el **Congreso por dos tercios** puede aprobar la reforma. Aprobada, se somete a **referéndum** si lo piden, **en quince días**, **una décima parte de los miembros de cualquiera de las Cámaras**.",
+     "¿Qué mayoría exige la reforma ordinaria y quién puede pedir referéndum?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "168",
+     "Reforma agravada: dos tercios, disolución y referéndum",
+     "Para la **revisión total** o la parcial que afecte al **Título preliminar**, al **Capítulo II, Sección 1.ª del Título I** (derechos fundamentales y libertades públicas) o al **Título II** (la Corona): **aprobación del principio por dos tercios de cada Cámara** y **disolución inmediata de las Cortes**; las nuevas Cámaras **ratifican** y aprueban el texto **por dos tercios**; después, **referéndum obligatorio**.",
+     "¿Qué partes de la Constitución se reforman por el procedimiento agravado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "169",
+     "No se puede reformar en guerra ni en estados excepcionales",
+     "**No puede iniciarse** la reforma constitucional **en tiempo de guerra** o durante alguno de los **estados del art. 116** (alarma, excepción y sitio).",
+     "¿Cuándo no puede iniciarse una reforma constitucional?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   },
   {
    "id": "e3",
@@ -549,7 +591,72 @@
     "Art. 5: Madrid · Art. 6: partidos · Art. 7: sindicatos y patronal · Art. 8: FFAA",
     "Art. 9: sujeción (9.1) · igualdad real (9.2) · 7 principios (9.3)"
    ],
-   "ic": "🏛️"
+   "ic": "🏛️",
+   "articulos": [
+    [
+     "ce",
+     "1",
+     "España: Estado social y democrático de Derecho",
+     "Tres ideas: **(1)** España es un **Estado social y democrático de Derecho** y sus **valores superiores** son la **libertad, la justicia, la igualdad y el pluralismo político**; **(2)** la **soberanía nacional** reside en el **pueblo español**, del que emanan los poderes del Estado; **(3)** la **forma política** es la **Monarquía parlamentaria**.",
+     "¿Cuáles son los cuatro valores superiores del ordenamiento jurídico?"
+    ],
+    [
+     "ce",
+     "2",
+     "Unidad de la Nación y derecho a la autonomía",
+     "La Constitución se funda en la **indisoluble unidad de la Nación española**, patria común e indivisible, y **reconoce y garantiza** el **derecho a la autonomía** de las **nacionalidades y regiones** y la **solidaridad** entre todas ellas.",
+     "¿Qué dos cosas reconoce el art. 2 junto a la unidad de la Nación?"
+    ],
+    [
+     "ce",
+     "3",
+     "El castellano y las demás lenguas españolas",
+     "El **castellano** es la lengua oficial del Estado: **todos tienen el deber de conocerla y el derecho a usarla**. Las **demás lenguas españolas** son también oficiales **en sus Comunidades Autónomas**, según sus **Estatutos**. La **riqueza lingüística** es **patrimonio cultural** que se respeta y protege.",
+     "¿Qué deber y qué derecho tienen los españoles respecto al castellano?"
+    ],
+    [
+     "ce",
+     "4",
+     "La bandera de España y las de las Comunidades",
+     "La bandera tiene **tres franjas horizontales: roja, amarilla y roja**, y la **amarilla es de doble anchura** que cada roja. Los **Estatutos** pueden reconocer **banderas propias** de las CCAA, que se usan **junto a la de España** en edificios públicos y actos oficiales.",
+     "¿Qué anchura tiene la franja amarilla respecto a las rojas?"
+    ],
+    [
+     "ce",
+     "5",
+     "Madrid, capital del Estado",
+     "**La capital del Estado es la villa de Madrid.**",
+     "¿Cuál es la capital del Estado según la Constitución?"
+    ],
+    [
+     "ce",
+     "6",
+     "Los partidos políticos",
+     "Los partidos **expresan el pluralismo político**, **concurren a la formación y manifestación de la voluntad popular** y son **instrumento fundamental para la participación política**. Su creación y actividad son **libres** dentro del respeto a la Constitución y la ley; su **estructura y funcionamiento deben ser democráticos**.",
+     "¿Cuál es la función de los partidos políticos según la Constitución?"
+    ],
+    [
+     "ce",
+     "7",
+     "Sindicatos y asociaciones empresariales",
+     "**Sindicatos de trabajadores** y **asociaciones empresariales** contribuyen a la **defensa y promoción de los intereses económicos y sociales** que les son propios. Su creación y actividad son **libres** dentro del respeto a la Constitución y la ley; **estructura y funcionamiento democráticos**.",
+     "¿Qué contribuyen a defender los sindicatos y las asociaciones empresariales?"
+    ],
+    [
+     "ce",
+     "8",
+     "Las Fuerzas Armadas y su misión",
+     "Las **Fuerzas Armadas** son el **Ejército de Tierra, la Armada y el Ejército del Aire**. Su misión: **garantizar la soberanía e independencia** de España, **defender su integridad territorial** y el **ordenamiento constitucional**. Una **ley orgánica** regula las bases de la organización militar.",
+     "¿Qué tres ejércitos forman las Fuerzas Armadas y cuál es su misión?"
+    ],
+    [
+     "ce",
+     "9",
+     "Sujeción a la Constitución y principios garantizados",
+     "**(1)** Ciudadanos y poderes públicos están **sujetos a la Constitución y al ordenamiento jurídico**. **(2)** Los poderes públicos **promueven** que libertad e igualdad sean **reales y efectivas**, **remueven obstáculos** y **facilitan la participación**. **(3)** La Constitución garantiza siete principios: **legalidad, jerarquía normativa, publicidad de las normas, irretroactividad** de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, **seguridad jurídica, responsabilidad** e **interdicción de la arbitrariedad**.",
+     "¿Cuáles son los siete principios que garantiza el art. 9.3?"
+    ]
+   ]
   },
   {
    "id": "e4",
@@ -693,7 +800,44 @@
     "Art. 106: control judicial + indemnización (salvo fuerza mayor)",
     "Art. 107: Consejo de Estado, órgano consultivo"
    ],
-   "ic": "🏢"
+   "ic": "🏢",
+   "articulos": [
+    [
+     "ce",
+     "103",
+     "Principios de actuación de la Administración Pública",
+     "La Administración **sirve con objetividad los intereses generales** y actúa según **eficacia, jerarquía, descentralización, desconcentración y coordinación**, con **sometimiento pleno a la ley y al Derecho**. Los órganos del Estado se crean, rigen y coordinan **por ley**. La ley regula el **estatuto de los funcionarios**, el **acceso por mérito y capacidad**, la **sindicación**, las **incompatibilidades** y las **garantías de imparcialidad**.",
+     "¿Cuáles son los cinco principios de actuación de la Administración del art. 103.1?"
+    ],
+    [
+     "ce",
+     "104",
+     "Fuerzas y Cuerpos de seguridad: dependencia y misión",
+     "Las **Fuerzas y Cuerpos de seguridad**, **bajo la dependencia del Gobierno**, tienen por misión **proteger el libre ejercicio de los derechos y libertades** y **garantizar la seguridad ciudadana**. Una **ley orgánica** determina sus funciones, principios y estatutos.",
+     "¿De quién dependen las Fuerzas y Cuerpos de seguridad y qué ley los regula?"
+    ],
+    [
+     "ce",
+     "105",
+     "Audiencia, acceso a archivos y procedimiento administrativo",
+     "La ley regulará: **a)** la **audiencia de los ciudadanos** (directamente o por asociaciones) en la **elaboración de disposiciones** que les afecten; **b)** el **acceso a archivos y registros administrativos**, salvo **seguridad y defensa del Estado, averiguación de delitos e intimidad**; **c)** el **procedimiento de los actos administrativos**, garantizando la **audiencia del interesado**.",
+     "¿Qué tres materias regulará la ley según el art. 105?"
+    ],
+    [
+     "ce",
+     "106",
+     "Control judicial de la Administración e indemnización",
+     "Los **Tribunales controlan la potestad reglamentaria** y la **legalidad de la actuación administrativa**, así como que respete los **fines que la justifican**. Los particulares tienen **derecho a ser indemnizados** por **toda lesión** en bienes y derechos, **salvo fuerza mayor**, si es consecuencia del **funcionamiento de los servicios públicos**.",
+     "¿Qué excepción hay al derecho a indemnización por el funcionamiento de los servicios públicos?"
+    ],
+    [
+     "ce",
+     "107",
+     "El Consejo de Estado: supremo órgano consultivo",
+     "El **Consejo de Estado** es el **supremo órgano consultivo del Gobierno**. Una **ley orgánica** regula su composición y competencia.",
+     "¿Qué es el Consejo de Estado?"
+    ]
+   ]
   },
   {
    "id": "e5",
@@ -804,7 +948,163 @@
     "Art. 142: haciendas locales: tributos propios + participación en los del Estado y CCAA",
     "Art. 147-149: Estatutos, competencias CCAA, competencias del Estado"
    ],
-   "ic": "🗺️"
+   "ic": "🗺️",
+   "articulos": [
+    [
+     "ce",
+     "137",
+     "Organización territorial: municipios, provincias y Comunidades",
+     "El Estado se organiza territorialmente en **municipios, provincias y Comunidades Autónomas** que se constituyan. **Todas gozan de autonomía** para la gestión de sus respectivos intereses.",
+     "¿En qué tres entidades se organiza territorialmente el Estado?"
+    ],
+    [
+     "ce",
+     "138",
+     "Solidaridad entre territorios y prohibición de privilegios",
+     "El Estado garantiza la **solidaridad** (art. 2) velando por un **equilibrio económico adecuado y justo**, atendiendo al **hecho insular**. Las **diferencias entre Estatutos** no pueden implicar **privilegios económicos o sociales**.",
+     "¿Pueden las diferencias entre Estatutos suponer privilegios económicos o sociales?"
+    ],
+    [
+     "ce",
+     "139",
+     "Igualdad de derechos y libre circulación en todo el territorio",
+     "Todos los españoles tienen **los mismos derechos y obligaciones** en cualquier parte del territorio. Ninguna autoridad puede **obstaculizar la libertad de circulación y establecimiento** de personas ni la **libre circulación de bienes**.",
+     "¿Qué libertades no puede obstaculizar ninguna autoridad según el art. 139?"
+    ],
+    [
+     "ce",
+     "140",
+     "Autonomía de los municipios y Ayuntamientos",
+     "La Constitución **garantiza la autonomía de los municipios**, con **personalidad jurídica plena**. Su gobierno y administración corresponde a los **Ayuntamientos**, integrados por **Alcaldes y Concejales**. Los **Concejales** son elegidos por los **vecinos** por **sufragio universal, igual, libre, directo y secreto**; los **Alcaldes**, por los **Concejales o por los vecinos**. La ley regula el **concejo abierto**.",
+     "¿Quién elige a los Concejales y quién puede elegir a los Alcaldes?"
+    ],
+    [
+     "ce",
+     "141",
+     "La provincia: personalidad jurídica, Diputaciones y agrupaciones",
+     "La **provincia** es una **entidad local con personalidad jurídica propia**, formada por la **agrupación de municipios** y **división territorial para las actividades del Estado**. **Alterar sus límites** exige **ley orgánica** de las Cortes. Su gobierno: **Diputaciones u otras Corporaciones representativas**. Se pueden crear **agrupaciones de municipios** distintas de la provincia. En los **archipiélagos**, las islas tienen **Cabildos o Consejos**.",
+     "¿Qué se necesita para alterar los límites provinciales?"
+    ],
+    [
+     "ce",
+     "142",
+     "Haciendas locales: medios suficientes y fuentes de ingresos",
+     "Las **Haciendas locales** deben tener **medios suficientes** para sus funciones y se nutren **fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas**.",
+     "¿De qué se nutren fundamentalmente las Haciendas locales?"
+    ],
+    [
+     "ce",
+     "143",
+     "Acceso a la autonomía: quién y cómo toma la iniciativa",
+     "Pueden constituirse en **Comunidad Autónoma** las **provincias limítrofes** con características comunes, los **territorios insulares** y las provincias con **entidad regional histórica**. **Iniciativa:** todas las **Diputaciones** interesadas y las **dos terceras partes de los municipios** que representen la **mayoría del censo electoral** de cada provincia, **en seis meses**. Si no prospera, solo puede **reiterarse pasados cinco años**.",
+     "¿Qué mayoría de municipios hace falta para la iniciativa autonómica del art. 143?"
+    ],
+    [
+     "ce",
+     "144",
+     "Autorización excepcional de las Cortes por interés nacional",
+     "Por **motivos de interés nacional** y mediante **ley orgánica**, las Cortes pueden: **a)** autorizar una Comunidad cuyo ámbito **no supere una provincia**; **b)** autorizar un Estatuto para territorios **no integrados en la organización provincial**; **c)** **sustituir la iniciativa** de las Corporaciones locales del art. 143.2.",
+     "¿Qué tipo de ley usan las Cortes para autorizar estas excepciones?"
+    ],
+    [
+     "ce",
+     "145",
+     "Prohibida la federación de Comunidades y convenios entre ellas",
+     "**Nunca** se admite la **federación de Comunidades Autónomas**. Los **Estatutos** pueden prever **convenios** entre ellas para gestionar servicios propios, con **comunicación a las Cortes Generales**; los **demás acuerdos de cooperación** necesitan **autorización de las Cortes Generales**.",
+     "¿Se admite la federación de Comunidades Autónomas?"
+    ],
+    [
+     "ce",
+     "146",
+     "Elaboración del proyecto de Estatuto (vía ordinaria)",
+     "El proyecto lo elabora una **asamblea** formada por los miembros de la **Diputación** (u órgano interinsular) de las provincias afectadas y los **Diputados y Senadores** elegidos en ellas, y se **eleva a las Cortes Generales** para su tramitación **como ley**.",
+     "¿Quién elabora el proyecto de Estatuto en la vía ordinaria?"
+    ],
+    [
+     "ce",
+     "147",
+     "Contenido mínimo y reforma de los Estatutos",
+     "Los **Estatutos** son la **norma institucional básica** de cada Comunidad y el Estado los **reconoce y ampara** como parte de su ordenamiento. **Deben contener:** **a)** **denominación** de la Comunidad; **b)** **delimitación de su territorio**; **c)** **denominación, organización y sede de sus instituciones**; **d)** **competencias asumidas** y bases para el traspaso de servicios. **Reforma:** por el **procedimiento que fije el propio Estatuto** y **aprobación de las Cortes Generales mediante ley orgánica**.",
+     "¿Qué cuatro contenidos mínimos debe tener un Estatuto de autonomía?"
+    ],
+    [
+     "ce",
+     "148",
+     "Competencias que pueden asumir las Comunidades Autónomas",
+     "Lista de **materias que las Comunidades pueden asumir** (no las tienen automáticamente): **organización de sus instituciones**, alteración de **términos municipales** y funciones sobre **Corporaciones locales**, **ordenación del territorio, urbanismo y vivienda**, **obras públicas** y **ferrocarriles y carreteras** internos, **agricultura y ganadería**, **montes**, **medio ambiente**, **ferias**, **artesanía**, **museos, bibliotecas y patrimonio monumental** de interés autonómico, entre otras (la lista completa está en el texto oficial). Pasados **cinco años** y **reformando su Estatuto**, pueden **ampliar** competencias dentro del marco del **art. 149**.",
+     "¿Cuándo pueden las Comunidades ampliar sus competencias dentro del marco del art. 149?"
+    ],
+    [
+     "ce",
+     "149",
+     "Competencias exclusivas del Estado y cláusula residual",
+     "**Competencia exclusiva del Estado** sobre, entre otras: **condiciones básicas de igualdad**, **nacionalidad, inmigración, extranjería y asilo**, **relaciones internacionales**, **defensa y Fuerzas Armadas**, **Administración de Justicia**, legislación **mercantil, penal, penitenciaria, procesal y laboral**, legislación **civil** (con salvedad de los derechos forales), **propiedad intelectual e industrial**, **aduanas**, **sistema monetario**, **bases y coordinación de la planificación económica** y **bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios**. **149.3:** las materias **no atribuidas** al Estado pueden asumirlas las CCAA por Estatuto; las **no asumidas** corresponden al **Estado**, cuyas normas **prevalecen** en caso de conflicto; el **derecho estatal es supletorio**.",
+     "Si una materia no la ha asumido ninguna Comunidad en su Estatuto, ¿a quién corresponde?"
+    ],
+    [
+     "ce",
+     "150",
+     "Leyes marco, transferencia o delegación y leyes de armonización",
+     "**150.1 – Ley marco:** las **Cortes** pueden atribuir a las CCAA la facultad de dictar **normas legislativas** en el marco de principios, bases y directrices de una **ley estatal**. **150.2 – Transferencia o delegación:** por **ley orgánica**, el Estado puede transferir o delegar facultades de **titularidad estatal** susceptibles de ello (con **medios financieros** y **control** del Estado). **150.3 – Armonización:** el Estado puede dictar leyes que **armonicen** normas autonómicas **por interés general**; las **Cortes por mayoría absoluta de cada Cámara** aprecian esa necesidad.",
+     "¿Qué mayoría aprecia la necesidad de dictar una ley de armonización?"
+    ],
+    [
+     "ce",
+     "151",
+     "Vía rápida a la autonomía: iniciativa y referéndum",
+     "No hace falta esperar **cinco años** si la iniciativa se acuerda en el plazo del art. 143.2 por las **Diputaciones** y las **tres cuartas partes de los municipios** de cada provincia (que representen la **mayoría del censo**), y se **ratifica en referéndum** por la **mayoría absoluta de los electores** de cada provincia. El **proyecto de Estatuto** lo elabora una **Asamblea de parlamentarios**, se examina en la **Comisión Constitucional del Congreso** (plazo de **dos meses**), y se somete a **referéndum** de las provincias afectadas.",
+     "¿Qué mayoría de municipios exige la iniciativa de la vía rápida (art. 151)?"
+    ],
+    [
+     "ce",
+     "152",
+     "Organización institucional de las Comunidades de vía rápida",
+     "Su organización se basa en: **Asamblea Legislativa** (elegida por **sufragio universal** con **representación proporcional**), **Consejo de Gobierno** (funciones **ejecutivas y administrativas**), **Presidente** (elegido por la Asamblea, **nombrado por el Rey**, dirige el Consejo y tiene la **suprema representación** de la Comunidad y la **ordinaria del Estado** en ella) y **Tribunal Superior de Justicia**. Presidente y Consejo son **políticamente responsables ante la Asamblea**. Los Estatutos solo se reforman por sus **procedimientos propios** y con **referéndum**.",
+     "¿Quién elige al Presidente de la Comunidad y quién lo nombra?"
+    ],
+    [
+     "ce",
+     "153",
+     "Control de la actividad de los órganos autonómicos",
+     "El control se ejerce: **a)** por el **Tribunal Constitucional**, sobre normas con **fuerza de ley**; **b)** por el **Gobierno**, previo **dictamen del Consejo de Estado**, sobre **funciones delegadas** (art. 150.2); **c)** por la **jurisdicción contencioso-administrativa**, sobre la **administración autónoma y sus reglamentos**; **d)** por el **Tribunal de Cuentas**, el **control económico y presupuestario**.",
+     "¿Quién controla las normas con fuerza de ley de una Comunidad Autónoma?"
+    ],
+    [
+     "ce",
+     "154",
+     "El Delegado del Gobierno en la Comunidad Autónoma",
+     "Un **Delegado nombrado por el Gobierno** **dirige la Administración del Estado** en el territorio de la Comunidad Autónoma y la **coordina**, cuando proceda, con la administración propia de la Comunidad.",
+     "¿Quién dirige la Administración del Estado en una Comunidad Autónoma?"
+    ],
+    [
+     "ce",
+     "155",
+     "Medidas del Gobierno ante incumplimientos de una Comunidad",
+     "Si una Comunidad **no cumple las obligaciones** que le impone la Constitución u otras leyes, o **atenta gravemente al interés general**, el **Gobierno**, **previo requerimiento al Presidente** de la Comunidad y, si no lo atiende, con **aprobación por mayoría absoluta del Senado**, puede adoptar las **medidas necesarias** para obligar al cumplimiento forzoso. Puede dar **instrucciones a todas las autoridades** de la Comunidad.",
+     "¿Qué mayoría del Senado necesita el Gobierno para aplicar el art. 155?"
+    ],
+    [
+     "ce",
+     "156",
+     "Autonomía financiera de las Comunidades Autónomas",
+     "Las CCAA tienen **autonomía financiera** para desarrollar sus competencias, con **coordinación con la Hacienda estatal** y **solidaridad**. Pueden actuar como **delegadas o colaboradoras del Estado** en la **recaudación, gestión y liquidación** de sus recursos tributarios.",
+     "¿Qué principios limitan la autonomía financiera de las CCAA?"
+    ],
+    [
+     "ce",
+     "157",
+     "Recursos de las Comunidades Autónomas",
+     "Sus recursos son: **a)** **impuestos cedidos**, **recargos** y participaciones en ingresos del Estado; **b)** **impuestos, tasas y contribuciones especiales propios**; **c)** transferencias del **Fondo de Compensación Interterritorial** y otras asignaciones estatales; **d)** **rendimientos del patrimonio** e **ingresos de derecho privado**; **e)** **operaciones de crédito**. **No pueden** adoptar medidas tributarias sobre **bienes fuera de su territorio** ni que obstaculicen la **libre circulación**.",
+     "¿Cuáles son los cinco tipos de recursos de las Comunidades Autónomas?"
+    ],
+    [
+     "ce",
+     "158",
+     "Asignación estatal y Fondo de Compensación",
+     "Los **Presupuestos Generales del Estado** pueden fijar una **asignación** a las CCAA según los **servicios asumidos** y garantizar un **nivel mínimo** de servicios públicos fundamentales. Un **Fondo de Compensación** para **gastos de inversión**, distribuido por las **Cortes Generales** entre CCAA y provincias, corrige **desequilibrios** y hace efectiva la **solidaridad**.",
+     "¿Para qué sirve el Fondo de Compensación del art. 158.2?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -1085,8 +1385,7 @@
    "o": [
     "La libertad, la justicia, la igualdad y el pluralismo político",
     "La libertad, la igualdad, la fraternidad y la justicia",
-    "La libertad, la justicia, la seguridad y la solidaridad",
-    "La unidad, la libertad, la justicia y la igualdad"
+    "La libertad, la justicia, la seguridad y la solidaridad"
    ],
    "c": 0,
    "e": "Art. 1.1 CE: «libertad, justicia, igualdad y pluralismo político». Las otras opciones mezclan lemas o valores de otros artículos (la solidaridad está en el art. 2; la unidad, en el art. 2).",
@@ -1102,8 +1401,7 @@
    "o": [
     "En las Cortes Generales",
     "En el pueblo español",
-    "En el Rey, como Jefe del Estado",
-    "En la Nación española a través de sus instituciones"
+    "En el Rey, como Jefe del Estado"
    ],
    "c": 1,
    "e": "Art. 1.2 CE: «La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado». Las Cortes lo representan (art. 66.1), pero no son su titular.",
@@ -1119,8 +1417,7 @@
    "o": [
     "La Monarquía constitucional",
     "La Monarquía parlamentaria",
-    "La República parlamentaria",
-    "La Monarquía absoluta"
+    "La República parlamentaria"
    ],
    "c": 1,
    "e": "Art. 1.3 CE: «La forma política del Estado español es la Monarquía parlamentaria». «Constitucional» es un término de la teoría política, pero no es el que usa la CE.",
@@ -1135,8 +1432,7 @@
    "o": [
     "Sus Estatutos",
     "Una ley orgánica estatal",
-    "Lo que decidan las Cortes Generales",
-    "Lo que acuerde el Gobierno de la Nación"
+    "Lo que decidan las Cortes Generales"
    ],
    "c": 0,
    "e": "Art. 3.2 CE: «de acuerdo con sus Estatutos». La oficialidad depende del Estatuto de cada Comunidad Autónoma.",
@@ -1151,8 +1447,7 @@
    "o": [
     "Tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
     "Tres franjas verticales, roja, amarilla y roja, con la amarilla de doble anchura",
-    "Tres franjas horizontales de igual anchura: roja, amarilla y roja",
-    "Tres franjas horizontales: amarilla, roja y amarilla, con la roja de doble anchura"
+    "Tres franjas horizontales de igual anchura: roja, amarilla y roja"
    ],
    "c": 0,
    "e": "Art. 4.1 CE: tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
@@ -1167,8 +1462,7 @@
    "o": [
     "El 4",
     "El 5",
-    "El 6",
-    "El 3"
+    "El 6"
    ],
    "c": 1,
    "e": "Art. 5 CE: «La capital del Estado es la villa de Madrid». El art. 4 trata de la bandera, el 6 de los partidos y el 3 de las lenguas.",
@@ -1183,8 +1477,7 @@
    "o": [
     "Su estructura interna y funcionamiento sean democráticos",
     "Se inscriban previamente en un registro del Ministerio del Interior",
-    "Reciban financiación pública para su funcionamiento",
-    "Obtengan una autorización previa del Gobierno para constituirse"
+    "Reciban financiación pública para su funcionamiento"
    ],
    "c": 0,
    "e": "Arts. 6 y 7: su creación y actividad son libres (sin autorización previa) dentro del respeto a la Constitución y la ley, y su estructura interna y funcionamiento deberán ser democráticos.",
@@ -1200,8 +1493,7 @@
    "o": [
     "El Ejército de Tierra, la Armada y el Ejército del Aire",
     "El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil",
-    "El Ejército de Tierra, la Armada, el Ejército del Aire y la Unidad Militar de Emergencias",
-    "El Ejército de Tierra, la Marina y la Aviación"
+    "El Ejército de Tierra, la Armada, el Ejército del Aire y la Unidad Militar de Emergencias"
    ],
    "c": 0,
    "e": "Art. 8.1 CE: Ejército de Tierra, Armada y Ejército del Aire. La Guardia Civil es un cuerpo de seguridad, no está en el art. 8, y la CE dice «Armada», no «Marina».",
@@ -1217,8 +1509,7 @@
    "o": [
     "La irretroactividad de las disposiciones sancionadoras no favorables",
     "La seguridad jurídica",
-    "La proporcionalidad de las sanciones",
-    "La interdicción de la arbitrariedad de los poderes públicos"
+    "La proporcionalidad de las sanciones"
    ],
    "c": 2,
    "e": "Art. 9.3 CE: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La proporcionalidad no figura en esa lista.",
@@ -1234,8 +1525,7 @@
    "o": [
     "Todas las normas jurídicas sin excepción",
     "Las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
-    "Solo las normas penales",
-    "Solo las leyes orgánicas"
+    "Solo las normas penales"
    ],
    "c": 1,
    "e": "La irretroactividad no es absoluta: se garantiza para las disposiciones sancionadoras no favorables o restrictivas de derechos individuales. Las favorables pueden aplicarse a hechos anteriores.",
@@ -1250,8 +1540,7 @@
    "o": [
     "El artículo 9.2",
     "El artículo 14",
-    "El artículo 1.1",
-    "El artículo 10"
+    "El artículo 1.1"
    ],
    "c": 0,
    "e": "Art. 9.2 CE: promover las condiciones para que libertad e igualdad sean reales y efectivas, remover los obstáculos y facilitar la participación de todos. El art. 14 solo proclama la igualdad ante la ley.",
@@ -1266,12 +1555,12 @@
    "o": [
     "Preámbulo, Título preliminar, diez Títulos, 169 artículos, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final",
     "Preámbulo, once Títulos, 178 artículos, cuatro adicionales, cuatro transitorias, una derogatoria y una final",
-    "Preámbulo, Título preliminar, diez Títulos, 155 artículos, cuatro adicionales, nueve transitorias, una derogatoria y una final",
-    "Preámbulo, Título preliminar, nueve Títulos, 169 artículos, tres adicionales, nueve transitorias, una derogatoria y una final"
+    "Preámbulo, Título preliminar, diez Títulos, 155 artículos, cuatro adicionales, nueve transitorias, una derogatoria y una final"
    ],
    "c": 0,
    "e": "Estructura: Preámbulo + Título preliminar + 10 Títulos (I-X) + 169 artículos + 4 disposiciones adicionales + 9 transitorias + 1 derogatoria + 1 final.",
-   "ref": "Estructura de la CE"
+   "ref": "Estructura de la CE",
+   "off": 1
   },
   {
    "id": "t01-013",
@@ -1283,12 +1572,12 @@
    "o": [
     "El Título VI",
     "El Título VII",
-    "El Título VIII",
-    "El Título IX"
+    "El Título VIII"
    ],
    "c": 2,
    "e": "Título VIII: arts. 137-158. El VI es el Poder Judicial, el VII es Economía y Hacienda y el IX es el Tribunal Constitucional.",
-   "ref": "Título VIII CE"
+   "ref": "Título VIII CE",
+   "off": 1
   },
   {
    "id": "t01-014",
@@ -1299,8 +1588,7 @@
    "o": [
     "Una mayoría de tres quintos de cada una de las Cámaras",
     "Una mayoría de dos tercios de cada una de las Cámaras",
-    "La mayoría absoluta del Congreso",
-    "La mayoría simple de las Cortes Generales"
+    "La mayoría absoluta del Congreso"
    ],
    "c": 0,
    "e": "Art. 167.1 CE: mayoría de tres quintos de cada una de las Cámaras. Los dos tercios son para el procedimiento agravado del art. 168.",
@@ -1316,8 +1604,7 @@
    "o": [
     "Tres quintos de cada Cámara y referéndum facultativo",
     "Dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación y aprobación del nuevo texto por dos tercios de las nuevas Cámaras y referéndum obligatorio",
-    "Mayoría absoluta del Congreso y del Senado",
-    "Dos tercios del Congreso y mayoría simple del Senado, sin referéndum"
+    "Mayoría absoluta del Congreso y del Senado"
    ],
    "c": 1,
    "e": "Art. 168 CE: aprobación del principio por 2/3 de cada Cámara, disolución inmediata, ratificación y aprobación del texto por 2/3 de las Cámaras elegidas, y referéndum para su ratificación.",
@@ -1333,12 +1620,12 @@
    "o": [
     "El 6 de diciembre de 1978, día del referéndum",
     "El 27 de diciembre de 1978, día de su sanción por el Rey",
-    "El 29 de diciembre de 1978, día de su publicación en el BOE",
-    "El 31 de octubre de 1978, día de su aprobación por las Cortes"
+    "El 29 de diciembre de 1978, día de su publicación en el BOE"
    ],
    "c": 2,
    "e": "La disposición final dice que «entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado»: el 29-12-1978.",
-   "ref": "Disposición final CE"
+   "ref": "Disposición final CE",
+   "off": 1
   },
   {
    "id": "t01-017",
@@ -1349,12 +1636,12 @@
    "o": [
     "Cinco días",
     "Diez días",
-    "Quince días",
-    "Treinta días"
+    "Quince días"
    ],
    "c": 2,
    "e": "Art. 91 CE: el Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.",
-   "ref": "Art. 91 CE"
+   "ref": "Art. 91 CE",
+   "off": 1
   },
   {
    "id": "t01-018",
@@ -1365,8 +1652,7 @@
    "o": [
     "Mayoría simple del Congreso",
     "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto",
-    "Mayoría de tres quintos de cada Cámara",
-    "Mayoría de dos tercios del Congreso"
+    "Mayoría de tres quintos de cada Cámara"
    ],
    "c": 1,
    "e": "Art. 81.2 CE: mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto. Observa que se refiere al Congreso, no a las dos Cámaras.",
@@ -1381,8 +1667,7 @@
    "o": [
     "Los Estatutos de Autonomía",
     "La Ley de Presupuestos Generales del Estado",
-    "La regulación de las carreteras del Estado",
-    "El régimen de las tasas de un servicio público concreto"
+    "La regulación de las carreteras del Estado"
    ],
    "c": 0,
    "e": "Art. 81.1 CE: son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y libertades públicas, las que aprueben los Estatutos de Autonomía, el régimen electoral general y las demás previstas en la Constitución.",
@@ -1398,12 +1683,12 @@
    "o": [
     "La ley orgánica tiene siempre rango jerárquico superior a la ordinaria",
     "Ambas tienen el mismo rango; se diferencian por las materias que regulan y por la mayoría exigida para su aprobación",
-    "La ley ordinaria exige mayoría absoluta del Congreso",
-    "Los decretos-leyes se aprueban por mayoría absoluta de las Cortes Generales"
+    "La ley ordinaria exige mayoría absoluta del Congreso"
    ],
    "c": 1,
    "e": "La doctrina del Tribunal Constitucional entiende que su relación no es de jerarquía sino de competencia: cada una regula su ámbito. La orgánica exige mayoría absoluta del Congreso; la ordinaria, mayoría simple. Los decretos-leyes los dicta el Gobierno (art. 86).",
-   "ref": "Arts. 81 y 86 CE"
+   "ref": "Arts. 81 y 86 CE",
+   "off": 1
   },
   {
    "id": "t01-021",
@@ -1415,8 +1700,7 @@
    "o": [
     "En caso de extraordinaria y urgente necesidad",
     "Cuando las Cortes Generales le deleguen expresamente la potestad legislativa",
-    "Siempre que lo considere oportuno, sobre cualquier materia",
-    "Previa autorización del Senado"
+    "Siempre que lo considere oportuno, sobre cualquier materia"
    ],
    "c": 0,
    "e": "Art. 86.1 CE: «en caso de extraordinaria y urgente necesidad». La opción B describe el decreto legislativo (arts. 82-85), que se basa en la delegación de las Cortes.",
@@ -1432,8 +1716,7 @@
    "o": [
     "Quince días siguientes a su promulgación",
     "Treinta días siguientes a su promulgación",
-    "Dos meses desde su publicación",
-    "Tres meses desde su aprobación por el Gobierno"
+    "Dos meses desde su publicación"
    ],
    "c": 1,
    "e": "Art. 86.2 CE: en el plazo de los treinta días siguientes a su promulgación, el Congreso debe pronunciarse expresamente sobre su convalidación o derogación.",
@@ -1449,12 +1732,12 @@
    "o": [
     "175",
     "176",
-    "210",
-    "234"
+    "210"
    ],
    "c": 1,
    "e": "Mayoría absoluta = más de la mitad de los miembros: más de 175, es decir, 176. 175 es exactamente la mitad y no basta. 210 son los 3/5 y 234 los 2/3.",
-   "ref": "Concepto de mayoría absoluta"
+   "ref": "Concepto de mayoría absoluta",
+   "off": 1
   },
   {
    "id": "t01-024",
@@ -1465,12 +1748,12 @@
    "o": [
     "Hay más votos a favor que en contra",
     "Vota a favor más de la mitad de los miembros de la Cámara",
-    "Votan a favor tres quintos de los miembros",
-    "Todos los miembros votan a favor"
+    "Votan a favor tres quintos de los miembros"
    ],
    "c": 0,
    "e": "Mayoría simple: más votos afirmativos que negativos, sin contar abstenciones. La absoluta es más de la mitad de los miembros; la de 3/5 es una mayoría reforzada.",
-   "ref": "Concepto de mayoría simple"
+   "ref": "Concepto de mayoría simple",
+   "off": 1
   },
   {
    "id": "t01-025",
@@ -1482,10 +1765,9 @@
    "o": [
     "Ejercer la potestad legislativa del Estado",
     "Aprobar los Presupuestos del Estado",
-    "Controlar la acción del Gobierno",
     "Dirigir la Administración civil y militar"
    ],
-   "c": 3,
+   "c": 2,
    "e": "Art. 66.2 CE: las Cortes ejercen la potestad legislativa, aprueban los Presupuestos y controlan la acción del Gobierno. Dirigir la Administración civil y militar es del Gobierno (art. 97).",
    "ref": "Arts. 66.2 y 97 CE"
   },
@@ -1498,12 +1780,12 @@
    "o": [
     "Las Cortes Generales",
     "El Gobierno",
-    "El Consejo de Estado",
-    "El Rey"
+    "El Consejo de Estado"
    ],
    "c": 1,
    "e": "Art. 97 CE: «El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado».",
-   "ref": "Art. 97 CE"
+   "ref": "Art. 97 CE",
+   "off": 1
   },
   {
    "id": "t01-027",
@@ -1515,8 +1797,7 @@
    "o": [
     "Centralización",
     "Desconcentración",
-    "Autonomía",
-    "Responsabilidad"
+    "Autonomía"
    ],
    "c": 1,
    "e": "Art. 103.1 CE: eficacia, jerarquía, descentralización, desconcentración y coordinación. La centralización no figura (es lo contrario de la descentralización).",
@@ -1532,8 +1813,7 @@
    "o": [
     "Descentralización",
     "Desconcentración",
-    "Coordinación",
-    "Avocación"
+    "Coordinación"
    ],
    "c": 1,
    "e": "Desconcentración: la competencia pasa a un órgano inferior de la misma Administración. Descentralización: pasa a otra persona jurídica distinta. Avocación: el superior asume una competencia del inferior (lo contrario).",
@@ -1548,8 +1828,7 @@
    "o": [
     "Mérito y capacidad",
     "Igualdad y publicidad",
-    "Antigüedad y experiencia",
-    "Idoneidad y objetividad"
+    "Antigüedad y experiencia"
    ],
    "c": 0,
    "e": "Art. 103.3 CE: «el acceso a la función pública de acuerdo con los principios de mérito y capacidad».",
@@ -1565,8 +1844,7 @@
    "o": [
     "Caso fortuito",
     "Fuerza mayor",
-    "Culpa del interesado",
-    "Ninguno: siempre hay derecho a indemnización"
+    "Culpa del interesado"
    ],
    "c": 1,
    "e": "Art. 106.2 CE: «salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos». El caso fortuito no exime.",
@@ -1582,8 +1860,7 @@
    "o": [
     "El Tribunal de Cuentas",
     "El Defensor del Pueblo",
-    "El Consejo de Estado",
-    "El Consejo General del Poder Judicial"
+    "El Consejo de Estado"
    ],
    "c": 2,
    "e": "Art. 107 CE: Consejo de Estado. El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas (art. 136); el Defensor del Pueblo es el alto comisionado de las Cortes (art. 54); el CGPJ es el órgano de gobierno del Poder Judicial (art. 122).",
@@ -1598,8 +1875,7 @@
    "o": [
     "Las Cortes Generales",
     "Los Tribunales",
-    "El Consejo de Estado",
-    "El Defensor del Pueblo"
+    "El Consejo de Estado"
    ],
    "c": 1,
    "e": "Art. 106.1 CE: «Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican».",
@@ -1615,8 +1891,7 @@
    "o": [
     "La seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas",
     "El orden público, el secreto comercial y la intimidad",
-    "La seguridad nacional, la hacienda pública y el secreto profesional",
-    "Cualquier materia que el Gobierno declare reservada"
+    "La seguridad nacional, la hacienda pública y el secreto profesional"
    ],
    "c": 0,
    "e": "Art. 105.b CE: las tres excepciones son seguridad y defensa del Estado, averiguación de los delitos e intimidad de las personas.",
@@ -1632,8 +1907,7 @@
    "o": [
     "Municipios, comarcas y Comunidades Autónomas",
     "Municipios, provincias y Comunidades Autónomas que se constituyan",
-    "Provincias y Comunidades Autónomas",
-    "Regiones, nacionalidades y municipios"
+    "Provincias y Comunidades Autónomas"
    ],
    "c": 1,
    "e": "Art. 137 CE: municipios, provincias y Comunidades Autónomas que se constituyan; todas gozan de autonomía para la gestión de sus respectivos intereses. Las comarcas no están en el art. 137.",
@@ -1649,8 +1923,7 @@
    "o": [
     "Exclusivamente por los vecinos del municipio",
     "Por los Concejales o por los vecinos",
-    "Por la Diputación Provincial",
-    "Por el Gobierno, a propuesta del Ayuntamiento"
+    "Por la Diputación Provincial"
    ],
    "c": 1,
    "e": "Art. 140 CE: «Los Alcaldes serán elegidos por los Concejales o por los vecinos». Los Concejales sí son elegidos por los vecinos por sufragio universal, igual, libre, directo y secreto.",
@@ -1665,8 +1938,7 @@
    "o": [
     "Las Diputaciones provinciales",
     "Los Ayuntamientos, integrados por los Alcaldes y los Concejales",
-    "Las Comunidades Autónomas",
-    "Los Alcaldes de forma exclusiva"
+    "Las Comunidades Autónomas"
    ],
    "c": 1,
    "e": "Art. 140 CE: «Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales».",
@@ -1682,8 +1954,7 @@
    "o": [
     "El Gobierno, mediante Real Decreto",
     "Las Cortes Generales, mediante ley orgánica",
-    "Las Cortes Generales, mediante ley ordinaria",
-    "Las Comunidades Autónomas afectadas, mediante ley autonómica"
+    "Las Cortes Generales, mediante ley ordinaria"
    ],
    "c": 1,
    "e": "Art. 141.1 CE: «Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica».",
@@ -1698,8 +1969,7 @@
    "o": [
     "Diputaciones u otras Corporaciones de carácter representativo",
     "Los Gobernadores civiles",
-    "Las Delegaciones del Gobierno",
-    "Los Ayuntamientos de las capitales de provincia"
+    "Las Delegaciones del Gobierno"
    ],
    "c": 0,
    "e": "Art. 141.2 CE: «Diputaciones u otras Corporaciones de carácter representativo». En los archipiélagos, las islas tienen además Cabildos o Consejos (art. 141.4).",
@@ -1714,8 +1984,7 @@
    "o": [
     "Solo de transferencias del Estado",
     "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
-    "Préstamos de las entidades financieras",
-    "Exclusivamente de tasas y precios públicos"
+    "Préstamos de las entidades financieras"
    ],
    "c": 1,
    "e": "Art. 142 CE: «se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas».",
@@ -1731,12 +2000,1065 @@
    "o": [
     "Defensa y Fuerzas Armadas",
     "Ordenación del territorio, urbanismo y vivienda",
-    "Administración de Justicia",
-    "Legislación mercantil y penal"
+    "Administración de Justicia"
    ],
    "c": 1,
    "e": "Art. 148.1.3.ª CE: ordenación del territorio, urbanismo y vivienda. Defensa, Administración de Justicia y legislación mercantil y penal son competencia exclusiva del Estado (art. 149.1).",
    "ref": "Arts. 148.1.3.ª y 149.1 CE"
-  }
+  },
+  [
+   "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico:",
+   [
+    "La libertad, la justicia, la igualdad y el pluralismo político",
+    "La libertad, la igualdad, la fraternidad y la solidaridad",
+    "La unidad, la justicia, la paz y la igualdad"
+   ],
+   0,
+   "Art. 1.1.",
+   "ce 1.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de la Constitución Española la soberanía nacional reside:",
+   [
+    "En el pueblo español, del que emanan los poderes del Estado",
+    "En las Cortes Generales, de las que emanan los poderes del Estado",
+    "En el Rey, del que emanan los poderes del Estado y su representación"
+   ],
+   0,
+   "Art. 1.2.",
+   "ce 1.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.3 de la Constitución Española la forma política del Estado español es:",
+   [
+    "La Monarquía parlamentaria",
+    "La Monarquía constitucional",
+    "La República parlamentaria"
+   ],
+   0,
+   "Art. 1.3.",
+   "ce 1.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de la Constitución Española la Constitución se fundamenta en la indisoluble unidad de la Nación española y reconoce y garantiza:",
+   [
+    "El derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "El derecho de autodeterminación de las nacionalidades y regiones que la integran y la solidaridad entre ellas",
+    "La soberanía compartida de las nacionalidades y regiones que la integran y la igualdad entre todas ellas"
+   ],
+   0,
+   "Art. 2.",
+   "ce 2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.1 de la Constitución Española el castellano es:",
+   [
+    "La lengua española oficial del Estado; todos los españoles tienen el deber de conocerla y el derecho a usarla",
+    "Una de las lenguas oficiales del Estado; todos los españoles tienen el deber de conocerla y el derecho a usarla",
+    "La lengua oficial solo en las Comunidades sin lengua propia; todos los españoles tienen el derecho a usarla"
+   ],
+   0,
+   "Art. 3.1.",
+   "ce 3.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.2 de la Constitución Española las demás lenguas españolas serán también oficiales:",
+   [
+    "En las respectivas Comunidades Autónomas de acuerdo con sus Estatutos",
+    "En todo el territorio nacional, de acuerdo con la Constitución y las leyes del Estado",
+    "En las provincias donde se hablen, de acuerdo con las leyes de las Cortes Generales"
+   ],
+   0,
+   "Art. 3.2.",
+   "ce 3.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de la Constitución Española la bandera de España está formada por tres franjas horizontales:",
+   [
+    "Roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
+    "Roja, amarilla y roja, siendo la roja de doble anchura que cada una de las amarillas",
+    "Roja, amarilla y roja, todas de igual anchura, con el escudo en el centro de la franja amarilla"
+   ],
+   0,
+   "Art. 4.1.",
+   "ce 4.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 de la Constitución Española los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas, que:",
+   [
+    "Se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales",
+    "Sustituirán a la bandera de España en sus edificios públicos y en sus actos oficiales",
+    "Se utilizarán solo en sus actos no oficiales, junto a la bandera de España en sus edificios"
+   ],
+   0,
+   "Art. 4.2.",
+   "ce 4.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de la Constitución Española la capital del Estado es:",
+   [
+    "La villa de Madrid",
+    "La ciudad de Madrid",
+    "La villa y corte de Madrid"
+   ],
+   0,
+   "Art. 5.",
+   "ce 5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de la Constitución Española los partidos políticos:",
+   [
+    "Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política; su estructura interna y funcionamiento deberán ser democráticos",
+    "Son órganos del Estado, expresan el pluralismo político y su funcionamiento deberá ser democrático",
+    "Expresan el pluralismo político y su creación y ejercicio requieren autorización administrativa previa"
+   ],
+   0,
+   "Art. 6.",
+   "ce 6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de la Constitución Española los sindicatos de trabajadores y las asociaciones empresariales:",
+   [
+    "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios; su creación y actividad son libres dentro del respeto a la Constitución y a la ley",
+    "Son organismos públicos que contribuyen a la defensa de los intereses económicos y sociales que les son propios",
+    "Necesitan autorización del Gobierno para su creación y actividad, dentro del respeto a la Constitución"
+   ],
+   0,
+   "Art. 7.",
+   "ce 7",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.1 de la Constitución Española las Fuerzas Armadas están constituidas por:",
+   [
+    "El Ejército de Tierra, la Armada y el Ejército del Aire, con la misión de garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional",
+    "El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil, para defender el orden constitucional",
+    "El Ejército de Tierra y la Armada, para garantizar la soberanía e independencia de España"
+   ],
+   0,
+   "Art. 8.1.",
+   "ce 8.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.2 de la Constitución Española las bases de la organización militar conforme a los principios de la Constitución serán reguladas por:",
+   [
+    "Una ley orgánica",
+    "Una ley ordinaria",
+    "Un real decreto"
+   ],
+   0,
+   "Art. 8.2.",
+   "ce 8.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 de la Constitución Española los ciudadanos y los poderes públicos están sujetos:",
+   [
+    "A la Constitución y al resto del ordenamiento jurídico",
+    "Solo a la Constitución, como norma suprema del ordenamiento jurídico",
+    "A las leyes ordinarias y a los reglamentos que las desarrollen únicamente"
+   ],
+   0,
+   "Art. 9.1.",
+   "ce 9.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de la Constitución Española corresponde a los poderes públicos:",
+   [
+    "Promover las condiciones para que la libertad y la igualdad sean reales y efectivas, remover los obstáculos que impidan su plenitud y facilitar la participación de todos en la vida política, económica, cultural y social",
+    "Garantizar la igualdad formal ante la ley y facilitar la participación de todos en la vida política",
+    "Promover la libertad económica y remover los obstáculos que impidan la igualdad real entre los españoles"
+   ],
+   0,
+   "Art. 9.2.",
+   "ce 9.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.3 de la Constitución Española la Constitución garantiza, entre otros, los principios de:",
+   [
+    "Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos",
+    "Legalidad, equidad, proporcionalidad, seguridad jurídica y responsabilidad de los poderes públicos",
+    "Jerarquía normativa, celeridad, eficacia, publicidad de las normas y retroactividad de las disposiciones favorables"
+   ],
+   0,
+   "Art. 9.3.",
+   "ce 9.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 103.1 de la Constitución Española la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+   [
+    "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho",
+    "Eficacia, eficiencia, jerarquía, descentralización y coordinación, con sometimiento pleno a la ley y al Derecho",
+    "Legalidad, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley"
+   ],
+   0,
+   "Art. 103.1.",
+   "ce 103.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 103.2 de la Constitución Española los órganos de la Administración del Estado:",
+   [
+    "Son creados, regidos y coordinados de acuerdo con la ley",
+    "Son creados libremente por el Gobierno, y regidos y coordinados de acuerdo con la ley",
+    "Son creados por ley, y se rigen por el reglamento específico que apruebe cada órgano"
+   ],
+   0,
+   "Art. 103.2.",
+   "ce 103.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 103.3 de la Constitución Española la ley regulará el estatuto de los funcionarios públicos y el acceso a la función pública de acuerdo con los principios de:",
+   [
+    "Mérito y capacidad",
+    "Igualdad, mérito y capacidad",
+    "Mérito, capacidad y publicidad"
+   ],
+   0,
+   "Art. 103.3.",
+   "ce 103.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104.1 de la Constitución Española las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión:",
+   [
+    "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+    "Defender la integridad territorial y proteger el libre ejercicio de los derechos y libertades",
+    "Garantizar el orden constitucional y la seguridad ciudadana, bajo la dependencia de las Cortes Generales"
+   ],
+   0,
+   "Art. 104.1.",
+   "ce 104.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104.2 de la Constitución Española las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad serán determinados por:",
+   [
+    "Una ley orgánica",
+    "Una ley ordinaria",
+    "Un real decreto-ley"
+   ],
+   0,
+   "Art. 104.2.",
+   "ce 104.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 105 de la Constitución Española la ley regulará, entre otras materias:",
+   [
+    "La audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten y el acceso a los archivos y registros administrativos, salvo seguridad y defensa del Estado, averiguación de delitos e intimidad de las personas",
+    "El acceso ilimitado a los archivos y registros administrativos y la audiencia de los ciudadanos en las disposiciones que les afecten",
+    "La audiencia de los ciudadanos solo en los procedimientos sancionadores y el acceso a los archivos, salvo la intimidad"
+   ],
+   0,
+   "Art. 105 a) y b).",
+   "ce 105",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 105 de la Constitución Española la ley regulará el procedimiento a través del cual deben producirse los actos administrativos:",
+   [
+    "Garantizando, cuando proceda, la audiencia del interesado",
+    "Garantizando siempre la audiencia pública, con independencia de la condición de interesado",
+    "Garantizando la audiencia del interesado solo en los procedimientos sancionadores o de gravamen"
+   ],
+   0,
+   "Art. 105 c).",
+   "ce 105",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106.1 de la Constitución Española los Tribunales controlan:",
+   [
+    "La potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican",
+    "Solo la legalidad de la actuación administrativa, no la potestad reglamentaria ni sus fines",
+    "Solo la potestad reglamentaria y los fines que la justifican, no la legalidad de los actos"
+   ],
+   0,
+   "Art. 106.1.",
+   "ce 106.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106.2 de la Constitución Española los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos:",
+   [
+    "Salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos",
+    "Incluso en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos",
+    "Salvo en los casos de fuerza mayor, y siempre que haya culpa o negligencia del funcionario causante"
+   ],
+   0,
+   "Art. 106.2.",
+   "ce 106.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107 de la Constitución Española el Consejo de Estado es:",
+   [
+    "El supremo órgano consultivo del Gobierno; una ley orgánica regulará su composición y competencia",
+    "El supremo órgano consultivo de las Cortes Generales; una ley orgánica regulará su composición y competencia",
+    "El órgano que controla la constitucionalidad de las leyes; una ley orgánica regulará su composición"
+   ],
+   0,
+   "Art. 107.",
+   "ce 107",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 137 de la Constitución Española el Estado se organiza territorialmente en:",
+   [
+    "Municipios, en provincias y en las Comunidades Autónomas que se constituyan; todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses",
+    "Municipios, provincias, comarcas y Comunidades Autónomas, que gozan de autonomía para gestionar sus intereses",
+    "Comunidades Autónomas y provincias, que gozan de autonomía para la gestión de sus respectivos intereses"
+   ],
+   0,
+   "Art. 137.",
+   "ce 137",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 138 de la Constitución Española las diferencias entre los Estatutos de las distintas Comunidades Autónomas:",
+   [
+    "No podrán implicar, en ningún caso, privilegios económicos o sociales",
+    "Podrán implicar privilegios sociales, pero no económicos, salvo en los territorios con régimen foral",
+    "Podrán implicar privilegios económicos, pero no sociales, cuando así lo autoricen las Cortes Generales"
+   ],
+   0,
+   "Art. 138.2.",
+   "ce 138",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139 de la Constitución Española todos los españoles tienen los mismos derechos y obligaciones:",
+   [
+    "En cualquier parte del territorio del Estado; ninguna autoridad podrá obstaculizar la libre circulación y establecimiento de personas y bienes",
+    "Solo en su Comunidad Autónoma de residencia; ninguna autoridad podrá obstaculizar la libre circulación de personas",
+    "En materia de derechos fundamentales únicamente; ninguna autoridad podrá obstaculizar la libre circulación de bienes"
+   ],
+   0,
+   "Art. 139.",
+   "ce 139",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140 de la Constitución Española la Constitución garantiza la autonomía de los municipios, que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por:",
+   [
+    "Los Alcaldes y los Concejales; los Concejales serán elegidos por los vecinos y los Alcaldes por los Concejales o por los vecinos",
+    "El Alcalde y la Junta de Gobierno; los Concejales serán elegidos por los vecinos y el Alcalde por el Pleno",
+    "Solo los Concejales elegidos por los vecinos, entre los cuales estos designan al Alcalde por sufragio"
+   ],
+   0,
+   "Art. 140.",
+   "ce 140",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.1 de la Constitución Española cualquier alteración de los límites provinciales habrá de ser aprobada por:",
+   [
+    "Las Cortes Generales mediante ley orgánica",
+    "El Gobierno mediante real decreto",
+    "Las Comunidades Autónomas afectadas"
+   ],
+   0,
+   "Art. 141.1.",
+   "ce 141.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.2 de la Constitución Española el gobierno y la administración autónoma de las provincias estarán encomendados a:",
+   [
+    "Diputaciones u otras Corporaciones de carácter representativo",
+    "Delegados del Gobierno u otras Corporaciones de carácter representativo",
+    "Gobernadores civiles u otras Corporaciones de carácter representativo"
+   ],
+   0,
+   "Art. 141.2.",
+   "ce 141.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.4 de la Constitución Española en los archipiélagos, las islas tendrán además su administración propia en forma de:",
+   [
+    "Cabildos o Consejos",
+    "Diputaciones insulares",
+    "Ayuntamientos insulares"
+   ],
+   0,
+   "Art. 141.4.",
+   "ce 141.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 142 de la Constitución Española las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de:",
+   [
+    "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "Transferencias del Estado exclusivamente, además de las tasas que establezcan por los servicios que presten",
+    "Tasas y precios públicos, sin participación en los tributos del Estado ni de las Comunidades Autónomas"
+   ],
+   0,
+   "Art. 142.",
+   "ce 142",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.2 de la Constitución Española la iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular y a:",
+   [
+    "Las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla, cumpliéndose estos requisitos en el plazo de seis meses",
+    "La mitad de los municipios de cada provincia o isla cuya población represente la mayoría del censo, en un año",
+    "Las tres cuartas partes de los municipios cuya población represente la mayoría del censo, en seis meses"
+   ],
+   0,
+   "Art. 143.2.",
+   "ce 143.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 144 de la Constitución Española las Cortes Generales, mediante ley orgánica, podrán por motivos de interés nacional, entre otras cosas:",
+   [
+    "Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del art. 143.1",
+    "Disolver una Comunidad Autónoma cuando su ámbito territorial no supere el de una provincia",
+    "Federar Comunidades Autónomas cuando su ámbito territorial supere el de una provincia"
+   ],
+   0,
+   "Art. 144 a).",
+   "ce 144",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 145.1 de la Constitución Española respecto a las relaciones entre Comunidades Autónomas:",
+   [
+    "En ningún caso se admitirá la federación de Comunidades Autónomas",
+    "Se admite la federación con autorización de las Cortes",
+    "Se admite la federación de Comunidades limítrofes"
+   ],
+   0,
+   "Art. 145.1.",
+   "ce 145.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 145.2 de la Constitución Española los convenios entre Comunidades Autónomas para la gestión y prestación de servicios propios:",
+   [
+    "Podrán preverse en los Estatutos; en los demás supuestos, los acuerdos de cooperación necesitarán la autorización de las Cortes Generales",
+    "No necesitan comunicación a las Cortes Generales; en los demás supuestos precisarán autorización del Gobierno",
+    "Siempre necesitan autorización del Gobierno y, en los demás casos, comunicación a las Cortes Generales"
+   ],
+   0,
+   "Art. 145.2.",
+   "ce 145.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 146 de la Constitución Española el proyecto de Estatuto (vía ordinaria) será elaborado por:",
+   [
+    "Una asamblea compuesta por los miembros de la Diputación u órgano interinsular de las provincias afectadas y por los Diputados y Senadores elegidos en ellas, y elevado a las Cortes Generales para su tramitación como ley",
+    "El Gobierno de la Nación, junto a las Diputaciones de las provincias afectadas, y elevado a las Cortes Generales",
+    "Las Cortes Generales, junto a los Diputados y Senadores elegidos en las provincias afectadas, y se tramita como ley"
+   ],
+   0,
+   "Art. 146.",
+   "ce 146",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 147.1 de la Constitución Española los Estatutos serán:",
+   [
+    "La norma institucional básica de cada Comunidad Autónoma, que el Estado reconocerá y amparará como parte integrante de su ordenamiento jurídico",
+    "Una ley ordinaria de las Cortes, que el Estado reconocerá como parte de su ordenamiento jurídico",
+    "Una norma subordinada a la ley estatal, que el Estado reconocerá y amparará como parte de su ordenamiento"
+   ],
+   0,
+   "Art. 147.1.",
+   "ce 147.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 147.2 de la Constitución Española los Estatutos de autonomía deberán contener:",
+   [
+    "La denominación de la Comunidad, la delimitación de su territorio, la denominación, organización y sede de las instituciones autónomas y las competencias asumidas y bases para el traspaso de servicios",
+    "Solo las competencias asumidas y las bases para el traspaso de los servicios correspondientes",
+    "La denominación de la Comunidad, la lista de sus municipios y provincias y las competencias asumidas"
+   ],
+   0,
+   "Art. 147.2.",
+   "ce 147.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 147.3 de la Constitución Española la reforma de los Estatutos requerirá, en todo caso:",
+   [
+    "La aprobación por las Cortes Generales, mediante ley orgánica",
+    "La aprobación por el Parlamento autonómico únicamente",
+    "Un referéndum nacional"
+   ],
+   0,
+   "Art. 147.3.",
+   "ce 147.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 148.1 de la Constitución Española las Comunidades Autónomas podrán asumir competencias en materias como:",
+   [
+    "Organización de sus instituciones de autogobierno, ordenación del territorio, urbanismo y vivienda, y obras públicas de interés de la Comunidad",
+    "Defensa y Fuerzas Armadas, ordenación del territorio, urbanismo y vivienda",
+    "Relaciones internacionales, urbanismo y vivienda, y obras públicas de interés de la Comunidad"
+   ],
+   0,
+   "Art. 148.1 (1.ª, 3.ª y 4.ª). Defensa y relaciones internacionales son exclusivas del Estado (art. 149).",
+   "ce 148.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 149.1 de la Constitución Española el Estado tiene competencia exclusiva, entre otras materias, sobre:",
+   [
+    "La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles, nacionalidad, inmigración, extranjería, relaciones internacionales, defensa y Administración de Justicia",
+    "Urbanismo y vivienda, nacionalidad, inmigración, extranjería, relaciones internacionales y defensa",
+    "Ordenación del territorio, nacionalidad, inmigración, extranjería, relaciones internacionales y Administración de Justicia"
+   ],
+   0,
+   "Art. 149.1 1.ª a 5.ª.",
+   "ce 149.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 150.1 de la Constitución Española las Cortes Generales, en materias de competencia estatal, podrán atribuir a las Comunidades Autónomas la facultad de dictar normas legislativas:",
+   [
+    "En el marco de los principios, bases y directrices fijados por una ley estatal (ley marco)",
+    "En el marco de una ley orgánica de armonización dictada por las Cortes Generales",
+    "Sin sujeción a ley estatal, siempre que se trate de materias de competencia estatal transferibles"
+   ],
+   0,
+   "Art. 150.1.",
+   "ce 150.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 150.2 de la Constitución Española el Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal susceptibles de transferencia o delegación:",
+   [
+    "Mediante ley orgánica",
+    "Mediante ley ordinaria",
+    "Mediante real decreto"
+   ],
+   0,
+   "Art. 150.2.",
+   "ce 150.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 151.1 de la Constitución Española para acceder a la autonomía por la vía del artículo 151 (sin esperar cinco años) la iniciativa debe ser acordada por las Diputaciones y por las tres cuartas partes de los municipios que representen la mayoría del censo y:",
+   [
+    "Ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta de los electores de cada provincia",
+    "Ratificada por mayoría simple de los votantes en referéndum, en el ámbito de cada provincia",
+    "Aprobada por las Cortes Generales por mayoría absoluta, sin necesidad de referéndum provincial"
+   ],
+   0,
+   "Art. 151.1.",
+   "ce 151.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 152.1 de la Constitución Española en los Estatutos aprobados por el procedimiento del artículo 151, la organización institucional autonómica se basará en:",
+   [
+    "Una Asamblea Legislativa, un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente elegido por la Asamblea y nombrado por el Rey",
+    "Un Parlamento, un Gobierno y un Presidente elegido por la Asamblea y nombrado por el Presidente del Gobierno de la Nación",
+    "Una Asamblea Legislativa, un Delegado del Gobierno y un Presidente elegido por la Asamblea y nombrado por el Rey"
+   ],
+   0,
+   "Art. 152.1.",
+   "ce 152.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 153 de la Constitución Española el control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:",
+   [
+    "Por el Tribunal Constitucional (disposiciones con fuerza de ley), por el Gobierno previo dictamen del Consejo de Estado (funciones delegadas), por la jurisdicción contencioso-administrativa y por el Tribunal de Cuentas (económico y presupuestario)",
+    "Solo por el Tribunal Constitucional, sobre las disposiciones normativas con fuerza de ley de las Comunidades",
+    "Solo por el Gobierno de la Nación, previo dictamen del Consejo de Estado, en las funciones delegadas"
+   ],
+   0,
+   "Art. 153.",
+   "ce 153",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 154 de la Constitución Española el Delegado del Gobierno en la Comunidad Autónoma:",
+   [
+    "Es nombrado por el Gobierno, dirige la Administración del Estado en el territorio de la Comunidad y la coordina, cuando proceda, con la administración propia de la Comunidad",
+    "Es elegido por la Asamblea de la Comunidad y dirige la Administración del Estado en el territorio de ésta",
+    "Es nombrado por el Presidente de la Comunidad y coordina la Administración del Estado con la de la Comunidad"
+   ],
+   0,
+   "Art. 154.",
+   "ce 154",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 155.1 de la Constitución Española si una Comunidad Autónoma no cumpliere sus obligaciones constitucionales o legales, o actuare gravemente contra el interés general, el Gobierno, previo requerimiento al Presidente de la Comunidad, podrá adoptar las medidas necesarias:",
+   [
+    "Con la aprobación por mayoría absoluta del Senado",
+    "Con la aprobación por mayoría absoluta del Congreso",
+    "Con la aprobación por mayoría de tres quintos de las Cortes"
+   ],
+   0,
+   "Art. 155.1.",
+   "ce 155.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 156.1 de la Constitución Española las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de:",
+   [
+    "Coordinación con la Hacienda estatal y solidaridad entre todos los españoles",
+    "Suficiencia y autonomía, con coordinación con la Hacienda estatal y solidaridad entre los españoles",
+    "Equilibrio y responsabilidad, con coordinación con la Hacienda estatal y solidaridad entre las Comunidades"
+   ],
+   0,
+   "Art. 156.1.",
+   "ce 156.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 157.1 de la Constitución Española los recursos de las Comunidades Autónomas estarán constituidos, entre otros, por:",
+   [
+    "Impuestos cedidos por el Estado, sus propios impuestos, tasas y contribuciones especiales, transferencias del Fondo de Compensación interterritorial y el producto de operaciones de crédito",
+    "Solo transferencias del Estado y del Fondo de Compensación interterritorial, además del producto de operaciones de crédito",
+    "Solo sus propios tributos, tasas y contribuciones especiales, y el producto de las operaciones de crédito"
+   ],
+   0,
+   "Art. 157.1.",
+   "ce 157.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 157.2 de la Constitución Española las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias:",
+   [
+    "Sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios",
+    "Sobre bienes de dominio público situados fuera de su territorio o que obstaculicen la libre circulación de personas",
+    "Sobre actividades económicas desarrolladas en su territorio o que supongan obstáculo para la libre circulación de mercancías"
+   ],
+   0,
+   "Art. 157.2.",
+   "ce 157.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 158.2 de la Constitución Española el Fondo de Compensación, con destino a gastos de inversión, se constituye:",
+   [
+    "Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, siendo sus recursos distribuidos por las Cortes Generales",
+    "Para financiar el gasto corriente de las Comunidades, siendo sus recursos distribuidos por las Cortes Generales",
+    "Para compensar a las Comunidades por la cesión de impuestos, siendo sus recursos distribuidos por el Gobierno"
+   ],
+   0,
+   "Art. 158.2.",
+   "ce 158.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 166 de la Constitución Española la iniciativa de reforma constitucional se ejercerá:",
+   [
+    "En los términos previstos en los apartados 1 y 2 del artículo 87",
+    "Solo por el Gobierno, en los términos previstos en los apartados 1 y 2 del artículo 87",
+    "Solo por las Cortes Generales, en los términos previstos en el artículo 88 de la Constitución"
+   ],
+   0,
+   "Art. 166.",
+   "ce 166",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.1 de la Constitución Española los proyectos de reforma constitucional por el procedimiento ordinario deberán ser aprobados por una mayoría de:",
+   [
+    "Tres quintos de cada una de las Cámaras",
+    "Dos tercios de cada Cámara",
+    "Mayoría absoluta de cada Cámara"
+   ],
+   0,
+   "Art. 167.1.",
+   "ce 167.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.2 de la Constitución Española de no lograrse la aprobación por el procedimiento ordinario, si el texto obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de:",
+   [
+    "Dos tercios",
+    "Tres quintos",
+    "Mayoría absoluta"
+   ],
+   0,
+   "Art. 167.2.",
+   "ce 167.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.3 de la Constitución Española aprobada la reforma por las Cortes Generales por el procedimiento ordinario, será sometida a referéndum para su ratificación:",
+   [
+    "Cuando así lo soliciten, dentro de los quince días siguientes, una décima parte de los miembros de cualquiera de las Cámaras",
+    "Siempre, dentro de los quince días siguientes a su aprobación por las Cortes Generales",
+    "Cuando lo soliciten, dentro del mes siguiente, una quinta parte de los miembros de cualquiera de las Cámaras"
+   ],
+   0,
+   "Art. 167.3.",
+   "ce 167.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168.1 de la Constitución Española en la revisión total de la Constitución o la parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se aprobará el principio por mayoría de dos tercios de cada Cámara y:",
+   [
+    "Se procederá a la disolución inmediata de las Cortes",
+    "Se convocará un referéndum inmediato para su ratificación por el cuerpo electoral",
+    "Se someterá al dictamen del Consejo de Estado antes de proceder a la disolución de las Cortes"
+   ],
+   0,
+   "Art. 168.1.",
+   "ce 168.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168.3 de la Constitución Española aprobada la reforma agravada por las Cortes Generales:",
+   [
+    "Será sometida a referéndum para su ratificación",
+    "No necesita referéndum, al haberse aprobado ya el principio por mayoría de dos tercios de cada Cámara",
+    "Se ratificará por el Rey mediante sanción, previa disolución de las Cortes Generales"
+   ],
+   0,
+   "Art. 168.3.",
+   "ce 168.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169 de la Constitución Española no podrá iniciarse la reforma constitucional:",
+   [
+    "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116",
+    "Durante los seis meses previos a las elecciones generales o en tiempo de vigencia de un Gobierno en funciones",
+    "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116, salvo el de alarma"
+   ],
+   0,
+   "Art. 169.",
+   "ce 169",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ]
  ]
 }

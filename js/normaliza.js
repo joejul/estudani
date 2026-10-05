@@ -17,18 +17,31 @@ export function bloque(b) {
 
 export function pregunta(q, i, prefijo) {
   if (!Array.isArray(q)) return q;
-  const [enunciado, o, c, e, ref, trampa, hub, claves] = q;
+  const [enunciado, o, c, e, ref, trampa, hub, claves, extra] = q;
   const r = { id: `${prefijo}-${String(i + 1).padStart(3, '0')}`, q: enunciado, o, c, e, ref, tipo: trampa ? 'trampa' : 'directa', dif: trampa ? 3 : 2 };
+  // referencia nueva «lx artículo» (p. ej. «lpac 53.1»): enlaza la pregunta con su ficha de artículo
+  const m = /^([a-z0-9-]+) ((?:D[ATFD])?\d+(?: bis| ter)?)(\S*)$/.exec(String(ref));
+  if (m) { r.lx = m[1]; r.art = m[2]; r.artTxt = m[2] + m[3]; }
+  // extra: { z: «examen y pregunta» (⭐ preguntada en Zaragoza), dif: 2|3, off: 1 (fuera del temario, no se pregunta) }
+  if (extra) Object.assign(r, extra);
   if (trampa) r.trampa = trampa;
   if (hub) r.hub = hub;
   if (claves) r.claves = claves;
   return r;
 }
 
+// ficha de artículo: [lx, n, ref (≤10 palabras), intuición, pregunta mental, {txt?, add?}?]
+export function articulo(a) {
+  if (!Array.isArray(a)) return a;
+  const [lx, n, ref, int, preg, extra] = a;
+  return { lx, n: String(n), ref, int, preg, ...(extra || {}) };
+}
+
 export function normalizaTema(t) {
   const prefijo = `t${String(t.n).padStart(2, '0')}`;
   t.epigrafes.forEach((e) => {
     e.bloques = e.bloques.map(bloque);
+    e.articulos = (e.articulos || []).map(articulo);
     e.flash = (e.flash || []).map((f) => (Array.isArray(f) ? { q: f[0], a: f[1] } : f));
   });
   t.preguntas = t.preguntas.map((q, i) => pregunta(q, i, prefijo));

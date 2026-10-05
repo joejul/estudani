@@ -90,12 +90,96 @@
     "Aragonés: vecindad administrativa (4) · organización territorial (5)",
     "Incorporación de territorios: Ayuntamientos + consulta + Cortes de Aragón + Cortes Generales por ley orgánica (10)"
    ],
-   "ic": "📜"
+   "ic": "📜",
+   "articulos": [
+    [
+     "eaar",
+     "1",
+     "Aragón ejerce su autogobierno como nacionalidad histórica",
+     "Aragón, **nacionalidad histórica**, ejerce su **autogobierno** según el Estatuto y el derecho a la autonomía que reconoce la Constitución. Los **poderes de la Comunidad emanan del pueblo aragonés y de la Constitución**. Tiene **identidad propia** por sus **instituciones tradicionales, el Derecho foral y su cultura**.",
+     "¿De dónde emanan los poderes de la Comunidad Autónoma de Aragón?"
+    ],
+    [
+     "eaar",
+     "2",
+     "Territorio de Aragón: municipios, comarcas y tres provincias",
+     "El territorio **se corresponde con el histórico de Aragón** y comprende el de los **municipios, comarcas y provincias de Huesca, Teruel y Zaragoza**.",
+     "¿Qué provincias integran el territorio de Aragón?"
+    ],
+    [
+     "eaar",
+     "3",
+     "Símbolos, capital y día de Aragón",
+     "**Bandera:** **cuatro barras rojas horizontales sobre fondo amarillo**. **Escudo:** tradicional de **cuatro cuarteles**, rematado por la corona, en el centro de la bandera. **Capital: Zaragoza**. **Día de Aragón: 23 de abril**.",
+     "¿Cuál es el día de Aragón y cuál es su capital?"
+    ],
+    [
+     "eaar",
+     "4",
+     "Condición política de aragonés",
+     "Gozan de la condición política de **aragoneses** los **ciudadanos españoles con vecindad administrativa** en cualquier municipio de Aragón. También los **españoles residentes en el extranjero** que tuvieron su **última vecindad administrativa en Aragón** (y la acrediten en el Consulado) y, si lo solicitan, sus **descendientes**. Los poderes públicos facilitarán la **participación de los extranjeros residentes**.",
+     "¿Qué requisito principal define la condición política de aragonés?"
+    ],
+    [
+     "eaar",
+     "5",
+     "Organización territorial: municipios, comarcas y provincias",
+     "Aragón estructura su **organización territorial** en **municipios, comarcas y provincias**.",
+     "¿En qué tres niveles se organiza territorialmente Aragón?"
+    ],
+    [
+     "eaar",
+     "6",
+     "Derechos y libertades de los aragoneses",
+     "Los derechos de los aragoneses son los **reconocidos en la Constitución**, en la **Declaración Universal de Derechos Humanos** y en los **tratados internacionales** ratificados por España, más los del **Estatuto**. Los poderes públicos aragoneses **están vinculados** por ellos y velan por su **protección y ejercicio**. Los derechos del Título I **no alteran el reparto de competencias**.",
+     "¿Alteran los derechos del Título I el reparto de competencias?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "eaar",
+     "7",
+     "Lenguas y modalidades lingüísticas propias de Aragón",
+     "Las **lenguas y modalidades propias** son **patrimonio histórico y cultural**. Una **ley de las Cortes de Aragón** fijará las **zonas de uso predominante** y regulará derechos de los hablantes. **Nadie podrá ser discriminado por razón de la lengua**.",
+     "¿Qué norma establece las zonas de uso predominante de las lenguas propias?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "eaar",
+     "8",
+     "Comunidades aragonesas en el exterior",
+     "Los poderes públicos **fomentan los vínculos** con las **comunidades aragonesas del exterior** y les prestan ayuda; una **ley de Cortes de Aragón** regula su derecho a participar en la vida social y cultural. El Gobierno puede **formalizar acuerdos de cooperación** y pedir al Estado tratados o convenios.",
+     "¿Quién regula el derecho de participación de las comunidades aragonesas del exterior?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "eaar",
+     "9",
+     "Eficacia territorial y personal de las normas aragonesas",
+     "Las normas aragonesas tienen **eficacia territorial**, con excepciones. El **Derecho foral** tiene **eficacia personal**: se aplica a quienes tienen **vecindad civil aragonesa**, vivan donde vivan. Los **extranjeros que adquieran la nacionalidad española** quedan sujetos a la vecindad civil aragonesa si tienen **vecindad administrativa en Aragón**, salvo que manifiesten lo contrario.",
+     "¿A quién se aplica el Derecho foral de Aragón?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "eaar",
+     "10",
+     "Requisitos para incorporar otros territorios o municipios",
+     "Pueden incorporarse **territorios o municipios limítrofes o enclavados** si: **a)** lo **solicitan el Ayuntamiento o la mayoría de los Ayuntamientos** interesados (oyendo a la Comunidad o provincia de origen); **b)** lo **acuerdan sus habitantes** en **consulta** convocada al efecto, con autorización; **c)** lo **aprueban las Cortes de Aragón** y, después, las **Cortes Generales mediante ley orgánica**.",
+     "¿Qué aprobaciones finales necesita la incorporación de un municipio a Aragón?"
+    ]
+   ]
   },
   {
    "id": "e1",
    "titulo": "Organización institucional",
-   "subtitulo": "Arts. 32 a 60",
+   "subtitulo": "Arts. 32 a 69 y 81 a 87, y art. 115",
    "clave": [
     "Instituciones (32)",
     "Cortes de Aragón (33-45)",
@@ -159,12 +243,339 @@
     "Presidente: elegido por Cortes, nombrado por el Rey · Gobierno: función ejecutiva y reglamentaria",
     "Consejo Consultivo (58) · Justicia (59)"
    ],
-   "ic": "🏛️"
+   "ic": "🏛️",
+   "articulos": [
+    [
+     "eaar",
+     "32",
+     "Instituciones de la Comunidad Autónoma de Aragón",
+     "Son instituciones: las **Cortes**, el **Presidente**, el **Gobierno o Diputación General** y el **Justicia**.",
+     "¿Cuáles son las cuatro instituciones de la Comunidad Autónoma?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "eaar",
+     "33",
+     "Cortes de Aragón: funciones generales e inviolabilidad",
+     "Las Cortes **representan al pueblo aragonés**, ejercen la **potestad legislativa**, **aprueban los presupuestos**, **impulsan y controlan al Gobierno** y son **inviolables**.",
+     "¿Qué cuatro funciones principales tienen las Cortes de Aragón?"
+    ],
+    [
+     "eaar",
+     "34",
+     "Autonomía parlamentaria: reglamento por mayoría absoluta",
+     "Las Cortes **establecen su propio reglamento**, aprueban **sus presupuestos** y regulan el **estatuto de su personal**. El reglamento se aprueba por **mayoría absoluta de sus miembros**.",
+     "¿Con qué mayoría se aprueba el reglamento de las Cortes?"
+    ],
+    [
+     "eaar",
+     "35",
+     "Sede de las Cortes: el Palacio de la Aljafería",
+     "La sede permanente es **Zaragoza, en el Palacio de la Aljafería**, aunque pueden celebrarse sesiones en otros lugares de Aragón.",
+     "¿Dónde está la sede permanente de las Cortes de Aragón?"
+    ],
+    [
+     "eaar",
+     "36",
+     "Composición de las Cortes: 65 a 80 escaños",
+     "Según la ley electoral, entre **sesenta y cinco y ochenta escaños**. **Mínimo 14 por provincia**. La circunscripción más poblada no puede necesitar **más de 3 veces** los habitantes por escaño que la menos poblada.",
+     "¿Cuántos escaños mínimos tiene cada provincia?"
+    ],
+    [
+     "eaar",
+     "37",
+     "Régimen electoral: unicameral, cuatro años y provincia",
+     "**Unicameral**, con Diputados elegidos por **sufragio universal, igual, libre, directo y secreto**, por **cuatro años**, con **representación proporcional**; **circunscripción = provincia**. Son elegibles los aragoneses en pleno uso de sus derechos políticos. La **ley electoral** se aprueba por **mayoría absoluta**.",
+     "¿Cuál es la circunscripción electoral y cuánto dura el mandato?"
+    ],
+    [
+     "eaar",
+     "38",
+     "Estatuto de los diputados: inviolabilidad y sin mandato imperativo",
+     "Los Diputados **no están vinculados por mandato imperativo** y son **inviolables**, incluso tras cesar, por **votos y opiniones** emitidos en su cargo. Durante el mandato **no pueden ser detenidos ni retenidos** salvo **flagrante delito**.",
+     "¿Cuándo puede detenerse a un diputado de las Cortes durante su mandato?"
+    ],
+    [
+     "eaar",
+     "39",
+     "Organización de las Cortes: Presidente, Mesa y Diputación Permanente",
+     "Eligen de entre sus miembros un **Presidente**, una **Mesa** y una **Diputación Permanente**. Funcionan en **Pleno y Comisiones** (permanentes y, en su caso, especiales o de investigación). Los diputados se constituyen en **grupos parlamentarios**. La **Diputación Permanente** actúa cuando las Cortes **no están reunidas, expiró el mandato o fueron disueltas**.",
+     "¿Qué órgano actúa cuando las Cortes no están reunidas o han sido disueltas?"
+    ],
+    [
+     "eaar",
+     "40",
+     "Funcionamiento: períodos ordinarios y sesiones extraordinarias",
+     "Sesiones **ordinarias** y **extraordinarias**. Períodos ordinarios: **septiembre a diciembre** y **febrero a junio**. Las extraordinarias las convoca el **Presidente de las Cortes**, con **orden del día**, a petición de la **Diputación Permanente**, de **una quinta parte de los diputados**, de los grupos que fije el Reglamento o del **Gobierno**.",
+     "¿En qué meses transcurren los dos períodos ordinarios de sesiones?"
+    ],
+    [
+     "eaar",
+     "41",
+     "Funciones de las Cortes: elegir, legislar y aprobar",
+     "Corresponde a las Cortes, entre otras: **elegir al Presidente** de Aragón; **elegir, nombrar y cesar al Justicia**; **designar los Senadores** (proporcional a los grupos); ejercer la **iniciativa legislativa** (art. 87.2 CE) y de **reforma de la Constitución**; **aprobar el programa del Gobierno**; **aprobar sus cuentas y las de la Comunidad**; **interponer recurso de inconstitucionalidad** (lista completa en el texto oficial).",
+     "¿Quién elige al Presidente de Aragón y quién nombra y cesa al Justicia?"
+    ],
+    [
+     "eaar",
+     "42",
+     "Potestad legislativa e iniciativa legislativa",
+     "Las Cortes ejercen la **potestad legislativa**. La **iniciativa legislativa** corresponde a los **miembros de las Cortes** y al **Gobierno**; la **iniciativa legislativa popular** se regula por **ley de Cortes de Aragón**.",
+     "¿A quién corresponde la iniciativa legislativa en Aragón?"
+    ],
+    [
+     "eaar",
+     "43",
+     "Delegación legislativa y decretos legislativos",
+     "Las Cortes pueden delegar en el Gobierno la potestad de dictar **normas con rango de ley** (**Decretos Legislativos**). **No cabe delegar**: **Presupuesto**, **regulación esencial de los derechos del Estatuto**, **desarrollo básico de las instituciones** y **régimen electoral**. La delegación debe ser **expresa, por ley, para materia concreta y con plazo cierto**; se agota por el plazo o por aprobarse el decreto; **no puede usarse con el Gobierno en funciones por disolución**. Texto articulado: la ley fija **bases y criterios**; refundición: fija **alcance y criterios**.",
+     "¿Qué cuatro materias no pueden ser objeto de delegación legislativa?"
+    ],
+    [
+     "eaar",
+     "44",
+     "Decretos-leyes: urgencia, límites y convalidación en treinta días",
+     "En **necesidad urgente y extraordinaria**, el Gobierno puede dictar **Decretos-leyes** (provisionales). **No pueden regular**: **derechos, deberes y libertades**, **instituciones del Título II**, **régimen electoral**, **tributos** ni el **Presupuesto**. Quedan **derogados** si en **treinta días improrrogables** no son **convalidados** por las Cortes tras debate y votación de totalidad. Las Cortes pueden tramitarlos **como proyectos de ley**.",
+     "¿En cuántos días deben convalidarse los decretos-leyes y qué ocurre si no?"
+    ],
+    [
+     "eaar",
+     "45",
+     "Promulgación y publicación de las leyes aragonesas",
+     "Las leyes se promulgan **en nombre del Rey** por el **Presidente**, que ordena su publicación en el **BOA** y en el **BOE** en **quince días máximo** desde su aprobación. Rige, para su vigencia, la **fecha del BOA**.",
+     "¿Quién promulga las leyes aragonesas y qué fecha rige para su vigencia?"
+    ],
+    [
+     "eaar",
+     "46",
+     "Presidente de Aragón: elección, nombramiento y representación",
+     "Es **elegido por las Cortes**, de entre sus Diputados, y **nombrado por el Rey**. Ostenta la **suprema representación de Aragón** y la **ordinaria del Estado** en el territorio; **preside, dirige y coordina** el Gobierno. **Responde políticamente ante las Cortes**.",
+     "¿Quién elige y quién nombra al Presidente de Aragón?"
+    ],
+    [
+     "eaar",
+     "47",
+     "Incompatibilidades del Presidente de Aragón",
+     "No puede ejercer **otras funciones representativas** que las del mandato parlamentario, **ninguna otra función pública** ajena a su cargo, ni **actividad profesional o mercantil**.",
+     "¿Qué actividades no puede ejercer el Presidente de Aragón?"
+    ],
+    [
+     "eaar",
+     "48",
+     "Investidura del Presidente: mayorías y plazo de dos meses",
+     "El Presidente de las Cortes propone un candidato. En **primera votación**, **mayoría absoluta**; si no, nueva votación **24 horas después** y basta **mayoría simple**. Siguientes propuestas con **máximo diez días** entre ellas. Si en **dos meses** desde la constitución de las Cortes nadie es investido, **se disuelven** y hay nuevas elecciones.",
+     "¿Qué mayorías exige la investidura y en cuántos meses se disuelven las Cortes si nadie es investido?"
+    ],
+    [
+     "eaar",
+     "49",
+     "Cuestión de confianza del Presidente",
+     "El Presidente, previa deliberación del Gobierno, puede plantear **cuestión de confianza**. Se otorga con **mayoría simple de los votos emitidos**. Si se niega, **cesa con su Gobierno** y se elige nuevo Presidente.",
+     "¿Con qué mayoría se otorga la confianza al Presidente?"
+    ],
+    [
+     "eaar",
+     "50",
+     "Moción de censura: mayoría absoluta y quince por ciento",
+     "Las Cortes pueden exigir la responsabilidad política mediante **moción de censura aprobada por mayoría absoluta**. Debe ser propuesta por al menos el **quince por ciento de los diputados** e incluir **candidato**. Si prospera, **cesa el Presidente** y el candidato queda investido. Si fracasa, los firmantes **no pueden presentar otra hasta pasado un año**.",
+     "¿Qué porcentaje de diputados debe proponer una moción de censura?"
+    ],
+    [
+     "eaar",
+     "51",
+     "Causas de cese del Presidente de Aragón",
+     "El Presidente cesa por: **elecciones a Cortes**, **moción de censura**, **pérdida de cuestión de confianza**, **dimisión**, **incapacidad permanente** (reconocida por mayoría absoluta de las Cortes), **sentencia firme de inhabilitación**, **pérdida de la condición de diputado** o **incompatibilidad no subsanada**.",
+     "Cita tres causas por las que cesa el Presidente de Aragón."
+    ],
+    [
+     "eaar",
+     "52",
+     "Disolución de las Cortes por el Presidente",
+     "El Presidente, **previa deliberación del Gobierno** y **bajo su exclusiva responsabilidad**, puede **disolver las Cortes** antes del término de la legislatura, por **decreto** que convoque **elecciones**. **No se pueden disolver** con **moción de censura en trámite**. **No cabe nueva disolución antes de un año**, salvo el caso del art. 48.3.",
+     "¿Cuándo no pueden disolverse las Cortes de Aragón?"
+    ],
+    [
+     "eaar",
+     "53",
+     "Gobierno de Aragón: composición y función ejecutiva",
+     "El Gobierno ejerce la **función ejecutiva y la potestad reglamentaria**. Lo forman el **Presidente**, los **Vicepresidentes** (si los hay) y los **Consejeros**, a quienes el Presidente **nombra y separa libremente**. Responde ante las Cortes **solidariamente**, sin perjuicio de la **responsabilidad directa de cada Consejero**.",
+     "¿Quién nombra y separa a los Consejeros?"
+    ],
+    [
+     "eaar",
+     "54",
+     "Sede del Gobierno de Aragón",
+     "La sede es **Zaragoza**, sin perjuicio de reuniones en otros lugares. Una **ley de Cortes** puede **modificar la sede**.",
+     "¿Qué norma puede modificar la sede del Gobierno de Aragón?"
+    ],
+    [
+     "eaar",
+     "55",
+     "Estatuto personal de los miembros del Gobierno",
+     "Durante su mandato **no pueden ser detenidos ni retenidos** salvo **flagrante delito**. Una **ley de Cortes** determina su **estatuto, atribuciones e incompatibilidades**.",
+     "¿Cuándo puede detenerse a un miembro del Gobierno de Aragón?"
+    ],
+    [
+     "eaar",
+     "56",
+     "Cese del Gobierno y Gobierno en funciones",
+     "El Gobierno **cesa cuando cesa su Presidente** y continúa **en funciones hasta la toma de posesión** del nuevo Gobierno.",
+     "¿Hasta cuándo continúa el Gobierno cesante?"
+    ],
+    [
+     "eaar",
+     "57",
+     "Gobierno de Aragón ante el Tribunal Constitucional",
+     "Puede **interponer recursos de inconstitucionalidad**, **plantear conflictos de competencias** y **personarse** ante el Tribunal Constitucional en los casos previstos por la Constitución y la LOTC.",
+     "¿Qué actuaciones puede realizar el Gobierno de Aragón ante el Tribunal Constitucional?"
+    ],
+    [
+     "eaar",
+     "58",
+     "Consejo Consultivo de Aragón",
+     "Es el **supremo órgano consultivo** del Gobierno y la Administración de la Comunidad, con **autonomía orgánica y funcional**. Su organización y funciones se regulan por **ley de las Cortes**.",
+     "¿Cuál es el supremo órgano consultivo del Gobierno de Aragón?"
+    ],
+    [
+     "eaar",
+     "59",
+     "El Justicia de Aragón: misiones y supervisión",
+     "Misiones: **a)** **proteger y defender los derechos** individuales y colectivos del Estatuto; **b)** **tutelar el ordenamiento jurídico aragonés**; **c)** **defender el Estatuto**. Puede **supervisar** la **Administración de la Comunidad**, la actividad de **entes locales y comarcas** y los **servicios públicos concedidos**. **Rinde cuentas ante las Cortes**.",
+     "¿Qué tres misiones específicas tiene el Justicia de Aragón?"
+    ],
+    [
+     "eaar",
+     "60",
+     "Ley del Justicia de Aragón",
+     "Una **ley de las Cortes** concreta el **alcance de sus funciones**, el **procedimiento de elección** por las Cortes y el **régimen de incompatibilidades**.",
+     "¿Qué ley regula la elección del Justicia de Aragón?"
+    ],
+    [
+     "eaar",
+     "61",
+     "La Administración aragonesa: creación y carácter ordinario",
+     "La Comunidad **crea y organiza su Administración propia** conforme a la ley. La Administración aragonesa es la **Administración ordinaria** en el ejercicio de sus competencias.",
+     "¿Qué condición tiene la Administración aragonesa en el ejercicio de sus competencias?"
+    ],
+    [
+     "eaar",
+     "62",
+     "Principios de la Administración de la Comunidad Autónoma",
+     "Sirve con **objetividad** los intereses generales con **sometimiento pleno a la ley y al Derecho**; respeta **buena fe, confianza legítima y lealtad institucional**; se ajusta a **eficacia, eficiencia, racionalización, transparencia y servicio efectivo**; sus órganos pueden situarse en **diversas localidades**; goza de las **potestades y prerrogativas** de la Administración del Estado.",
+     "¿Qué principios de actuación enumera el art. 62.3?"
+    ],
+    [
+     "eaar",
+     "63",
+     "Tribunal Superior de Justicia de Aragón",
+     "Es el órgano **en que culmina la organización judicial en Aragón**. Conoce **en todo caso** de los **recursos de casación por infracción del Derecho propio de Aragón** y de los **recursos extraordinarios de revisión**. Su **Presidente** es el **representante del Poder Judicial** en Aragón, **nombrado por el Rey a propuesta del CGPJ**, y puede presentar la **memoria anual** ante las Cortes.",
+     "¿Quién nombra al Presidente del Tribunal Superior de Justicia de Aragón?"
+    ],
+    [
+     "eaar",
+     "64",
+     "Consejo de Justicia de Aragón",
+     "Se **crea** el Consejo de Justicia de Aragón; una **ley de las Cortes** determina su estructura, composición, nombramientos y funciones. Tiene la **naturaleza y competencias que le atribuya la LOPJ** y participa en los procesos de designación que ésta le atribuya.",
+     "¿Qué ley determina la estructura del Consejo de Justicia de Aragón?"
+    ],
+    [
+     "eaar",
+     "65",
+     "Nombramiento de Magistrados, Jueces y Secretarios",
+     "Se hace **según la Ley Orgánica del Poder Judicial**, siendo **mérito preferente** el **conocimiento acreditado del Derecho propio de Aragón**.",
+     "¿Qué es mérito preferente en el nombramiento de jueces y magistrados en Aragón?"
+    ],
+    [
+     "eaar",
+     "66",
+     "El Ministerio Fiscal en Aragón",
+     "El **Fiscal Jefe del TSJ** representa al Ministerio Fiscal en Aragón. Sus funciones son las del **Estatuto orgánico del Ministerio Fiscal**. Su **memoria anual** se envía al **Consejo de Justicia** y puede presentarla ante las **Cortes y el Gobierno**.",
+     "¿Quién representa al Ministerio Fiscal en Aragón?"
+    ],
+    [
+     "eaar",
+     "67",
+     "Medios al servicio de la Administración de Justicia",
+     "La Comunidad tiene competencia sobre el **personal no judicial** al servicio de la Justicia, los **medios materiales**, la **organización, dotación y gestión de oficinas judiciales** y los servicios de **justicia gratuita y orientación jurídica gratuita**.",
+     "¿Qué competencias tiene Aragón sobre el personal de Justicia que no integra el Poder Judicial?"
+    ],
+    [
+     "eaar",
+     "68",
+     "Demarcación y planta judiciales",
+     "La Comunidad **determina los límites de las demarcaciones territoriales** de los órganos jurisdiccionales; la **capitalidad** se fija por **ley de las Cortes**. El Gobierno **participa**, según la LOPJ, en la **creación o transformación de secciones o juzgados**.",
+     "¿Qué norma fija la capitalidad de las demarcaciones judiciales?"
+    ],
+    [
+     "eaar",
+     "69",
+     "Cláusula subrogatoria en materia de Justicia",
+     "Además de las competencias expresas, Aragón ejerce **todas las funciones y facultades que la LOPJ atribuya al Gobierno de España** respecto a la Administración de Justicia en Aragón.",
+     "¿Qué funciones asume Aragón por la cláusula subrogatoria?"
+    ],
+    [
+     "eaar",
+     "81",
+     "Organización territorial local de Aragón",
+     "La organización territorial local se estructura en **municipios, comarcas y provincias**. Una **ley de Cortes** puede regular las **áreas metropolitanas** y las **entidades de ámbito inferior al municipio**.",
+     "¿Qué ley puede regular las áreas metropolitanas?"
+    ],
+    [
+     "eaar",
+     "82",
+     "El municipio: entidad territorial básica",
+     "Los **municipios** son las **entidades territoriales básicas**, con **personalidad jurídica y autonomía**, y **medio esencial de participación vecinal**. Su gobierno es el **Ayuntamiento** (**Alcalde y concejales**). Una **ley autonómica** fija los requisitos del **Concejo abierto**.",
+     "¿Qué órgano gobierna y administra el municipio aragonés?"
+    ],
+    [
+     "eaar",
+     "83",
+     "La comarca: agrupación de municipios limítrofes",
+     "Las **comarcas** son entidades territoriales formadas por **municipios limítrofes** con características e intereses comunes, **fundamentales para la vertebración territorial**. Prestan **funciones y servicios supramunicipales**. Su **creación, modificación, supresión y competencias** se regulan por **ley de las Cortes**.",
+     "¿Cómo se crea o suprime una comarca en Aragón?"
+    ],
+    [
+     "eaar",
+     "84",
+     "La provincia: cooperación y asistencia a municipios y comarcas",
+     "Las **provincias**, **entidades locales supramunicipales** con **personalidad jurídica propia**, ejercen funciones de **cooperación, asistencia y prestación de servicios** a municipios y comarcas, con criterios de **solidaridad y equilibrio territorial**.",
+     "¿Qué funciones ejercen las provincias respecto a municipios y comarcas?"
+    ],
+    [
+     "eaar",
+     "85",
+     "Principios y relaciones entre la Comunidad y los entes locales",
+     "La actividad de las entidades territoriales sigue los principios de **subsidiariedad, proporcionalidad y diferenciación**. Las relaciones se ajustan a **información mutua, colaboración, coordinación y respeto de competencias**. Una **ley de Cortes** puede distribuir responsabilidades administrativas, con **financiación suficiente**.",
+     "¿Qué tres principios rigen la actividad de las entidades territoriales aragonesas?"
+    ],
+    [
+     "eaar",
+     "86",
+     "Consejo Local de Aragón",
+     "Es el **órgano de colaboración y coordinación** entre el **Gobierno de Aragón** y las **asociaciones representativas de las entidades locales**. Debe ser **oído** en iniciativas legislativas, planes y reglamentos que afecten específicamente a los gobiernos locales.",
+     "¿Qué órgano coordina al Gobierno de Aragón con las asociaciones de entidades locales?"
+    ],
+    [
+     "eaar",
+     "87",
+     "Ley de capitalidad de Zaragoza",
+     "**Zaragoza**, como **capital de Aragón**, tiene un **régimen especial** establecido por **ley de Cortes de Aragón**.",
+     "¿Qué norma establece el régimen especial de Zaragoza como capital?"
+    ],
+    [
+     "eaar",
+     "115",
+     "Procedimiento de reforma del Estatuto de Aragón",
+     "**Iniciativa:** **Gobierno de Aragón**, **Cortes de Aragón a propuesta de un quinto de sus diputados** y **Cortes Generales**. Requiere **aprobación de las Cortes de Aragón por mayoría de dos tercios** y de las **Cortes Generales mediante ley orgánica**. Si no es aprobada, **no puede debatirse de nuevo hasta pasado un año**. La reforma incluye la autorización para convocar **referéndum de ratificación** del cuerpo electoral aragonés.",
+     "¿Qué mayoría necesitan las Cortes de Aragón para aprobar una propuesta de reforma del Estatuto?"
+    ]
+   ]
   },
   {
    "id": "e2",
    "titulo": "Clases de competencias",
-   "subtitulo": "Arts. 71 a 77",
+   "subtitulo": "Arts. 70 a 80",
    "clave": [
     "Exclusivas (71)",
     "Compartidas (75)",
@@ -233,7 +644,89 @@
     "Compartidas: desarrollo legislativo y ejecución de la base estatal (75)",
     "Ejecutivas: reglamentos de organización y funciones administrativas (77)"
    ],
-   "ic": "🧩"
+   "ic": "🧩",
+   "articulos": [
+    [
+     "eaar",
+     "70",
+     "Disposiciones generales sobre las competencias de Aragón",
+     "La Comunidad tiene **competencias exclusivas, compartidas y ejecutivas** en las materias del Título, que ejerce **respetando la Constitución y el Estatuto**. Su eficacia es **territorial**, salvo las excepciones previstas. Si el objeto de la competencia **excede de Aragón**, ejerce sus competencias **sobre la parte situada en su territorio**.",
+     "¿Qué tres clases de competencias tiene la Comunidad Autónoma?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "eaar",
+     "71",
+     "Competencias exclusivas de Aragón",
+     "En **competencias exclusivas**, Aragón ejerce la **potestad legislativa, la reglamentaria, la función ejecutiva y el establecimiento de políticas propias**, respetando los **arts. 140 y 149.1 de la Constitución**. Entre las materias: **instituciones de autogobierno**, **Derecho foral aragonés**, **Derecho procesal derivado de sus particularidades**, **lenguas y modalidades propias**, **régimen local** (competencias de los entes locales, bienes locales, servicios públicos locales, cooperación), **organización territorial propia**, **procedimiento administrativo derivado de las especialidades de su organización** (lista completa en el texto oficial).",
+     "¿Qué cuatro potestades ejerce Aragón en las competencias exclusivas?"
+    ],
+    [
+     "eaar",
+     "72",
+     "Competencia exclusiva sobre las aguas que discurren por Aragón",
+     "Aragón tiene competencia **exclusiva sobre las aguas que discurran íntegramente por su territorio**: **ordenación, planificación y gestión**, concesiones, obras hidráulicas no de interés general, **regadíos**, **administración hidráulica** y también **aguas minerales y termales**. Participa en la **planificación hidrológica estatal** de cuencas compartidas.",
+     "¿Sobre qué aguas tiene Aragón competencia exclusiva?"
+    ],
+    [
+     "eaar",
+     "73",
+     "Competencia compartida en enseñanza",
+     "Aragón tiene **competencia compartida en enseñanza en toda su extensión**, niveles, grados, modalidades y especialidades: ordenación, programación, **inspección y evaluación**, **criterios de admisión** a centros sostenidos con fondos públicos, formación del profesorado y **sistema universitario de Aragón** con respeto a la **autonomía universitaria**.",
+     "¿Qué tipo de competencia tiene Aragón en enseñanza?"
+    ],
+    [
+     "eaar",
+     "74",
+     "Competencia compartida en medios de comunicación social",
+     "Aragón tiene **competencia compartida** en **medios de comunicación social y servicios audiovisuales**. Puede **regular, crear y mantener su propia televisión, radio y prensa**, respetando la **autonomía local**.",
+     "¿Qué tipo de competencia tiene Aragón en medios de comunicación?"
+    ],
+    [
+     "eaar",
+     "75",
+     "Competencias compartidas: desarrollo legislativo y ejecución",
+     "En **competencias compartidas**, Aragón ejerce el **desarrollo legislativo y la ejecución de la legislación básica** que fije el Estado en **normas con rango de ley**, con **políticas propias**. Entre las materias: **Seguridad Social** (salvo régimen económico), **régimen minero**, **protección del medio ambiente**, **energía** (lista completa en el texto oficial).",
+     "¿Qué ejerce Aragón en las competencias compartidas respecto a la legislación básica del Estado?"
+    ],
+    [
+     "eaar",
+     "76",
+     "Policía autonómica y coordinación de policías locales",
+     "Aragón **puede crear una Policía autonómica** en el marco del Estatuto y de la **ley orgánica**; sus funciones se fijan en su **ley de creación**. **Coordina** la actuación de las **Policías locales aragonesas**. Se creará, en su caso, una **Junta de Seguridad** de **representación paritaria** Estado-Comunidad que coordinará la Policía autonómica y los Cuerpos del Estado.",
+     "¿Cómo está compuesta la Junta de Seguridad prevista para coordinar las policías?"
+    ],
+    [
+     "eaar",
+     "77",
+     "Competencias ejecutivas de la Comunidad Autónoma",
+     "En **competencias ejecutivas**, aplicando la legislación estatal, Aragón puede dictar **reglamentos** para regular su **competencia funcional** y organizar los servicios, y ejercer las funciones que el ordenamiento atribuye a la Administración. Entre las materias: **gestión de la asistencia sanitaria de la Seguridad Social**, **trabajo y relaciones laborales** (incluida la prevención de riesgos laborales) y **propiedad intelectual e industrial** (lista completa en el texto oficial).",
+     "¿Qué puede dictar Aragón en el ámbito de las competencias ejecutivas?"
+    ],
+    [
+     "eaar",
+     "78",
+     "Notarios y registradores: nombramiento y demarcaciones",
+     "**Notarios y registradores** de la propiedad y mercantiles son **nombrados por la Comunidad**, conforme a las leyes del Estado, siendo **mérito preferente** el conocimiento del **Derecho foral**. La Comunidad **participa en las demarcaciones**. Los **recursos contra la calificación** de documentos fundados en el **Derecho foral** los resuelven los **órganos jurisdiccionales de la Comunidad**.",
+     "¿Quién nombra a notarios y registradores en Aragón?"
+    ],
+    [
+     "eaar",
+     "79",
+     "Actividad de fomento y subvenciones",
+     "En sus materias, Aragón ejerce la **actividad de fomento** y puede **otorgar subvenciones con fondos propios**. En **exclusivas** especifica objetivos de subvenciones territorializables estatales y europeas y las gestiona; en **compartidas**, precisa normativamente los objetivos y asume la gestión; en **ejecutivas**, **gestiona** las territorializables.",
+     "¿Quién gestiona las subvenciones territorializables en las competencias ejecutivas?"
+    ],
+    [
+     "eaar",
+     "80",
+     "Cláusula de cierre: Derecho propio con preferencia",
+     "Aragón asume las competencias del Estatuto, sin que sus títulos **excluyan otros contenidos** incluidos en la competencia. En **competencias exclusivas**, el **Derecho propio de Aragón se aplica con preferencia** a cualquier otro.",
+     "¿Qué Derecho se aplica con preferencia en las materias de competencia exclusiva?"
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -635,6 +1128,1678 @@
    [
     "Policías locales"
    ]
+  ],
+  [
+   "Aragón, nacionalidad histórica, ejerce su autogobierno:",
+   [
+    "De acuerdo con el Estatuto, en el ejercicio del derecho a la autonomía que la Constitución reconoce y garantiza a toda nacionalidad",
+    "Al margen de la Constitución, en virtud de los derechos históricos del Reino de Aragón anteriores a ella",
+    "Con arreglo a la Constitución, en virtud de una cesión de competencias acordada por las Cortes Generales"
+   ],
+   0,
+   "Art. 1.1.",
+   "eaar 1.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 del Estatuto de Autonomía de Aragón los poderes de la Comunidad Autónoma de Aragón emanan:",
+   [
+    "Del pueblo aragonés y de la Constitución",
+    "Del pueblo aragonés y del Estatuto",
+    "De las Cortes de Aragón"
+   ],
+   0,
+   "Art. 1.2.",
+   "eaar 1.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.3 del Estatuto de Autonomía de Aragón la Comunidad Autónoma de Aragón ostenta por su historia una identidad propia en virtud de:",
+   [
+    "Sus instituciones tradicionales, el Derecho foral y su cultura",
+    "Sus instituciones tradicionales, su idioma propio y su territorio histórico",
+    "Su Derecho foral, su historia dinástica y su economía agraria"
+   ],
+   0,
+   "Art. 1.3.",
+   "eaar 1.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 del Estatuto de Autonomía de Aragón el territorio de la Comunidad Autónoma de Aragón se corresponde con el histórico de Aragón y comprende:",
+   [
+    "El de los municipios, comarcas y provincias de Huesca, Teruel y Zaragoza",
+    "El de las provincias de Huesca, Teruel y Zaragoza únicamente",
+    "El de los municipios y provincias, sin las comarcas"
+   ],
+   0,
+   "Art. 2.",
+   "eaar 2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 del Estatuto de Autonomía de Aragón la bandera de Aragón es:",
+   [
+    "La tradicional de las cuatro barras rojas horizontales sobre fondo amarillo",
+    "La tradicional de cuatro barras rojas verticales sobre fondo amarillo, con el escudo en el centro",
+    "La de tres barras rojas horizontales sobre fondo amarillo, con el escudo en el centro"
+   ],
+   0,
+   "Art. 3.1.",
+   "eaar 3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 del Estatuto de Autonomía de Aragón el día de Aragón es:",
+   [
+    "El 23 de abril",
+    "El 15 de agosto",
+    "El 12 de octubre"
+   ],
+   0,
+   "Art. 3.4.",
+   "eaar 3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.3 del Estatuto de Autonomía de Aragón la capital de Aragón es:",
+   [
+    "La ciudad de Zaragoza",
+    "La ciudad de Huesca",
+    "La ciudad de Teruel"
+   ],
+   0,
+   "Art. 3.3.",
+   "eaar 3.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 del Estatuto de Autonomía de Aragón gozan de la condición política de aragoneses:",
+   [
+    "Los ciudadanos españoles que tengan vecindad administrativa en cualquiera de los municipios de Aragón o cumplan los requisitos que establezca la legislación aplicable",
+    "Los ciudadanos españoles nacidos en Aragón o que tengan su residencia habitual en cualquiera de sus municipios",
+    "Los ciudadanos españoles y extranjeros que residan en Aragón y estén empadronados en alguno de sus municipios"
+   ],
+   0,
+   "Art. 4.1.",
+   "eaar 4.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 del Estatuto de Autonomía de Aragón gozan también de los derechos políticos del Estatuto, como aragoneses:",
+   [
+    "Los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en Aragón y acrediten esta condición en el Consulado de España, y sus descendientes",
+    "Los ciudadanos españoles residentes en el extranjero nacidos en Aragón y acrediten esta condición ante el Gobierno de Aragón, y sus hijos",
+    "Los ciudadanos españoles residentes en otras Comunidades Autónomas que hayan nacido en Aragón, y sus descendientes hasta el segundo grado"
+   ],
+   0,
+   "Art. 4.2.",
+   "eaar 4.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Aragón estructura su organización territorial en:",
+   [
+    "Municipios, comarcas y provincias",
+    "Municipios y provincias",
+    "Municipios, comarcas y mancomunidades"
+   ],
+   0,
+   "Art. 5.",
+   "eaar 5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 del Estatuto de Autonomía de Aragón los derechos y libertades de los aragoneses y aragonesas son:",
+   [
+    "Los reconocidos en la Constitución, los incluidos en la Declaración Universal de Derechos Humanos y demás instrumentos internacionales suscritos por España, y los establecidos en el Estatuto",
+    "Solo los reconocidos en la Constitución y en el Estatuto, sin incluir los instrumentos internacionales suscritos por España",
+    "Los reconocidos en la Constitución y en el Estatuto, así como los que establezca el Derecho foral de Aragón"
+   ],
+   0,
+   "Art. 6.1.",
+   "eaar 6.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.3 del Estatuto de Autonomía de Aragón los derechos y principios del Título I del Estatuto:",
+   [
+    "No supondrán una alteración del régimen de distribución de competencias",
+    "Suponen una ampliación del régimen de distribución de competencias entre el Estado y la Comunidad Autónoma",
+    "Alteran el régimen de distribución de competencias solo en las materias de competencia exclusiva de Aragón"
+   ],
+   0,
+   "Art. 6.3.",
+   "eaar 6.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 del Estatuto de Autonomía de Aragón una ley de las Cortes de Aragón establecerá:",
+   [
+    "Las zonas de uso predominante de las lenguas y modalidades propias de Aragón, y regulará su régimen jurídico y los derechos de utilización de los hablantes",
+    "La oficialidad de las lenguas y modalidades propias de Aragón en todo el territorio de la Comunidad Autónoma",
+    "La lengua oficial de la Comunidad Autónoma y las zonas de su uso obligatorio en la Administración"
+   ],
+   0,
+   "Art. 7.2.",
+   "eaar 7",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 del Estatuto de Autonomía de Aragón los poderes públicos aragoneses deben:",
+   [
+    "Fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior y prestarles la ayuda necesaria",
+    "Promover los vínculos económicos con las comunidades aragonesas del exterior y asumir su representación jurídica",
+    "Fomentar los vínculos sociales con las comunidades aragonesas del exterior, que quedan sujetas a su tutela"
+   ],
+   0,
+   "Art. 8.1.",
+   "eaar 8",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 del Estatuto de Autonomía de Aragón las normas y disposiciones de la Comunidad Autónoma de Aragón tendrán:",
+   [
+    "Eficacia territorial, sin perjuicio de las excepciones en cada materia y de las situaciones regidas por el estatuto personal u otras reglas de extraterritorialidad",
+    "Eficacia personal, sin perjuicio de las excepciones en cada materia y de las situaciones de extraterritorialidad",
+    "Eficacia territorial, sin excepción alguna, en todo el territorio de la Comunidad Autónoma de Aragón"
+   ],
+   0,
+   "Art. 9.1.",
+   "eaar 9.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 del Estatuto de Autonomía de Aragón el Derecho foral de Aragón tendrá:",
+   [
+    "Eficacia personal y será de aplicación a todos los que ostenten la vecindad civil aragonesa, independientemente del lugar de su residencia",
+    "Eficacia exclusivamente territorial y será de aplicación a quienes residan en Aragón, sea cual sea su vecindad civil",
+    "Eficacia personal y será de aplicación a todos los españoles que residan en Aragón, tengan o no vecindad aragonesa"
+   ],
+   0,
+   "Art. 9.2.",
+   "eaar 9.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 del Estatuto de Autonomía de Aragón podrán incorporarse a la Comunidad Autónoma de Aragón otros territorios o municipios, limítrofes o enclavados, cumpliendo, entre otros requisitos:",
+   [
+    "Que soliciten la incorporación el Ayuntamiento o la mayoría de los Ayuntamientos interesados, que lo acuerden sus habitantes mediante consulta y que los aprueben las Cortes de Aragón y las Cortes Generales",
+    "Que lo soliciten las Cortes de Aragón, que lo aprueben sus habitantes por referéndum y que lo autorice el Gobierno de España",
+    "Que lo acuerden los Ayuntamientos interesados y el Gobierno de Aragón, sin necesidad de aprobación de las Cortes Generales"
+   ],
+   0,
+   "Art. 10.",
+   "eaar 10",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 del Estatuto de Autonomía de Aragón son instituciones de la Comunidad Autónoma de Aragón:",
+   [
+    "Las Cortes, el Presidente, el Gobierno o Diputación General y el Justicia",
+    "Las Cortes, el Presidente, el Gobierno y el Consejo Consultivo",
+    "Las Cortes, el Presidente y el Tribunal Superior de Justicia"
+   ],
+   0,
+   "Art. 32.",
+   "eaar 32",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33.1 del Estatuto de Autonomía de Aragón las Cortes de Aragón:",
+   [
+    "Representan al pueblo aragonés, ejercen la potestad legislativa, aprueban los presupuestos, e impulsan y controlan la acción del Gobierno de Aragón",
+    "Representan al pueblo aragonés, ejercen la potestad legislativa y reglamentaria y nombran a los Consejeros del Gobierno",
+    "Representan al pueblo aragonés, ejercen la potestad legislativa y controlan solo la acción del Presidente de Aragón"
+   ],
+   0,
+   "Art. 33.1.",
+   "eaar 33.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33.2 del Estatuto de Autonomía de Aragón las Cortes de Aragón son:",
+   [
+    "Inviolables",
+    "Inmunes",
+    "Soberanas"
+   ],
+   0,
+   "Art. 33.2.",
+   "eaar 33.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34 del Estatuto de Autonomía de Aragón las Cortes de Aragón establecen su propio reglamento, que se aprueba:",
+   [
+    "Por mayoría absoluta de sus miembros",
+    "Por mayoría simple",
+    "Por mayoría de dos tercios"
+   ],
+   0,
+   "Art. 34.",
+   "eaar 34",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 del Estatuto de Autonomía de Aragón la sede permanente de las Cortes de Aragón es:",
+   [
+    "La ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de poder celebrar sesiones en otros lugares dentro de Aragón",
+    "La ciudad de Zaragoza, en el Palacio de los Condes de Sástago, sin que puedan celebrar sesiones fuera de él",
+    "La ciudad de Zaragoza, en el Edificio Pignatelli, sin perjuicio de celebrar sesiones en otros lugares de Aragón"
+   ],
+   0,
+   "Art. 35.",
+   "eaar 35",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.1 del Estatuto de Autonomía de Aragón las Cortes de Aragón estarán integradas por un número de escaños comprendido entre:",
+   [
+    "Sesenta y cinco y ochenta",
+    "Cincuenta y sesenta y cinco",
+    "Sesenta y ochenta y cinco"
+   ],
+   0,
+   "Art. 36.1.",
+   "eaar 36.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.2 del Estatuto de Autonomía de Aragón cada provincia estará representada en las Cortes de Aragón, en todo caso, por un mínimo de:",
+   [
+    "14 escaños",
+    "10 escaños",
+    "20 escaños"
+   ],
+   0,
+   "Art. 36.2.",
+   "eaar 36.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.3 del Estatuto de Autonomía de Aragón a cada circunscripción electoral corresponderá un número de escaños tal que la cifra de habitantes necesarios para asignar uno a la circunscripción más poblada no supere:",
+   [
+    "3 veces la correspondiente a la menos poblada",
+    "2 veces la correspondiente a la menos poblada",
+    "5 veces la correspondiente a la menos poblada"
+   ],
+   0,
+   "Art. 36.3.",
+   "eaar 36.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 del Estatuto de Autonomía de Aragón las Cortes de Aragón tendrán carácter unicameral, elegidas por un período de:",
+   [
+    "Cuatro años, por sufragio universal, igual, libre, directo y secreto, con representación proporcional y circunscripción provincial",
+    "Cinco años, por sufragio universal, igual, libre, directo y secreto, con representación proporcional y circunscripción provincial",
+    "Cuatro años, por sufragio universal, igual, libre, directo y secreto, con representación mayoritaria y circunscripción autonómica"
+   ],
+   0,
+   "Art. 37.",
+   "eaar 37",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38 del Estatuto de Autonomía de Aragón los Diputados y Diputadas a Cortes de Aragón:",
+   [
+    "No estarán vinculados por mandato imperativo y serán inviolables, aun después de cesar, por los votos y opiniones emitidos en el ejercicio del cargo; durante su mandato no podrán ser detenidos sino en caso de flagrante delito",
+    "No estarán vinculados por mandato imperativo y serán inviolables solo mientras ejerzan el cargo; podrán ser detenidos con autorización de las Cortes",
+    "Estarán vinculados por mandato de su grupo parlamentario y serán inviolables por los votos emitidos; no podrán ser detenidos sino en caso de flagrante delito"
+   ],
+   0,
+   "Art. 38.",
+   "eaar 38",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 del Estatuto de Autonomía de Aragón las Cortes de Aragón elegirán, de entre sus miembros:",
+   [
+    "Un Presidente, una Mesa y una Diputación Permanente",
+    "Un Presidente y un Justicia",
+    "Un Presidente, una Mesa y una Junta de Portavoces"
+   ],
+   0,
+   "Art. 39.1.",
+   "eaar 39.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 del Estatuto de Autonomía de Aragón las Cortes de Aragón funcionarán en:",
+   [
+    "Pleno y en Comisiones",
+    "Pleno, Comisiones y Diputación General",
+    "Solo en Pleno"
+   ],
+   0,
+   "Art. 39.2.",
+   "eaar 39.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.4 del Estatuto de Autonomía de Aragón durante el tiempo en que las Cortes no estén reunidas, hubiese expirado su mandato o hubiesen sido disueltas, se constituirá:",
+   [
+    "Una Diputación Permanente",
+    "Una Comisión de Gobierno",
+    "Una Mesa interina"
+   ],
+   0,
+   "Art. 39.4.",
+   "eaar 39.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 del Estatuto de Autonomía de Aragón los períodos ordinarios de sesiones de las Cortes de Aragón tendrán lugar:",
+   [
+    "Entre septiembre y diciembre, el primero, y entre febrero y junio, el segundo",
+    "Entre octubre y diciembre, el primero, y entre marzo y junio, el segundo",
+    "Entre septiembre y enero, el primero, y entre febrero y julio, el segundo"
+   ],
+   0,
+   "Art. 40.2.",
+   "eaar 40.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.3 del Estatuto de Autonomía de Aragón las sesiones extraordinarias de las Cortes serán convocadas por el Presidente de las Cortes, a petición, entre otros, de:",
+   [
+    "La Diputación Permanente, una quinta parte de los diputados o el Gobierno de Aragón",
+    "La Diputación Permanente, una décima parte de los diputados o el Gobierno de Aragón",
+    "Los grupos parlamentarios, un tercio de los diputados o el Justicia de Aragón"
+   ],
+   0,
+   "Art. 40.3.",
+   "eaar 40.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 del Estatuto de Autonomía de Aragón corresponde a las Cortes de Aragón:",
+   [
+    "La elección del Presidente de Aragón, la elección, nombramiento y cese del Justicia, la designación de los Senadores del art. 69.5 CE y la aprobación del programa del Gobierno",
+    "La elección del Presidente de Aragón, el nombramiento y cese de los Consejeros, la designación del Justicia y la aprobación del programa del Gobierno",
+    "La elección del Presidente de Aragón y del Justicia, la convocatoria de elecciones locales y la aprobación del programa del Gobierno"
+   ],
+   0,
+   "Art. 41.",
+   "eaar 41",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 del Estatuto de Autonomía de Aragón la iniciativa legislativa corresponde:",
+   [
+    "A los miembros de las Cortes de Aragón y al Gobierno de Aragón; la iniciativa legislativa popular se regulará por ley",
+    "Solo a los miembros de las Cortes de Aragón y al Gobierno de Aragón; la iniciativa legislativa popular no está prevista",
+    "A los miembros de las Cortes y al Gobierno de Aragón, y a las comarcas y municipios, además de la iniciativa popular"
+   ],
+   0,
+   "Art. 42.2.",
+   "eaar 42.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.1 del Estatuto de Autonomía de Aragón las Cortes de Aragón pueden delegar en el Gobierno la potestad de dictar normas con rango de ley, sin que quepa la delegación para:",
+   [
+    "La aprobación del Presupuesto, la regulación esencial de los derechos del Estatuto, el desarrollo básico de sus Instituciones o el régimen electoral",
+    "La aprobación del Presupuesto, la regulación esencial de los derechos del Estatuto, el régimen electoral o las materias económicas",
+    "El desarrollo básico de sus Instituciones, el régimen electoral, la legislación sobre urbanismo y las materias de competencia compartida"
+   ],
+   0,
+   "Art. 43.1.",
+   "eaar 43.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.3 del Estatuto de Autonomía de Aragón la delegación legislativa debe ser:",
+   [
+    "Expresa, mediante ley, para una materia concreta y con determinación de un plazo cierto",
+    "Expresa, mediante acuerdo de las Cortes, para una materia concreta y con determinación de un plazo cierto",
+    "Expresa, mediante ley, para varias materias a la vez y con determinación de un plazo máximo de diez años"
+   ],
+   0,
+   "Art. 43.3. Las disposiciones del Gobierno con legislación delegada se denominan Decretos Legislativos (43.2).",
+   "eaar 43.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 del Estatuto de Autonomía de Aragón el Gobierno de Aragón puede dictar Decretos-leyes en caso de necesidad urgente y extraordinaria; quedarán derogados si en el plazo improrrogable de:",
+   [
+    "Treinta días siguientes al de su publicación no fuesen convalidados expresamente por las Cortes de Aragón",
+    "Quince días siguientes al de su publicación sin haber sido convalidados expresamente por las Cortes de Aragón",
+    "Un mes siguiente al de su publicación sin haber sido convalidados expresamente por las Cortes de Aragón"
+   ],
+   0,
+   "Art. 44.2.",
+   "eaar 44",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44.1 del Estatuto de Autonomía de Aragón no pueden ser objeto de Decreto-ley:",
+   [
+    "El desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones del título II, el régimen electoral, los tributos y el Presupuesto",
+    "La organización de los servicios públicos, el régimen electoral, los tributos y el Presupuesto de la Comunidad",
+    "El desarrollo de los derechos y libertades de los aragoneses, las medidas urgentes en vivienda y el Presupuesto"
+   ],
+   0,
+   "Art. 44.1.",
+   "eaar 44.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 del Estatuto de Autonomía de Aragón las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el BOA y en el BOE en un plazo no superior a:",
+   [
+    "Quince días desde su aprobación, rigiendo a efectos de vigencia la fecha de publicación en el BOA",
+    "Diez días desde su aprobación, rigiendo a efectos de vigencia la fecha de publicación en el BOE",
+    "Un mes desde su aprobación, rigiendo a efectos de vigencia la fecha de publicación en el BOA"
+   ],
+   0,
+   "Art. 45.",
+   "eaar 45",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46 del Estatuto de Autonomía de Aragón el Presidente de Aragón es:",
+   [
+    "Elegido por las Cortes de Aragón de entre sus Diputados y nombrado por el Rey; ostenta la suprema representación de Aragón y la ordinaria del Estado en este territorio",
+    "Elegido por sufragio universal directo y nombrado por el Rey; ostenta la suprema representación de Aragón",
+    "Elegido por las Cortes de Aragón y nombrado por el Presidente del Gobierno de España; representa a la Comunidad"
+   ],
+   0,
+   "Art. 46.",
+   "eaar 46",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46.3 del Estatuto de Autonomía de Aragón el Presidente de Aragón responde políticamente ante:",
+   [
+    "Las Cortes de Aragón",
+    "El Rey",
+    "El Tribunal Superior de Justicia de Aragón"
+   ],
+   0,
+   "Art. 46.3.",
+   "eaar 46.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 del Estatuto de Autonomía de Aragón el Presidente de Aragón no podrá ejercer:",
+   [
+    "Otras funciones representativas que las propias del mandato parlamentario, ni función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+    "Otras funciones representativas que las propias del mandato parlamentario, salvo actividad profesional o mercantil",
+    "Función pública alguna, aunque derive de su cargo, ni actividad mercantil, pero sí la profesional"
+   ],
+   0,
+   "Art. 47.",
+   "eaar 47",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.2 del Estatuto de Autonomía de Aragón para ser elegido Presidente, el candidato deberá obtener, en primera votación:",
+   [
+    "Mayoría absoluta; de no obtenerla, nueva votación veinticuatro horas después, bastando mayoría simple",
+    "Mayoría de dos tercios; de no obtenerla, nueva votación veinticuatro horas después, bastando mayoría absoluta",
+    "Mayoría absoluta; de no obtenerla, nueva votación a los quince días, bastando mayoría simple"
+   ],
+   0,
+   "Art. 48.2.",
+   "eaar 48.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 del Estatuto de Autonomía de Aragón la confianza en una cuestión de confianza planteada por el Presidente del Gobierno de Aragón se entenderá otorgada:",
+   [
+    "Cuando obtenga la mayoría simple de los votos emitidos",
+    "Cuando obtenga la mayoría absoluta de los votos emitidos",
+    "Cuando obtenga la mayoría de dos tercios de los miembros de las Cortes"
+   ],
+   0,
+   "Art. 49.2.",
+   "eaar 49",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 del Estatuto de Autonomía de Aragón la moción de censura debe ser propuesta, al menos, por:",
+   [
+    "Un quince por ciento de los Diputados e incluir un candidato; para su adopción se exige mayoría absoluta",
+    "Un diez por ciento de los Diputados e incluir un candidato; para su adopción se exige mayoría simple",
+    "Un veinticinco por ciento de los Diputados e incluir un candidato; se exige mayoría de dos tercios"
+   ],
+   0,
+   "Art. 50.1 y 2.",
+   "eaar 50",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51 del Estatuto de Autonomía de Aragón el Presidente de Aragón cesa, entre otros casos:",
+   [
+    "Por la celebración de elecciones a Cortes, por moción de censura aprobada, por pérdida de una cuestión de confianza, por dimisión o por incapacidad permanente reconocida por mayoría absoluta de las Cortes",
+    "Por la celebración de elecciones a Cortes, por moción de censura aprobada, por dimisión o por decisión del Gobierno de España",
+    "Por el transcurso de cuatro años de mandato, por pérdida de una cuestión de confianza o por incapacidad declarada por el Justicia"
+   ],
+   0,
+   "Art. 51.",
+   "eaar 51",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.1 del Estatuto de Autonomía de Aragón el Presidente puede acordar la disolución de las Cortes de Aragón:",
+   [
+    "Previa deliberación del Gobierno y bajo su exclusiva responsabilidad",
+    "Previa deliberación del Gobierno y con autorización de las Cortes Generales, bajo su exclusiva responsabilidad",
+    "Previo informe del Justicia de Aragón y bajo la responsabilidad conjunta de la Mesa de las Cortes"
+   ],
+   0,
+   "Art. 52.1.",
+   "eaar 52.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 del Estatuto de Autonomía de Aragón la disolución de las Cortes de Aragón:",
+   [
+    "No procederá si está en trámite una moción de censura, ni nueva disolución antes de que transcurra un año desde la anterior",
+    "No procederá si está en trámite una cuestión de confianza, ni nueva disolución antes de que transcurran dos años",
+    "Procederá siempre que lo decida el Presidente, incluso estando en trámite una moción de censura"
+   ],
+   0,
+   "Art. 52.3 y 4.",
+   "eaar 52",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53 del Estatuto de Autonomía de Aragón el Gobierno de Aragón ejerce:",
+   [
+    "La función ejecutiva y la potestad reglamentaria, y está constituido por el Presidente, los Vicepresidentes en su caso y los Consejeros, a los que el Presidente nombra y separa libremente",
+    "La función ejecutiva y la potestad legislativa delegada, y está constituido por el Presidente y los Consejeros que nombran las Cortes",
+    "La función ejecutiva y la potestad reglamentaria, y está constituido por el Presidente y los Consejeros que nombran las Cortes"
+   ],
+   0,
+   "Art. 53.",
+   "eaar 53",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.3 del Estatuto de Autonomía de Aragón el Gobierno de Aragón responde políticamente ante las Cortes de Aragón:",
+   [
+    "De forma solidaria, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión",
+    "De forma individual, sin perjuicio de la responsabilidad solidaria de todo el Gobierno por su gestión conjunta",
+    "De forma solidaria ante el Presidente, sin perjuicio de la responsabilidad individual de cada Consejero ante las Cortes"
+   ],
+   0,
+   "Art. 53.3.",
+   "eaar 53.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54 del Estatuto de Autonomía de Aragón la sede del Gobierno de Aragón es:",
+   [
+    "La ciudad de Zaragoza, y por ley de Cortes podrá modificarse",
+    "La ciudad de Zaragoza, y solo por reforma del Estatuto podrá modificarse",
+    "La ciudad de Huesca, y por ley de Cortes podrá modificarse"
+   ],
+   0,
+   "Art. 54.",
+   "eaar 54",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 55.1 del Estatuto de Autonomía de Aragón los miembros del Gobierno de Aragón, durante su mandato:",
+   [
+    "No podrán ser detenidos ni retenidos sino en supuesto de flagrante delito",
+    "No podrán ser detenidos ni retenidos durante su mandato, salvo autorización de las Cortes de Aragón",
+    "Serán inviolables por los votos y opiniones emitidos en el ejercicio de su cargo, aun después de cesar"
+   ],
+   0,
+   "Art. 55.1.",
+   "eaar 55.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56 del Estatuto de Autonomía de Aragón el Gobierno de Aragón cesa cuando lo hace su Presidente; el Gobierno cesante:",
+   [
+    "Continuará en funciones hasta la toma de posesión del nuevo",
+    "Cesa de inmediato y sus funciones las asume el Presidente de las Cortes hasta la toma de posesión del nuevo",
+    "Continuará en funciones durante un máximo de tres meses, transcurridos los cuales se disuelve"
+   ],
+   0,
+   "Art. 56.",
+   "eaar 56",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 del Estatuto de Autonomía de Aragón el Gobierno de Aragón podrá ante el Tribunal Constitucional:",
+   [
+    "Interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en los supuestos de la Constitución y de la LOTC",
+    "Interponer recursos de inconstitucionalidad y plantear cuestiones de inconstitucionalidad, pero no conflictos de competencias",
+    "Plantear conflictos de competencias y personarse solo en los supuestos que decida la Mesa de las Cortes"
+   ],
+   0,
+   "Art. 57.",
+   "eaar 57",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 del Estatuto de Autonomía de Aragón el Consejo Consultivo de Aragón es:",
+   [
+    "El supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma, con autonomía orgánica y funcional",
+    "El supremo órgano consultivo de las Cortes de Aragón, con autonomía orgánica y funcional",
+    "El órgano de control de las cuentas públicas de la Administración de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 58.",
+   "eaar 58",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59.1 del Estatuto de Autonomía de Aragón el Justicia de Aragón tiene como misiones específicas:",
+   [
+    "La protección y defensa de los derechos individuales y colectivos del Estatuto, la tutela del ordenamiento jurídico aragonés y la defensa del Estatuto",
+    "Dictar sentencias en materia civil foral y defender los derechos individuales y colectivos del Estatuto",
+    "Controlar la constitucionalidad de las leyes aragonesas y la tutela del ordenamiento jurídico estatal"
+   ],
+   0,
+   "Art. 59.1.",
+   "eaar 59.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59.3 del Estatuto de Autonomía de Aragón el Justicia de Aragón rendirá cuentas de su gestión:",
+   [
+    "Ante las Cortes de Aragón",
+    "Ante el Gobierno de Aragón",
+    "Ante el Tribunal Superior de Justicia"
+   ],
+   0,
+   "Art. 59.3.",
+   "eaar 59.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60 del Estatuto de Autonomía de Aragón el alcance de las funciones del Justicia, el procedimiento de su elección y su régimen de incompatibilidades se concretarán:",
+   [
+    "Por una ley de las Cortes de Aragón",
+    "Por decreto del Gobierno de Aragón",
+    "Por el Reglamento de las Cortes"
+   ],
+   0,
+   "Art. 60.",
+   "eaar 60",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61 del Estatuto de Autonomía de Aragón la Administración aragonesa:",
+   [
+    "Ostenta la condición de Administración ordinaria en el ejercicio de sus competencias",
+    "Tiene carácter subsidiario respecto a la Administración del Estado en el ejercicio de sus competencias",
+    "Actúa solo por delegación del Estado, aunque con carácter de Administración ordinaria en su territorio"
+   ],
+   0,
+   "Art. 61.2.",
+   "eaar 61",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62.5 del Estatuto de Autonomía de Aragón la Administración de la Comunidad Autónoma gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico reconoce:",
+   [
+    "A la Administración del Estado",
+    "Al resto de Administraciones Públicas",
+    "A las Administraciones de las demás Comunidades Autónomas"
+   ],
+   0,
+   "Art. 62.5.",
+   "eaar 62.5",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, preguntas de reserva (R1)",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62.3 del Estatuto de Autonomía de Aragón la Administración Pública aragonesa ajustará su actividad a los principios de:",
+   [
+    "Eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos",
+    "Jerarquía, desconcentración, racionalización, transparencia y servicio efectivo a los ciudadanos",
+    "Legalidad, proporcionalidad, eficiencia, jerarquía y servicio efectivo a los ciudadanos"
+   ],
+   0,
+   "Art. 62.3.",
+   "eaar 62.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63.1 del Estatuto de Autonomía de Aragón el Tribunal Superior de Justicia de Aragón es:",
+   [
+    "El órgano jurisdiccional en que culmina la organización judicial en Aragón, sin perjuicio de las competencias del Tribunal Supremo",
+    "El órgano de gobierno del Poder Judicial en Aragón, sin perjuicio de las competencias del Tribunal Supremo",
+    "El órgano jurisdiccional que controla la legalidad de la actuación de la Administración autonómica"
+   ],
+   0,
+   "Art. 63.1.",
+   "eaar 63.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64 del Estatuto de Autonomía de Aragón el Consejo de Justicia de Aragón:",
+   [
+    "Se crea por el Estatuto; su estructura, composición, nombramientos y funciones los determinará una ley de las Cortes de Aragón conforme a la LOPJ",
+    "Se crea por una ley de las Cortes de Aragón, que determinará su estructura y funciones conforme a la Constitución",
+    "Es el máximo órgano jurisdiccional de Aragón y depende del Ministerio de Justicia"
+   ],
+   0,
+   "Art. 64.",
+   "eaar 64",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65 del Estatuto de Autonomía de Aragón en el nombramiento de Magistrados, Jueces y Secretarios en Aragón será mérito preferente:",
+   [
+    "El conocimiento acreditado del Derecho propio de Aragón",
+    "El conocimiento acreditado de las lenguas y modalidades propias de Aragón",
+    "La antigüedad acreditada en la carrera judicial o fiscal y el conocimiento de la LOPJ"
+   ],
+   0,
+   "Art. 65.",
+   "eaar 65",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66.1 del Estatuto de Autonomía de Aragón el Ministerio Fiscal en Aragón está representado por:",
+   [
+    "El Fiscal Jefe del Tribunal Superior de Justicia",
+    "El Fiscal General del Estado, que nombra a los fiscales que ejercen en la Comunidad Autónoma",
+    "El Justicia de Aragón, que coordina la actuación de los fiscales en el territorio aragonés"
+   ],
+   0,
+   "Art. 66.1.",
+   "eaar 66.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67 del Estatuto de Autonomía de Aragón corresponde a la Comunidad Autónoma de Aragón:",
+   [
+    "La competencia sobre todo el personal al servicio de la Administración de Justicia que no integre el Poder Judicial, y sobre los medios materiales de la Administración de Justicia en Aragón",
+    "La competencia sobre jueces y magistrados y sobre los medios materiales de la Administración de Justicia",
+    "La competencia solo sobre los medios materiales, no sobre el personal que no integre el Poder Judicial"
+   ],
+   0,
+   "Art. 67.1 y 2.",
+   "eaar 67",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.1 del Estatuto de Autonomía de Aragón corresponde a la Comunidad Autónoma determinar los límites de las demarcaciones territoriales de los órganos jurisdiccionales; la capitalidad de las demarcaciones judiciales se fijará:",
+   [
+    "Por ley de las Cortes de Aragón",
+    "Por decreto del Gobierno de Aragón",
+    "Por el Consejo General del Poder Judicial"
+   ],
+   0,
+   "Art. 68.1.",
+   "eaar 68.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 del Estatuto de Autonomía de Aragón la cláusula subrogatoria del Estatuto establece que Aragón ejercerá:",
+   [
+    "Todas las funciones y facultades que la LOPJ atribuya al Gobierno de España con relación a la Administración de Justicia en Aragón",
+    "Las competencias jurisdiccionales que la LOPJ atribuya al Poder Judicial en relación con Aragón",
+    "Las funciones que la LOPJ atribuya al Consejo General del Poder Judicial en relación con Aragón"
+   ],
+   0,
+   "Art. 69.",
+   "eaar 69",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 del Estatuto de Autonomía de Aragón corresponden a la Comunidad Autónoma de Aragón las competencias:",
+   [
+    "Exclusivas, compartidas y ejecutivas sobre las materias incluidas en el título correspondiente",
+    "Solo exclusivas y compartidas sobre las materias incluidas en el título correspondiente",
+    "Exclusivas, compartidas, ejecutivas y delegadas sobre las materias incluidas en el título correspondiente"
+   ],
+   0,
+   "Art. 70.1.",
+   "eaar 70.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71 del Estatuto de Autonomía de Aragón en el ámbito de las competencias exclusivas, la Comunidad Autónoma de Aragón ejercerá:",
+   [
+    "La potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias",
+    "Solo la potestad legislativa y reglamentaria, quedando la función ejecutiva en manos del Estado",
+    "Solo la potestad reglamentaria y la función ejecutiva y el establecimiento de políticas propias"
+   ],
+   0,
+   "Art. 71 (encabezamiento).",
+   "eaar 71",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.6 del Estatuto de Autonomía de Aragón la organización territorial propia de la Comunidad es una materia de competencia:",
+   [
+    "Exclusiva de la Comunidad Autónoma",
+    "Compartida",
+    "Ejecutiva"
+   ],
+   0,
+   "Art. 71.6.ª.",
+   "eaar 71.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 5",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71 del Estatuto de Autonomía de Aragón es competencia exclusiva de la Comunidad Autónoma de Aragón:",
+   [
+    "El Derecho foral aragonés, la ordenación del territorio, el urbanismo y la vivienda",
+    "La sanidad pública, la ordenación del territorio, el urbanismo y la vivienda",
+    "La enseñanza en toda su extensión, el Derecho foral aragonés, el urbanismo y la vivienda"
+   ],
+   0,
+   "Art. 71 (2.ª, 8.ª, 9.ª y 10.ª). La enseñanza es compartida (art. 73).",
+   "eaar 71",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72.1 del Estatuto de Autonomía de Aragón corresponde a la Comunidad Autónoma de Aragón la competencia exclusiva en materia de:",
+   [
+    "Aguas que discurran íntegramente por su territorio",
+    "Aguas que discurran por varias Comunidades",
+    "Aguas minerales fuera de su territorio"
+   ],
+   0,
+   "Art. 72.1.",
+   "eaar 72.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73 del Estatuto de Autonomía de Aragón corresponde a la Comunidad Autónoma la competencia compartida en:",
+   [
+    "Enseñanza en toda su extensión, niveles y grados, modalidades y especialidades",
+    "Enseñanza universitaria únicamente, en todos sus niveles, grados y especialidades",
+    "Enseñanza no universitaria únicamente, en todos sus niveles, grados y especialidades"
+   ],
+   0,
+   "Art. 73.",
+   "eaar 73",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 del Estatuto de Autonomía de Aragón la Comunidad Autónoma ostenta la competencia compartida en:",
+   [
+    "Medios de comunicación social y servicios de contenido audiovisual; podrá crear su propia televisión, radio y prensa",
+    "Medios de comunicación social, con competencia exclusiva; podrá crear su propia televisión, radio y prensa",
+    "Radio y televisión nacional, sin posibilidad de crear sus propios medios de comunicación en Aragón"
+   ],
+   0,
+   "Art. 74.",
+   "eaar 74",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75 del Estatuto de Autonomía de Aragón en el ámbito de las competencias compartidas, la Comunidad Autónoma ejercerá:",
+   [
+    "El desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas con rango de ley",
+    "El desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas reglamentarias",
+    "Solo la ejecución de la legislación del Estado, sin potestad legislativa ni reglamentaria propia"
+   ],
+   0,
+   "Art. 75.",
+   "eaar 75",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75 del Estatuto de Autonomía de Aragón son competencias compartidas de la Comunidad Autónoma de Aragón, entre otras:",
+   [
+    "Seguridad Social (salvo su régimen económico), régimen minero, protección del medio ambiente, energía y protección de datos",
+    "Seguridad Social (incluido su régimen económico), régimen minero, protección del medio ambiente y energía",
+    "Gestión de la asistencia sanitaria de la Seguridad Social, sistema penitenciario, energía y protección de datos"
+   ],
+   0,
+   "Art. 75 (1.ª a 5.ª). La asistencia sanitaria y el sistema penitenciario son competencias ejecutivas (art. 77).",
+   "eaar 75",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.1 del Estatuto de Autonomía de Aragón la Comunidad Autónoma podrá crear una Policía autonómica:",
+   [
+    "En el marco del Estatuto y de la ley orgánica correspondiente",
+    "Libremente, mediante ley autonómica, en el marco del Estatuto y sin necesidad de ley orgánica",
+    "Previa autorización del Gobierno de España, en el marco del Estatuto y de la ley ordinaria correspondiente"
+   ],
+   0,
+   "Art. 76.1.",
+   "eaar 76.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.3 del Estatuto de Autonomía de Aragón corresponde a la Comunidad Autónoma:",
+   [
+    "La coordinación de la actuación de las Policías locales aragonesas",
+    "El mando directo de las Policías locales aragonesas y la selección de sus agentes",
+    "La coordinación de la actuación de las Policías locales y la selección de sus agentes"
+   ],
+   0,
+   "Art. 76.3.",
+   "eaar 76.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.4 del Estatuto de Autonomía de Aragón se creará, en su caso, una Junta de Seguridad que, con representación paritaria del Estado y la Comunidad Autónoma:",
+   [
+    "Coordinará las actuaciones de la Policía autonómica y de los Cuerpos y Fuerzas de Seguridad del Estado",
+    "Coordinará las actuaciones de las Policías locales y de los Cuerpos y Fuerzas de Seguridad del Estado",
+    "Supervisará la actuación del Delegado del Gobierno y de la Policía autonómica de la Comunidad"
+   ],
+   0,
+   "Art. 76.4.",
+   "eaar 76.4",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "z": "Prueba oficial, pregunta 10",
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 del Estatuto de Autonomía de Aragón en el ámbito de las competencias ejecutivas, la Comunidad Autónoma podrá:",
+   [
+    "Dictar reglamentos para la regulación de su propia competencia funcional y la organización de los servicios necesarios, y ejercer las funciones que el ordenamiento atribuye a la Administración Pública",
+    "Dictar normas con rango de ley para regular su competencia funcional y organizar los servicios necesarios",
+    "Fijar la legislación básica y dictar reglamentos para la organización de los servicios necesarios"
+   ],
+   0,
+   "Art. 77 (encabezamiento).",
+   "eaar 77",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 del Estatuto de Autonomía de Aragón es competencia ejecutiva de la Comunidad Autónoma de Aragón, entre otras:",
+   [
+    "La gestión de la asistencia sanitaria de la Seguridad Social, el trabajo y relaciones laborales y el sistema penitenciario",
+    "El urbanismo y la vivienda, el trabajo y relaciones laborales y el sistema penitenciario",
+    "La organización territorial, la gestión de la asistencia sanitaria y el trabajo y relaciones laborales"
+   ],
+   0,
+   "Art. 77 (1.ª, 2.ª, 11.ª).",
+   "eaar 77",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.1 del Estatuto de Autonomía de Aragón los notarios y registradores de la propiedad y mercantiles serán nombrados:",
+   [
+    "Por la Comunidad Autónoma, de conformidad con las leyes del Estado, siendo mérito preferente el conocimiento del Derecho propio de Aragón",
+    "Por el Estado, de conformidad con las leyes, siendo mérito preferente el conocimiento del Derecho propio de Aragón",
+    "Por el Consejo General del Notariado y el Colegio de Registradores, previa propuesta de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 78.1.",
+   "eaar 78.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.1 del Estatuto de Autonomía de Aragón en las materias de su competencia, corresponde a la Comunidad Autónoma el ejercicio de:",
+   [
+    "La actividad de fomento, pudiendo otorgar subvenciones con cargo a fondos propios, regulando o desarrollando objetivos y requisitos y gestionando su tramitación y concesión",
+    "Solo la gestión de las subvenciones estatales, regulando objetivos y requisitos y tramitando su concesión",
+    "La potestad tributaria exclusiva, pudiendo otorgar subvenciones con cargo a fondos propios y a los del Estado"
+   ],
+   0,
+   "Art. 79.1.",
+   "eaar 79.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.2 del Estatuto de Autonomía de Aragón en las materias de competencia exclusiva de la Comunidad Autónoma:",
+   [
+    "El Derecho propio de Aragón será aplicable en su territorio con preferencia a cualquier otro, en los términos previstos en el Estatuto",
+    "El Derecho estatal prevalece siempre sobre el Derecho propio de Aragón, que se aplica con carácter supletorio",
+    "El Derecho propio de Aragón es subsidiario del Derecho estatal en los términos previstos en el Estatuto"
+   ],
+   0,
+   "Art. 80.2.",
+   "eaar 80.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81 del Estatuto de Autonomía de Aragón la organización territorial local de Aragón se estructura en:",
+   [
+    "Municipios, comarcas y provincias; por ley de las Cortes podrán regularse las áreas metropolitanas y las entidades de ámbito inferior al municipio",
+    "Municipios y provincias; por ley de las Cortes podrán regularse las comarcas y las entidades inferiores al municipio",
+    "Municipios, comarcas, provincias y áreas metropolitanas, que serán obligatorias en las capitales de provincia"
+   ],
+   0,
+   "Art. 81.",
+   "eaar 81",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.1 del Estatuto de Autonomía de Aragón los municipios son:",
+   [
+    "Las entidades territoriales básicas de Aragón, dotadas de personalidad jurídica y autonomía para la gestión de sus intereses, y medio esencial de participación de la comunidad vecinal en los asuntos públicos",
+    "Las entidades territoriales básicas de Aragón, dotadas de autonomía pero dependientes de las comarcas en sus intereses",
+    "Las entidades territoriales básicas de Aragón, con personalidad jurídica y autonomía solo para la gestión de sus servicios"
+   ],
+   0,
+   "Art. 82.1.",
+   "eaar 82.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83.1 del Estatuto de Autonomía de Aragón las comarcas son:",
+   [
+    "Entidades territoriales constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes, fundamentales para la vertebración territorial aragonesa",
+    "Entidades territoriales constituidas por la agrupación de municipios o provincias, vinculados por intereses comunes",
+    "Entidades locales con personalidad propia que carecen de competencias y se limitan a coordinar a los municipios"
+   ],
+   0,
+   "Art. 83.1.",
+   "eaar 83.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83.3 del Estatuto de Autonomía de Aragón la creación, modificación y supresión de las comarcas, así como la determinación de sus competencias, organización y régimen jurídico, se regulan:",
+   [
+    "Por ley de las Cortes de Aragón",
+    "Por decreto del Gobierno de Aragón",
+    "Por acuerdo de los municipios afectados"
+   ],
+   0,
+   "Art. 83.3.",
+   "eaar 83.3",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 del Estatuto de Autonomía de Aragón las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán:",
+   [
+    "Funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo a criterios de solidaridad y equilibrio territorial",
+    "Funciones legislativas delegadas y de tutela sobre municipios y comarcas, atendiendo a criterios de solidaridad",
+    "Competencias exclusivas en urbanismo y prestación de servicios a municipios, atendiendo a criterios de equilibrio"
+   ],
+   0,
+   "Art. 84.",
+   "eaar 84",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.1 del Estatuto de Autonomía de Aragón la actividad de las entidades territoriales aragonesas se desarrollará bajo los principios de:",
+   [
+    "Subsidiariedad, proporcionalidad y diferenciación",
+    "Subsidiariedad, proporcionalidad, eficacia y coordinación entre los distintos niveles de gobierno local",
+    "Jerarquía, diferenciación y solidaridad entre las entidades territoriales aragonesas de la Comunidad"
+   ],
+   0,
+   "Art. 85.1.",
+   "eaar 85.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.2 del Estatuto de Autonomía de Aragón la Administración de la Comunidad Autónoma y las entidades locales ajustarán sus relaciones a los criterios de:",
+   [
+    "Información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos",
+    "Jerarquía, tutela y respeto a los ámbitos competenciales de cada Administración aragonesa",
+    "Información mutua, subordinación de las entidades locales y control por parte de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 85.2.",
+   "eaar 85.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86 del Estatuto de Autonomía de Aragón el Consejo local de Aragón es:",
+   [
+    "El órgano de colaboración y coordinación entre el Gobierno de Aragón y las asociaciones representativas de las entidades locales aragonesas, que debe ser oído en las iniciativas legislativas y reglamentarias que afecten específicamente a los gobiernos locales",
+    "El órgano de gobierno de las comarcas, que debe ser oído en las iniciativas que afecten a los gobiernos locales",
+    "El órgano consultivo del Justicia de Aragón y de las asociaciones representativas de las entidades locales"
+   ],
+   0,
+   "Art. 86.",
+   "eaar 86",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Zaragoza, como capital de Aragón, dispondrá de:",
+   [
+    "Un régimen especial establecido por ley de Cortes de Aragón",
+    "El régimen común de municipios de gran población",
+    "Un régimen especial establecido por ley orgánica estatal"
+   ],
+   0,
+   "Art. 87.",
+   "eaar 87",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.1 del Estatuto de Autonomía de Aragón la iniciativa de la reforma del Estatuto corresponderá:",
+   [
+    "Al Gobierno de Aragón, a las Cortes de Aragón a propuesta de un quinto de sus Diputados y a las Cortes Generales",
+    "Solo al Gobierno de Aragón y a las Cortes de Aragón, a propuesta de una tercera parte de sus Diputados",
+    "A las Cortes de Aragón, a propuesta de un quinto de sus Diputados, y al Gobierno de España"
+   ],
+   0,
+   "Art. 115.1.",
+   "eaar 115.1",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.2 del Estatuto de Autonomía de Aragón la propuesta de reforma del Estatuto requerirá, en todo caso:",
+   [
+    "La aprobación de las Cortes de Aragón por mayoría de dos tercios y la aprobación de las Cortes Generales mediante ley orgánica",
+    "La aprobación de las Cortes de Aragón por mayoría absoluta y la de las Cortes Generales mediante ley orgánica",
+    "La aprobación de las Cortes de Aragón por mayoría de dos tercios y la de las Cortes Generales mediante ley ordinaria"
+   ],
+   0,
+   "Art. 115.2.",
+   "eaar 115.2",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.6 del Estatuto de Autonomía de Aragón si la propuesta de reforma no es aprobada por las Cortes de Aragón o por las Cortes Generales, no podrá ser sometida nuevamente a debate y votación hasta que haya transcurrido:",
+   [
+    "Un año",
+    "Seis meses",
+    "Dos años"
+   ],
+   0,
+   "Art. 115.6.",
+   "eaar 115.6",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.7 del Estatuto de Autonomía de Aragón la aprobación de la reforma por las Cortes Generales incluirá la autorización del Estado para que el Gobierno de Aragón convoque referéndum de ratificación en un plazo de:",
+   [
+    "Seis meses desde la votación final en las Cortes Generales",
+    "Tres meses desde la votación final en las Cortes Generales, mediante consulta a los aragoneses",
+    "Un año desde la aprobación de la reforma por las Cortes de Aragón, mediante consulta a los aragoneses"
+   ],
+   0,
+   "Art. 115.7.",
+   "eaar 115.7",
+   "",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

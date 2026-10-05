@@ -49,6 +49,66 @@
    "Servicio mínimo obligatorio",
    "Servicio que todo municipio debe prestar, según su número de habitantes.",
    "Art. 26 LBRL"
+  ],
+  [
+   "elementos-municipio",
+   "Elementos del municipio",
+   "Territorio, población y organización.",
+   "Art. 11 LBRL"
+  ],
+  [
+   "termino-municipal",
+   "Término municipal",
+   "Territorio donde el Ayuntamiento ejerce sus competencias.",
+   "Art. 12 LBRL"
+  ],
+  [
+   "vecino",
+   "Vecino",
+   "Persona residente que está inscrita en el padrón municipal del municipio donde vive habitualmente.",
+   "Art. 15 LBRL"
+  ],
+  [
+   "competencia-propia",
+   "Competencia propia",
+   "Competencia que el municipio ejerce en nombre propio, con autonomía, y que solo puede atribuir una ley.",
+   "Art. 7 LBRL"
+  ],
+  [
+   "competencia-delegada",
+   "Competencia delegada",
+   "Competencia de otra Administración que el municipio ejerce por delegación, bajo su control.",
+   "Art. 27 LBRL"
+  ],
+  [
+   "pleno-municipal",
+   "Pleno",
+   "Órgano formado por todos los concejales y presidido por el Alcalde; toma las decisiones más importantes.",
+   "Art. 22 LBRL"
+  ],
+  [
+   "alcalde",
+   "Alcalde",
+   "Presidente de la corporación; dirige el gobierno y la administración municipal y es elegido por los concejales o por los vecinos.",
+   "Art. 21 LBRL"
+  ],
+  [
+   "comisiones-informativas",
+   "Comisiones informativas",
+   "Órganos de estudio de los asuntos que va a tratar el Pleno, sin capacidad de decidir.",
+   "Art. 20 LBRL"
+  ],
+  [
+   "regimen-especial",
+   "Régimen especial",
+   "Régimen distinto del común por razones singulares, como el concejo abierto o el de gran población.",
+   "Arts. 29 y 121 LBRL"
+  ],
+  [
+   "convenio-colaboracion",
+   "Convenios de colaboración",
+   "Acuerdos entre Administraciones para ejercer juntas competencias o prestar servicios.",
+   "Ley 40/2015"
   ]
  ],
  "hubs": [
