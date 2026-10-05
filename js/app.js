@@ -47,7 +47,7 @@ async function init() {
     const epiPorArt = {};
     Object.values(D.tema).forEach((t) => t.epigrafes.forEach((e) => (e.articulos || []).forEach((a) => { epiPorArt[`${t.n}:${a.lx}:${a.n}`] = e.id; })));
     Object.values(D.tema).forEach((t) => {
-      t.preguntas = t.preguntas.filter((q) => !q.off).map((q) => {
+      t.preguntas = t.preguntas.filter((q) => !q.off && !store.esOculta(q.id)).map((q) => {
         const r = { ...q, tema: t.n };
         if (q.lx) {
           r.epi = q.epi || epiPorArt[`${t.n}:${q.lx}:${q.art}`];
@@ -257,6 +257,7 @@ function vistaInicio() {
       <p class="muted">Faltan unos <strong>${dias} días</strong> para el objetivo de mayo de 2027 <span class="tiny">(fecha oficial por confirmar)</span>.</p>
     </section>
 
+    ${store.hayProgreso() && (store.diasDesdeCopia() === null || store.diasDesdeCopia() > 14) ? `<section class="card tip"><p><strong>Guarda una copia de tu progreso</strong>: ${store.diasDesdeCopia() === null ? 'aún no tienes ninguna' : `hace ${store.diasDesdeCopia()} días de la última`}. <a href="#/ajustes">Hacerlo ahora</a></p></section>` : ''}
     ${esIOS && !instalada && !ocultarInstalar ? `<section class="card tip"><p><strong>Instálala en tu iPhone</strong>: en Safari toca <em>Compartir</em> <span aria-hidden="true">⎙</span> y luego <em>Añadir a pantalla de inicio</em>. Funcionará sin conexión.</p><button class="link" data-act="ocultar-instalar">Entendido</button></section>` : ''}
 
     <section class="card">
@@ -284,7 +285,8 @@ function vistaInicio() {
 
     <section class="card note">
       <p class="tiny muted">En el examen <strong>los errores restan</strong> y dejar en blanco no resta. Aquí tienes el botón «No contesto» para entrenar esa decisión. Penalización actual: <strong>${esc(store.PENALIZACIONES[store.getAjustes().penalizacion].etiqueta)}</strong> <a href="#/ajustes">(cambiar)</a>.</p>
-    </section>`;
+    </section>
+    <p class="tiny" style="text-align:center"><button class="link" data-act="reportar">⚑ Reportar un problema de la app o del contenido</button></p>`;
   return { titulo: 'EstuDani', tab: 'inicio', html };
 }
 
@@ -413,6 +415,7 @@ function vistaEpigrafe(n, id) {
         ${prev ? `<a href="#/tema/${n}/e/${prev.id}">‹ ${esc(prev.titulo)}</a>` : '<span></span>'}
         ${next ? `<a href="#/tema/${n}/e/${next.id}">${esc(next.titulo)} ›</a>` : `<a href="#/tema/${n}/test">Ir al test del tema ›</a>`}
       </div>
+      <p class="tiny"><button class="link" data-act="reportar" data-ctx="Tema ${n} · ${esc(e.titulo)}">⚑ ¿Algo no cuadra en este epígrafe? Reportar</button></p>
     </article>`;
   return { titulo: `Tema ${n}`, volver: `#/tema/${n}`, tab: 'temas', html };
 }
@@ -514,6 +517,7 @@ function cuerpoAsociar(n, t, id) {
 function cuerpoTestTema(n, t) {
   const total = t.preguntas.length;
   const trampas = t.preguntas.filter((q) => q.tipo === 'trampa').length;
+  const altas = t.preguntas.filter((q) => q.dif >= 3).length;
   const fallos = store.falladas(idsTema(n)).length;
   const r = store.resumen(idsTema(n));
   const porEpi = t.epigrafes
@@ -528,6 +532,7 @@ function cuerpoTestTema(n, t) {
       <button class="btn primary" data-act="empezar" data-modo="tema" data-tema="${n}">Test completo (${total})</button>
       <div class="acciones">
         <button class="btn" data-act="empezar" data-modo="trampas" data-tema="${n}">Solo preguntas trampa (${trampas})</button>
+        <button class="btn" data-act="empezar" data-modo="dificiles" data-tema="${n}" ${altas ? '' : 'disabled'}>Solo nivel alto (${altas})</button>
         <button class="btn" data-act="empezar" data-modo="fallos" data-tema="${n}" ${fallos ? '' : 'disabled'}>Mis fallos (${fallos})</button>
       </div>
     </section>
@@ -561,6 +566,7 @@ function vistaRepaso() {
   const nuevas = Math.min(store.nuevas(rep).length, 10);
   const fallos = store.falladas(ids).length;
   const trampas = D.preguntas.filter((q) => q.tipo === 'trampa').length;
+  const altas = D.preguntas.filter((q) => q.dif >= 3).length;
   const html = `
     <section class="card"><h3>Repaso espaciado</h3>
       <p class="muted">Las preguntas vuelven justo cuando estás a punto de olvidarlas. Es lo que más rinde por minuto de estudio.</p>
@@ -583,6 +589,7 @@ function vistaRepaso() {
     <section class="card"><h3>Entrenar puntos débiles</h3>
       <div class="acciones">
         <button class="btn" data-act="empezar" data-modo="trampas">Solo trampas (${trampas})</button>
+        <button class="btn" data-act="empezar" data-modo="dificiles">Solo nivel alto (${altas})</button>
         <button class="btn" data-act="empezar" data-modo="fallos" ${fallos ? '' : 'disabled'}>Mis fallos (${fallos})</button>
       </div></section>`;
   return { titulo: 'Test', tab: 'repaso', html };
@@ -600,6 +607,7 @@ function empezar(modo, p = {}) {
   if (modo === 'tema') { pool = D.preguntas.filter(delTema); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
   else if (modo === 'epi') { pool = D.preguntas.filter((q) => delTema(q) && q.epi === p.epi); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
   else if (modo === 'trampas') { pool = D.preguntas.filter((q) => delTema(q) && q.tipo === 'trampa'); titulo = 'Preguntas trampa'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
+  else if (modo === 'dificiles') { pool = barajar(D.preguntas.filter((q) => delTema(q) && q.dif >= 3)).slice(0, 20); titulo = 'Nivel alto'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
   else if (modo === 'fallos') { const ids = new Set(store.falladas(todasIds())); pool = D.preguntas.filter((q) => ids.has(q.id) && delTema(q)); titulo = 'Mis fallos'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
   else if (modo === 'repaso') {
     const rep = idsRepaso();
@@ -709,6 +717,7 @@ function vistaQuiz() {
       <p class="tiny muted">${esc(q.ref)}</p>
       ${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}
       ${enlaceIdea(q)}
+      <p class="tiny"><button class="link" data-act="reportar" data-q="${esc(q.id)}">⚑ Reportar error en esta pregunta</button></p>
       <button class="btn primary" data-act="sig">${S.i + 1 < total ? 'Siguiente' : 'Ver resultado'}</button>
     </section>`;
   } else if (S.inmediato) {
@@ -797,7 +806,7 @@ function vistaResultados() {
         ${q.pistas ? `<ul class="pistas">${q.pistas.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
         <p class="tiny"><b>${etiqueta}</b></p>
         <p class="tiny ok-t"><b>Correcta:</b> ${esc(q.o[q.c])}</p>
-        ${q.e ? `<p>${esc(q.e)}</p>` : ''}${q.trampa ? `<p class="tiny"><b>Trampa:</b> ${esc(q.trampa)}</p>` : ''}<p class="tiny muted">${esc(q.ref)}</p>${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}</details>`;
+        ${q.e ? `<p>${esc(q.e)}</p>` : ''}${q.trampa ? `<p class="tiny"><b>Trampa:</b> ${esc(q.trampa)}</p>` : ''}<p class="tiny muted">${esc(q.ref)}</p>${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}<p class="tiny"><button class="link" data-act="reportar" data-q="${esc(q.id)}">⚑ Reportar error</button></p></details>`;
     })
     .join('');
   const html = `
@@ -866,6 +875,83 @@ function cerrarHoja() {
   document.body.classList.remove('noscroll');
 }
 
+// ---------------------------------------------------------------- reportes
+const TIPOS_REPORTE = ['Error en una pregunta', 'Error en el contenido (explicación, artículo)', 'Falta o sobra algo en el temario', 'Fallo de la aplicación', 'Sugerencia'];
+let REP = null; // contexto del reporte que se está escribiendo
+
+const preguntaPorId = (id) => D.qById[id] || (S && S.items.map((x) => x.q).find((q) => q.id === id));
+
+function abrirReporte(ctx) {
+  REP = ctx;
+  const q = ctx.q ? preguntaPorId(ctx.q) : null;
+  const donde = q ? `Pregunta: «${q.q.slice(0, 110)}${q.q.length > 110 ? '…' : ''}»` : ctx.ctx ? `Sobre: ${ctx.ctx}` : 'Reporte general de la aplicación';
+  const tipo = q ? TIPOS_REPORTE[0] : ctx.ctx ? TIPOS_REPORTE[1] : TIPOS_REPORTE[3];
+  sheet.innerHTML = `<div class="sheet-bg" data-act="cerrar-hoja"></div>
+    <div class="sheet-p" role="dialog" aria-modal="true" aria-label="Reportar un problema">
+      <div class="sheet-h"><h3>⚑ Reportar un problema</h3><button class="link" data-act="cerrar-hoja" aria-label="Cerrar">✕</button></div>
+      <p class="tiny muted">${esc(donde)}</p>
+      <select id="rep-tipo" aria-label="Tipo de problema">${TIPOS_REPORTE.map((t) => `<option ${t === tipo ? 'selected' : ''}>${esc(t)}</option>`).join('')}</select>
+      <textarea id="rep-txt" rows="4" placeholder="¿Qué pasa? (por ejemplo: «la respuesta correcta debería ser la B porque…»)" aria-label="Descripción"></textarea>
+      ${q ? '<label class="tiny"><input type="checkbox" id="rep-ocultar"> No volver a preguntarme esta pregunta en este móvil</label>' : ''}
+      <div class="acciones"><button class="btn primary" data-act="rep-guardar">Guardar reporte</button></div>
+      <p class="tiny muted">Se guarda en tu móvil. Luego lo envías todo junto desde Más → Reportes.</p>
+    </div>`;
+  sheet.hidden = false;
+  document.body.classList.add('noscroll');
+  setTimeout(() => { const t = $('#rep-txt'); if (t) t.focus(); }, 50);
+}
+
+function guardarReporte() {
+  const texto = $('#rep-txt').value.trim();
+  if (!texto) return aviso('Escribe qué ha pasado');
+  const q = REP && REP.q ? preguntaPorId(REP.q) : null;
+  store.addReporte({
+    tipo: $('#rep-tipo').value, texto,
+    ...(q ? { qid: q.id, tema: q.tema, ref: q.ref, enun: q.q.slice(0, 160) } : {}),
+    ...(REP && REP.ctx ? { ctx: REP.ctx } : {}),
+    pantalla: location.hash || '#/',
+  });
+  if (q && $('#rep-ocultar') && $('#rep-ocultar').checked) {
+    store.ocultar(q.id);
+    D.preguntas = D.preguntas.filter((x) => x.id !== q.id);
+    if (D.tema[q.tema]) D.tema[q.tema].preguntas = D.tema[q.tema].preguntas.filter((x) => x.id !== q.id);
+  }
+  cerrarHoja();
+  aviso('Reporte guardado');
+  if (location.hash === '#/ajustes') route();
+}
+
+function textoReportes() {
+  const rs = store.reportes();
+  return `Reportes de EstuDani (${rs.length})\n\n` + rs.map((r, i) => [
+    `${i + 1}. [${r.fecha}] ${r.tipo}`,
+    r.enun ? `   Pregunta: ${r.enun}${r.ref ? ` (${r.ref})` : ''}` : '',
+    r.ctx ? `   Sobre: ${r.ctx}` : '',
+    `   ${r.texto}`,
+    r.pantalla ? `   Pantalla: ${r.pantalla}` : '',
+  ].filter(Boolean).join('\n')).join('\n\n');
+}
+
+function descargarCopia() {
+  const blob = new Blob([store.exportar()], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `estudani-copia-${new Date().toISOString().slice(0, 10)}.json`;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+  store.marcarCopia();
+  aviso('Copia descargada');
+}
+
+function cargarCopiaArchivo(file) {
+  const fr = new FileReader();
+  fr.onload = () => {
+    if (!confirm('Se sustituirá el progreso de este dispositivo por el de la copia. ¿Seguro?')) return;
+    try { store.importar(String(fr.result)); aviso('Progreso restaurado'); route(); } catch { aviso('El archivo no es una copia válida'); }
+  };
+  fr.readAsText(file);
+}
+
 // ---------------------------------------------------------------- ajustes
 function vistaAjustes() {
   const a = store.getAjustes();
@@ -877,9 +963,19 @@ function vistaAjustes() {
       <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
       <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
     <section class="card"><h3>Copia de seguridad</h3>
-      <p class="muted tiny">Tu progreso solo vive en este dispositivo. Copia este código para guardarlo o llevarlo a otro móvil.</p>
+      <p class="muted tiny">Tu progreso solo vive en este dispositivo. ${store.diasDesdeCopia() === null ? 'Aún no has guardado ninguna copia.' : `Última copia: hace ${store.diasDesdeCopia()} día(s).`} Descarga un archivo (mejor, guárdalo en iCloud o mándatelo) o copia el código.</p>
+      <div class="acciones"><button class="btn primary small" data-act="descargar">Descargar copia (.json)</button><button class="btn small" data-act="cargar-archivo">Cargar copia desde archivo</button></div>
+      <input type="file" id="archivo" accept="application/json,.json" hidden>
+      <p class="muted tiny">O con código de texto:</p>
       <textarea id="bk" rows="3" readonly></textarea>
       <div class="acciones"><button class="btn small" data-act="copiar">Copiar</button><button class="btn small" data-act="restaurar">Restaurar desde el código pegado</button></div></section>
+    <section class="card"><h3>Reportes</h3>
+      <p class="muted tiny">¿Una pregunta con error, algo del temario que no cuadra o un fallo de la app? Anótalo aquí y envíalo cuando quieras. Los de una pregunta también salen en la corrección.</p>
+      <div class="acciones"><button class="btn primary small" data-act="reportar">⚑ Reportar un problema</button></div>
+      ${store.reportes().length ? `<p class="tiny"><b>${store.reportes().length}</b> reporte(s) pendientes de enviar.</p>
+        <ul class="tiny">${store.reportes().map((r) => `<li>${esc(r.tipo)}: ${esc(r.texto.slice(0, 70))}${r.texto.length > 70 ? '…' : ''}</li>`).join('')}</ul>
+        <div class="acciones"><button class="btn small" data-act="rep-compartir">Enviar</button><button class="btn small" data-act="rep-copiar">Copiar texto</button><button class="btn small" data-act="rep-vaciar">Vaciar lista</button></div>` : ''}
+      ${store.ocultas().length ? `<p class="tiny">Tienes <b>${store.ocultas().length}</b> pregunta(s) ocultas en este móvil. <button class="link" data-act="des-ocultar">Volver a mostrarlas</button></p>` : ''}</section>
     <section class="card"><h3>Instalar como app</h3>
       <p class="muted tiny"><b>iPhone (Safari):</b> toca Compartir ⎙ → «Añadir a pantalla de inicio». Se abrirá a pantalla completa y funcionará sin conexión.</p></section>
     <section class="card"><h3>Sobre el contenido</h3>
@@ -892,6 +988,7 @@ function vistaAjustes() {
     despues() {
       $('#bk').value = store.exportar();
       $('#pen').addEventListener('change', (e) => { store.setAjuste('penalizacion', e.target.value); aviso('Guardado'); });
+      $('#archivo').addEventListener('change', (e) => { if (e.target.files[0]) cargarCopiaArchivo(e.target.files[0]); });
     },
   };
 }
@@ -940,6 +1037,19 @@ document.addEventListener('click', (e) => {
       try { store.importar(texto); aviso('Progreso restaurado'); route(); } catch { aviso('El código no es válido'); }
       return;
     }
+    case 'reportar': return abrirReporte({ q: d.q, ctx: d.ctx });
+    case 'rep-guardar': return guardarReporte();
+    case 'rep-copiar': return (navigator.clipboard ? navigator.clipboard.writeText(textoReportes()) : Promise.reject()).then(() => aviso('Copiado'), () => aviso('No se pudo copiar'));
+    case 'rep-compartir': {
+      const texto = textoReportes();
+      if (navigator.share) return navigator.share({ title: 'Reportes de EstuDani', text: texto }).catch(() => {});
+      location.href = `mailto:?subject=${encodeURIComponent('Reportes de EstuDani')}&body=${encodeURIComponent(texto)}`;
+      return;
+    }
+    case 'rep-vaciar': if (confirm('¿Vaciar la lista? Asegúrate de haberla enviado antes.')) { store.vaciarReportes(); route(); } return;
+    case 'des-ocultar': { store.ocultas().forEach((id) => store.ocultar(id, false)); aviso('Recargando preguntas…'); return setTimeout(() => location.reload(), 600); }
+    case 'descargar': return descargarCopia();
+    case 'cargar-archivo': return $('#archivo').click();
     case 'borrar': if (confirm('Se borrará todo tu progreso en este dispositivo. ¿Seguro?')) { store.borrarTodo(); aviso('Progreso borrado'); route(); } return;
   }
 });

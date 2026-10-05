@@ -19,6 +19,8 @@ const vacio = () => ({
   dias: {}, // dayNum -> { n, ok, fail, blank }
   lecciones: {}, // "1:e3" -> true
   sesiones: [], // últimas sesiones de test
+  reportes: [], // problemas anotados para enviar: { id, fecha, tipo, texto, qid?, ref?, enun? }
+  ocultas: {}, // id de pregunta -> true (apartadas en este dispositivo)
 });
 
 let estado = cargar();
@@ -150,7 +152,28 @@ export function guardarSesion(s) {
 }
 export const sesiones = () => estado.sesiones;
 
+// ---------- reportes y preguntas ocultas ----------
+export const reportes = () => estado.reportes || [];
+export function addReporte(r) {
+  estado.reportes = [...reportes(), { id: Date.now().toString(36), fecha: new Date().toISOString().slice(0, 10), ...r }];
+  guardar();
+}
+export function vaciarReportes() {
+  estado.reportes = [];
+  guardar();
+}
+export const ocultas = () => Object.keys(estado.ocultas || {});
+export function ocultar(id, si = true) {
+  estado.ocultas = { ...(estado.ocultas || {}) };
+  if (si) estado.ocultas[id] = true; else delete estado.ocultas[id];
+  guardar();
+}
+export const esOculta = (id) => !!(estado.ocultas && estado.ocultas[id]);
+
 // ---------- copia de seguridad ----------
+export const marcarCopia = () => { estado.ajustes.copia = Date.now(); guardar(); };
+export const diasDesdeCopia = () => (estado.ajustes.copia ? Math.floor((Date.now() - estado.ajustes.copia) / 86400000) : null);
+export const hayProgreso = () => Object.keys(estado.preguntas).length > 0;
 export const exportar = () => JSON.stringify(estado);
 export function importar(texto) {
   const datos = JSON.parse(texto);

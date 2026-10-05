@@ -250,6 +250,8 @@ td:first-child { font-weight: 650; }
 .buscador { position: sticky; top: calc(49px + var(--safe-t)); z-index: 5; padding: 6px 0; background: var(--bg); }
 input[type=search], select, textarea { width: 100%; font: inherit; color: var(--ink); background: var(--card); border: 1.5px solid var(--line); border-radius: 12px; padding: 12px 14px; }
 textarea { font-size: 1rem; font-family: ui-monospace, Menlo, monospace; resize: vertical; }
+#rep-txt { font-family: inherit; margin: 10px 0; }
+#rep-tipo { margin: 8px 0; }
 .gl { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin: 8px 0; }
 .gl[hidden] { display: none; }
 
