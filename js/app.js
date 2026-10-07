@@ -2,6 +2,7 @@ import * as store from './store.js';
 import { esc, fmt, plano, setGlosario } from './markup.js';
 import { icHtml } from './iconos.js';
 import { normalizaTema } from './normaliza.js';
+import * as autoglos from './autoglos.js';
 import { mapaSvg, ramaHtml, conexionesHtml, hubHtml, leyendaHub, esquemaHtml } from './visual.js';
 
 const $ = (s, r = document) => r.querySelector(s);
@@ -43,6 +44,7 @@ async function init() {
     try { D.leyes = await getJSON('data/leyes.json'); D.zgz = await getJSON('data/zaragoza.json'); } catch { D.leyes = {}; D.zgz = {}; }
     D.glosMap = Object.fromEntries(D.glos.map((g) => [g.id, g]));
     setGlosario(D.glos);
+    autoglos.construir(D.glos);
     // cada pregunta nueva («lx artículo») hereda el epígrafe de la ficha que la explica y muestra su referencia legible
     const epiPorArt = {};
     Object.values(D.tema).forEach((t) => t.epigrafes.forEach((e) => (e.articulos || []).forEach((a) => { epiPorArt[`${t.n}:${a.lx}:${a.n}`] = e.id; })));
@@ -203,6 +205,7 @@ function route() {
   else if (a === 'quiz') v = vistaQuiz();
   else if (a === 'glosario') v = vistaGlosario(b);
   else if (a === 'ajustes') v = vistaAjustes();
+  else if (a === 'guia') v = vistaGuia();
   else v = vistaInicio();
   montar(v);
 }
@@ -215,6 +218,7 @@ function montar(v, { conservarScroll = false } = {}) {
   tabs.querySelectorAll('a').forEach((a) => a.classList.toggle('on', a.dataset.tab === v.tab));
   tabs.hidden = !!v.sinTabs;
   if (!conservarScroll) window.scrollTo(0, 0);
+  if (!v.sinGlosario) autoglos.enlazar(view);
   if (v.despues) v.despues();
 }
 
@@ -231,6 +235,8 @@ function tabsHtml() {
 }
 
 // ---------------------------------------------------------------- inicio
+const guiaVista = () => { try { return localStorage.getItem('estudani.guia') === '1'; } catch { return false; } };
+
 function vistaInicio() {
   const ids = todasIds();
   const rep = idsRepaso();
@@ -257,6 +263,7 @@ function vistaInicio() {
       <p class="muted">Faltan unos <strong>${dias} días</strong> para el objetivo de mayo de 2027 <span class="tiny">(fecha oficial por confirmar)</span>.</p>
     </section>
 
+    ${guiaVista() ? '' : `<section class="card tip"><h3>👋 ¿Primera vez?</h3><p>En 3 minutos te explico para qué sirve cada parte de la app y cómo estudiar con ella cada día.</p><a class="btn primary" href="#/guia">Cómo usar EstuDani</a></section>`}
     ${store.hayProgreso() && (store.diasDesdeCopia() === null || store.diasDesdeCopia() > 14) ? `<section class="card tip"><p><strong>Guarda una copia de tu progreso</strong>: ${store.diasDesdeCopia() === null ? 'aún no tienes ninguna' : `hace ${store.diasDesdeCopia()} días de la última`}. <a href="#/ajustes">Hacerlo ahora</a></p></section>` : ''}
     ${esIOS && !instalada && !ocultarInstalar ? `<section class="card tip"><p><strong>Instálala en tu iPhone</strong>: en Safari toca <em>Compartir</em> <span aria-hidden="true">⎙</span> y luego <em>Añadir a pantalla de inicio</em>. Funcionará sin conexión.</p><button class="link" data-act="ocultar-instalar">Entendido</button></section>` : ''}
 
@@ -286,7 +293,7 @@ function vistaInicio() {
     <section class="card note">
       <p class="tiny muted">En el examen <strong>los errores restan</strong> y dejar en blanco no resta. Aquí tienes el botón «No contesto» para entrenar esa decisión. Penalización actual: <strong>${esc(store.PENALIZACIONES[store.getAjustes().penalizacion].etiqueta)}</strong> <a href="#/ajustes">(cambiar)</a>.</p>
     </section>
-    <p class="tiny" style="text-align:center"><button class="link" data-act="reportar">⚑ Reportar un problema de la app o del contenido</button></p>`;
+    <p class="tiny" style="text-align:center"><a href="#/guia">📘 Cómo usar la app</a> · <button class="link" data-act="reportar">⚑ Reportar un problema</button></p>`;
   return { titulo: 'EstuDani', tab: 'inicio', html };
 }
 
@@ -740,7 +747,7 @@ function vistaQuiz() {
     <div class="opts">${opciones}</div>
     ${pie}`;
   return {
-    titulo: S.titulo, volver: S.volver, tab: 'repaso', sinTabs: true, html,
+    titulo: S.titulo, volver: S.volver, tab: 'repaso', sinTabs: true, sinGlosario: true, html,
     derecha: `<button class="link" data-act="salir">Salir</button>`,
     despues() {
       if (!S.inmediato) reloj = setInterval(() => { const el = $('#reloj'); if (el) el.textContent = fmtTiempo(Date.now() - S.t0); }, 1000);
@@ -822,7 +829,7 @@ function vistaResultados() {
       <a class="btn" href="${S.volver}">Volver</a>
     </div>
     ${revisar.length ? `<h3 class="sub">Para revisar</h3>${lista}` : '<p class="muted">¡Sin fallos! 🎉</p>'}`;
-  return { titulo: 'Resultado', volver: S.volver, tab: 'repaso', html };
+  return { titulo: 'Resultado', volver: S.volver, tab: 'repaso', sinGlosario: true, html };
 }
 
 // ---------------------------------------------------------------- glosario
@@ -837,7 +844,7 @@ function vistaGlosario(abrir) {
   const html = `<div class="buscador"><input id="q" type="search" placeholder="Buscar: mayoría absoluta, desconcentración…" autocomplete="off" aria-label="Buscar en el glosario"></div>
     <p class="tiny muted" id="gl-n">${lista.length} términos</p><div id="gl-lista">${lista.map(item).join('')}</div>`;
   return {
-    titulo: 'Glosario', tab: 'glosario', html,
+    titulo: 'Glosario', tab: 'glosario', sinGlosario: true, html,
     despues() {
       const inp = $('#q');
       inp.addEventListener('input', () => {
@@ -868,11 +875,102 @@ function abrirTermino(id) {
     </div>`;
   sheet.hidden = false;
   document.body.classList.add('noscroll');
+  autoglos.enlazar(sheet.querySelector('.sheet-p'), { excluirId: id });
 }
 function cerrarHoja() {
   sheet.hidden = true;
   sheet.innerHTML = '';
   document.body.classList.remove('noscroll');
+}
+
+// ---------------------------------------------------------------- guía de uso
+function vistaGuia() {
+  try { localStorage.setItem('estudani.guia', '1'); } catch {}
+  const sec = (ico, titulo, cuerpo, abierta) => `<details class="card guia" ${abierta ? 'open' : ''}><summary><b>${ico} ${titulo}</b></summary>${cuerpo}</details>`;
+  const html = `
+    <section class="card">
+      <h3>La idea en una frase</h3>
+      <p>EstuDani te <strong>enseña cada tema desde cero</strong> y después te <strong>hace repasarlo justo antes de olvidarlo</strong>. No hace falta decidir qué estudiar cada día: la app te lo va diciendo.</p>
+    </section>
+
+    ${sec('🗓️', 'Tu rutina diaria (30 a 45 minutos)', `
+      <ol class="pasos">
+        <li><b>Repaso de hoy.</b> Siempre lo primero. Está en <em>Inicio</em> y en <em>Test</em>. Son las preguntas que toca recordar hoy y unas pocas nuevas. Si hoy no hay nada, lo dice.</li>
+        <li><b>Una lección nueva.</b> En <em>Inicio</em>, la tarjeta «Sigue donde lo dejaste» te lleva al siguiente epígrafe. Léelo con calma, prueba las tarjetas de memoria y pulsa <em>Marcar como estudiado</em>.</li>
+        <li><b>El test de ese epígrafe.</b> Al final de la lección tienes «Test de este epígrafe». Con corrección inmediata: aprendes mientras fallas.</li>
+        <li><b>5 minutos de refuerzo.</b> Pulsa «Reforzar» en el Inicio (te propone los temas donde peor vas) o «Mis fallos» en <em>Test</em>.</li>
+      </ol>
+      <p class="tiny muted">Lo importante es la constancia: 30 minutos cada día rinden más que 4 horas un solo día. La racha de días seguidos te lo recuerda.</p>`, true)}
+
+    ${sec('📆', 'Rutina semanal y de examen', `
+      <ul>
+        <li><b>Un día a la semana:</b> un <em>Simulacro</em> (20 preguntas, con cronómetro y sin corrección hasta el final). Es el único modo que se parece al examen.</li>
+        <li><b>Cada dos semanas:</b> la <em>Prueba oficial real</em> completa (en <em>Test</em>) y los supuestos prácticos.</li>
+        <li><b>Mirando el calendario:</b> cuando se acerque el examen, deja de estudiar temas nuevos y dedica los últimos días a Repaso, Mis fallos y Simulacros.</li>
+      </ul>`)}
+
+    ${sec('🏠', 'Inicio', `
+      <ul>
+        <li><b>Repaso de hoy:</b> cuántas preguntas tienes pendientes y nuevas.</li>
+        <li><b>Te conviene reforzar:</b> los 3 temas donde menos aciertas.</li>
+        <li><b>Sigue donde lo dejaste:</b> el siguiente epígrafe por estudiar.</li>
+        <li><b>Días seguidos, respondidas hoy y acierto:</b> tu ritmo.</li>
+      </ul>`)}
+
+    ${sec('📚', 'Temas', `
+      <p>Los 20 temas del programa. Al abrir uno verás cuatro pestañas:</p>
+      <ul>
+        <li><b>Lección:</b> los epígrafes en orden. Cada uno trae la explicación desde cero, «Debes dominar», ejemplos, trampas, tarjetas de memoria y, abajo, <em>Artículo por artículo</em> con el texto oficial literal y una explicación sencilla.</li>
+        <li><b>Mapa:</b> el tema entero en un esquema visual. Con «Modo recordar» se tapan las respuestas para que te pruebes.</li>
+        <li><b>Asociar:</b> te damos 2 o 3 pistas y tú dices de qué idea son. Es el atajo mental para el examen.</li>
+        <li><b>Test:</b> preguntas de ese tema, por epígrafes o completas.</li>
+      </ul>
+      <p class="tiny muted">Marca cada epígrafe como estudiado al terminarlo: así empieza a entrar en tu repaso diario.</p>`)}
+
+    ${sec('✅', 'Test (los distintos modos)', `
+      <ul>
+        <li><b>Repaso de hoy:</b> repaso espaciado. Si aciertas una pregunta, tarda más en volver; si fallas, vuelve pronto. Es lo que más rinde por minuto.</li>
+        <li><b>Elegir temas:</b> en esta misma pantalla decides qué temas entran en el repaso (por defecto, los que ya estudiaste).</li>
+        <li><b>Test rápido:</b> 10 preguntas mezcladas con corrección inmediata. Para 5 minutos.</li>
+        <li><b>Simulacro:</b> 20 preguntas sin corrección hasta el final, con cronómetro y <b>penalización por fallo</b>. Practica cuándo dejar en blanco.</li>
+        <li><b>Prueba oficial real:</b> preguntas del examen del Ayuntamiento con su plantilla de respuestas, y los supuestos prácticos.</li>
+        <li><b>Asociar ideas:</b> las pistas y el atajo mental.</li>
+        <li><b>Solo trampas:</b> las preguntas que juegan con detalles (plazos, mayorías, «excepto»).</li>
+        <li><b>Solo nivel alto:</b> las más difíciles. Úsalo cuando ya domines lo básico.</li>
+        <li><b>Mis fallos:</b> todo lo que has fallado la última vez.</li>
+      </ul>`)}
+
+    ${sec('📖', 'Glosario y palabras subrayadas', `
+      <p>Las palabras con <span class="term">subrayado de puntos</span> están en el glosario. <strong>Tócalas</strong> y se abre una ficha con qué significan, un ejemplo y la ley donde sale. Funciona en toda la app, menos en las preguntas (para no darte pistas).</p>
+      <p>En la pestaña <em>Glosario</em> las tienes todas ordenadas, con buscador. Si no entiendes un verbo del examen («impugnar», «subsanar», «incoar»…), búscalo ahí.</p>`)}
+
+    ${sec('⚙️', 'Más (ajustes)', `
+      <ul>
+        <li><b>Penalización por fallo:</b> cuánto resta cada error en simulacros y en la prueba oficial. Mientras no se confirme la oficial, usa 1/3.</li>
+        <li><b>Copia de seguridad:</b> tu progreso está solo en este móvil. Descarga una copia de vez en cuando y guárdala en iCloud o mándatela.</li>
+        <li><b>Reportes:</b> si ves una pregunta con error o algo del temario que no cuadra, díselo a la app con «⚑ Reportar». Luego los envías todos juntos desde aquí.</li>
+        <li><b>Instalar como app:</b> en iPhone, Compartir y «Añadir a pantalla de inicio». Funciona sin conexión.</li>
+      </ul>`)}
+
+    ${sec('🔎', 'Qué significan las marcas', `
+      <ul>
+        <li>⭐ <b>Preguntado en la prueba oficial:</b> ese artículo ya ha salido en un examen del Ayuntamiento. Presta atención doble.</li>
+        <li>🟠 <b>Añadido por cobertura:</b> no ha salido todavía, pero podría salir.</li>
+        <li><b>Trampa:</b> la pregunta se apoya en un detalle fácil de confundir.</li>
+        <li><b>Nivel 1, 2 o 3:</b> dificultad de la pregunta.</li>
+        <li>⚪ 🔴 🟡 🟢 <b>Dominio:</b> sin practicar, flojo, en camino o dominado.</li>
+      </ul>`)}
+
+    ${sec('🎯', 'Trucos para el examen', `
+      <ul>
+        <li><b>Los errores restan y en blanco no.</b> Si no tienes ni idea, déjala en blanco. Si descartas una opción, merece la pena arriesgar.</li>
+        <li><b>Lee el enunciado hasta el final:</b> «excepto», «no» y «incorrecta» cambian la respuesta.</li>
+        <li><b>Fíjate en plazos, mayorías y quién decide:</b> es donde más trampas hay.</li>
+        <li><b>Cuando falles, lee la explicación</b> y el artículo que cita: es lo que de verdad enseña.</li>
+      </ul>`)}
+
+    <p class="tiny" style="text-align:center"><button class="link" data-act="reportar">⚑ ¿Algo no se entiende? Reportar</button></p>`;
+  return { titulo: 'Cómo usar la app', volver: '#/', tab: 'inicio', sinGlosario: true, html };
 }
 
 // ---------------------------------------------------------------- reportes
@@ -976,6 +1074,7 @@ function vistaAjustes() {
         <ul class="tiny">${store.reportes().map((r) => `<li>${esc(r.tipo)}: ${esc(r.texto.slice(0, 70))}${r.texto.length > 70 ? '…' : ''}</li>`).join('')}</ul>
         <div class="acciones"><button class="btn small" data-act="rep-compartir">Enviar</button><button class="btn small" data-act="rep-copiar">Copiar texto</button><button class="btn small" data-act="rep-vaciar">Vaciar lista</button></div>` : ''}
       ${store.ocultas().length ? `<p class="tiny">Tienes <b>${store.ocultas().length}</b> pregunta(s) ocultas en este móvil. <button class="link" data-act="des-ocultar">Volver a mostrarlas</button></p>` : ''}</section>
+    <section class="card"><h3>Cómo usar la app</h3><p class="muted tiny">Para qué sirve cada sección y una rutina de estudio recomendada.</p><a class="btn small" href="#/guia">Abrir la guía</a></section>
     <section class="card"><h3>Instalar como app</h3>
       <p class="muted tiny"><b>iPhone (Safari):</b> toca Compartir ⎙ → «Añadir a pantalla de inicio». Se abrirá a pantalla completa y funcionará sin conexión.</p></section>
     <section class="card"><h3>Sobre el contenido</h3>
@@ -984,7 +1083,7 @@ function vistaAjustes() {
     <section class="card"><h3>Borrar progreso</h3><button class="btn danger" data-act="borrar">Borrar todo mi progreso</button></section>
     ${store.sinPersistencia() ? '<p class="tiny tr-t">Tu navegador no deja guardar datos: el progreso se perderá al cerrar.</p>' : ''}`;
   return {
-    titulo: 'Más', tab: 'ajustes', html,
+    titulo: 'Más', tab: 'ajustes', sinGlosario: true, html,
     despues() {
       $('#bk').value = store.exportar();
       $('#pen').addEventListener('change', (e) => { store.setAjuste('penalizacion', e.target.value); aviso('Guardado'); });

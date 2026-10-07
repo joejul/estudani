@@ -35,8 +35,6 @@ A={
 ],
 4:[
 ("capacidad-juridica","Capacidad jurídica","Aptitud para ser titular de derechos y obligaciones. Todas las personas la tienen.","Código Civil"),
-("legitimacion-interesado","Legitimación","Relación de una persona con un asunto que le permite actuar en el procedimiento como interesada.","Art. 4 Ley 39/2015"),
-("representacion","Representación","Actuar en nombre de otra persona. Se puede acreditar por escrito, por comparecencia o con apoderamiento apud acta.","Art. 5 Ley 39/2015"),
 ("registro-electronico-apoderamientos","Registro electrónico de apoderamientos","Registro donde se inscriben los poderes para actuar en nombre de otra persona ante la Administración.","Art. 6 Ley 39/2015"),
 ("identificacion-firma","Identificación y firma","Identificarse prueba quién eres; firmar prueba que expresas tu voluntad y consientes un contenido.","Arts. 9 y 10 Ley 39/2015"),
 ("persona-obligada-electronico","Obligados a relacionarse electrónicamente","Personas jurídicas, entidades sin personalidad, profesionales con colegiación obligatoria, empleados públicos y quienes representen a obligados.","Art. 14.2 Ley 39/2015"),
@@ -55,7 +53,6 @@ A={
 ("eficacia-acto","Eficacia de los actos","Los actos producen efectos desde que se dictan, salvo que necesiten notificación, publicación o aprobación superior.","Art. 39 Ley 39/2015"),
 ("ejecutividad","Ejecutividad","Los actos administrativos se pueden cumplir y exigir desde que son eficaces, aunque se recurran, salvo suspensión.","Art. 98 Ley 39/2015"),
 ("retroactividad-acto","Retroactividad de los actos","Excepcionalmente un acto puede surtir efectos desde una fecha anterior si es favorable y los supuestos ya existían.","Art. 39.3 Ley 39/2015"),
-("nulidad-pleno-derecho","Nulidad de pleno derecho","Defecto muy grave del acto (por ejemplo, lesionar derechos fundamentales o dictarlo un órgano manifiestamente incompetente).","Art. 47 Ley 39/2015"),
 ("conservacion-actos","Conservación de actos","Si se anula una parte del acto, el resto se mantiene si es independiente de la parte anulada.","Art. 49 Ley 39/2015"),
 ("forma-actos","Forma de los actos","Los actos se producen por escrito a través de medios electrónicos, salvo que la naturaleza exija otra forma.","Art. 36 Ley 39/2015"),
 ("publicacion-sustitutoria","Publicación","Cuando no se puede notificar o los interesados son indeterminados, se publica en el BOE o en el diario oficial correspondiente.","Art. 44 y 45 Ley 39/2015"),
@@ -74,7 +71,6 @@ A={
 ("revocacion-actos","Revocación","La Administración retira un acto de gravamen o desfavorable por motivos de oportunidad o legalidad, sin ir contra la ley.","Art. 109 Ley 39/2015"),
 ("rectificacion-errores","Rectificación de errores","Corrección de errores materiales, de hecho o aritméticos en un acto, en cualquier momento.","Art. 109.2 Ley 39/2015"),
 ("recurso-extraordinario-revision","Recurso extraordinario de revisión","Recurso excepcional contra actos firmes, solo por causas tasadas (error de hecho, documentos nuevos, falsedad, etc.).","Art. 125 Ley 39/2015"),
-("acto-firme","Acto firme","Acto que ya no admite recurso porque ha pasado el plazo o se han agotado las vías.","Ley 39/2015"),
 ("plazo-recurso-alzada","Plazo del recurso de alzada","Un mes si el acto es expreso; tres meses si no lo es (silencio).","Art. 122 Ley 39/2015"),
 ("suspension-ejecucion","Suspensión de la ejecución","Paralizar temporalmente el cumplimiento del acto recurrido cuando puede causar perjuicios de imposible reparación o es nulo.","Art. 117 Ley 39/2015"),
 ("recurso-potestativo-reposicion","Recurso potestativo de reposición","Recurso que se interpone ante el mismo órgano que dictó el acto, en el plazo de un mes. Es opcional.","Art. 123 Ley 39/2015"),
@@ -114,8 +110,6 @@ A={
 ],
 12:[
 ("recursos-haciendas","Recursos de las haciendas locales","Fuentes de ingresos de las entidades locales: tributos, participación en los del Estado y Comunidad, ingresos patrimoniales y operaciones de crédito.","Art. 2 TRLRHL"),
-("tasa-concepto","Tasa","Tributo que se paga por usar el dominio público o recibir un servicio que beneficia al obligado y que no se presta por el sector privado.","Art. 20 TRLRHL"),
-("precio-publico-local","Precio público local","Contraprestación por servicios que sí pueden prestar los particulares o que se solicitan voluntariamente.","Art. 41 TRLRHL"),
 ("ibi","Impuesto sobre Bienes Inmuebles","Impuesto municipal obligatorio que grava la titularidad de bienes inmuebles.","Art. 60 TRLRHL"),
 ("iae","Impuesto sobre Actividades Económicas","Impuesto municipal obligatorio que grava el ejercicio de actividades económicas.","Art. 78 TRLRHL"),
 ("ivtm","Impuesto sobre Vehículos de Tracción Mecánica","Impuesto municipal obligatorio que grava la titularidad de vehículos aptos para circular.","Art. 92 TRLRHL"),
@@ -166,11 +160,9 @@ A={
 ("jerarquia-local","Jerarquía de las normas locales","Los reglamentos y disposiciones administrativas no pueden vulnerar la Constitución ni las leyes ni regular materias reservadas a la ley.","Art. 128 Ley 39/2015"),
 ("reglamento-organico","Reglamento orgánico","Reglamento que regula la organización y funcionamiento de los órganos municipales.","Art. 20 LBRL"),
 ("consulta-previa","Consulta pública previa","Trámite anterior a elaborar una norma en el que se recoge la opinión de ciudadanos y organizaciones sobre el problema, la necesidad y los objetivos.","Art. 133 Ley 39/2015"),
-("bando-alcaldia","Bando","Disposición del Alcalde para recordar o aplicar normas ya existentes; no crea derecho nuevo.","Art. 21.1 e) LBRL"),
 ("reserva-ley","Reserva de ley","Materias que solo pueden regularse por ley y no por reglamento.","Art. 53.1 CE"),
 ],
 17:[
-("funcionario-carrera-def","Funcionario de carrera","Persona nombrada legalmente que mantiene una relación estatutaria permanente con la Administración.","Art. 9 TREBEP"),
 ("personal-laboral","Personal laboral","Empleados con contrato de trabajo, fijos o temporales.","Art. 11 TREBEP"),
 ("personal-directivo","Personal directivo profesional","Quienes desempeñan funciones directivas profesionales en las Administraciones.","Art. 13 TREBEP"),
 ("derechos-individuales","Derechos individuales","Derechos del empleado público como inamovilidad, carrera profesional, retribuciones, vacaciones y permisos.","Art. 14 TREBEP"),
@@ -202,7 +194,6 @@ A={
 ("retribuciones-basicas","Retribuciones básicas","Sueldo, trienios y pagas extraordinarias.","Art. 23 TREBEP"),
 ("retribuciones-complementarias","Retribuciones complementarias","Complemento de destino, específico, de productividad y gratificaciones.","Art. 24 TREBEP"),
 ("trienio","Trienio","Retribución que se cobra por cada tres años de servicio.","Art. 23 TREBEP"),
-("personal-eventual-local","Personal eventual","Personal de confianza o asesoramiento especial, cuyo nombramiento y cese son libres.","Art. 104 bis LBRL"),
 ("escala-administracion-general","Escala de Administración general","Escala con funciones administrativas comunes, que incluye las subescalas técnica, de gestión, administrativa y auxiliar.","Art. 167 TRRL"),
 ],
 20:[

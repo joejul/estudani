@@ -457,3 +457,13 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 .gl-tipo { font-size: 1rem; font-weight: 600; color: var(--brand-text); background: var(--brand-soft); border-radius: 99px; padding: 1px 9px; margin-left: 6px; white-space: nowrap; }
 
 .z-t { background: var(--warn-soft); border-left: 4px solid var(--warn); border-radius: 8px; padding: 6px 10px; }
+
+/* guía de uso */
+.guia summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 8px; }
+.guia summary::-webkit-details-marker { display: none; }
+.guia summary::after { content: '▾'; color: var(--muted, #888); }
+.guia[open] summary::after { content: '▴'; }
+.guia[open] > summary { margin-bottom: 8px; }
+.guia ul, .guia ol { margin: 6px 0; padding-left: 20px; }
+.guia li { margin: 6px 0; }
+.pasos { counter-reset: p; }
