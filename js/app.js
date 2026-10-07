@@ -115,6 +115,9 @@ function elegible(q) {
   return !!store.infoPregunta(q.id) || !!(e && store.leccionHecha(q.tema, e));
 }
 const idsRepaso = () => D.preguntas.filter(elegible).map((q) => q.id);
+// preguntas de lo que está en estudio: epígrafes marcados como estudiados, preguntas ya vistas o temas activados a mano.
+// Los modos sin tema concreto (rápido, simulacro, trampas, nivel alto) solo sacan de aquí, nunca de artículos que aún no ha estudiado.
+const enEstudio = (q) => elegible(q);
 function hubElegible(h) {
   const ov = store.repasoTema(h.tema);
   if (ov === false) return false;
@@ -572,8 +575,8 @@ function vistaRepaso() {
   const pend = store.pendientesHoy(rep).length;
   const nuevas = Math.min(store.nuevas(rep).length, 10);
   const fallos = store.falladas(ids).length;
-  const trampas = D.preguntas.filter((q) => q.tipo === 'trampa').length;
-  const altas = D.preguntas.filter((q) => q.dif >= 3).length;
+  const trampas = D.preguntas.filter((q) => enEstudio(q) && q.tipo === 'trampa').length;
+  const altas = D.preguntas.filter((q) => enEstudio(q) && q.dif >= 3).length;
   const html = `
     <section class="card"><h3>Repaso espaciado</h3>
       <p class="muted">Las preguntas vuelven justo cuando estás a punto de olvidarlas. Es lo que más rinde por minuto de estudio.</p>
@@ -581,7 +584,7 @@ function vistaRepaso() {
       <button class="btn primary" data-act="empezar" data-modo="repaso" ${pend + nuevas === 0 ? 'disabled' : ''}>Repaso de hoy</button></section>
     ${dominioHtml(true)}
     ${selectorTemas()}
-    <section class="card"><h3>Test rápido</h3><p class="muted">10 preguntas mezcladas, con corrección inmediata. Ideal para 5 minutos.</p>
+    <section class="card"><h3>Test rápido</h3><p class="muted">10 preguntas mezcladas de lo que ya estás estudiando, con corrección inmediata. Ideal para 5 minutos.</p>
       <button class="btn" data-act="empezar" data-modo="rapido">Empezar (10)</button></section>
     <section class="card"><h3>Simulacro tipo examen</h3><p class="muted">Sin corrección hasta el final, con cronómetro y <strong>penalización por fallo</strong>. Practica cuándo dejar en blanco.</p>
       <button class="btn" data-act="empezar" data-modo="simulacro">Simulacro (20)</button></section>
@@ -613,8 +616,8 @@ function empezar(modo, p = {}) {
   let ordenar = false;
   if (modo === 'tema') { pool = D.preguntas.filter(delTema); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
   else if (modo === 'epi') { pool = D.preguntas.filter((q) => delTema(q) && q.epi === p.epi); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
-  else if (modo === 'trampas') { pool = D.preguntas.filter((q) => delTema(q) && q.tipo === 'trampa'); titulo = 'Preguntas trampa'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
-  else if (modo === 'dificiles') { pool = barajar(D.preguntas.filter((q) => delTema(q) && q.dif >= 3)).slice(0, 20); titulo = 'Nivel alto'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
+  else if (modo === 'trampas') { pool = D.preguntas.filter((q) => delTema(q) && enEstudio(q) && q.tipo === 'trampa'); titulo = 'Preguntas trampa'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
+  else if (modo === 'dificiles') { pool = barajar(D.preguntas.filter((q) => delTema(q) && enEstudio(q) && q.dif >= 3)).slice(0, 20); titulo = 'Nivel alto'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
   else if (modo === 'fallos') { const ids = new Set(store.falladas(todasIds())); pool = D.preguntas.filter((q) => ids.has(q.id) && delTema(q)); titulo = 'Mis fallos'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
   else if (modo === 'repaso') {
     const rep = idsRepaso();
@@ -656,9 +659,9 @@ function empezar(modo, p = {}) {
     titulo = modo === 'examen' ? 'Prueba oficial' : 'Prueba oficial (20)'; inmediato = false;
   }
   else if (modo === 'supuesto') { pool = D.examen.sup[+p.n].preguntas.slice(); titulo = `Supuesto ${+p.n + 1}`; inmediato = false; ordenar = true; }
-  else if (modo === 'rapido') { pool = barajar(D.preguntas).slice(0, 10); titulo = 'Test rápido'; }
-  else if (modo === 'simulacro') { pool = barajar(D.preguntas).slice(0, 20); titulo = 'Simulacro'; inmediato = false; }
-  if (!pool.length) return aviso('No hay preguntas para este modo');
+  else if (modo === 'rapido') { pool = barajar(D.preguntas.filter(enEstudio)).slice(0, 10); titulo = 'Test rápido'; }
+  else if (modo === 'simulacro') { pool = barajar(D.preguntas.filter(enEstudio)).slice(0, 20); titulo = 'Simulacro'; inmediato = false; }
+  if (!pool.length) return aviso(['rapido', 'simulacro', 'trampas', 'dificiles'].includes(modo) && !n ? 'Aún no hay preguntas en estudio: marca un epígrafe como estudiado o activa un tema abajo' : 'No hay preguntas para este modo');
   S = {
     modo, titulo, inmediato, volver, i: 0, fin: false, t0: Date.now(),
     items: (ordenar ? pool : barajar(pool)).map((q) => ({ q, orden: barajar(q.o.map((_, i) => i)), sel: undefined, hecho: false })),
@@ -931,7 +934,7 @@ function vistaGuia() {
       <ul>
         <li><b>Repaso de hoy:</b> repaso espaciado. Si aciertas una pregunta, tarda más en volver; si fallas, vuelve pronto. Es lo que más rinde por minuto.</li>
         <li><b>Elegir temas:</b> en esta misma pantalla decides qué temas entran en el repaso (por defecto, los que ya estudiaste).</li>
-        <li><b>Test rápido:</b> 10 preguntas mezcladas con corrección inmediata. Para 5 minutos.</li>
+        <li><b>Test rápido:</b> 10 preguntas mezcladas con corrección inmediata. Para 5 minutos. Los modos mezclados (rápido, simulacro, trampas y nivel alto) solo usan lo que ya has estudiado o activado, nunca artículos que aún no has visto.</li>
         <li><b>Simulacro:</b> 20 preguntas sin corrección hasta el final, con cronómetro y <b>penalización por fallo</b>. Practica cuándo dejar en blanco.</li>
         <li><b>Prueba oficial real:</b> preguntas del examen del Ayuntamiento con su plantilla de respuestas, y los supuestos prácticos.</li>
         <li><b>Asociar ideas:</b> las pistas y el atajo mental.</li>
