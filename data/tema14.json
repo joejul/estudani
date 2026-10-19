@@ -13,7 +13,10 @@
     "Elementos: territorio, población, organización",
     "Término municipal (12)",
     "Alteración de términos (13)",
-    "Padrón y vecinos (15-18)"
+    "Padrón y vecinos (15-18)",
+    "Alteración de términos: Decreto del Consejo de Gobierno CA",
+    "Padrón: prueba residencia, no residencia legal",
+    "Fusión: no segregar en 10 años"
    ],
    "bloques": [
     [
@@ -66,6 +69,44 @@
     [
      "trampa",
      "Cada municipio pertenece a **una sola provincia**. El **padrón** se inscribe donde se reside **más tiempo al año**, no donde se está empadronado el trabajo o la familia."
+    ],
+    [
+     "h",
+     "Concepto, potestades y término municipal"
+    ],
+    [
+     "lista",
+     [
+      "**Constitución:** art. 137 (el Estado se organiza en municipios, provincias y CCAA, todos con autonomía) y **art. 140** (garantiza la autonomía y la personalidad jurídica plena; el gobierno corresponde a los **Ayuntamientos**, con Alcaldes y Concejales; los Concejales los eligen los vecinos por sufragio universal, igual, libre, directo y secreto).",
+      "**Potestades y prerrogativas (art. 4 LBRL, recogido en el ROF art. 4):** reglamentaria y de autoorganización; tributaria y financiera; de programación o planificación; expropiatoria; de investigación, deslinde y recuperación de oficio de sus bienes; presunción de legitimidad y ejecutividad de sus actos; de ejecución forzosa y sancionadora; de revisión de oficio; **inembargabilidad** de sus bienes y derechos, prelaciones y preferencias de la Hacienda Pública; y exención de tributos del Estado y de las CCAA en los términos de la ley.",
+      "**Término municipal (art. 12):** territorio de territorios continuos (con las discontinuidades ya reconocidas). Corresponde al Ayuntamiento dividirlo en **distritos y barrios**. La jurisdicción sobre el territorio **no equivale a propiedad** de las tierras.",
+      "**Alteración (art. 13 LBRL; arts. 3 y ss. TR/86):** puede ser por **incorporación** de uno o más municipios a otros limítrofes, **fusión** de dos o más limítrofes, **segregación** para constituir otro independiente o **segregación para agregar** a otro. **Nunca** puede modificar los límites provinciales. La **resolución final** se hace por **Decreto del Consejo de Gobierno de la Comunidad Autónoma**, del que se da traslado a la Administración del Estado.",
+      "**Creación de municipios (art. 13.2):** solo sobre núcleos de población **territorialmente diferenciados de al menos 4.000 habitantes**, financieramente sostenibles y sin merma de calidad de los servicios.",
+      "**Fusión voluntaria (art. 13.4):** los municipios **colindantes de la misma provincia**, con independencia de su población, pueden fusionarse mediante **convenio de fusión**, aprobado por **mayoría simple** de cada pleno. El nuevo municipio **no puede segregarse** hasta pasados **diez años**, queda dispensado de prestar nuevos servicios mínimos por aumento de población, se subroga en derechos y obligaciones y debe aprobar un nuevo presupuesto. Las Diputaciones, con la CA, coordinan la integración de servicios.",
+      "**Deslinde (art. 10 TR/86):** entre municipios de la misma CA lo resuelve la **Comunidad Autónoma** (previo informe del Instituto Geográfico Nacional y dictamen del órgano consultivo); entre municipios de **distintas CCAA**, la **Administración General del Estado** (art. 50.3 LBRL), con dictamen del Consejo de Estado."
+     ]
+    ],
+    [
+     "h",
+     "Población, vecinos y Padrón"
+    ],
+    [
+     "lista",
+     [
+      "La **población** es el elemento personal: el conjunto de personas **inscritas en el Padrón**, todas **vecinos** (desapareció la distinción entre vecinos, domiciliados y transeúntes). La condición de vecino **se adquiere con la inscripción**.",
+      "**Derechos y deberes (art. 18):** ser elector y elegible; participar en la gestión municipal; utilizar los servicios públicos y acceder a los aprovechamientos comunales; **contribuir** con prestaciones económicas y personales; ser informado y dirigir solicitudes (art. 105 CE); **pedir la consulta popular**; **exigir la prestación del servicio público obligatorio** (art. 26); ejercer la **iniciativa popular** (art. 70 bis); y los demás establecidos en las leyes.",
+      "**Extranjeros (art. 18.2):** su inscripción en el Padrón **no prueba su residencia legal** ni les da derechos que no les confiera la legislación de extranjería.",
+      "**Padrón (art. 16):** es el **registro administrativo donde constan los vecinos**. Sus datos prueban la residencia y el domicilio habitual; las certificaciones son **documento público y fehaciente**. La inscripción solo surte efecto mientras subsista el hecho que la motivó y debe **renovarse cada dos años** para los extranjeros no comunitarios sin autorización de residencia permanente (la **caducidad** se declara sin audiencia previa).",
+      "**Datos obligatorios (art. 16.2):** nombre y apellidos; sexo; domicilio habitual (con referencia catastral); nacionalidad; lugar y fecha de nacimiento; número de DNI o de identidad de extranjero o pasaporte; certificado o título escolar o académico; y los datos necesarios para el Censo Electoral. **Voluntarios:** designación de representante a efectos padronales, teléfono y correo electrónico (**nunca se ceden**).",
+      "**Empadronamiento (art. 15):** obligatorio para quien viva en España, en el municipio donde **resida habitualmente**; si vive en varios, en el que habite **más tiempo al año**. Los menores no emancipados tienen la vecindad de quien tenga su guarda. Personas sin domicilio: se avisa antes a los servicios sociales.",
+      "**Formación y mantenimiento (art. 17):** corresponde al **Ayuntamiento**; las **Diputaciones** asumen la gestión informatizada de los municipios que no puedan. El **INE** coordina y puede acudir a la ejecución sustitutoria si un ayuntamiento no mantiene el Padrón actualizado. Cada año el ayuntamiento aprueba la revisión del Padrón con referencia al **1 de enero**.",
+      "**Consejo de Empadronamiento:** órgano colegiado de colaboración entre la AGE y las entidades locales, presidido por el **Presidente del INE**; funciona en Pleno, Comisión Permanente y Secciones Provinciales. Eleva la propuesta de resolución de discrepancias, **informa con carácter vinculante** las cifras oficiales de población y propone las instrucciones técnicas.",
+      "**Padrón de españoles residentes en el extranjero:** lo forma la AGE con los ayuntamientos. Sus inscritos son vecinos del municipio español de sus datos **únicamente a efectos del derecho de sufragio** y **no cuentan como población** del municipio."
+     ]
+    ],
+    [
+     "trampa",
+     "El **Padrón** prueba la residencia, **no la residencia legal** de un extranjero. Los **españoles en el extranjero** son vecinos **solo para votar**. La resolución final de una alteración de términos se hace por **Decreto del Consejo de Gobierno** autonómico."
     ]
    ],
    "flash": [
@@ -76,6 +117,30 @@
     [
      "¿Dónde debe inscribirse quien vive en varios municipios?",
      "En el que habite durante más tiempo al año (art. 15)."
+    ],
+    [
+     "¿Qué órgano resuelve definitivamente una alteración de términos municipales?",
+     "El Consejo de Gobierno de la Comunidad Autónoma, por decreto."
+    ],
+    [
+     "¿Qué población mínima exige la creación de un nuevo municipio?",
+     "Núcleos territorialmente diferenciados de al menos 4.000 habitantes."
+    ],
+    [
+     "¿Cuánto tiempo no puede segregarse el municipio nacido de una fusión?",
+     "Diez años."
+    ],
+    [
+     "¿Prueba el Padrón la residencia legal de un extranjero?",
+     "No: solo prueba la residencia y el domicilio habitual."
+    ],
+    [
+     "¿Cada cuánto debe renovarse la inscripción de un extranjero no comunitario sin residencia permanente?",
+     "Cada dos años."
+    ],
+    [
+     "¿Para qué efectos son vecinos los españoles residentes en el extranjero?",
+     "Únicamente para el derecho de sufragio."
     ]
    ],
    "esquema": [
@@ -193,6 +258,206 @@
    ]
   },
   {
+   "id": "e4",
+   "titulo": "Organización del municipio en régimen común",
+   "subtitulo": "Alcalde, Pleno, Junta de Gobierno Local y órganos complementarios",
+   "clave": [
+    "Siempre existen: Alcalde, Tenientes de Alcalde y Pleno (art. 20)",
+    "Junta de Gobierno Local: más de 5.000 habitantes",
+    "Comisión Especial de Cuentas: en todos",
+    "Moción de censura y cuestión de confianza (LOREG 197 y 197 bis)",
+    "Concejo abierto (art. 29)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Esta es la organización de **cualquier municipio** que no sea de gran población (en estos se aplica el Título X, que veremos después). El gobierno y la administración corresponden al **Ayuntamiento**, formado por el **Alcalde y los Concejales** (art. 19 LBRL). Los Concejales se eligen por **sufragio universal, igual, libre, directo y secreto**; el Alcalde, por los Concejales o por los vecinos, según la legislación electoral."
+    ],
+    [
+     "h",
+     "Órganos que existen según el art. 20 LBRL"
+    ],
+    [
+     "tabla",
+     [
+      "Órgano",
+      "Cuándo existe"
+     ],
+     [
+      [
+       "**Alcalde, Tenientes de Alcalde y Pleno**",
+       "En **todos** los Ayuntamientos."
+      ],
+      [
+       "**Junta de Gobierno Local**",
+       "En los municipios de **más de 5.000 habitantes** y, en los de menos, cuando lo disponga su Reglamento orgánico o lo acuerde el Pleno."
+      ],
+      [
+       "**Órganos de estudio, informe y consulta** (comisiones informativas)",
+       "En los de más de 5.000 habitantes (y en los menores si lo dispone su reglamento o lo acuerda el Pleno), si la ley autonómica no prevé otra cosa. Participan **todos los grupos políticos**, en proporción a sus concejales."
+      ],
+      [
+       "**Comisión Especial de Sugerencias y Reclamaciones**",
+       "En los de **gran población** (Título X) y en los demás si el Pleno lo acuerda por **mayoría absoluta** del número legal o lo dispone su Reglamento orgánico."
+      ],
+      [
+       "**Comisión Especial de Cuentas**",
+       "En **todos** los municipios."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "El Alcalde"
+    ],
+    [
+     "lista",
+     [
+      "**Elección (art. 196 LOREG):** en la sesión de constitución de la Corporación. Pueden ser candidatos los Concejales que **encabecen las listas**. Si uno obtiene la **mayoría absoluta** de los votos de los Concejales, queda proclamado; si no, lo es el **cabeza de la lista más votada** en las elecciones. En caso de empate, **sorteo**. En los municipios de **100 a 250 habitantes** pueden ser candidatos **todos los Concejales**.",
+      "**Antes de ejercer** debe **jurar o prometer** el cargo ante el Ayuntamiento (art. 18 del Texto Refundido de 1986).",
+      "**Tratamiento:** Excelencia para los Alcaldes de **Madrid y Barcelona**, Ilustrísima para los de las demás **capitales de provincia**, Señoría para el resto (art. 19 TR/86 y 33 ROF). Su mandato es de **cuatro años**, salvo moción de censura o cuestión de confianza.",
+      "**Atribuciones (art. 21):** dirigir el gobierno y la administración; representar al ayuntamiento; convocar y presidir Pleno y Junta de Gobierno Local y **decidir empates con voto de calidad**; dirigir, inspeccionar e impulsar servicios y obras; **dictar bandos**; gestión económica y **disponer gastos** (concertar operaciones de crédito hasta el **10 %** de los recursos ordinarios y las de tesorería hasta el **15 %**, con los límites del TRLRHL); aprobar la **oferta de empleo público** y las bases de selección; **jefatura superior del personal** y de la **Policía Municipal**; aprobar instrumentos de planeamiento de desarrollo y de gestión urbanística; **ejercer acciones judiciales y administrativas** (en urgencia, de competencia del Pleno, dando cuenta); **adoptar medidas personalmente en catástrofes** o infortunios públicos, dando cuenta inmediata al Pleno; **sancionar** faltas de desobediencia e infracciones de ordenanzas; **otorgar licencias** (salvo que la ley sectorial lo atribuya al Pleno o a la Junta de Gobierno Local); y **nombrar a los Tenientes de Alcalde**.",
+      "**No es delegable (art. 21.3):** convocar y presidir Pleno y Junta de Gobierno Local, decidir empates con el voto de calidad, concertar operaciones de crédito, la jefatura superior de todo el personal, la separación del servicio de funcionarios y el despido del personal laboral, y las de los párrafos a), e), j), k), l) y m). Sí puede delegar en la Junta de Gobierno Local las del párrafo j).",
+      "En cada sesión **ordinaria** del Pleno el Alcalde da cuenta de las resoluciones que haya adoptado desde la última (art. 42 ROF)."
+     ]
+    ],
+    [
+     "h",
+     "Moción de censura (art. 197 LOREG)"
+    ],
+    [
+     "lista",
+     [
+      "Debe proponerla, **al menos, la mayoría absoluta del número legal** de miembros de la Corporación e incluir un **candidato a la Alcaldía** (cualquier concejal que acepte expresamente). Si entre los firmantes hay concejales que son o han sido del grupo del Alcalde, la mayoría exigida aumenta en el mismo número.",
+      "El escrito se firma con **firmas autenticadas por Notario o por el Secretario**, quien comprueba los requisitos y extiende diligencia; se presenta en el **Registro General** y el Pleno queda convocado **automáticamente a las 12 horas del décimo día hábil** siguiente.",
+      "Preside una **Mesa de edad** (concejales de mayor y menor edad, sin el Alcalde ni el candidato). Se limita a leer la moción, comprobar los requisitos y someterla a votación.",
+      "Ningún concejal puede firmar **más de una moción** durante su mandato. La dimisión sobrevenida del Alcalde **no suspende** la tramitación. El Alcalde debe facilitar la asistencia y el voto."
+     ]
+    ],
+    [
+     "h",
+     "Cuestión de confianza (art. 197 bis LOREG)"
+    ],
+    [
+     "lista",
+     [
+      "Puede plantearla el Alcalde ligada a: **presupuestos anuales, reglamento orgánico, ordenanzas fiscales o aprobación que ponga fin a la tramitación del planeamiento general**. Requiere votación **nominal** y que antes el asunto se haya debatido y **no haya obtenido la mayoría necesaria**.",
+      "Si **no obtiene** la mayoría necesaria, el Alcalde **cesa automáticamente** y queda en funciones; la elección del nuevo se hace en sesión convocada para las **12 horas del décimo día hábil** siguiente. Si es de **presupuestos**, se entiende otorgada la confianza si en **un mes** no se presenta una moción de censura con candidato alternativo.",
+      "Límites: **una al año** y **dos por mandato**; **ninguna en el último año** de mandato; no durante una moción de censura. Los concejales que voten a favor no pueden firmar una moción de censura contra ese Alcalde en **seis meses**."
+     ]
+    ],
+    [
+     "h",
+     "El Pleno (art. 22)"
+    ],
+    [
+     "lista",
+     [
+      "Lo integran **todos los Concejales** y lo preside el Alcalde.",
+      "**Número de concejales (art. 179 LOREG):** hasta 100 residentes: 3; 101-250: 5; 251-1.000: 7; 1.001-2.000: 9; 2.001-5.000: 11; 5.001-10.000: 13; 10.001-20.000: 17; 20.001-50.000: 21; 50.001-100.000: 25; a partir de 100.001, **uno más por cada 100.000** o fracción, añadiendo **uno más si el resultado es par**.",
+      "**Atribuciones:** control y fiscalización de los órganos de gobierno; acuerdos sobre organizaciones supramunicipales, **alteración del término municipal**, creación o supresión de municipios y entidades inferiores, capitalidad, nombre y símbolos; **aprobación inicial del planeamiento general**; **reglamento orgánico y ordenanzas**; **recursos tributarios propios**, **presupuestos**, cuentas y gastos de su competencia; **formas de gestión de los servicios**; aceptar delegaciones; plantear **conflictos de competencias**; **plantilla** y relación de puestos de trabajo; **declaración de lesividad**; **alteración de la calificación jurídica de bienes**; operaciones de crédito que excedan del 10 % de los recursos ordinarios o del 15 % de ingresos corrientes en las de tesorería; y **moción de censura** y cuestión de confianza (votación pública y nominal).",
+      "**Delegación:** puede delegar en el Alcalde y la Junta de Gobierno Local, **salvo** las del art. 22.2 a), b), c), d), e), f), g), h), i), l) y p) y el apartado 3."
+     ]
+    ],
+    [
+     "h",
+     "Junta de Gobierno Local y Tenientes de Alcalde (art. 23)"
+    ],
+    [
+     "lista",
+     [
+      "La integran el Alcalde y **concejales en número no superior a un tercio** del número legal, **nombrados y separados libremente** por él, dando cuenta al Pleno. Le corresponde **asistir al Alcalde** y ejercer las atribuciones que este u otro órgano le **delegue** o le atribuyan las leyes.",
+      "Los **Tenientes de Alcalde** sustituyen al Alcalde **por el orden de nombramiento** en vacante, ausencia o enfermedad; los designa y remueve libremente entre los miembros de la Junta de Gobierno Local (y, donde no exista, entre los concejales). Su número no puede exceder del de miembros de la Junta (o, sin ella, de **un tercio** del número legal de concejales). El cargo se pierde por **cese, renuncia expresa por escrito** o pérdida de la condición de miembro de la Junta.",
+      "Los nombramientos y ceses se hacen por **resolución del Alcalde**, de la que da cuenta al Pleno en la primera sesión; se notifican personalmente y se publican en el **boletín oficial de la provincia**, con efecto desde el día siguiente a la firma salvo que se disponga otra cosa."
+     ]
+    ],
+    [
+     "h",
+     "Órganos complementarios (art. 119 ROF)"
+    ],
+    [
+     "lista",
+     [
+      "**Concejales delegados**, **comisiones informativas** (permanentes o especiales; solo concejales; dictámenes **preceptivos y no vinculantes**; el Alcalde es presidente nato y su composición es **proporcional**), **Comisión Especial de Cuentas**, **consejos sectoriales** (participación ciudadana; los preside un miembro de la Corporación), **órganos desconcentrados y descentralizados**, **representantes personales del Alcalde en poblados y barriadas** y **Juntas Municipales de Distrito**.",
+      "**Comisión Especial de Cuentas:** examina, estudia e informa **todas las cuentas** (presupuestarias y extrapresupuestarias) que deba aprobar el Pleno; puede actuar como comisión informativa permanente de Economía y Hacienda.",
+      "**Juntas Municipales de Distrito (art. 24 LBRL):** órganos territoriales de gestión desconcentrada creados por el **Pleno**. **Entes inferiores al municipio sin personalidad (art. 24 bis):** los regulan las leyes autonómicas (barrios, pedanías…); la iniciativa es de la población o del ayuntamiento, que debe ser oído."
+     ]
+    ],
+    [
+     "h",
+     "Concejo abierto (art. 29)"
+    ],
+    [
+     "lista",
+     [
+      "Funcionan así los municipios que **tradicional y voluntariamente** lo tengan y aquellos en los que su localización geográfica u otras circunstancias lo aconsejen. Para esto último hace falta petición de la mayoría de los vecinos, decisión favorable por **mayoría de dos tercios** de los miembros del Ayuntamiento y aprobación de la Comunidad Autónoma.",
+      "El gobierno y la administración corresponden a un **Alcalde y una Asamblea vecinal** formada por todos los electores. Los alcaldes de municipios de **menos de 100 residentes** pueden convocar Concejo Abierto para decisiones de especial trascendencia y deben atenerse al criterio de la Asamblea."
+     ]
+    ],
+    [
+     "h",
+     "Conflictos de atribuciones entre órganos (art. 50)"
+    ],
+    [
+     "p",
+     "Los conflictos entre órganos y entidades de **una misma Corporación** los resuelve el **Pleno** si afectan a órganos colegiados o entidades inferiores al municipio, y el **Presidente de la Corporación** en los demás casos."
+    ],
+    [
+     "trampa",
+     "La **Junta de Gobierno Local** es obligatoria en municipios de **más de 5.000 habitantes**; la **Comisión Especial de Cuentas** existe **en todos**. El Alcalde **no puede delegar** convocar y presidir ni el voto de calidad. La **moción de censura** necesita la **mayoría absoluta**; el Pleno se reúne el **décimo día hábil**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué órganos existen en todos los Ayuntamientos según el art. 20 LBRL?",
+     "El Alcalde, los Tenientes de Alcalde y el Pleno (y la Comisión Especial de Cuentas)."
+    ],
+    [
+     "¿A partir de qué población es obligatoria la Junta de Gobierno Local?",
+     "Más de 5.000 habitantes."
+    ],
+    [
+     "¿Qué mayoría necesita proponer una moción de censura al Alcalde?",
+     "La mayoría absoluta del número legal de miembros de la Corporación, con un candidato a la Alcaldía."
+    ],
+    [
+     "¿Cuándo se reúne el Pleno para votar una moción de censura?",
+     "A las 12 horas del décimo día hábil siguiente al registro."
+    ],
+    [
+     "¿Cuántas cuestiones de confianza puede plantear un Alcalde?",
+     "Una al año y dos por mandato, y ninguna en el último año."
+    ],
+    [
+     "¿Cómo se eligen los concejales a partir de 100.001 residentes?",
+     "25 más uno por cada 100.000 residentes o fracción, añadiendo uno más si el resultado es par."
+    ],
+    [
+     "¿Quién resuelve un conflicto de atribuciones entre órganos colegiados de la misma Corporación?",
+     "El Pleno."
+    ]
+   ],
+   "esquema": [
+    "Obligatorios: Alcalde · Tenientes · Pleno · Comisión de Cuentas",
+    "JGL: más de 5.000 habitantes",
+    "Moción de censura: mayoría absoluta · décimo día hábil",
+    "Cuestión de confianza: 1 al año, 2 por mandato"
+   ],
+   "ic": "🏛️",
+   "articulos": [
+    [
+     "lbrl",
+     "29",
+     "Concejo abierto",
+     "Funcionan en **concejo abierto** los municipios que lo tienen por tradición y los que lo adopten por su localización geográfica u otras circunstancias (con petición de la **mayoría de los vecinos**, **dos tercios** del Ayuntamiento y aprobación de la Comunidad Autónoma). El gobierno corresponde a un **Alcalde y una Asamblea vecinal**.",
+     "¿Qué mayoría del Ayuntamiento exige adoptar el concejo abierto por razones geográficas?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
    "id": "e1",
    "titulo": "Competencias y servicios mínimos",
    "subtitulo": "Arts. 25 a 28 LBRL",
@@ -250,6 +515,48 @@
     [
      "trampa",
      "**Biblioteca pública: más de 5.000 habitantes** (examen 2025). **Protección civil e incendios: más de 20.000.** **Transporte colectivo: más de 50.000.** Y la delegación dura **mínimo cinco años**."
+    ],
+    [
+     "h",
+     "Clases de competencias (art. 7) y requisitos"
+    ],
+    [
+     "lista",
+     [
+      "Las competencias de las Entidades Locales son **propias** o **atribuidas por delegación** (art. 7.1). Las propias **solo pueden fijarse por ley** y se ejercen **en régimen de autonomía y bajo la propia responsabilidad**, coordinadas con las demás Administraciones.",
+      "El Estado y las CCAA pueden **delegar** competencias en las Entidades Locales (art. 27); la delegación fija sus **técnicas de dirección y control**.",
+      "**Competencias distintas de las propias y delegadas (art. 7.4):** solo cuando no se ponga en riesgo la **sostenibilidad financiera**, no haya **ejecución simultánea** del mismo servicio con otra Administración y se cuente con **informes previos y vinculantes** de la Administración competente (inexistencia de duplicidades) y de la que tutele la sostenibilidad financiera.",
+      "**Art. 28:** la LRSAL **derogó** la posibilidad de que los municipios ejercieran «actividades complementarias» en educación, cultura, promoción de la mujer, vivienda, sanidad y medio ambiente.",
+      "**Art. 25.3 a 6:** la ley que atribuya competencias propias debe evaluar la conveniencia de implantar servicios locales conforme a los principios de **descentralización, eficiencia, estabilidad y sostenibilidad**; ir acompañada de una **memoria económica**; prever la **dotación de recursos**; garantizar que **no se atribuye la misma competencia a otra Administración**; y ponderar la **capacidad de gestión** del ente local (principio de diferenciación). Los proyectos de ley estatales llevan un **informe del Ministerio de Hacienda**."
+     ]
+    ],
+    [
+     "h",
+     "Materias de las competencias propias (art. 25.2) en detalle"
+    ],
+    [
+     "lista",
+     [
+      "**a** urbanismo, patrimonio histórico y vivienda protegida · **b** medio ambiente urbano · **c** agua y aguas residuales · **d** infraestructura viaria · **e** evaluación e información de situaciones de necesidad social · **f** policía local, protección civil, incendios · **g** tráfico y transporte colectivo urbano · **h** turismo · **i** ferias, abastos, mercados, lonjas y comercio ambulante · **j** salubridad pública · **k** cementerios y actividades funerarias · **l** deporte · **m** promoción de la cultura · **n** participar en la **vigilancia del cumplimiento de la escolaridad obligatoria** y conservar los **centros públicos de educación infantil, primaria y especial** · **ñ** promoción de las TIC · **o** igualdad y violencia de género (añadida en 2018) · **p** comunidades de energías renovables (añadida con posterioridad)."
+     ]
+    ],
+    [
+     "h",
+     "Servicios mínimos: detalle del art. 26"
+    ],
+    [
+     "lista",
+     [
+      "**Todos:** alumbrado, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua, alcantarillado, acceso a los núcleos de población y pavimentación.",
+      "**Más de 5.000:** parque público, biblioteca pública y tratamiento de residuos. **Más de 20.000:** protección civil, evaluación e información de necesidad social y atención inmediata, prevención y extinción de incendios, instalaciones deportivas de uso público. **Más de 50.000:** transporte colectivo urbano de viajeros y medio ambiente urbano.",
+      "**Menos de 20.000 (art. 26.2):** la **Diputación** coordina residuos, agua, limpieza viaria, acceso, pavimentación y alumbrado, proponiendo al Ministerio de Hacienda la fórmula (consorcios, mancomunidades…). El municipio puede asumirlos si justifica un **coste efectivo menor**. La STC 111/2016 declaró inconstitucionales algunos incisos de este apartado.",
+      "La asistencia de las Diputaciones (art. 36) se dirige **preferentemente** al establecimiento y prestación de los servicios mínimos.",
+      "**Conflictos de competencias entre entidades locales (art. 50.2):** los resuelve la Administración de la **Comunidad Autónoma o del Estado**, previo informe del órgano consultivo, sin perjuicio del recurso contencioso-administrativo."
+     ]
+    ],
+    [
+     "trampa",
+     "El **art. 28 fue derogado** por la LRSAL; la **STC 111/2016** anuló parte del art. 26.2; y las competencias **propias** solo las determina una **ley**."
     ]
    ],
    "flash": [
@@ -264,6 +571,18 @@
     [
      "¿Qué servicios obligan a partir de 50.000 habitantes?",
      "Transporte colectivo urbano de viajeros y medio ambiente urbano (26.1.d)."
+    ],
+    [
+     "¿Qué dos clases de competencias distingue el art. 7 LBRL?",
+     "Propias y atribuidas por delegación."
+    ],
+    [
+     "¿Qué debe acompañar a la ley que atribuye competencias propias a los municipios?",
+     "Una memoria económica y la dotación de recursos necesarios."
+    ],
+    [
+     "¿Qué sentencia declaró inconstitucionales incisos del art. 26.2 LBRL?",
+     "La STC 111/2016, de 9 de junio."
     ]
    ],
    "esquema": [
@@ -381,6 +700,29 @@
     [
      "trampa",
      "El proyecto de presupuesto lo aprueba la **Junta de Gobierno Local**, no el Pleno (examen 2025). La JGL: **máximo un tercio** del Pleno. El órgano de **máxima representación política** es el **Pleno**, no el Alcalde."
+    ],
+    [
+     "h",
+     "Gran población: cómo se aplica y qué órganos hay"
+    ],
+    [
+     "lista",
+     [
+      "Las normas del Título X **prevalecen** sobre las demás de igual o inferior rango (DA 11.ª). Si cambia la población, la nueva corporación tiene **seis meses** desde su constitución para adaptar la organización. Se usa la **cifra oficial del padrón con referencia al 1 de enero del año anterior** al inicio del mandato. Un municipio que ya lo es **sigue rigiéndose por el Título X** aunque baje de población.",
+      "**Pleno (art. 122):** formado por el Alcalde y los Concejales, es el **órgano de máxima representación política** de los ciudadanos. Lo convoca y preside el Alcalde (que **solo puede delegar convocatoria y presidencia** en un concejal) y decide con **voto de calidad**. Tiene **reglamento orgánico propio**, **secretario general** y **comisiones** formadas proporcionalmente por los grupos, que estudian los asuntos, hacen el **seguimiento de la gestión del Alcalde** y ejercen lo que el Pleno les delegue. El secretario general del Pleno es un funcionario de **habilitación nacional** (actas, certificaciones, asesoramiento legal preceptivo en los casos del art. 122.5.e).",
+      "**Atribuciones del Pleno (art. 123):** control de los órganos de gobierno; moción de censura y cuestión de confianza; **reglamentos orgánicos** (regulación del Pleno, del Consejo Social, de la Comisión de Sugerencias, de los órganos complementarios, división en **distritos**, niveles esenciales de la organización y órgano de reclamaciones económico-administrativas); ordenanzas; término municipal y símbolos; organizaciones supramunicipales; recursos tributarios; **presupuestos, plantilla y cuenta general**; planeamiento general; transferencia y aceptación de **delegaciones**; **forma de gestión de los servicios**; revisión de oficio; régimen retributivo de los miembros; conflictos de competencias; e iniciativa para ser declarado de gran población.",
+      "**Mayoría absoluta** del número legal para los acuerdos de los párrafos **c), e), f), j) y o)** del art. 123.1 y los de planeamiento general; los demás, mayoría simple. **Delegables** solo en las comisiones los párrafos **d), k), m) y ñ)**.",
+      "**Alcalde (art. 124):** máxima representación del municipio, responsable de su gestión política ante el Pleno, tratamiento de **Excelencia**. Dirige la política, el gobierno y la administración; **nombra y cesa a los Tenientes de Alcalde y a los presidentes de los distritos**; dicta **bandos, decretos e instrucciones**; ejerce la **superior dirección del personal** y la jefatura de la Policía Municipal; **establece la organización de la Administración ejecutiva**; adopta medidas en casos de **extraordinaria y urgente necesidad** dando cuenta al Pleno; y autoriza y dispone gastos. Puede **delegar mediante decreto** en la Junta de Gobierno Local, sus miembros, concejales y directivos, **salvo** los párrafos b), e), h) y j), la convocatoria y presidencia de la Junta, el voto de calidad y los bandos; las de los párrafos c) y k) solo en la Junta.",
+      "**Tenientes de Alcalde (art. 125):** los nombra entre los miembros de la Junta de Gobierno Local; tratamiento de **Ilustrísima**.",
+      "**Junta de Gobierno Local (arts. 126 y 127):** bajo la presidencia del Alcalde, ejerce las **funciones ejecutivas y administrativas**; nombra y separa libremente a sus miembros, **no más de un tercio** del Pleno (todos concejales, tras la **STC 103/2013**). **Responde políticamente ante el Pleno de forma solidaria**; su secretario es un concejal designado por el Alcalde, apoyado por un órgano de habilitación nacional; sus deliberaciones son **secretas**. Aprueba los **proyectos de ordenanzas y reglamentos**, el **proyecto de presupuesto**, los proyectos de instrumentos de ordenación urbanística, **concede licencias**, aprueba la RPT, la oferta de empleo y las bases de selección, ejerce la potestad sancionadora y designa representantes en entes participados.",
+      "**Distritos (art. 128):** son obligatorios, creados por el **Pleno**, presididos siempre por un **concejal**, con un **porcentaje mínimo de recursos** fijado en norma orgánica. **Asesoría Jurídica (art. 129):** titular nombrado y separado por la Junta de Gobierno Local entre funcionarios que cumplan los requisitos. **Órganos directivos (art. 130):** coordinadores generales, directores generales, titular del órgano de apoyo a la Junta, de la asesoría jurídica, secretario general del Pleno, interventor general y, en su caso, el de gestión tributaria; el nombramiento se hace entre funcionarios de carrera del subgrupo **A1**, salvo excepción reglamentaria.",
+      "**Consejo Social de la Ciudad (art. 131):** representantes de organizaciones económicas, sociales, profesionales y vecinales; informes y propuestas sobre desarrollo económico local, planificación estratégica y grandes proyectos urbanos. **Comisión Especial de Sugerencias y Reclamaciones (art. 132):** la crea el Pleno, con todos los grupos proporcionalmente; informe anual al Pleno.",
+      "**Gestión económico-financiera (arts. 133-137):** estabilidad presupuestaria, **separación de contabilidad y fiscalización**, control interno por la **Intervención general** (art. 136, titular con habilitación nacional). Tesorería, recaudación, contabilidad y presupuestación las ejercen los órganos del reglamento orgánico. El Pleno puede crear un **órgano de gestión tributaria** (art. 135) y debe existir un **órgano para las reclamaciones económico-administrativas** (art. 137): número **impar de miembros, mínimo tres**, designados por el Pleno con **mayoría absoluta**; su resolución **pone fin a la vía administrativa** y solo cabe contencioso; el **recurso de reposición** previo es potestativo."
+     ]
+    ],
+    [
+     "trampa",
+     "El **Alcalde** nombra a los **Tenientes de Alcalde** y a los **presidentes de distrito**; el Pleno aprueba los presupuestos y la **Junta de Gobierno Local** su proyecto. La Junta **no puede tener más de un tercio** de concejales del Pleno y debe estar formada por **concejales**."
     ]
    ],
    "flash": [
@@ -395,6 +737,30 @@
     [
      "¿Cuántos miembros puede tener la JGL?",
      "Hasta un tercio del número legal de miembros del Pleno, además del Alcalde (126.2)."
+    ],
+    [
+     "¿De cuántos meses dispone un municipio que alcanza la población de gran población para adaptar su organización?",
+     "Seis meses desde la constitución de la nueva corporación."
+    ],
+    [
+     "¿Qué tratamiento tiene el Alcalde de un municipio de gran población?",
+     "Excelencia."
+    ],
+    [
+     "¿Cómo responde la Junta de Gobierno Local ante el Pleno?",
+     "Políticamente y de forma solidaria, sin perjuicio de la responsabilidad directa de cada miembro."
+    ],
+    [
+     "¿Quién preside los distritos?",
+     "Un concejal."
+    ],
+    [
+     "¿Cuántos miembros como mínimo tiene el órgano de reclamaciones económico-administrativas?",
+     "Un número impar, con un mínimo de tres."
+    ],
+    [
+     "¿Qué sentencia anuló que la Junta de Gobierno Local tenga miembros no concejales?",
+     "La STC 103/2013, de 25 de abril."
     ]
    ],
    "esquema": [
@@ -596,6 +962,38 @@
     [
      "trampa",
      "En Zaragoza la **Junta de Gobierno Local** se llama **Gobierno de Zaragoza**. El **Consejo Bilateral** se reúne **al menos cada semestre**. El convenio económico-financiero dura **mínimo cuatro años**."
+    ],
+    [
+     "h",
+     "Antecedentes y estructura de la Ley 10/2017"
+    ],
+    [
+     "lista",
+     [
+      "**Estatuto de Autonomía de Aragón, art. 3.3:** Zaragoza, como capital, dispone de un **régimen especial establecido por ley de las Cortes de Aragón**. El **art. 61 de la Ley 7/1999** de Administración Local de Aragón ya preveía un régimen especial competencial y financiero.",
+      "La Ley 10/2017, de **30 de noviembre**, tiene **60 artículos**, 2 disposiciones adicionales, 5 transitorias y 3 finales, en **siete capítulos**: I Disposiciones generales · II Organización · III Relaciones con la CA · IV Competencias propias · V Procedimiento · VI Participación ciudadana e información · VII Financiación.",
+      "**Art. 6:** títulos honoríficos de la ciudad: Muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal (en los actos habituales se usa «Inmortal»; además es «Sitio Emblemático de la Cultura de Paz» de la UNESCO).",
+      "Zaragoza tiene dos reglamentos orgánicos: el **Reglamento orgánico municipal** (26 de noviembre de 2004) y el **Reglamento de órganos territoriales y participación ciudadana** (28 de julio de 2005)."
+     ]
+    ],
+    [
+     "h",
+     "Organización (capítulo II)"
+    ],
+    [
+     "lista",
+     [
+      "El **Pleno** es el órgano de máxima representación política. Los **órganos ejecutivos** son el **Alcalde**, el **Gobierno de Zaragoza**, el **Vicealcalde**, los Tenientes de Alcalde y los Concejales con responsabilidades de gobierno; y los **órganos directivos**.",
+      "**Principios (art. 8):** eficacia, eficiencia, descentralización, desconcentración, coordinación y servicio a los ciudadanos, con sometimiento pleno a la ley y al Derecho.",
+      "**Pleno de Zaragoza:** además de lo básico, sus comisiones **dictaminan ordenanzas y reglamentos** antes de su aprobación. Con carácter general se adopta por mayoría simple; la mayoría absoluta se exige para los acuerdos de la legislación básica. **No delegables** las letras a), b), c), e), f), g), h), i), j), m), ñ) y q); las d), k), l), n), o) y p) solo en **Comisiones del Pleno**; la r) puede delegarse en el Alcalde y el Gobierno de Zaragoza. Entre sus atribuciones propias están el **código ético** y proponer al Gobierno de Aragón que ejerza la **iniciativa legislativa** para modificar la ley.",
+      "**Alcalde:** dirige la acción del Gobierno de Zaragoza, nombra y cesa a los miembros del Gobierno, Tenientes de Alcalde, concejales con responsabilidades de gobierno y presidentes de distritos, y **crea, modifica o suprime las Áreas de Gobierno y órganos directivos**. Delega mediante decreto, salvo convocar y presidir, el voto de calidad y los bandos.",
+      "**Gobierno de Zaragoza:** órgano **colegiado ejecutivo**, bajo la dirección del Alcalde; miembros **no más de un tercio** del Pleno; **responde políticamente de forma solidaria**; su secretario es uno de sus miembros, designado por el Alcalde; las deliberaciones son **secretas**. Tiene un amplio listado de atribuciones (art. 14): proyectos de ordenanzas y reglamentos, **licencias**, **órgano de contratación**, patrimonio, gestión económica, personal, potestad sancionadora y **resolución de responsabilidad patrimonial**.",
+      "**Otros órganos:** **Junta de Portavoces** (presidida por el Alcalde o Teniente en quien delegue), **Consejo Jurídico Municipal** (informes no vinculantes, que crea el Gobierno de Zaragoza) y **comisiones específicas de asesoramiento** para dictaminar recursos."
+     ]
+    ],
+    [
+     "trampa",
+     "El **Gobierno de Zaragoza** es la **Junta de Gobierno Local** de la ciudad; el órgano de **máxima representación política** es el **Pleno**; la Ley 10/2017 tiene **60 artículos**."
     ]
    ],
    "flash": [
@@ -606,6 +1004,22 @@
     [
      "¿Cada cuánto se reúne como mínimo el Consejo Bilateral de Capitalidad?",
      "Al menos una vez cada semestre (art. 21)."
+    ],
+    [
+     "¿Qué artículo del Estatuto de Aragón prevé el régimen especial de Zaragoza?",
+     "El artículo 3.3."
+    ],
+    [
+     "¿Cuántos capítulos y artículos tiene la Ley 10/2017?",
+     "Siete capítulos y 60 artículos."
+    ],
+    [
+     "¿Cómo se llama la Junta de Gobierno Local de Zaragoza?",
+     "Gobierno de Zaragoza."
+    ],
+    [
+     "¿Qué órgano de Zaragoza está formado por los portavoces de los grupos?",
+     "La Junta de Portavoces."
     ]
    ],
    "esquema": [
@@ -822,6 +1236,54 @@
         "titulo": "Donde se vive más tiempo"
        }
       ]
+     },
+     {
+      "titulo": "Organización común (arts. 19-23)",
+      "hijos": [
+       {
+        "titulo": "Existen siempre: Alcalde, Tenientes y Pleno"
+       },
+       {
+        "titulo": "JGL: más de 5.000 habitantes"
+       },
+       {
+        "titulo": "Moción de censura: mayoría absoluta"
+       },
+       {
+        "titulo": "Cuestión de confianza: 1 al año, 2 por mandato"
+       },
+       {
+        "titulo": "Concejo abierto (art. 29)"
+       }
+      ]
+     },
+     {
+      "titulo": "Padrón y vecinos",
+      "hijos": [
+       {
+        "titulo": "Prueba residencia, no residencia legal"
+       },
+       {
+        "titulo": "Renovación cada 2 años (extranjeros)"
+       },
+       {
+        "titulo": "Consejo de Empadronamiento (INE)"
+       }
+      ]
+     },
+     {
+      "titulo": "Alteración y fusión",
+      "hijos": [
+       {
+        "titulo": "Decreto del Consejo de Gobierno CA"
+       },
+       {
+        "titulo": "Creación: al menos 4.000 habitantes"
+       },
+       {
+        "titulo": "Fusión: 10 años sin segregar"
+       }
+      ]
      }
     ]
    },
@@ -851,6 +1313,20 @@
       "hijos": [
        {
         "titulo": "Duración mínima: 5 años"
+       }
+      ]
+     },
+     {
+      "titulo": "Clases de competencias (art. 7)",
+      "hijos": [
+       {
+        "titulo": "Propias (solo por ley)"
+       },
+       {
+        "titulo": "Delegadas"
+       },
+       {
+        "titulo": "Distintas: informes vinculantes"
        }
       ]
      }
@@ -884,6 +1360,20 @@
         "titulo": "Reclamaciones económico-administrativas"
        }
       ]
+     },
+     {
+      "titulo": "Órganos directivos y de control",
+      "hijos": [
+       {
+        "titulo": "Asesoría jurídica · Intervención · Secretario del Pleno"
+       },
+       {
+        "titulo": "Consejo Social · Comisión de Sugerencias"
+       },
+       {
+        "titulo": "Reclamaciones económico-administrativas: ≥ 3 miembros impares"
+       }
+      ]
      }
     ]
    },
@@ -910,6 +1400,20 @@
        },
        {
         "titulo": "Convenio económico: mín. 4 años"
+       }
+      ]
+     },
+     {
+      "titulo": "Estructura y órganos",
+      "hijos": [
+       {
+        "titulo": "Estatuto 3.3 · 60 artículos en 7 capítulos"
+       },
+       {
+        "titulo": "Pleno · Alcalde · Gobierno de Zaragoza"
+       },
+       {
+        "titulo": "Junta de Portavoces · Consejo Jurídico"
        }
       ]
      }

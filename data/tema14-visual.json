@@ -1,7 +1,8 @@
 {
  "mapaEpis": [
   [
-   "e0"
+   "e0",
+   "e4"
   ],
   [
    "e1"
@@ -109,6 +110,48 @@
    "Convenios de colaboración",
    "Acuerdos entre Administraciones para ejercer juntas competencias o prestar servicios.",
    "Ley 40/2015"
+  ],
+  [
+   "lrsal",
+   "LRSAL",
+   "Ley 27/2013 de Racionalización y Sostenibilidad de la Administración Local, que reformó la LBRL (competencias propias, servicios mínimos, art. 28).",
+   "Ley 27/2013"
+  ],
+  [
+   "consejo-empadronamiento",
+   "Consejo de Empadronamiento",
+   "Órgano de colaboración entre el Estado y las entidades locales en materia de padrón. Lo preside el Presidente del INE.",
+   "Art. 17 LBRL"
+  ],
+  [
+   "fusion-municipios",
+   "Fusión de municipios",
+   "Unión de municipios limítrofes mediante convenio. El nuevo municipio no puede segregarse en diez años.",
+   "Art. 13 LBRL"
+  ],
+  [
+   "titulo-x",
+   "Título X LBRL",
+   "Régimen de organización de los municipios de gran población (arts. 121 a 138).",
+   "Arts. 121-138 LBRL"
+  ],
+  [
+   "consejo-social-ciudad",
+   "Consejo Social de la Ciudad",
+   "Órgano de participación de las organizaciones económicas, sociales, profesionales y vecinales en los municipios de gran población.",
+   "Art. 131 LBRL"
+  ],
+  [
+   "gobierno-zaragoza",
+   "Gobierno de Zaragoza",
+   "Nombre que recibe en Zaragoza la Junta de Gobierno Local: órgano colegiado ejecutivo presidido por el Alcalde.",
+   "Ley 10/2017"
+  ],
+  [
+   "junta-portavoces",
+   "Junta de Portavoces",
+   "Reunión de los portavoces de los grupos municipales, presidida por el Alcalde o el Teniente de Alcalde en quien delegue.",
+   "Ley 10/2017"
   ]
  ],
  "hubs": [
@@ -281,6 +324,200 @@
     ]
    ],
    "ic": "🏰"
+  },
+  {
+   "id": "h-organizacion-comun",
+   "epi": "e4",
+   "titulo": "Organización común",
+   "art": "Arts. 19-23 LBRL",
+   "resumen": "Órganos necesarios y reglas de funcionamiento.",
+   "pistas": [
+    [
+     "d",
+     "Alcalde, Tenientes y Pleno existen siempre"
+    ],
+    [
+     "n",
+     "Junta de Gobierno Local: más de 5.000 habitantes"
+    ],
+    [
+     "d",
+     "Comisión Especial de Cuentas en todos los municipios"
+    ],
+    [
+     "d",
+     "Concejos abiertos en municipios con menos de 100 habitantes (art. 29)"
+    ]
+   ],
+   "ic": "🏛️"
+  },
+  {
+   "id": "h-mocion-censura",
+   "epi": "e4",
+   "titulo": "Moción de censura y cuestión de confianza",
+   "art": "Arts. 197 y 197 bis LOREG",
+   "resumen": "Cómo cae un Alcalde.",
+   "pistas": [
+    [
+     "q",
+     "Moción de censura: mayoría absoluta y candidato alternativo"
+    ],
+    [
+     "n",
+     "Pleno a las 12 horas del décimo día hábil"
+    ],
+    [
+     "d",
+     "Cuestión de confianza: una al año, dos por mandato"
+    ],
+    [
+     "d",
+     "Ninguna en el último año de mandato"
+    ],
+    [
+     "t",
+     "Si la cuestión de confianza fracasa, el Alcalde cesa"
+    ]
+   ],
+   "ic": "🗳️"
+  },
+  {
+   "id": "h-padron",
+   "epi": "e0",
+   "titulo": "Padrón municipal",
+   "art": "Arts. 15 a 17 LBRL",
+   "resumen": "Registro de los vecinos.",
+   "pistas": [
+    [
+     "d",
+     "Prueba la residencia y el domicilio habitual"
+    ],
+    [
+     "t",
+     "No prueba la residencia legal de un extranjero"
+    ],
+    [
+     "d",
+     "Datos obligatorios y voluntarios (los voluntarios no se ceden)"
+    ],
+    [
+     "n",
+     "Extranjeros no comunitarios: renovación cada dos años"
+    ],
+    [
+     "d",
+     "Coordina el INE; Consejo de Empadronamiento"
+    ]
+   ],
+   "ic": "📋"
+  },
+  {
+   "id": "h-alteracion",
+   "epi": "e0",
+   "titulo": "Alteración de términos y fusión",
+   "art": "Art. 13 LBRL",
+   "resumen": "Cómo cambian los municipios.",
+   "pistas": [
+    [
+     "d",
+     "Incorporación, fusión, segregación"
+    ],
+    [
+     "q",
+     "Decreto del Consejo de Gobierno de la Comunidad Autónoma"
+    ],
+    [
+     "n",
+     "Creación de municipios: 4.000 habitantes mínimo"
+    ],
+    [
+     "n",
+     "Fusión: 10 años sin poder segregarse"
+    ]
+   ],
+   "ic": "🗺️"
+  },
+  {
+   "id": "h-competencias-art7",
+   "epi": "e1",
+   "titulo": "Clases de competencias",
+   "art": "Arts. 7 y 25 LBRL",
+   "resumen": "Propias, delegadas y distintas.",
+   "pistas": [
+    [
+     "d",
+     "Propias: solo por ley, bajo propia responsabilidad"
+    ],
+    [
+     "d",
+     "Delegadas: art. 27, con técnicas de dirección y control"
+    ],
+    [
+     "d",
+     "Distintas: sin riesgo financiero ni duplicidades"
+    ],
+    [
+     "d",
+     "El art. 28 fue derogado por la LRSAL"
+    ]
+   ],
+   "ic": "⚖️"
+  },
+  {
+   "id": "h-gran-pob-organos",
+   "epi": "e2",
+   "titulo": "Órganos de gran población",
+   "art": "Arts. 122 a 137 LBRL",
+   "resumen": "Quién hace qué en el Título X.",
+   "pistas": [
+    [
+     "d",
+     "Pleno: máxima representación política"
+    ],
+    [
+     "q",
+     "Alcalde: nombra a los Tenientes y a los presidentes de distrito"
+    ],
+    [
+     "d",
+     "Junta de Gobierno: máximo un tercio de concejales"
+    ],
+    [
+     "d",
+     "Distritos presididos por un concejal"
+    ],
+    [
+     "n",
+     "Reclamaciones económico-administrativas: mínimo tres miembros"
+    ]
+   ],
+   "ic": "🏙️"
+  },
+  {
+   "id": "h-zaragoza-organos",
+   "epi": "e3",
+   "titulo": "Órganos de Zaragoza",
+   "art": "Ley 10/2017, cap. II",
+   "resumen": "Pleno, Alcalde y Gobierno de Zaragoza.",
+   "pistas": [
+    [
+     "d",
+     "Estatuto de Aragón, art. 3.3"
+    ],
+    [
+     "n",
+     "60 artículos en 7 capítulos"
+    ],
+    [
+     "q",
+     "Gobierno de Zaragoza = Junta de Gobierno Local"
+    ],
+    [
+     "d",
+     "Junta de Portavoces y Consejo Jurídico Municipal"
+    ]
+   ],
+   "ic": "⭐"
   }
  ],
  "esquema": [
