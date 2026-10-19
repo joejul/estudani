@@ -973,6 +973,7 @@ function vistaGuia() {
     ${sec('⚙️', 'Más (ajustes)', `
       <ul>
         <li><b>Penalización por fallo:</b> cuánto resta cada error en simulacros y en la prueba oficial. Mientras no se confirme la oficial, usa 1/3.</li>
+        <li><b>Varios dispositivos:</b> en «Más» usa «Enviar mi progreso» en uno y «Fusionar desde archivo» en el otro; se juntan los dos progresos sin perder nada.</li>
         <li><b>Copia de seguridad:</b> tu progreso está solo en este móvil. Descarga una copia de vez en cuando y guárdala en iCloud o mándatela.</li>
         <li><b>Reportes:</b> si ves una pregunta con error o algo del temario que no cuadra, díselo a la app con «⚑ Reportar». Luego los envías todos juntos desde aquí.</li>
         <li><b>Instalar como app:</b> en iPhone, Compartir y «Añadir a pantalla de inicio». Funciona sin conexión.</li>
@@ -1067,6 +1068,29 @@ function descargarCopia() {
   aviso('Copia descargada');
 }
 
+// Sincronizar entre dispositivos sin servidor: se manda el progreso como archivo (iCloud, AirDrop, WhatsApp…)
+// y en el otro dispositivo se FUSIONA con el que ya tiene. Fusionar nunca borra: gana lo más reciente de cada pregunta.
+async function enviarProgreso() {
+  const nombre = `estudani-progreso-${new Date().toISOString().slice(0, 10)}.json`;
+  const file = new File([store.exportar()], nombre, { type: 'application/json' });
+  store.marcarCopia();
+  try {
+    if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file], title: 'Progreso EstuDani' }); return aviso('Listo: ábrelo en el otro dispositivo con «Fusionar»'); }
+  } catch (e) { if (e && e.name === 'AbortError') return; }
+  descargarCopia();
+}
+function fusionarArchivo(file) {
+  const fr = new FileReader();
+  fr.onload = () => {
+    try {
+      const r = store.fusionar(String(fr.result));
+      aviso(`Fusionado: ${r.actualizadas} pregunta(s) actualizadas o nuevas`);
+      route();
+    } catch { aviso('El archivo no es un progreso válido'); }
+  };
+  fr.readAsText(file);
+}
+
 function cargarCopiaArchivo(file) {
   const fr = new FileReader();
   fr.onload = () => {
@@ -1086,6 +1110,10 @@ function vistaAjustes() {
     <section class="card"><h3>Penalización por fallo</h3>
       <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
       <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
+    <section class="card"><h3>🔄 Usar en varios dispositivos</h3>
+      <p class="muted tiny">Para seguir en otro móvil o en el ordenador donde lo dejaste: <b>1)</b> en el dispositivo donde estudiaste pulsa «Enviar mi progreso» y guárdalo en iCloud/Archivos o mándatelo; <b>2)</b> en el otro pulsa «Fusionar» y elige ese archivo. No se pierde nada: se junta lo de los dos y, en cada pregunta, vale la respuesta más reciente. Repite al cambiar de dispositivo.</p>
+      <div class="acciones"><button class="btn primary small" data-act="enviar-progreso">Enviar mi progreso</button><button class="btn small" data-act="fusionar-archivo">Fusionar desde archivo</button></div>
+      <input type="file" id="fusion" accept="application/json,.json" hidden></section>
     <section class="card"><h3>Copia de seguridad</h3>
       <p class="muted tiny">Tu progreso solo vive en este dispositivo. ${store.diasDesdeCopia() === null ? 'Aún no has guardado ninguna copia.' : `Última copia: hace ${store.diasDesdeCopia()} día(s).`} Descarga un archivo (mejor, guárdalo en iCloud o mándatelo) o copia el código.</p>
       <div class="acciones"><button class="btn primary small" data-act="descargar">Descargar copia (.json)</button><button class="btn small" data-act="cargar-archivo">Cargar copia desde archivo</button></div>
@@ -1114,6 +1142,7 @@ function vistaAjustes() {
       $('#bk').value = store.exportar();
       $('#pen').addEventListener('change', (e) => { store.setAjuste('penalizacion', e.target.value); aviso('Guardado'); });
       $('#archivo').addEventListener('change', (e) => { if (e.target.files[0]) cargarCopiaArchivo(e.target.files[0]); });
+      $('#fusion').addEventListener('change', (e) => { if (e.target.files[0]) fusionarArchivo(e.target.files[0]); e.target.value = ''; });
     },
   };
 }
@@ -1175,6 +1204,8 @@ document.addEventListener('click', (e) => {
     case 'des-ocultar': { store.ocultas().forEach((id) => store.ocultar(id, false)); aviso('Recargando preguntas…'); return setTimeout(() => location.reload(), 600); }
     case 'descargar': return descargarCopia();
     case 'cargar-archivo': return $('#archivo').click();
+    case 'enviar-progreso': return enviarProgreso();
+    case 'fusionar-archivo': return $('#fusion').click();
     case 'borrar': if (confirm('Se borrará todo tu progreso en este dispositivo. ¿Seguro?')) { store.borrarTodo(); aviso('Progreso borrado'); route(); } return;
   }
 });

@@ -82,6 +82,7 @@ export function registrar(id, resultado) {
   p.n += 1;
   p[resultado] += 1;
   p.last = resultado;
+  p.t = Date.now(); // cuándo se contestó por última vez: sirve para fusionar el progreso de varios dispositivos
   p.box = resultado === 'ok' ? Math.min(p.box + 1, INTERVALOS.length - 1) : 0;
   p.due = hoy() + INTERVALOS[p.box];
   estado.preguntas[id] = p;
@@ -180,6 +181,37 @@ export function importar(texto) {
   if (!datos || typeof datos !== 'object' || !datos.preguntas || !datos.ajustes) throw new Error('Formato no válido');
   estado = { ...vacio(), ...datos };
   guardar();
+}
+// Fusiona el progreso de otro dispositivo con el de este SIN borrar nada: por pregunta gana la respuesta más reciente
+// (los contadores se quedan con el mayor de los dos), los días y las lecciones se juntan.
+export function fusionar(texto) {
+  const o = JSON.parse(texto);
+  if (!o || typeof o !== 'object' || !o.preguntas || !o.ajustes) throw new Error('Formato no válido');
+  const antes = Object.keys(estado.preguntas).length;
+  let cambiadas = 0;
+  for (const [id, b] of Object.entries(o.preguntas)) {
+    const a = estado.preguntas[id];
+    if (!a) { estado.preguntas[id] = b; cambiadas += 1; continue; }
+    const gana = (b.t || 0) > (a.t || 0) || ((b.t || 0) === (a.t || 0) && b.n > a.n) ? b : a;
+    const f = { ...gana };
+    for (const k of ['n', 'ok', 'fail', 'blank']) f[k] = Math.max(a[k] || 0, b[k] || 0);
+    if (gana === b) cambiadas += 1;
+    estado.preguntas[id] = f;
+  }
+  for (const [d, b] of Object.entries(o.dias || {})) {
+    const a = estado.dias[d] || { n: 0, ok: 0, fail: 0, blank: 0 };
+    estado.dias[d] = { n: Math.max(a.n, b.n || 0), ok: Math.max(a.ok, b.ok || 0), fail: Math.max(a.fail, b.fail || 0), blank: Math.max(a.blank, b.blank || 0) };
+  }
+  Object.assign(estado.lecciones, o.lecciones || {});
+  const vistas = new Set();
+  estado.sesiones = [...estado.sesiones, ...(o.sesiones || [])]
+    .filter((x) => { const k = JSON.stringify(x); if (vistas.has(k)) return false; vistas.add(k); return true; })
+    .sort((x, y) => (y.fecha || 0) - (x.fecha || 0)).slice(0, 30);
+  const ids = new Set(estado.reportes.map((r) => r.id));
+  estado.reportes = [...estado.reportes, ...(o.reportes || []).filter((r) => !ids.has(r.id))];
+  estado.ajustes.repaso = { ...((o.ajustes || {}).repaso || {}), ...(estado.ajustes.repaso || {}) };
+  guardar();
+  return { nuevas: Object.keys(estado.preguntas).length - antes, actualizadas: cambiadas };
 }
 export function borrarTodo() {
   estado = vacio();
