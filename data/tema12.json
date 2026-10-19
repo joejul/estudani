@@ -5,6 +5,67 @@
  "verificado": "2026-10-04",
  "epigrafes": [
   {
+   "id": "e4",
+   "titulo": "Potestad tributaria de las Entidades Locales",
+   "subtitulo": "Quién crea y quién establece los tributos",
+   "clave": [
+    "Solo la ley crea tributos (arts. 31.3 y 133 CE)",
+    "Las Entidades Locales tienen potestad secundaria",
+    "Ordenanzas fiscales (art. 106 LBRL)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los ayuntamientos **no pueden inventarse un impuesto**: solo pueden **establecer** los que una ley ya ha creado."
+    ],
+    [
+     "lista",
+     [
+      "**Reserva de ley (arts. 31.3 y 133 CE):** solo pueden establecerse prestaciones personales o patrimoniales de carácter público con arreglo a la ley. La **potestad originaria** para crear tributos es **exclusivamente del Estado mediante ley**.",
+      "Las **Comunidades Autónomas y las Corporaciones Locales** pueden establecer y exigir tributos **de acuerdo con la Constitución y las leyes**. Por eso su potestad es **secundaria**: no crean tributos, solo los **establecen** una vez creados por ley formal de las Cortes Generales.",
+      "**Art. 106 LBRL:** las Entidades Locales tienen **autonomía para establecer y exigir tributos** según la legislación estatal de Haciendas Locales (y las leyes autonómicas cuando esta lo prevea).",
+      "Su **potestad reglamentaria** en materia tributaria se ejerce mediante **ordenanzas fiscales** (reguladoras de cada tributo) y **ordenanzas generales de gestión, recaudación e inspección**. Pueden dictar disposiciones interpretativas y aclaratorias.",
+      "Les corresponde la **gestión, recaudación e inspección** de sus tributos propios, sin perjuicio de las **delegaciones** a Entidades de ámbito superior o a la Comunidad Autónoma y de la **colaboración** con otras Administraciones."
+     ]
+    ],
+    [
+     "h",
+     "Qué hace un ayuntamiento con sus tributos"
+    ],
+    [
+     "lista",
+     [
+      "**Establecer** los tributos que la ley le reconoce.",
+      "**Aprobar las ordenanzas fiscales** que los regulan.",
+      "**Gestionar, recaudar e inspeccionar** los tributos propios, aplicando además de la normativa local la **Ley General Tributaria (Ley 58/2003)** y sus reglamentos."
+     ]
+    ],
+    [
+     "trampa",
+     "Las Entidades Locales **no crean** tributos: los **establecen**. Crear tributos es potestad **originaria del Estado, por ley**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Quién tiene la potestad originaria para crear tributos?",
+     "El Estado, mediante ley (art. 133 CE)."
+    ],
+    [
+     "¿Qué tipo de potestad tributaria tienen las Entidades Locales?",
+     "Secundaria: no crean tributos, solo los establecen una vez creados por ley."
+    ],
+    [
+     "¿Con qué instrumentos ejercen su potestad reglamentaria tributaria?",
+     "Con ordenanzas fiscales y ordenanzas generales de gestión, recaudación e inspección."
+    ]
+   ],
+   "esquema": [
+    "Potestad originaria: Estado por ley · Local: secundaria · Ordenanzas fiscales"
+   ],
+   "ic": "📜",
+   "articulos": []
+  },
+  {
    "id": "e0",
    "titulo": "Los recursos de las haciendas locales",
    "subtitulo": "Arts. 2 a 19, 38 a 40 y 48 a 55 TRLRHL",
@@ -13,7 +74,9 @@
     "Tributos = tasas, contribuciones especiales e impuestos",
     "Precios públicos NO son tributos",
     "Derecho privado (art. 4)",
-    "Limitación de destino (art. 5)"
+    "Limitación de destino (art. 5)",
+    "Prudencia financiera (art. 48 bis)",
+    "Prestación personal: ≤ 5.000 hab."
    ],
    "bloques": [
     [
@@ -57,6 +120,27 @@
     [
      "trampa",
      "Los **tributos** son solo tres: tasas, contribuciones especiales e impuestos. Los **precios públicos** son otro recurso distinto (letra e), no un tributo."
+    ],
+    [
+     "h",
+     "Más sobre los ingresos de derecho privado y otros recursos"
+    ],
+    [
+     "lista",
+     [
+      "**Ingresos de derecho privado (art. 3):** los rendimientos o productos de cualquier naturaleza de su **patrimonio** y las adquisiciones a título de **herencia, legado o donación**. Patrimonio = bienes y derechos susceptibles de valoración económica **no afectos al uso o servicio público**. **Nunca** son de derecho privado los ingresos de bienes de **dominio público**.",
+      "Lo que se obtiene al **vender bienes desafectados** (antes de dominio público, aunque tuvieran concesión) también es ingreso de derecho privado; salvo norma autonómica, el **concesionario** tiene **derecho preferente de adquisición directa** sin subasta.",
+      "**Recargos (art. 38):** sobre impuestos de la Comunidad Autónoma o de otras Entidades Locales (p. ej., el de las **Diputaciones sobre el IAE**, art. 134, o el de las **Áreas Metropolitanas sobre el IBI**, art. 153).",
+      "**Participaciones (arts. 39 y ss.):** en tributos del Estado (arts. 118 a 126 para municipios, 140 a 146 para provincias) y, en la forma que fijen sus leyes, en los **tributos propios de las Comunidades Autónomas** (art. 39).",
+      "**Subvenciones (art. 40):** no pueden aplicarse a fines distintos de aquellos para los que se otorgaron, salvo los **sobrantes no reintegrables** cuya utilización no estuviera prevista.",
+      "**Operaciones de crédito (arts. 48 y 49):** las Entidades Locales, sus organismos autónomos y los entes y sociedades dependientes pueden concertar crédito **a corto y largo plazo**, incluidas operaciones de cobertura de riesgo de interés y cambio. Para financiar **inversiones** o sustituir operaciones previas pueden emitir **deuda pública**, contratar **préstamos o créditos**, acudir a otras formas de crédito público o privado o hacer **conversiones**.",
+      "**Art. 48 bis – prudencia financiera:** todas las operaciones financieras (activos financieros, pasivos financieros y avales o garantías públicas) están sujetas a este principio, que consiste en las condiciones necesarias para **minimizar su riesgo y coste**. Las condiciones de los pasivos las fija el Ministerio de Hacienda; la formalización de **avales** que no cumplan la prudencia precisa **autorización de la tutela financiera**.",
+      "**Otros recursos:** multas y sanciones de su competencia y demás prestaciones de derecho público; en especial, la **prestación personal y de transporte**, exigible por municipios de **hasta 5.000 habitantes** para obras de competencia municipal o cedidas."
+     ]
+    ],
+    [
+     "trampa",
+     "Los **ingresos de bienes de dominio público** no son de derecho privado. La **prestación personal y de transporte** solo la pueden exigir municipios de **5.000 habitantes o menos**."
     ]
    ],
    "flash": [
@@ -67,6 +151,14 @@
     [
      "¿A qué no pueden destinarse los ingresos por vender bienes patrimoniales?",
      "A gastos corrientes (art. 5), salvo parcelas sobrantes de vías públicas no edificables o efectos no utilizables."
+    ],
+    [
+     "¿Qué principio rige todas las operaciones financieras de las Corporaciones Locales (art. 48 bis)?",
+     "El principio de prudencia financiera: minimizar su riesgo y coste."
+    ],
+    [
+     "¿Qué municipios pueden exigir prestación personal y de transporte?",
+     "Los de población de derecho no superior a 5.000 habitantes."
     ]
    ],
    "esquema": [
@@ -291,7 +383,10 @@
     "Ejemplos de tasa",
     "Precio público: concepto (art. 41)",
     "No precio público en los del art. 21 (art. 42)",
-    "Cuantía del precio público (art. 44)"
+    "Cuantía del precio público (art. 44)",
+    "Tasa ≤ coste del servicio",
+    "Precio público ≥ coste (salvo precios políticos)",
+    "Suministros: 1,5 % de ingresos brutos"
    ],
    "bloques": [
     [
@@ -354,6 +449,88 @@
     [
      "trampa",
      "Por la **limpieza de la vía pública** no se pueden exigir **ni tasas ni precios públicos**. Si una opción dice «podrán exigir precios públicos», es falsa."
+    ],
+    [
+     "h",
+     "Tasas: sustitutos, cuantía y devengo"
+    ],
+    [
+     "tabla",
+     [
+      "Aspecto",
+      "Regla"
+     ],
+     [
+      [
+       "**Qué se entiende por «afecta o beneficia» (art. 20.2)**",
+       "Cuando el servicio o actividad ha sido **motivado directa o indirectamente** por el sujeto pasivo, por sus actuaciones u omisiones, o se presta por razones de **seguridad, salubridad, abastecimiento o urbanismo**."
+      ],
+      [
+       "**Utilización del dominio público (art. 20.3)**",
+       "Ejemplos: terrazas y mesas con fin lucrativo (l), quioscos (m), puestos y atracciones (n), estacionamiento de vehículos de tracción mecánica en zonas reguladas (u), y en **zonas de bajas emisiones** la circulación de vehículos que superen los límites (v)."
+      ],
+      [
+       "**Servicios y actividades (art. 20.4)**",
+       "Ejemplos: documentos a instancia de parte (a), licencias de autotaxis (c), licencias urbanísticas y apertura de establecimientos (h, i), **bomberos** (k), cementerios (p), alcantarillado (r), **basura** (s), agua, gas y electricidad (t), mercados (u), museos (w)…"
+      ],
+      [
+       "**Matrimonios civiles (art. 20.5)**",
+       "Los ayuntamientos pueden establecer una tasa por la celebración de matrimonios en forma civil."
+      ],
+      [
+       "**Gestión indirecta (art. 20.6)**",
+       "Lo que paguen los usuarios por servicios gestionados por **sociedades de economía mixta, entidades públicas empresariales o sociedades de capital íntegramente público** son **prestaciones patrimoniales de carácter público no tributario** (art. 31.3 CE); se regulan por **ordenanza**."
+      ],
+      [
+       "**Sujetos pasivos (art. 23)**",
+       "**Contribuyentes:** quienes disfruten o aprovechen especialmente el dominio público, o soliciten o resulten beneficiados por los servicios. **Sustitutos:** los **propietarios** de viviendas o locales (servicios a ocupantes); los **constructores y contratistas** (tasas por licencias urbanísticas); las **aseguradoras** (tasas de incendios); los **propietarios de fincas** (entradas de vehículos)."
+      ],
+      [
+       "**Cuantía del dominio público (art. 24.1)**",
+       "Se toma como referencia el **valor de mercado** de la utilidad derivada. Si hay licitación, el **valor de la proposición**. Para empresas de **suministros** de interés general, **1,5 % de los ingresos brutos** de facturación en cada término municipal."
+      ],
+      [
+       "**Cuantía de servicios (art. 24.2)**",
+       "El importe **no puede exceder** del **coste real o previsible** del servicio (costes directos e indirectos, financieros, amortización) o, en su defecto, del **valor de la prestación recibida**."
+      ],
+      [
+       "**Cuota (art. 24.3)**",
+       "Según la ordenanza: **tarifa**, **cantidad fija** o **ambas**. Pueden tenerse en cuenta criterios genéricos de **capacidad económica**."
+      ],
+      [
+       "**Daños al dominio público (art. 24.5)**",
+       "Además de la tasa, el beneficiario **reintegra el coste total** de la reparación y deposita previamente su importe. Las Entidades Locales **no pueden condonar** esos reintegros."
+      ],
+      [
+       "**Informe técnico-económico (art. 25)**",
+       "El acuerdo de establecimiento o de nuevos servicios se adopta a la vista de un informe técnico-económico sobre el **valor de mercado** o la **cobertura del coste**."
+      ],
+      [
+       "**Devengo (art. 26)**",
+       "Al **iniciarse** el uso o la prestación (con posible depósito previo) o al **presentar la solicitud**. Si es **periódica**, se devenga el **1 de enero** y el período es el año natural, con prorrateo en inicio o cese. Si el servicio **no se presta por causas no imputables al sujeto pasivo**, se **devuelve** el importe."
+      ],
+      [
+       "**Autoliquidación (art. 27)**",
+       "Las tasas pueden exigirse en régimen de **autoliquidación**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Precios públicos"
+    ],
+    [
+     "lista",
+     [
+      "**Sujetos obligados (art. 43):** quienes se beneficien de los servicios o actividades.",
+      "**Cuantía (art. 44):** cubre **como mínimo el coste**; por razones sociales, benéficas, culturales o de interés público puede fijarse por debajo (**precios políticos**) consignando en el presupuesto la dotación para cubrir la diferencia.",
+      "**Devengo (art. 46):** nace al iniciarse la prestación; puede exigirse depósito previo y devolverse si no se presta por causas no imputables; las deudas se pueden exigir por **vía de apremio**. Pueden exigirse por **autoliquidación** (art. 45).",
+      "**Fijación (art. 47):** corresponde al **Pleno**, que puede delegar en la **Junta de Gobierno Local** (en los municipios de régimen de gran población lo hace esta); con propuesta y estudio económico que acredite que cubren el coste."
+     ]
+    ],
+    [
+     "trampa",
+     "Una **tasa no puede superar el coste real del servicio**; un **precio público no puede ser inferior al coste**, salvo razones sociales con dotación presupuestaria."
     ]
    ],
    "flash": [
@@ -368,6 +545,22 @@
     [
      "¿Hacen falta las dos circunstancias del art. 20.1.B para que sea tasa?",
      "No: basta cualquiera de las dos (no voluntaria o no prestada por el sector privado)."
+    ],
+    [
+     "¿Qué porcentaje de ingresos brutos pagan las empresas de suministros por ocupar el dominio público (art. 24.1.c)?",
+     "El 1,5 % de la facturación en cada término municipal."
+    ],
+    [
+     "¿Quiénes son sustitutos del contribuyente en las tasas por licencias urbanísticas?",
+     "Los constructores y contratistas de obras."
+    ],
+    [
+     "¿Cuándo se devenga una tasa de carácter periódico?",
+     "El 1 de enero de cada año."
+    ],
+    [
+     "¿Qué es un precio político?",
+     "Un precio público fijado por debajo del coste, por razones sociales, benéficas, culturales o de interés público, con dotación en el presupuesto."
     ]
    ],
    "esquema": [
@@ -541,6 +734,28 @@
     [
      "trampa",
      "El límite es **90 %** (no 75 ni 80). Y las tasas por un servicio **no impiden** cobrar además contribuciones especiales por establecerlo o ampliarlo (art. 22)."
+    ],
+    [
+     "h",
+     "Obras y servicios locales, coste y cuota"
+    ],
+    [
+     "lista",
+     [
+      "**Obras y servicios locales (art. 29.1):** los que realizan las Entidades Locales en su ámbito de competencias (salvo los realizados como dueños de bienes patrimoniales), los atribuidos o delegados por otras entidades públicas y los de otras entidades públicas o concesionarios **con aportaciones de la Entidad Local**.",
+      "Lo recaudado **solo puede destinarse** a sufragar la obra o servicio que motivó la contribución (art. 29.3).",
+      "**Personas especialmente beneficiadas (art. 30.2):** propietarios de inmuebles afectados; titulares de explotaciones empresariales que motiven la obra; en el **servicio de incendios**, además, las **compañías de seguros** del ramo; en **galerías subterráneas**, las empresas suministradoras que deban usarlas.",
+      "**Coste (art. 31):** se restan al coste total las **subvenciones** recibidas. Incluye proyectos, obras, **terrenos** (salvo bienes de uso público o cedidos gratuita y obligatoriamente), indemnizaciones por derribos y el **interés del capital** si hay que pedir crédito.",
+      "**Cuota (art. 32):** módulos de reparto: **metros lineales de fachada, superficie, volumen edificable y valor catastral**; en incendios, se reparte entre las aseguradoras según las **primas recaudadas** el año anterior (el exceso de un 5 % se traslada a ejercicios siguientes). Puede concederse **fraccionamiento o aplazamiento hasta cinco años**.",
+      "**Devengo (art. 33):** al ejecutarse la obra o comenzar el servicio; se puede exigir **anticipo** una vez aprobado el acuerdo concreto, pero no una nueva anualidad sin haber ejecutado la anterior.",
+      "**Imposición y ordenación (art. 34):** hace falta **acuerdo concreto de imposición y ordenación**; sin él no puede ejecutarse la obra que se financie con contribuciones. Los interesados pueden recurrir en **reposición** ante el ayuntamiento.",
+      "**Colaboración de entidades (art. 35):** si dos entidades locales ejecutan la obra, la gestión y recaudación corresponde a la que la ejecuta, y cada una conserva sus competencias de imposición.",
+      "**Asociaciones administrativas de contribuyentes (arts. 36 y 37):** se constituyen por **mayoría absoluta** de los afectados siempre que representen **al menos los dos tercios de las cuotas**."
+     ]
+    ],
+    [
+     "trampa",
+     "Las asociaciones de contribuyentes exigen **mayoría absoluta de afectados** y **dos tercios de las cuotas**."
     ]
    ],
    "flash": [
@@ -551,6 +766,14 @@
     [
      "¿Cuándo se devengan?",
      "Cuando la obra se ha ejecutado o el servicio ha comenzado a prestarse (art. 33.1)."
+    ],
+    [
+     "¿Qué módulos de reparto cita el art. 32 TRLRHL?",
+     "Metros lineales de fachada, superficie, volumen edificable y valor catastral."
+    ],
+    [
+     "¿Qué mayoría hace falta para constituir una asociación administrativa de contribuyentes?",
+     "Mayoría absoluta de los afectados que representen al menos dos tercios de las cuotas."
     ]
    ],
    "esquema": [
@@ -644,7 +867,10 @@
     "IVTM: coeficiente máx. 2",
     "ICIO: indirecto; tipo máx. 4 %",
     "IIVTNU: tipo máx. 30 %",
-    "Participación: capitales o ≥ 75.000 hab. (art. 111)"
+    "Participación: capitales o ≥ 75.000 hab. (art. 111)",
+    "IBI: orden concesión > superficie > usufructo > propiedad",
+    "IBI: recargo desocupadas hasta 50 % / 100 %",
+    "IIVTNU: 30 días hábiles / 6 meses"
    ],
    "bloques": [
     [
@@ -704,6 +930,42 @@
     [
      "trampa",
      "El **ICIO** es el único **indirecto** y se paga **aunque no se haya concedido la licencia** (basta que se exija). Y el IAE se aplica aunque no exista local."
+    ],
+    [
+     "h",
+     "IBI: más detalle"
+    ],
+    [
+     "lista",
+     [
+      "**Hecho imponible (art. 61):** la titularidad, **por este orden**, de una **concesión administrativa**, un derecho de **superficie**, un **usufructo** o la **propiedad**. Realizar uno excluye los siguientes. Bienes **rústicos, urbanos y de características especiales** según el Catastro.",
+      "**No sujetos (art. 61.5):** carreteras, caminos y demás vías terrestres y bienes de dominio público marítimo-terrestre e hidráulico de aprovechamiento público y gratuito; y bienes municipales de dominio público afectos a uso o servicio público (salvo si se ceden a terceros con contraprestación) y patrimoniales cedidos.",
+      "**Exenciones (art. 62):** bienes del Estado, CCAA y entes locales afectos a seguridad ciudadana y servicios educativos y penitenciarios; los del Estado afectos a la defensa; bienes comunales; de la Iglesia Católica y otras confesiones con acuerdo; monumentos y jardines históricos de interés cultural, etc.",
+      "**Sujeto pasivo (art. 63):** quien ostente la titularidad del derecho que constituya el hecho imponible. Puede **repercutir** la carga según el derecho común.",
+      "**Base imponible (art. 65):** el **valor catastral**. **Base liquidable (art. 66):** la base imponible menos las reducciones legales; en valoración colectiva la fija la **Dirección General del Catastro** (recurrible ante los TEAR).",
+      "**Cuota (art. 71):** la **cuota íntegra** = base liquidable × tipo; la **cuota líquida** = cuota íntegra menos **bonificaciones**.",
+      "**Bonificaciones:** obligatorias para empresas de urbanización/construcción (50-90 %, 90 % si no hay acuerdo; si se solicita antes del inicio de obras) y para cooperativas agrarias (95 %). Potestativas (art. 74): hasta el 90 % para **familias numerosas** y para entidades con actividades de interés municipal; hasta el 50 % por **placas solares** y por **puntos de recarga** de vehículos eléctricos; hasta el 95 % para centros universitarios y de investigación.",
+      "**Tipos (art. 72):** supletorio y mínimo 0,4 % urbanos / 0,3 % rústicos; máximo 1,10 % / 0,90 %. **Características especiales:** supletorio 0,6 %, entre 0,4 % y 1,3 %. Pueden **incrementarse** los tipos en municipios que sean capital de provincia o CA, tengan transporte colectivo, presten más servicios de los obligatorios o con mucho suelo rústico.",
+      "**Recargo por vivienda desocupada:** hasta el **50 %** de la cuota líquida (hasta el **100 %** si lleva más de tres años) en inmuebles residenciales desocupados de forma permanente (más de dos años) de titulares de cuatro o más inmuebles residenciales. Se devenga el **31 de diciembre**.",
+      "**Devengo y gestión:** el **primer día del período impositivo** (año natural). Se gestiona a partir del **padrón catastral**, que se remite a las entidades gestoras antes del **1 de marzo**; la gestión corresponde a los ayuntamientos."
+     ]
+    ],
+    [
+     "h",
+     "IAE, IVTM, ICIO e IIVTNU: más datos"
+    ],
+    [
+     "lista",
+     [
+      "**IAE:** no son actividades empresariales las agrícolas, las ganaderas dependientes, las forestales ni las pesqueras. Hay **exenciones** (art. 82), entre otras, para personas físicas y para sujetos del Impuesto sobre Sociedades con importe neto de la cifra de negocios **inferior a 1.000.000 de euros**. El período es el año natural y las **cuotas son irreducibles** (salvo alta o baja en el año). La **matrícula** y la **inspección** corresponden a la **Administración tributaria del Estado**; a los ayuntamientos, la **liquidación y recaudación**.",
+      "**IVTM:** vehículos matriculados en registros públicos y no dados de baja, con permiso temporal y matrícula turística; no sujetos los vehículos de más de **25 años** dados de baja y los remolques de **carga útil no superior a 750 kg**. Sujeto pasivo: a cuyo nombre figure el vehículo en el permiso de circulación. Bonificación de hasta el **100 %** para históricos o con **25 años** de antigüedad. Se devenga el **primer día del período**, que es el año natural salvo la primera adquisición; el prorrateo es **por trimestres naturales**. La gestión corresponde al ayuntamiento del domicilio que conste en el permiso.",
+      "**ICIO:** hecho imponible: construcción, instalación u obra que exija **licencia** (o declaración responsable o comunicación previa). Sujeto pasivo: dueño de la obra (**contribuyente**); **sustituto**: quien solicita la licencia o ejecuta la obra. **Base imponible:** **coste real y efectivo** (ejecución material), sin IVA, tasas, honorarios ni beneficio del contratista. **Tipo máximo 4 %.** Devengo al **iniciarse la obra**. Liquidación provisional y definitiva al terminar. Bonificaciones de hasta el 95 % por **especial interés** (con voto favorable de la **mayoría simple** del Pleno), hasta el 95 % por **aprovechamiento solar**, hasta el 50 % para **vivienda de protección oficial**.",
+      "**IIVTNU:** grava el incremento de valor de terrenos urbanos por transmisión de propiedad o derechos reales de goce. **No sujeción** entre cónyuges por la sociedad conyugal y otros supuestos, y cuando se **acredite que no hubo incremento**. **Exentos** (art. 105): servidumbres, bienes de conjuntos históricos con obras de rehabilitación, **dación en pago de la vivienda habitual**, y las Administraciones, entidades benéficas, Seguridad Social, Cruz Roja… **Sujeto pasivo:** en transmisiones **lucrativas**, el que adquiere; en **onerosas**, el que transmite (sustituto el adquirente si el contribuyente es persona física **no residente**). **Base:** valor del terreno × coeficiente según los **años de generación** (hasta un máximo de 20). **Tipo máximo 30 %.** Devengo: fecha de la transmisión. **Declaración:** **30 días hábiles** (inter vivos) o **seis meses** prorrogables a un año (mortis causa). Los **notarios** remiten relación a los ayuntamientos en la primera quincena de cada trimestre."
+     ]
+    ],
+    [
+     "trampa",
+     "El IBI se **devenga el primer día** del año; la **matrícula del IAE** la forma el **Estado**; el IVTM prorratea **por trimestres**; en el IIVTNU el plazo de declaración es de **30 días hábiles** (inter vivos) o **6 meses** (mortis causa)."
     ]
    ],
    "flash": [
@@ -718,6 +980,26 @@
     [
      "¿Quién participa en tributos del Estado (art. 111)?",
      "Capitales de provincia o de CA y municipios con 75.000 habitantes o más."
+    ],
+    [
+     "¿En qué orden se determina el hecho imponible del IBI?",
+     "Concesión administrativa, derecho de superficie, usufructo y propiedad."
+    ],
+    [
+     "¿Qué recargo pueden exigir los ayuntamientos por vivienda desocupada permanentemente?",
+     "Hasta el 50 % de la cuota líquida, y hasta el 100 % si la desocupación supera tres años."
+    ],
+    [
+     "¿Qué Administración forma la matrícula del IAE?",
+     "La Administración tributaria del Estado."
+    ],
+    [
+     "¿Qué plazo hay para declarar el IIVTNU en una transmisión por causa de muerte?",
+     "Seis meses, prorrogables hasta un año."
+    ],
+    [
+     "¿Qué base imponible tiene el ICIO?",
+     "El coste real y efectivo de ejecución material de la construcción, instalación u obra."
     ]
    ],
    "esquema": [
@@ -1292,6 +1574,31 @@
         "titulo": "Art. 5: la venta de patrimonio no paga gasto corriente"
        }
       ]
+     },
+     {
+      "titulo": "Potestad tributaria",
+      "hijos": [
+       {
+        "titulo": "Originaria: Estado por ley"
+       },
+       {
+        "titulo": "Local: secundaria · ordenanzas fiscales"
+       },
+       {
+        "titulo": "Gestión, recaudación e inspección propias"
+       }
+      ]
+     },
+     {
+      "titulo": "Crédito y prudencia financiera",
+      "hijos": [
+       {
+        "titulo": "Corto y largo plazo (art. 48-49)"
+       },
+       {
+        "titulo": "Prudencia financiera (art. 48 bis)"
+       }
+      ]
      }
     ]
    },
@@ -1334,6 +1641,20 @@
         "titulo": "Cubre como mínimo el coste"
        }
       ]
+     },
+     {
+      "titulo": "Cuantía y devengo de las tasas",
+      "hijos": [
+       {
+        "titulo": "Tasa ≤ coste real"
+       },
+       {
+        "titulo": "Dominio público: valor de mercado · suministros 1,5 %"
+       },
+       {
+        "titulo": "Sustitutos del contribuyente"
+       }
+      ]
      }
     ]
    },
@@ -1363,6 +1684,20 @@
        },
        {
         "titulo": "Acuerdo de imposición previo"
+       }
+      ]
+     },
+     {
+      "titulo": "Reparto y gestión",
+      "hijos": [
+       {
+        "titulo": "Módulos: fachada, superficie, volumen, valor catastral"
+       },
+       {
+        "titulo": "Aplazamiento hasta 5 años"
+       },
+       {
+        "titulo": "Asociación: mayoría absoluta y 2/3 de cuotas"
        }
       ]
      }
@@ -1405,6 +1740,37 @@
        },
        {
         "titulo": "≥ 75.000 habitantes"
+       }
+      ]
+     },
+     {
+      "titulo": "IBI en detalle",
+      "hijos": [
+       {
+        "titulo": "Orden: concesión > superficie > usufructo > propiedad"
+       },
+       {
+        "titulo": "Bonificaciones y recargo vivienda desocupada"
+       },
+       {
+        "titulo": "Padrón catastral antes del 1 de marzo"
+       }
+      ]
+     },
+     {
+      "titulo": "IAE · IVTM · ICIO · IIVTNU",
+      "hijos": [
+       {
+        "titulo": "IAE: matrícula la forma el Estado"
+       },
+       {
+        "titulo": "IVTM: prorrateo por trimestres"
+       },
+       {
+        "titulo": "ICIO: base = coste real, máx. 4 %"
+       },
+       {
+        "titulo": "IIVTNU: máx. 30 % · 30 días hábiles / 6 meses"
        }
       ]
      }

@@ -1,6 +1,7 @@
 {
  "mapaEpis": [
   [
+   "e4",
    "e0"
   ],
   [
@@ -226,6 +227,136 @@
     ]
    ],
    "ic": "🏦"
+  },
+  {
+   "id": "h-potestad",
+   "epi": "e4",
+   "titulo": "Potestad tributaria local",
+   "art": "Arts. 31.3 y 133 CE · art. 106 LBRL",
+   "resumen": "Quién crea y quién establece los tributos.",
+   "pistas": [
+    [
+     "d",
+     "La potestad originaria para crear tributos es del Estado, por ley"
+    ],
+    [
+     "d",
+     "Las Entidades Locales la tienen secundaria: establecen, no crean"
+    ],
+    [
+     "d",
+     "Se ejerce mediante ordenanzas fiscales"
+    ],
+    [
+     "q",
+     "Gestionan, recaudan e inspeccionan sus tributos propios"
+    ]
+   ],
+   "ic": "📜"
+  },
+  {
+   "id": "h-prudencia",
+   "epi": "e0",
+   "titulo": "Crédito y prudencia financiera",
+   "art": "Arts. 48, 48 bis y 49",
+   "resumen": "Operaciones de crédito de las Entidades Locales.",
+   "pistas": [
+    [
+     "d",
+     "Crédito a corto y largo plazo, y operaciones de cobertura de riesgos"
+    ],
+    [
+     "d",
+     "Prudencia financiera: minimizar riesgo y coste"
+    ],
+    [
+     "d",
+     "Avales fuera de prudencia: autorización de la tutela financiera"
+    ]
+   ],
+   "ic": "🏦"
+  },
+  {
+   "id": "h-cuantia-tasa",
+   "epi": "e1",
+   "titulo": "Cuantía de la tasa",
+   "art": "Art. 24 TRLRHL",
+   "resumen": "Cómo se calcula el importe.",
+   "pistas": [
+    [
+     "d",
+     "Dominio público: valor de mercado de la utilidad"
+    ],
+    [
+     "n",
+     "Suministros de interés general: 1,5 % de ingresos brutos"
+    ],
+    [
+     "d",
+     "Servicios: no puede exceder el coste real o previsible"
+    ],
+    [
+     "d",
+     "Daños al dominio público: reintegro total, sin condonación"
+    ]
+   ],
+   "ic": "🧮"
+  },
+  {
+   "id": "h-ibi-detalle",
+   "epi": "e3",
+   "titulo": "IBI en detalle",
+   "art": "Arts. 60 a 77 TRLRHL",
+   "resumen": "Hecho imponible, base, tipos y bonificaciones.",
+   "pistas": [
+    [
+     "d",
+     "Orden del hecho imponible: concesión, superficie, usufructo, propiedad"
+    ],
+    [
+     "d",
+     "Base imponible: valor catastral"
+    ],
+    [
+     "n",
+     "Tipos: 0,4 % y 1,10 % urbanos; 0,3 % y 0,90 % rústicos"
+    ],
+    [
+     "n",
+     "Recargo vivienda desocupada: hasta 50 % o 100 %"
+    ],
+    [
+     "d",
+     "Se devenga el primer día del año"
+    ]
+   ],
+   "ic": "🏠"
+  },
+  {
+   "id": "h-iivtnu",
+   "epi": "e3",
+   "titulo": "IIVTNU (plusvalía)",
+   "art": "Arts. 104 a 110",
+   "resumen": "Incremento de valor de terrenos urbanos.",
+   "pistas": [
+    [
+     "d",
+     "Sujeto pasivo: en lucrativas el adquirente; en onerosas el transmitente"
+    ],
+    [
+     "n",
+     "Tipo máximo 30 %"
+    ],
+    [
+     "n",
+     "Declaración: 30 días hábiles (inter vivos) o 6 meses (mortis causa)"
+    ],
+    [
+     "d",
+     "No sujeto si se acredita que no hubo incremento"
+    ]
+   ],
+   "ic": "🏗️"
   }
  ],
  "esquema": [
@@ -478,6 +609,54 @@
    "Exención y bonificación",
    "La exención libra totalmente de pagar el tributo; la bonificación solo reduce la cuota.",
    "TRLRHL"
+  ],
+  [
+   "potestad-secundaria",
+   "Potestad tributaria secundaria",
+   "La de las Entidades Locales: no crean tributos, solo los establecen una vez creados por ley.",
+   "Art. 133 CE"
+  ],
+  [
+   "prudencia-financiera",
+   "Prudencia financiera",
+   "Condiciones que deben cumplir las operaciones financieras locales para minimizar su riesgo y coste.",
+   "Art. 48 bis TRLRHL"
+  ],
+  [
+   "prestacion-personal",
+   "Prestación personal y de transporte",
+   "Recurso de los municipios de hasta 5.000 habitantes para obras de su competencia.",
+   "Art. 2 TRLRHL"
+  ],
+  [
+   "valor-catastral",
+   "Valor catastral",
+   "Valor de un inmueble fijado por el Catastro. Es la base imponible del IBI.",
+   "Art. 65 TRLRHL"
+  ],
+  [
+   "base-liquidable",
+   "Base liquidable",
+   "Base imponible menos las reducciones legales. En el IBI se multiplica por el tipo de gravamen.",
+   "Art. 66 TRLRHL"
+  ],
+  [
+   "precio-politico",
+   "Precio político",
+   "Precio público fijado por debajo del coste por razones sociales, con dotación en el presupuesto.",
+   "Art. 44 TRLRHL"
+  ],
+  [
+   "sustituto-contribuyente",
+   "Sustituto del contribuyente",
+   "Quien, por mandato de la ley, paga la tasa o impuesto en lugar del contribuyente y puede repercutírselo.",
+   "Art. 23 TRLRHL"
+  ],
+  [
+   "plusvalia",
+   "Plusvalía municipal",
+   "Nombre habitual del IIVTNU: grava el incremento de valor de los terrenos urbanos al transmitirse.",
+   "Art. 104 TRLRHL"
   ]
  ]
 }
