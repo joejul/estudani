@@ -3616,6 +3616,397 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "Para la doctrina clásica, un acto administrativo es una declaración realizada por un sujeto de la Administración en ejercicio de una potestad administrativa:",
+   [
+    "Incluida la potestad reglamentaria",
+    "Distinta de la potestad reglamentaria",
+    "Reglamentaria o de ejecución forzosa"
+   ],
+   1,
+   "Los reglamentos son normas, no actos.",
+   "Lección del tema: concepto de acto",
+   "Incluir los reglamentos",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "NO es un acto administrativo:",
+   [
+    "El acuerdo que declara una finca en ruina",
+    "La concesión de una licencia de obras",
+    "Una operación material de ejecución, como el derribo de una finca en ruina"
+   ],
+   2,
+   "El acto es el acuerdo; el derribo es una operación respaldada por él.",
+   "Lección del tema: qué no es acto",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los contratos no se consideran actos administrativos porque:",
+   [
+    "Exigen un acuerdo de voluntades, mientras que el acto es unilateral",
+    "Los dicta un sujeto privado",
+    "Se dictan en ejercicio de la potestad reglamentaria"
+   ],
+   0,
+   "Un acto que necesita aceptación del destinatario sigue siendo unilateral.",
+   "Lección del tema: qué no es acto",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Un acto simple es el que procede de:",
+   [
+    "Un solo órgano, y el acuerdo del Pleno de una Corporación es un acto simple",
+    "Dos o más órganos, y el acuerdo del Pleno es un acto complejo",
+    "Un órgano unipersonal, nunca de uno colegiado"
+   ],
+   0,
+   "Complejo ≠ colegiado: el órgano colegiado manifiesta una sola voluntad.",
+   "Lección del tema: clases de actos",
+   "Complejo no es colegiado",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Atendiendo a su forma de manifestarse, los actos administrativos son:",
+   [
+    "Simples y complejos",
+    "Expresos y presuntos (por silencio positivo o negativo)",
+    "Reglados y discrecionales"
+   ],
+   1,
+   "Simples/complejos = número de órganos; reglados/discrecionales = margen de decisión.",
+   "Lección del tema: clases de actos",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En un acto reglado:",
+   [
+    "La norma señala la decisión que debe adoptarse",
+    "Hay varias opciones lícitas a elegir",
+    "El acto no necesita motivación"
+   ],
+   0,
+   "Ejemplo: una licencia de obras que cumple la normativa no puede denegarse.",
+   "Lección del tema: clases de actos",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Un informe técnico del proyecto dentro de un expediente es un acto:",
+   [
+    "De trámite",
+    "Definitivo",
+    "De gravamen"
+   ],
+   0,
+   "Definitivo: pone fin al expediente.",
+   "Lección del tema: clases de actos",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Una sanción es un acto:",
+   [
+    "Favorable, porque reconoce un derecho",
+    "De gravamen, porque impone un deber o una carga",
+    "Declarativo, porque solo constata"
+   ],
+   1,
+   "Un certificado de empadronamiento es declarativo.",
+   "Lección del tema: clases de actos",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Un certificado de empadronamiento es un acto:",
+   [
+    "Constitutivo, porque crea una situación jurídica",
+    "Declarativo, porque solo constata una situación",
+    "De gravamen"
+   ],
+   1,
+   "Constitutivo: crea, modifica o extingue.",
+   "Lección del tema: clases de actos",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los actos que causan estado son los que:",
+   [
+    "Agotan la vía administrativa",
+    "Ponen fin a un trámite",
+    "Producen efectos instantáneos"
+   ],
+   0,
+   "La licencia de apertura es de tracto sucesivo; la de obras, de tracto instantáneo.",
+   "Lección del tema: clases de actos",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La convocatoria de unas oposiciones es un acto:",
+   [
+    "Singular, porque se dirige a un grupo determinado",
+    "Complejo, porque intervienen varios órganos",
+    "General, porque se dirige a una pluralidad indeterminada de destinatarios"
+   ],
+   2,
+   "Singular: persona o grupo determinado.",
+   "Lección del tema: clases de actos",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los elementos del acto administrativo se agrupan en:",
+   [
+    "Subjetivos, objetivos y formales",
+    "Reglados, discrecionales y complejos",
+    "Territoriales, funcionales y jerárquicos"
+   ],
+   0,
+   "Quién (subjetivos), qué y por qué (objetivos) y cómo (formales).",
+   "Lección del tema: elementos del acto",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La competencia, a diferencia de la capacidad, es:",
+   [
+    "La aptitud propia de la persona jurídico-pública",
+    "La medida de la potestad que corresponde a cada órgano",
+    "El destinatario del acto"
+   ],
+   1,
+   "Capacidad: persona jurídica pública; competencia: órgano.",
+   "Lección del tema: elementos subjetivos",
+   "Confundir capacidad y competencia",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La incompetencia territorial o material manifiesta produce:",
+   [
+    "Anulabilidad convalidable",
+    "Nulidad de pleno derecho (art. 47.1.b)",
+    "Mera irregularidad"
+   ],
+   1,
+   "La incompetencia jerárquica es anulabilidad y se puede convalidar por el superior.",
+   "Lección del tema: elementos subjetivos",
+   "Confundir nulidad y anulabilidad",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Si un órgano inferior invade la competencia jerárquica de un superior, el acto es:",
+   [
+    "Anulable y puede convalidarse por el órgano superior (art. 52.3)",
+    "Nulo de pleno derecho",
+    "Válido por silencio del superior"
+   ],
+   0,
+   "Según el contenido del tema: Anulable y puede convalidarse por el órgano superior (art. 52.3).",
+   "Lección del tema: elementos subjetivos",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El contenido de un acto administrativo debe ser:",
+   [
+    "Determinado o determinable, posible y lícito y adecuado a su fin (art. 34.2)",
+    "Expreso, escrito y motivado",
+    "Reglado y proporcionado"
+   ],
+   0,
+   "Según el contenido del tema: Determinado o determinable, posible y lícito y adecuado a su fin (art. 34.2).",
+   "Lección del tema: elementos objetivos",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las tres partes del contenido de un acto son:",
+   [
+    "Expreso, tácito y accesorio",
+    "Natural, implícito y eventual",
+    "Subjetivo, objetivo y formal"
+   ],
+   1,
+   "Natural: lo que lo individualiza; implícito: lo que el ordenamiento supone; eventual: cláusulas accesorias.",
+   "Lección del tema: elementos objetivos",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las cláusulas accesorias de un acto son:",
+   [
+    "Causa, fin y contenido",
+    "Forma, procedimiento y motivación",
+    "Condición, término y modo"
+   ],
+   2,
+   "La nulidad de una cláusula no arrastra al acto si este puede producir efectos sin ella (art. 49.2).",
+   "Lección del tema: elementos objetivos",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La causa del acto administrativo es:",
+   [
+    "El efecto práctico del acto",
+    "El interés público perseguido",
+    "La razón que lo justifica: sus presupuestos de hecho"
+   ],
+   2,
+   "Convocar una plaza que no está vacante falla en la causa.",
+   "Lección del tema: elementos objetivos",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La desviación de poder consiste en:",
+   [
+    "Dictar un acto sin competencia",
+    "Ejercer potestades administrativas para fines distintos de los fijados por el ordenamiento jurídico",
+    "Omitir el procedimiento establecido"
+   ],
+   1,
+   "Art. 70.2 LJCA; el acto es anulable (art. 48.1).",
+   "Lección del tema: elementos objetivos",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los actos con contenido imposible o que constituyan infracción penal son:",
+   [
+    "Anulables (art. 48.1)",
+    "Válidos si no hay recurso",
+    "Nulos de pleno derecho (art. 47.1.c y d)"
+   ],
+   2,
+   "Cualquier otra infracción, incluida la desviación de poder, produce anulabilidad.",
+   "Lección del tema: elementos objetivos",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En Derecho Administrativo la forma de los actos es, por regla general:",
+   [
+    "Verbal, con constancia escrita posterior",
+    "Por escrito y por medios electrónicos, salvo que su naturaleza exija o permita otra más adecuada (art. 36.1)",
+    "Libre, a elección del órgano"
+   ],
+   1,
+   "Según el contenido del tema: Por escrito y por medios electrónicos, salvo que su naturaleza exija o permita otra más adecuada (art. 36.1).",
+   "Lección del tema: elementos formales",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Un defecto de forma solo produce anulabilidad cuando:",
+   [
+    "El acto carece de los requisitos formales indispensables para alcanzar su fin o da lugar a indefensión",
+    "Falta cualquier requisito formal",
+    "El interesado lo alega en el recurso"
+   ],
+   0,
+   "Art. 48.2 LPAC.",
+   "Lección del tema: elementos formales",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

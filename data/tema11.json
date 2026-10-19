@@ -3399,6 +3399,108 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "Según la doctrina clásica (Garrido Falla), las tres formas de actividad de las Entidades Locales son:",
+   [
+    "Policía, fomento y servicio público",
+    "Policía, fomento y concesión",
+    "Intervención, subvención y prestación"
+   ],
+   0,
+   "Coacción, estímulo y prestación.",
+   "Lección del tema: tres actividades",
+   "",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Reglamento de Servicios de las Corporaciones Locales regula la actividad de policía en el:",
+   [
+    "Título II",
+    "Título III",
+    "Título I"
+   ],
+   2,
+   "Título I policía, Título II fomento, Título III servicio público.",
+   "Lección del tema: tres actividades",
+   "Confundir los títulos",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Según el RSCL, la acción de fomento se regula en el:",
+   [
+    "Título II",
+    "Título I",
+    "Título III"
+   ],
+   0,
+   "Fomento = estímulo o persuasión.",
+   "Lección del tema: tres actividades",
+   "",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La actividad de servicio público se corresponde con la forma de actuación basada en:",
+   [
+    "La coacción",
+    "La prestación",
+    "El estímulo o persuasión"
+   ],
+   1,
+   "Policía = coacción; fomento = estímulo; servicio público = prestación.",
+   "Lección del tema: tres actividades",
+   "",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En la actividad de policía la Administración consigue que los particulares ajusten su conducta al interés público:",
+   [
+    "Mediante estímulos o subvenciones",
+    "Prestándoles directamente un servicio",
+    "Obligatoriamente, incluso bajo amenaza de coacción"
+   ],
+   2,
+   "Según el contenido del tema: Obligatoriamente, incluso bajo amenaza de coacción.",
+   "Lección del tema: tres actividades",
+   "",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El fomento se caracteriza porque la Administración:",
+   [
+    "Obliga al particular a ajustar su patrimonio al interés público",
+    "Estimula o persuade al particular para que actúe como conviene al interés público",
+    "Presta directamente lo necesario para satisfacer necesidades públicas"
+   ],
+   1,
+   "Según el contenido del tema: Estimula o persuade al particular para que actúe como conviene al interés público.",
+   "Lección del tema: tres actividades",
+   "",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }
