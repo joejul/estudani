@@ -5,6 +5,18 @@
   ],
   [
    "e1"
+  ],
+  [
+   "e2"
+  ],
+  [
+   "e3"
+  ],
+  [
+   "e4"
+  ],
+  [
+   "e5"
   ]
  ],
  "glosario": [
@@ -79,6 +91,66 @@
    "Junta de distrito",
    "Órgano territorial de gestión desconcentrada de un municipio de gran población.",
    "Art. 128 LBRL"
+  ],
+  [
+   "concejo-local",
+   "Concejo Local",
+   "Órgano de un núcleo de población separado dentro de un distrito o barrio rural de Zaragoza. Tiene un Presidente y cuatro Vocales.",
+   "Art. 36 Reglamento"
+  ],
+  [
+   "alcalde-barrio",
+   "Alcalde de Barrio",
+   "Presidente de una Junta Vecinal. Lo nombra el Alcalde entre el vecino más votado en una consulta democrática del barrio.",
+   "Art. 32 Reglamento"
+  ],
+  [
+   "consejo-rector",
+   "Consejo Rector",
+   "Órgano potestativo de las Juntas y de los Consejos de Distrito que ejerce iniciativa, gestión y coordinación. Se reúne al menos una vez al mes.",
+   "Art. 19 Reglamento"
+  ],
+  [
+   "consejo-distrito",
+   "Consejo de Distrito",
+   "Agrupación de Juntas Municipales completas y limítrofes para coordinar la gestión y los servicios.",
+   "Arts. 37-43 Reglamento"
+  ],
+  [
+   "iniciativa-ciudadana",
+   "Iniciativa ciudadana",
+   "Propuesta de los vecinos de una actuación de interés público municipal, aportando medios propios. Decide la Junta de Gobierno Local.",
+   "Art. 51 Reglamento"
+  ],
+  [
+   "observatorio-urbano",
+   "Observatorio Urbano",
+   "Servicio del Área de Participación Ciudadana que recoge la opinión de vecinos y analiza la calidad de vida con indicadores.",
+   "Art. 54 Reglamento"
+  ],
+  [
+   "censo-entidades",
+   "Censo Municipal de Entidades Ciudadanas",
+   "Registro de las asociaciones de Zaragoza. Inscribirse da derechos de participación.",
+   "Arts. 59-62 Reglamento"
+  ],
+  [
+   "interes-publico-municipal",
+   "Interés público municipal",
+   "Declaración del Pleno a una entidad ciudadana destacada. Caduca a los cinco años.",
+   "Art. 67 Reglamento"
+  ],
+  [
+   "curva-hostilidad",
+   "Curva de la hostilidad",
+   "Patrón de seis fases que sigue una persona enfadada, desde que está racional hasta que se resuelve el problema.",
+   "Manual de Atención"
+  ],
+  [
+   "autoverbalizacion",
+   "Autoverbalización",
+   "Diálogo interno con palabras positivas y de calma que ayuda al funcionario a mantener el control en una situación tensa.",
+   "Manual de Atención"
   ]
  ],
  "hubs": [
@@ -155,6 +227,196 @@
     ]
    ],
    "ic": "📍"
+  },
+  {
+   "id": "h-junta-municipal",
+   "epi": "e1",
+   "titulo": "Junta Municipal",
+   "art": "Arts. 14 a 29 Reglamento",
+   "resumen": "Presidente, Pleno, Consejo Rector y sesiones.",
+   "pistas": [
+    [
+     "q",
+     "Presidente nato: el Alcalde (delega en un concejal)"
+    ],
+    [
+     "n",
+     "Pleno: Presidente + diez vocales"
+    ],
+    [
+     "n",
+     "Pleno: mínimo una vez al trimestre"
+    ],
+    [
+     "n",
+     "Consejo Rector: una vez al mes"
+    ],
+    [
+     "n",
+     "Suspender un acuerdo: 24 horas al Alcalde, ratificación en 72"
+    ]
+   ],
+   "ic": "🏘️"
+  },
+  {
+   "id": "h-barrios-rurales",
+   "epi": "e1",
+   "titulo": "Barrios rurales y Concejos Locales",
+   "art": "Arts. 30 a 43 Reglamento",
+   "resumen": "Alcalde de Barrio, Junta Vecinal y Concejos.",
+   "pistas": [
+    [
+     "q",
+     "Alcalde de Barrio: el vecino más votado en consulta"
+    ],
+    [
+     "n",
+     "Vocales: 4 si menos de 2.000 habitantes; 6 en las demás"
+    ],
+    [
+     "n",
+     "Concejo Local: Presidente + 4 vocales"
+    ],
+    [
+     "d",
+     "Los Consejos de Distrito agrupan Juntas completas limítrofes"
+    ]
+   ],
+   "ic": "🌾"
+  },
+  {
+   "id": "h-participacion-individual",
+   "epi": "e2",
+   "titulo": "Participación individual",
+   "art": "Arts. 50 a 58 Reglamento",
+   "resumen": "Iniciativa, audiencia y consulta.",
+   "pistas": [
+    [
+     "n",
+     "Iniciativa de ordenanzas: 10 % del padrón"
+    ],
+    [
+     "n",
+     "Audiencia pública de Junta: máximo 300 o 3.000 firmas"
+    ],
+    [
+     "n",
+     "Consulta popular: 10.000 + 5 % de lo que exceda de 100.000"
+    ],
+    [
+     "q",
+     "Autoriza la consulta el Gobierno del Estado"
+    ]
+   ],
+   "ic": "🗣️"
+  },
+  {
+   "id": "h-entidades",
+   "epi": "e3",
+   "titulo": "Entidades ciudadanas",
+   "art": "Arts. 59 a 78 Reglamento",
+   "resumen": "Censo, interés público municipal e interés ciudadano.",
+   "pistas": [
+    [
+     "n",
+     "Inscripción en el Censo: 30 días"
+    ],
+    [
+     "n",
+     "Interés público municipal: caduca a los 5 años"
+    ],
+    [
+     "q",
+     "Lo declara el Pleno por mayoría absoluta"
+    ],
+    [
+     "n",
+     "Actualizar documentos antes del 1 de marzo"
+    ]
+   ],
+   "ic": "🤝"
+  },
+  {
+   "id": "h-consejo-ciudad",
+   "epi": "e4",
+   "titulo": "Consejo de la Ciudad",
+   "art": "Arts. 82 a 101 Reglamento",
+   "resumen": "Órgano consultivo de participación sectorial.",
+   "pistas": [
+    [
+     "q",
+     "Preside el Alcalde; vicepresidente el Teniente de Alcalde de Participación"
+    ],
+    [
+     "n",
+     "Cuatro sesiones ordinarias al año"
+    ],
+    [
+     "d",
+     "Acuerdos: informes o peticiones, no vinculantes"
+    ],
+    [
+     "d",
+     "Asamblea Ciudadana cada dos años"
+    ]
+   ],
+   "ic": "🏙️"
+  },
+  {
+   "id": "h-comision-sugerencias",
+   "epi": "e4",
+   "titulo": "Comisión de Sugerencias y Reclamaciones",
+   "art": "Arts. 102 a 115 Reglamento",
+   "resumen": "Defensa de los derechos de los vecinos.",
+   "pistas": [
+    [
+     "n",
+     "Se reúne al menos tres veces al año"
+    ],
+    [
+     "d",
+     "Sesiones no públicas"
+    ],
+    [
+     "n",
+     "Plazos: 10 días, 15 días y 15 días"
+    ],
+    [
+     "t",
+     "Las quejas no son recursos administrativos"
+    ],
+    [
+     "d",
+     "No se admiten quejas anónimas"
+    ]
+   ],
+   "ic": "📮"
+  },
+  {
+   "id": "h-manual-atencion",
+   "epi": "e5",
+   "titulo": "Manual de Atención a la Ciudadanía",
+   "art": "Manual (1994, adaptado en 2018)",
+   "resumen": "Calidad, comunicación y hostilidad.",
+   "pistas": [
+    [
+     "d",
+     "Calidad: tangibles, respuesta, seguridad, empatía"
+    ],
+    [
+     "d",
+     "Acogida, recogida y reconocimiento"
+    ],
+    [
+     "n",
+     "Curva de la hostilidad: seis fases"
+    ],
+    [
+     "d",
+     "Fase 4 (afrontamiento): intervenir con empatía"
+    ]
+   ],
+   "ic": "💬"
   }
  ],
  "esquema": [

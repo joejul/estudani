@@ -61,6 +61,38 @@
     [
      "trampa",
      "Las sesiones de la **Junta de Gobierno Local no son públicas**; las del **Pleno sí**. Los **distritos** son **obligatorios** en municipios de **gran población**."
+    ],
+    [
+     "h",
+     "Norma estatal y autonómica sobre participación"
+    ],
+    [
+     "lista",
+     [
+      "**Transparencia y gobierno abierto:** Ley estatal **19/2013** y Ley aragonesa **8/2015**, de 25 de marzo, de Transparencia de la Actividad Pública y Participación Ciudadana de Aragón.",
+      "**Régimen local:** arts. **69 a 72 LBRL** y arts. **152 a 157 de la Ley 7/1999** de Administración Local de Aragón (LALA).",
+      "**Art. 70 LBRL:** las sesiones del **Pleno** son públicas (pueden ser secretos el debate y la votación de asuntos que afecten al derecho al honor, la intimidad y la propia imagen, por **mayoría absoluta**); **no son públicas** las de la **Junta de Gobierno Local**.",
+      "**Art. 70 bis – iniciativa popular:** propuestas de acuerdos o actuaciones de los vecinos con derecho de sufragio en las elecciones municipales, que deben **debatirse y votarse en el Pleno**. Porcentaje de firmas: **hasta 5.000 habitantes: 20 %**; **de 5.001 a 20.000: 15 %**; **a partir de 20.001: 10 %**.",
+      "**Art. 70 bis – tecnologías:** las Entidades Locales impulsan la participación **electrónica** y deben crear y mantener un **portal de internet** de información y de acceso a servicios digitalizados.",
+      "**Art. 71 – consulta popular:** el Alcalde, previo acuerdo del Pleno por **mayoría absoluta** y **autorización del Gobierno de la Nación**, puede someter a consulta asuntos de competencia propia municipal y carácter local, **excepto los de Hacienda Local**.",
+      "**LALA arts. 155 y 156:** las Corporaciones facilitan la participación remitiendo a los medios las convocatorias y órdenes del día, difundiendo las **exposiciones públicas** y creando **oficinas de información**. Las **asociaciones de vecinos** pueden recabar información, elevar propuestas y formar parte de órganos de participación e intervenir en las sesiones del Pleno y comisiones."
+     ]
+    ],
+    [
+     "h",
+     "Los reglamentos orgánicos de Zaragoza"
+    ],
+    [
+     "lista",
+     [
+      "Zaragoza regula la participación en la **Ley 10/2017** (arts. 52 y 53), el **Reglamento orgánico municipal** (26 de noviembre de 2004) y el **Reglamento de órganos territoriales y participación ciudadana** (28 de julio de 2005).",
+      "El **Reglamento de órganos territoriales** tiene **117 artículos**, 5 disposiciones adicionales, 4 transitorias, 1 derogatoria y 2 finales, en **siete títulos**: I Disposiciones generales · II Entes territoriales de participación · III Órganos territoriales de gestión y prestación de servicios (Consejos de Distrito y oficinas) · IV Información y participación ciudadana · V **Consejo de la Ciudad** · VI **Comisión Especial de Sugerencias y Reclamaciones** · VII **Consejos Sectoriales**.",
+      "**Ley 10/2017, art. 53:** el derecho de **petición** puede ser individual o colectivo y se ejerce **por escrito** a través del **canal único de participación**. Todas las personas inscritas en el **padrón** pueden participar en procedimientos consultivos del Ayuntamiento."
+     ]
+    ],
+    [
+     "trampa",
+     "El **Reglamento tiene siete títulos y 117 artículos**; el **Consejo de la Ciudad** es el título V y la **Comisión de Sugerencias** el VI."
     ]
    ],
    "flash": [
@@ -71,6 +103,18 @@
     [
      "¿Qué son los distritos de gran población?",
      "Divisiones territoriales con órganos de gestión desconcentrada para impulsar la participación ciudadana (art. 128 LBRL)."
+    ],
+    [
+     "¿Qué porcentaje de firmas exige la iniciativa popular en municipios de más de 20.000 habitantes?",
+     "El 10 %."
+    ],
+    [
+     "¿Cuántos títulos y artículos tiene el Reglamento de órganos territoriales de Zaragoza?",
+     "Siete títulos y 117 artículos."
+    ],
+    [
+     "¿Qué ley aragonesa regula la transparencia y la participación ciudadana?",
+     "La Ley 8/2015, de 25 de marzo."
     ]
    ],
    "esquema": [
@@ -665,7 +709,7 @@
   },
   {
    "id": "e1",
-   "titulo": "Organización territorial de Zaragoza (datos del examen 2025)",
+   "titulo": "Organización territorial de Zaragoza: distritos y barrios rurales",
    "subtitulo": "Reglamento de Órganos Territoriales y Participación Ciudadana: arts. 11 a 43",
    "clave": [
     "16 distritos, uno rural con 14 barrios rurales (art. 2)",
@@ -673,10 +717,6 @@
     "Iniciativa ciudadana: 10 % del padrón (art. 51)"
    ],
    "bloques": [
-    [
-     "key",
-     "**Contenido parcial:** estos datos proceden de las preguntas oficiales de 2025 y no se han contrastado con el texto del Reglamento. Conviene estudiar el reglamento completo y el Manual de Atención a la ciudadanía en la web del Ayuntamiento."
-    ],
     [
      "tabla",
      [
@@ -709,6 +749,92 @@
     [
      "trampa",
      "**Distritos → Juntas Municipales; barrios rurales → Juntas Vecinales** (no al revés). **16 distritos** y **14 barrios rurales**. Iniciativa ciudadana: **10 %** del padrón."
+    ],
+    [
+     "h",
+     "Los dieciséis distritos y sus órganos"
+    ],
+    [
+     "lista",
+     [
+      "Los **dieciséis** distritos (art. 2): Centro, Casco Histórico, Delicias, Universidad, San José, Las Fuentes, Almozara, Oliver-Valdefierro, Torrero, Actur-Rey Fernando, El Rabal, Casablanca, Santa Isabel, Miralbueno, **Sur** y el **Distrito Rural**, que agrupa **catorce barrios rurales**: Alfocea, Casetas, Garrapinillos, Juslibol, La Cartuja Baja, Montañana, Monzalbarba, Movera, Peñaflor, San Gregorio, San Juan de Mozarrifar, Torrecilla de Valmadrid, Venta del Olivar y Villarrapa.",
+      "**Modificar** los distritos o barrios o sus linderos exige acuerdo del **Pleno por mayoría absoluta** y seguir los trámites de elaboración de reglamentos y ordenanzas.",
+      "Dentro de cada distrito o barrio rural pueden reconocerse **núcleos de población separados y aislados** como **Concejos Locales**.",
+      "**Las Juntas Municipales y Vecinales** son los órganos de gestión desconcentrada; los **Consejos de Distrito** son los órganos territoriales para la prestación de servicios y apoyo a la tramitación."
+     ]
+    ],
+    [
+     "h",
+     "Fines de las Juntas Municipales (art. 11) y ámbitos de acción (art. 12)"
+    ],
+    [
+     "lista",
+     [
+      "**Fines:** eficacia en los servicios y proximidad; coordinación con los órganos centrales; máxima participación de vecinos y entidades; amplia información y publicidad; **solidaridad y equilibrio entre distritos**; ser cauce de las aspiraciones vecinales; garantizar derechos y deberes de los vecinos; fomentar el asociacionismo; sometimiento pleno a la ley y al Derecho.",
+      "**Ámbitos del art. 12** en los que pueden prestar servicios y ejercer competencias: seguridad en lugares públicos; ordenación del tráfico; protección civil y extinción de incendios; vivienda, parques y jardines, pavimentación y caminos rurales; patrimonio histórico-artístico; medio ambiente; abastos, mataderos, ferias y mercados y defensa de usuarios; salubridad; atención primaria de salud; cementerios; servicios sociales (mujer, infancia, juventud, mayores, discapacidad); agua, alcantarillado, alumbrado, limpieza y recogida de residuos; transporte público; actividades culturales y deportivas, turismo y ocupación del tiempo libre; participación en la programación de la enseñanza y vigilancia de la escolaridad; fomento de los intereses económicos y del empleo; y servicios de radio y televisión locales."
+     ]
+    ],
+    [
+     "h",
+     "Órganos de la Junta Municipal (arts. 14 a 20)"
+    ],
+    [
+     "tabla",
+     [
+      "Órgano",
+      "Composición y reglas"
+     ],
+     [
+      [
+       "**Presidente** (art. 15)",
+       "El **Alcalde** es el **presidente nato** de todas las Juntas y, tras consultar a los grupos, puede **delegar** la presidencia efectiva en un **concejal**, dando cuenta al Pleno (procurando que cada grupo presida al menos una Junta). El Presidente designa **libremente un Vicepresidente** entre los vocales propuestos por los grupos."
+      ],
+      [
+       "**Pleno de la Junta** (arts. 17-18)",
+       "Presidente + **diez Vocales** nombrados por el Alcalde a propuesta de los grupos políticos según los resultados electorales del ámbito + **Presidentes de Concejos Locales** + **representantes de asociaciones de vecinos** (voz sin voto) y de AMPAS, asociaciones juveniles, de mayores y de empresarios y comerciantes. Se reúne **como mínimo una vez al trimestre**. Controla la gestión del Presidente (puede **reprobarla**), aprueba el **Manual de Funcionamiento Interno** y el **Programa de Actuación y de Gastos**, e **informa** sobre planeamiento, obras, equipamientos, vivienda municipal, presupuestos, ordenanzas y contribuciones especiales."
+      ],
+      [
+       "**Consejo Rector** (art. 19)",
+       "**Potestativo.** Presidente + un vocal por cada grupo + presidentes de Concejos Locales + (voz sin voto) un representante de las asociaciones de vecinos. Se reúne **como mínimo una vez al mes**; ejerce iniciativa, gestión y coordinación."
+      ],
+      [
+       "**Comisiones de Trabajo** (art. 20)",
+       "Carácter **permanente**, para estudios y actividades; las crea el Pleno de la Junta, procurando coincidir con las grandes áreas de servicios."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Funcionamiento de las sesiones (arts. 21 a 29)"
+    ],
+    [
+     "lista",
+     [
+      "**Periodicidad:** sesión ordinaria **una vez al mes**, con un mínimo de reunión **trimestral** que fija el Manual de Funcionamiento Interno. **Quórum:** un **tercio** del número legal de miembros con voto, **nunca menos de tres**.",
+      "**Clases:** ordinarias; **extraordinarias** (por disposición legal, decisión del Presidente o petición de la **cuarta parte**; **ningún vocal** puede pedir más de **tres al año** y se celebran en un máximo de **15 días hábiles**); y extraordinarias **urgentes** (el primer punto es votar la urgencia, por mayoría simple).",
+      "**Convocatoria:** con al menos **dos días hábiles** de antelación (salvo urgentes); en **segunda convocatoria**, quince minutos después, bastan **Presidente, Secretario y dos Vocales**. Los documentos están a disposición desde la convocatoria en la sede de la Junta.",
+      "**Mociones:** las presentan los grupos o **tres vocales como mínimo** con **tres días hábiles** de antelación. Las **preguntas** se contestan por escrito en un máximo de **treinta días**. El acta se aprueba como primer punto.",
+      "**Publicidad:** las sesiones del Pleno de la Junta son **públicas**; el debate y la votación de asuntos del art. 18.1 CE pueden ser **secretos por mayoría absoluta**. Los acuerdos se adoptan por **mayoría simple** de los presentes.",
+      "**Suspensión de acuerdos (art. 28):** si un acuerdo puede vulnerar el ordenamiento, el Presidente puede **suspenderlo** y dar cuenta al **Alcalde en 24 horas**; el Alcalde debe **ratificar en 72 horas** o la suspensión queda sin efecto. El Alcalde también puede suspender acuerdos para garantizar la unidad de gobierno.",
+      "**Reprobación:** exige la solicitud de **un tercio** de los miembros, una sesión extraordinaria con ese único asunto y la **mayoría absoluta** del número legal, comunicada al Alcalde en 24 horas."
+     ]
+    ],
+    [
+     "h",
+     "Barrios rurales, Concejos Locales y Consejos de Distrito (arts. 30 a 43)"
+    ],
+    [
+     "lista",
+     [
+      "**Junta Vecinal:** su presidente es el **Alcalde de Barrio**, nombrado por el Alcalde entre vecinos **mayores de edad** del núcleo, no incursos en inelegibilidad, que hayan **obtenido más votos en un proceso democrático de consulta** supervisado por el Ayuntamiento. Dura **el mandato de la Corporación**. Su Pleno tiene **cuatro vocales** si la Junta tiene **menos de 2.000 habitantes** y **seis** en las demás.",
+      "**Consejo Territorial de Alcaldes de Barrio:** coordina e informa sobre la gestión de los barrios rurales; lo preside el **Concejal Presidente del Distrito Rural**, se reúne **al menos una vez al trimestre** y lo integran los Alcaldes de Barrio y los portavoces de los grupos en la comisión de Participación Ciudadana.",
+      "**Concejo Local:** se constituye o disuelve a iniciativa del **Ayuntamiento** o de la **mayoría de los vecinos**, por acuerdo del **Pleno**. Lo integran un **Presidente** y **cuatro Vocales** (más un representante de cada asociación de vecinos, sin voto). Su presidente forma parte, con voz y voto, de la Junta correspondiente. Sus actos se **recurren ante el Alcalde**.",
+      "**Consejos de Distrito:** se forman con **Juntas Municipales completas y limítrofes** (pueden incluir barrios urbanos y rurales). El Alcalde es presidente nato y puede delegar en un concejal; sus órganos son el **Presidente** y el **Consejo Rector**. Las **oficinas administrativas** asisten a las Juntas y se coordinan a través del Consejo de Distrito."
+     ]
+    ],
+    [
+     "trampa",
+     "Los **distritos** se rigen por **Juntas Municipales** y los **barrios rurales** por **Juntas Vecinales**. El Pleno de la Junta **se reúne como mínimo cada trimestre**; el **Consejo Rector, cada mes**. La suspensión de un acuerdo se comunica en **24 horas** y se ratifica en **72**."
     ]
    ],
    "flash": [
@@ -719,6 +845,30 @@
     [
      "¿Qué porcentaje del padrón se requiere para la iniciativa ciudadana de reglamentos?",
      "El 10 % del padrón municipal (art. 51)."
+    ],
+    [
+     "¿Cuántos Vocales nombra el Alcalde para el Pleno de cada Junta Municipal?",
+     "Diez, a propuesta de los grupos políticos."
+    ],
+    [
+     "¿Cuántos vocales tiene una Junta Vecinal de menos de 2.000 habitantes?",
+     "Cuatro."
+    ],
+    [
+     "¿Cuántas sesiones extraordinarias puede pedir un vocal al año?",
+     "Un máximo de tres."
+    ],
+    [
+     "¿En cuántas horas debe el Presidente dar cuenta al Alcalde de la suspensión de un acuerdo?",
+     "En 24 horas; el Alcalde debe ratificarla en 72."
+    ],
+    [
+     "¿Quién preside el Consejo Territorial de Alcaldes de Barrio?",
+     "El Concejal Presidente del Distrito Rural."
+    ],
+    [
+     "¿De cuántos miembros consta un Concejo Local?",
+     "Un Presidente y cuatro Vocales, más representantes de las asociaciones de vecinos con voz y sin voto."
     ]
    ],
    "esquema": [
@@ -960,6 +1110,392 @@
      "¿Quién asiste a las Juntas Municipales y Vecinales en su gestión administrativa?"
     ]
    ]
+  },
+  {
+   "id": "e2",
+   "titulo": "Información y participación individual",
+   "subtitulo": "Audiencia pública, consulta popular e iniciativa ciudadana",
+   "clave": [
+    "Medios de comunicación locales",
+    "Iniciativa ciudadana (10 % del padrón)",
+    "Audiencia pública (300 / 3.000 firmas)",
+    "Consulta popular (10.000 + 5 %)",
+    "Ruegos y preguntas del público (24 h)"
+   ],
+   "bloques": [
+    [
+     "h",
+     "Información municipal (arts. 44 a 49)"
+    ],
+    [
+     "lista",
+     [
+      "El Ayuntamiento informa de su gestión por medios de comunicación, publicaciones, carteles, tablones y actos informativos. Existe una **Oficina de Información** en las áreas centrales y en las Juntas Municipales y Vecinales; copias y certificaciones de acuerdos se piden allí y las peticiones de información deben ser **razonadas**.",
+      "**Medios locales:** **boletín municipal** (edición **trimestral**, con representación de todos los grupos y del Consejo de la Ciudad en su consejo de redacción); **radio y televisión locales**; **página web**; **red informática cívica** y **firma electrónica**."
+     ]
+    ],
+    [
+     "h",
+     "Instrumentos de participación individual (arts. 50 a 58)"
+    ],
+    [
+     "tabla",
+     [
+      "Instrumento",
+      "Reglas clave"
+     ],
+     [
+      [
+       "**Iniciativa ciudadana**",
+       "Los ciudadanos proponen actuaciones de **interés público municipal** y aportan medios económicos, bienes, derechos o trabajo personal. Se canaliza a través de la **Oficina Municipal de Apoyo al Ciudadano** y la decisión final corresponde a la **Junta de Gobierno Local**. **Iniciativa para proponer reglamentos y ordenanzas:** un número de ciudadanos mayores de edad empadronados que represente el **10 % del padrón**. No se admiten propuestas de intereses corporativos ajenos al interés general ni de contenido ilegal."
+      ],
+      [
+       "**Audiencia pública**",
+       "Forma oral y en unidad de acto. **De ámbito de ciudad** pueden pedirla las Juntas, el Consejo de la Ciudad, la Comisión de Sugerencias, las entidades ciudadanas o ciudadanos que sean el **10 % del padrón**. **De ámbito de Junta:** el **10 % del padrón del territorio**, sin tener que aportar más de **300 firmas** (Juntas Vecinales) o **3.000** (Juntas Municipales). Se convoca en **un mes** como máximo, con **al menos 15 días** de antelación; la preside el Alcalde o concejal en quien delegue. En **un mes** desde la sesión se **acepta** (parcial o íntegramente) o se **deniega** la propuesta."
+      ],
+      [
+       "**Consulta popular**",
+       "El Alcalde, previo acuerdo del **Pleno por mayoría absoluta**, puede consultar asuntos de competencia propia municipal y carácter local de especial importancia, **excepto los de Hacienda Local**. Los vecinos pueden solicitarla con **10.000 firmas más el 5 % de los habitantes que excedan de 100.000**. La **autoriza el Gobierno del Estado**, a través del Gobierno de Aragón."
+      ],
+      [
+       "**Estudios de opinión**",
+       "Mediante la encuesta ciudadana, el **Observatorio Urbano** (dependiente del Área de Participación Ciudadana) recoge la opinión de vecinos y entidades y analiza la calidad de vida con indicadores."
+      ],
+      [
+       "**Ruegos y preguntas del público**",
+       "Tras la sesión ordinaria del Pleno el Alcalde puede abrir un turno sobre temas de la sesión; se pide **por escrito con 24 horas** de antelación."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **autorización de la consulta** es del **Gobierno del Estado**, no del Alcalde ni del Gobierno de Aragón. La audiencia pública del barrio exige el 10 % del padrón **con tope de 300 o 3.000 firmas**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué porcentaje del padrón permite proponer reglamentos y ordenanzas por iniciativa ciudadana?",
+     "El 10 %."
+    ],
+    [
+     "¿Qué tope de firmas rige para pedir una audiencia pública en una Junta Municipal?",
+     "3.000 (y 300 en las Juntas Vecinales)."
+    ],
+    [
+     "¿Quién autoriza una consulta popular?",
+     "El Gobierno del Estado."
+    ],
+    [
+     "¿Con cuánta antelación se pide intervenir en el turno de ruegos y preguntas del Pleno?",
+     "24 horas, por escrito."
+    ]
+   ],
+   "esquema": [
+    "Iniciativa: 10 % padrón · Audiencia: 300/3.000 firmas · Consulta: 10.000 + 5 % · Autoriza el Estado"
+   ],
+   "ic": "🗣️",
+   "articulos": []
+  },
+  {
+   "id": "e3",
+   "titulo": "Participación colectiva: entidades ciudadanas",
+   "subtitulo": "Censo, interés público municipal e interés ciudadano",
+   "clave": [
+    "Censo Municipal de Entidades Ciudadanas",
+    "Inscripción: 30 días",
+    "Interés público municipal: caduca a 5 años",
+    "Actualización antes del 1 de marzo"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El Ayuntamiento fomenta el **asociacionismo** y el voluntariado: ofrece formación, asesoramiento, gestión compartida de instalaciones y recursos para programas de calidad. Para identificar las entidades crea el **Censo Municipal de Entidades Ciudadanas** (arts. 59 a 62)."
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Reglas"
+     ],
+     [
+      [
+       "**Inscripción**",
+       "Solicitud a la Alcaldía con estatutos, número del Registro de Asociaciones, acta de la última asamblea, sede en Zaragoza, CIF, número de socios, programa y presupuesto anual. El Alcalde o Teniente de Alcalde **resuelve en 30 días**. Las entidades presentan memoria de actividades cuando se les requiere."
+      ],
+      [
+       "**Interés público municipal**",
+       "Pueden pedirla las entidades inscritas con fines de interés social y funcionamiento democrático que tengan **declaración supramunicipal de utilidad pública** o hayan mantenido la de **interés ciudadano dos años**. **Caduca a los cinco años**. Decide el **Pleno** de forma **discrecional** por **mayoría absoluta** de concejales, a propuesta del Área de Participación Ciudadana y con informe del Consejo de la Ciudad. Debe **actualizar la documentación antes del 1 de marzo** cada año (si no, **pierde la declaración**). Derechos: intervenir en el Pleno y comisiones, ser consultadas, acceder a ayudas, promover iniciativas, encuestas y audiencias públicas y participar en el Consejo de la Ciudad y los Consejos Sectoriales."
+      ],
+      [
+       "**Interés ciudadano**",
+       "Para entidades **inscritas más de dos años**; puede ser vecinal, ambiental, deportiva, cultural, social… Da **preferencia** en subvenciones y uso de locales y centros cívicos, y derecho a solicitar después el interés público municipal tras **dos años**. También se actualiza antes del **1 de marzo**."
+      ],
+      [
+       "**Locales y subvenciones**",
+       "Las cesiones de locales duran como máximo **cinco años**, prorrogables otros cinco en casos excepcionales."
+      ],
+      [
+       "**Participación ante los órganos**",
+       "Las entidades inscritas pueden intervenir ante el **Pleno** del Ayuntamiento sobre un punto del orden del día de la parte resolutiva (a través de un **único representante**) y ante los **Plenos de las Juntas**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La declaración de **interés público municipal** caduca a los **cinco años** y se decide por **mayoría absoluta del Pleno**. La **inscripción** se resuelve en **treinta días**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿En cuántos días se resuelve la inscripción en el Censo de Entidades Ciudadanas?",
+     "En treinta días."
+    ],
+    [
+     "¿A los cuántos años caduca la declaración de interés público municipal?",
+     "A los cinco años."
+    ],
+    [
+     "¿Qué mayoría del Pleno exige declarar una entidad de interés público municipal?",
+     "La mayoría absoluta de sus concejales."
+    ]
+   ],
+   "esquema": [
+    "Censo: inscripción 30 días · Interés público: 5 años, mayoría absoluta · Actualizar antes del 1 de marzo"
+   ],
+   "ic": "🤝",
+   "articulos": []
+  },
+  {
+   "id": "e4",
+   "titulo": "Consejo de la Ciudad, Comisión de Sugerencias y Consejos Sectoriales",
+   "subtitulo": "Órganos de participación del Ayuntamiento de Zaragoza",
+   "clave": [
+    "Consejo de la Ciudad: Alcalde preside",
+    "4 sesiones ordinarias al año",
+    "Comisión de Sugerencias: 3 veces al año",
+    "Quejas: 10, 15 y 15 días",
+    "Consejos Sectoriales: carácter excepcional"
+   ],
+   "bloques": [
+    [
+     "h",
+     "Consejo de la Ciudad (título V, arts. 82 a 101)"
+    ],
+    [
+     "lista",
+     [
+      "Órgano **necesario**, de carácter **consultivo**, integrado por las organizaciones **económicas, sociales, profesionales y vecinales** más representativas. Informa y propone en desarrollo económico local, planificación estratégica y grandes proyectos urbanos. Sus acuerdos son **informes o peticiones, no vinculantes**.",
+      "**Estructura:** Presidencia, Vicepresidencia, **Pleno**, **Comisiones** y **Oficina Técnica**. Lo asiste el Secretario General del Pleno o funcionario en quien delegue.",
+      "**Presidente:** el **Alcalde** (puede delegar). **Vicepresidente:** el **Teniente de Alcalde de Participación Ciudadana**.",
+      "**Pleno (art. 92):** el Alcalde, el Vicepresidente, **nueve representantes de la Corporación**, **nueve de la sociedad civil** (cinco elegidos por la **Asamblea Ciudadana**, que se reúne **cada dos años**, hasta dos de entidades de interés público municipal y el resto de las entidades vecinales más representativas) y **nueve de entidades sociales, económicas y profesionales** (sindicatos, organizaciones empresariales, colegios y cajas de ahorros), además de la **Universidad de Zaragoza** y la **Agenda Local 21**.",
+      "**Funcionamiento (art. 94):** el Pleno se reúne **cuatro veces al año** en sesión ordinaria, convocadas con **quince días naturales** de antelación; extraordinarias si lo pide **un tercio** de sus miembros (con **dos días** de antelación). Puede crear **comisiones, grupos de trabajo y consejos sectoriales** y un **Consejo Municipal de Niños**."
+     ]
+    ],
+    [
+     "h",
+     "Comisión Especial de Sugerencias y Reclamaciones (título VI, arts. 102 a 115)"
+    ],
+    [
+     "lista",
+     [
+      "Defiende los **derechos de los vecinos** ante la Administración municipal y **supervisa** su actividad; informa al Pleno con una **memoria anual** y puede hacer informes extraordinarios.",
+      "La forman **concejales de todos los grupos**, proporcionalmente, con **tope igual al número de miembros de la Junta de Gobierno Local**; la preside el Alcalde o el concejal en quien delegue; son miembros con **voz y sin voto** representantes de las federaciones vecinales; su Secretario es el **Secretario General del Pleno**. Se reúne **al menos tres veces al año** y sus sesiones **no son públicas**.",
+      "**Procedimiento:** actúa de oficio o a instancia de parte. En **diez días** desde la presentación, la Oficina Técnica recaba información; los servicios responden por escrito al interesado en un máximo de **quince días**; el interesado puede mostrar su **disconformidad en quince días**. La Comisión puede proponer fórmulas de **conciliación**.",
+      "**Las quejas no son recursos administrativos** ni interrumpen plazos. **No se admiten** las quejas **anónimas**, sin interés legítimo, de mala fe, sin fundamento, ajenas a su competencia, perjudiciales para terceros o referidas a asuntos **pendientes ante Juzgados o Tribunales**. Ninguna autoridad administrativa puede presentar quejas en asuntos de su competencia."
+     ]
+    ],
+    [
+     "h",
+     "Consejos Sectoriales (título VII, arts. 116 y 117)"
+    ],
+    [
+     "lista",
+     [
+      "Órganos de **participación, información, control y asesoramiento** en un sector de actividad. Se crean con **carácter excepcional** por acuerdo del **Pleno**, previo informe de las Áreas competentes y del **Consejo de la Ciudad**, del que **dependen** y con el que se coordinan.",
+      "Funciones: presentar iniciativas y propuestas, proponer soluciones a los problemas del sector, colaborar en estudios y programas, informar al Ayuntamiento si lo pide y coordinarse con el Consejo de la Ciudad."
+     ]
+    ],
+    [
+     "trampa",
+     "Los **Consejos Sectoriales** son **excepcionales** y **dependen del Consejo de la Ciudad**. Las **quejas** ante la Comisión **no son recursos**; la Comisión se reúne **tres veces al año** y el Consejo de la Ciudad **cuatro**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Quién preside el Consejo de la Ciudad de Zaragoza?",
+     "El Alcalde."
+    ],
+    [
+     "¿Cuántas sesiones ordinarias celebra al año el Pleno del Consejo de la Ciudad?",
+     "Cuatro."
+    ],
+    [
+     "¿Cada cuánto se reúne la Asamblea Ciudadana que elige cinco miembros del Consejo?",
+     "Cada dos años."
+    ],
+    [
+     "¿Cuántas veces al año se reúne como mínimo la Comisión Especial de Sugerencias y Reclamaciones?",
+     "Tres."
+    ],
+    [
+     "¿Se admiten a trámite las quejas anónimas?",
+     "No."
+    ],
+    [
+     "¿Con qué carácter se crean los Consejos Sectoriales?",
+     "Excepcional, y dependen del Consejo de la Ciudad."
+    ]
+   ],
+   "esquema": [
+    "Consejo de la Ciudad: 4 sesiones · Comisión de Sugerencias: 3 sesiones · Consejos Sectoriales: excepcionales"
+   ],
+   "ic": "🏙️",
+   "articulos": []
+  },
+  {
+   "id": "e5",
+   "titulo": "Manual de Atención a la Ciudadanía",
+   "subtitulo": "Calidad, comunicación y situaciones difíciles",
+   "clave": [
+    "Calidad: 4 aspectos que valora la ciudadanía",
+    "Siete errores del servicio",
+    "3 niveles: acogida, recogida y reconocimiento",
+    "Curva de la hostilidad: 6 fases"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El Ayuntamiento de Zaragoza publicó su **Manual de Atención a la Ciudadanía** en 1994 y lo adaptó en **2018** al lenguaje inclusivo. Es un documento práctico, no una norma. Se estructura en: el Ayuntamiento y la ciudadanía; la calidad del servicio; la comunicación; las situaciones difíciles; y los principios básicos."
+    ],
+    [
+     "h",
+     "Calidad de los servicios"
+    ],
+    [
+     "tabla",
+     [
+      "Aspecto que valora la ciudadanía",
+      "Qué significa"
+     ],
+     [
+      [
+       "**Aspectos tangibles**",
+       "Aspecto físico de las instalaciones, materiales de comunicación y presencia del personal."
+      ],
+      [
+       "**Capacidad de respuesta**",
+       "Disponibilidad, rapidez, escucha y habilidad para poner en marcha soluciones."
+      ],
+      [
+       "**Seguridad y fiabilidad**",
+       "Competencia, profesionalidad y confianza en ser atendido con exactitud."
+      ],
+      [
+       "**Empatía**",
+       "Trato personalizado y cortés, con voluntad de comprender las necesidades concretas."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Causas de baja calidad:** los dos motivos principales son la **actitud del personal** y el **trabajo demasiado lento**. Una queja debe entenderse como **oportunidad** de demostrar competencia y de detectar deficiencias.",
+      "**Errores en la atención:** **apatía**, **frialdad**, **condescendencia**, **robotización** (trato estereotipado), **excesiva reglamentación** (estar «pegado» a la norma) y **transferencias** (pasar al ciudadano de una parte a otra); otro error es **quitarse de encima** al ciudadano sin ofrecerle alternativa (su nombre exacto no se leyó bien en el libro).",
+      "**Características de la calidad:** es **responsabilidad de todos**; hacer las cosas bien **a la primera**; **autocontrol emocional**; pasar de corregir errores a **prevenirlos**; y **mejora continua** (el enemigo es la rutina)."
+     ]
+    ],
+    [
+     "h",
+     "Comunicación"
+    ],
+    [
+     "lista",
+     [
+      "La conducta interpersonal tiene componentes **biológicos**, **psicológicos** y **sociales** que se influyen mutuamente. Se comunica con **mensajes verbales** (palabras) y **no verbales** (gestos, tono, mirada, distancia); los dos momentos son **escuchar** y **hablar**.",
+      "**Escuchar** activamente: sin interrumpir, sin juicios ni consejos prematuros, atendiendo a la intención y el sentimiento. **Hablar:** expresión **clara y precisa**, breve, sin jerga.",
+      "**Primer contacto:** saludar con contacto visual, tomando la iniciativa, y tratar de **usted** salvo que se indique lo contrario.",
+      "**Tres niveles de atención:** **acogida** (situar a la persona), **recogida** (saludo e indicación breve de lo que ocurrirá) y **reconocimiento** (se trata su caso concreto). Conviene llegar al tercero o, al menos, al segundo.",
+      "**Capacidad de respuesta:** rapidez, anticipación y conocimiento de otros servicios. **Mantener la calma:** respirar profundamente y usar **autoverbalizaciones** positivas. Evitar las **profecías negativas**. **Agradecer** la colaboración ciudadana."
+     ]
+    ],
+    [
+     "h",
+     "Situaciones difíciles: la curva de la hostilidad"
+    ],
+    [
+     "tabla",
+     [
+      "Fase",
+      "Qué ocurre"
+     ],
+     [
+      [
+       "**1. Racional**",
+       "La persona mantiene un nivel emocional adecuado."
+      ],
+      [
+       "**2. Disparo o salida**",
+       "Acumula enfado y pierde el control; no sirve razonar ni mandar calmarse."
+      ],
+      [
+       "**3. Enlentecimiento**",
+       "La reacción pierde fuerza si no hay nuevas provocaciones."
+      ],
+      [
+       "**4. Afrontamiento**",
+       "Se puede intervenir con una frase empática que reconozca su estado emocional."
+      ],
+      [
+       "**5. Enfriamiento**",
+       "La persona se calma y permite mayor escucha."
+      ],
+      [
+       "**6. Solución del problema**",
+       "Se retoma el nivel racional y se puede resolver."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "Defender al Ayuntamiento o pedir que se calme en la fase 2 solo provoca **repetir el disparo**. Los **pensamientos** dirigen la conducta, por eso conviene decirse frases como «esto es mi trabajo, no es algo personal».",
+      "**Principios básicos:** el personal da «rostro» al Ayuntamiento; cada persona atendida es única; centrarse en **solucionar el problema**; dar **información veraz y concreta**; mantener equilibrio de trato; dominar las reacciones emocionales."
+     ]
+    ],
+    [
+     "trampa",
+     "La **curva de la hostilidad** tiene **seis fases**; el primer momento para intervenir con **empatía** es la **fase 4 (afrontamiento)**. Los **tres niveles** de atención son **acogida, recogida y reconocimiento**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántas fases tiene la curva de la hostilidad?",
+     "Seis: racional, disparo o salida, enlentecimiento, afrontamiento, enfriamiento y solución del problema."
+    ],
+    [
+     "¿Cuáles son los tres niveles de atención del Manual?",
+     "Acogida, recogida y reconocimiento."
+    ],
+    [
+     "¿Qué cuatro aspectos valora la ciudadanía en la calidad de un servicio?",
+     "Aspectos tangibles, capacidad de respuesta, seguridad y fiabilidad, y empatía."
+    ],
+    [
+     "¿En qué año se adaptó el Manual al lenguaje inclusivo?",
+     "En 2018."
+    ],
+    [
+     "¿Cómo se debe tratar a la persona atendida, salvo que se indique lo contrario?",
+     "De usted."
+    ]
+   ],
+   "esquema": [
+    "Calidad: tangibles · respuesta · seguridad · empatía",
+    "Hostilidad: 6 fases",
+    "Atención: acogida · recogida · reconocimiento"
+   ],
+   "ic": "💬",
+   "articulos": []
   }
  ],
  "mapa": {
@@ -993,11 +1529,19 @@
         "titulo": "Información en los distritos (53)"
        }
       ]
+     },
+     {
+      "titulo": "Iniciativa popular (art. 70 bis)",
+      "hijos": [
+       {
+        "titulo": "20 % · 15 % · 10 % según habitantes"
+       }
+      ]
      }
     ]
    },
    {
-    "titulo": "Zaragoza (examen 2025)",
+    "titulo": "Distritos y barrios rurales",
     "color": "#f25f5c",
     "hijos": [
      {
@@ -1029,6 +1573,146 @@
         "titulo": "10 % del padrón (art. 51)"
        }
       ]
+     },
+     {
+      "titulo": "Juntas Municipales y Vecinales",
+      "hijos": [
+       {
+        "titulo": "Pleno: Presidente + 10 vocales"
+       },
+       {
+        "titulo": "Pleno: mínimo cada trimestre"
+       },
+       {
+        "titulo": "Consejo Rector: cada mes"
+       },
+       {
+        "titulo": "Suspensión: 24 h / 72 h"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Participación individual",
+    "color": "#3fa796",
+    "hijos": [
+     {
+      "titulo": "Iniciativa ciudadana",
+      "hijos": [
+       {
+        "titulo": "10 % del padrón"
+       },
+       {
+        "titulo": "Decide la JGL"
+       }
+      ]
+     },
+     {
+      "titulo": "Audiencia pública",
+      "hijos": [
+       {
+        "titulo": "10 % del padrón"
+       },
+       {
+        "titulo": "Tope 300 / 3.000 firmas"
+       }
+      ]
+     },
+     {
+      "titulo": "Consulta popular",
+      "hijos": [
+       {
+        "titulo": "10.000 + 5 %"
+       },
+       {
+        "titulo": "Autoriza el Estado"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Entidades ciudadanas",
+    "color": "#8e6cc4",
+    "hijos": [
+     {
+      "titulo": "Censo Municipal",
+      "hijos": [
+       {
+        "titulo": "Inscripción: 30 días"
+       }
+      ]
+     },
+     {
+      "titulo": "Interés público municipal",
+      "hijos": [
+       {
+        "titulo": "Caduca a 5 años"
+       },
+       {
+        "titulo": "Mayoría absoluta del Pleno"
+       }
+      ]
+     },
+     {
+      "titulo": "Interés ciudadano",
+      "hijos": [
+       {
+        "titulo": "Más de 2 años inscritas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Consejos y Comisión",
+    "color": "#e9a23b",
+    "hijos": [
+     {
+      "titulo": "Consejo de la Ciudad",
+      "hijos": [
+       {
+        "titulo": "Preside el Alcalde"
+       },
+       {
+        "titulo": "4 sesiones al año"
+       }
+      ]
+     },
+     {
+      "titulo": "Comisión de Sugerencias",
+      "hijos": [
+       {
+        "titulo": "3 veces al año"
+       },
+       {
+        "titulo": "Quejas: 10 · 15 · 15 días"
+       }
+      ]
+     },
+     {
+      "titulo": "Consejos Sectoriales",
+      "hijos": [
+       {
+        "titulo": "Carácter excepcional"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Manual de atención",
+    "color": "#2f7fc1",
+    "hijos": [
+     {
+      "titulo": "Calidad: 4 aspectos"
+     },
+     {
+      "titulo": "Atención: 3 niveles"
+     },
+     {
+      "titulo": "Hostilidad: 6 fases"
      }
     ]
    }
