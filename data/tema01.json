@@ -4000,7 +4000,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1
    }
   ],
   [
@@ -4017,7 +4018,8 @@
    "h-poderes",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1
    }
   ],
   [
@@ -4034,7 +4036,8 @@
    "h-poderes",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1
    }
   ],
   [
@@ -4051,7 +4054,8 @@
    "h-poderes",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1
    }
   ],
   [
@@ -4069,7 +4073,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1
    }
   ],
   [
@@ -4613,6 +4618,363 @@
    {
     "nuevo": 1,
     "dif": 3
+   }
+  ],
+  [
+   "¿En qué fecha se celebró el referéndum de ratificación de la Constitución de 1978?",
+   [
+    "31 de octubre de 1978",
+    "6 de diciembre de 1978",
+    "29 de diciembre de 1978"
+   ],
+   1,
+   "Las Cortes aprobaron el texto el 31-oct; el pueblo lo ratificó en referéndum el 6-dic-1978.",
+   "Lección del tema: aprobación de la CE",
+   "",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "¿Cuándo entró en vigor la Constitución de 1978?",
+   [
+    "El 6 de diciembre de 1978, día del referéndum",
+    "El 29 de diciembre de 1978, día de su publicación en el BOE",
+    "El 27 de diciembre de 1978, día de la sanción por el Rey"
+   ],
+   1,
+   "Entró en vigor el mismo día de su publicación en el BOE, según la disposición final.",
+   "Lección del tema: entrada en vigor",
+   "Confundir referéndum, sanción y publicación",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Respecto a la elaboración de la Constitución de 1978, señale la secuencia correcta:",
+   [
+    "Aprobación por las Cortes, sanción del Rey, referéndum y publicación en el BOE",
+    "Referéndum, aprobación por las Cortes, publicación en el BOE y sanción del Rey",
+    "Aprobación por las Cortes, ratificación en referéndum, sanción del Rey y publicación en el BOE"
+   ],
+   2,
+   "Cortes (31-oct) → referéndum (6-dic) → sanción (27-dic) → BOE (29-dic).",
+   "Lección del tema: pasos de la Constitución",
+   "",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El texto de la Constitución de 1978 fue redactado por:",
+   [
+    "Una comisión mixta de Congreso y Senado de quince miembros",
+    "Una ponencia de siete miembros designada por la Comisión de Asuntos Constitucionales del Congreso",
+    "El Gobierno, que lo presentó a las Cortes como proyecto de ley"
+   ],
+   1,
+   "Una ponencia de siete ponentes (los «padres de la Constitución») elaboró el borrador.",
+   "Lección del tema: la ponencia",
+   "",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La norma que abrió la vía a un sistema con partidos políticos y elecciones libres antes de la Constitución fue:",
+   [
+    "La Ley 1/1977, de 4 de enero, para la Reforma Política, aprobada por referéndum",
+    "La Ley Orgánica 2/1979 del Tribunal Constitucional",
+    "El Real Decreto-ley 1/1978 de Transición Política"
+   ],
+   0,
+   "La Ley para la Reforma Política (Ley 1/1977) permitió convocar las elecciones de 15-jun-1977.",
+   "Lección del tema: antes de 1978",
+   "",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las elecciones generales que dieron lugar a las Cortes que redactaron la Constitución se celebraron el:",
+   [
+    "15 de junio de 1978",
+    "6 de diciembre de 1977",
+    "15 de junio de 1977"
+   ],
+   2,
+   "Las Cortes elegidas el 15-jun-1977 asumieron la tarea de redactar la Constitución.",
+   "Lección del tema: elecciones de 1977",
+   "",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las Cortes aprobaron el texto definitivo de la Constitución el:",
+   [
+    "6 de diciembre de 1978",
+    "27 de diciembre de 1978",
+    "31 de octubre de 1978"
+   ],
+   2,
+   "Congreso y Senado aprobaron el texto el 31-oct-1978, antes del referéndum.",
+   "Lección del tema: aprobación de la CE",
+   "",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La Constitución española de 1978 se califica de «codificada» porque:",
+   [
+    "Está recogida en un solo texto, a diferencia de las Leyes Fundamentales anteriores",
+    "Solo puede modificarse con un procedimiento reforzado",
+    "Es muy extensa y fruto del consenso"
+   ],
+   0,
+   "Codificada = un solo texto (cerrada). No confundir con rígida (reforma reforzada).",
+   "Lección del tema: caracteres de la CE",
+   "Confundir codificada con rígida",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Se dice que la Constitución de 1978 es «rígida» porque:",
+   [
+    "Está contenida en un solo texto cerrado",
+    "No puede reformarse por el procedimiento legislativo ordinario, sino por el del Título X",
+    "Es muy extensa y difícil de interpretar"
+   ],
+   1,
+   "Rígida: reforma reforzada (arts. 167 y 168).",
+   "Lección del tema: caracteres de la CE",
+   "Rígida no es difícil de aplicar",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Según los caracteres de la Constitución, España es un:",
+   [
+    "Estado federal con Comunidades Autónomas",
+    "Estado unitario regionalizado, no federal",
+    "Estado confederal de nacionalidades y regiones"
+   ],
+   1,
+   "Un solo Estado con Comunidades Autónomas con autonomía (Título VIII).",
+   "Lección del tema: caracteres de la CE",
+   "",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La Constitución española tiene:",
+   [
+    "136 artículos, número reducido que la hace flexible",
+    "169 artículos, número elevado fruto del consenso entre fuerzas políticas",
+    "169 artículos, número habitual en las constituciones occidentales"
+   ],
+   1,
+   "Es extensa (169 artículos) frente a constituciones breves y flexibles.",
+   "Lección del tema: caracteres de la CE",
+   "",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El intérprete supremo de la Constitución es:",
+   [
+    "El Tribunal Constitucional",
+    "El Tribunal Supremo",
+    "El Consejo de Estado"
+   ],
+   0,
+   "Art. 1 de la LO 2/1979 del Tribunal Constitucional.",
+   "Lección del tema: caracteres de la CE",
+   "",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Entre las fuentes de inspiración de la Constitución de 1978 NO se encuentra:",
+   [
+    "La Constitución española de 1931",
+    "La Constitución francesa de 1958",
+    "La Ley Fundamental de Bonn de 1949"
+   ],
+   1,
+   "Se inspira en la CE de 1931, la Ley Fundamental de Bonn, la Constitución italiana de 1947 y textos internacionales.",
+   "Lección del tema: inspiración de la CE",
+   "Fuente no citada",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Entre los textos internacionales que inspiran la Constitución se encuentran la Declaración Universal de Derechos Humanos y:",
+   [
+    "La Carta de las Naciones Unidas (San Francisco, 1945)",
+    "El Pacto de Varsovia (1955)",
+    "El Convenio Europeo para la Protección de los Derechos Humanos (Roma, 1950)"
+   ],
+   2,
+   "Declaración Universal (1948) y Convenio Europeo de Roma (4-nov-1950).",
+   "Lección del tema: inspiración de la CE",
+   "",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La Constitución establece como forma política del Estado español:",
+   [
+    "La Monarquía constitucional y federal",
+    "La República parlamentaria",
+    "La Monarquía parlamentaria (art. 1.3)"
+   ],
+   2,
+   "Art. 1.3 CE.",
+   "Lección del tema: caracteres de la CE",
+   "",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Una ley orgánica requiere:",
+   [
+    "Mayoría de tres quintos del Congreso y el Senado",
+    "Mayoría absoluta del Congreso en una votación final sobre el conjunto",
+    "Mayoría simple del Congreso"
+   ],
+   1,
+   "Art. 81 CE: 176 votos de 350.",
+   "Lección del tema: mayorías",
+   "",
+   "h-mayorias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En un Congreso de 350 diputados, la mayoría absoluta se alcanza con:",
+   [
+    "176 votos a favor",
+    "175 votos a favor",
+    "180 votos a favor"
+   ],
+   0,
+   "Más de la mitad de los miembros: 175 es justo la mitad y no basta.",
+   "Lección del tema: mayorías",
+   "175 no basta",
+   "h-mayorias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El decreto-ley debe ser convalidado por el Congreso en el plazo de:",
+   [
+    "Veinte días desde su publicación",
+    "Quince días desde su aprobación",
+    "Treinta días desde su promulgación"
+   ],
+   2,
+   "Art. 86 CE.",
+   "Lección del tema: normas con rango de ley",
+   "",
+   "h-decreto-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La diferencia fundamental entre decreto-ley y decreto legislativo es que:",
+   [
+    "El primero necesita delegación de las Cortes y el segundo nace de la urgencia",
+    "Ambos nacen de una delegación, pero con distinto plazo",
+    "El primero nace de la extraordinaria y urgente necesidad y el segundo de una delegación de las Cortes"
+   ],
+   2,
+   "Decreto-ley (art. 86): urgencia. Decreto legislativo (arts. 82-85): delegación.",
+   "Lección del tema: normas con rango de ley",
+   "Intercambiar urgencia y delegación",
+   "h-decreto-leg",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Respecto a la jerarquía normativa, la ley orgánica:",
+   [
+    "Está por encima de la ley ordinaria",
+    "Está en el mismo nivel que la ley ordinaria, con materias reservadas y mayor mayoría",
+    "Está por debajo de la ley ordinaria"
+   ],
+   1,
+   "No hay jerarquía entre orgánica y ordinaria: hay reparto de materias.",
+   "Lección del tema: jerarquía normativa",
+   "Creer que orgánica es superior",
+   "h-organica",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.3 de Constitución Española de 1978, tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera:",
+   [
+    "Siguen agrupadas y eligen conjuntamente tres senadores",
+    "Eligen dos senadores cada una",
+    "Dejan de ir agrupadas: cada isla es circunscripción y elige su propio senador"
+   ],
+   2,
+   "Art. 69.3.",
+   "ce 69.3",
+   "",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1
    }
   ]
  ]

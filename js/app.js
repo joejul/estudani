@@ -52,7 +52,7 @@ async function init() {
       t.preguntas = t.preguntas.filter((q) => !q.off && !store.esOculta(q.id)).map((q) => {
         const r = { ...q, tema: t.n };
         if (q.lx) {
-          r.epi = q.epi || epiPorArt[`${t.n}:${q.lx}:${q.art}`];
+          r.epi = epiPorArt[`${t.n}:${q.lx}:${q.art}`] || q.epi;
           const ley = (D.leyes[q.lx] && D.leyes[q.lx].corto) || q.lx;
           r.ref = `${etiquetaArt(q.art).replace(/^Art\. .*/, `Art. ${q.artTxt}`)} · ${ley}`;
         }
