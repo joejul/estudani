@@ -1,7 +1,17 @@
 {
  "mapaEpis": [
   [
+   "e3",
+   "e4",
+   "e5"
+  ],
+  [
    "e0"
+  ],
+  [
+   "e6",
+   "e7",
+   "e8"
   ],
   [
    "e1"
@@ -106,6 +116,96 @@
    "Prohibición de contratar",
    "Impedimento para contratar con el sector público por haber cometido ciertas infracciones.",
    "Art. 71 LCSP"
+  ],
+  [
+   "contrato-oneroso",
+   "Contrato oneroso",
+   "Aquel en el que el contratista obtiene algún beneficio económico, directo o indirecto.",
+   "Art. 2 LCSP"
+  ],
+  [
+   "riesgo-operacional",
+   "Riesgo operacional",
+   "Riesgo de no recuperar las inversiones ni cubrir los costes de explotación en condiciones normales. Distingue la concesión (lo asume el concesionario) del contrato de servicios.",
+   "Arts. 14 y 15 LCSP"
+  ],
+  [
+   "contrato-sara",
+   "Contrato sujeto a regulación armonizada (SARA)",
+   "Contrato que supera ciertos umbrales y se somete a las Directivas europeas: anuncio en el DOUE, plazos mínimos y recurso especial.",
+   "Arts. 19 a 23 LCSP"
+  ],
+  [
+   "valor-estimado-umbral",
+   "Umbrales de regulación armonizada",
+   "Obras y concesiones: 5.404.000 €. Suministros y servicios: 140.000 € (AGE) o 216.000 € (resto). Servicios sociales del anexo IV: 750.000 €.",
+   "Arts. 20 a 22 LCSP"
+  ],
+  [
+   "doue",
+   "DOUE",
+   "Diario Oficial de la Unión Europea. Los contratos armonizados deben anunciarse en él.",
+   "Art. 135 LCSP"
+  ],
+  [
+   "standstill",
+   "Standstill",
+   "Plazo de espera obligatorio entre la adjudicación y la formalización de un contrato armonizado, durante el cual no puede firmarse.",
+   "Arts. 44 y 153 LCSP"
+  ],
+  [
+   "contrato-administrativo",
+   "Contrato administrativo",
+   "El de obras, concesiones, suministro y servicios celebrado por una Administración Pública y los de naturaleza administrativa especial. Sus litigios van al orden contencioso-administrativo.",
+   "Art. 25 LCSP"
+  ],
+  [
+   "contrato-privado",
+   "Contrato privado",
+   "El de una Administración de objeto distinto, el de poderes adjudicadores que no son Administración y el de entidades que no son poder adjudicador. Efectos y extinción: Derecho privado.",
+   "Art. 26 LCSP"
+  ],
+  [
+   "medio-propio",
+   "Medio propio personificado",
+   "Persona jurídica controlada por un poder adjudicador al que este puede encargar prestaciones sin contrato, a cambio de una compensación tarifaria.",
+   "Art. 32 LCSP"
+  ],
+  [
+   "encargo",
+   "Encargo a medio propio",
+   "Acto por el que un ente encomienda prestaciones a su medio propio. No es un contrato.",
+   "Arts. 32 y 33 LCSP"
+  ],
+  [
+   "convenio-sin-vocacion-mercado",
+   "Vocación de mercado",
+   "Se presume cuando una entidad realiza en el mercado abierto el 20 % o más de las actividades del convenio. Si la tiene, el convenio no queda excluido de la LCSP.",
+   "Art. 6 LCSP"
+  ],
+  [
+   "contrato-mixto",
+   "Contrato mixto",
+   "Contrato con prestaciones de distinta clase. Solo se fusionan si forman una unidad funcional y se aplica el régimen de la prestación principal.",
+   "Art. 18 LCSP"
+  ],
+  [
+   "junta-contratacion",
+   "Junta de Contratación",
+   "Órgano potestativo de las Entidades Locales que contrata obras de reparación y conservación, suministros consumibles y ciertos servicios. Incluye al Secretario y al Interventor.",
+   "DA 2.ª LCSP"
+  ],
+  [
+   "comite-expertos",
+   "Comité de expertos",
+   "Comité que valora los criterios que dependen de un juicio de valor. En entidades locales incluye un jurista especializado en contratación.",
+   "DA 2.ª LCSP"
+  ],
+  [
+   "perfil-contratante",
+   "Perfil de contratante",
+   "Espacio web donde el órgano de contratación publica la información de sus contratos, incluida la composición de la Mesa.",
+   "Art. 63 LCSP"
   ]
  ],
  "hubs": [
@@ -228,6 +328,200 @@
     ]
    ],
    "ic": "📌"
+  },
+  {
+   "id": "h-lcsp-origen",
+   "epi": "e3",
+   "titulo": "Origen y objeto de la LCSP",
+   "art": "Art. 1",
+   "resumen": "Ley 9/2017, directivas y principios.",
+   "pistas": [
+    [
+     "n",
+     "Entró en vigor el 9 de marzo de 2018, cuatro meses después de su publicación"
+    ],
+    [
+     "d",
+     "Transpone las Directivas 2014/23/UE (concesiones) y 2014/24/UE (contratación pública)"
+    ],
+    [
+     "d",
+     "Principios: libertad de acceso, publicidad y transparencia, igualdad de trato"
+    ],
+    [
+     "d",
+     "Objetivos: transparencia y mejor relación calidad-precio"
+    ]
+   ],
+   "ic": "📘"
+  },
+  {
+   "id": "h-ambito-sujetos",
+   "epi": "e4",
+   "titulo": "Sector público, AAPP y poderes adjudicadores",
+   "art": "Arts. 2 y 3",
+   "resumen": "Tres círculos de entidades.",
+   "pistas": [
+    [
+     "d",
+     "Contrato oneroso: el contratista obtiene un beneficio económico directo o indirecto"
+    ],
+    [
+     "n",
+     "Sociedades mercantiles con más del 50 % de capital público: sector público"
+    ],
+    [
+     "d",
+     "Las autoridades administrativas independientes son Administración Pública"
+    ],
+    [
+     "t",
+     "Las fundaciones públicas y las Mutuas son poder adjudicador, no Administración Pública"
+    ]
+   ],
+   "ic": "🏛️"
+  },
+  {
+   "id": "h-excluidos",
+   "epi": "e5",
+   "titulo": "Negocios excluidos",
+   "art": "Arts. 4-11",
+   "resumen": "Qué queda fuera de la LCSP.",
+   "pistas": [
+    [
+     "n",
+     "Convenios entre entidades públicas: sin vocación de mercado (menos del 20 %)"
+    ],
+    [
+     "d",
+     "Encomiendas de gestión del art. 11 de la Ley 40/2015"
+    ],
+    [
+     "d",
+     "Compraventa y arrendamiento de inmuebles: contratos privados con legislación patrimonial"
+    ],
+    [
+     "d",
+     "Relaciones laborales y servicio de funcionarios"
+    ],
+    [
+     "d",
+     "Servicios financieros de valores y préstamos de tesorería"
+    ]
+   ],
+   "ic": "🚫"
+  },
+  {
+   "id": "h-sara",
+   "epi": "e6",
+   "titulo": "Regulación armonizada",
+   "art": "Arts. 19-23",
+   "resumen": "Umbrales y características.",
+   "pistas": [
+    [
+     "n",
+     "Obras y concesiones: 5.404.000 euros"
+    ],
+    [
+     "n",
+     "Suministros y servicios: 140.000 € (AGE) o 216.000 € (resto)"
+    ],
+    [
+     "n",
+     "Servicios sociales del anexo IV: 750.000 euros"
+    ],
+    [
+     "d",
+     "Anuncio de licitación en el DOUE"
+    ],
+    [
+     "t",
+     "Un Ayuntamiento aplica el umbral de 216.000 euros en suministros y servicios"
+    ]
+   ],
+   "ic": "🇪🇺"
+  },
+  {
+   "id": "h-admin-privados",
+   "epi": "e7",
+   "titulo": "Contratos administrativos y privados",
+   "art": "Arts. 24-27",
+   "resumen": "Clasificación, régimen y jurisdicción.",
+   "pistas": [
+    [
+     "d",
+     "Administrativos: obras, concesiones, suministro y servicios de una Administración"
+    ],
+    [
+     "d",
+     "Privados: servicios financieros, creación artística y suscripciones"
+    ],
+    [
+     "d",
+     "Contencioso: preparación, adjudicación y efectos de los administrativos"
+    ],
+    [
+     "d",
+     "Civil: efectos y extinción de los privados"
+    ],
+    [
+     "t",
+     "La adjudicación de un contrato privado de una Administración se discute en lo contencioso"
+    ]
+   ],
+   "ic": "⚖️"
+  },
+  {
+   "id": "h-medios-propios",
+   "epi": "e8",
+   "titulo": "Medios propios y duración",
+   "art": "Arts. 28-35",
+   "resumen": "Necesidad, prórroga y encargos.",
+   "pistas": [
+    [
+     "d",
+     "Solo se contrata lo necesario para los fines institucionales"
+    ],
+    [
+     "n",
+     "Prórroga: preaviso de dos meses y nunca tácita"
+    ],
+    [
+     "d",
+     "El encargo a un medio propio personificado no es un contrato"
+    ],
+    [
+     "d",
+     "Libertad de pactos con límite en el interés público, el ordenamiento y la buena administración"
+    ]
+   ],
+   "ic": "🧱"
+  },
+  {
+   "id": "h-riesgo-operacional",
+   "epi": "e0",
+   "titulo": "Riesgo operacional",
+   "art": "Arts. 14 y 15",
+   "resumen": "Criterio que separa la concesión del contrato de servicios.",
+   "pistas": [
+    [
+     "d",
+     "Concesión: el concesionario asume el riesgo operacional"
+    ],
+    [
+     "d",
+     "Contrato de servicios: lo asume la Administración"
+    ],
+    [
+     "d",
+     "Riesgo de demanda y riesgo de suministro"
+    ],
+    [
+     "t",
+     "Con la Ley 9/2017 desaparece el contrato de gestión de servicio público"
+    ]
+   ],
+   "ic": "🎲"
   }
  ],
  "esquema": [
