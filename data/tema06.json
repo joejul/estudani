@@ -2183,6 +2183,1417 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 34.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos se producirán:",
+   [
+    "Por cualquier órgano de la Administración con facultades suficientes",
+    "Por el superior jerárquico del órgano competente",
+    "Por el órgano competente ajustándose a los requisitos y al procedimiento establecidos"
+   ],
+   2,
+   "Art. 34.1.",
+   "lpac 34.1",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será:",
+   [
+    "Determinado y adecuado a los fines de aquéllos",
+    "Determinado, aunque no necesariamente adecuado a su fin",
+    "Discrecional en todo caso"
+   ],
+   0,
+   "Art. 34.2.",
+   "lpac 34.2",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.a de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+   [
+    "Todos los actos de trámite",
+    "Solo los actos sancionadores",
+    "Los actos que limiten derechos subjetivos o intereses legítimos"
+   ],
+   2,
+   "Art. 35.1.a.",
+   "lpac 35.1.a",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, deben motivarse los actos que resuelvan:",
+   [
+    "Solo los recursos de alzada",
+    "Procedimientos de revisión de oficio, recursos administrativos y arbitraje, y los que declaren su inadmisión",
+    "Las solicitudes de certificados"
+   ],
+   1,
+   "Art. 35.1.b.",
+   "lpac 35.1.b",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados los actos que se separen:",
+   [
+    "De la propuesta del instructor únicamente",
+    "Del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos",
+    "Del plazo máximo de resolución"
+   ],
+   1,
+   "Art. 35.1.c.",
+   "lpac 35.1.c",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.d de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, deben motivarse los acuerdos de suspensión de actos y:",
+   [
+    "La adopción de medidas provisionales previstas en el artículo 56",
+    "Los acuerdos de iniciación de oficio",
+    "Las providencias de mero trámite"
+   ],
+   0,
+   "Art. 35.1.d.",
+   "lpac 35.1.d",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de:",
+   [
+    "Realización de actuaciones complementarias",
+    "Archivo por caducidad",
+    "Apertura de información pública"
+   ],
+   0,
+   "Art. 35.1.e.",
+   "lpac 35.1.e",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.f de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, han de motivarse los actos que:",
+   [
+    "Admitan las pruebas propuestas",
+    "Rechacen pruebas propuestas por los interesados",
+    "Soliciten informes preceptivos"
+   ],
+   1,
+   "Art. 35.1.f.",
+   "lpac 35.1.f",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.g de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden:",
+   [
+    "El desistimiento del interesado",
+    "El desistimiento por la Administración en procedimientos iniciados de oficio",
+    "La renuncia de derechos del interesado"
+   ],
+   1,
+   "Art. 35.1.g.",
+   "lpac 35.1.g",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.h de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de:",
+   [
+    "Carácter sancionador o de responsabilidad patrimonial",
+    "Contratación pública",
+    "Expropiación forzosa"
+   ],
+   0,
+   "Art. 35.1.h.",
+   "lpac 35.1.h",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.i de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, han de ser motivados los actos dictados en el ejercicio de:",
+   [
+    "Potestades regladas únicamente",
+    "Potestades de autoorganización",
+    "Potestades discrecionales y los que deban serlo por disposición legal o reglamentaria expresa"
+   ],
+   2,
+   "Art. 35.1.i.",
+   "lpac 35.1.i",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará:",
+   [
+    "Mediante simple remisión al acta del tribunal",
+    "No es necesaria",
+    "De conformidad con lo que dispongan las normas que regulen sus convocatorias, quedando acreditados los fundamentos de la resolución"
+   ],
+   2,
+   "Art. 35.2.",
+   "lpac 35.2",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos se producirán:",
+   [
+    "Siempre en papel firmado",
+    "Verbalmente como regla general",
+    "Por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada"
+   ],
+   2,
+   "Art. 36.1.",
+   "lpac 36.1",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando los órganos ejercen su competencia de forma verbal, la constancia escrita del acto se efectuará y firmará por:",
+   [
+    "El interesado destinatario",
+    "El titular del órgano inferior o funcionario que la reciba oralmente, expresando la autoridad de la que procede",
+    "El Secretario del órgano superior"
+   ],
+   1,
+   "Art. 36.2.",
+   "lpac 36.2",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si se trata de resoluciones dictadas verbalmente, el titular de la competencia deberá:",
+   [
+    "Notificarlas por escrito en 24 horas",
+    "Publicarlas en el diario oficial",
+    "Autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido"
+   ],
+   2,
+   "Art. 36.2.",
+   "lpac 36.2",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias:",
+   [
+    "Deberán dictarse siempre actos individuales",
+    "Podrán refundirse en un único acto, que especificará las circunstancias que individualicen los efectos para cada interesado",
+    "Podrán refundirse sin identificar a los interesados"
+   ],
+   1,
+   "Art. 36.3.",
+   "lpac 36.3",
+   "",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las resoluciones administrativas de carácter particular:",
+   [
+    "Pueden derogar singularmente una disposición si proceden de un superior jerárquico",
+    "Pueden apartarse del reglamento si están motivadas",
+    "No podrán vulnerar lo establecido en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía al que dictó la disposición"
+   ],
+   2,
+   "Art. 37.1.",
+   "lpac 37.1",
+   "Creer que un superior puede dispensar",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulas las resoluciones administrativas que:",
+   [
+    "Sean anulables por defecto de forma",
+    "Vulneren lo establecido en una disposición reglamentaria o incurran en alguna de las causas del artículo 47",
+    "Se dicten fuera de plazo"
+   ],
+   1,
+   "Art. 37.2.",
+   "lpac 37.2",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones sujetos al Derecho Administrativo serán:",
+   [
+    "Ejecutivos solo cuando sean firmes en vía administrativa",
+    "Ejecutivos con arreglo a lo dispuesto en la Ley",
+    "Ejecutivos desde que los confirme un tribunal"
+   ],
+   1,
+   "Art. 38.",
+   "lpac 38",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones sujetos al Derecho Administrativo se presumirán válidos y producirán efectos:",
+   [
+    "Desde su notificación en todo caso",
+    "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+    "Desde que sean firmes"
+   ],
+   1,
+   "Art. 39.1.",
+   "lpac 39.1",
+   "Confundir dictado con notificación",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la eficacia del acto quedará demorada cuando:",
+   [
+    "Así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior",
+    "El interesado lo solicite",
+    "Haya recurso pendiente"
+   ],
+   0,
+   "Art. 39.2.",
+   "lpac 39.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que:",
+   [
+    "Así lo decida el órgano superior",
+    "Lo acepte el interesado",
+    "Los supuestos de hecho existieran ya en la fecha a que se retrotraiga y no lesione derechos o intereses legítimos de otras personas"
+   ],
+   2,
+   "Art. 39.3.",
+   "lpac 39.3",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las normas y actos dictados por un órgano en el ejercicio de su propia competencia deberán ser observados:",
+   [
+    "Por el resto de órganos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración",
+    "Solo por los órganos jerárquicamente dependientes",
+    "Únicamente por la propia Administración"
+   ],
+   0,
+   "Art. 39.4.",
+   "lpac 39.4",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, podrá:",
+   [
+    "Anularlo directamente",
+    "Requerirla previamente para que lo anule o revise y, si rechaza el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "Ignorarlo y dictar su acto"
+   ],
+   1,
+   "Art. 39.5.",
+   "lpac 39.5",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano que dicte las resoluciones y actos los notificará:",
+   [
+    "A todos los ciudadanos",
+    "Solo al solicitante del procedimiento",
+    "A los interesados cuyos derechos e intereses sean afectados por aquéllos"
+   ],
+   2,
+   "Art. 40.1.",
+   "lpac 40.1",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, toda notificación deberá cursarse en el plazo de:",
+   [
+    "Cinco días desde su firma",
+    "Diez días a partir de la fecha en que el acto haya sido dictado",
+    "Quince días desde su inscripción"
+   ],
+   1,
+   "Art. 40.2.",
+   "lpac 40.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la notificación debe indicar si la resolución pone fin o no a:",
+   [
+    "El procedimiento sancionador",
+    "El plazo de caducidad",
+    "La vía administrativa"
+   ],
+   2,
+   "Art. 40.2.",
+   "lpac 40.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones con texto íntegro que omitan otros requisitos surtirán efecto desde:",
+   [
+    "La fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance del acto o interponga cualquier recurso",
+    "La fecha del acto",
+    "La fecha de publicación en el boletín"
+   ],
+   0,
+   "Art. 40.3.",
+   "lpac 40.3",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a los solos efectos de entender cumplida la obligación de notificar en plazo, basta la notificación con:",
+   [
+    "El texto íntegro de la resolución y el intento de notificación debidamente acreditado",
+    "La publicación de un extracto",
+    "La firma del acto"
+   ],
+   0,
+   "Art. 40.4.",
+   "lpac 40.4",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado:",
+   [
+    "Solo en procedimientos sancionadores",
+    "Cuando estas tengan por destinatarios a más de un interesado",
+    "Nunca, por exigir publicidad"
+   ],
+   1,
+   "Art. 40.5.",
+   "lpac 40.5",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones se practicarán:",
+   [
+    "Siempre en papel salvo petición contraria",
+    "Únicamente por medios electrónicos",
+    "Preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía"
+   ],
+   2,
+   "Art. 41.1.",
+   "lpac 41.1",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1.a de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se pueden practicar notificaciones por medios no electrónicos cuando:",
+   [
+    "El interesado no tenga correo electrónico",
+    "Se realice con ocasión de la comparecencia espontánea del interesado en las oficinas de asistencia en materia de registro y solicite la notificación personal",
+    "La notificación sea de carácter sancionador"
+   ],
+   1,
+   "Art. 41.1.a.",
+   "lpac 41.1.a",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, también podrán practicarse en papel cuando:",
+   [
+    "Para asegurar la eficacia de la actuación sea necesaria la entrega directa por un empleado público",
+    "El procedimiento sea secreto",
+    "El destinatario sea una persona jurídica"
+   ],
+   0,
+   "Art. 41.1.b.",
+   "lpac 41.1.b",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de:",
+   [
+    "Solo del envío",
+    "Su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario",
+    "Solo de la recepción por el interesado"
+   ],
+   1,
+   "Art. 41.1.",
+   "lpac 41.1",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en ningún caso se efectuarán por medios electrónicos las notificaciones:",
+   [
+    "Que contengan datos personales",
+    "Dirigidas a personas físicas",
+    "Con elementos no susceptibles de conversión a formato electrónico o que contengan medios de pago a favor de los obligados, como cheques"
+   ],
+   2,
+   "Art. 41.2.",
+   "lpac 41.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados a solicitud del interesado, la notificación se practicará:",
+   [
+    "Siempre por el medio que elija la Administración",
+    "Siempre en papel",
+    "Por el medio señalado al efecto por aquel, siendo electrónica cuando exista obligación de relacionarse así"
+   ],
+   2,
+   "Art. 41.3.",
+   "lpac 41.3",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones podrán recabar el domicilio del interesado:",
+   [
+    "En el Registro de la Propiedad",
+    "En las bases de datos del INE sobre el Padrón Municipal",
+    "En el catastro inmobiliario"
+   ],
+   1,
+   "Art. 41.4.",
+   "lpac 41.4",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el interesado rechaza la notificación:",
+   [
+    "Debe repetirse la notificación hasta tres veces",
+    "Se hará constar en el expediente, dando por efectuado el trámite y siguiendo el procedimiento",
+    "Se publicará en el boletín oficial"
+   ],
+   1,
+   "Art. 41.5.",
+   "lpac 41.5",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con independencia del medio de notificación, las Administraciones enviarán un aviso:",
+   [
+    "Por carta certificada",
+    "Al dispositivo electrónico o correo electrónico que el interesado haya comunicado, sin que su falta afecte a la validez de la notificación",
+    "Al domicilio fiscal"
+   ],
+   1,
+   "Art. 41.6.",
+   "lpac 41.6",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, todas las notificaciones en papel deberán ponerse a disposición del interesado:",
+   [
+    "En el tablón de anuncios municipal",
+    "En la sede electrónica de la Administración para que pueda acceder a su contenido de forma voluntaria",
+    "En el boletín oficial"
+   ],
+   1,
+   "Art. 42.1.",
+   "lpac 42.1",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el interesado no está presente en el domicilio, podrá hacerse cargo de la notificación:",
+   [
+    "Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad",
+    "Solo un familiar mayor de edad",
+    "Cualquier persona, incluso menores sin límite de edad"
+   ],
+   0,
+   "Art. 42.2.",
+   "lpac 42.2",
+   "Cambiar la edad",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si nadie se hace cargo de la notificación, el intento se repetirá:",
+   [
+    "Por una sola vez y en una hora distinta dentro de los tres días siguientes",
+    "Tantas veces como sea necesario",
+    "En el plazo de diez días"
+   ],
+   0,
+   "Art. 42.2.",
+   "lpac 42.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el primer intento se hizo antes de las quince horas, el segundo deberá realizarse:",
+   [
+    "A la misma hora del día siguiente",
+    "Antes de las doce horas",
+    "Después de las quince horas, con al menos tres horas de diferencia entre ambos"
+   ],
+   2,
+   "Art. 42.2.",
+   "lpac 42.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el segundo intento también resulta infructuoso:",
+   [
+    "Se considerará practicada la notificación",
+    "Se procederá en la forma prevista en el artículo 44",
+    "Se archivará el procedimiento"
+   ],
+   1,
+   "Art. 42.2.",
+   "lpac 42.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones electrónicas se practican mediante comparecencia:",
+   [
+    "Solo en la dirección de correo del interesado",
+    "Únicamente por SMS",
+    "En la sede electrónica, a través de la dirección electrónica habilitada única o ambos sistemas según disponga cada Administración"
+   ],
+   2,
+   "Art. 43.1.",
+   "lpac 43.1",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones electrónicas se entienden practicadas:",
+   [
+    "En el momento en que se produzca el acceso a su contenido",
+    "En el momento de su puesta a disposición",
+    "A las 24 horas de su envío"
+   ],
+   0,
+   "Art. 43.2.",
+   "lpac 43.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si la notificación electrónica es obligatoria o elegida, se entenderá rechazada transcurridos:",
+   [
+    "Diez días hábiles",
+    "Diez días naturales desde la puesta a disposición sin acceso",
+    "Cinco días naturales"
+   ],
+   1,
+   "Art. 43.2.",
+   "lpac 43.2",
+   "Confundir naturales con hábiles",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con:",
+   [
+    "La recepción efectiva por el interesado",
+    "La puesta a disposición de la notificación en la sede electrónica o en la dirección electrónica habilitada única",
+    "El acceso del interesado al contenido"
+   ],
+   1,
+   "Art. 43.3.",
+   "lpac 43.3",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados podrán acceder a las notificaciones:",
+   [
+    "Desde el Punto de Acceso General electrónico de la Administración, que funcionará como portal de acceso",
+    "Solo desde la sede de cada organismo",
+    "Mediante carta certificada"
+   ],
+   0,
+   "Art. 43.4.",
+   "lpac 43.4",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante:",
+   [
+    "Edicto en el tablón del Ayuntamiento únicamente",
+    "Anuncio publicado en el Boletín Oficial del Estado",
+    "Llamada telefónica"
+   ],
+   1,
+   "Art. 44.",
+   "lpac 44",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con carácter facultativo y previo, las Administraciones podrán publicar un anuncio en:",
+   [
+    "Un diario de gran circulación",
+    "El portal de transparencia",
+    "El boletín de la Comunidad Autónoma o Provincia, el tablón de edictos del último domicilio o el Consulado correspondiente"
+   ],
+   2,
+   "Art. 44.",
+   "lpac 44",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando:",
+   [
+    "Sean actos favorables",
+    "Afecten a un solo interesado",
+    "Tengan por destinatario a una pluralidad indeterminada de personas o formen parte de un procedimiento selectivo o de concurrencia competitiva"
+   ],
+   2,
+   "Art. 45.1.",
+   "lpac 45.1",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los actos de procedimientos selectivos, la convocatoria deberá indicar:",
+   [
+    "El plazo de publicación únicamente",
+    "El medio donde se efectuarán las sucesivas publicaciones, careciendo de validez las realizadas en lugares distintos",
+    "El nombre del órgano publicador"
+   ],
+   1,
+   "Art. 45.1.b.",
+   "lpac 45.1.b",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la publicación de un acto deberá contener:",
+   [
+    "Un resumen del acto",
+    "Solo el texto íntegro",
+    "Los mismos elementos que el artículo 40.2 exige para las notificaciones"
+   ],
+   2,
+   "Art. 45.2.",
+   "lpac 45.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida:",
+   [
+    "Por su exposición durante quince días",
+    "Por el anuncio en sede electrónica",
+    "Por su publicación en el Diario oficial correspondiente"
+   ],
+   2,
+   "Art. 45.4.",
+   "lpac 45.4",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar:",
+   [
+    "El contenido íntegro en el boletín",
+    "Una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer para conocer el contenido íntegro",
+    "Una nota en el tablón de edictos"
+   ],
+   1,
+   "Art. 46.",
+   "lpac 46",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.a de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos de pleno derecho los actos que:",
+   [
+    "Infrinjan cualquier norma de procedimiento",
+    "Se dicten fuera del plazo establecido",
+    "Lesionen los derechos y libertades susceptibles de amparo constitucional"
+   ],
+   2,
+   "Art. 47.1.a.",
+   "lpac 47.1.a",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos los actos dictados por órgano:",
+   [
+    "Incompetente por razón de la jerarquía",
+    "Competente pero sin motivación",
+    "Manifiestamente incompetente por razón de la materia o del territorio"
+   ],
+   2,
+   "Art. 47.1.b.",
+   "lpac 47.1.b",
+   "Confundir incompetencia manifiesta con simple incompetencia",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos los actos que:",
+   [
+    "Tengan un contenido discrecional",
+    "Carezcan de motivación",
+    "Tengan un contenido imposible"
+   ],
+   2,
+   "Art. 47.1.c.",
+   "lpac 47.1.c",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.d de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos los actos que:",
+   [
+    "Sean constitutivos de infracción penal o se dicten como consecuencia de ésta",
+    "Se dicten tras una infracción administrativa",
+    "Contravengan una circular interna"
+   ],
+   0,
+   "Art. 47.1.d.",
+   "lpac 47.1.d",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos los actos dictados:",
+   [
+    "Prescindiendo total y absolutamente del procedimiento legalmente establecido o de las reglas esenciales para la formación de la voluntad de los órganos colegiados",
+    "Con defectos formales no esenciales",
+    "Fuera de plazo"
+   ],
+   0,
+   "Art. 47.1.e.",
+   "lpac 47.1.e",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.f de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos:",
+   [
+    "Cuando falte cualquier requisito formal",
+    "Cuando se carezca de los requisitos esenciales para su adquisición",
+    "Cuando se hayan adquirido por silencio positivo"
+   ],
+   1,
+   "Art. 47.1.f.",
+   "lpac 47.1.f",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.g de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son también nulos:",
+   [
+    "Cualquier otro acto que se establezca expresamente en una disposición con rango de ley",
+    "Los que determine un reglamento",
+    "Los que señale una circular"
+   ],
+   0,
+   "Art. 47.1.g.",
+   "lpac 47.1.g",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulas de pleno derecho las disposiciones administrativas que:",
+   [
+    "Contengan defectos de forma",
+    "Se publiquen fuera de plazo",
+    "Vulneren la Constitución, las leyes u otras disposiciones de rango superior, regulen materias reservadas a la Ley o establezcan la retroactividad de disposiciones sancionadoras no favorables"
+   ],
+   2,
+   "Art. 47.2.",
+   "lpac 47.2",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son anulables los actos de la Administración que:",
+   [
+    "Incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder",
+    "Solo los que incurran en infracción grave",
+    "Carezcan de motivación únicamente"
+   ],
+   0,
+   "Art. 48.1.",
+   "lpac 48.1",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el defecto de forma solo determinará la anulabilidad cuando el acto:",
+   [
+    "Incumpla cualquier requisito formal",
+    "No haya sido firmado por el interesado",
+    "Carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados"
+   ],
+   2,
+   "Art. 48.2.",
+   "lpac 48.2",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la realización de actuaciones fuera del tiempo establecido:",
+   [
+    "Implica siempre la anulabilidad",
+    "Implica la nulidad de pleno derecho",
+    "Solo implicará anulabilidad cuando así lo imponga la naturaleza del término o plazo"
+   ],
+   2,
+   "Art. 48.3.",
+   "lpac 48.3",
+   "",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la nulidad o anulabilidad de un acto:",
+   [
+    "Implica la de todos los actos posteriores",
+    "No implicará la de los sucesivos en el procedimiento que sean independientes del primero",
+    "Implica la de todo el procedimiento"
+   ],
+   1,
+   "Art. 49.1.",
+   "lpac 49.1",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la nulidad o anulabilidad en parte del acto no implicará la de las partes independientes:",
+   [
+    "En ningún caso",
+    "Si el interesado lo solicita",
+    "Salvo que la parte viciada sea de tal importancia que sin ella el acto no hubiera sido dictado"
+   ],
+   2,
+   "Art. 49.2.",
+   "lpac 49.2",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos nulos o anulables que contengan los elementos constitutivos de otro distinto:",
+   [
+    "Producirán los efectos de éste",
+    "Quedarán sin efecto alguno",
+    "Se convalidarán automáticamente"
+   ],
+   0,
+   "Art. 50.",
+   "lpac 50",
+   "Creer que la conversión solo vale para anulables",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano que declare la nulidad dispondrá siempre la conservación de:",
+   [
+    "Ningún acto del procedimiento",
+    "Aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción",
+    "Los actos posteriores al vicio"
+   ],
+   1,
+   "Art. 51.",
+   "lpac 51",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración podrá convalidar:",
+   [
+    "Los actos anulables, subsanando los vicios de que adolezcan",
+    "Los actos nulos de pleno derecho",
+    "Todo acto viciado"
+   ],
+   0,
+   "Art. 52.1.",
+   "lpac 52.1",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el acto de convalidación producirá efecto:",
+   [
+    "Desde la fecha del acto convalidado",
+    "Desde su publicación",
+    "Desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad"
+   ],
+   2,
+   "Art. 52.2.",
+   "lpac 52.2",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el vicio consiste en incompetencia no determinante de nulidad, la convalidación podrá realizarla:",
+   [
+    "El propio órgano que dictó el acto",
+    "El órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+    "Cualquier órgano de la misma Administración"
+   ],
+   1,
+   "Art. 52.3.",
+   "lpac 52.3",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el vicio consiste en la falta de alguna autorización, el acto podrá convalidarse:",
+   [
+    "Con informe favorable del Consejo de Estado",
+    "Mediante el otorgamiento de la misma por el órgano competente",
+    "Con la ratificación del interesado"
+   ],
+   1,
+   "Art. 52.4.",
+   "lpac 52.4",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 108 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, iniciado el procedimiento de revisión de oficio, el órgano competente podrá suspender la ejecución del acto:",
+   [
+    "Siempre que lo pida un interesado",
+    "Cuando el acto sea nulo manifiestamente",
+    "Cuando ésta pudiera causar perjuicios de imposible o difícil reparación"
+   ],
+   2,
+   "Art. 108.",
+   "lpac 108",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la interposición de cualquier recurso, salvo disposición en contrario:",
+   [
+    "Suspende automáticamente la ejecución",
+    "No suspenderá la ejecución del acto impugnado",
+    "Suspende la ejecución durante un mes"
+   ],
+   1,
+   "Art. 117.1.",
+   "lpac 117.1",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano que resuelva el recurso podrá suspender la ejecución, previa ponderación razonada, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o:",
+   [
+    "El recurrente sea una persona jurídica",
+    "La impugnación se fundamente en alguna causa de nulidad de pleno derecho del artículo 47.1",
+    "El acto sea de carácter sancionador"
+   ],
+   1,
+   "Art. 117.2.",
+   "lpac 117.2",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la ejecución se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico:",
+   [
+    "El órgano competente no ha dictado y notificado resolución expresa sobre ella",
+    "El órgano no ha resuelto el recurso",
+    "El recurrente no haya prestado garantía"
+   ],
+   0,
+   "Art. 117.3.",
+   "lpac 117.3",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza:",
+   [
+    "Solo producirá efectos previa prestación de caución o garantía suficiente",
+    "No podrá acordarse",
+    "Se acordará sin condiciones"
+   ],
+   0,
+   "Art. 117.4.",
+   "lpac 117.4",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el recurso impugna un acto que afecta a una pluralidad indeterminada de personas, la suspensión habrá de:",
+   [
+    "Publicarse en el periódico oficial en que se insertó el acto",
+    "Notificarse individualmente",
+    "Comunicarse solo a los recurrentes"
+   ],
+   0,
+   "Art. 117.5.",
+   "lpac 117.5",
+   "",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la presunción de validez de los actos administrativos supone que producen efectos:",
+   [
+    "Solo tras ser confirmados por un tribunal",
+    "Hasta que el interesado los impugne",
+    "Mientras no se declare su invalidez"
+   ],
+   2,
+   "Art. 39.1.",
+   "lpac 39.1",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la notificación debe expresar, además del texto íntegro:",
+   [
+    "Solo el órgano competente",
+    "Los recursos que procedan, el órgano ante el que presentarse y el plazo para interponerlos",
+    "Únicamente los recursos judiciales"
+   ],
+   1,
+   "Art. 40.2.",
+   "lpac 40.2",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

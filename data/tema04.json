@@ -658,6 +658,26 @@
      {
       "add": 1
      }
+    ],
+    [
+     "lpac",
+     "13",
+     "Derechos de las personas en sus relaciones con las Administraciones",
+     "Quien tiene capacidad de obrar tiene derechos como comunicarse por el **Punto de Acceso General electrónico**, ser **asistido** en el uso de medios electrónicos, usar las **lenguas oficiales**, acceder a la **información pública**, recibir **respeto y deferencia**, exigir **responsabilidades** y proteger sus **datos personales**.",
+     "¿Qué derechos reconoce el art. 13 LPAC en las relaciones con la Administración?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "14",
+     "Derecho y obligación de relacionarse electrónicamente",
+     "Las **personas físicas eligen** si se relacionan por medios electrónicos; están **obligados** las personas jurídicas, entidades sin personalidad, profesionales de **colegiación obligatoria**, sus representantes y los **empleados públicos** por su condición.",
+     "¿Quiénes están siempre obligados a relacionarse electrónicamente con las Administraciones?",
+     {
+      "add": 1
+     }
     ]
    ]
   }
@@ -1682,6 +1702,1655 @@
    "Art. 9 LPAC",
    "",
    "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Ley tiene por objeto regular, entre otros aspectos:",
+   [
+    "Exclusivamente el procedimiento administrativo común, sin incluir el sancionador",
+    "Los requisitos de validez de los actos y los contratos del sector público",
+    "Los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común, incluido el sancionador y el de responsabilidad"
+   ],
+   2,
+   "Art. 1.1.",
+   "lpac 1.1",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Ley regula también los principios a los que se ha de ajustar:",
+   [
+    "El ejercicio de la iniciativa legislativa y la potestad reglamentaria",
+    "La organización de las Administraciones Públicas",
+    "La gestión de los recursos humanos del sector público"
+   ],
+   0,
+   "Art. 1.1.",
+   "lpac 1.1",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrán incluirse trámites adicionales o distintos a los contemplados en la Ley:",
+   [
+    "Mediante reglamento, cuando lo considere oportuno la Administración",
+    "Mediante ordenanza o reglamento de la entidad local siempre que se publique",
+    "Solo mediante ley, cuando resulte eficaz, proporcionado y necesario y de manera motivada"
+   ],
+   2,
+   "Art. 1.2.",
+   "lpac 1.2",
+   "Creer que basta un reglamento",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, reglamentariamente podrán establecerse especialidades del procedimiento referidas a:",
+   [
+    "La caducidad y la prescripción de los procedimientos",
+    "Los órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar",
+    "Los requisitos de validez de los actos y su eficacia"
+   ],
+   1,
+   "Art. 1.2.",
+   "lpac 1.2",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el ámbito subjetivo de aplicación de la Ley comprende al sector público, que incluye:",
+   [
+    "Solo la Administración General del Estado y las Comunidades Autónomas",
+    "La Administración General del Estado, las Comunidades Autónomas y los órganos constitucionales",
+    "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional"
+   ],
+   2,
+   "Art. 2.1.",
+   "lpac 2.1",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la Ley:",
+   [
+    "En todo caso y para toda su actividad",
+    "Únicamente cuando lo prevean sus estatutos",
+    "En las normas que específicamente se refieran a ellas y, en todo caso, cuando ejerzan potestades administrativas"
+   ],
+   2,
+   "Art. 2.2.",
+   "lpac 2.2",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Universidades públicas se rigen:",
+   [
+    "Por su normativa específica y supletoriamente por las previsiones de la Ley",
+    "Directamente por la Ley en todos sus aspectos",
+    "Exclusivamente por la Ley Orgánica de Universidades"
+   ],
+   0,
+   "Art. 2.2.",
+   "lpac 2.2",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tienen la consideración de Administraciones Públicas:",
+   [
+    "Todas las entidades del sector público institucional, incluidas las de derecho privado",
+    "Solo la AGE, las CCAA y las Entidades Locales",
+    "La AGE, las Administraciones de las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público vinculados o dependientes"
+   ],
+   2,
+   "Art. 2.3.",
+   "lpac 2.3",
+   "Incluir las entidades de derecho privado",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Corporaciones de Derecho Público se regirán:",
+   [
+    "Directamente por la Ley 39/2015 en todo caso",
+    "Por su normativa específica en el ejercicio de las funciones públicas atribuidas por ley o delegadas, y supletoriamente por la Ley 39/2015",
+    "Únicamente por sus estatutos colegiales"
+   ],
+   1,
+   "Art. 2.4.",
+   "lpac 2.4",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tendrán capacidad de obrar ante las Administraciones Públicas, además de las personas con capacidad de obrar según las normas civiles:",
+   [
+    "Todos los menores de edad a partir de los catorce años",
+    "Solo los menores emancipados",
+    "Los menores de edad para el ejercicio y defensa de los derechos cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela"
+   ],
+   2,
+   "Art. 3.",
+   "lpac 3",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se exceptúa del supuesto de capacidad de los menores:",
+   [
+    "Los menores no escolarizados",
+    "Los menores extranjeros no acompañados",
+    "Los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate"
+   ],
+   2,
+   "Art. 3.b.",
+   "lpac 3.b",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes tendrán capacidad de obrar:",
+   [
+    "En todo caso, si actúan en defensa de intereses colectivos",
+    "Cuando la Ley así lo declare expresamente",
+    "Cuando lo autorice el órgano competente en el procedimiento"
+   ],
+   1,
+   "Art. 3.c.",
+   "lpac 3.c",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se consideran interesados en el procedimiento administrativo, entre otros:",
+   [
+    "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+    "Solo quienes ostenten un derecho subjetivo reconocido por ley",
+    "Quienes sean citados por la Administración como testigos"
+   ],
+   0,
+   "Art. 4.1.",
+   "lpac 4.1",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se consideran interesados los que, sin haber iniciado el procedimiento:",
+   [
+    "Tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte",
+    "Tengan interés económico indirecto en el asunto",
+    "Hayan presentado alegaciones fuera de plazo"
+   ],
+   0,
+   "Art. 4.1.b.",
+   "lpac 4.1.b",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución:",
+   [
+    "Únicamente durante el trámite de audiencia",
+    "En tanto no haya recaído resolución definitiva",
+    "Hasta que finalice la fase de instrucción"
+   ],
+   1,
+   "Art. 4.1.c.",
+   "lpac 4.1.c",
+   "Fijar un límite temporal distinto",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de:",
+   [
+    "Derechos subjetivos de sus asociados con carácter general",
+    "Intereses legítimos colectivos en los términos que la Ley reconozca",
+    "Intereses legítimos individuales de cada asociado"
+   ],
+   1,
+   "Art. 4.2.",
+   "lpac 4.2",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la condición de interesado derive de una relación jurídica transmisible, el derechohabiente:",
+   [
+    "Deberá iniciar un nuevo procedimiento",
+    "Solo sucederá si el procedimiento no ha comenzado la instrucción",
+    "Sucederá en tal condición cualquiera que sea el estado del procedimiento"
+   ],
+   2,
+   "Art. 4.3.",
+   "lpac 4.3",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas:",
+   [
+    "En todo caso, sin posibilidad de manifestación en contra",
+    "Salvo manifestación expresa en contra del interesado",
+    "Solo si el representante es abogado"
+   ],
+   1,
+   "Art. 5.1.",
+   "lpac 5.1",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas con capacidad de obrar y las personas jurídicas podrán actuar en representación de otras ante las Administraciones Públicas:",
+   [
+    "Las personas jurídicas, siempre que ello esté previsto en sus Estatutos",
+    "Las personas jurídicas, en todo caso",
+    "Solo las personas físicas"
+   ],
+   0,
+   "Art. 5.2.",
+   "lpac 5.2",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, es necesario acreditar la representación para:",
+   [
+    "Cualquier actuación en el procedimiento",
+    "Formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos",
+    "Únicamente para interponer recursos y desistir"
+   ],
+   1,
+   "Art. 5.3.",
+   "lpac 5.3",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para los actos y gestiones de mero trámite:",
+   [
+    "Deberá acreditarse mediante poder notarial",
+    "No cabe representación",
+    "Se presumirá la representación"
+   ],
+   2,
+   "Art. 5.3.",
+   "lpac 5.3",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la representación podrá acreditarse mediante:",
+   [
+    "Únicamente poder notarial",
+    "Cualquier medio válido en Derecho que deje constancia fidedigna de su existencia",
+    "Solo mediante apoderamiento apud acta"
+   ],
+   1,
+   "Art. 5.4.",
+   "lpac 5.4",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado:",
+   [
+    "Solo ante notario público",
+    "Únicamente en las oficinas de correos",
+    "Por comparecencia personal o electrónica en la correspondiente sede electrónica, o mediante inscripción en el registro electrónico de apoderamientos"
+   ],
+   2,
+   "Art. 5.4.",
+   "lpac 5.4",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano competente para la tramitación del procedimiento deberá:",
+   [
+    "Incorporar al expediente la acreditación de la condición de representante y de los poderes que tiene reconocidos en ese momento",
+    "Exigir siempre el original del poder en cada trámite",
+    "Conservar la acreditación fuera del expediente"
+   ],
+   0,
+   "Art. 5.5.",
+   "lpac 5.5",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane:",
+   [
+    "En el plazo de diez días, o superior si las circunstancias lo requieren",
+    "En el plazo de cinco días improrrogables",
+    "En el plazo de quince días hábiles"
+   ],
+   0,
+   "Art. 5.6.",
+   "lpac 5.6",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.7 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas podrán habilitar a personas físicas o jurídicas autorizadas para:",
+   [
+    "Resolver procedimientos administrativos en nombre de la Administración",
+    "Otorgar poderes generales a los interesados",
+    "La realización de determinadas transacciones electrónicas en representación de los interesados"
+   ],
+   2,
+   "Art. 5.7.",
+   "lpac 5.7",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los registros electrónicos de apoderamientos deben inscribir, al menos:",
+   [
+    "Todos los poderes otorgados en cualquier procedimiento",
+    "Los poderes de carácter general otorgados apud acta por quien ostente la condición de interesado",
+    "Únicamente los poderes otorgados para trámites concretos"
+   ],
+   1,
+   "Art. 6.1.",
+   "lpac 6.1",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el registro de apoderamientos deberá constar también:",
+   [
+    "El bastanteo realizado del poder",
+    "La declaración de bienes del poderdante",
+    "La resolución del procedimiento al que se refiere"
+   ],
+   0,
+   "Art. 6.1.",
+   "lpac 6.1",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los registros generales de apoderamientos:",
+   [
+    "Sustituyen a los registros particulares de los organismos",
+    "No impiden la existencia de registros particulares en cada Organismo para trámites específicos",
+    "Prohíben registros particulares"
+   ],
+   1,
+   "Art. 6.1.",
+   "lpac 6.1",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los registros electrónicos generales y particulares de apoderamientos deberán ser:",
+   [
+    "Independientes y sin conexión entre Administraciones",
+    "Gestionados exclusivamente por la AGE",
+    "Plenamente interoperables entre sí"
+   ],
+   2,
+   "Art. 6.2.",
+   "lpac 6.2",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los asientos de los registros de apoderamientos deben contener, al menos:",
+   [
+    "Datos del poderdante y apoderado, fecha de inscripción, período por el que se otorga el poder y tipo de poder según las facultades",
+    "Solo los datos del poderdante y la fecha de inscripción",
+    "Los antecedentes penales del apoderado"
+   ],
+   0,
+   "Art. 6.3.",
+   "lpac 6.3",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los poderes inscribibles pueden ser:",
+   [
+    "Únicamente generales",
+    "Solo los referidos a procedimientos sancionadores",
+    "General; para cualquier actuación ante una Administración u Organismo concreto; o para determinados trámites especificados"
+   ],
+   2,
+   "Art. 6.4.",
+   "lpac 6.4",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el apoderamiento apud acta se otorgará:",
+   [
+    "Mediante comparecencia electrónica en la sede electrónica con firma electrónica, o mediante comparecencia personal en las oficinas de asistencia en materia de registros",
+    "Ante notario o registrador mercantil",
+    "Por escrito presentado por correo certificado"
+   ],
+   0,
+   "Art. 6.5.",
+   "lpac 6.5",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los poderes inscritos en el registro tendrán una validez determinada máxima de:",
+   [
+    "Tres años desde su otorgamiento",
+    "Diez años, prorrogables indefinidamente",
+    "Cinco años a contar desde la fecha de inscripción"
+   ],
+   2,
+   "Art. 6.6.",
+   "lpac 6.6",
+   "Confundir con otros plazos",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en cualquier momento antes de la finalización de ese plazo el poderdante puede:",
+   [
+    "Solo revocar, nunca prorrogar",
+    "Revocar o prorrogar el poder, y la prórroga también podrá hacerse en los dos últimos años del plazo",
+    "Prorrogarlo automáticamente"
+   ],
+   1,
+   "Art. 6.6.",
+   "lpac 6.6",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con:",
+   [
+    "Todos los interesados por igual en cada trámite",
+    "El interesado de mayor edad",
+    "El representante o el interesado que expresamente hayan señalado y, en su defecto, el que figure en primer término"
+   ],
+   2,
+   "Art. 7.",
+   "lpac 7",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si en la instrucción se advierte la existencia de personas titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente:",
+   [
+    "Se les excluirá del procedimiento",
+    "Se les citará únicamente en el trámite de audiencia",
+    "Se comunicará a dichas personas la tramitación del procedimiento, si no ha tenido publicidad"
+   ],
+   2,
+   "Art. 8.",
+   "lpac 8",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones están obligadas a verificar la identidad de los interesados mediante:",
+   [
+    "La consulta del padrón municipal",
+    "La comprobación de su nombre y apellidos o denominación que consten en el DNI o documento equivalente",
+    "La presentación de la tarjeta sanitaria"
+   ],
+   1,
+   "Art. 9.1.",
+   "lpac 9.1",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados podrán identificarse electrónicamente mediante:",
+   [
+    "Solo con certificado electrónico cualificado",
+    "Certificados electrónicos cualificados de firma o de sello y otros sistemas que la Administración considere válidos con registro previo y comunicación a la Secretaría General de Administración Digital",
+    "Únicamente con usuario y contraseña"
+   ],
+   1,
+   "Art. 9.2.",
+   "lpac 9.2",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, antes de que un sistema de identificación distinto de certificados tenga eficacia jurídica, deben transcurrir desde la comunicación:",
+   [
+    "Dos meses, durante los cuales el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública",
+    "Un mes sin posibilidad de oposición",
+    "Seis meses"
+   ],
+   0,
+   "Art. 9.2.c.",
+   "lpac 9.2.c",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones deberán garantizar que la utilización de los sistemas de las letras a) y b):",
+   [
+    "Sea posible solo para procedimientos de gran complejidad",
+    "Quede sustituida por el sistema de la letra c)",
+    "Sea posible para todo procedimiento, aun cuando se admita otro sistema de la letra c)"
+   ],
+   2,
+   "Art. 9.2.",
+   "lpac 9.2",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben:",
+   [
+    "Estar situados en territorio de la Unión Europea",
+    "Estar situados en territorio español",
+    "Estar alojados en servidores del Estado"
+   ],
+   0,
+   "Art. 9.3.",
+   "lpac 9.3",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados podrán firmar a través de:",
+   [
+    "Únicamente firma manuscrita",
+    "Solo firma electrónica cualificada",
+    "Cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento y la integridad e inalterabilidad del documento"
+   ],
+   2,
+   "Art. 10.1.",
+   "lpac 10.1",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma:",
+   [
+    "Solo los sistemas de firma cualificada",
+    "Cualquier sistema sin registro previo",
+    "Sistemas de firma electrónica cualificada y avanzada, sello electrónico cualificado y avanzado y otros sistemas admitidos con registro previo"
+   ],
+   2,
+   "Art. 10.2.",
+   "lpac 10.2",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con carácter general, para realizar cualquier actuación prevista en el procedimiento será suficiente que los interesados:",
+   [
+    "Acrediten previamente su identidad por cualquiera de los medios previstos en la Ley",
+    "Firmen todas sus actuaciones",
+    "Comparezcan en persona"
+   ],
+   0,
+   "Art. 11.1.",
+   "lpac 11.1",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones solo requerirán el uso obligatorio de firma para:",
+   [
+    "Cualquier escrito dirigido a la Administración",
+    "Aportar documentos y formular alegaciones",
+    "Formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos"
+   ],
+   2,
+   "Art. 11.2.",
+   "lpac 11.2",
+   "Ampliar los supuestos de firma obligatoria",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones deben garantizar que los interesados puedan relacionarse con ellas por medios electrónicos poniendo a su disposición:",
+   [
+    "Los canales de acceso necesarios y los sistemas y aplicaciones que en cada caso se determinen",
+    "Únicamente un punto de acceso presencial",
+    "Equipos informáticos gratuitos en todas las oficinas"
+   ],
+   0,
+   "Art. 12.1.",
+   "lpac 12.1",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados que así lo soliciten, especialmente en:",
+   [
+    "La redacción de recursos y alegaciones",
+    "Identificación y firma electrónica, presentación de solicitudes mediante el registro electrónico general y obtención de copias auténticas",
+    "La tramitación de procedimientos sancionadores"
+   ],
+   1,
+   "Art. 12.2.",
+   "lpac 12.2",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si un interesado carece de medios electrónicos, su identificación o firma podrá ser realizada válidamente por:",
+   [
+    "Cualquier persona designada por el interesado",
+    "Un funcionario público con su sistema de firma electrónica, previa identificación y consentimiento expreso del interesado",
+    "El responsable de la oficina sin necesidad de consentimiento"
+   ],
+   1,
+   "Art. 12.2.",
+   "lpac 12.2",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el consentimiento del interesado para la actuación del funcionario habilitado:",
+   [
+    "Debe quedar constancia para los casos de discrepancia o litigio",
+    "No necesita constar",
+    "Se presume siempre"
+   ],
+   0,
+   "Art. 12.2.",
+   "lpac 12.2",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el registro de funcionarios habilitados debe contener, al menos:",
+   [
+    "Todos los funcionarios del municipio",
+    "Los jefes de servicio de cada departamento",
+    "Los funcionarios que presten servicios en las oficinas de asistencia en materia de registros"
+   ],
+   2,
+   "Art. 12.3.",
+   "lpac 12.3",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.a de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas con capacidad de obrar tienen derecho a comunicarse con las Administraciones:",
+   [
+    "Solo presencialmente",
+    "Únicamente por correo postal",
+    "A través de un Punto de Acceso General electrónico de la Administración"
+   ],
+   2,
+   "Art. 13.a.",
+   "lpac 13.a",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los ciudadanos tienen derecho a utilizar:",
+   [
+    "Cualquier lengua de la Unión Europea",
+    "Las lenguas oficiales en el territorio de su Comunidad Autónoma",
+    "Solo el castellano"
+   ],
+   1,
+   "Art. 13.c.",
+   "lpac 13.c",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.d de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el derecho de acceso a la información pública, archivos y registros se ejerce:",
+   [
+    "De acuerdo con la Ley 40/2015",
+    "De acuerdo con la Ley Orgánica de Protección de Datos",
+    "De acuerdo con la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno"
+   ],
+   2,
+   "Art. 13.d.",
+   "lpac 13.d",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los ciudadanos tienen derecho a ser tratados:",
+   [
+    "Con prioridad si son mayores de 65 años",
+    "Con arreglo al orden de presentación únicamente",
+    "Con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos"
+   ],
+   2,
+   "Art. 13.e.",
+   "lpac 13.e",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.f de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, entre los derechos de las personas figura:",
+   [
+    "Exigir las responsabilidades de las Administraciones Públicas y autoridades cuando así corresponda legalmente",
+    "Obtener indemnización automática por demoras",
+    "Elegir el órgano que resuelva su caso"
+   ],
+   0,
+   "Art. 13.f.",
+   "lpac 13.f",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.h de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se reconoce el derecho a la protección de datos de carácter personal y en particular a:",
+   [
+    "La supresión inmediata de sus datos tras cada trámite",
+    "El cobro de una compensación por su uso",
+    "La seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones"
+   ],
+   2,
+   "Art. 13.h.",
+   "lpac 13.h",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los derechos del artículo 13 se entienden:",
+   [
+    "Sustituidos por los del artículo 53",
+    "Sin perjuicio de los reconocidos en el artículo 53 a los interesados en el procedimiento",
+    "Limitados a la fase de iniciación"
+   ],
+   1,
+   "Art. 13.",
+   "lpac 13",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas pueden elegir en todo momento comunicarse por medios electrónicos o no:",
+   [
+    "Solo en el primer trámite del procedimiento",
+    "Sin que puedan cambiar la elección",
+    "Salvo que estén obligadas a relacionarse electrónicamente; el medio elegido puede modificarse en cualquier momento"
+   ],
+   2,
+   "Art. 14.1.",
+   "lpac 14.1",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, están obligados a relacionarse electrónicamente en cualquier trámite, al menos:",
+   [
+    "Personas jurídicas, entidades sin personalidad jurídica, profesionales de colegiación obligatoria, representantes de obligados y empleados públicos por su condición",
+    "Todas las personas físicas mayores de edad",
+    "Solo las personas jurídicas"
+   ],
+   0,
+   "Art. 14.2.",
+   "lpac 14.2",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso:",
+   [
+    "Los procuradores únicamente",
+    "Los notarios y registradores de la propiedad y mercantiles",
+    "Los abogados exclusivamente"
+   ],
+   1,
+   "Art. 14.2.c.",
+   "lpac 14.2.c",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2.d de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, están obligados a relacionarse electrónicamente:",
+   [
+    "Quienes representen a cualquier interesado",
+    "Quienes representen a un interesado que esté obligado a relacionarse electrónicamente",
+    "Los apoderados apud acta"
+   ],
+   1,
+   "Art. 14.2.d.",
+   "lpac 14.2.d",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, reglamentariamente las Administraciones podrán establecer la obligación electrónica para ciertos colectivos de personas físicas:",
+   [
+    "Mayores de setenta años",
+    "Residentes en municipios de más de 20.000 habitantes",
+    "Que por razón de capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios"
+   ],
+   2,
+   "Art. 14.3.",
+   "lpac 14.3",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el sector público al que se aplica la Ley NO comprende directamente:",
+   [
+    "Las Entidades que integran la Administración Local",
+    "El sector público institucional",
+    "Las Cortes Generales como órgano constitucional"
+   ],
+   2,
+   "Art. 2.1.",
+   "lpac 2.1",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el sector público institucional se integra por:",
+   [
+    "Solo los organismos públicos y las sociedades mercantiles",
+    "Las Administraciones territoriales y sus órganos de gobierno",
+    "Organismos públicos y entidades de derecho público vinculados o dependientes, entidades de derecho privado vinculadas o dependientes y Universidades públicas"
+   ],
+   2,
+   "Art. 2.2.",
+   "lpac 2.2",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO tiene capacidad de obrar ante las Administraciones, conforme a la Ley:",
+   [
+    "Un grupo de afectados sin personalidad jurídica cuando la Ley no lo declare expresamente",
+    "Una persona jurídica con capacidad conforme a las normas civiles",
+    "Un menor para derechos que puede ejercer sin asistencia"
+   ],
+   0,
+   "Art. 3.",
+   "lpac 3",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO es, por sí solo, un supuesto de condición de interesado:",
+   [
+    "Promover el procedimiento como titular de un derecho",
+    "Personarse teniendo intereses legítimos que pueden resultar afectados",
+    "Ser mero espectador del procedimiento sin derechos ni intereses legítimos afectados"
+   ],
+   2,
+   "Art. 4.1.",
+   "lpac 4.1",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la actuación por medio de representante:",
+   [
+    "Impide al interesado actuar personalmente en el procedimiento",
+    "Requiere siempre poder inscrito en el registro",
+    "Se entiende con éste las actuaciones administrativas salvo manifestación expresa en contra del interesado"
+   ],
+   2,
+   "Art. 5.1.",
+   "lpac 5.1",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO exige acreditación de la representación:",
+   [
+    "Interponer recursos en nombre de otra persona",
+    "Los actos y gestiones de mero trámite",
+    "Renunciar a derechos en nombre de otra persona"
+   ],
+   1,
+   "Art. 5.3.",
+   "lpac 5.3",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO se entiende acreditada la representación mediante:",
+   [
+    "Apoderamiento apud acta por comparecencia personal",
+    "Inscripción en el registro electrónico de apoderamientos",
+    "Un simple comunicado verbal del representante"
+   ],
+   2,
+   "Art. 5.4.",
+   "lpac 5.4",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, entre las tipologías de poderes inscribibles NO figura:",
+   [
+    "Un poder para actuar únicamente ante los tribunales de justicia",
+    "Un poder general para cualquier actuación ante cualquier Administración",
+    "Un poder para determinados trámites especificados en el poder"
+   ],
+   0,
+   "Art. 6.4.",
+   "lpac 6.4",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el ámbito estatal, el registro electrónico general de apoderamientos es:",
+   [
+    "El Registro Electrónico de Apoderamientos de la Administración General del Estado",
+    "El Registro Mercantil Central",
+    "El Registro Civil electrónico"
+   ],
+   0,
+   "Art. 6.1.",
+   "lpac 6.1",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los registros de apoderamientos permitirán comprobar la representación mediante la consulta a:",
+   [
+    "Únicamente los registros de la propia Administración",
+    "Otros registros administrativos similares, al registro mercantil, de la propiedad y a los protocolos notariales",
+    "El padrón municipal de habitantes"
+   ],
+   1,
+   "Art. 6.2.",
+   "lpac 6.2",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO es un sistema de identificación electrónica de los previstos en el artículo 9.2:",
+   [
+    "Certificado electrónico cualificado de firma",
+    "Una simple declaración responsable sin registro previo del usuario",
+    "Certificado electrónico cualificado de sello"
+   ],
+   1,
+   "Art. 9.2.",
+   "lpac 9.2",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para admitir sistemas de identificación distintos de los certificados cualificados hace falta:",
+   [
+    "Autorización del Consejo de Ministros",
+    "Registro previo como usuario y comunicación a la Secretaría General de Administración Digital con declaración responsable de cumplimiento",
+    "Informe del Consejo de Estado"
+   ],
+   1,
+   "Art. 9.2.c.",
+   "lpac 9.2.c",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, durante los dos meses desde la comunicación del sistema, el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública previo informe vinculante de:",
+   [
+    "La Secretaría de Estado de Seguridad, que deberá emitirlo en diez días desde su solicitud",
+    "El Ministerio del Interior, en quince días",
+    "La Agencia Española de Protección de Datos, en un mes"
+   ],
+   0,
+   "Art. 9.2.c.",
+   "lpac 9.2.c",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO se considera sistema válido de firma electrónica en el artículo 10.2:",
+   [
+    "Un sistema sin registro previo del usuario que permita garantizar su identidad",
+    "Sello electrónico avanzado basado en certificado cualificado",
+    "Firma electrónica avanzada basada en certificado cualificado"
+   ],
+   0,
+   "Art. 10.2.",
+   "lpac 10.2",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO requerirán el uso obligatorio de firma las Administraciones para:",
+   [
+    "Interponer recursos",
+    "Renunciar a derechos",
+    "Formular alegaciones en el trámite de audiencia"
+   ],
+   2,
+   "Art. 11.2.",
+   "lpac 11.2",
+   "Pensar que todo escrito exige firma",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la asistencia en el uso de medios electrónicos se presta a los interesados:",
+   [
+    "Obligados a relacionarse electrónicamente en todo caso",
+    "No incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten",
+    "Que sean personas jurídicas"
+   ],
+   1,
+   "Art. 12.2.",
+   "lpac 12.2",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el registro de funcionarios habilitados debe ser:",
+   [
+    "Plenamente interoperable y estar interconectado con los de las restantes Administraciones",
+    "Exclusivo de cada Administración sin conexión con otras",
+    "De acceso restringido al órgano de contratación"
+   ],
+   0,
+   "Art. 12.3.",
+   "lpac 12.3",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO figura entre los derechos del artículo 13:",
+   [
+    "Ser asistidos en el uso de medios electrónicos",
+    "Obtener automáticamente la resolución favorable por silencio",
+    "A la protección de datos de carácter personal"
+   ],
+   1,
+   "Art. 13.b.",
+   "lpac 13.b",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.g de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se reconoce a las personas el derecho a:",
+   [
+    "Elegir libremente el órgano que resuelva su solicitud",
+    "La obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley",
+    "Que se les exima de todos los trámites electrónicos"
+   ],
+   1,
+   "Art. 13.g.",
+   "lpac 13.g",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.i de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los derechos del artículo 13 incluyen:",
+   [
+    "Solo los enumerados taxativamente en el artículo",
+    "Cualesquiera otros que les reconozcan la Constitución y las leyes",
+    "Los que determine cada ayuntamiento por ordenanza"
+   ],
+   1,
+   "Art. 13.i.",
+   "lpac 13.i",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO está obligado en todo caso a relacionarse electrónicamente:",
+   [
+    "Una persona jurídica",
+    "Una persona física que no ejerce actividad profesional colegiada",
+    "Un empleado público por su condición de tal"
+   ],
+   1,
+   "Art. 14.2.",
+   "lpac 14.2",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los empleados públicos se relacionan electrónicamente por razón de su condición:",
+   [
+    "En la forma que decida cada empleado",
+    "En la forma en que se determine reglamentariamente por cada Administración",
+    "Siempre mediante firma manuscrita escaneada"
+   ],
+   1,
+   "Art. 14.2.e.",
+   "lpac 14.2.e",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas jurídicas podrán actuar en representación de otras:",
+   [
+    "Siempre que cuenten con más de cinco socios",
+    "Siempre que ello esté previsto en sus Estatutos",
+    "Solo si son Administraciones Públicas"
+   ],
+   1,
+   "Art. 5.2.",
+   "lpac 5.2",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si la representación no se acredita suficientemente, el órgano administrativo debe:",
+   [
+    "Conceder plazo de diez días o superior para aportarla o subsanar el defecto",
+    "Archivar sin más la solicitud",
+    "Inadmitir de plano la actuación"
+   ],
+   0,
+   "Art. 5.6.",
+   "lpac 5.6",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con:",
+   [
+    "Todos ellos simultáneamente",
+    "El que figure en primer término",
+    "El de mayor edad"
+   ],
+   1,
+   "Art. 7.",
+   "lpac 7",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la comunicación de la tramitación a nuevos interesados procede en procedimientos que:",
+   [
+    "No hayan tenido publicidad",
+    "Hayan sido objeto de información pública",
+    "Se encuentren en fase de recurso"
+   ],
+   0,
+   "Art. 8.",
+   "lpac 8",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las asociaciones representativas son titulares de intereses legítimos colectivos:",
+   [
+    "Siempre que lo decida la Administración",
+    "En los términos que la Ley reconozca",
+    "En todo procedimiento sin excepción"
+   ],
+   1,
+   "Art. 4.2.",
+   "lpac 4.2",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.a de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tendrán capacidad de obrar las personas físicas o jurídicas que ostenten capacidad:",
+   [
+    "Con arreglo a la legislación administrativa sectorial",
+    "Reconocida por el órgano competente",
+    "Con arreglo a las normas civiles"
+   ],
+   2,
+   "Art. 3.a.",
+   "lpac 3.a",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años, que puede:",
+   [
+    "Prorrogarse sin límite temporal",
+    "No prorrogarse",
+    "Prorrogarse en cualquier momento anterior a su finalización y por otros cinco años"
+   ],
+   2,
+   "Art. 6.6.",
+   "lpac 6.6",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la identidad de los interesados que son personas jurídicas se verifica por su:",
+   [
+    "Denominación o razón social que conste en el documento identificativo equivalente",
+    "Nombre comercial",
+    "Domicilio social"
+   ],
+   0,
+   "Art. 9.1.",
+   "lpac 9.1",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la firma debe permitir acreditar la autenticidad de la expresión de voluntad y:",
+   [
+    "La confidencialidad del contenido",
+    "La conservación por diez años",
+    "La integridad e inalterabilidad del documento"
+   ],
+   2,
+   "Art. 10.1.",
+   "lpac 10.1",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el ámbito material de la Ley incluye el procedimiento común de:",
+   [
+    "Solo la Administración General del Estado",
+    "Solo las Administraciones territoriales",
+    "Todas las Administraciones Públicas"
+   ],
+   2,
+   "Art. 1.1.",
+   "lpac 1.1",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Ley se aplica a las Entidades que integran:",
+   [
+    "La Administración Local",
+    "Solo los municipios de gran población",
+    "Únicamente las diputaciones provinciales"
+   ],
+   0,
+   "Art. 2.1.",
+   "lpac 2.1",
+   "",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas no obligadas pueden modificar el medio elegido para comunicarse:",
+   [
+    "Solo una vez al año",
+    "En cualquier momento",
+    "Solo con autorización del órgano competente"
+   ],
+   1,
+   "Art. 14.1.",
+   "lpac 14.1",
+   "",
+   "h-relacion",
    [],
    {
     "nuevo": 1
