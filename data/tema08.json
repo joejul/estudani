@@ -12,7 +12,10 @@
     "Nulidad: cualquier momento y dictamen favorable (106)",
     "Lesividad: 4 años (107)",
     "Revocación de actos de gravamen (109.1)",
-    "Rectificación de errores (109.2)"
+    "Rectificación de errores (109.2)",
+    "Competencia de revisión (111)",
+    "Caducidad a los seis meses (106.5 y 107.3)",
+    "Límites de la revisión (110)"
    ],
    "bloques": [
     [
@@ -56,6 +59,76 @@
     [
      "trampa",
      "**Nulidad:** cualquier momento + dictamen **favorable**. **Lesividad:** actos anulables **favorables**, 4 años. **Rectificación:** de oficio **o a instancia** (examen 2025, pregunta 39)."
+    ],
+    [
+     "h",
+     "Por qué existe la revisión de oficio y quién revisa"
+    ],
+    [
+     "lista",
+     [
+      "La revisión de oficio se hace **por iniciativa de la propia Administración** («*motu proprio*»). Para evitar la **arbitrariedad** (art. 9.3 CE, interdicción de la arbitrariedad y seguridad jurídica), la ley obliga a seguir un procedimiento **esencial**: si se omite, el acto de revisión sería **nulo de pleno derecho**.",
+      "**Competencia en la AGE (art. 111):** el **Consejo de Ministros** revisa sus actos y los de los Ministros; los **Ministros**, los de los Secretarios de Estado y de los órganos directivos no dependientes de una Secretaría de Estado; los **Secretarios de Estado**, los de sus órganos dependientes. En organismos públicos revisan los órganos a los que están adscritos y sus máximos órganos rectores, según el caso.",
+      "La revisión en **materia tributaria** se rige por la **Ley General Tributaria** (arts. 216 a 220)."
+     ]
+    ],
+    [
+     "h",
+     "Nulidad (art. 106): reglas que se olvidan"
+    ],
+    [
+     "tabla",
+     [
+      "Aspecto",
+      "Regla"
+     ],
+     [
+      [
+       "**Inadmisión (106.3)**",
+       "El órgano puede **inadmitir a trámite**, de forma motivada y **sin dictamen**, las solicitudes que no se funden en las causas del art. 47.1, que carezcan manifiestamente de fundamento o que sean sustancialmente iguales a otras ya desestimadas."
+      ],
+      [
+       "**Suspensión (108)**",
+       "Iniciado el procedimiento, puede **suspenderse la ejecución** del acto si pudiera causar **perjuicios de imposible o difícil reparación**."
+      ],
+      [
+       "**Indemnización (106.4)**",
+       "Al declarar la nulidad pueden fijarse las **indemnizaciones** que procedan. Si se anula una **disposición**, **subsisten los actos firmes** dictados en su aplicación."
+      ],
+      [
+       "**Plazo para resolver (106.5)**",
+       "**Seis meses**. Si se inició **de oficio**, pasado el plazo se produce la **caducidad**. Si se inició **a solicitud** del interesado, se puede entender **desestimada por silencio**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Lesividad (art. 107)"
+    ],
+    [
+     "lista",
+     [
+      "La Administración **no puede anular por sí misma** un acto favorable anulable: debe **declararlo lesivo para el interés público** y **impugnarlo ante la jurisdicción contencioso-administrativa**.",
+      "La declaración **no puede adoptarse pasados cuatro años** desde que se dictó el acto y exige **audiencia previa** de los interesados.",
+      "Pasados **seis meses** desde el inicio sin declarar la lesividad, se produce la **caducidad**.",
+      "Si el acto viene de la **AGE o de una Comunidad Autónoma**, la declara el órgano competente en la materia. En la **Administración Local**, la declara el **Pleno** (o, si no existe, el órgano colegiado superior de la entidad)."
+     ]
+    ],
+    [
+     "h",
+     "Revocación, rectificación y límites (arts. 109 y 110)"
+    ],
+    [
+     "lista",
+     [
+      "**Revocación (109.1):** solo de actos de **gravamen o desfavorables**, mientras no haya pasado el plazo de **prescripción**, y siempre que no sea una dispensa no permitida por las leyes ni contraria al **principio de igualdad**, al **interés público** o al ordenamiento.",
+      "**Rectificación (109.2):** de **errores materiales, de hecho o aritméticos**, **en cualquier momento**, de oficio o a instancia de los interesados.",
+      "**Límites (110):** no pueden ejercerse las facultades de revisión si, por **prescripción**, por el **tiempo transcurrido** o por otras circunstancias, su ejercicio resulta contrario a la **equidad, la buena fe, el derecho de los particulares o las leyes**."
+     ]
+    ],
+    [
+     "trampa",
+     "La **lesividad** es para actos **favorables anulables** y se impugna en lo **contencioso** (4 años). La **nulidad** exige **dictamen favorable** del Consejo de Estado y puede hacerse **en cualquier momento**. La **revocación** es solo de actos **desfavorables**."
     ]
    ],
    "flash": [
@@ -66,6 +139,18 @@
     [
      "¿Cuándo se pueden rectificar los errores materiales?",
      "En cualquier momento, de oficio o a instancia de los interesados (109.2)."
+    ],
+    [
+     "¿Cuánto tarda en caducar el procedimiento de revisión de oficio de nulidad iniciado de oficio?",
+     "Seis meses desde su inicio sin resolución (art. 106.5)."
+    ],
+    [
+     "¿Quién declara la lesividad de un acto de una Entidad Local?",
+     "El Pleno de la Corporación (art. 107.5)."
+    ],
+    [
+     "¿Qué límites tiene la revisión de oficio (art. 110)?",
+     "No puede ejercerse si resulta contraria a la equidad, la buena fe, el derecho de los particulares o las leyes."
     ]
    ],
    "esquema": [
@@ -127,7 +212,10 @@
     "Objeto y clases (112)",
     "Fin de la vía administrativa (114)",
     "Causas de inadmisión (116)",
-    "Resolución: no agravar (119.3)"
+    "Resolución: no agravar (119.3)",
+    "Suspensión automática al mes (117.3)",
+    "Audiencia por nuevos hechos: 10 a 15 días (118)",
+    "Contra reglamentos: sin recurso administrativo (112.3)"
    ],
    "bloques": [
     [
@@ -169,6 +257,91 @@
     [
      "trampa",
      "Carecer de legitimación es **causa de inadmisión**, no de suspensión ni de desestimación (examen 2025, pregunta 40). **Nunca** se puede **agravar** la situación inicial del recurrente (pregunta 49)."
+    ],
+    [
+     "h",
+     "Qué es un recurso administrativo"
+    ],
+    [
+     "lista",
+     [
+      "El acto administrativo se **presume válido**, pero la presunción **admite prueba en contrario** (*iuris tantum*): quien recurre intenta demostrar la ilegalidad para que el acto se anule.",
+      "El recurso es un **acto del administrado** por el que pide a la Administración **revisar o anular** un acto o disposición. Se diferencia de la **petición** (que pretende un acto nuevo) y de la **queja** (que pide corregir defectos de tramitación en el propio procedimiento: arts. 20 y 21).",
+      "Es una **garantía limitada**: lo resuelve la **propia Administración** (juez y parte).",
+      "**Clases:** recurso de **alzada**, recurso **potestativo de reposición**, recurso **extraordinario de revisión** y **recursos especiales** (por ejemplo, en contratación o las reclamaciones económico-administrativas)."
+     ]
+    ],
+    [
+     "h",
+     "Reglas del art. 112 que completan el objeto y las clases"
+    ],
+    [
+     "lista",
+     [
+      "Las **leyes** pueden **sustituir la alzada** (y la reposición) en ámbitos sectoriales por otros procedimientos de **impugnación, reclamación, conciliación, mediación y arbitraje** ante órganos colegiados o comisiones no sometidos a instrucciones jerárquicas. En la **Administración Local** esto no puede desconocer las facultades resolutorias de los órganos representativos electos.",
+      "Contra las **disposiciones de carácter general** **no cabe recurso en vía administrativa**. La impugnación **directa** de un reglamento se hace en la vía **contencioso-administrativa**; la **indirecta** (recurrir un acto de aplicación fundado solo en la nulidad del reglamento) puede interponerse, con carácter **potestativo**, ante el órgano que dictó la disposición.",
+      "Las **reclamaciones económico-administrativas** se rigen por su legislación específica (Ley General Tributaria)."
+     ]
+    ],
+    [
+     "h",
+     "Cómo se interpone un recurso (art. 115)"
+    ],
+    [
+     "lista",
+     [
+      "Debe expresar: **nombre y apellidos** del recurrente e identificación; el **acto recurrido y la razón** de su impugnación; **lugar, fecha, firma**, medio y lugar de notificaciones; el **órgano o unidad** al que se dirige; y las demás particularidades que exijan normas específicas.",
+      "El **error o la falta de calificación** del recurso **no impide su tramitación** si se deduce su verdadero carácter.",
+      "Los vicios que hacen anulable un acto **no pueden ser alegados por quienes los hubieran causado**."
+     ]
+    ],
+    [
+     "h",
+     "Suspensión de la ejecución al recurrir (art. 117) en detalle"
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Regla general**",
+       "Recurrir **no suspende** la ejecución, salvo disposición en contrario."
+      ],
+      [
+       "**Suspensión discrecional**",
+       "El órgano que resuelve puede suspender, de oficio o a solicitud, tras **ponderar** el perjuicio al interés público o a terceros frente al que sufre el recurrente, si hay **perjuicio de imposible o difícil reparación** o el recurso se funda en una **causa de nulidad del art. 47.1**."
+      ],
+      [
+       "**Suspensión automática (117.3)**",
+       "Se entiende **suspendida** si pasado **un mes** desde que la solicitud entra en el registro el órgano **no ha dictado y notificado resolución expresa**."
+      ],
+      [
+       "**Medidas cautelares y garantía (117.4)**",
+       "Al suspender pueden adoptarse **medidas cautelares**; si la suspensión puede causar perjuicios, solo produce efectos tras prestar **caución o garantía**. La suspensión **se prolonga** tras agotar la vía administrativa si hay medida cautelar y se pide también la suspensión en el contencioso."
+      ],
+      [
+       "**Actos con muchos afectados (117.5)**",
+       "La suspensión se **publica** en el periódico oficial en que se insertó el acto."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Audiencia y pluralidad de recursos (arts. 118 y 120)"
+    ],
+    [
+     "lista",
+     [
+      "**Audiencia (118):** si hay que tener en cuenta **nuevos hechos o documentos** no recogidos en el expediente, se ponen de manifiesto a los interesados por **10 a 15 días**. No se tienen en cuenta hechos o pruebas que el recurrente pudo aportar antes y no aportó. Si hay **otros interesados**, se les da traslado del recurso. El recurso, los informes y las propuestas **no son documentos nuevos**.",
+      "**Pluralidad (120):** si hay varios recursos que traen causa del mismo acto y se ha interpuesto un **recurso judicial**, el órgano puede **suspender el plazo para resolver** hasta el pronunciamiento judicial. El acuerdo se **notifica** y puede recurrirse."
+     ]
+    ],
+    [
+     "trampa",
+     "La resolución del recurso **no puede agravar la situación inicial** del recurrente (prohibición de *reformatio in peius*). La suspensión **por silencio** se produce al **mes** de pedirla sin respuesta expresa."
     ]
    ],
    "flash": [
@@ -179,6 +352,18 @@
     [
      "¿Puede la resolución del recurso empeorar la situación del recurrente?",
      "No, en ningún caso (art. 119.3)."
+    ],
+    [
+     "¿Cuándo se entiende suspendida la ejecución del acto impugnado por falta de respuesta a la solicitud de suspensión?",
+     "Si pasa un mes desde que la solicitud entra en el registro sin resolución expresa (art. 117.3)."
+    ],
+    [
+     "¿Cabe recurso administrativo contra una disposición de carácter general?",
+     "No: la impugnación directa se hace en la vía contencioso-administrativa."
+    ],
+    [
+     "¿Qué es la reformatio in peius y qué dice el art. 119.3?",
+     "Empeorar la situación del recurrente; está prohibido: la resolución no puede agravar su situación inicial."
     ]
    ],
    "esquema": [
@@ -313,6 +498,106 @@
     [
      "trampa",
      "**Alzada: 1 mes y resolver en 3.** **Reposición: 1 mes y resolver en 1.** La reposición es **potestativa** y no cabe reponer una reposición."
+    ],
+    [
+     "h",
+     "Alzada y reposición con más detalle (arts. 121 a 124)"
+    ],
+    [
+     "lista",
+     [
+      "**Alzada (121):** contra resoluciones y actos de trámite cualificados que **no ponen fin a la vía administrativa**, ante el **superior jerárquico**. Puede **presentarse** ante el órgano que dictó el acto o ante el competente para resolver.",
+      "**Plazos de alzada (122):** **un mes** si el acto es **expreso**; si no lo es, **en cualquier momento** a partir del día siguiente a aquel en que se produzcan los efectos del silencio. Se resuelve y notifica en **tres meses**; pasado ese plazo, se entiende **desestimado**. **Contra la resolución de la alzada no cabe ningún otro recurso administrativo ordinario** (solo el extraordinario de revisión).",
+      "**Reposición (123 y 124):** contra actos que **ponen fin a la vía administrativa**, ante el **mismo órgano** que los dictó. Es **potestativa**: no se puede acudir al contencioso hasta que se resuelva expresamente o se produzca la **desestimación presunta**. Plazo: **un mes** si el acto es expreso; se resuelve en **un mes**; contra su resolución **no cabe de nuevo reposición**."
+     ]
+    ],
+    [
+     "h",
+     "Recurso extraordinario de revisión (arts. 125 y 126)"
+    ],
+    [
+     "tabla",
+     [
+      "Aspecto",
+      "Regla"
+     ],
+     [
+      [
+       "**Contra qué**",
+       "Actos **firmes en vía administrativa**."
+      ],
+      [
+       "**Causas**",
+       "**a)** **Error de hecho** que resulte de los propios documentos incorporados al expediente. **b)** Aparición de **documentos de valor esencial** para la resolución que evidencien el error (posteriores al acto). **c)** Documentos o testimonios **declarados falsos** por sentencia judicial firme. **d)** Resolución dictada como consecuencia de **prevaricación, cohecho, violencia, maquinación fraudulenta** u otra conducta punible declarada por sentencia firme."
+      ],
+      [
+       "**Plazo para interponerlo**",
+       "Si la causa es la **a)**: **cuatro años** desde la notificación de la resolución. En las demás: **tres meses** desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme."
+      ],
+      [
+       "**Inadmisión (126.1)**",
+       "El órgano puede **inadmitirlo** motivadamente, **sin dictamen** del Consejo de Estado, si no se funda en las causas del art. 125.1 o si ya se desestimaron en cuanto al fondo otros recursos sustancialmente iguales."
+      ],
+      [
+       "**Resolución (126)**",
+       "Decide sobre la **procedencia** y, en su caso, sobre el **fondo**. **Tres meses** desde su interposición; pasado el plazo se entiende **desestimado**, quedando abierta la vía contencioso-administrativa."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Cuadro comparativo de los tres recursos"
+    ],
+    [
+     "tabla",
+     [
+      "",
+      "Alzada",
+      "Reposición (potestativo)",
+      "Extraordinario de revisión"
+     ],
+     [
+      [
+       "**Contra**",
+       "Resoluciones y actos de trámite cualificados que **no ponen fin a la vía administrativa**.",
+       "Resoluciones y actos de trámite cualificados que **ponen fin a la vía administrativa**.",
+       "Actos **firmes** en vía administrativa."
+      ],
+      [
+       "**Motivos**",
+       "Cualquier motivo de nulidad o anulabilidad (arts. 47 y 48).",
+       "Cualquier motivo de nulidad o anulabilidad (arts. 47 y 48).",
+       "Solo las **cuatro causas** del art. 125.1."
+      ],
+      [
+       "**Plazo**",
+       "1 mes (expreso) o en cualquier momento (presunto).",
+       "1 mes (expreso) o en cualquier momento (presunto).",
+       "Causa a): 4 años. Resto: 3 meses."
+      ],
+      [
+       "**Órgano**",
+       "El superior jerárquico.",
+       "El mismo órgano que dictó el acto.",
+       "El mismo órgano que dictó el acto."
+      ],
+      [
+       "**Resolver**",
+       "3 meses.",
+       "1 mes.",
+       "3 meses."
+      ],
+      [
+       "**Silencio**",
+       "Desestimatorio.",
+       "Desestimatorio.",
+       "Desestimatorio."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "El **extraordinario de revisión** va contra actos **firmes**; **alzada** y **reposición** pueden fundarse en cualquier causa de nulidad o anulabilidad. **Nunca** hay recurso de reposición contra la resolución de una reposición."
     ]
    ],
    "flash": [
@@ -327,6 +612,18 @@
     [
      "¿Es obligatoria la reposición?",
      "No: es potestativa (123.1)."
+    ],
+    [
+     "¿Qué plazo hay para interponer el recurso extraordinario de revisión por error de hecho?",
+     "Cuatro años desde la notificación de la resolución."
+    ],
+    [
+     "¿Qué plazo tiene el extraordinario de revisión para las demás causas?",
+     "Tres meses desde el conocimiento de los documentos o desde que la sentencia quedó firme."
+    ],
+    [
+     "¿Ante qué órgano se interpone la reposición y la alzada?",
+     "La reposición, ante el mismo órgano que dictó el acto; la alzada, ante el superior jerárquico (puede presentarse ante el que lo dictó)."
     ]
    ],
    "esquema": [
@@ -420,6 +717,20 @@
         "titulo": "Errores materiales, de hecho o aritméticos"
        }
       ]
+     },
+     {
+      "titulo": "Lesividad y revocación en detalle",
+      "hijos": [
+       {
+        "titulo": "Lesividad: 4 años · caduca a los 6 meses · Pleno en la Administración Local"
+       },
+       {
+        "titulo": "Nulidad: inadmisión sin dictamen · plazo 6 meses"
+       },
+       {
+        "titulo": "Límites: equidad, buena fe, derechos (110)"
+       }
+      ]
      }
     ]
    },
@@ -451,6 +762,20 @@
       "hijos": [
        {
         "titulo": "No agravar la situación"
+       }
+      ]
+     },
+     {
+      "titulo": "Suspensión y audiencia",
+      "hijos": [
+       {
+        "titulo": "Suspensión automática al mes (117.3)"
+       },
+       {
+        "titulo": "Audiencia por nuevos hechos: 10-15 días (118)"
+       },
+       {
+        "titulo": "No se agrava la situación inicial (119.3)"
        }
       ]
      }
@@ -487,6 +812,20 @@
       "hijos": [
        {
         "titulo": "Actos firmes · 4 motivos"
+       }
+      ]
+     },
+     {
+      "titulo": "Extraordinario de revisión",
+      "hijos": [
+       {
+        "titulo": "Cuatro causas (125)"
+       },
+       {
+        "titulo": "Error de hecho: 4 años · resto: 3 meses"
+       },
+       {
+        "titulo": "Resolver: 3 meses"
        }
       ]
      }

@@ -82,6 +82,60 @@
    "Recurso potestativo de reposición",
    "Recurso que se interpone ante el mismo órgano que dictó el acto, en el plazo de un mes. Es opcional.",
    "Art. 123 Ley 39/2015"
+  ],
+  [
+   "motu-proprio",
+   "Motu proprio",
+   "Por propia iniciativa. La revisión de oficio la hace la Administración sin que nadie se lo pida.",
+   "Arts. 106 y 107 Ley 39/2015"
+  ],
+  [
+   "reformatio-in-peius",
+   "Reformatio in peius",
+   "Empeorar la situación de quien recurre. Está prohibido: la resolución del recurso no puede agravar su situación inicial.",
+   "Art. 119.3 Ley 39/2015"
+  ],
+  [
+   "recurso-indirecto",
+   "Impugnación indirecta de reglamentos",
+   "Recurrir un acto de aplicación de un reglamento alegando solo que el reglamento es nulo. Es posible, a diferencia de recurrir directamente el reglamento en vía administrativa.",
+   "Art. 112.3 Ley 39/2015"
+  ],
+  [
+   "fumus-boni-iuris",
+   "Fumus boni iuris",
+   "Apariencia de buen derecho. Se usa para justificar la suspensión de un acto cuando las pretensiones del recurrente parecen más sólidas que las del acto.",
+   "Jurisprudencia"
+  ],
+  [
+   "caucion",
+   "Caución o garantía",
+   "Garantía que debe prestarse para que la suspensión de un acto produzca efectos cuando pueda causar perjuicios a terceros o al interés público.",
+   "Art. 117.4 Ley 39/2015"
+  ],
+  [
+   "suspension-automatica",
+   "Suspensión automática",
+   "Se entiende suspendida la ejecución del acto recurrido si pasa un mes sin resolución expresa a la solicitud de suspensión.",
+   "Art. 117.3 Ley 39/2015"
+  ],
+  [
+   "queja-peticion",
+   "Queja y petición",
+   "Distintas del recurso: la queja corrige defectos de tramitación en el propio procedimiento y la petición pide un acto nuevo.",
+   "Doctrina · Tema 8"
+  ],
+  [
+   "prevaricacion",
+   "Prevaricación y cohecho",
+   "Conductas delictivas de autoridades o funcionarios. Si una resolución se dictó por ellas y lo declara una sentencia firme, cabe recurso extraordinario de revisión.",
+   "Art. 125 Ley 39/2015"
+  ],
+  [
+   "via-agotada",
+   "Vía administrativa agotada",
+   "Un acto la agota cuando ya no cabe contra él ningún recurso ordinario en vía administrativa, y se abre la vía contencioso-administrativa.",
+   "Art. 114 Ley 39/2015"
   ]
  ],
  "hubs": [
@@ -200,6 +254,96 @@
     ]
    ],
    "ic": "📨"
+  },
+  {
+   "id": "h-lesividad-detalle",
+   "epi": "e0",
+   "titulo": "Lesividad y límites de la revisión",
+   "art": "Arts. 107-111",
+   "resumen": "Quién, cuándo y límites.",
+   "pistas": [
+    [
+     "n",
+     "Lesividad: no puede adoptarse pasados cuatro años desde que se dictó el acto"
+    ],
+    [
+     "n",
+     "Caducidad de la lesividad: seis meses desde el inicio"
+    ],
+    [
+     "q",
+     "En la Administración Local, la declara el Pleno"
+    ],
+    [
+     "d",
+     "Los límites de la revisión: equidad, buena fe, derechos de los particulares y leyes"
+    ],
+    [
+     "t",
+     "La nulidad iniciada de oficio caduca a los seis meses; a solicitud, silencio desestimatorio"
+    ]
+   ],
+   "ic": "⏳"
+  },
+  {
+   "id": "h-recursos-reglas",
+   "epi": "e1",
+   "titulo": "Recursos: reglas comunes",
+   "art": "Arts. 112-120",
+   "resumen": "Objeto, interposición, suspensión y audiencia.",
+   "pistas": [
+    [
+     "d",
+     "Contra las disposiciones de carácter general no cabe recurso en vía administrativa"
+    ],
+    [
+     "n",
+     "Suspensión automática si no hay resolución expresa en un mes"
+    ],
+    [
+     "n",
+     "Audiencia por nuevos hechos o documentos: 10 a 15 días"
+    ],
+    [
+     "d",
+     "El error en la calificación del recurso no impide tramitarlo"
+    ],
+    [
+     "t",
+     "Nunca se puede agravar la situación inicial del recurrente"
+    ]
+   ],
+   "ic": "📑"
+  },
+  {
+   "id": "h-extraordinario-revision",
+   "epi": "e2",
+   "titulo": "Recurso extraordinario de revisión",
+   "art": "Arts. 125-126",
+   "resumen": "Causas, plazos y resolución.",
+   "pistas": [
+    [
+     "d",
+     "Solo contra actos firmes en vía administrativa"
+    ],
+    [
+     "d",
+     "Causa a): error de hecho que resulta de los propios documentos"
+    ],
+    [
+     "n",
+     "Plazo: cuatro años (error de hecho) o tres meses (resto)"
+    ],
+    [
+     "n",
+     "Se resuelve en tres meses; pasados, se entiende desestimado"
+    ],
+    [
+     "t",
+     "Puede inadmitirse sin dictamen del Consejo de Estado"
+    ]
+   ],
+   "ic": "🔁"
   }
  ],
  "esquema": [
