@@ -14,7 +14,10 @@
     "Funcionarios de carrera (9)",
     "Funcionarios interinos y sus 4 supuestos (10)",
     "Personal laboral (11)",
-    "Personal eventual (12)"
+    "Personal eventual (12)",
+    "Inamovilidad solo en funcionarios de carrera",
+    "Interino: compensación 20 días/año, máx. 12 mensualidades",
+    "Eventual: cese libre y no es mérito"
    ],
    "bloques": [
     [
@@ -67,6 +70,38 @@
     [
      "trampa",
      "Exceso de tareas: **9 meses dentro de 18** (examen 2025). Vacantes y programas: **3 años**. Los interinos se seleccionan por procedimientos **públicos** (igualdad, mérito, capacidad, publicidad y celeridad)."
+    ],
+    [
+     "h",
+     "Objeto, ámbito y modelo dual"
+    ],
+    [
+     "lista",
+     [
+      "**Objeto (art. 1):** establecer las **bases del régimen estatutario de los funcionarios** y las normas aplicables al **personal laboral**. Se funda en el servicio a los ciudadanos, igualdad, mérito y capacidad, sometimiento a la ley, igualdad de trato entre mujeres y hombres, objetividad, profesionalidad e imparcialidad (garantizadas con la **inamovilidad**), transparencia, evaluación, jerarquía, negociación colectiva y cooperación entre Administraciones.",
+      "**Ámbito (art. 2):** AGE, CCAA y Ceuta y Melilla, **entidades locales**, organismos públicos y agencias con personalidad propia y **Universidades públicas**. Para el personal **docente y estatutario** de salud se aplica con excepciones. El TREBEP es **supletorio** para el personal no incluido.",
+      "**Personal funcionario local (art. 3):** se rige por la legislación estatal (incluido el TREBEP) y la autonómica; la **Policía Local** también por la LO 2/1986. **Con legislación específica (art. 4):** personal de las Cortes, jueces, magistrados y fiscales, militares, **Fuerzas y Cuerpos de Seguridad**, Centro Nacional de Inteligencia, Banco de España, etc. **Personal laboral (art. 7):** se rige por la legislación laboral y los preceptos del TREBEP que lo dispongan (por ejemplo, permisos de nacimiento, adopción, lactancia y parental).",
+      "**Leyes de función pública (art. 6):** desarrollan el TREBEP; las dicta el Estado para la AGE y las asambleas autonómicas para las CCAA.",
+      "**Modelo dual:** funcionarios (Derecho Administrativo) y personal laboral (Derecho del Trabajo). El EBEP introduce el término genérico de **empleado público**. La regulación del régimen funcionarial se basa en el art. **149.1.18 CE** (bases, con desarrollo autonómico) y la del personal laboral en el art. **149.1.7 CE** (legislación laboral, exclusiva del Estado).",
+      "**Reserva de funciones:** corresponden **exclusivamente a funcionarios** las funciones que impliquen participación en el ejercicio de **potestades públicas** o en la salvaguarda de los intereses generales."
+     ]
+    ],
+    [
+     "h",
+     "Interinos, laborales, eventuales y directivos en detalle"
+    ],
+    [
+     "lista",
+     [
+      "**Funcionarios interinos (art. 10):** selección pública por igualdad, mérito, capacidad, publicidad y celeridad; el nombramiento **no da** la condición de funcionario de carrera. La interinidad **termina** por cobertura reglada de la plaza, supresión del puesto o fin del plazo. En vacantes, a los **tres años** se acaba la interinidad y la plaza solo puede cubrirla un funcionario de carrera (salvo convocatoria publicada dentro del plazo o proceso desierto). El incumplimiento del plazo máximo da una **compensación de 20 días de retribuciones fijas por año de servicio**, con tope de **12 mensualidades**; no hay compensación si el cese es disciplinario o por renuncia.",
+      "**Personal laboral (art. 11):** contrato de trabajo **por escrito**; puede ser **fijo, indefinido o temporal**. Selección pública por igualdad, mérito y capacidad (y celeridad en los temporales). Puede desempeñar puestos no permanentes o de necesidades periódicas, oficios, vigilancia, mantenimiento, áreas instrumentales, artísticas, servicios sociales, actividades con cuerpos específicos, puestos en el extranjero y apoyo administrativo. Se rige por **convenios colectivos**, con más autonomía de negociación.",
+      "**Personal eventual (art. 12):** nombramiento **libre** para funciones **expresamente calificadas de confianza o asesoramiento especial**, retribuido con cargo a créditos presupuestarios. El **cese es libre** y, en todo caso, cuando cesa la autoridad a la que sirve. El número máximo y las retribuciones son **públicos**. **No es mérito** para acceder a la función pública ni para la promoción interna.",
+      "**Personal directivo (art. 13):** el que desarrolla funciones directivas profesionales definidas como tales por cada Administración; se designa por **mérito, capacidad e idoneidad** con procedimientos que garanticen **publicidad y concurrencia**; se evalúa por eficacia, eficiencia y responsabilidad; sus condiciones **no son objeto de negociación colectiva**; si es laboral, tiene la relación de **alta dirección**."
+     ]
+    ],
+    [
+     "trampa",
+     "Los **interinos** no son de carrera y su selección es pública; el **eventual** nunca puede alegar su condición como **mérito**; el **directivo** se rige por mérito, capacidad e idoneidad y **no negocia** sus condiciones."
     ]
    ],
    "flash": [
@@ -81,6 +116,22 @@
     [
      "¿Qué funciones hace el personal eventual?",
      "Solo de confianza o asesoramiento especial (art. 12)."
+    ],
+    [
+     "¿Qué artículo de la CE fundamenta el régimen funcionarial y cuál el del personal laboral?",
+     "El 149.1.18 para el régimen funcionarial y el 149.1.7 para el laboral."
+    ],
+    [
+     "¿Qué compensación recibe el interino por incumplimiento del plazo máximo?",
+     "20 días de retribuciones fijas por año de servicio, con un máximo de 12 mensualidades."
+    ],
+    [
+     "¿Puede constituir mérito la condición de personal eventual?",
+     "No: ni para el acceso a la función pública ni para la promoción interna."
+    ],
+    [
+     "¿Qué relación laboral tiene el personal directivo que es laboral?",
+     "La relación laboral de carácter especial de alta dirección."
     ]
    ],
    "esquema": [
@@ -143,7 +194,10 @@
     "Inamovilidad del funcionario de carrera",
     "Derechos ejercidos colectivamente (15)",
     "Carrera profesional (16-19)",
-    "Evaluación del desempeño (20)"
+    "Evaluación del desempeño (20)",
+    "Retribuciones básicas: solo sueldo y trienios",
+    "Promoción interna: 2 años de antigüedad",
+    "Carrera horizontal: sin cambio de puesto"
    ],
    "bloques": [
     [
@@ -194,6 +248,86 @@
     [
      "trampa",
      "La **inamovilidad** es un derecho del **funcionario de carrera**, no del interino ni del laboral. La **libertad sindical** es individual pero se **ejerce colectivamente** (art. 15)."
+    ],
+    [
+     "h",
+     "Derechos individuales (art. 14): lista completa"
+    ],
+    [
+     "lista",
+     [
+      "a) **Inamovilidad** en la condición de funcionario de carrera (solo se pierde por **separación del servicio** por falta muy grave; no impide que lo trasladen de puesto) · b) desempeño efectivo de las funciones · c) **progresión en la carrera** y promoción interna · d) retribuciones e indemnizaciones · e) participar en los objetivos de su unidad y ser informado · f) **defensa jurídica y protección** de la Administración · g) **formación continua**, preferentemente en horario laboral · h) **respeto a su intimidad**, orientación e identidad sexual, imagen y dignidad frente al acoso · i) **no discriminación** · j) **conciliación** · j bis) **intimidad digital y desconexión digital** · k) **libertad de expresión** dentro de los límites del ordenamiento · l) seguridad y salud en el trabajo · m) vacaciones, descansos, permisos y licencias · n) jubilación · o) prestaciones de la Seguridad Social · p) **libre asociación profesional** · q) los demás reconocidos por el ordenamiento."
+     ]
+    ],
+    [
+     "h",
+     "Derechos ejercidos colectivamente (art. 15)"
+    ],
+    [
+     "lista",
+     [
+      "**Libertad sindical**, **negociación colectiva** y participación en las condiciones de trabajo, **huelga** (con mantenimiento de servicios esenciales), **conflictos colectivos** y **reunión** (art. 46)."
+     ]
+    ],
+    [
+     "h",
+     "Carrera y promoción (arts. 16 a 20)"
+    ],
+    [
+     "lista",
+     [
+      "**Modalidades de carrera:** **horizontal** (progresión de grado, categoría o escalón **sin cambiar de puesto**, por tramos y tras evaluación objetiva); **vertical** (ascenso en puestos de trabajo por los procedimientos de provisión); **promoción interna vertical** (a un subgrupo superior) y **horizontal** (a cuerpos del mismo subgrupo). Pueden combinarse carrera horizontal y vertical.",
+      "**Promoción interna (art. 18):** procesos selectivos con igualdad, mérito y capacidad. Requisitos: reunir los requisitos de ingreso, **antigüedad de al menos 2 años de servicio activo** en el subgrupo inferior y superar las pruebas. Mediante **oposición o concurso-oposición**. Los funcionarios del **C1** con titulación pueden promocionar al **grupo A** sin pasar por el B (DT 3.ª).",
+      "**Evaluación del desempeño (art. 20):** mide la conducta profesional y el rendimiento o logro de resultados, con criterios de **transparencia, objetividad, imparcialidad y no discriminación**. Afecta a la carrera horizontal, la formación, la provisión de puestos y las retribuciones complementarias; la continuidad en un puesto obtenido por **concurso** queda vinculada a ella (con audiencia al interesado)."
+     ]
+    ],
+    [
+     "h",
+     "Retribuciones (arts. 21 a 30)"
+    ],
+    [
+     "tabla",
+     [
+      "Concepto",
+      "Contenido"
+     ],
+     [
+      [
+       "**Básicas** (art. 23)",
+       "**Sueldo** del subgrupo o grupo y **trienios** (una cantidad igual por cada tres años de servicio). Las fija la Ley de Presupuestos."
+      ],
+      [
+       "**Complementarias** (art. 24)",
+       "Retribuyen la progresión en la carrera, la **especial dificultad técnica, responsabilidad, dedicación o incompatibilidad**, el interés o rendimiento y los **servicios extraordinarios**. Históricamente: complemento de destino, específico, de productividad y gratificaciones (estas **no pueden ser fijas ni periódicas**)."
+      ],
+      [
+       "**Pagas extraordinarias**",
+       "**Dos al año**, cada una de una mensualidad de retribuciones básicas y de las complementarias (salvo las de rendimiento y servicios extraordinarios)."
+      ],
+      [
+       "**Interinos**",
+       "Básicas y pagas extraordinarias de su subgrupo y las complementarias del puesto."
+      ],
+      [
+       "**Funcionarios en prácticas**",
+       "Al menos el **sueldo del subgrupo** al que aspiran."
+      ],
+      [
+       "**Personal laboral**",
+       "Según legislación laboral, **convenio colectivo** y contrato."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "**Indemnizaciones (art. 28):** **dieta** (estancia fuera de la residencia: comisión de hasta un mes en territorio nacional y tres en el extranjero), **gastos de viaje** e **indemnización por residencia eventual**.",
+      "**Reglas generales:** las retribuciones se reflejan en la **Ley de Presupuestos**; no se pueden acordar incrementos superiores a los límites de la masa salarial; no se puede percibir participación en tributos ni en multas; el incumplimiento de jornada da lugar a **deducción proporcional de haberes** (no sancionadora)."
+     ]
+    ],
+    [
+     "trampa",
+     "El **sueldo y los trienios** son las **únicas retribuciones básicas**. La promoción interna exige **2 años de antigüedad** en el subgrupo inferior. La **carrera horizontal** no implica cambiar de puesto."
     ]
    ],
    "flash": [
@@ -204,6 +338,22 @@
     [
      "¿Qué derechos se ejercen colectivamente?",
      "Libertad sindical, negociación colectiva, etc. (art. 15)."
+    ],
+    [
+     "¿De qué se componen las retribuciones básicas?",
+     "Solo del sueldo del subgrupo y de los trienios."
+    ],
+    [
+     "¿Cuántos años de antigüedad se exigen para la promoción interna?",
+     "Al menos dos años de servicio activo en el subgrupo inferior."
+    ],
+    [
+     "¿Qué es la carrera horizontal?",
+     "La progresión por tramos o escalones, tras una evaluación objetiva, sin cambiar de puesto de trabajo."
+    ],
+    [
+     "¿Cuántas pagas extraordinarias hay al año?",
+     "Dos."
     ]
    ],
    "esquema": [
@@ -299,7 +449,10 @@
    "clave": [
     "Principios del Código de Conducta (52)",
     "Delegados de Personal (6 a 49)",
-    "Juntas de Personal (50 o más)"
+    "Juntas de Personal (50 o más)",
+    "Junta de Personal: 50+ funcionarios · 5, 9, 13, 17, 21",
+    "Delegados: 6-49 · Mandato 4 años",
+    "Obedecer salvo infracción manifiesta (54.3)"
    ],
    "bloques": [
     [
@@ -338,6 +491,52 @@
     [
      "trampa",
      "Las **Juntas de Personal** se constituyen en unidades con **censo mínimo de 50** funcionarios (art. 39.3). Para 6-49 hay **Delegados**, no Juntas."
+    ],
+    [
+     "h",
+     "Negociación colectiva (arts. 31 a 38)"
+    ],
+    [
+     "lista",
+     [
+      "**Derechos (art. 31):** **negociación colectiva**, **representación** (elegir representantes y órganos unitarios) y **participación institucional** (a través de los sindicatos en órganos de control y seguimiento). Los sindicatos más representativos están legitimados para recurrir las resoluciones de los órganos de selección.",
+      "**Principios de la negociación:** legalidad, cobertura presupuestaria, obligatoriedad, buena fe, publicidad y transparencia.",
+      "**Materias negociables (art. 37.1):** incremento retributivo, retribuciones complementarias, criterios de acceso, carrera y provisión, evaluación del desempeño, previsión social, formación y promoción interna, acción social, prevención de riesgos, criterios de oferta de empleo y calendario, horarios, **jornadas, vacaciones y permisos**.",
+      "**Excluidas (art. 37.2):** decisiones sobre **potestades de organización** (si afectan a condiciones de trabajo, se negocian éstas), regulación del ejercicio de derechos de los ciudadanos y procedimiento administrativo, **condiciones del personal directivo**, poderes de **dirección y control** de la relación jerárquica y la regulación concreta de los **sistemas de acceso** y promoción.",
+      "**Mesas de negociación:** por parte sindical, los sindicatos **más representativos a nivel estatal** (**10 %** o más de los representantes), de **comunidad autónoma** (**15 %**) y los que tengan **10 %** o más en el ámbito de la Mesa. Hay una **Mesa General de Negociación de las Administraciones Públicas** (presidida por la AGE, con las CCAA, Ceuta y Melilla y la FEMP), y Mesas Generales en la AGE, CCAA y entidades locales, con **Mesas Sectoriales** que dependen de ellas. Ninguna de las partes supera los **quince miembros**.",
+      "**Pactos y Acuerdos:** se concluyen en las Mesas, determinan sus ámbitos y vigencia y se prorrogan **de año en año** si no hay denuncia. Una vez ratificados, se remiten a la oficina pública y se **publican en el boletín oficial**.",
+      "**Personal laboral (art. 32):** se rige por la legislación laboral. Los órganos de gobierno pueden **suspender o modificar** convenios ya firmados en la medida estrictamente necesaria por **causa grave de interés público** derivada de una alteración sustancial de las circunstancias económicas."
+     ]
+    ],
+    [
+     "h",
+     "Representación (arts. 39 a 45) en detalle"
+    ],
+    [
+     "lista",
+     [
+      "**Delegados de Personal:** unidades con **6 a 49** funcionarios (1 delegado hasta 30; 3 de 31 a 49). **Juntas de Personal:** **50 o más**: de 50 a 100: **5** miembros; 101-250: **9**; 251-500: **13**; 501-750: **17**; 751-1.000: **21**; más de 1.000, **dos por cada 1.000** o fracción con máximo de **75**. Eligen entre sus miembros un **Presidente y un Secretario** y aprueban su reglamento por **dos tercios**.",
+      "**Funciones:** recibir información sobre política de personal, emitir informe sobre traslados e implantación de sistemas de organización, **ser informados de las sanciones por faltas muy graves**, ser oídos en jornada, horario y vacaciones y **vigilar** el cumplimiento de las normas.",
+      "**Garantías:** libre circulación por las dependencias, distribución de publicaciones, **audiencia** en expedientes disciplinarios durante el mandato y **un año después**, **crédito de horas mensuales** (hasta 100 funcionarios: **15**; 101-250: **20**; 251-500: **30**; 501-750: **35**; más de 750: **40**), no ser trasladados ni sancionados por su actividad representativa y deber de **sigilo profesional**.",
+      "**Mandato:** cuatro años, con reelección. **Elecciones:** sufragio personal, directo, libre y secreto (puede ser por correo o telemático); electores y elegibles los funcionarios en **servicio activo**; las Juntas por listas cerradas con sistema proporcional y los Delegados por listas abiertas y sistema mayoritario; las impugnaciones siguen un **procedimiento arbitral**.",
+      "**Derecho de reunión (art. 46):** pueden convocar las organizaciones sindicales, los Delegados y Juntas de Personal, los Comités de Empresa y los empleados públicos en número no inferior al **10 %** del colectivo. Se celebran **fuera de las horas de trabajo**, salvo acuerdo."
+     ]
+    ],
+    [
+     "h",
+     "Código de conducta (arts. 52 a 54)"
+    ],
+    [
+     "lista",
+     [
+      "**Art. 52 – deberes y principios:** objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia y honradez, además de promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres.",
+      "**Principios éticos (art. 53):** respetar la CE y el ordenamiento; perseguir los **intereses generales** con objetividad; **lealtad y buena fe**; respetar los derechos fundamentales y evitar discriminaciones; **abstenerse** en asuntos con interés personal; no contraer obligaciones económicas que generen **conflicto de intereses**; **no aceptar tratos de favor**; eficacia, economía y eficiencia; **no influir** en la agilización de trámites sin justa causa; cumplir con diligencia y resolver dentro de plazo; **dedicación al servicio público**; y guardar **secreto** de las materias clasificadas y discreción sobre lo que conozcan por razón de su cargo.",
+      "**Principios de conducta (art. 54):** tratar con **atención y respeto** a ciudadanos, superiores y compañeros; desempeño **diligente** cumpliendo jornada y horario; **obedecer** las órdenes de los superiores, **salvo infracción manifiesta del ordenamiento**, caso en que se ponen en conocimiento de los órganos de inspección; informar a los ciudadanos; administrar los recursos con **austeridad**; **rechazar regalos** que vayan más allá de los usos de cortesía; garantizar la **constancia y permanencia de los documentos**; mantener actualizada la formación; observar las normas de seguridad y salud; proponer mejoras de eficacia; y **atender al ciudadano en la lengua oficial que solicite**."
+     ]
+    ],
+    [
+     "trampa",
+     "**Junta de Personal desde 50 funcionarios** (5 miembros hasta 100); **Delegados de 6 a 49**. **Mandato: 4 años.** Mesa: **10 %** estatal y **15 %** autonómico. El superior se obedece **salvo infracción manifiesta** del ordenamiento."
     ]
    ],
    "flash": [
@@ -348,6 +547,26 @@
     [
      "¿Cuántos delegados de 31 a 49 funcionarios?",
      "Tres, con representación conjunta y mancomunada."
+    ],
+    [
+     "¿Cuántos miembros tiene la Junta de Personal de 50 a 100 funcionarios?",
+     "Cinco."
+    ],
+    [
+     "¿Cuántos años dura el mandato de Delegados y Juntas de Personal?",
+     "Cuatro años, con posibilidad de reelección."
+    ],
+    [
+     "¿Qué porcentaje de representantes hace falta para ser sindicato más representativo a nivel autonómico en las Mesas?",
+     "El 15 % de los representantes."
+    ],
+    [
+     "¿Se puede obedecer una orden que constituya una infracción manifiesta del ordenamiento?",
+     "No: se debe poner en conocimiento de los órganos de inspección."
+    ],
+    [
+     "¿Cuánto se puede acumular de créditos de horas de un Delegado en una unidad de hasta 100 funcionarios?",
+     "Quince horas mensuales."
     ]
    ],
    "esquema": [
@@ -386,6 +605,260 @@
      "Principios de conducta de los empleados públicos",
      "Entre otros: **atención y respeto** a ciudadanos, superiores y compañeros; **diligencia y cumplimiento de jornada y horario**; **obedecer instrucciones y órdenes profesionales**, **salvo infracción manifiesta del ordenamiento** (se comunica a los órganos de inspección); **informar a los ciudadanos**; **administrar con austeridad** los bienes públicos; **rechazar regalos** que excedan los usos habituales; **garantizar la permanencia de documentos**; **mantener actualizada su formación** (resto en el texto oficial).",
      "¿Cuándo no deben obedecer los empleados públicos las órdenes de sus superiores?"
+    ]
+   ]
+  },
+  {
+   "id": "e3",
+   "titulo": "Jornada, permisos y vacaciones",
+   "subtitulo": "Arts. 47 bis, 48, 49 y 50 TREBEP",
+   "clave": [
+    "Vacaciones: 22 días hábiles (50)",
+    "Asuntos particulares: 6 días (48.k)",
+    "Matrimonio: 15 días (48.l)",
+    "Nacimiento: 19 semanas (49.a)",
+    "Fallecimiento 1.er grado: 3/5 días",
+    "Teletrabajo: voluntario y reversible (47 bis)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Son derechos de **funcionarios**; el personal laboral se rige por el TREBEP y la legislación laboral. La **jornada** puede ser a **tiempo completo o parcial** y las Administraciones adoptan medidas de **flexibilización horaria** para la conciliación (hijos menores de doce años y cuidado de familiares dependientes). La jornada ordinaria del sector público no puede ser inferior a **37 horas y media semanales** de promedio anual."
+    ],
+    [
+     "h",
+     "Permisos del art. 48 (por duración)"
+    ],
+    [
+     "tabla",
+     [
+      "Motivo",
+      "Duración"
+     ],
+     [
+      [
+       "**Enfermedad grave, hospitalización o intervención con reposo** del cónyuge, pareja de hecho o familiar de **1.er grado** (o persona que conviva)",
+       "**5 días hábiles**"
+      ],
+      [
+       "Lo mismo en familiares de **2.º grado**",
+       "**4 días hábiles**"
+      ],
+      [
+       "**Fallecimiento** del cónyuge, pareja o familiar de **1.er grado**",
+       "**3 días hábiles** (misma localidad) · **5** (distinta)"
+      ],
+      [
+       "**Fallecimiento** de familiar de **2.º grado** (abuelos, hermanos, cuñados, nietos…)",
+       "**2 días hábiles** (misma localidad) · **4** (distinta)"
+      ],
+      [
+       "**Traslado de domicilio** sin cambio de residencia",
+       "**1 día**"
+      ],
+      [
+       "**Exámenes finales** y pruebas definitivas de aptitud",
+       "Los **días de su celebración**"
+      ],
+      [
+       "**Lactancia** de hijo menor de 12 meses",
+       "**1 hora** de ausencia (divisible en dos), o reducción de media hora al inicio y al final; acumulable en jornadas completas"
+      ],
+      [
+       "**Hijos prematuros** u hospitalizados tras el parto",
+       "Hasta **2 horas diarias** con retribuciones íntegras (o reducción de jornada de hasta dos horas)"
+      ],
+      [
+       "**Atender a un familiar de 1.er grado** con enfermedad muy grave",
+       "Reducción de hasta el **50 %** de la jornada, retribuida, **máximo 1 mes**"
+      ],
+      [
+       "**Asuntos particulares**",
+       "**6 días al año** (las Administraciones pueden añadir días por trienios)"
+      ],
+      [
+       "**Matrimonio** o pareja de hecho",
+       "**15 días**"
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Además: funciones sindicales (en los términos que se determine), exámenes prenatales y preparación al parto, **guarda legal** (reducción de jornada con disminución de retribuciones por el cuidado de un menor de **12 años**, persona mayor o con discapacidad), deber inexcusable de carácter público o personal y donación de órganos."
+    ],
+    [
+     "h",
+     "Permisos del art. 49 (conciliación y violencia de género)"
+    ],
+    [
+     "tabla",
+     [
+      "Permiso",
+      "Reglas clave"
+     ],
+     [
+      [
+       "**Nacimiento – madre biológica**",
+       "**19 semanas** (**32** si hay una única persona progenitora). **6 semanas** ininterrumpidas obligatorias tras el parto; **11 semanas** (22 en monoparentalidad) hasta que el hijo cumpla **12 meses**; **2 semanas** (4) hasta que cumpla **8 años**. Se amplía **2 semanas** por discapacidad del hijo y **1 por cada hijo desde el segundo** en parto múltiple, y hasta **13 semanas** por hospitalización del neonato. Es un **derecho individual e intransferible**."
+      ],
+      [
+       "**Adopción, guarda con fines de adopción o acogimiento**",
+       "**19 semanas** por cada adoptante, guardador o acogedor (32 en monoparentalidad). Las 6 semanas obligatorias se cuentan desde la **resolución judicial** o decisión administrativa. En adopción internacional, **permiso de hasta 2 meses** con solo retribuciones básicas, y puede empezar **cuatro semanas antes**."
+      ],
+      [
+       "**Progenitor diferente de la madre biológica**",
+       "**19 semanas** (32 en monoparentalidad), con la misma estructura (6 obligatorias, 11 en 12 meses, 2 hasta los 8 años)."
+      ],
+      [
+       "**Violencia de género o violencia sexual**",
+       "Faltas de asistencia **justificadas**; derecho a **reducir la jornada** con disminución proporcional (íntegras si se reduce **un tercio o menos**) y a **reordenar el tiempo de trabajo**."
+      ],
+      [
+       "**Hijo menor con cáncer u otra enfermedad grave**",
+       "Reducción de al menos **la mitad de la jornada**, retribuciones íntegras; se extiende hasta que el hijo cumpla **23 años** si persiste la necesidad."
+      ],
+      [
+       "**Víctimas de terrorismo**",
+       "Reducción de jornada y reordenación del tiempo de trabajo, previo reconocimiento del Ministerio del Interior o sentencia firme."
+      ],
+      [
+       "**Permiso parental**",
+       "Hijo o menor acogido hasta los **8 años**. **No retribuido**, duración **no superior a 8 semanas**, continuas o discontinuas; se comunica con **15 días** de antelación."
+      ]
+     ]
+    ],
+    [
+     "lista",
+     [
+      "El tiempo de estos permisos cuenta como **servicio efectivo** y garantiza derechos económicos; al terminar se vuelve al puesto en condiciones no menos favorables.",
+      "**Permiso por gestación (DA 16.ª):** retribuido, desde el primer día de la **semana 37** hasta el parto (**semana 35** en gestación múltiple), si la Administración lo establece."
+     ]
+    ],
+    [
+     "h",
+     "Vacaciones (art. 50)"
+    ],
+    [
+     "lista",
+     [
+      "**22 días hábiles** por año natural (o la parte proporcional); los **sábados no** son hábiles. Las Administraciones pueden añadir hasta **cuatro días** adicionales según los años de servicio (DA 14.ª).",
+      "Si una baja o permiso impide disfrutarlas en el año, pueden tomarse después **hasta 18 meses** desde el final del año en que se originaron.",
+      "**No se pueden sustituir por dinero**; solo si el servicio termina por causas ajenas a la voluntad del funcionario hay compensación económica (con un máximo de **18 meses** en jubilación por incapacidad o fallecimiento)."
+     ]
+    ],
+    [
+     "h",
+     "Teletrabajo (art. 47 bis)"
+    ],
+    [
+     "p",
+     "Modalidad a distancia **expresamente autorizada**, **compatible con la presencial**, **voluntaria y reversible** (salvo excepciones justificadas). Los teletrabajadores tienen los **mismos derechos y deberes**, incluida la prevención de riesgos laborales, y la Administración les proporciona los medios tecnológicos."
+    ],
+    [
+     "trampa",
+     "**Fallecimiento**: 3 días en la misma localidad y 5 en distinta para el **1.er grado**; 2 y 4 para el **2.º grado**. **Enfermedad grave**: 5 días (1.er grado) y 4 (2.º grado). **Asuntos particulares: 6 días. Matrimonio: 15 días. Vacaciones: 22 días hábiles.**"
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántos días de vacaciones tiene un funcionario al año?",
+     "22 días hábiles (los sábados no cuentan)."
+    ],
+    [
+     "¿Cuántos días corresponden por fallecimiento de un familiar de primer grado en la misma localidad?",
+     "Tres días hábiles (cinco si es en distinta localidad)."
+    ],
+    [
+     "¿Cuántos días de permiso hay por asuntos particulares?",
+     "Seis días al año."
+    ],
+    [
+     "¿Cuánto dura el permiso por matrimonio o pareja de hecho?",
+     "Quince días."
+    ],
+    [
+     "¿Cuánto dura el permiso por nacimiento de la madre biológica?",
+     "Diecinueve semanas (treinta y dos en monoparentalidad)."
+    ],
+    [
+     "¿Cuántas semanas de permiso son obligatorias tras el parto?",
+     "Seis semanas, ininterrumpidas y a jornada completa."
+    ],
+    [
+     "¿Cuánto puede durar como máximo el permiso parental?",
+     "Ocho semanas, no retribuido, hasta que el menor cumpla ocho años."
+    ],
+    [
+     "¿Carácter del teletrabajo según el art. 47 bis?",
+     "Voluntario y reversible, con autorización expresa y compatible con la modalidad presencial."
+    ]
+   ],
+   "esquema": [
+    "Fallecimiento 1.º: 3/5 · 2.º: 2/4 · Enfermedad: 5/4",
+    "Vacaciones 22 · asuntos propios 6 · matrimonio 15",
+    "Nacimiento 19 semanas (6 obligatorias)"
+   ],
+   "ic": "🗓️",
+   "articulos": [
+    [
+     "trebep",
+     "47 bis",
+     "Teletrabajo",
+     "El teletrabajo es una modalidad de prestación de servicios a distancia que debe ser **expresamente autorizada**, es **compatible con la presencial**, **voluntario y reversible** (salvo excepciones justificadas) y mantiene los mismos derechos y deberes.",
+     "¿Qué carácter tiene la prestación de servicios mediante teletrabajo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trebep",
+     "48",
+     "Permisos de los funcionarios públicos",
+     "Lista de permisos (fallecimiento, enfermedad grave, traslado, exámenes, lactancia, reducciones de jornada, asuntos particulares, matrimonio…).",
+     "¿Cuántos días de permiso corresponden por el fallecimiento de un familiar de primer grado en la misma localidad?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trebep",
+     "49",
+     "Permisos por motivos de conciliación y por razón de violencia de género",
+     "Permisos por nacimiento, adopción, progenitor distinto de la madre biológica, violencia de género, cuidado de hijo con cáncer, terrorismo y permiso parental.",
+     "¿Qué duración tiene el permiso por nacimiento de la madre biológica?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trebep",
+     "50",
+     "Vacaciones de los funcionarios públicos",
+     "Tienen derecho a **veintidós días hábiles** de vacaciones por año natural, o los proporcionales si el servicio fue menor; los sábados no se consideran hábiles.",
+     "¿Cuántos días hábiles de vacaciones anuales corresponden a un funcionario?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trebep",
+     "31",
+     "Principios generales de la negociación colectiva, representación y participación",
+     "Los empleados públicos tienen derecho a la **negociación colectiva, representación y participación institucional** para determinar sus condiciones de trabajo.",
+     "¿Qué tres derechos reconoce el art. 31 a los empleados públicos?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "trebep",
+     "37",
+     "Materias objeto de negociación",
+     "Son objeto de negociación, entre otras, el incremento retributivo, las retribuciones complementarias, los criterios de acceso, carrera y provisión, la evaluación del desempeño, la acción social, los permisos y vacaciones y las ofertas de empleo.",
+     "¿Es obligatorio negociar la determinación de las condiciones de trabajo del personal directivo?",
+     {
+      "add": 1
+     }
     ]
    ]
   }
@@ -435,6 +908,20 @@
         "titulo": "Eventual: confianza o asesoramiento"
        }
       ]
+     },
+     {
+      "titulo": "Ámbito y modelo dual",
+      "hijos": [
+       {
+        "titulo": "Art. 2: AGE, CCAA, locales, universidades"
+       },
+       {
+        "titulo": "Funcionarios (administrativo) · laborales (laboral)"
+       },
+       {
+        "titulo": "Potestades: solo funcionarios"
+       }
+      ]
      }
     ]
    },
@@ -469,6 +956,20 @@
         "titulo": "Negociación colectiva"
        }
       ]
+     },
+     {
+      "titulo": "Retribuciones",
+      "hijos": [
+       {
+        "titulo": "Básicas: sueldo y trienios"
+       },
+       {
+        "titulo": "Complementarias"
+       },
+       {
+        "titulo": "Dos pagas extraordinarias"
+       }
+      ]
      }
     ]
    },
@@ -487,6 +988,20 @@
        },
        {
         "titulo": "Ejemplaridad · austeridad · eficacia"
+       }
+      ]
+     },
+     {
+      "titulo": "Negociación y representación",
+      "hijos": [
+       {
+        "titulo": "Delegados 6-49 · Juntas 50+"
+       },
+       {
+        "titulo": "Mandato 4 años"
+       },
+       {
+        "titulo": "Mesas: 10 % estatal · 15 % autonómico"
        }
       ]
      }
@@ -514,6 +1029,49 @@
         "titulo": "Censo mínimo de 50 funcionarios"
        }
       ]
+     }
+    ]
+   },
+   {
+    "titulo": "Jornada, permisos y vacaciones",
+    "color": "#3fa796",
+    "hijos": [
+     {
+      "titulo": "Art. 48 permisos",
+      "hijos": [
+       {
+        "titulo": "Fallecimiento 1.º: 3/5 · 2.º: 2/4"
+       },
+       {
+        "titulo": "Enfermedad grave: 5 / 4"
+       },
+       {
+        "titulo": "Asuntos particulares: 6"
+       },
+       {
+        "titulo": "Matrimonio: 15"
+       }
+      ]
+     },
+     {
+      "titulo": "Art. 49 conciliación",
+      "hijos": [
+       {
+        "titulo": "Nacimiento: 19 semanas"
+       },
+       {
+        "titulo": "6 obligatorias"
+       },
+       {
+        "titulo": "Parental: 8 semanas no retribuido"
+       }
+      ]
+     },
+     {
+      "titulo": "Art. 50 vacaciones: 22 días hábiles"
+     },
+     {
+      "titulo": "Art. 47 bis teletrabajo: voluntario y reversible"
      }
     ]
    }

@@ -11,6 +11,9 @@
   ],
   [
    "e2"
+  ],
+  [
+   "e3"
   ]
  ],
  "glosario": [
@@ -97,6 +100,72 @@
    "Negociación colectiva",
    "Derecho a negociar las condiciones de trabajo entre representantes de la Administración y sindicatos.",
    "Art. 31 TREBEP"
+  ],
+  [
+   "carrera-horizontal",
+   "Carrera horizontal",
+   "Progresión por grados o escalones, tras una evaluación objetiva, sin cambiar de puesto de trabajo.",
+   "Art. 17 TREBEP"
+  ],
+  [
+   "carrera-vertical",
+   "Carrera vertical",
+   "Ascenso en la estructura de puestos de trabajo mediante los procedimientos de provisión.",
+   "Art. 16 TREBEP"
+  ],
+  [
+   "promocion-interna",
+   "Promoción interna",
+   "Ascenso desde un cuerpo o escala a otro superior, o acceso a cuerpos del mismo subgrupo, por procesos selectivos.",
+   "Art. 18 TREBEP"
+  ],
+  [
+   "dieta",
+   "Dieta",
+   "Cantidad diaria para los gastos de estancia fuera de la residencia oficial en comisión de servicio.",
+   "Art. 28 TREBEP"
+  ],
+  [
+   "junta-personal",
+   "Junta de Personal",
+   "Órgano de representación de los funcionarios en unidades de 50 o más. Mandato de cuatro años.",
+   "Art. 39 TREBEP"
+  ],
+  [
+   "delegado-personal",
+   "Delegado de Personal",
+   "Representante de los funcionarios en unidades de 6 a 49. Uno hasta 30 funcionarios y tres de 31 a 49.",
+   "Art. 39 TREBEP"
+  ],
+  [
+   "mesa-negociacion",
+   "Mesa de Negociación",
+   "Órgano donde la Administración y los sindicatos legitimados negocian las condiciones de trabajo de los funcionarios.",
+   "Arts. 33-36 TREBEP"
+  ],
+  [
+   "pacto-acuerdo",
+   "Pactos y Acuerdos",
+   "Instrumentos que se concluyen en las Mesas de Negociación para fijar condiciones de trabajo.",
+   "Art. 38 TREBEP"
+  ],
+  [
+   "teletrabajo",
+   "Teletrabajo",
+   "Prestación de servicios a distancia, autorizada expresamente, voluntaria y reversible, compatible con la presencial.",
+   "Art. 47 bis TREBEP"
+  ],
+  [
+   "permiso-parental",
+   "Permiso parental",
+   "Hasta ocho semanas, no retribuido, para cuidar a un hijo o menor acogido hasta que cumpla ocho años.",
+   "Art. 49.g TREBEP"
+  ],
+  [
+   "alta-direccion",
+   "Alta dirección",
+   "Relación laboral especial del personal directivo que tiene condición de laboral.",
+   "Art. 13 TREBEP"
   ]
  ],
  "hubs": [
@@ -272,6 +341,148 @@
     ]
    ],
    "ic": "🗣️"
+  },
+  {
+   "id": "h-permisos",
+   "epi": "e3",
+   "titulo": "Permisos del art. 48",
+   "art": "Art. 48 TREBEP",
+   "resumen": "Días de permiso más preguntados.",
+   "pistas": [
+    [
+     "n",
+     "Fallecimiento de primer grado: 3 días (5 si es en otra localidad)"
+    ],
+    [
+     "n",
+     "Fallecimiento de segundo grado: 2 días (4 en otra localidad)"
+    ],
+    [
+     "n",
+     "Enfermedad grave: 5 días (primer grado) y 4 (segundo)"
+    ],
+    [
+     "n",
+     "Asuntos particulares: 6 días"
+    ],
+    [
+     "n",
+     "Matrimonio: 15 días"
+    ],
+    [
+     "n",
+     "Traslado de domicilio: 1 día"
+    ]
+   ],
+   "ic": "🗓️"
+  },
+  {
+   "id": "h-nacimiento",
+   "epi": "e3",
+   "titulo": "Permiso por nacimiento",
+   "art": "Art. 49 TREBEP",
+   "resumen": "Madre biológica y otro progenitor.",
+   "pistas": [
+    [
+     "n",
+     "19 semanas (32 en monoparentalidad)"
+    ],
+    [
+     "n",
+     "6 semanas obligatorias a jornada completa"
+    ],
+    [
+     "n",
+     "11 semanas en los 12 primeros meses"
+    ],
+    [
+     "n",
+     "2 semanas hasta los 8 años"
+    ],
+    [
+     "d",
+     "Derecho individual e intransferible"
+    ]
+   ],
+   "ic": "👶"
+  },
+  {
+   "id": "h-vacaciones",
+   "epi": "e3",
+   "titulo": "Vacaciones",
+   "art": "Art. 50 TREBEP",
+   "resumen": "22 días hábiles al año.",
+   "pistas": [
+    [
+     "n",
+     "22 días hábiles por año natural"
+    ],
+    [
+     "d",
+     "Los sábados no son hábiles"
+    ],
+    [
+     "n",
+     "Se pueden disfrutar hasta 18 meses después si hay baja"
+    ],
+    [
+     "t",
+     "No se pueden sustituir por dinero"
+    ]
+   ],
+   "ic": "🏖️"
+  },
+  {
+   "id": "h-negociacion",
+   "epi": "e2",
+   "titulo": "Negociación colectiva",
+   "art": "Arts. 31 a 38 TREBEP",
+   "resumen": "Mesas, materias y pactos.",
+   "pistas": [
+    [
+     "d",
+     "Principios: legalidad, cobertura presupuestaria, buena fe"
+    ],
+    [
+     "n",
+     "Sindicatos más representativos: 10 % estatal · 15 % autonómico"
+    ],
+    [
+     "d",
+     "Excluidas: potestades de organización y condiciones del personal directivo"
+    ],
+    [
+     "n",
+     "Pactos y Acuerdos se prorrogan de año en año"
+    ]
+   ],
+   "ic": "🤝"
+  },
+  {
+   "id": "h-retribuciones",
+   "epi": "e1",
+   "titulo": "Retribuciones",
+   "art": "Arts. 21 a 30 TREBEP",
+   "resumen": "Básicas y complementarias.",
+   "pistas": [
+    [
+     "d",
+     "Básicas: solo sueldo y trienios"
+    ],
+    [
+     "d",
+     "Complementarias: carrera, dificultad, rendimiento y servicios extraordinarios"
+    ],
+    [
+     "n",
+     "Dos pagas extraordinarias al año"
+    ],
+    [
+     "t",
+     "No se puede cobrar participación en multas ni tributos"
+    ]
+   ],
+   "ic": "💶"
   }
  ],
  "esquema": [
