@@ -106,6 +106,54 @@
    "Jubilación",
    "Pérdida de la condición de funcionario por cumplir la edad legal (jubilación forzosa a los 65 años).",
    "Art. 67 TREBEP"
+  ],
+  [
+   "concurso-oposicion",
+   "Concurso-oposición",
+   "Sistema selectivo con las dos fases sucesivas: oposición y valoración de méritos.",
+   "Art. 61 TREBEP"
+  ],
+  [
+   "consolidacion-empleo",
+   "Consolidación de empleo",
+   "Convocatoria para estabilizar puestos estructurales ocupados temporalmente antes del 1 de enero de 2005.",
+   "DT 4.ª TREBEP"
+  ],
+  [
+   "rehabilitacion",
+   "Rehabilitación",
+   "Recuperación de la condición de funcionario perdida por cambio de nacionalidad, incapacidad o, excepcionalmente, por condena.",
+   "Art. 68 TREBEP"
+  ],
+  [
+   "excedencia-forzosa",
+   "Excedencia forzosa",
+   "Situación del funcionario cuyo reingreso no se concede en el plazo de seis meses tras una suspensión firme.",
+   "RD 365/1995"
+  ],
+  [
+   "suspension-provisional",
+   "Suspensión provisional",
+   "Medida cautelar durante un expediente disciplinario o proceso judicial. Máximo seis meses en el expediente.",
+   "Art. 90 TREBEP"
+  ],
+  [
+   "non-bis-in-idem",
+   "Non bis in idem",
+   "Principio que impide sancionar dos veces los mismos hechos con identidad de sujeto, hecho y fundamento.",
+   "Principio general"
+  ],
+  [
+   "demerito",
+   "Demérito",
+   "Sanción que penaliza a efectos de carrera, promoción o movilidad voluntaria.",
+   "Art. 96 TREBEP"
+  ],
+  [
+   "apercibimiento",
+   "Apercibimiento",
+   "La sanción más leve: advertencia formal por una falta.",
+   "Art. 96 TREBEP"
   ]
  ],
  "hubs": [
@@ -278,6 +326,114 @@
     ]
    ],
    "ic": "🚨"
+  },
+  {
+   "id": "h-acceso-extranj",
+   "epi": "e0",
+   "titulo": "Acceso de extranjeros y discapacidad",
+   "art": "Arts. 57 y 59 TREBEP",
+   "resumen": "Quién puede acceder y cómo.",
+   "pistas": [
+    [
+     "d",
+     "Funcionarios: nacionales UE, cónyuges y descendientes menores de 21 años"
+    ],
+    [
+     "d",
+     "Laborales: también extranjeros con residencia legal"
+    ],
+    [
+     "n",
+     "Cupo discapacidad: 7 %, de ellos 2 % intelectual"
+    ],
+    [
+     "d",
+     "Si te presentas por el cupo, no puedes presentarte al general"
+    ]
+   ],
+   "ic": "🌍"
+  },
+  {
+   "id": "h-excedencias",
+   "epi": "e1",
+   "titulo": "Excedencias",
+   "art": "Art. 89 TREBEP",
+   "resumen": "Las cinco modalidades.",
+   "pistas": [
+    [
+     "n",
+     "Interés particular: 5 años de servicios previos"
+    ],
+    [
+     "n",
+     "Agrupación familiar: de 2 a 15 años"
+    ],
+    [
+     "n",
+     "Cuidado de familiares: hasta 3 años, reserva del puesto 2 años"
+    ],
+    [
+     "n",
+     "Violencia de género: reserva 6 meses, 2 meses íntegros"
+    ],
+    [
+     "d",
+     "Violencia terrorista: mismos efectos"
+    ]
+   ],
+   "ic": "⏸️"
+  },
+  {
+   "id": "h-suspension",
+   "epi": "e1",
+   "titulo": "Suspensión de funciones",
+   "art": "Art. 90 TREBEP",
+   "resumen": "Firme y provisional.",
+   "pistas": [
+    [
+     "n",
+     "Firme: máximo 6 años"
+    ],
+    [
+     "n",
+     "Provisional: máximo 6 meses"
+    ],
+    [
+     "d",
+     "Cobra solo las retribuciones básicas durante la provisional"
+    ],
+    [
+     "d",
+     "Reingreso: solicitar un mes antes"
+    ]
+   ],
+   "ic": "⛔"
+  },
+  {
+   "id": "h-prescripcion",
+   "epi": "e2",
+   "titulo": "Prescripción de faltas y sanciones",
+   "art": "Art. 97 TREBEP",
+   "resumen": "Plazos que se confunden.",
+   "pistas": [
+    [
+     "n",
+     "Faltas: 3 años · 2 años · 6 meses"
+    ],
+    [
+     "n",
+     "Sanciones: 3 años · 2 años · 1 año"
+    ],
+    [
+     "d",
+     "Faltas: desde que se cometen"
+    ],
+    [
+     "d",
+     "Sanciones: desde la firmeza"
+    ]
+   ],
+   "ic": "⏳"
   }
  ],
  "esquema": [
