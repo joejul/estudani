@@ -2560,6 +2560,364 @@
     "nuevo": 1,
     "dif": 3
    }
+  ],
+  [
+   "La estructura de los presupuestos de las entidades locales la establece con carácter general:",
+   [
+    "El Ministerio de Hacienda",
+    "El Pleno de cada entidad",
+    "La Comunidad Autónoma"
+   ],
+   0,
+   "Art. 167 TRLRHL.",
+   "Art. 167 TRLRHL",
+   "",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El capítulo 1 de gastos de la clasificación económica es:",
+   [
+    "Gastos financieros",
+    "Gastos de personal",
+    "Inversiones reales"
+   ],
+   1,
+   "Orden EHA/3565/2008.",
+   "Orden EHA/3565/2008",
+   "",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los intereses de la deuda son gastos del capítulo:",
+   [
+    "4, transferencias corrientes",
+    "3, gastos financieros",
+    "9, pasivos financieros"
+   ],
+   1,
+   "Los intereses son gasto corriente (capítulo 3).",
+   "Orden EHA/3565/2008",
+   "Confundir con amortización (capítulo 9)",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El Fondo de contingencia y otros imprevistos es el capítulo:",
+   [
+    "5",
+    "2",
+    "8"
+   ],
+   0,
+   "Obligatorio para entidades de los arts. 111 y 135 TRLRHL.",
+   "Orden EHA/3565/2008",
+   "",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las inversiones reales y las transferencias de capital son, respectivamente, los capítulos:",
+   [
+    "6 y 7",
+    "4 y 5",
+    "8 y 9"
+   ],
+   0,
+   "Operaciones de capital.",
+   "Orden EHA/3565/2008",
+   "",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En la clasificación por programas, el área de gasto 0 corresponde a:",
+   [
+    "Servicios públicos básicos",
+    "Actuaciones de carácter general",
+    "Deuda pública"
+   ],
+   2,
+   "Área 0 deuda; 1 servicios básicos; 2 protección social; 3 bienes preferentes; 4 económico; 9 general.",
+   "Orden EHA/3565/2008",
+   "",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las transferencias a otras Administraciones Públicas se clasifican en el área de gasto:",
+   [
+    "9, actuaciones de carácter general",
+    "2, protección y promoción social",
+    "4, actuaciones de carácter económico"
+   ],
+   0,
+   "Política 94.",
+   "Orden EHA/3565/2008",
+   "",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La cultura se incluye en el área de gasto:",
+   [
+    "2, protección y promoción social",
+    "9, actuaciones de carácter general",
+    "3, producción de bienes públicos de carácter preferente"
+   ],
+   2,
+   "Política 33.",
+   "Orden EHA/3565/2008",
+   "",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El documento contable que comprueba que hay saldo antes de autorizar el gasto es:",
+   [
+    "D, disposición",
+    "RC, retención de crédito",
+    "O, reconocimiento de la obligación"
+   ],
+   1,
+   "RD 500/1990.",
+   "RD 500/1990",
+   "",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El documento contable que refleja la disposición o compromiso del gasto es:",
+   [
+    "A",
+    "O",
+    "D"
+   ],
+   2,
+   "A autorización; D disposición; O reconocimiento; P pago.",
+   "RD 500/1990",
+   "",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Un acto administrativo que acumula autorización y disposición se refleja en el documento:",
+   [
+    "AD",
+    "ADO",
+    "DO"
+   ],
+   0,
+   "Cuando se conoce desde el inicio el importe exacto.",
+   "Art. 67 RD 500/1990",
+   "",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La ordenación de pagos en una entidad local corresponde:",
+   [
+    "Al Presidente",
+    "Al Interventor",
+    "Al Tesorero"
+   ],
+   0,
+   "Art. 186 TRLRHL.",
+   "Art. 186 TRLRHL",
+   "Confundir con el Tesorero que ejecuta",
+   "h-competencias-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El Pleno puede crear una unidad central de tesorería en entidades de más de:",
+   [
+    "500.000 habitantes de derecho",
+    "100.000 habitantes",
+    "250.000 habitantes"
+   ],
+   0,
+   "RD 500/1990.",
+   "RD 500/1990",
+   "",
+   "h-competencias-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El avance de la liquidación del ejercicio corriente que acompaña al proyecto de presupuesto debe estar referido, al menos, a:",
+   [
+    "Tres meses",
+    "Seis meses",
+    "Nueve meses"
+   ],
+   1,
+   "Art. 168 TRLRHL.",
+   "Art. 168 TRLRHL",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los organismos autónomos remiten su presupuesto a la entidad antes del:",
+   [
+    "15 de octubre",
+    "15 de septiembre",
+    "1 de diciembre"
+   ],
+   1,
+   "Art. 168.2 TRLRHL.",
+   "Art. 168 TRLRHL",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El acuerdo de aprobación del presupuesto general es:",
+   [
+    "Separado para cada organismo",
+    "Distinto para ingresos y gastos",
+    "Único, sin que pueda aprobarse ninguno de los presupuestos por separado"
+   ],
+   2,
+   "Art. 168.5.",
+   "Art. 168 TRLRHL",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los créditos del presupuesto prorrogado no incluyen:",
+   [
+    "Los de programas que deban concluir en el ejercicio anterior o financiados con ingresos afectados",
+    "Los de gastos de personal",
+    "Los de servicios obligatorios"
+   ],
+   0,
+   "Art. 169.6.",
+   "Art. 169 TRLRHL",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El plan de inversiones anexo al presupuesto se formula a:",
+   [
+    "Cuatro años",
+    "Dos años",
+    "Seis años"
+   ],
+   0,
+   "Art. 166 TRLRHL.",
+   "Art. 166 TRLRHL",
+   "",
+   "h-contenido",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Cada presupuesto se aprueba:",
+   [
+    "Con el déficit que autorice el Pleno",
+    "Sin déficit inicial",
+    "Con previsión de déficit del 3 %"
+   ],
+   1,
+   "Art. 165.4 TRLRHL.",
+   "Art. 165 TRLRHL",
+   "",
+   "h-contenido",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El presupuesto, respecto de los ingresos, constituye:",
+   [
+    "Una previsión sin límite de recaudación",
+    "Un límite máximo",
+    "Una autorización de gasto"
+   ],
+   0,
+   "Los gastos son límite; los ingresos, previsión.",
+   "Art. 162 TRLRHL",
+   "",
+   "h-contenido",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
   ]
  ]
 }

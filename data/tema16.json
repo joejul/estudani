@@ -1800,6 +1800,185 @@
     "nuevo": 1,
     "dif": 3
    }
+  ],
+  [
+   "El bando es una norma dictada:",
+   [
+    "Por el Pleno, a propuesta del Alcalde",
+    "Por la Junta de Gobierno Local",
+    "Exclusivamente por el Alcalde en ejercicio de sus competencias"
+   ],
+   2,
+   "Art. 21.1.e LBRL.",
+   "Art. 21 LBRL",
+   "",
+   "h-bandos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los bandos de urgencia se apoyan en la atribución del Alcalde de adoptar medidas en caso de:",
+   [
+    "Cualquier incumplimiento de ordenanzas",
+    "Falta de presupuesto",
+    "Catástrofe, infortunios públicos o grave riesgo, dando cuenta inmediata al Pleno"
+   ],
+   2,
+   "Art. 21.1.m LBRL.",
+   "Art. 21 LBRL",
+   "",
+   "h-bandos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "García de Enterría denomina a los bandos de urgencia:",
+   [
+    "Ordenanzas de policía",
+    "Normas con fuerza de ley",
+    "Reglamentos de necesidad"
+   ],
+   2,
+   "Exceptúan, pero no derogan, una ley previa.",
+   "Doctrina",
+   "",
+   "h-bandos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Una regulación general y de duración indefinida debe hacerse mediante:",
+   [
+    "Bando del Alcalde",
+    "Ordenanza y no mediante bando",
+    "Decreto de Alcaldía"
+   ],
+   1,
+   "Doctrina del Tribunal Supremo.",
+   "TS 1977 y 1983",
+   "Pensar que el bando basta",
+   "h-bandos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Son clases clásicas de bandos:",
+   [
+    "Fiscales, urbanísticos y de personal",
+    "Periódicos, de urgencia y de policía y buen gobierno",
+    "Provisionales y definitivos"
+   ],
+   1,
+   "Clasificación doctrinal.",
+   "Doctrina",
+   "",
+   "h-bandos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "En un municipio de gran población, el proyecto de ordenanza lo aprueba:",
+   [
+    "La Junta de Gobierno Local",
+    "El Alcalde",
+    "El Pleno en aprobación inicial directa"
+   ],
+   0,
+   "Arts. 123 y 127 LBRL.",
+   "Art. 127 LBRL",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La aprobación inicial de una ordenanza por el Pleno:",
+   [
+    "No puede delegarse en la Junta de Gobierno ni en el Alcalde",
+    "Puede delegarse en la Junta de Gobierno Local",
+    "Requiere mayoría de dos tercios"
+   ],
+   0,
+   "Art. 22.4 LBRL.",
+   "Art. 22 LBRL",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Antes de someter un borrador de ordenanza al Pleno es preceptivo:",
+   [
+    "El informe del Consejo de Estado",
+    "El dictamen de la comisión informativa competente",
+    "La autorización de la Comunidad Autónoma"
+   ],
+   1,
+   "Art. 123 ROF.",
+   "Art. 123 ROF",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "En el régimen general, la información pública de una ordenanza dura como mínimo:",
+   [
+    "Treinta días",
+    "Quince días",
+    "Dos meses"
+   ],
+   0,
+   "Art. 49 LBRL.",
+   "Art. 49 LBRL",
+   "",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Según el manual, la eficacia de las ordenanzas se proyecta:",
+   [
+    "Hacia fuera de la corporación, sobre los ciudadanos",
+    "Solo sobre las relaciones internas",
+    "Solo sobre el personal"
+   ],
+   0,
+   "Efectos ad extra.",
+   "Doctrina",
+   "",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
   ]
  ]
 }

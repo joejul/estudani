@@ -3538,6 +3538,542 @@
     "nuevo": 1,
     "dif": 3
    }
+  ],
+  [
+   "Las alteraciones de términos municipales se resuelven definitivamente mediante:",
+   [
+    "Decreto del Consejo de Gobierno de la Comunidad Autónoma",
+    "Real Decreto del Consejo de Ministros",
+    "Ley de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 9.5 TR/86.",
+   "Art. 13 LBRL",
+   "Confundir con ley o real decreto",
+   "h-alteracion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La creación de nuevos municipios solo puede realizarse sobre núcleos territorialmente diferenciados de al menos:",
+   [
+    "1.000 habitantes",
+    "5.000 habitantes",
+    "4.000 habitantes"
+   ],
+   2,
+   "Art. 13.2 LBRL.",
+   "Art. 13 LBRL",
+   "",
+   "h-alteracion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El municipio resultante de una fusión no podrá segregarse hasta que transcurran:",
+   [
+    "Cinco años",
+    "Tres años",
+    "Diez años"
+   ],
+   2,
+   "Art. 13.4 LBRL.",
+   "Art. 13 LBRL",
+   "",
+   "h-alteracion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El convenio de fusión de municipios se aprueba por:",
+   [
+    "Mayoría absoluta de cada pleno",
+    "Mayoría simple de cada pleno",
+    "Dos tercios de cada pleno"
+   ],
+   1,
+   "Art. 13.6 LBRL.",
+   "Art. 13 LBRL",
+   "",
+   "h-alteracion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los datos del Padrón de aportación voluntaria:",
+   [
+    "Se ceden a cualquier Administración",
+    "No son susceptibles de cesión en ningún caso",
+    "Se ceden previo pago de tasa"
+   ],
+   1,
+   "Art. 16.3 LBRL.",
+   "Art. 16 LBRL",
+   "",
+   "h-padron",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La inscripción en el Padrón de un extranjero:",
+   [
+    "Acredita su residencia legal",
+    "No constituye prueba de su residencia legal en España",
+    "Le concede derecho al voto"
+   ],
+   1,
+   "Art. 18.2 LBRL.",
+   "Art. 18 LBRL",
+   "Pensar que prueba la residencia legal",
+   "h-padron",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los extranjeros no comunitarios sin autorización de residencia permanente deben renovar su inscripción padronal cada:",
+   [
+    "Dos años",
+    "Cinco años",
+    "Un año"
+   ],
+   0,
+   "Art. 16.1 LBRL.",
+   "Art. 16 LBRL",
+   "",
+   "h-padron",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El Consejo de Empadronamiento está presidido por:",
+   [
+    "El Ministro de Hacienda",
+    "El Presidente del Instituto Nacional de Estadística",
+    "El Presidente de la FEMP"
+   ],
+   1,
+   "Art. 17 LBRL.",
+   "Art. 17 LBRL",
+   "",
+   "h-padron",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los españoles inscritos en el Padrón de residentes en el extranjero son vecinos del municipio español:",
+   [
+    "Únicamente a efectos del derecho de sufragio",
+    "A todos los efectos",
+    "A ningún efecto"
+   ],
+   0,
+   "Art. 17.5 LBRL.",
+   "Art. 17 LBRL",
+   "",
+   "h-padron",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La Junta de Gobierno Local existe obligatoriamente en municipios de población superior a:",
+   [
+    "2.000 habitantes",
+    "20.000 habitantes",
+    "5.000 habitantes"
+   ],
+   2,
+   "Art. 20.1.b LBRL.",
+   "Art. 20 LBRL",
+   "",
+   "h-organizacion-comun",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "¿Qué órgano municipal existe en todos los municipios además del Alcalde, los Tenientes de Alcalde y el Pleno?",
+   [
+    "La Comisión Especial de Cuentas",
+    "La Comisión Especial de Sugerencias y Reclamaciones",
+    "El Consejo Social"
+   ],
+   0,
+   "Art. 20.1.e LBRL.",
+   "Art. 20 LBRL",
+   "",
+   "h-organizacion-comun",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La moción de censura contra el Alcalde debe ser propuesta, al menos, por:",
+   [
+    "Un tercio de los concejales",
+    "La mayoría simple del Pleno",
+    "La mayoría absoluta del número legal de concejales"
+   ],
+   2,
+   "Art. 197 LOREG.",
+   "Art. 197 LOREG",
+   "",
+   "h-mocion-censura",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Presentada una moción de censura, el Pleno queda automáticamente convocado a las doce horas del:",
+   [
+    "Quinto día natural",
+    "Trigésimo día hábil",
+    "Décimo día hábil siguiente al registro"
+   ],
+   2,
+   "Art. 197.1.c LOREG.",
+   "Art. 197 LOREG",
+   "",
+   "h-mocion-censura",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Un Alcalde puede plantear cuestiones de confianza:",
+   [
+    "Una cada semestre",
+    "Una al año y dos durante el mandato, ninguna en el último año",
+    "Las que estime necesarias"
+   ],
+   1,
+   "Art. 197 bis LOREG.",
+   "Art. 197 bis LOREG",
+   "",
+   "h-mocion-censura",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Si no se aprueba un asunto ligado a una cuestión de confianza (distinto de presupuestos), el Alcalde:",
+   [
+    "Continúa con normalidad",
+    "Cesa automáticamente y queda en funciones",
+    "Debe convocar elecciones locales"
+   ],
+   1,
+   "Art. 197 bis.4 LOREG.",
+   "Art. 197 bis LOREG",
+   "",
+   "h-mocion-censura",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las atribuciones del Alcalde que no puede delegar incluyen:",
+   [
+    "Otorgar licencias",
+    "Convocar y presidir Pleno y Junta de Gobierno Local y el voto de calidad",
+    "Autorizar gastos de su competencia"
+   ],
+   1,
+   "Art. 21.3 LBRL.",
+   "Art. 21 LBRL",
+   "",
+   "h-organizacion-comun",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Un Alcalde puede concertar operaciones de crédito siempre que su importe acumulado en el ejercicio no supere el:",
+   [
+    "25 % de los recursos ordinarios",
+    "10 % de los recursos ordinarios del presupuesto",
+    "5 % de los ingresos corrientes"
+   ],
+   1,
+   "Art. 21.1.f LBRL.",
+   "Art. 21 LBRL",
+   "",
+   "h-organizacion-comun",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los municipios que funcionan en concejo abierto se rigen por:",
+   [
+    "Un Pleno de cinco concejales",
+    "Un Alcalde y una Asamblea vecinal",
+    "Una Junta de Gobierno Local"
+   ],
+   1,
+   "Art. 29 LBRL.",
+   "Art. 29 LBRL",
+   "",
+   "h-organizacion-comun",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los Tenientes de Alcalde en gran población:",
+   [
+    "Se nombran entre los miembros de la Junta de Gobierno Local",
+    "Los elige el Pleno",
+    "Se nombran entre los directores generales"
+   ],
+   0,
+   "Art. 125 LBRL.",
+   "Art. 125 LBRL",
+   "",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La Junta de Gobierno Local de un municipio de gran población no puede exceder, además del Alcalde, de:",
+   [
+    "La mitad del número legal",
+    "Diez concejales",
+    "Un tercio del número legal de miembros del Pleno"
+   ],
+   2,
+   "Art. 126.2 LBRL.",
+   "Art. 126 LBRL",
+   "",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los distritos en municipios de gran población están presididos por:",
+   [
+    "Un director general",
+    "Un funcionario de habilitación nacional",
+    "Un concejal"
+   ],
+   2,
+   "Art. 128.3 LBRL.",
+   "Art. 128 LBRL",
+   "",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El órgano para resolver reclamaciones económico-administrativas en gran población está formado por un número:",
+   [
+    "Par de miembros, mínimo cuatro",
+    "Impar de miembros, con un mínimo de tres",
+    "De cinco miembros exactamente"
+   ],
+   1,
+   "Art. 137.4 LBRL.",
+   "Art. 137 LBRL",
+   "",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La resolución del órgano de reclamaciones económico-administrativas de gran población:",
+   [
+    "Es recurrible en alzada ante el Alcalde",
+    "Pone fin a la vía administrativa",
+    "Es meramente informativa"
+   ],
+   1,
+   "Art. 137.2 LBRL.",
+   "Art. 137 LBRL",
+   "",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El art. 28 LBRL, que permitía actividades complementarias en educación, cultura, sanidad…:",
+   [
+    "Sigue plenamente vigente",
+    "Pasó a ser art. 27",
+    "Fue derogado por la LRSAL"
+   ],
+   2,
+   "Ley 27/2013.",
+   "Art. 28 LBRL",
+   "",
+   "h-competencias-art7",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Para ejercer competencias distintas de las propias o delegadas se exigen informes previos y vinculantes sobre:",
+   [
+    "La inexistencia de duplicidades y la sostenibilidad financiera",
+    "El interés de los vecinos",
+    "La opinión del Consejo de Estado"
+   ],
+   0,
+   "Art. 7.4 LBRL.",
+   "Art. 7.4 LBRL",
+   "",
+   "h-competencias-art7",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La sentencia que declaró inconstitucionales incisos del art. 26.2 LBRL (servicios coordinados por Diputaciones) es la:",
+   [
+    "STC 103/2013",
+    "STC 111/2016",
+    "STC 61/1997"
+   ],
+   1,
+   "STC de 9 de junio de 2016.",
+   "Art. 26 LBRL",
+   "",
+   "h-competencias-art7",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La STC 103/2013 afectó al art. 126 LBRL en lo relativo a:",
+   [
+    "La moción de censura",
+    "Los miembros de la Junta de Gobierno Local que no sean concejales",
+    "El número de distritos"
+   ],
+   1,
+   "Declaró inconstitucional que puedan nombrarse miembros no concejales.",
+   "Art. 126 LBRL",
+   "",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El Estatuto de Autonomía de Aragón prevé el régimen especial de Zaragoza en su artículo:",
+   [
+    "3.3",
+    "71.9",
+    "12.1"
+   ],
+   0,
+   "Art. 3.3 EAAr.",
+   "Art. 3.3 EAAr",
+   "",
+   "h-zaragoza-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La Ley 10/2017 consta de:",
+   [
+    "60 artículos en siete capítulos",
+    "294 artículos en ocho títulos",
+    "117 artículos en siete títulos"
+   ],
+   0,
+   "Estructura de la Ley de Capitalidad.",
+   "Ley 10/2017",
+   "Confundir con la LUA o el Reglamento de órganos territoriales",
+   "h-zaragoza-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En Zaragoza, la Junta de Portavoces está presidida por:",
+   [
+    "El Alcalde o el Teniente de Alcalde en quien delegue",
+    "El Secretario General del Pleno",
+    "El Vicealcalde en todo caso"
+   ],
+   0,
+   "Ley 10/2017.",
+   "Ley 10/2017",
+   "",
+   "h-zaragoza-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
   ]
  ]
 }

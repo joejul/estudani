@@ -1841,6 +1841,130 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "Cuando el último día de un plazo sea inhábil:",
+   [
+    "Se entiende prorrogado al primer día hábil siguiente",
+    "Se entiende vencido el día anterior",
+    "El plazo se amplía en cinco días"
+   ],
+   0,
+   "Art. 30.5 LPAC.",
+   "Art. 30 LPAC",
+   "Contarlo hacia atrás",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Si un día es hábil en el lugar de residencia del interesado e inhábil en la sede del órgano, se considera:",
+   [
+    "Hábil en todo caso",
+    "Inhábil en todo caso",
+    "Hábil para el interesado"
+   ],
+   1,
+   "Art. 30.6 LPAC.",
+   "Art. 30 LPAC",
+   "",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La ampliación de plazos que concede la Administración no puede exceder de:",
+   [
+    "El doble del plazo",
+    "Diez días",
+    "La mitad del plazo original"
+   ],
+   2,
+   "Art. 32.1 LPAC.",
+   "Art. 32 LPAC",
+   "",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La tramitación de urgencia reduce los plazos a la mitad, salvo los de:",
+   [
+    "Resolución y notificación",
+    "Alegaciones",
+    "Presentación de solicitudes y recursos"
+   ],
+   2,
+   "Art. 33.1 LPAC.",
+   "Art. 33 LPAC",
+   "",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Contra el acuerdo que declare la tramitación de urgencia:",
+   [
+    "No cabe recurso alguno",
+    "Cabe recurso de alzada",
+    "Cabe recurso de reposición"
+   ],
+   0,
+   "Art. 33.2 LPAC.",
+   "Art. 33 LPAC",
+   "",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Cuando la norma del procedimiento no fije plazo máximo para resolver, este es de:",
+   [
+    "Seis meses",
+    "Tres meses",
+    "Un mes"
+   ],
+   1,
+   "Art. 21.3 LPAC.",
+   "Art. 21 LPAC",
+   "",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El plazo máximo para notificar la resolución no puede exceder de seis meses salvo:",
+   [
+    "Que una norma con rango de ley establezca uno mayor o lo prevea el Derecho de la Unión Europea",
+    "Que lo decida el órgano instructor",
+    "Que lo pida el interesado"
+   ],
+   0,
+   "Art. 21.2 LPAC.",
+   "Art. 21 LPAC",
+   "",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

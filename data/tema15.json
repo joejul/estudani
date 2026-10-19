@@ -4122,6 +4122,537 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "La iniciativa popular del art. 70 bis LBRL requiere en municipios de más de 20.000 habitantes el:",
+   [
+    "10 % de los vecinos con derecho de sufragio",
+    "20 % de los vecinos",
+    "5 % de los vecinos"
+   ],
+   0,
+   "20 % hasta 5.000; 15 % de 5.001 a 20.000; 10 % más de 20.000.",
+   "Art. 70 bis LBRL",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "¿Cuántos Vocales nombra el Alcalde para el Pleno de una Junta Municipal de Zaragoza?",
+   [
+    "Cinco",
+    "Quince",
+    "Diez"
+   ],
+   2,
+   "Art. 17.",
+   "Art. 17 Reglamento",
+   "",
+   "h-junta-municipal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Consejo Rector de una Junta Municipal se reúne como mínimo:",
+   [
+    "Una vez al mes",
+    "Una vez al trimestre",
+    "Una vez al año"
+   ],
+   0,
+   "Art. 19.",
+   "Art. 19 Reglamento",
+   "Confundir con el Pleno de la Junta (trimestral)",
+   "h-junta-municipal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El Pleno de una Junta Municipal se reúne como mínimo:",
+   [
+    "Una vez al mes",
+    "Una vez al trimestre",
+    "Dos veces al año"
+   ],
+   1,
+   "Art. 18.",
+   "Art. 18 Reglamento",
+   "",
+   "h-junta-municipal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Una sesión extraordinaria de una Junta puede solicitarla:",
+   [
+    "La cuarta parte de los miembros con derecho a voto",
+    "La mitad de los miembros",
+    "Un solo vocal siempre"
+   ],
+   0,
+   "Arts. 22-23; ningún vocal más de tres al año.",
+   "Art. 22 Reglamento",
+   "",
+   "h-junta-municipal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El Presidente de una Junta que considera que un acuerdo vulnera el ordenamiento puede suspenderlo, dando cuenta al Alcalde en:",
+   [
+    "72 horas, y el Alcalde en 24",
+    "24 horas, y el Alcalde debe ratificarlo en 72 horas",
+    "Cinco días y el Alcalde en diez"
+   ],
+   1,
+   "Art. 28.",
+   "Art. 28 Reglamento",
+   "",
+   "h-junta-municipal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las Juntas Vecinales con menos de 2.000 habitantes tienen:",
+   [
+    "Seis Vocales",
+    "Diez Vocales",
+    "Cuatro Vocales"
+   ],
+   2,
+   "Art. 33.",
+   "Art. 33 Reglamento",
+   "",
+   "h-barrios-rurales",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Alcalde de Barrio es nombrado por el Alcalde entre vecinos:",
+   [
+    "Designados libremente sin consulta",
+    "Elegidos por la Junta de Gobierno Local",
+    "Elegidos mediante un proceso democrático de consulta con el mayor número de votos"
+   ],
+   2,
+   "Art. 32.",
+   "Art. 32 Reglamento",
+   "",
+   "h-barrios-rurales",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Un Concejo Local está integrado por:",
+   [
+    "Un Presidente y diez Vocales",
+    "Un Presidente y cuatro Vocales",
+    "Un Presidente y dos Vocales"
+   ],
+   1,
+   "Art. 36.",
+   "Art. 36 Reglamento",
+   "",
+   "h-barrios-rurales",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Consejo Territorial de Alcaldes de Barrio está presidido por:",
+   [
+    "El Alcalde de la ciudad",
+    "El Concejal Presidente del Distrito Rural",
+    "El Teniente de Alcalde de Participación"
+   ],
+   1,
+   "Art. 30.",
+   "Art. 30 Reglamento",
+   "",
+   "h-barrios-rurales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Una audiencia pública de ámbito de Junta Municipal exige el 10 % del padrón del territorio, sin superar:",
+   [
+    "3.000 firmas (300 en las Juntas Vecinales)",
+    "300 firmas en las Juntas Municipales",
+    "10.000 firmas"
+   ],
+   0,
+   "Art. 52.",
+   "Art. 52 Reglamento",
+   "Cambiar los topes",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La consulta popular la autoriza:",
+   [
+    "El Gobierno de Aragón",
+    "El Alcalde",
+    "El Gobierno del Estado"
+   ],
+   2,
+   "Art. 71 LBRL y 53 Reglamento.",
+   "Art. 71 LBRL",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los vecinos pueden solicitar una consulta popular con un número de firmas de:",
+   [
+    "El 10 % del padrón",
+    "10.000 más el 5 % de los habitantes que excedan de 100.000",
+    "50.000 en todo caso"
+   ],
+   1,
+   "Art. 53.",
+   "Art. 53 Reglamento",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Para intervenir en el turno de ruegos y preguntas del Pleno, el público debe solicitarlo por escrito con una antelación mínima de:",
+   [
+    "24 horas",
+    "48 horas",
+    "Una semana"
+   ],
+   0,
+   "Art. 56.",
+   "Art. 56 Reglamento",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La inscripción en el Censo Municipal de Entidades Ciudadanas se resuelve en el plazo de:",
+   [
+    "Treinta días",
+    "Quince días",
+    "Tres meses"
+   ],
+   0,
+   "Art. 62.",
+   "Art. 62 Reglamento",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La declaración de interés público municipal caduca a los:",
+   [
+    "Dos años",
+    "Cinco años",
+    "Diez años"
+   ],
+   1,
+   "Art. 67.",
+   "Art. 67 Reglamento",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La declaración de interés público municipal la acuerda:",
+   [
+    "El Pleno por mayoría absoluta",
+    "El Alcalde",
+    "La Junta de Gobierno por mayoría simple"
+   ],
+   0,
+   "Art. 68.",
+   "Art. 68 Reglamento",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las entidades declaradas de interés público municipal deben actualizar su documentación antes del:",
+   [
+    "1 de enero",
+    "30 de junio",
+    "1 de marzo de cada año"
+   ],
+   2,
+   "Art. 70.",
+   "Art. 70 Reglamento",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El Pleno del Consejo de la Ciudad se reúne en sesión ordinaria:",
+   [
+    "Dos veces al año",
+    "Cuatro veces al año",
+    "Una vez al mes"
+   ],
+   1,
+   "Art. 94.",
+   "Art. 94 Reglamento",
+   "",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Vicepresidente del Consejo de la Ciudad es:",
+   [
+    "El Secretario General del Pleno",
+    "El Teniente de Alcalde de Participación Ciudadana",
+    "Un representante de la Universidad"
+   ],
+   1,
+   "Art. 91.",
+   "Art. 91 Reglamento",
+   "",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los acuerdos del Consejo de la Ciudad:",
+   [
+    "Son vinculantes para el Pleno",
+    "Son recurribles en alzada",
+    "Tienen carácter de informe o petición y no son vinculantes"
+   ],
+   2,
+   "Art. 84.",
+   "Art. 84 Reglamento",
+   "",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La Asamblea Ciudadana que elige cinco miembros del Consejo de la Ciudad se reúne:",
+   [
+    "Cada año",
+    "Una vez cada dos años",
+    "Cada cuatro años"
+   ],
+   1,
+   "Art. 92.",
+   "Art. 92 Reglamento",
+   "",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La Comisión Especial de Sugerencias y Reclamaciones se reúne como mínimo:",
+   [
+    "Cuatro veces al año",
+    "Una vez al mes",
+    "Tres veces al año"
+   ],
+   2,
+   "Art. 106.",
+   "Art. 106 Reglamento",
+   "",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los servicios responsables deben responder por escrito a la persona interesada, tras la queja, en un máximo de:",
+   [
+    "Quince días",
+    "Diez días",
+    "Un mes"
+   ],
+   0,
+   "Art. 113.",
+   "Art. 113 Reglamento",
+   "",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las quejas ante la Comisión Especial de Sugerencias y Reclamaciones:",
+   [
+    "Interrumpen los plazos para recurrir",
+    "No tienen la consideración de recurso administrativo",
+    "Sustituyen al recurso de alzada"
+   ],
+   1,
+   "Art. 110.",
+   "Art. 110 Reglamento",
+   "",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "No se admiten a trámite las quejas:",
+   [
+    "Presentadas por vecinos",
+    "Referidas al funcionamiento de servicios municipales",
+    "Anónimas"
+   ],
+   2,
+   "Art. 111.",
+   "Art. 111 Reglamento",
+   "",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los Consejos Sectoriales se crean con carácter:",
+   [
+    "Excepcional, y dependen del Consejo de la Ciudad",
+    "General, y son independientes",
+    "Obligatorio en cada distrito"
+   ],
+   0,
+   "Art. 116.",
+   "Art. 116 Reglamento",
+   "",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Según el Manual de Atención a la Ciudadanía, los tres niveles de atención son:",
+   [
+    "Acogida, recogida y reconocimiento",
+    "Saludo, información y despedida",
+    "Recepción, trámite y seguimiento"
+   ],
+   0,
+   "Manual.",
+   "Manual de Atención",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La curva de la hostilidad tiene:",
+   [
+    "Tres fases",
+    "Cuatro fases",
+    "Seis fases"
+   ],
+   2,
+   "Racional, disparo, enlentecimiento, afrontamiento, enfriamiento, solución.",
+   "Manual de Atención",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El momento de intervenir con una frase empática ante una persona hostil es la fase de:",
+   [
+    "Afrontamiento",
+    "Disparo o salida",
+    "Racional"
+   ],
+   0,
+   "Fase 4.",
+   "Manual de Atención",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
   ]
  ]
 }

@@ -2235,6 +2235,396 @@
     "nuevo": 1,
     "dif": 3
    }
+  ],
+  [
+   "Pueden acceder como funcionarios en igualdad con los españoles, salvo funciones de poder público:",
+   [
+    "Todos los extranjeros con residencia legal",
+    "Los nacionales de cualquier Estado con convenio de reciprocidad",
+    "Los nacionales de la Unión Europea y el cónyuge de los españoles"
+   ],
+   2,
+   "Art. 57 TREBEP.",
+   "Art. 57 TREBEP",
+   "",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los descendientes de españoles pueden acceder como funcionarios si son menores de:",
+   [
+    "Dieciocho años",
+    "Veinticinco años",
+    "Veintiún años o mayores dependientes"
+   ],
+   2,
+   "Art. 57.",
+   "Art. 57 TREBEP",
+   "",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El cupo de reserva para personas con discapacidad en las ofertas de empleo es de al menos el:",
+   [
+    "5 % sin subcupo",
+    "7 %, de los que al menos el 2 % para discapacidad intelectual",
+    "10 % exclusivamente intelectual"
+   ],
+   1,
+   "Art. 59.",
+   "Art. 59 TREBEP",
+   "",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los órganos de selección tenderán a la paridad: ni más del 60 % ni menos del:",
+   [
+    "30 %",
+    "40 % de cada sexo",
+    "25 %"
+   ],
+   1,
+   "LO 3/2007.",
+   "LO 3/2007",
+   "",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La pertenencia a los órganos de selección es:",
+   [
+    "Siempre a título individual",
+    "En representación de los sindicatos",
+    "Por delegación del órgano convocante"
+   ],
+   0,
+   "Art. 60.",
+   "Art. 60 TREBEP",
+   "",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El sistema de concurso (solo méritos) para funcionarios de carrera:",
+   [
+    "Es el sistema ordinario",
+    "Solo puede aplicarse por ley y excepcionalmente",
+    "Se aplica libremente"
+   ],
+   1,
+   "Art. 61.",
+   "Art. 61 TREBEP",
+   "",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La jubilación forzosa del funcionario se declara de oficio al cumplir:",
+   [
+    "67 años sin prórroga",
+    "65 años, prorrogable a petición hasta los 70",
+    "60 años"
+   ],
+   1,
+   "Art. 67.",
+   "Art. 67 TREBEP",
+   "",
+   "h-adquirir",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La pena de inhabilitación absoluta firme produce la pérdida de la condición respecto de:",
+   [
+    "Todos los empleos o cargos que tuviere",
+    "Solo el último cargo",
+    "Los cargos políticos"
+   ],
+   0,
+   "Art. 66.",
+   "Art. 66 TREBEP",
+   "",
+   "h-adquirir",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Quien perdió la condición por condena puede ser rehabilitado:",
+   [
+    "De forma automática a los cinco años",
+    "Por el Tribunal que lo condenó",
+    "Excepcionalmente por decisión de los órganos de gobierno; el silencio es desestimatorio"
+   ],
+   2,
+   "Art. 68.",
+   "Art. 68 TREBEP",
+   "",
+   "h-adquirir",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La excedencia por agrupación familiar tiene una duración de:",
+   [
+    "Entre 2 y 15 años",
+    "Entre 1 y 5 años",
+    "Hasta 3 años"
+   ],
+   0,
+   "RD 365/1995.",
+   "Art. 89 TREBEP",
+   "",
+   "h-excedencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La excedencia por cuidado de familiares tiene una duración no superior a:",
+   [
+    "Un año",
+    "Tres años",
+    "Cinco años"
+   ],
+   1,
+   "Art. 89.4.",
+   "Art. 89 TREBEP",
+   "",
+   "h-excedencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En la excedencia por cuidado de familiares la reserva del puesto es al menos de:",
+   [
+    "Seis meses",
+    "Dos años",
+    "Tres años"
+   ],
+   1,
+   "Art. 89.4.",
+   "Art. 89 TREBEP",
+   "",
+   "h-excedencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En la excedencia por violencia de género, la funcionaria cobra retribuciones íntegras durante:",
+   [
+    "Los dos primeros meses",
+    "Los seis primeros meses",
+    "Todo el periodo"
+   ],
+   0,
+   "Art. 89.5.",
+   "Art. 89 TREBEP",
+   "",
+   "h-excedencias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La suspensión provisional como medida cautelar en un expediente disciplinario no puede exceder de:",
+   [
+    "Tres meses",
+    "Un año",
+    "Seis meses, salvo paralización imputable al interesado"
+   ],
+   2,
+   "Art. 98.3.",
+   "Art. 98 TREBEP",
+   "",
+   "h-suspension",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La suspensión firme de funciones puede durar como máximo:",
+   [
+    "Tres años",
+    "Seis años",
+    "Diez años"
+   ],
+   1,
+   "Art. 96.1.c.",
+   "Art. 96 TREBEP",
+   "",
+   "h-suspension",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El suspenso provisional percibe durante la suspensión:",
+   [
+    "Todas sus retribuciones",
+    "Las retribuciones básicas y las prestaciones familiares por hijo a cargo",
+    "Ninguna retribución"
+   ],
+   1,
+   "Art. 98.3.",
+   "Art. 98 TREBEP",
+   "",
+   "h-suspension",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Si no se solicita el reingreso tras una suspensión firme, el funcionario pasa a:",
+   [
+    "Excedencia forzosa",
+    "Servicio activo",
+    "Excedencia voluntaria por interés particular"
+   ],
+   2,
+   "Art. 90.",
+   "Art. 90 TREBEP",
+   "",
+   "h-suspension",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las infracciones muy graves prescriben a los:",
+   [
+    "Seis meses",
+    "Dos años",
+    "Tres años"
+   ],
+   2,
+   "Art. 97.",
+   "Art. 97 TREBEP",
+   "",
+   "h-prescripcion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las sanciones impuestas por faltas leves prescriben:",
+   [
+    "A los seis meses",
+    "A los dos años",
+    "Al año"
+   ],
+   2,
+   "Art. 97.",
+   "Art. 97 TREBEP",
+   "Confundir con la prescripción de la falta leve (6 meses)",
+   "h-prescripcion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Para sancionar faltas leves se puede seguir un procedimiento:",
+   [
+    "Siempre ordinario con instructor",
+    "Sumario con audiencia al interesado",
+    "Sin audiencia"
+   ],
+   1,
+   "Art. 98.2.",
+   "Art. 98 TREBEP",
+   "",
+   "h-disciplina",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Quienes encubran faltas muy graves o graves incurren en responsabilidad cuando:",
+   [
+    "Siempre, aunque no haya daño",
+    "Solo si son superiores jerárquicos",
+    "De ellas se derive daño grave para la Administración o los ciudadanos"
+   ],
+   2,
+   "Art. 93.",
+   "Art. 93 TREBEP",
+   "",
+   "h-disciplina",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El principio non bis in idem impide sancionar dos veces los mismos hechos cuando hay identidad de:",
+   [
+    "Solo sujeto",
+    "Sujeto, hecho y fundamento",
+    "Solo hecho"
+   ],
+   1,
+   "Principio general.",
+   "Art. 94 TREBEP",
+   "",
+   "h-disciplina",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
   ]
  ]
 }

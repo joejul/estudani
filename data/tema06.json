@@ -2077,6 +2077,112 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "Toda notificación debe cursarse dentro del plazo de:",
+   [
+    "Cinco días",
+    "Treinta días",
+    "Diez días desde que el acto haya sido dictado"
+   ],
+   2,
+   "Art. 40.2 LPAC.",
+   "Art. 40 LPAC",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La notificación debe contener el texto íntegro de la resolución e indicar:",
+   [
+    "Solo el plazo para recurrir",
+    "Únicamente el órgano competente",
+    "Si pone fin a la vía administrativa, los recursos procedentes, el órgano y el plazo"
+   ],
+   2,
+   "Art. 40.2 LPAC.",
+   "Art. 40 LPAC",
+   "",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La notificación electrónica obligatoria se entiende rechazada cuando transcurren sin acceder:",
+   [
+    "Diez días naturales desde la puesta a disposición",
+    "Diez días hábiles",
+    "Tres días naturales"
+   ],
+   0,
+   "Art. 43.2 LPAC.",
+   "Art. 43 LPAC",
+   "Confundir naturales con hábiles",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La Administración puede convalidar:",
+   [
+    "Los actos nulos de pleno derecho",
+    "Los actos anulables, subsanando sus vicios",
+    "Cualquier acto, sea nulo o anulable"
+   ],
+   1,
+   "Art. 52.1 LPAC.",
+   "Art. 52 LPAC",
+   "Creer que cabe convalidar los nulos",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El órgano que declare la nulidad dispondrá siempre la conservación de:",
+   [
+    "Los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción",
+    "Ningún acto del procedimiento",
+    "Todos los actos posteriores"
+   ],
+   0,
+   "Art. 51 LPAC.",
+   "Art. 51 LPAC",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El acto de convalidación produce efecto:",
+   [
+    "Desde la fecha del acto convalidado siempre",
+    "Desde su fecha, salvo lo previsto para la retroactividad",
+    "Desde su notificación al Boletín"
+   ],
+   1,
+   "Art. 52.2 LPAC.",
+   "Art. 52 LPAC",
+   "",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
   ]
  ]
 }

@@ -1814,6 +1814,360 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "Según la clasificación clásica de la actividad de las Entidades Locales, la actividad de estímulo o persuasión se denomina:",
+   [
+    "Policía",
+    "Servicio público",
+    "Fomento"
+   ],
+   2,
+   "El fomento estimula o persuade (Título II RSCL); la policía coacciona y el servicio público presta.",
+   "RSCL",
+   "",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "¿En qué título del Reglamento de Servicios de las Corporaciones Locales se regula la policía?",
+   [
+    "En el Título II",
+    "En el Título I",
+    "En el Título III"
+   ],
+   1,
+   "Policía = Título I; fomento = II; servicios = III.",
+   "RSCL",
+   "",
+   "h-tres-actividades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Respecto a las licencias locales, según el art. 84 bis LBRL, el ejercicio de actividades:",
+   [
+    "No se somete a licencia como regla general, salvo excepciones justificadas",
+    "Se somete siempre a licencia previa",
+    "Se somete a licencia solo si lo decide el Pleno caso por caso"
+   ],
+   0,
+   "84 bis: la licencia es excepcional (orden público, seguridad, salud, medio ambiente o número limitado de operadores).",
+   "Art. 84 bis LBRL",
+   "Creer que la licencia es la regla",
+   "h-84-bis",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Entre los motivos que permiten exigir licencia para una actividad económica NO figura:",
+   [
+    "La conveniencia recaudatoria del ayuntamiento",
+    "La protección del medio ambiente",
+    "El número limitado de operadores por escasez de recursos naturales"
+   ],
+   0,
+   "Solo orden público, seguridad, salud, medio ambiente o número limitado de operadores.",
+   "Art. 84 bis LBRL",
+   "",
+   "h-84-bis",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los principios a los que debe ajustarse la intervención de las Entidades Locales en la actividad de los ciudadanos son:",
+   [
+    "Legalidad, eficacia y economía",
+    "Publicidad, mérito y capacidad",
+    "Igualdad de trato, necesidad y proporcionalidad"
+   ],
+   2,
+   "Art. 84.2 LBRL.",
+   "Art. 84 LBRL",
+   "",
+   "h-84-bis",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Si se pide una licencia para ocupar la vía pública o bienes de dominio público y no hay resolución en plazo, el silencio se entiende:",
+   [
+    "Denegada",
+    "Concedida",
+    "Concedida solo si lo pide el interesado por escrito"
+   ],
+   0,
+   "Excepción al silencio positivo general: vía pública y dominio público = desestimatorio.",
+   "Art. 9 RSCL · art. 24 LPAC",
+   "Aplicar el silencio positivo general",
+   "h-licencias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las licencias de obra, instalación o servicio:",
+   [
+    "Son siempre intransmisibles",
+    "Se transmiten automáticamente con el inmueble sin comunicación",
+    "Son transmisibles comunicándolo por escrito el anterior y el nuevo titular, salvo si el número de licencias es limitado"
+   ],
+   2,
+   "Art. 13 RSCL.",
+   "Art. 13 RSCL",
+   "",
+   "h-licencias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Una licencia se otorga:",
+   [
+    "Con efectos que prevalecen sobre el derecho de propiedad",
+    "Con exclusión de la responsabilidad civil o penal del titular",
+    "Salvo el derecho de propiedad y sin perjuicio del de tercero"
+   ],
+   2,
+   "Arts. 10 y 12 RSCL: no excluye ni disminuye la responsabilidad civil o penal.",
+   "Arts. 10 y 12 RSCL",
+   "",
+   "h-licencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "En un municipio de gran población, la concesión de licencias corresponde por regla general a:",
+   [
+    "El Pleno",
+    "La Junta de Gobierno Local",
+    "El Alcalde en todo caso"
+   ],
+   1,
+   "Art. 127.1.e LBRL.",
+   "Art. 127.1.e LBRL",
+   "",
+   "h-licencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "¿Quién crea un organismo autónomo local y aprueba sus estatutos?",
+   [
+    "El Pleno",
+    "El Alcalde",
+    "La Junta de Gobierno Local"
+   ],
+   0,
+   "Art. 85 bis LBRL.",
+   "Art. 85 bis LBRL",
+   "",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El máximo órgano de dirección de un organismo autónomo o entidad pública empresarial local debe ser un titulado superior con:",
+   [
+    "Más de tres años de ejercicio profesional",
+    "Diez años de antigüedad como funcionario",
+    "Más de cinco años de ejercicio profesional en el sector"
+   ],
+   2,
+   "Art. 85 bis LBRL: funcionario, laboral o profesional privado, titulado superior y más de cinco años.",
+   "Art. 85 bis LBRL",
+   "",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Para optar por gestionar un servicio mediante entidad pública empresarial o sociedad mercantil local es necesaria:",
+   [
+    "Una memoria justificativa de sostenibilidad y eficiencia elevada al Pleno, con informe del Interventor",
+    "Una autorización del Gobierno de Aragón",
+    "Un referéndum local"
+   ],
+   0,
+   "Art. 85.2 LBRL.",
+   "Art. 85 LBRL",
+   "",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Una subvención, según la Ley 38/2003, es una disposición dineraria:",
+   [
+    "Con contraprestación equivalente del beneficiario",
+    "Sin contraprestación directa de los beneficiarios, sujeta a un objetivo o actividad y para fomentar una finalidad de utilidad pública o interés social",
+    "Que puede destinarse libremente a cualquier gasto"
+   ],
+   1,
+   "Art. 2 Ley 38/2003.",
+   "Art. 2 Ley 38/2003",
+   "",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Una subvención local no puede exceder, según el RSCL, del:",
+   [
+    "50 % del coste de la actividad",
+    "30 % del coste",
+    "75 % del coste"
+   ],
+   0,
+   "Art. 26 RSCL.",
+   "Art. 26 RSCL",
+   "Cifra distinta del 50 %",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Quedan fuera de la Ley General de Subvenciones:",
+   [
+    "Todas las ayudas a entidades sin ánimo de lucro",
+    "Las subvenciones en régimen de concurrencia competitiva",
+    "Los premios que se otorgan sin previa solicitud del beneficiario"
+   ],
+   2,
+   "Art. 4 Ley 38/2003.",
+   "Art. 4 Ley 38/2003",
+   "",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las subvenciones locales, según el art. 26 RSCL, son:",
+   [
+    "Obligatorias para el ayuntamiento si se solicitan",
+    "Irrevocables una vez concedidas",
+    "Voluntarias y eventuales, revocables y no invocables como precedente"
+   ],
+   2,
+   "Art. 26 RSCL.",
+   "Art. 26 RSCL",
+   "",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Entre las competencias del art. 25.2 LBRL figuran las actuaciones en materia de igualdad y violencia de género; esta letra fue añadida por:",
+   [
+    "El Real Decreto-ley 9/2018",
+    "La Ley 27/2013",
+    "La Ley 57/2003"
+   ],
+   0,
+   "Letra o) del art. 25.2.",
+   "Art. 25.2.o LBRL",
+   "",
+   "h-policia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Según la doctrina clásica, el fomento es la acción de la Administración encaminada a proteger o promover actividades de los particulares que satisfacen necesidades públicas:",
+   [
+    "Mediante la coacción de las conductas privadas",
+    "Creando siempre un servicio público",
+    "Sin usar la coacción ni crear servicios públicos"
+   ],
+   2,
+   "Definición de Jordana de Pozas.",
+   "Doctrina",
+   "",
+   "h-fomento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los medios de fomento que consisten en distinciones, títulos o diplomas se denominan:",
+   [
+    "Económicos",
+    "Honoríficos",
+    "Jurídicos"
+   ],
+   1,
+   "Clasificación según la ventaja.",
+   "Doctrina",
+   "",
+   "h-fomento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las funciones que impliquen ejercicio de autoridad en la gestión indirecta de un servicio público local:",
+   [
+    "Pueden delegarse libremente en el contratista",
+    "Corresponden siempre al concesionario",
+    "Solo pueden ejercerlas funcionarios públicos"
+   ],
+   2,
+   "Art. 9 TREBEP.",
+   "Art. 9 TREBEP",
+   "",
+   "h-servicio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
   ]
  ]
 }

@@ -4563,6 +4563,414 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "La potestad originaria para crear tributos corresponde:",
+   [
+    "Al Estado, mediante ley",
+    "A los municipios, mediante ordenanza",
+    "A las Comunidades Autónomas por decreto"
+   ],
+   0,
+   "Art. 133 CE.",
+   "Art. 133 CE",
+   "Creer que el municipio crea tributos",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La potestad tributaria de las Entidades Locales es:",
+   [
+    "Originaria, igual que la del Estado",
+    "Inexistente",
+    "Secundaria: establecen tributos ya creados por ley"
+   ],
+   2,
+   "Art. 133 CE y 106 LBRL.",
+   "Art. 106 LBRL",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La potestad reglamentaria tributaria local se ejerce mediante:",
+   [
+    "Bandos del Alcalde",
+    "Decretos de Alcaldía de carácter fiscal",
+    "Ordenanzas fiscales y ordenanzas generales de gestión, recaudación e inspección"
+   ],
+   2,
+   "Art. 106.2 LBRL.",
+   "Art. 106 LBRL",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los principios de prudencia financiera del art. 48 bis TRLRHL tienen por objeto:",
+   [
+    "Maximizar la rentabilidad de las inversiones",
+    "Evitar cualquier endeudamiento",
+    "Minimizar el riesgo y el coste de las operaciones financieras"
+   ],
+   2,
+   "Art. 48 bis.",
+   "Art. 48 bis TRLRHL",
+   "",
+   "h-prudencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La prestación personal y de transporte puede exigirse por municipios de población de derecho no superior a:",
+   [
+    "5.000 habitantes",
+    "2.000 habitantes",
+    "20.000 habitantes"
+   ],
+   0,
+   "Art. 2 TRLRHL.",
+   "Art. 2 TRLRHL",
+   "",
+   "h-prudencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Una tasa por la prestación de un servicio no puede exceder:",
+   [
+    "Del coste real o previsible del servicio",
+    "Del valor de mercado del servicio privado equivalente",
+    "Del doble del coste del servicio"
+   ],
+   0,
+   "Art. 24.2 TRLRHL.",
+   "Art. 24 TRLRHL",
+   "Confundir con el precio público",
+   "h-cuantia-tasa",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Para las empresas explotadoras de servicios de suministros de interés general, la tasa por utilización del dominio público se fija en el:",
+   [
+    "1,5 % de los ingresos brutos de facturación en el término municipal",
+    "3 % de los ingresos brutos",
+    "0,5 % del beneficio neto"
+   ],
+   0,
+   "Art. 24.1.c TRLRHL.",
+   "Art. 24 TRLRHL",
+   "",
+   "h-cuantia-tasa",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Cuando la utilización del dominio público provoca su deterioro, el beneficiario:",
+   [
+    "Debe reintegrar el coste total de la reparación, sin que pueda condonarse",
+    "Solo paga la tasa",
+    "Responde solo si hay dolo"
+   ],
+   0,
+   "Art. 24.5.",
+   "Art. 24 TRLRHL",
+   "",
+   "h-cuantia-tasa",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En las tasas por licencias urbanísticas, son sustitutos del contribuyente:",
+   [
+    "Los constructores y contratistas de obras",
+    "Los arquitectos redactores del proyecto",
+    "Los notarios"
+   ],
+   0,
+   "Art. 23 TRLRHL.",
+   "Art. 23 TRLRHL",
+   "",
+   "h-cuantia-tasa",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Una tasa de devengo periódico se devenga:",
+   [
+    "El 1 de julio",
+    "El día de la solicitud",
+    "El 1 de enero de cada año"
+   ],
+   2,
+   "Art. 26 TRLRHL.",
+   "Art. 26 TRLRHL",
+   "",
+   "h-cuantia-tasa",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los precios públicos deben cubrir como mínimo el coste del servicio, salvo:",
+   [
+    "Razones sociales, benéficas, culturales o de interés público, con dotación presupuestaria",
+    "Que lo decida el Alcalde sin más",
+    "Que haya superávit"
+   ],
+   0,
+   "Art. 44 TRLRHL.",
+   "Art. 44 TRLRHL",
+   "",
+   "h-cuantia-tasa",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El orden en que se determina el hecho imponible del IBI es:",
+   [
+    "Propiedad, usufructo, superficie y concesión",
+    "Usufructo, propiedad, concesión y superficie",
+    "Concesión administrativa, derecho real de superficie, usufructo y propiedad"
+   ],
+   2,
+   "Art. 61 TRLRHL.",
+   "Art. 61 TRLRHL",
+   "Orden invertido",
+   "h-ibi-detalle",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La base imponible del IBI es:",
+   [
+    "El valor de mercado",
+    "El valor catastral",
+    "El precio de adquisición"
+   ],
+   1,
+   "Art. 65 TRLRHL.",
+   "Art. 65 TRLRHL",
+   "",
+   "h-ibi-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Los tipos de gravamen del IBI urbano oscilan entre:",
+   [
+    "0,4 % y 1,10 %",
+    "0,3 % y 0,90 %",
+    "0,6 % y 1,3 %"
+   ],
+   0,
+   "Art. 72 TRLRHL.",
+   "Art. 72 TRLRHL",
+   "Confundir con rústicos o especiales",
+   "h-ibi-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El recargo por vivienda desocupada de forma permanente puede llegar hasta:",
+   [
+    "El 25 % siempre",
+    "El 50 % de la cuota líquida, y el 100 % si la desocupación supera tres años",
+    "El 200 % de la cuota"
+   ],
+   1,
+   "Art. 72.4 TRLRHL.",
+   "Art. 72 TRLRHL",
+   "",
+   "h-ibi-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El padrón catastral del IBI se remite a las entidades gestoras antes del:",
+   [
+    "1 de enero",
+    "1 de junio",
+    "1 de marzo de cada año"
+   ],
+   2,
+   "Art. 77 TRLRHL.",
+   "Art. 77 TRLRHL",
+   "",
+   "h-ibi-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La matrícula del Impuesto sobre Actividades Económicas se forma por:",
+   [
+    "La Administración tributaria del Estado",
+    "El Ayuntamiento",
+    "La Comunidad Autónoma"
+   ],
+   0,
+   "Art. 90 TRLRHL.",
+   "Art. 90 TRLRHL",
+   "",
+   "h-impuestos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "En el ICIO, el tipo de gravamen no puede exceder del:",
+   [
+    "4 %",
+    "2 %",
+    "30 %"
+   ],
+   0,
+   "Art. 102.3 TRLRHL.",
+   "Art. 102 TRLRHL",
+   "",
+   "h-impuestos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La base imponible del ICIO es:",
+   [
+    "El presupuesto con IVA y beneficio del contratista",
+    "El valor catastral del inmueble",
+    "El coste real y efectivo de ejecución material de la obra"
+   ],
+   2,
+   "Art. 102.1 TRLRHL.",
+   "Art. 102 TRLRHL",
+   "",
+   "h-impuestos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El plazo para declarar el IIVTNU en transmisiones por causa de muerte es de:",
+   [
+    "Seis meses, prorrogables hasta un año",
+    "Treinta días hábiles",
+    "Tres meses improrrogables"
+   ],
+   0,
+   "Art. 110 TRLRHL.",
+   "Art. 110 TRLRHL",
+   "Confundir con el plazo inter vivos",
+   "h-iivtnu",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El tipo máximo del Impuesto sobre el Incremento de Valor de los Terrenos es el:",
+   [
+    "4 %",
+    "30 %",
+    "15 %"
+   ],
+   1,
+   "Art. 108 TRLRHL.",
+   "Art. 108 TRLRHL",
+   "",
+   "h-iivtnu",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por:",
+   [
+    "Mayoría absoluta de los afectados que representen al menos dos tercios de las cuotas",
+    "Mayoría simple de los vecinos",
+    "Unanimidad de los afectados"
+   ],
+   0,
+   "Arts. 36 y 37 TRLRHL.",
+   "Art. 36 TRLRHL",
+   "",
+   "h-contrib",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El fraccionamiento o aplazamiento de las cuotas de contribuciones especiales puede concederse por un plazo máximo de:",
+   [
+    "Cinco años",
+    "Dos años",
+    "Diez años"
+   ],
+   0,
+   "Art. 32 TRLRHL.",
+   "Art. 32 TRLRHL",
+   "",
+   "h-contrib",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
   ]
  ]
 }

@@ -1387,6 +1387,305 @@
     "nuevo": 1,
     "dif": 3
    }
+  ],
+  [
+   "Tienen capacidad de obrar ante las Administraciones los menores de edad para el ejercicio de aquellos derechos e intereses:",
+   [
+    "Cuya actuación esté permitida por el ordenamiento sin la asistencia de quien ejerza la patria potestad, tutela o curatela",
+    "Cualquiera, a partir de los dieciséis años",
+    "Solo si actúan con su representante legal"
+   ],
+   0,
+   "Art. 3.b LPAC.",
+   "Art. 3 LPAC",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los grupos de afectados y las uniones y entidades sin personalidad jurídica tienen capacidad de obrar:",
+   [
+    "Cuando la ley así lo declare expresamente",
+    "Siempre",
+    "Nunca"
+   ],
+   0,
+   "Art. 3.c LPAC.",
+   "Art. 3 LPAC",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Es interesado quien, sin haber iniciado el procedimiento, tenga:",
+   [
+    "Derechos que puedan resultar afectados por la decisión que se adopte",
+    "Un mero interés económico indirecto",
+    "Un vínculo de amistad con el solicitante"
+   ],
+   0,
+   "Art. 4.1.b LPAC.",
+   "Art. 4 LPAC",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Quien tenga intereses legítimos que puedan resultar afectados por la resolución puede personarse en el procedimiento:",
+   [
+    "Solo antes de la instrucción",
+    "Solo en fase de recurso",
+    "En tanto no haya recaído resolución definitiva"
+   ],
+   2,
+   "Art. 4.1.c LPAC.",
+   "Art. 4 LPAC",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las asociaciones y organizaciones representativas de intereses económicos y sociales son titulares de:",
+   [
+    "Derechos subjetivos individuales",
+    "Intereses legítimos colectivos en los términos que la ley reconozca",
+    "Ningún interés protegido"
+   ],
+   1,
+   "Art. 4.2 LPAC.",
+   "Art. 4 LPAC",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Si la condición de interesado deriva de una relación jurídica transmisible, el derechohabiente:",
+   [
+    "Sucede en tal condición en cualquier estado del procedimiento",
+    "Debe iniciar un procedimiento nuevo",
+    "Pierde la condición de interesado"
+   ],
+   0,
+   "Art. 4.3 LPAC.",
+   "Art. 4 LPAC",
+   "",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Para interponer recursos en nombre de otra persona:",
+   [
+    "Se presume la representación",
+    "No hace falta ninguna acreditación",
+    "Debe acreditarse la representación"
+   ],
+   2,
+   "Art. 5.3 LPAC.",
+   "Art. 5 LPAC",
+   "Pensar que se presume siempre",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Para los actos y gestiones de mero trámite, la representación:",
+   [
+    "Debe acreditarse mediante poder notarial",
+    "No es posible",
+    "Se presume"
+   ],
+   2,
+   "Art. 5.3 LPAC.",
+   "Art. 5 LPAC",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La falta o insuficiente acreditación de la representación puede subsanarse en el plazo de:",
+   [
+    "Cinco días",
+    "Quince días improrrogables",
+    "Diez días, o más si las circunstancias lo requieren"
+   ],
+   2,
+   "Art. 5.6 LPAC.",
+   "Art. 5 LPAC",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El apoderamiento apud acta se efectúa:",
+   [
+    "Solo ante notario",
+    "Mediante simple escrito sin firma",
+    "Por comparecencia personal o electrónica en la sede electrónica correspondiente"
+   ],
+   2,
+   "Art. 5.4 LPAC.",
+   "Art. 5 LPAC",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los registros electrónicos de apoderamientos deben inscribir al menos los poderes:",
+   [
+    "Específicos de cada trámite",
+    "De carácter general otorgados apud acta",
+    "Otorgados ante notario"
+   ],
+   1,
+   "Art. 6.1 LPAC.",
+   "Art. 6 LPAC",
+   "",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Está obligada a relacionarse electrónicamente con las Administraciones:",
+   [
+    "Toda persona física",
+    "Toda persona jurídica",
+    "Solo los empleados públicos"
+   ],
+   1,
+   "Art. 14.2.a LPAC.",
+   "Art. 14 LPAC",
+   "Creer que las personas físicas están obligadas",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las personas físicas pueden elegir comunicarse con las Administraciones por medios electrónicos o no, salvo que:",
+   [
+    "Superen cierta edad",
+    "Residan fuera de España",
+    "Estén obligadas a relacionarse electrónicamente"
+   ],
+   2,
+   "Art. 14.1 LPAC.",
+   "Art. 14 LPAC",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Entre los obligados al trámite electrónico NO figura:",
+   [
+    "Las entidades sin personalidad jurídica",
+    "La persona física que no ejerce actividad profesional colegiada",
+    "Los empleados públicos por razón de su condición"
+   ],
+   1,
+   "Art. 14.2 LPAC.",
+   "Art. 14 LPAC",
+   "",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las Administraciones solo exigen el uso obligatorio de firma para:",
+   [
+    "Cualquier actuación del procedimiento",
+    "Formular solicitudes, declaraciones responsables, recursos, desistir y renunciar a derechos",
+    "Aportar documentos"
+   ],
+   1,
+   "Art. 11.2 LPAC.",
+   "Art. 11 LPAC",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Con carácter general, para realizar una actuación en el procedimiento basta con:",
+   [
+    "Firmar siempre electrónicamente",
+    "Acreditar previamente la identidad por cualquiera de los medios previstos",
+    "Comparecer presencialmente"
+   ],
+   1,
+   "Art. 11.1 LPAC.",
+   "Art. 11 LPAC",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las Administraciones están obligadas a verificar la identidad de los interesados mediante:",
+   [
+    "Su domicilio fiscal",
+    "Su nombre y apellidos o denominación que conste en el DNI o documento equivalente",
+    "La huella dactilar obligatoria"
+   ],
+   1,
+   "Art. 9.1 LPAC.",
+   "Art. 9 LPAC",
+   "",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

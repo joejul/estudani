@@ -2079,6 +2079,488 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "Quienes desempeñan potestades públicas en las Administraciones deben ser:",
+   [
+    "Personal laboral",
+    "Funcionarios públicos",
+    "Personal eventual"
+   ],
+   1,
+   "Art. 9.2 TREBEP.",
+   "Art. 9 TREBEP",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La compensación del funcionario interino por incumplimiento del plazo máximo equivale a:",
+   [
+    "20 días de retribuciones fijas por año de servicio, con un máximo de doce mensualidades",
+    "30 días por año con máximo de 24 mensualidades",
+    "15 días por año sin máximo"
+   ],
+   0,
+   "Disposición adicional 17.ª TREBEP.",
+   "Art. 10 TREBEP",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El personal eventual:",
+   [
+    "Puede computar su servicio como mérito",
+    "No puede alegar su condición como mérito para acceder a la función pública",
+    "Cesa solo por resolución judicial"
+   ],
+   1,
+   "Art. 12.5 TREBEP.",
+   "Art. 12 TREBEP",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El personal directivo que es laboral está sometido a:",
+   [
+    "El convenio colectivo común",
+    "El régimen funcionarial",
+    "La relación laboral de carácter especial de alta dirección"
+   ],
+   2,
+   "Art. 13 TREBEP.",
+   "Art. 13 TREBEP",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La inamovilidad en la condición se pierde, en un funcionario de carrera, por:",
+   [
+    "Traslado forzoso",
+    "Suspensión provisional",
+    "Separación del servicio por falta muy grave"
+   ],
+   2,
+   "Art. 14.a TREBEP.",
+   "Art. 14 TREBEP",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "La promoción interna exige una antigüedad de:",
+   [
+    "Al menos dos años de servicio activo en el subgrupo inferior",
+    "Cinco años en el cuerpo",
+    "Un año en la escala"
+   ],
+   0,
+   "Art. 18 TREBEP.",
+   "Art. 18 TREBEP",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La carrera horizontal consiste en:",
+   [
+    "Progresar de grado o escalón sin cambiar de puesto de trabajo",
+    "Ascender en la estructura de puestos",
+    "Acceder a un cuerpo de otro subgrupo"
+   ],
+   0,
+   "Art. 17 TREBEP.",
+   "Art. 17 TREBEP",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las retribuciones básicas de los funcionarios se componen de:",
+   [
+    "Sueldo, destino y específico",
+    "Sueldo y trienios",
+    "Sueldo y productividad"
+   ],
+   1,
+   "Art. 23 TREBEP.",
+   "Art. 23 TREBEP",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "¿Cuántas pagas extraordinarias al año tienen los funcionarios?",
+   [
+    "Tres",
+    "Una",
+    "Dos"
+   ],
+   2,
+   "Art. 22 TREBEP.",
+   "Art. 22 TREBEP",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las Juntas de Personal se constituyen en unidades electorales con un censo mínimo de:",
+   [
+    "50 funcionarios",
+    "30 funcionarios",
+    "100 funcionarios"
+   ],
+   0,
+   "Art. 39 TREBEP.",
+   "Art. 39 TREBEP",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En una unidad electoral de 40 funcionarios se eligen:",
+   [
+    "Un delegado",
+    "Tres delegados de personal",
+    "Una Junta de Personal de cinco miembros"
+   ],
+   1,
+   "Art. 39.",
+   "Art. 39 TREBEP",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Una Junta de Personal de 120 funcionarios tiene:",
+   [
+    "Nueve miembros",
+    "Cinco miembros",
+    "Trece miembros"
+   ],
+   0,
+   "50-100: 5; 101-250: 9; 251-500: 13.",
+   "Art. 39 TREBEP",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El mandato de los representantes de funcionarios es de:",
+   [
+    "Cuatro años",
+    "Dos años",
+    "Seis años"
+   ],
+   0,
+   "Art. 39.",
+   "Art. 39 TREBEP",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El permiso por fallecimiento de un familiar de primer grado en la misma localidad es de:",
+   [
+    "Cinco días hábiles",
+    "Dos días hábiles",
+    "Tres días hábiles"
+   ],
+   2,
+   "Art. 48.a TREBEP.",
+   "Art. 48 TREBEP",
+   "Confundir con distinta localidad (5)",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El permiso por fallecimiento de un familiar de segundo grado en distinta localidad es de:",
+   [
+    "Cuatro días hábiles",
+    "Dos días hábiles",
+    "Cinco días hábiles"
+   ],
+   0,
+   "Art. 48.a.",
+   "Art. 48 TREBEP",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El permiso por matrimonio o pareja de hecho dura:",
+   [
+    "Diez días",
+    "Quince días",
+    "Veinte días"
+   ],
+   1,
+   "Art. 48.l.",
+   "Art. 48 TREBEP",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los días de asuntos particulares al año son:",
+   [
+    "Seis",
+    "Tres",
+    "Nueve"
+   ],
+   0,
+   "Art. 48.k.",
+   "Art. 48 TREBEP",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El permiso por traslado de domicilio sin cambio de residencia es de:",
+   [
+    "Dos días",
+    "Un día",
+    "Tres días"
+   ],
+   1,
+   "Art. 48.b.",
+   "Art. 48 TREBEP",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El permiso por nacimiento de la madre biológica dura:",
+   [
+    "Dieciséis semanas",
+    "Veintiséis semanas",
+    "Diecinueve semanas"
+   ],
+   2,
+   "Art. 49.a.",
+   "Art. 49 TREBEP",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las semanas obligatorias e ininterrumpidas tras el parto son:",
+   [
+    "Seis",
+    "Cuatro",
+    "Ocho"
+   ],
+   0,
+   "Art. 49.a.",
+   "Art. 49 TREBEP",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El permiso parental dura como máximo:",
+   [
+    "Doce semanas retribuidas",
+    "Ocho semanas, no retribuido, hasta que el menor cumpla ocho años",
+    "Cuatro semanas hasta los tres años"
+   ],
+   1,
+   "Art. 49.g.",
+   "Art. 49 TREBEP",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las vacaciones anuales de los funcionarios son de:",
+   [
+    "Veintidós días hábiles",
+    "Treinta días naturales",
+    "Veinticinco días hábiles"
+   ],
+   0,
+   "Art. 50.",
+   "Art. 50 TREBEP",
+   "",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las vacaciones no disfrutadas por una baja pueden tomarse después hasta:",
+   [
+    "Dieciocho meses desde el final del año en que se originó la baja",
+    "Seis meses",
+    "Tres años"
+   ],
+   0,
+   "Art. 50.2.",
+   "Art. 50 TREBEP",
+   "",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El teletrabajo en las Administraciones es:",
+   [
+    "Obligatorio para los puestos administrativos",
+    "Irreversible una vez concedido",
+    "Voluntario y reversible, salvo excepciones justificadas"
+   ],
+   2,
+   "Art. 47 bis.",
+   "Art. 47 bis TREBEP",
+   "",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Las condiciones del personal directivo:",
+   [
+    "Son objeto de negociación en la Mesa General",
+    "Quedan excluidas de la negociación colectiva",
+    "Se pactan en convenio"
+   ],
+   1,
+   "Arts. 13 y 37.2.",
+   "Art. 37 TREBEP",
+   "",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Para el Estatuto, un sindicato es más representativo a nivel autonómico en las Mesas si obtiene al menos el:",
+   [
+    "15 % de los representantes",
+    "10 % de los representantes",
+    "25 % de los representantes"
+   ],
+   0,
+   "Art. 33.",
+   "Art. 33 TREBEP",
+   "",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los empleados públicos deben obedecer las órdenes de sus superiores salvo que:",
+   [
+    "Constituyan una infracción manifiesta del ordenamiento jurídico",
+    "Sean verbales",
+    "Las dé un superior no inmediato"
+   ],
+   0,
+   "Art. 54.3.",
+   "Art. 54 TREBEP",
+   "",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }
