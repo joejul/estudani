@@ -10,7 +10,12 @@
    "e2"
   ],
   [
-   "e3"
+   "e3",
+   "e9",
+   "e10",
+   "e11",
+   "e12",
+   "e13"
   ]
  ],
  "glosario": [
@@ -97,6 +102,96 @@
    "Instituto Aragonés de la Mujer",
    "Organismo autonómico que impulsa la igualdad y presta servicios a las víctimas de violencia.",
    "Ley 4/2007 Aragón"
+  ],
+  [
+   "brecha-salarial",
+   "Brecha salarial",
+   "Diferencia entre lo que cobran, de media, mujeres y hombres, expresada como porcentaje del salario masculino.",
+   "Marco conceptual II PIEEM"
+  ],
+  [
+   "conciliacion",
+   "Conciliación de la vida laboral, personal y familiar",
+   "Poder combinar el trabajo con la vida privada y familiar, de forma equilibrada entre mujeres y hombres.",
+   "Marco conceptual II PIEEM"
+  ],
+  [
+   "corresponsabilidad",
+   "Corresponsabilidad",
+   "Reparto equilibrado entre mujeres y hombres de las tareas domésticas y del cuidado de personas dependientes.",
+   "Marco conceptual II PIEEM"
+  ],
+  [
+   "datos-desagregados",
+   "Datos desagregados por sexo",
+   "Estadísticas separadas por mujeres y hombres, para ver las diferencias entre ambos y diseñar políticas que las reduzcan.",
+   "Marco conceptual II PIEEM"
+  ],
+  [
+   "diagnostico-igualdad",
+   "Diagnóstico de igualdad",
+   "Estudio de la situación de una organización respecto a la igualdad de oportunidades. Es previo a elaborar un plan de igualdad.",
+   "Art. 46 LO 3/2007"
+  ],
+  [
+   "informe-impacto-genero",
+   "Informe de impacto de género",
+   "Análisis previo de una norma, plan o contrato para comprobar cómo afectará a mujeres y a hombres.",
+   "Marco conceptual II PIEEM"
+  ],
+  [
+   "segregacion-ocupacional",
+   "Segregación horizontal y vertical",
+   "Horizontal: ocupaciones masculinizadas o feminizadas por estereotipos. Vertical: los hombres son mayoría en los puestos altos y las mujeres en los menos cualificados.",
+   "Marco conceptual II PIEEM"
+  ],
+  [
+   "lenguaje-inclusivo",
+   "Lenguaje inclusivo",
+   "Forma de comunicar que no discrimina por sexo y que hace visibles a mujeres y hombres.",
+   "Marco conceptual II PIEEM"
+  ],
+  [
+   "chantaje-sexual",
+   "Chantaje sexual (acoso de intercambio)",
+   "Tipo de acoso sexual cometido por un superior jerárquico o por quien decide sobre el empleo de la víctima.",
+   "Protocolo II PIEEM"
+  ],
+  [
+   "acoso-ambiental",
+   "Acoso ambiental",
+   "Tipo de acoso sexual: conducta que crea un entorno laboral intimidatorio, hostil o humillante para la persona acosada.",
+   "Protocolo II PIEEM"
+  ],
+  [
+   "acoso-orientacion-sexual",
+   "Acoso por orientación sexual",
+   "Comportamiento basado en la orientación sexual de una persona que atenta contra su dignidad o crea un entorno hostil o humillante.",
+   "Protocolo II PIEEM"
+  ],
+  [
+   "cedaw",
+   "CEDAW",
+   "Convención de Naciones Unidas de 1979 sobre la eliminación de todas las formas de discriminación contra la mujer. España la ratificó en 1983.",
+   "CEDAW 1979"
+  ],
+  [
+   "comision-igualdad",
+   "Comisión de Igualdad",
+   "Órgano paritario del Ayuntamiento de Zaragoza que impulsa, vigila y evalúa el Plan de Igualdad.",
+   "II PIEEM"
+  ],
+  [
+   "umi",
+   "Unidad Municipal de Igualdad (UMI)",
+   "Unidad del Ayuntamiento que incorpora la igualdad en las políticas municipales, asesora a la Comisión de Igualdad y elabora el informe anual de seguimiento.",
+   "II PIEEM"
+  ],
+  [
+   "pieem",
+   "II PIEEM",
+   "Segundo Plan de Igualdad para empleadas y empleados municipales del Ayuntamiento de Zaragoza. Aprobado el 22 de diciembre de 2023.",
+   "II PIEEM"
   ]
  ],
  "hubs": [
@@ -230,7 +325,7 @@
    "epi": "e3",
    "titulo": "Plan de Igualdad del Ayuntamiento",
    "art": "Plan de Igualdad 2023",
-   "resumen": "Datos confirmados por el examen 2025.",
+   "resumen": "Marco, antecedentes y aprobación del II Plan de Igualdad (II PIEEM).",
    "confunde": [
     "h-empleo"
    ],
@@ -253,6 +348,200 @@
     ]
    ],
    "ic": "📋"
+  },
+  {
+   "id": "h-plan-origen",
+   "epi": "e3",
+   "titulo": "Por qué existe el Plan de Igualdad",
+   "art": "Art. 45 LO 3/2007 · DA 7.ª TREBEP",
+   "resumen": "Obligación de tener plan y fechas de aprobación.",
+   "pistas": [
+    [
+     "n",
+     "Aprobado por el Gobierno de Zaragoza el 22 de diciembre de 2023"
+    ],
+    [
+     "n",
+     "Publicado en el BOPZ n.º 16 de 20 de enero de 2024"
+    ],
+    [
+     "d",
+     "Empresas de 50 o más personas trabajadoras: plan de igualdad (art. 45 LO 3/2007)"
+    ],
+    [
+     "d",
+     "Las Administraciones aprueban un plan al inicio de cada legislatura (DA 7.ª TREBEP)"
+    ],
+    [
+     "n",
+     "Aragón: más de 250 empleados, cada 4 años (art. 51 Ley 7/2018)"
+    ]
+   ],
+   "ic": "🏙️"
+  },
+  {
+   "id": "h-plan-estructura",
+   "epi": "e9",
+   "titulo": "Estructura y ámbito del II PIEEM",
+   "art": "II PIEEM",
+   "resumen": "Partes, anexos, negociación y ámbito.",
+   "pistas": [
+    [
+     "n",
+     "12 partes y 4 anexos"
+    ],
+    [
+     "q",
+     "Comisión Negociadora paritaria con CCOO, CGT, CSIF, FORZAPOL, OSTA, STAZ y UGT"
+    ],
+    [
+     "n",
+     "Vigencia de cuatro años"
+    ],
+    [
+     "t",
+     "No se aplica a los casos de acoso cometidos por la ciudadanía"
+    ]
+   ],
+   "ic": "🗂️"
+  },
+  {
+   "id": "h-plan-ejes",
+   "epi": "e10",
+   "titulo": "Diagnóstico y ejes del plan",
+   "art": "II PIEEM",
+   "resumen": "Datos del diagnóstico y los cuatro ejes.",
+   "pistas": [
+    [
+     "d",
+     "Cuatro ejes: cultura de la organización, gestión de recursos humanos, conciliación y corresponsabilidad, prevención y acoso"
+    ],
+    [
+     "n",
+     "Plantilla de 5.019 personas en 2019: 63,3 % hombres"
+    ],
+    [
+     "n",
+     "Diagnóstico de 113 páginas (Anexo IV)"
+    ],
+    [
+     "t",
+     "El personal directivo es el grupo más desequilibrado: 67 % hombres"
+    ]
+   ],
+   "ic": "📊"
+  },
+  {
+   "id": "h-plan-comision",
+   "epi": "e11",
+   "titulo": "Comisión de Igualdad y evaluación",
+   "art": "II PIEEM",
+   "resumen": "Quién ejecuta, vigila y evalúa el plan.",
+   "pistas": [
+    [
+     "q",
+     "Comisión de Igualdad paritaria entre la corporación y los sindicatos"
+    ],
+    [
+     "q",
+     "Unidad Municipal de Igualdad (UMI): asesora y elabora el informe anual"
+    ],
+    [
+     "d",
+     "Seguimiento anual y evaluación final"
+    ],
+    [
+     "d",
+     "Indicadores de resultados, de procesos y de impacto"
+    ]
+   ],
+   "ic": "🧭"
+  },
+  {
+   "id": "h-protocolo",
+   "epi": "e12",
+   "titulo": "Protocolo contra el acoso",
+   "art": "Anexo II II PIEEM",
+   "resumen": "Aprobación, compromisos y tipos de acoso.",
+   "pistas": [
+    [
+     "d",
+     "Aprobado el 24 de junio de 2016 en la Comisión de Igualdad"
+    ],
+    [
+     "d",
+     "Acoso sexual: chantaje (de intercambio) y acoso ambiental"
+    ],
+    [
+     "d",
+     "Puede ser falta muy grave"
+    ],
+    [
+     "d",
+     "Principios: sigilo, respeto, profesionalidad, objetividad, imparcialidad y celeridad"
+    ],
+    [
+     "t",
+     "El chantaje sexual es acoso sexual, no acoso por razón de sexo"
+    ]
+   ],
+   "ic": "🛡️"
+  },
+  {
+   "id": "h-ley-art10-12",
+   "epi": "e0",
+   "titulo": "Arts. 10, 12 y 13 LO 3/2007",
+   "art": "Arts. 10, 12 y 13",
+   "resumen": "Nulidad, tutela judicial y prueba.",
+   "pistas": [
+    [
+     "d",
+     "Los actos y cláusulas discriminatorios son nulos y sin efecto"
+    ],
+    [
+     "d",
+     "Cualquier persona puede pedir tutela judicial, incluso tras terminar la relación"
+    ],
+    [
+     "q",
+     "En acoso sexual y por razón de sexo solo está legitimada la persona acosada"
+    ],
+    [
+     "t",
+     "La inversión de la carga de la prueba no se aplica a los procesos penales"
+    ]
+   ],
+   "ic": "⚖️"
+  },
+  {
+   "id": "h-ley4-recursos",
+   "epi": "e2",
+   "titulo": "Centros y servicios de la Ley 4/2007",
+   "art": "Arts. 18-31 Ley 4/2007",
+   "resumen": "Recursos de protección y apoyo a las víctimas.",
+   "pistas": [
+    [
+     "n",
+     "Al menos un centro de emergencia por provincia"
+    ],
+    [
+     "n",
+     "Al menos una casa de acogida por provincia"
+    ],
+    [
+     "d",
+     "Pisos tutelados: alojamiento transitorio para ganar autonomía"
+    ],
+    [
+     "d",
+     "Puntos de encuentro: visitas con antecedentes de violencia"
+    ],
+    [
+     "q",
+     "Dispositivo de alarma: Instituto Aragonés de la Mujer, alto riesgo"
+    ]
+   ],
+   "ic": "🏠"
   }
  ],
  "esquema": [
