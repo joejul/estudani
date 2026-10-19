@@ -1,6 +1,7 @@
 {
  "mapaEpis": [
   [
+   "e3",
    "e0"
   ],
   [
@@ -94,6 +95,72 @@
    "Consorcio",
    "Entidad formada por varias Administraciones para gestionar juntas un servicio de interés común.",
    "Ley 40/2015"
+  ],
+  [
+   "rscl",
+   "Reglamento de Servicios de las Corporaciones Locales (RSCL)",
+   "Decreto de 17 de junio de 1955 que regula la policía (Título I), el fomento (Título II) y los servicios (Título III) de las Corporaciones Locales.",
+   "RSCL 1955"
+  ],
+  [
+   "actividad-coaccion",
+   "Actividad de coacción",
+   "La que obliga a los particulares a ajustar su conducta o su patrimonio al interés público. Es la actividad de policía.",
+   "Doctrina · Tema 11"
+  ],
+  [
+   "accion-fomento",
+   "Acción de fomento",
+   "Estímulo o persuasión para que los particulares actúen en interés público: subvenciones, honores, beneficios jurídicos.",
+   "Título II RSCL"
+  ],
+  [
+   "subvencion",
+   "Subvención",
+   "Entrega de dinero sin contraprestación directa, condicionada a un objetivo o actividad de utilidad pública o interés social.",
+   "Art. 2 Ley 38/2003"
+  ],
+  [
+   "licencia-operativa",
+   "Licencia simple y operativa",
+   "Simple: solo controla la actividad. Operativa: además la orienta según planes o programas.",
+   "Doctrina · Tema 11"
+  ],
+  [
+   "licencia-real-personal",
+   "Licencia real, personal y mixta",
+   "Personal: depende de las cualidades del titular. Real: de las condiciones del objeto. Mixta: de ambas.",
+   "Doctrina · Tema 11"
+  ],
+  [
+   "licencia-operacion-funcionamiento",
+   "Licencia de operación y de funcionamiento",
+   "De operación: una actuación concreta (edificar). De funcionamiento: una actividad que se prolonga (una industria).",
+   "Doctrina · Tema 11"
+  ],
+  [
+   "silencio-licencias",
+   "Silencio en licencias",
+   "Regla general: positivo. Si la licencia afecta a la vía pública o a bienes de dominio público, se entiende denegada.",
+   "Art. 9 RSCL · art. 24 LPAC"
+  ],
+  [
+   "control-posterior",
+   "Control posterior",
+   "Verificación que la Administración hace después de iniciada una actividad para comprobar que cumple la normativa.",
+   "Art. 84 LBRL"
+  ],
+  [
+   "subsistencias",
+   "Subsistencias",
+   "Abastos y consumo: asegurar el suministro de alimentos, los pesos y medidas, la normalidad de precios y la libre competencia.",
+   "Art. 1 RSCL"
+  ],
+  [
+   "memoria-justificativa",
+   "Memoria justificativa",
+   "Documento que acredita que una forma de gestión (entidad pública empresarial o sociedad mercantil) es más sostenible y eficiente. Se eleva al Pleno.",
+   "Art. 85 LBRL"
   ]
  ],
  "hubs": [
@@ -208,6 +275,140 @@
     ]
    ],
    "ic": "🎁"
+  },
+  {
+   "id": "h-tres-actividades",
+   "epi": "e3",
+   "titulo": "Tres formas de actividad",
+   "art": "RSCL",
+   "resumen": "Coacción, estímulo y prestación.",
+   "pistas": [
+    [
+     "d",
+     "Coacción: policía (Título I RSCL)"
+    ],
+    [
+     "d",
+     "Estímulo o persuasión: fomento (Título II RSCL)"
+    ],
+    [
+     "d",
+     "Prestación: servicio público (Título III RSCL)"
+    ],
+    [
+     "t",
+     "La policía previene y reprime; el fomento protege y promueve"
+    ]
+   ],
+   "ic": "🧭"
+  },
+  {
+   "id": "h-licencias",
+   "epi": "e0",
+   "titulo": "Licencias",
+   "art": "RSCL · art. 84 bis LBRL",
+   "resumen": "Concepto, clases, transmisión y procedimiento.",
+   "pistas": [
+    [
+     "d",
+     "Las licencias de obra o instalación se transmiten si se comunica por escrito"
+    ],
+    [
+     "d",
+     "Con número limitado de licencias: no son transmisibles"
+    ],
+    [
+     "n",
+     "Plazos para resolver: un mes o dos meses"
+    ],
+    [
+     "d",
+     "Silencio: denegada si es para la vía pública o bienes de dominio público"
+    ],
+    [
+     "q",
+     "Alcalde; en gran población, la Junta de Gobierno Local"
+    ]
+   ],
+   "ic": "🪪"
+  },
+  {
+   "id": "h-84-bis",
+   "epi": "e0",
+   "titulo": "La licencia como excepción",
+   "art": "Arts. 84, 84 bis y 84 ter LBRL",
+   "resumen": "Cuándo se puede exigir licencia.",
+   "pistas": [
+    [
+     "d",
+     "Regla general: el ejercicio de actividades no se somete a licencia"
+    ],
+    [
+     "d",
+     "Excepción: orden público, seguridad pública, salud pública o medio ambiente"
+    ],
+    [
+     "d",
+     "Excepción: número limitado de operadores"
+    ],
+    [
+     "d",
+     "Principios: igualdad de trato, necesidad y proporcionalidad"
+    ]
+   ],
+   "ic": "⚖️"
+  },
+  {
+   "id": "h-ooaa-epe",
+   "epi": "e1",
+   "titulo": "OOAA y EPE locales",
+   "art": "Art. 85 bis LBRL",
+   "resumen": "Régimen de los entes instrumentales locales.",
+   "pistas": [
+    [
+     "q",
+     "Los crea, modifica y suprime el Pleno"
+    ],
+    [
+     "d",
+     "Consejo rector (OA) o consejo de administración (EPE)"
+    ],
+    [
+     "d",
+     "Máximo directivo: titulado superior con más de cinco años de ejercicio"
+    ],
+    [
+     "d",
+     "Estatutos aprobados y publicados antes de funcionar"
+    ]
+   ],
+   "ic": "🏢"
+  },
+  {
+   "id": "h-subvenciones",
+   "epi": "e2",
+   "titulo": "Subvenciones",
+   "art": "Ley 38/2003 · art. 26 RSCL",
+   "resumen": "Concepto, exclusiones y normas de otorgamiento.",
+   "pistas": [
+    [
+     "d",
+     "Entrega sin contraprestación directa"
+    ],
+    [
+     "d",
+     "Los premios sin solicitud previa quedan fuera de la ley"
+    ],
+    [
+     "n",
+     "No pueden exceder del 50 % del coste de la actividad"
+    ],
+    [
+     "d",
+     "Voluntarias y eventuales; revocables y no invocables como precedente"
+    ]
+   ],
+   "ic": "💶"
   }
  ],
  "esquema": [

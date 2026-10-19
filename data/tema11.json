@@ -5,6 +5,70 @@
  "verificado": "2026-10-04",
  "epigrafes": [
   {
+   "id": "e3",
+   "titulo": "Tres formas de actividad de las Entidades Locales",
+   "subtitulo": "Coacción, estímulo y prestación",
+   "clave": [
+    "Coacción: policía",
+    "Estímulo o persuasión: fomento",
+    "Prestación: servicio público"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Para lograr sus fines, las Administraciones Locales desarrollan una actividad que intervine en la de los particulares. La doctrina clásica (Garrido Falla) las sistematiza en tres tipos, con su base en el **Reglamento de Servicios de las Corporaciones Locales de 1955 (RSCL)**:"
+    ],
+    [
+     "tabla",
+     [
+      "Tipo",
+      "En qué consiste",
+      "Nombre habitual",
+      "RSCL"
+     ],
+     [
+      [
+       "**Coacción**",
+       "La Administración consigue que los particulares **ajusten obligatoriamente su conducta o su patrimonio** al interés público, incluso bajo amenaza de coacción.",
+       "**Policía**",
+       "Título I"
+      ],
+      [
+       "**Estímulo o persuasión**",
+       "En vez de obligar, la Administración **estimula o persuade** al particular para que actúe como conviene al interés público.",
+       "**Fomento** («acción de fomento»)",
+       "Título II"
+      ],
+      [
+       "**Prestación**",
+       "La propia Administración, o una persona por delegación suya, **presta** lo necesario para satisfacer las necesidades públicas.",
+       "**Servicio público**",
+       "Título III"
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **policía previene y reprime** (coacción); el **fomento protege y promueve** (estímulo); el **servicio público** presta directamente."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué tres tipos de actividad distingue la doctrina para los Entes Locales?",
+     "Coacción (policía), estímulo o persuasión (fomento) y prestación (servicio público)."
+    ],
+    [
+     "¿Qué título del RSCL regula la acción de fomento?",
+     "El Título II."
+    ]
+   ],
+   "esquema": [
+    "Policía = coacción (RSCL I) · Fomento = estímulo (RSCL II) · Servicio público = prestación (RSCL III)"
+   ],
+   "ic": "🧭",
+   "articulos": []
+  },
+  {
    "id": "e0",
    "titulo": "La actividad de policía (intervención)",
    "subtitulo": "Arts. 84 a 84 ter LBRL y arts. 193-198 Ley 7/1999",
@@ -13,7 +77,10 @@
     "Licencia previa",
     "Comunicación previa y declaración responsable",
     "Control posterior",
-    "Órdenes individuales"
+    "Órdenes individuales",
+    "84 bis: la licencia es la excepción",
+    "Licencia: Alcalde (JGL en gran población)",
+    "Licencias de número limitado: no transmisibles"
    ],
    "bloques": [
     [
@@ -62,6 +129,99 @@
     [
      "trampa",
      "Las ordenanzas pueden **adaptar** infracciones y sanciones, pero **nunca crear nuevas** infracciones o sanciones donde la ley sectorial no las prevé (art. 197.1 Ley 7/1999)."
+    ],
+    [
+     "h",
+     "Concepto y fundamento de la policía"
+    ],
+    [
+     "lista",
+     [
+      "**Concepto:** el conjunto de **medidas coactivas** que la Administración puede usar para que el particular **ajuste su actividad a un fin de utilidad pública**. Su nota característica es la **coactividad**.",
+      "**Fundamento:** la situación general de **supremacía** de la Administración, de la que deriva la **sumisión** de los administrados.",
+      "**Cuándo se interviene (art. 1 RSCL):** por **perturbación o peligro** para el orden público; en **subsistencias** (abastos, pesos y medidas, precios y libre competencia); en **urbanismo** (cumplimiento de los planes); y en los demás casos autorizados por la ley."
+     ]
+    ],
+    [
+     "h",
+     "Competencias municipales que justifican la intervención (art. 25 LBRL)"
+    ],
+    [
+     "lista",
+     [
+      "**Policía local, protección civil, prevención y extinción de incendios**, **tráfico, estacionamiento y movilidad**, transporte colectivo urbano y protección de la **salubridad pública**.",
+      "**Ferias, abastos, mercados, lonjas y comercio ambulante.**",
+      "**Urbanismo**: planeamiento, gestión, ejecución y disciplina; promoción y gestión de vivienda de protección pública; conservación y rehabilitación de la edificación; infraestructura viaria.",
+      "**Medio ambiente urbano**: parques y jardines, residuos sólidos urbanos, protección contra la contaminación acústica, lumínica y atmosférica, abastecimiento de agua potable y evacuación y tratamiento de aguas residuales.",
+      "**Igualdad y violencia de género** (letra o, añadida por el Real Decreto-ley 9/2018)."
+     ]
+    ],
+    [
+     "h",
+     "Principios y límites de la intervención (art. 84 LBRL)"
+    ],
+    [
+     "lista",
+     [
+      "Se interviene mediante **ordenanzas y bandos**, **licencia** y otros controles preventivos, **comunicación previa o declaración responsable**, **control posterior** y **órdenes individuales**.",
+      "La intervención se ajusta a los principios de **igualdad de trato, necesidad y proporcionalidad**.",
+      "Las licencias o autorizaciones de **otras Administraciones no eximen** de obtener las **licencias locales** (respetando las leyes sectoriales).",
+      "**Art. 84 bis:** regla general: el ejercicio de actividades **no se somete a licencia**. Solo se puede exigir licencia en actividades económicas cuando lo justifique el **orden público, la seguridad pública, la salud pública o la protección del medio ambiente** (y no baste una declaración responsable o comunicación) o cuando el **número de operadores sea limitado** (escasez de recursos naturales, uso del dominio público, impedimentos técnicos o servicios con tarifas reguladas). Las **instalaciones** solo se someten a autorización si lo establece una **ley** con requisitos esenciales y generan riesgo para la seguridad, la salud o el medio ambiente.",
+      "**Art. 84 ter:** si la actividad no precisa autorización previa, las Entidades Locales establecen y planifican los **procedimientos de comunicación** y de **verificación posterior**."
+     ]
+    ],
+    [
+     "h",
+     "Las licencias"
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Contenido"
+     ],
+     [
+      [
+       "**Concepto**",
+       "Acto de la Administración por el que **consiente** a un particular el **ejercicio de una actividad** inicialmente prohibida o de un derecho preexistente que no puede ejercerse sin permiso, tras comprobar que se dan las circunstancias que lo justifican."
+      ],
+      [
+       "**Clases**",
+       "**Simples** (solo controlan la actividad, como las licencias de armas) y **operativas** (además orientan la actividad, como las de establecimientos peligrosos); **por operación** (una actuación concreta, como edificar) y **de funcionamiento** (una actividad indefinida, como una industria); **regladas** y **discrecionales**; **personales** (cualidades del titular), **reales** (condiciones del objeto, como una licencia de obras) y **mixtas**."
+      ],
+      [
+       "**Actos sometidos**",
+       "En **urbanismo**: parcelaciones, movimientos de tierra, obras de nueva planta o modificación, demoliciones, carteles visibles desde la vía pública, etc.; también en terrenos de dominio público (sin perjuicio de autorizaciones o concesiones del titular). En **otras materias**: la **apertura de establecimientos** industriales y mercantiles (art. 22 RSCL)."
+      ],
+      [
+       "**Transmisibilidad (art. 13 RSCL)**",
+       "Las de **obra, instalación o servicio** son **transmisibles** si el anterior y el nuevo titular lo **comunican por escrito**; las **personales** y las de **bienes de dominio público**, según se prevea al otorgarlas; **no** se transmiten si el **número de licencias es limitado**."
+      ],
+      [
+       "**Efectos (arts. 10 y 12 RSCL)**",
+       "Se otorgan **salvo el derecho de propiedad y sin perjuicio del de terceros**; **no excluyen ni disminuyen la responsabilidad civil o penal** del titular."
+      ],
+      [
+       "**Extinción**",
+       "Por **cumplimiento del plazo**, **incumplimiento de las condiciones**, **cambio de circunstancias** o **errónea otorgación y nuevos criterios**, casos en los que la Administración **indemniza**."
+      ],
+      [
+       "**Procedimiento (art. 9 RSCL)**",
+       "Se presenta en el **Registro General**; en **5 días** se remiten duplicados a los organismos que deben informar, que emiten informe **10 días antes** de que acabe el plazo; las deficiencias subsanables se notifican y se dan **15 días**. Plazos para resolver: **un mes** (licencias personales, parcelaciones con plan aprobado, obras e instalaciones menores, pequeños establecimientos) y **dos meses** (nueva construcción o reforma de edificios e industrias, grandes establecimientos…)."
+      ],
+      [
+       "**Silencio (RSCL y art. 24 LPAC)**",
+       "La regla general es el **silencio positivo**; pero si la licencia es para actividades en la **vía pública o en bienes de dominio público o patrimoniales**, se entiende **denegada**. Nunca se adquieren licencias por silencio contrarias a la ley o al planeamiento."
+      ],
+      [
+       "**Competencia**",
+       "El **Alcalde**, salvo que la ley sectorial la atribuya al Pleno o a la Junta de Gobierno Local; en **gran población**, la **Junta de Gobierno Local** (art. 127.1.e LBRL). Los documentos los expide el **Secretario**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Las **licencias** de obra, instalación o servicio **se transmiten comunicándolo por escrito**; si el número de licencias está **limitado**, **no son transmisibles**. El **Alcalde** otorga las licencias; en **gran población**, la **Junta de Gobierno Local**."
     ]
    ],
    "flash": [
@@ -72,6 +232,22 @@
     [
      "¿Pueden las ordenanzas crear nuevas infracciones?",
      "No: solo complementar y adaptar el sistema de las leyes sectoriales (197.1 Ley 7/1999)."
+    ],
+    [
+     "¿Qué principios debe respetar la intervención de las Entidades Locales (art. 84.2 LBRL)?",
+     "Igualdad de trato, necesidad y proporcionalidad."
+    ],
+    [
+     "¿Quién concede las licencias en un municipio de gran población?",
+     "La Junta de Gobierno Local (art. 127.1.e LBRL)."
+    ],
+    [
+     "¿Cuándo pierde efecto una licencia?",
+     "Por cumplimiento del plazo, incumplimiento de las condiciones, cambio de circunstancias o errónea otorgación y nuevos criterios (con indemnización)."
+    ],
+    [
+     "¿Qué ocurre por silencio con la licencia para actividades en la vía pública o en bienes de dominio público?",
+     "Se entiende denegada."
     ]
    ],
    "esquema": [
@@ -208,6 +384,41 @@
     [
      "trampa",
      "**La concesión no es gestión directa** (examen 2025, pregunta 2). Organismo autónomo, entidad pública empresarial y sociedad mercantil pública **sí** lo son."
+    ],
+    [
+     "h",
+     "El servicio público local: concepto y regla de gestión"
+    ],
+    [
+     "p",
+     "Mediante el servicio público, la propia Administración, **por sí o a través de otra persona**, satisface directamente la necesidad pública. Para escoger la forma de gestión directa mediante **entidad pública empresarial** o **sociedad mercantil local** hay que acreditar, con una **memoria justificativa** elevada al **Pleno**, que son **más sostenibles y eficientes** que la gestión por la propia Entidad o un organismo autónomo (rentabilidad económica y recuperación de la inversión). Se incluyen informes sobre el coste y el **informe del Interventor** sobre la **sostenibilidad financiera** (art. 4 LO 2/2012)."
+    ],
+    [
+     "h",
+     "Organismos autónomos y entidades públicas empresariales locales (art. 85 bis)"
+    ],
+    [
+     "lista",
+     [
+      "Se rigen por la **Ley 40/2015** (arts. 98 a 102 para los organismos autónomos y 103 a 108 para las entidades públicas empresariales), con **especialidades locales**.",
+      "Su **creación, modificación, refundición y supresión** corresponde al **Pleno**, que aprueba sus **estatutos**. Quedan **adscritos** a una Concejalía, Área u órgano equivalente.",
+      "El titular del **máximo órgano de dirección** debe ser un **funcionario de carrera o laboral** de las Administraciones públicas o un **profesional del sector privado**, titulado superior en ambos casos y con **más de cinco años** de ejercicio profesional en el sector.",
+      "Los **organismos autónomos** tienen un **consejo rector** y las **entidades públicas empresariales** un **consejo de administración**; su **secretario** es un funcionario público con titulación superior que ejerce la fe pública y el asesoramiento legal.",
+      "Están sometidos a **controles específicos** (gastos de personal, eficacia); su **inventario** se remite anualmente a la Concejalía; para **contratos de cuantía superior** a la fijada se necesita **autorización** del área a la que están adscritos.",
+      "Los **estatutos** deben aprobarse y **publicarse antes** de que el organismo funcione. Contienen los máximos órganos de dirección, las funciones y potestades, el patrimonio y recursos económicos y el régimen de personal, patrimonio, contratación, presupuesto y control."
+     ]
+    ],
+    [
+     "h",
+     "Gestión indirecta"
+    ],
+    [
+     "p",
+     "Se realiza mediante las **formas de contratación** de la **LCSP** (en la actualidad, sobre todo la **concesión de servicios**; el art. 12 LCSP califica los contratos). Hay que tener en cuenta el **art. 9 TREBEP**: las funciones que implican ejercicio de **autoridad** solo pueden ejercerlas **funcionarios públicos**."
+    ],
+    [
+     "trampa",
+     "Los **organismos autónomos** y las **entidades públicas empresariales** los crea el **Pleno**; su máximo directivo debe ser **titulado superior con más de cinco años** de ejercicio. La **concesión** es **gestión indirecta**."
     ]
    ],
    "flash": [
@@ -218,6 +429,14 @@
     [
      "¿Cuándo es indirecta la gestión de un servicio?",
      "Cuando se utilizan las formas del contrato de gestión de servicios públicos, como la concesión (85.2.B)."
+    ],
+    [
+     "¿Quién crea un organismo autónomo local y aprueba sus estatutos?",
+     "El Pleno de la entidad local."
+    ],
+    [
+     "¿Qué debe acompañar a la decisión de gestionar un servicio mediante entidad pública empresarial o sociedad mercantil local?",
+     "Una memoria justificativa de sostenibilidad y eficiencia, con informes de coste y del Interventor sobre sostenibilidad financiera."
     ]
    ],
    "esquema": [
@@ -327,6 +546,48 @@
     [
      "trampa",
      "Los destinatarios incluyen **entidades públicas o privadas Y los particulares** (examen 2025, pregunta 45): si una opción omite a los particulares, es incompleta."
+    ],
+    [
+     "h",
+     "Concepto y medios de fomento"
+    ],
+    [
+     "p",
+     "El **fomento** es la acción de la Administración encaminada a **proteger o promover** actividades, establecimientos o riquezas de los particulares que **satisfacen necesidades públicas** o se estiman de **utilidad general**, **sin usar la coacción ni crear servicios públicos** (Jordana de Pozas)."
+    ],
+    [
+     "tabla",
+     [
+      "Clasificación",
+      "Medios"
+     ],
+     [
+      [
+       "**Según su efecto**",
+       "**Positivos** (conceden ventajas, como una desgravación fiscal) y **negativos** (imponen cargas para dificultar actividades opuestas, como «quien contamina paga»)."
+      ],
+      [
+       "**Según la ventaja**",
+       "**Honoríficos** (distinciones, títulos, diplomas), **económicos** (subvenciones, desgravaciones, prestación de cosas) y **jurídicos** (privilegios, como la dispensa de normas prohibitivas)."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Subvenciones"
+    ],
+    [
+     "lista",
+     [
+      "El **RSCL** (Título II) las considera la principal acción de fomento, y la **Ley 38/2003, de 17 de noviembre, General de Subvenciones** las define (art. 2): disposición **dineraria** a favor de personas públicas o privadas que cumpla tres requisitos: **a)** entrega **sin contraprestación directa** de los beneficiarios; **b)** sujeta al cumplimiento de un **objetivo, proyecto, actividad o comportamiento**, con obligación de justificar; **c)** que el proyecto tenga por objeto el **fomento de una actividad de utilidad pública o interés social** o de promoción de una finalidad pública.",
+      "**No son subvenciones** (art. 2): entre otras, las prestaciones contributivas y no contributivas de la Seguridad Social, las pensiones asistenciales por ancianidad a españoles no residentes, las prestaciones de clases pasivas, las del **Fondo de Garantía Salarial**, los **beneficios fiscales y en la cotización**, el **crédito oficial** (salvo que se subvencionen intereses) y ciertas ayudas a víctimas.",
+      "**Exclusiones (art. 4):** los **premios** otorgados **sin previa solicitud**, las subvenciones de la **Ley Orgánica del Régimen Electoral General**, de **financiación de partidos políticos** (hoy LO 8/2007) y las de los **grupos parlamentarios** y los **grupos políticos de las corporaciones locales**.",
+      "**Normas de otorgamiento (art. 26 RSCL):** son **voluntarias y eventuales**; la Corporación puede **revocarlas o reducirlas** en cualquier momento (salvo cláusula en contrario); **no son invocables como precedente**; **no pueden exceder del 50 %** del coste de la actividad; no se puede exigir **aumento o revisión**. La Corporación comprueba que se invierten en sus fines."
+     ]
+    ],
+    [
+     "trampa",
+     "La subvención local **no puede pasar del 50 % del coste** de la actividad (RSCL). Los **premios sin solicitud previa** quedan **fuera** de la Ley General de Subvenciones."
     ]
    ],
    "flash": [
@@ -337,6 +598,18 @@
     [
      "¿Qué principios rigen el fomento (art. 225)?",
      "Publicidad, objetividad, libre concurrencia e igualdad, libre competencia y legalidad presupuestaria."
+    ],
+    [
+     "¿Qué porcentaje máximo del coste de la actividad puede cubrir una subvención local según el RSCL?",
+     "El 50 %."
+    ],
+    [
+     "¿Qué tres requisitos tiene la subvención según la Ley 38/2003?",
+     "Entrega sin contraprestación directa, sujeta a un objetivo o actividad con obligación de justificar, y orientada al fomento de una actividad de utilidad pública o interés social."
+    ],
+    [
+     "¿Qué premios están excluidos de la Ley General de Subvenciones?",
+     "Los que se otorgan sin previa solicitud del beneficiario."
     ]
    ],
    "esquema": [
@@ -401,6 +674,23 @@
         "titulo": "Órdenes individuales"
        }
       ]
+     },
+     {
+      "titulo": "Licencias",
+      "hijos": [
+       {
+        "titulo": "Concepto y clases (simples/operativas, reglada/discrecional, personal/real)"
+       },
+       {
+        "titulo": "Transmisibilidad · efectos · extinción"
+       },
+       {
+        "titulo": "Plazos: 1 mes y 2 meses · silencio"
+       },
+       {
+        "titulo": "Competencia: Alcalde · JGL en gran población"
+       }
+      ]
      }
     ]
    },
@@ -437,6 +727,20 @@
         "titulo": "Aprueba el Pleno"
        }
       ]
+     },
+     {
+      "titulo": "OOAA y EPE locales",
+      "hijos": [
+       {
+        "titulo": "Los crea el Pleno y aprueba estatutos"
+       },
+       {
+        "titulo": "Directivo: titulado superior con más de 5 años"
+       },
+       {
+        "titulo": "Memoria de sostenibilidad e informe del Interventor"
+       }
+      ]
      }
     ]
    },
@@ -460,6 +764,20 @@
       "hijos": [
        {
         "titulo": "Publicidad · objetividad · concurrencia · igualdad"
+       }
+      ]
+     },
+     {
+      "titulo": "Subvenciones",
+      "hijos": [
+       {
+        "titulo": "Ley 38/2003: tres requisitos"
+       },
+       {
+        "titulo": "RSCL 26: voluntarias, revocables, máximo 50 %"
+       },
+       {
+        "titulo": "Excluidos: premios sin solicitud, partidos, grupos"
        }
       ]
      }
