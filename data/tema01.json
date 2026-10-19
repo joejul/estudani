@@ -183,7 +183,8 @@
     "Aprobación 31-oct-1978",
     "Referéndum 6-dic-1978",
     "Sanción 27-dic-1978",
-    "BOE y vigor 29-dic-1978"
+    "BOE y vigor 29-dic-1978",
+    "Ley para la Reforma Política (4-ene-1977)"
    ],
    "bloques": [
     {
@@ -238,7 +239,19 @@
     {
      "t": "ejemplo",
      "x": "Piensa en una ley como un contrato: primero se discute (Cortes), luego se firma (sanción), después se anuncia al público (BOE) y solo entonces obliga a todos."
-    }
+    },
+    [
+     "h",
+     "Antes de 1978: la Ley para la Reforma Política"
+    ],
+    [
+     "p",
+     "Tras la muerte de Franco, el sistema de Leyes Fundamentales ya no servía para una democracia. Se aprobó por referéndum la **Ley para la Reforma Política** (Ley 1/1977, de **4 de enero**), que abrió la puerta a un sistema con partidos políticos y elecciones libres. Las Cortes elegidas en junio de 1977 no se convocaron formalmente como «constituyentes», pero asumieron como tarea principal redactar la Constitución."
+    ],
+    [
+     "p",
+     "Dentro del Congreso, la **Comisión de Asuntos Constitucionales** designó una **Ponencia** encargada de redactar el proyecto. Después, el Congreso y el Senado lo aprobaron por separado el 31 de octubre de 1978."
+    ]
    ],
    "flash": [
     {
@@ -248,7 +261,11 @@
     {
      "q": "¿Cuándo entró en vigor y por qué ese día?",
      "a": "El 29 de diciembre de 1978, día de su publicación en el BOE, porque lo dice la disposición final."
-    }
+    },
+    [
+     "¿Qué ley abrió la vía a la democracia antes de la Constitución?",
+     "La Ley para la Reforma Política (Ley 1/1977, de 4 de enero), aprobada por referéndum."
+    ]
    ],
    "esquema": [
     "15-jun-1977: elecciones → Cortes constituyentes",
@@ -260,6 +277,95 @@
    "ic": "📅"
   },
   {
+   "id": "e6",
+   "titulo": "Caracteres y fuentes de la Constitución",
+   "subtitulo": "Cinco rasgos y de dónde se inspira",
+   "clave": [
+    "Codificada: un solo texto",
+    "Extensa y consensuada",
+    "Rígida (Título X)",
+    "Monarquía parlamentaria",
+    "Estado unitario regionalizado, no federal",
+    "Influencias: CE 1931, Bonn 1949, Italia 1947, DUDH y Convenio Europeo"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La Constitución de 1978 se describe con cinco rasgos. Conocerlos te sirve para las preguntas del tipo «¿cuál de estas afirmaciones es correcta?»."
+    ],
+    [
+     "tabla",
+     [
+      "Rasgo",
+      "Qué significa"
+     ],
+     [
+      [
+       "**Codificada**",
+       "Está recogida en **un solo texto** (por eso se dice que es una Constitución *cerrada*), a diferencia de las Leyes Fundamentales anteriores, que eran varias."
+      ],
+      [
+       "**Extensa**",
+       "Tiene 169 artículos, más que otras constituciones occidentales, que son breves y por eso más flexibles. La extensión es fruto del **consenso** entre las fuerzas políticas (se nota sobre todo en el art. 2)."
+      ],
+      [
+       "**Difícil de interpretar**",
+       "Es la contrapartida de ser extensa y consensuada. Por eso es clave el **Tribunal Constitucional**, intérprete supremo de la Constitución (art. 1 de su ley orgánica, la LO 2/1979)."
+      ],
+      [
+       "**Rígida**",
+       "No se puede cambiar con una ley ordinaria: el **Título X** exige procedimientos reforzados (arts. 167 y 168)."
+      ],
+      [
+       "**Monarquía parlamentaria**",
+       "Es la forma política del Estado (art. 1.3)."
+      ],
+      [
+       "**Estado unitario regionalizado**",
+       "No es un Estado federal: hay un solo Estado con Comunidades Autónomas que tienen autonomía (Título VIII)."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "De dónde se inspira"
+    ],
+    [
+     "lista",
+     [
+      "La **Constitución española de 1931** (9 de diciembre de 1931).",
+      "La **Ley Fundamental de Bonn** (Alemania, 1949) y la **Constitución italiana** (1947).",
+      "Textos internacionales: la **Declaración Universal de Derechos Humanos** (1948) y el **Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales** (Roma, 4 de noviembre de 1950)."
+     ]
+    ],
+    [
+     "trampa",
+     "«Rígida» no significa «difícil de aplicar»: significa que **no se reforma por el procedimiento legislativo ordinario**. Y «cerrada» no quiere decir «imposible de cambiar», sino «recogida en un solo texto»."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué significa que la Constitución es rígida?",
+     "Que no puede modificarse por los procedimientos legislativos ordinarios: el Título X regula cómo reformarla."
+    ],
+    [
+     "¿Es España un Estado federal?",
+     "No. Es un Estado unitario regionalizado: un solo Estado con Comunidades Autónomas con autonomía."
+    ],
+    [
+     "¿Qué órgano es el intérprete supremo de la Constitución?",
+     "El Tribunal Constitucional (art. 1 de la LO 2/1979)."
+    ]
+   ],
+   "esquema": [
+    "Cinco rasgos: codificada, extensa, rígida, monarquía parlamentaria, Estado unitario regionalizado",
+    "Interpreta la Constitución: el Tribunal Constitucional",
+    "Inspiración: CE de 1931, Bonn 1949, Italia 1947, DUDH y Convenio Europeo de Derechos Humanos (Roma 1950)"
+   ],
+   "ic": "📜",
+   "articulos": []
+  },
+  {
    "id": "e2",
    "titulo": "Estructura de la Constitución",
    "subtitulo": "Preámbulo, Título preliminar, diez Títulos y disposiciones",
@@ -269,7 +375,8 @@
     "10 Títulos (I-X)",
     "169 artículos",
     "4 adicionales, 9 transitorias, 1 derogatoria, 1 final",
-    "Reforma: arts. 166-169"
+    "Reforma: arts. 166-169",
+    "Preámbulo sin fuerza jurídica de obligar"
    ],
    "bloques": [
     {
@@ -382,7 +489,64 @@
     {
      "t": "trampa",
      "x": "Una reforma que toca el Título preliminar se tramita por el procedimiento agravado (art. 168). Y no se puede iniciar ninguna reforma en tiempo de guerra o de estado de alarma, excepción o sitio (art. 169)."
-    }
+    },
+    [
+     "h",
+     "Las partes de la Constitución"
+    ],
+    [
+     "lista",
+     [
+      "**Preámbulo:** declaración solemne al principio del texto.",
+      "**Parte dogmática:** los derechos y deberes (Título I).",
+      "**Parte orgánica:** las instituciones y su organización (Títulos II a VI y VIII).",
+      "**Garantías y reforma:** cómo se protege y se cambia el texto (Títulos IX y X).",
+      "**Constitución económica:** la economía y la hacienda (Título VII)."
+     ]
+    ],
+    [
+     "h",
+     "El Preámbulo"
+    ],
+    [
+     "p",
+     "No tiene **fuerza jurídica de obligar**: no es una norma que se pueda exigir. Pero tiene un gran **valor político y declarativo** y sirve para interpretar el resto del texto. En él la Nación española proclama su voluntad de: garantizar la convivencia democrática; consolidar un Estado de Derecho que asegure el imperio de la ley; proteger a todos los españoles y pueblos de España en el ejercicio de los derechos humanos, sus culturas, tradiciones, lenguas e instituciones; promover el progreso de la cultura y de la economía; establecer una sociedad democrática avanzada; y colaborar en el fortalecimiento de relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra."
+    ],
+    [
+     "trampa",
+     "El Preámbulo **no es una norma obligatoria**: es una declaración con valor político e interpretativo, sin fuerza jurídica de obligar."
+    ],
+    [
+     "h",
+     "Qué regula cada Título, con más detalle"
+    ],
+    [
+     "lista",
+     [
+      "**Título II (la Corona):** el Rey, la sucesión, la Regencia y las funciones del Rey.",
+      "**Título III (Cortes Generales):** tres capítulos: las Cámaras (Congreso y Senado), la elaboración de las leyes y los tratados internacionales.",
+      "**Título IV (Gobierno y Administración):** composición y funciones del Gobierno, su nombramiento, cese y responsabilidad.",
+      "**Título V (relaciones Gobierno–Cortes):** responsabilidad política del Gobierno, mociones, interpelaciones y preguntas, y los estados de alarma, excepción y sitio.",
+      "**Título VI (Poder Judicial):** sus funciones y su órgano de gobierno, el Consejo General del Poder Judicial.",
+      "**Título VII (Economía y Hacienda):** la llamada Constitución económica.",
+      "**Título VIII (organización territorial):** tres capítulos: principios generales, Administración local y Comunidades Autónomas (el más largo, con las competencias y los Estatutos).",
+      "**Título IX (Tribunal Constitucional):** órgano supremo en materia de garantías constitucionales e interpretación.",
+      "**Título X (reforma constitucional):** protege el texto frente a intentos de revisión simples."
+     ]
+    ],
+    [
+     "h",
+     "Las disposiciones del final del texto"
+    ],
+    [
+     "lista",
+     [
+      "**Adicionales (4):** entre otras cosas, amparan los derechos históricos de los territorios forales y su posible actualización.",
+      "**Transitorias (9):** regulan procedimientos especiales de acceso a la autonomía (por ejemplo, Navarra, Ceuta y Melilla).",
+      "**Derogatoria (1):** deja sin vigor la Ley para la Reforma Política y las Leyes Fundamentales anteriores, y toda disposición que se oponga a la Constitución.",
+      "**Final (1):** la Constitución entra en vigor el día de la publicación de su texto oficial en el BOE, y se publica también en las demás lenguas de España."
+     ]
+    ]
    ],
    "flash": [
     {
@@ -396,7 +560,15 @@
     {
      "q": "¿Qué mayoría exige la reforma ordinaria y cuál la agravada?",
      "a": "Ordinaria: 3/5 de cada Cámara (art. 167). Agravada: 2/3 de cada Cámara, disolución, nueva ratificación y referéndum obligatorio (art. 168)."
-    }
+    },
+    [
+     "¿Tiene el Preámbulo fuerza jurídica de obligar?",
+     "No: es una declaración solemne con valor político e interpretativo."
+    ],
+    [
+     "¿Qué título regula el Poder Judicial, cuál la organización territorial y cuál el Tribunal Constitucional?",
+     "Poder Judicial: Título VI. Organización territorial: Título VIII. Tribunal Constitucional: Título IX."
+    ]
    ],
    "esquema": [
     "Preámbulo + Título preliminar + Títulos I-X",
@@ -443,6 +615,119 @@
      "No se puede reformar en guerra ni en estados excepcionales",
      "**No puede iniciarse** la reforma constitucional **en tiempo de guerra** o durante alguno de los **estados del art. 116** (alarma, excepción y sitio).",
      "¿Cuándo no puede iniciarse una reforma constitucional?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e8",
+   "titulo": "Las reformas de la Constitución (1992, 2011, 2024 y 2026)",
+   "subtitulo": "Qué artículos se han cambiado y por qué",
+   "clave": [
+    "Cuatro reformas hasta hoy",
+    "1992: art. 13.2 (sufragio pasivo)",
+    "2011: art. 135 (estabilidad presupuestaria)",
+    "2024: art. 49 (personas con discapacidad)",
+    "2026: art. 69.3 (Senado: Ibiza y Formentera)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La Constitución se ha reformado **cuatro veces**. En todos los casos se tocaron artículos concretos y **ninguna parte especialmente protegida** (Título preliminar, Sección 1.ª del Capítulo II del Título I y Título II), así que se aplica el procedimiento ordinario del art. 167."
+    ],
+    [
+     "tabla",
+     [
+      "Año (BOE)",
+      "Artículo",
+      "Qué cambió"
+     ],
+     [
+      [
+       "**1992** (28-ago-1992)",
+       "13.2",
+       "Se añadió el sufragio **pasivo** (poder ser elegido) para los extranjeros en las elecciones municipales, por reciprocidad. Se hizo para poder ratificar el Tratado de Maastricht."
+      ],
+      [
+       "**2011** (27-sep-2011)",
+       "135",
+       "Se fijó el principio de **estabilidad presupuestaria**: límite al déficit estructural y a la deuda pública, y prioridad absoluta del pago de la deuda."
+      ],
+      [
+       "**2024** (17-feb-2024)",
+       "49",
+       "Se sustituyó la antigua referencia a los «disminuidos» por las **personas con discapacidad**: derechos en condiciones de libertad e igualdad reales, autonomía personal e inclusión social."
+      ],
+      [
+       "**2026** (20-may-2026)",
+       "69.3",
+       "En las elecciones al Senado, **Ibiza y Formentera dejan de ir agrupadas**: cada isla pasa a ser circunscripción y elige su propio senador."
+      ]
+     ]
+    ],
+    [
+     "key",
+     "Reformas: **1992** (art. 13.2) · **2011** (art. 135) · **2024** (art. 49) · **2026** (art. 69.3). Ninguna toca el Título preliminar."
+    ],
+    [
+     "trampa",
+     "Con una reforma ordinaria (art. 167) hacen falta **3/5 de cada Cámara** y solo hay referéndum si lo pide **1/10** de los miembros de una Cámara en 15 días. El procedimiento agravado del art. 168 se reserva a las partes protegidas."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué artículo se reformó en 2011 y para qué?",
+     "El art. 135, para fijar el principio de estabilidad presupuestaria (límites al déficit y a la deuda)."
+    ],
+    [
+     "¿Qué se reformó en 1992?",
+     "El art. 13.2: se añadió el sufragio pasivo de los extranjeros en elecciones municipales."
+    ],
+    [
+     "¿Qué cambió en el art. 49 en 2024?",
+     "Pasa a hablar de «personas con discapacidad» y de sus derechos en igualdad real y efectiva."
+    ],
+    [
+     "¿Qué cambió en 2026 en el art. 69.3?",
+     "Ibiza y Formentera eligen senadores por separado (cada isla es una circunscripción)."
+    ]
+   ],
+   "esquema": [
+    "1992 · art. 13.2 · sufragio pasivo en municipales",
+    "2011 · art. 135 · estabilidad presupuestaria",
+    "2024 · art. 49 · personas con discapacidad",
+    "2026 · art. 69.3 · Senado: Ibiza y Formentera por separado"
+   ],
+   "ic": "🛠️",
+   "articulos": [
+    [
+     "ce",
+     "49",
+     "Derechos de las personas con discapacidad (reformado en 2024)",
+     "Desde 2024 el artículo habla de **personas con discapacidad**: ejercen sus derechos con libertad e igualdad reales y los poderes públicos impulsan su autonomía e inclusión.",
+     "¿Qué reforma del año 2024 afectó al art. 49 de la Constitución?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "135",
+     "Estabilidad presupuestaria (reformado en 2011)",
+     "Obliga a todas las Administraciones a **no gastar más de lo que permiten los límites**: el déficit estructural y la deuda tienen techo, y pagar la deuda es la prioridad. Las entidades locales deben presentar **equilibrio presupuestario**.",
+     "¿Qué deben presentar las Entidades Locales según el art. 135.2?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "69",
+     "El Senado (reformado en 2026)",
+     "El Senado es la **Cámara de representación territorial**: 4 senadores por provincia, más los que designan las Comunidades Autónomas. En 2026 se reformó el apartado 3 sobre las islas.",
+     "¿Quién designa los senadores adicionales de cada Comunidad Autónoma?",
      {
       "add": 1
      }
@@ -563,7 +848,78 @@
     {
      "t": "trampa",
      "x": "Aquí caen muchos opositores: (a) la soberanía reside en el pueblo, no en las Cortes ni en la Nación; (b) la irretroactividad no es para todas las normas; (c) la «proporcionalidad» NO aparece en el art. 9.3; (d) la lengua oficial de otras CCAA depende de sus Estatutos, no de una ley estatal."
-    }
+    },
+    [
+     "h",
+     "Qué significa «Estado social y democrático de Derecho»"
+    ],
+    [
+     "tabla",
+     [
+      "Parte",
+      "Qué implica",
+      "Dónde se ve"
+     ],
+     [
+      [
+       "**De Derecho**",
+       "Imperio de la ley, división de poderes, legalidad de la Administración y reconocimiento de derechos y libertades.",
+       "Arts. 9.3 y 103.1 (legalidad); 66.2, 97 y 117.1 (los tres poderes); Título I (derechos)"
+      ],
+      [
+       "**Social**",
+       "Igualdad real y derechos económicos y sociales; la economía se regula en el Título VII.",
+       "Arts. 9.2 y 14; Capítulo III del Título I; Título VII"
+      ],
+      [
+       "**Democrático**",
+       "Soberanía del pueblo, pluralismo político y social y participación de los ciudadanos.",
+       "Arts. 1.2, 66.1 y 117 (soberanía); 6 y 7 (pluralismo); 23.1, 29, 87.3, 92, 105, 125, 167 y 168 (participación)"
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Dónde se concretan los valores superiores"
+    ],
+    [
+     "lista",
+     [
+      "**Libertad:** Título I (derechos y deberes fundamentales). El art. 10.1 los presenta como fundamento del orden político y de la paz social.",
+      "**Justicia:** Título VI (Poder Judicial) y Título IX (Tribunal Constitucional).",
+      "**Igualdad:** arts. 9.2 y 14.",
+      "**Pluralismo político:** arts. 6 y 7."
+     ]
+    ],
+    [
+     "p",
+     "El **art. 2** recoge la transacción más debatida del texto (unidad de la Nación + autonomía de nacionalidades y regiones + solidaridad). Se desarrolla en el **Título VIII**."
+    ],
+    [
+     "h",
+     "Leyes que desarrollan algunos de estos artículos"
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Normas relacionadas"
+     ],
+     [
+      [
+       "3 (lenguas)",
+       "Carta Europea de las Lenguas Regionales o Minoritarias (1992). El RD 905/2007 creó el Consejo de las Lenguas Oficiales en la Administración General del Estado y la Oficina para las Lenguas Oficiales."
+      ],
+      [
+       "6 (partidos)",
+       "LO 6/2002 de Partidos Políticos y LO 8/2007 sobre financiación de los partidos (ambas modificadas por la LO 3/2015)."
+      ],
+      [
+       "8 (Fuerzas Armadas)",
+       "LO 5/2005 de la Defensa Nacional, LO 9/2011 de derechos y deberes de los miembros de las Fuerzas Armadas, LO 8/2014 de Régimen Disciplinario, LO 14/2015 del Código Penal Militar y Ley 17/1999 de régimen del personal."
+      ]
+     ]
+    ]
    ],
    "flash": [
     {
@@ -581,7 +937,15 @@
     {
      "q": "¿Qué dice el art. 9.2 que no dice el 9.3?",
      "a": "Obliga a los poderes públicos a promover la igualdad y la libertad reales y efectivas, remover obstáculos y facilitar la participación."
-    }
+    },
+    [
+     "¿En qué artículos se concretan los valores «igualdad» y «pluralismo político»?",
+     "Igualdad: arts. 9.2 y 14. Pluralismo político: arts. 6 y 7."
+    ],
+    [
+     "¿Qué ley orgánica regula los partidos políticos?",
+     "La LO 6/2002, de Partidos Políticos."
+    ]
    ],
    "esquema": [
     "Art. 1: Estado social y democrático de Derecho · LJIP · soberanía en el pueblo · Monarquía parlamentaria",
@@ -655,6 +1019,191 @@
      "Sujeción a la Constitución y principios garantizados",
      "**(1)** Ciudadanos y poderes públicos están **sujetos a la Constitución y al ordenamiento jurídico**. **(2)** Los poderes públicos **promueven** que libertad e igualdad sean **reales y efectivas**, **remueven obstáculos** y **facilitan la participación**. **(3)** La Constitución garantiza siete principios: **legalidad, jerarquía normativa, publicidad de las normas, irretroactividad** de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, **seguridad jurídica, responsabilidad** e **interdicción de la arbitrariedad**.",
      "¿Cuáles son los siete principios que garantiza el art. 9.3?"
+    ]
+   ]
+  },
+  {
+   "id": "e7",
+   "titulo": "Título I: derechos y deberes fundamentales (arts. 10 a 13)",
+   "subtitulo": "Estructura del Título I, art. 10, nacionalidad, mayoría de edad y extranjeros",
+   "clave": [
+    "Título I: arts. 10 a 55 en cinco capítulos",
+    "Art. 10: dignidad y fundamento del orden político",
+    "Derechos interpretados según la DUDH y los tratados",
+    "Art. 11: nacionalidad",
+    "Art. 12: mayoría de edad a los 18 años",
+    "Art. 13: extranjeros, extradición y asilo"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El **Título I** (arts. 10 a 55) trata de los derechos y deberes fundamentales. Empieza con una declaración general (art. 10) y se divide en cinco capítulos."
+    ],
+    [
+     "tabla",
+     [
+      "Capítulo",
+      "Arts.",
+      "De qué trata"
+     ],
+     [
+      [
+       "I",
+       "11-13",
+       "Españoles y extranjeros"
+      ],
+      [
+       "II",
+       "14-38",
+       "Derechos y libertades: Sección 1.ª (14-29) derechos fundamentales y libertades públicas; Sección 2.ª (30-38) derechos y deberes de los ciudadanos"
+      ],
+      [
+       "III",
+       "39-52",
+       "Principios rectores de la política social y económica (los derechos sociales)"
+      ],
+      [
+       "IV",
+       "53-54",
+       "Garantías de las libertades y derechos fundamentales; Defensor del Pueblo"
+      ],
+      [
+       "V",
+       "55",
+       "Suspensión de derechos y libertades (estados de excepción y sitio)"
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Artículo 10: el punto de partida"
+    ],
+    [
+     "lista",
+     [
+      "**10.1:** la **dignidad de la persona**, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son el **fundamento del orden político y de la paz social**.",
+      "**10.2:** las normas sobre derechos fundamentales y libertades se **interpretan de acuerdo con la Declaración Universal de Derechos Humanos** y con los tratados y acuerdos internacionales sobre esas materias ratificados por España (y, tras el Tratado de Lisboa, también con la Carta de los Derechos Fundamentales de la Unión Europea)."
+     ]
+    ],
+    [
+     "h",
+     "Capítulo I: españoles y extranjeros (arts. 11 a 13)"
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Qué dice"
+     ],
+     [
+      [
+       "**11**",
+       "La **nacionalidad española** se adquiere, se conserva y se pierde según la ley. **Ningún español de origen** puede ser privado de ella. Se pueden firmar tratados de doble nacionalidad con países iberoamericanos."
+      ],
+      [
+       "**12**",
+       "Los españoles son **mayores de edad a los 18 años**."
+      ],
+      [
+       "**13.1**",
+       "Los **extranjeros** gozan de las libertades públicas del Título I **en los términos que fijen los tratados y la ley**."
+      ],
+      [
+       "**13.2**",
+       "Solo los **españoles** son titulares de los derechos del **art. 23** (participar en los asuntos públicos y acceder a cargos), salvo el **sufragio activo y pasivo en las elecciones municipales**, que por reciprocidad puede reconocerse por tratado o ley. (La reforma de 1992 añadió el sufragio *pasivo*.)"
+      ],
+      [
+       "**13.3**",
+       "La **extradición** solo se concede por tratado o por ley, atendiendo a la reciprocidad. Quedan excluidos los **delitos políticos**, pero **no los actos de terrorismo**."
+      ],
+      [
+       "**13.4**",
+       "La ley establece cómo los ciudadanos de otros países y los apátridas pueden gozar del **derecho de asilo** en España."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Leyes que desarrollan estos artículos"
+    ],
+    [
+     "lista",
+     [
+      "Extranjería: **LO 4/2000**, sobre derechos y libertades de los extranjeros en España y su integración social.",
+      "Asilo: **Ley 12/2009**, reguladora del derecho de asilo y de la protección subsidiaria.",
+      "Extradición pasiva: **Ley 4/1985**.",
+      "Nacionalidad sefardí: **Ley 12/2015** (concesión de la nacionalidad a sefardíes originarios de España)."
+     ]
+    ],
+    [
+     "trampa",
+     "En el art. 13.2 los extranjeros **no** pueden votar en cualquier elección: solo en las **municipales** y solo si un tratado o una ley lo permite atendiendo a la reciprocidad. Y la extradición excluye los delitos políticos, **no** el terrorismo."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cuántos capítulos tiene el Título I y qué artículos abarca?",
+     "Cinco capítulos; el Título I va de los arts. 10 a 55."
+    ],
+    [
+     "¿Cómo se interpretan las normas sobre derechos fundamentales (art. 10.2)?",
+     "De acuerdo con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales ratificados por España."
+    ],
+    [
+     "¿A qué edad son mayores de edad los españoles?",
+     "A los 18 años (art. 12)."
+    ],
+    [
+     "¿Pueden los extranjeros votar según el art. 13.2?",
+     "Solo en las elecciones municipales y solo si un tratado o una ley lo permite por reciprocidad."
+    ]
+   ],
+   "esquema": [
+    "Cap. I (11-13) · II (14-38) · III (39-52) · IV (53-54) · V (55)",
+    "Art. 10: dignidad como fundamento + interpretación conforme a la DUDH y a los tratados",
+    "Art. 11 nacionalidad · 12 mayoría de edad (18) · 13 extranjeros: libertades, art. 23, extradición y asilo"
+   ],
+   "ic": "🧑‍⚖️",
+   "articulos": [
+    [
+     "ce",
+     "10",
+     "Dignidad de la persona e interpretación de los derechos",
+     "El artículo pone la **dignidad de la persona** como cimiento de todo el orden político y manda **interpretar los derechos** de acuerdo con la **Declaración Universal de Derechos Humanos** y los tratados que España ha ratificado.",
+     "¿Con qué textos internacionales deben interpretarse las normas sobre derechos fundamentales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "11",
+     "La nacionalidad española",
+     "La nacionalidad se regula por **ley**. Lo importante: a un español **de origen** nunca se le puede quitar la nacionalidad, y se pueden firmar tratados de **doble nacionalidad** con países iberoamericanos.",
+     "¿Puede un español de origen ser privado de su nacionalidad?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "12",
+     "La mayoría de edad",
+     "Corto y claro: los españoles son mayores de edad a los **dieciocho años**.",
+     "¿A qué edad se alcanza la mayoría de edad en España según la Constitución?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "ce",
+     "13",
+     "Los extranjeros: libertades, extradición y asilo",
+     "Los extranjeros tienen las libertades públicas **según tratados y ley**. Los derechos del art. 23 (participación política) son solo de españoles, salvo el voto municipal por **reciprocidad**. La extradición no se concede por **delitos políticos**, pero sí por terrorismo.",
+     "¿Qué delitos quedan excluidos de la extradición y cuáles no se consideran políticos?",
+     {
+      "add": 1
+     }
     ]
    ]
   },
@@ -767,7 +1316,49 @@
     {
      "t": "trampa",
      "x": "(a) La Constitución dice descentralización **y** desconcentración: no «centralización». (b) Solo la fuerza mayor exime de indemnizar, no el caso fortuito. (c) El acceso a archivos tiene 3 excepciones: seguridad y defensa del Estado, averiguación de delitos e intimidad. (d) Consejo de Estado = asesora; Tribunal de Cuentas = fiscaliza; Defensor del Pueblo = defiende derechos."
-    }
+    },
+    [
+     "h",
+     "Los principios constitucionales de la Administración, ordenados"
+    ],
+    [
+     "tabla",
+     [
+      "Principio",
+      "Artículo",
+      "En qué consiste"
+     ],
+     [
+      [
+       "**Legalidad**",
+       "103.1",
+       "Actúa con sometimiento pleno a la ley y al Derecho."
+      ],
+      [
+       "**Transparencia**",
+       "105",
+       "Audiencia a los ciudadanos, acceso a archivos y registros y procedimiento garantizado."
+      ],
+      [
+       "**Sometimiento a los Tribunales**",
+       "106.1",
+       "Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa."
+      ],
+      [
+       "**Responsabilidad objetiva**",
+       "106.2",
+       "Indemnización por las lesiones causadas por el funcionamiento de los servicios públicos, salvo fuerza mayor."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "El Gobierno **dirige la Administración civil y militar** (art. 97) y responde de ella ante el Parlamento. Aunque la Constitución solo habla de la Administración del Estado (art. 103.2), existe una regulación mínima común para **todas** las Administraciones Públicas: la **Ley 40/2015**, de Régimen Jurídico del Sector Público."
+    ],
+    [
+     "p",
+     "La **potestad reglamentaria** es la facultad del Gobierno de dictar normas generales respetando la Constitución y las leyes; no puede regular lo que la Constitución reserva a la ley. Los Tribunales controlan que los reglamentos cumplen la ley. Además, una **ley orgánica** determinará las funciones, los principios básicos de actuación y los estatutos de las Fuerzas y Cuerpos de seguridad (art. 104.2)."
+    ]
    ],
    "flash": [
     {
@@ -789,7 +1380,11 @@
     {
      "q": "¿Qué órgano es «supremo órgano consultivo del Gobierno»?",
      "a": "El Consejo de Estado (art. 107)."
-    }
+    },
+    [
+     "¿Qué ley contiene la regulación común a todas las Administraciones Públicas?",
+     "La Ley 40/2015, de Régimen Jurídico del Sector Público."
+    ]
    ],
    "esquema": [
     "Art. 97: el Gobierno dirige la Administración civil y militar; función ejecutiva y potestad reglamentaria",
@@ -919,7 +1514,23 @@
     {
      "t": "trampa",
      "x": "(a) El art. 137 NO cita las comarcas. (b) Los alcaldes pueden ser elegidos por los concejales o por los vecinos (no «directamente por los vecinos»). (c) Cambiar límites provinciales: ley orgánica (no ley ordinaria ni decreto). (d) Art. 148 = lo que las CCAA pueden asumir; art. 149 = lo exclusivo del Estado. Urbanismo está en el 148 (¡y es el Tema 20!)."
-    }
+    },
+    [
+     "h",
+     "Tres principios del régimen local"
+    ],
+    [
+     "lista",
+     [
+      "**Autonomía** de las Corporaciones Locales para gestionar sus intereses (art. 137).",
+      "**Carácter democrático y representativo** de sus órganos de gobierno (arts. 140 y 141).",
+      "**Suficiencia de las Haciendas Locales** (art. 142)."
+     ]
+    ],
+    [
+     "p",
+     "El **Título VIII** (arts. 137 a 158) tiene tres capítulos: los **principios generales**, la **Administración local** y las **Comunidades Autónomas**."
+    ]
    ],
    "flash": [
     {
@@ -937,7 +1548,11 @@
     {
      "q": "¿De qué se nutren fundamentalmente las haciendas locales?",
      "a": "De tributos propios y de la participación en los tributos del Estado y de las CCAA (art. 142)."
-    }
+    },
+    [
+     "¿Cuáles son los tres principios constitucionales del régimen local?",
+     "Autonomía de las Corporaciones Locales, carácter democrático y representativo de sus órganos y suficiencia de las Haciendas Locales."
+    ]
    ],
    "esquema": [
     "Art. 137: municipios + provincias + CCAA · autonomía para gestionar sus intereses",
@@ -1161,6 +1776,43 @@
         "titulo": "Agravada (168): 2/3 + disolución + referéndum"
        }
       ]
+     },
+     {
+      "titulo": "Caracteres",
+      "hijos": [
+       {
+        "titulo": "Codificada (un solo texto)"
+       },
+       {
+        "titulo": "Extensa y consensuada"
+       },
+       {
+        "titulo": "Rígida (Título X)"
+       },
+       {
+        "titulo": "Monarquía parlamentaria"
+       },
+       {
+        "titulo": "Estado unitario regionalizado"
+       }
+      ]
+     },
+     {
+      "titulo": "Reformas",
+      "hijos": [
+       {
+        "titulo": "1992: art. 13.2"
+       },
+       {
+        "titulo": "2011: art. 135"
+       },
+       {
+        "titulo": "2024: art. 49"
+       },
+       {
+        "titulo": "2026: art. 69.3"
+       }
+      ]
      }
     ]
    },
@@ -1227,6 +1879,40 @@
        },
        {
         "titulo": "9.3: legalidad · jerarquía · publicidad · irretroactividad · seguridad jurídica · responsabilidad · interdicción arbitrariedad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Título I (arts. 10-13)",
+    "color": "#9b5de5",
+    "hijos": [
+     {
+      "titulo": "Capítulos I a V (10-55)"
+     },
+     {
+      "titulo": "Art. 10",
+      "hijos": [
+       {
+        "titulo": "Dignidad: fundamento del orden político"
+       },
+       {
+        "titulo": "Interpretación: DUDH y tratados"
+       }
+      ]
+     },
+     {
+      "titulo": "Arts. 11-13",
+      "hijos": [
+       {
+        "titulo": "11: nacionalidad"
+       },
+       {
+        "titulo": "12: mayoría de edad (18)"
+       },
+       {
+        "titulo": "13: extranjeros, extradición y asilo"
        }
       ]
      }

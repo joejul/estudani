@@ -697,6 +697,96 @@
     }
    ],
    "ic": "🧩"
+  },
+  {
+   "id": "h-caracteres",
+   "epi": "e6",
+   "titulo": "Caracteres de la Constitución",
+   "art": "Caracteres",
+   "resumen": "Los cinco rasgos de la CE: codificada, extensa, rígida, monarquía parlamentaria y Estado unitario regionalizado.",
+   "pistas": [
+    {
+     "k": "d",
+     "t": "Está recogida en un solo texto: es una Constitución «cerrada»"
+    },
+    {
+     "k": "d",
+     "t": "169 artículos: extensa, fruto del consenso entre las fuerzas políticas"
+    },
+    {
+     "k": "n",
+     "t": "No se reforma por la vía legislativa ordinaria: es rígida (Título X)"
+    },
+    {
+     "k": "q",
+     "t": "Intérprete supremo: el Tribunal Constitucional"
+    },
+    {
+     "k": "t",
+     "t": "Es un Estado unitario regionalizado, no federal"
+    }
+   ],
+   "ic": "📜"
+  },
+  {
+   "id": "h-titulo1",
+   "epi": "e7",
+   "titulo": "Título I · arts. 10 a 13",
+   "art": "Arts. 10-13",
+   "resumen": "Dignidad de la persona, nacionalidad, mayoría de edad y extranjeros.",
+   "pistas": [
+    {
+     "k": "d",
+     "t": "La dignidad de la persona es el fundamento del orden político y de la paz social"
+    },
+    {
+     "k": "d",
+     "t": "Los derechos se interpretan según la Declaración Universal de Derechos Humanos"
+    },
+    {
+     "k": "n",
+     "t": "Los españoles son mayores de edad a los 18 años"
+    },
+    {
+     "k": "d",
+     "t": "Ningún español de origen puede ser privado de su nacionalidad"
+    },
+    {
+     "k": "t",
+     "t": "La extradición excluye los delitos políticos, pero no los actos de terrorismo"
+    }
+   ],
+   "ic": "🧑‍⚖️"
+  },
+  {
+   "id": "h-reformas",
+   "epi": "e8",
+   "titulo": "Las reformas de la CE",
+   "art": "Reformas",
+   "resumen": "Las cuatro reformas: 1992, 2011, 2024 y 2026.",
+   "pistas": [
+    {
+     "k": "n",
+     "t": "Cuatro reformas: 1992, 2011, 2024 y 2026"
+    },
+    {
+     "k": "d",
+     "t": "Art. 135: estabilidad presupuestaria"
+    },
+    {
+     "k": "d",
+     "t": "Art. 13.2: sufragio pasivo de extranjeros en las elecciones municipales"
+    },
+    {
+     "k": "d",
+     "t": "Art. 49: personas con discapacidad"
+    },
+    {
+     "k": "d",
+     "t": "Art. 69.3: Ibiza y Formentera eligen senadores por separado"
+    }
+   ],
+   "ic": "🛠️"
   }
  ],
  "preguntas": {
@@ -992,10 +1082,15 @@
  "mapaEpis": [
   [
    "e1",
-   "e2"
+   "e6",
+   "e2",
+   "e8"
   ],
   [
    "e3"
+  ],
+  [
+   "e7"
   ],
   [
    "e4"
@@ -1445,6 +1540,78 @@
    "Tribunal de Cuentas",
    "Órgano que controla las cuentas y la gestión económica del Estado y del sector público.",
    "Art. 136 CE"
+  ],
+  [
+   "preambulo",
+   "Preámbulo",
+   "Texto introductorio de la Constitución. Declara los fines y valores del texto, pero no tiene fuerza jurídica de obligar; sirve para interpretarlo.",
+   "Preámbulo CE"
+  ],
+  [
+   "constitucion-rigida",
+   "Constitución rígida",
+   "La que no se puede reformar con el procedimiento legislativo ordinario, sino con otro más exigente. La española es rígida (Título X).",
+   "Arts. 166 a 169 CE"
+  ],
+  [
+   "estado-unitario-regionalizado",
+   "Estado unitario regionalizado",
+   "Un solo Estado, pero con Comunidades Autónomas que tienen autonomía política. No es un Estado federal.",
+   "Título VIII CE"
+  ],
+  [
+   "ley-reforma-politica",
+   "Ley para la Reforma Política",
+   "Ley 1/1977, de 4 de enero, aprobada por referéndum, que abrió el paso de las Leyes Fundamentales del régimen anterior a un sistema democrático.",
+   "Ley 1/1977"
+  ],
+  [
+   "dudh",
+   "Declaración Universal de Derechos Humanos",
+   "Texto de Naciones Unidas de 1948. La Constitución obliga a interpretar los derechos fundamentales de acuerdo con ella.",
+   "Art. 10.2 CE"
+  ],
+  [
+   "nacionalidad",
+   "Nacionalidad",
+   "Vínculo jurídico de una persona con un Estado. En España se adquiere, se conserva y se pierde según la ley, y a un español de origen no se le puede quitar.",
+   "Art. 11 CE"
+  ],
+  [
+   "mayoria-edad",
+   "Mayoría de edad",
+   "Edad a partir de la cual una persona puede actuar por sí misma. En España son los 18 años.",
+   "Art. 12 CE"
+  ],
+  [
+   "extradicion",
+   "Extradición",
+   "Entrega de una persona a otro Estado para juzgarla o para que cumpla una pena. En España solo se concede por tratado o ley, con reciprocidad, y no por delitos políticos.",
+   "Art. 13.3 CE"
+  ],
+  [
+   "asilo",
+   "Derecho de asilo",
+   "Protección que da un Estado a personas de otros países perseguidas. La ley regula cómo se puede gozar de él.",
+   "Art. 13.4 CE"
+  ],
+  [
+   "apatrida",
+   "Apátrida",
+   "Persona que no tiene nacionalidad de ningún Estado.",
+   "Art. 13.4 CE"
+  ],
+  [
+   "sufragio-pasivo",
+   "Sufragio activo y pasivo",
+   "Sufragio activo es poder votar; sufragio pasivo es poder ser elegido.",
+   "Art. 13.2 CE"
+  ],
+  [
+   "derechos-historicos-forales",
+   "Derechos históricos forales",
+   "Derechos propios de ciertos territorios (como Navarra o el País Vasco) que la Constitución ampara en su disposición adicional primera.",
+   "DA 1.ª CE"
   ]
  ]
 }
