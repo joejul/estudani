@@ -63,6 +63,24 @@
     [
      "trampa",
      "El suelo **no urbanizable genérico** es el **residual**: lo que no es urbano, urbanizable ni especial. El **no consolidado** exige **actuaciones integradas**. La **clasificación** la hace el **plan general**."
+    ],
+    [
+     "h",
+     "Detalle de las clases de suelo"
+    ],
+    [
+     "lista",
+     [
+      "**Suelo urbano (art. 12):** lo son los terrenos con **servicios urbanísticos suficientes** (red viaria consolidada, agua, evacuación, energía eléctrica, telecomunicaciones y residuos), los que **puedan llegar a tenerlos** sin más obras que la conexión con lo existente, los **consolidados por la edificación en al menos dos terceras partes** de su superficie edificable (si forman parte de la malla urbana) y los **urbanizados en ejecución del planeamiento**. No es suficiente que sean colindantes con carreteras de circunvalación o vías interurbanas.",
+      "**Solar (art. 14):** suelo urbano apto para uso inmediato que está **urbanizado** según el planeamiento (o tiene los servicios básicos, alumbrado público y vía pavimentada para peatones y vehículos), tiene **alineaciones y rasantes** si el plan las define y no exige ceder terrenos para calles o completar la red viaria.",
+      "**Suelo urbano no consolidado:** el que **soporta actuaciones integradas** (de nueva urbanización o de intervención en suelos ya edificados). Lo no definido como no consolidado es **consolidado**. Los terrenos de suelo urbano no consolidado y urbanizable solo alcanzan la condición de solar cuando se ejecutan las obras de urbanización exigibles.",
+      "**Suelo urbanizable (art. 15):** terrenos que el plan clasifica por su posible transformación por urbanización. **Delimitado:** los **sectores de urbanización prioritaria** previstos por el plan general; **no delimitado:** **todo el restante**.",
+      "**Suelo no urbanizable (arts. 16-18):** el preservado por la legislación de **protección del dominio público, medioambiental o del patrimonio cultural**, el **peligroso** para la seguridad de personas y bienes, el que tiene **valores** ecológicos, agrícolas, ganaderos, forestales o paisajísticos y el que el plan, **motivadamente**, no considera transformable. **Especial:** el que presenta circunstancias o valores que exigen mayor protección; **genérico:** el resto (clase y categoría **residual**). En los municipios **sin plan general**, el suelo que no sea urbano es no urbanizable."
+     ]
+    ],
+    [
+     "trampa",
+     "El **urbanizable delimitado** son los **sectores prioritarios**; todo el **resto** es **no delimitado**. El suelo **no urbanizable genérico** es el residual."
     ]
    ],
    "flash": [
@@ -73,6 +91,18 @@
     [
      "¿Qué suelo es el residual?",
      "El no urbanizable genérico (art. 17.2)."
+    ],
+    [
+     "¿Qué es el suelo urbanizable delimitado?",
+     "Los sectores de urbanización prioritaria previstos por el plan general."
+    ],
+    [
+     "¿Qué proporción de la superficie edificable debe estar consolidada por la edificación para ser suelo urbano por consolidación?",
+     "Al menos las dos terceras partes."
+    ],
+    [
+     "¿Qué suelo es residual en la clasificación aragonesa?",
+     "El suelo no urbanizable genérico."
     ]
    ],
    "esquema": [
@@ -285,6 +315,93 @@
    ]
   },
   {
+   "id": "e4",
+   "titulo": "Fuentes, estructura y derechos del ciudadano",
+   "subtitulo": "Marco de la Ley Urbanística de Aragón",
+   "clave": [
+    "Texto Refundido: Decreto Legislativo 1/2014 (294 artículos)",
+    "Ley estatal: RDLeg 7/2015",
+    "Situaciones básicas: rural y urbanizado",
+    "Derechos y deberes del ciudadano (19 y 20)"
+   ],
+   "bloques": [
+    [
+     "h",
+     "Qué es el urbanismo y de dónde viene la competencia"
+    ],
+    [
+     "lista",
+     [
+      "La **actividad urbanística** comprende la **clasificación, el planeamiento, la urbanización, la intervención en el mercado de la vivienda y del suelo y en el uso del suelo, y la disciplina urbanística** (art. 1 TRLUA).",
+      "**Competencia:** el art. **148.1.3.ª CE** atribuye el urbanismo a las Comunidades Autónomas; el Estado conserva títulos como el **régimen de la propiedad del suelo** (art. 149.1.1.ª y 149.1.18.ª). En Aragón, el **art. 71.9.ª del Estatuto de Autonomía** le da la competencia exclusiva. La **STC 61/1997** declaró inconstitucional buena parte de la normativa estatal del suelo de 1990-1992; la **STC 164/2001** avaló en lo sustancial la Ley 6/1998.",
+      "**Fuentes aplicables:** el **RDLeg 7/2015** (texto refundido de la Ley de Suelo y Rehabilitación Urbana, que fija las situaciones básicas del suelo), el **Decreto Legislativo 1/2014, de 8 de julio**, texto refundido de la **Ley Urbanística de Aragón (TRLUA)**, los reglamentos autonómicos y, supletoriamente, los estatales (Edificación Forzosa, Reparcelaciones, **Gestión** y **Disciplina Urbanística**), el **Decreto 52/2002** en lo que no se oponga, y las **ordenanzas municipales** (en Zaragoza, la ordenanza de **Medios de Intervención en la Actividad Urbanística**, de 2010).",
+      "**Estructura de la LUA:** **294 artículos** en **ocho títulos** (preliminar, régimen urbanístico del suelo, planeamiento, instrumentos de política urbanística y de suelo, gestión, edificación y uso del suelo, disciplina y régimen urbanístico simplificado), con 16 disposiciones adicionales, 13 transitorias, 3 derogatorias y 4 finales."
+     ]
+    ],
+    [
+     "h",
+     "Situaciones básicas del suelo (art. 21 TRLSRU)"
+    ],
+    [
+     "tabla",
+     [
+      "Situación",
+      "Cuándo"
+     ],
+     [
+      [
+       "**Suelo rural**",
+       "El **preservado** de la urbanización por la ordenación territorial o la legislación de protección (dominio público, medio ambiente, patrimonio…), el que la ordenación prevé que **pase a urbanizado** hasta que termine la urbanización, y **todo el que no sea urbanizado** (concepto residual)."
+      ],
+      [
+       "**Suelo urbanizado**",
+       "El **integrado en una malla urbana** (viales, dotaciones y parcelas) que ha sido urbanizado en ejecución del planeamiento, o tiene las infraestructuras y servicios **operativos** o está ocupado por la edificación en el porcentaje que fije la ley. Ser colindante con una carretera de circunvalación o vía interurbana **no basta**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Estatuto de la ciudadanía (arts. 19 y 20)"
+    ],
+    [
+     "lista",
+     [
+      "**Derechos:** vivienda digna y adecuada; clasificación de **suelo adecuado**; aplicación preferente del **suelo público** innecesario; que las Administraciones **pongan en el mercado** suelo de su propiedad; no sufrir **inmisiones** contaminantes en su vivienda; **medio ambiente urbano** adecuado; **información urbanística**; **participación** en la aprobación de los instrumentos; **colaborar** y ejercer la iniciativa de urbanización; y la **acción pública** ante los órganos administrativos y la jurisdicción contencioso-administrativa.",
+      "**Deberes:** preservar y mejorar el **medio ambiente** natural y urbano; preservar el **patrimonio cultural aragonés**; hacer **uso adecuado** de los bienes de dominio público y del mobiliario urbano; **abstenerse de actos** que perjudiquen o impidan el uso de los bienes sin **título habilitante**; evitar actuaciones de **riesgo ambiental**; y **colaborar** en la actividad urbanística."
+     ]
+    ],
+    [
+     "trampa",
+     "La **clasificación del suelo** es competencia **autonómica** (la hace el plan general), mientras que las **situaciones básicas** (rural y urbanizado) son **estatales**. La LUA tiene **294 artículos y ocho títulos**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué norma aragonesa regula el urbanismo y de qué fecha es?",
+     "El Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley Urbanística de Aragón."
+    ],
+    [
+     "¿Cuántos artículos tiene la LUA?",
+     "294, repartidos en ocho títulos."
+    ],
+    [
+     "¿Cuáles son las dos situaciones básicas del suelo en la norma estatal?",
+     "Suelo rural y suelo urbanizado."
+    ],
+    [
+     "¿Qué artículo del Estatuto de Autonomía atribuye a Aragón la competencia en urbanismo?",
+     "El artículo 71.9.ª."
+    ]
+   ],
+   "esquema": [
+    "TRLUA: DLeg 1/2014 · 294 artículos · 8 títulos",
+    "Situaciones básicas: rural · urbanizado",
+    "Clasificación: autonómica"
+   ],
+   "ic": "🏗️",
+   "articulos": []
+  },
+  {
    "id": "e1",
    "titulo": "Planeamiento urbanístico",
    "subtitulo": "Arts. 38 a 85 (selección)",
@@ -336,6 +453,50 @@
     [
      "trampa",
      "**Plan parcial → ordenación pormenorizada de sectores** (urbano no consolidado y urbanizable). **Plan general → ordenación estructural y clasificación.** **Estudio de detalle → completar o adaptar**, no clasificar."
+    ],
+    [
+     "h",
+     "Plan general de ordenación urbana (arts. 38 a 50)"
+    ],
+    [
+     "lista",
+     [
+      "**Concepto (art. 38):** instrumento de **ordenación integral** de uno o varios términos municipales completos, que **clasifica** el suelo y define los elementos fundamentales de la estructura general. Respeta las directrices de ordenación del territorio y los planes de ordenación de recursos naturales.",
+      "**Contenido (arts. 39 y 40):** debe concretar el **modelo de evolución urbana y ocupación del territorio**, con un modelo **sostenible**, un **horizonte temporal de gestión** (**veinte años** si no se prevé otro) y acciones de **rehabilitación**. Establece la **ordenación estructural** (art. 40) y pormenorizada en los suelos urbano, urbanizable y no urbanizable (arts. 41 y ss.).",
+      "**Documentos (art. 47):** memoria; planos de información y ordenación (incluidos mapas de riesgos); catálogos; normas urbanísticas; **estudio económico** (impacto en las Haciendas públicas y suficiencia del suelo para usos productivos y residenciales); y documentación ambiental.",
+      "**Procedimiento:** lo formula el **Ayuntamiento**; empieza con un **avance** (criterios, objetivos y soluciones), expuesto **un mes** como mínimo para sugerencias; el **Pleno** aprueba **inicialmente** (hasta entonces no se entiende iniciado el procedimiento) y **provisionalmente** tras la declaración ambiental estratégica (plazo **tres meses**); la **aprobación definitiva** es del **Consejo Provincial de Urbanismo** (si abarca varias provincias, del Director General de Urbanismo). Solo puede denegarse por motivos **supralocales o de legalidad** (art. 49). Plazo de resolución: **cuatro meses**, y el silencio supone **aprobación definitiva**. Cabe **aprobación parcial**.",
+      "**Zaragoza:** el PGOU vigente es el **Texto Refundido de la Revisión de diciembre de 2007** (conformidad del Pleno el 25 de enero de 2008), aprobado por el Consejo de Ordenación del Territorio de Aragón el **6 de junio de 2008** y publicado en el BOA el **30 de junio de 2008**. Contiene memoria, planos, normas urbanísticas y estudio económico, y ha tenido **más de 200 modificaciones aisladas**."
+     ]
+    ],
+    [
+     "h",
+     "Planes parciales (arts. 51 a 60)"
+    ],
+    [
+     "lista",
+     [
+      "Establecen la **ordenación pormenorizada** para **sectores enteros** de suelo urbano no consolidado y urbanizable cuando el plan general no la contenga. No pueden aprobarse sin que, previa o simultáneamente, se apruebe definitivamente el **plan general**. Respetan los **módulos mínimos de reserva** para dotaciones locales.",
+      "**Documentos:** memoria, planos, catálogos, normas, **plan de etapas**, evaluación de costes de urbanización y documentación ambiental. Contenido (art. 52): evaluación económica, plan de etapas, sistemas generales, delimitación y aprovechamiento medio en el urbanizable no delimitado y equipamientos.",
+      "**Iniciativa municipal (art. 56):** aprobación **inicial por el Alcalde** (dando cuenta al Pleno); **información pública un mes** e informes; informe del **Consejo Provincial de Urbanismo** (**tres meses**, silencio favorable; si es desfavorable, **vinculante**); aprobación **definitiva por el Ayuntamiento Pleno**.",
+      "**Iniciativa no municipal (arts. 59 y 60):** el Alcalde puede denegar la aprobación inicial por incumplimiento documental, incompatibilidad con la ordenación o ilegalidad manifiesta; si no resuelve en **seis meses**, se entiende **otorgada**; el promotor tiene **un mes** para pedir la aprobación definitiva; el silencio supone aprobación a los **tres meses**. Si compiten varias iniciativas, prevalece la suscrita por propietarios de **más de la mitad** de la superficie."
+     ]
+    ],
+    [
+     "h",
+     "Planes especiales (arts. 61 a 66), estudios de detalle y otros instrumentos"
+    ],
+    [
+     "lista",
+     [
+      "**Planes especiales:** **independientes** (art. 62), de **desarrollo de directrices territoriales** (63), de **desarrollo del plan general** (64), de **reforma interior** (65, solo en suelo urbano no consolidado) y de **protección de conjuntos de interés cultural** (66). **No pueden clasificar suelo** ni sustituir al plan general. Los independientes siguen el procedimiento del plan general (resolución en **tres meses**).",
+      "**Estudios de detalle (arts. 67-68):** complementan o adaptan alineaciones y rasantes, la ordenación de volúmenes y las condiciones estéticas. **No pueden** alterar el destino del suelo, el aprovechamiento ni las normas específicas. Cualquier persona puede formularlos a su costa; el Alcalde solo puede denegar la aprobación inicial por defectos documentales o ilegalidad; se entiende **inicial** a **un mes** y **definitiva por silencio a los dos meses**; la **aprobación definitiva** corresponde al **Ayuntamiento Pleno**.",
+      "**Ordenanzas de edificación y urbanización (art. 69):** regulan aspectos morfológicos y estéticos y otros menores; no pueden alterar el plan general. **Delimitación de suelo urbano (art. 71):** instrumento de los municipios **sin plan general**.",
+      "**Vigencia (art. 83):** **indefinida**. Se **revisan** con las mismas reglas de documentación, procedimiento y competencia que su aprobación; la **modificación aislada** (art. 85) no toca la estructura general."
+     ]
+    ],
+    [
+     "trampa",
+     "Aprobación **inicial** del plan parcial: **Alcalde**; **definitiva**: **Pleno**. Aprobación definitiva del **plan general**: **Consejo Provincial de Urbanismo**. Los **estudios de detalle** se aprueban definitivamente por el **Pleno**; por silencio, a los **dos meses**."
     ]
    ],
    "flash": [
@@ -346,6 +507,30 @@
     [
      "¿Quién aprueba definitivamente el plan general?",
      "El Consejo Provincial de Urbanismo (art. 49)."
+    ],
+    [
+     "¿Quién aprueba definitivamente el plan general de ordenación urbana?",
+     "El Consejo Provincial de Urbanismo."
+    ],
+    [
+     "¿Quién aprueba inicialmente un plan parcial de iniciativa municipal?",
+     "El Alcalde, dando cuenta al Pleno."
+    ],
+    [
+     "¿Quién aprueba definitivamente un estudio de detalle?",
+     "El Ayuntamiento Pleno."
+    ],
+    [
+     "¿Cuál es el horizonte temporal de gestión del plan general si no se prevé otro?",
+     "Veinte años."
+    ],
+    [
+     "¿Pueden los planes especiales clasificar suelo?",
+     "No: no pueden sustituir al plan general ni clasificar suelo."
+    ],
+    [
+     "¿Qué vigencia tienen los planes urbanísticos?",
+     "Indefinida."
     ]
    ],
    "esquema": [
@@ -812,6 +997,27 @@
     [
      "trampa",
      "**Cooperación**: los propietarios **ceden suelo** y la **Administración urbaniza**. **Compensación**: los propietarios **urbanizan a su costa**. **Expropiación**: la Administración se queda con el suelo."
+    ],
+    [
+     "h",
+     "Actuaciones urbanísticas y sistemas en detalle (arts. 118 a 179)"
+    ],
+    [
+     "lista",
+     [
+      "**Clases por el suelo:** **aisladas** (suelo urbano consolidado, con obras ordinarias), **integradas** (unidad de ejecución en urbano no consolidado o urbanizable delimitado), para obtener **sistemas generales** y **en suelo no urbanizable**. **Por su objeto:** de **urbanización** (de suelo rural a urbanizado), de **rehabilitación urbana** y de **intervención** en suelos ya edificados.",
+      "**Ejecución del planeamiento:** corresponde a los **municipios**; los planes y proyectos de **interés general de Aragón** los ejecuta la Comunidad Autónoma. La recepción de las obras sigue la contratación pública y el **plazo de garantía no puede ser inferior a cinco años**.",
+      "**Actuaciones aisladas:** completar la urbanización hasta que sean solares, obras aisladas de remodelación, obtener los terrenos y rehabilitación. Se hacen con **proyectos de obras ordinarias** (REBASO, Decreto 347/2002): primer establecimiento o reforma, reparación simple, conservación y demolición; se aprueba por el Pleno o el Presidente con **información pública de 15 días** si procede, **obligatoria** si el presupuesto supera **300.506,05 €**.",
+      "**Proyecto de urbanización:** incluye las obras de una o varias unidades de ejecución, con detalle para que otro técnico pueda ejecutarlo; **no puede** ordenar ni alterar el planeamiento; se tramita como un **estudio de detalle**.",
+      "**Reparcelación (arts. 140-148):** agrupación de fincas de la unidad de ejecución y nueva división ajustada al plan. **Voluntaria** (agrupación de interés urbanístico, junta de compensación, urbanizador) o **forzosa**; también **económica** si no es posible la material. **Iniciar** la reparcelación **suspende automáticamente** las licencias de parcelación. Su aprobación transmite a la Administración los terrenos de **cesión obligatoria**, subroga las antiguas fincas por las nuevas y afecta las parcelas al pago de las cargas.",
+      "**Cooperación (art. 150):** propietarios aportan el suelo de cesión; la Administración ejecuta con cargo a ellos. Se puede dar **hasta 6 meses** para una reparcelación voluntaria; pagos a cuenta y aplazamientos de **hasta 10 años** con garantía; impago, **apremio**.",
+      "**Compensación (arts. 151-158):** es el sistema **más utilizado**. Exige que el plan lo prevea, que la iniciativa la asuman propietarios de **más de la mitad** de la superficie y que asuman los plazos. Se constituye una **Junta de Compensación** (entidad colaboradora con personalidad jurídica propia, **estatutos y bases**) en **escritura pública en tres meses**; debe prestar garantía de **al menos el 6 %** del coste de urbanización antes de las obras.",
+      "**Urbanizador (arts. 159-179):** gestiona la ejecución mediante un **programa de urbanización** (alternativa técnica + proposición jurídico-económica) seleccionado en **pública competencia**. Se retribuye en **terrenos edificables o en metálico**. Puede hacerlo el municipio, otras Administraciones o particulares. Es **beneficiario de las expropiaciones**; los propietarios tienen derecho a información, cooperar y renunciar a participar solicitando la expropiación (art. 170)."
+     ]
+    ],
+    [
+     "trampa",
+     "**Compensación**: lo habitual y con **Junta de Compensación**; **cooperación**: la **Administración** urbaniza; **urbanizador**: pública competencia y **programa de urbanización**. El **plazo de garantía** de las obras nunca baja de **cinco años**."
     ]
    ],
    "flash": [
@@ -822,6 +1028,22 @@
     [
      "¿Qué es la reparcelación?",
      "La agrupación de fincas de la unidad de ejecución para nueva división conforme al planeamiento, con adjudicación proporcional a los derechos."
+    ],
+    [
+     "¿Qué sistema de gestión es el más utilizado en la práctica?",
+     "La compensación."
+    ],
+    [
+     "¿Qué garantía mínima debe prestar la Junta de Compensación antes de las obras?",
+     "El 6 % del coste previsto en el proyecto de urbanización."
+    ],
+    [
+     "¿Cuál es el plazo mínimo de garantía de las obras de urbanización?",
+     "Cinco años."
+    ],
+    [
+     "¿Qué efecto tiene iniciar la reparcelación sobre las licencias de parcelación?",
+     "Suspende automáticamente su otorgamiento."
     ]
    ],
    "esquema": [
@@ -1280,6 +1502,59 @@
     [
      "trampa",
      "La **licencia** legitima desde que el **Alcalde la adopta**; la **declaración responsable y la comunicación previa**, desde que **se presentan**. El silencio en **licencias** es **negativo**. Prescripción de infracciones: **1, 4 y 10 años**."
+    ],
+    [
+     "h",
+     "Normas de directa aplicación y edificación forzosa (arts. 214 a 224)"
+    ],
+    [
+     "lista",
+     [
+      "**Protección del paisaje (art. 214)**, **altura (art. 215):** sin plan que lo autorice no puede edificarse con **más de tres plantas**, y **distancia a vías (art. 216):** construcciones y cierres a **al menos tres metros** del límite exterior de la calzada, salvo mayor exigencia sectorial.",
+      "**Edificación forzosa (arts. 217-224):** el propietario de solares y construcciones en ruina o inadecuadas debe edificar en el plazo fijado por el plan y, en su defecto, en **dos años** desde que la parcela es solar o desde la declaración de ruina; la edificación debe terminarse en el plazo de la licencia (o **dos años** desde su notificación). Los plazos pueden prorrogarse por justa causa. El incumplimiento permite la **expropiación** por incumplimiento de la función social o la **ejecución por sustitución**."
+     ]
+    ],
+    [
+     "h",
+     "Licencia, declaración responsable y comunicación previa (arts. 225 a 240)"
+    ],
+    [
+     "lista",
+     [
+      "**Licencia (art. 226):** acto **reglado, de control previo y declarativo de derechos** por el que el **Alcalde** autoriza. Se exige para: movimientos de tierras y **parcelaciones**; obras de nueva planta (salvo declaración responsable); ampliación, reforma o demolición que cambien la configuración arquitectónica o el uso; obras en edificaciones **protegidas**; talas en espacios de alto valor; casas prefabricadas; y los supuestos que fije el plan.",
+      "**Declaración responsable (art. 227):** obras de **escasa entidad constructiva y sencillez técnica**, sin carácter residencial ni público y en una sola planta; obras que no varíen la composición exterior, el volumen ni la estructura ni el uso; **renovación de instalaciones**; **primera ocupación**; talas que no afecten a espacios protegidos; **paneles solares de autoconsumo** y **puntos de recarga** eléctricos en edificios de uso colectivo. Contenido: identificación del objeto, requisitos aplicables, documentos acreditativos y compromiso de mantener el cumplimiento.",
+      "**Comunicación previa (art. 228):** para actos que **no están sujetos ni a declaración responsable ni a licencia**. Debe contener la identificación del objeto y la declaración de que se cumplen los requisitos (incluida la seguridad de personas y bienes).",
+      "**Efectos (art. 229):** la **declaración responsable** y la **comunicación previa** legitiman **desde su presentación** en el registro; la **licencia**, **desde que la adopta formalmente el Alcalde**. El municipio puede inspeccionar en cualquier momento. La licencia se otorga **dejando a salvo el derecho de propiedad y sin perjuicio de terceros**, con la normativa vigente **en el momento de la resolución**, y puede **denegarse** si implica ocupación ilegal del dominio público. Las licencias de **edificación y urbanización simultáneas** (arts. 234-236) tienen régimen especial. Si un nuevo plan hace incompatible una licencia, el municipio puede **revocarla** (con indemnización) o permitir terminar la obra dejando el edificio **fuera de ordenación**.",
+      "**Procedimiento (art. 238):** el de la normativa de régimen local y las ordenanzas; con **proyecto técnico visado** cuando proceda. Las licencias se otorgan en **tres meses** como máximo y, transcurrido el plazo, se puede entender **desestimada** (silencio negativo, art. 239). Comunicación y declaración conformes con el plan surten efecto con la presentación completa; la **inexactitud, falsedad u omisión esencial** impide continuar el ejercicio del derecho."
+     ]
+    ],
+    [
+     "h",
+     "Parcelaciones (arts. 241 a 253)"
+    ],
+    [
+     "lista",
+     [
+      "**Parcelación rústica:** división de terrenos con finalidad exclusivamente agraria. **Urbanística:** división de terrenos que permite o facilita actos de edificación. **Toda parcelación urbanística** está sujeta a **licencia** o a la aprobación del proyecto de reparcelación. Las rústicas exigen declaración de **innecesariedad de licencia** (excepto concentración parcelaria).",
+      "**Prohibidas:** las parcelaciones **ilegales** (que puedan formar un núcleo de población) y las que crean lotes **inferiores a la parcela mínima** (salvo agrupación con colindantes). No debe confundirse con la **reparcelación**, que redistribuye cargas y beneficios entre propietarios."
+     ]
+    ],
+    [
+     "h",
+     "Disciplina urbanística (arts. 264 a 287)"
+    ],
+    [
+     "lista",
+     [
+      "**Inspección:** los inspectores son **agentes de la autoridad**; sus actas son **documentos públicos** y prueban los hechos salvo prueba en contrario. La ejercen municipios, comarcas y la CA, coordinadamente.",
+      "**Protección de la legalidad:** **obras en curso** → el Alcalde ordena la **paralización inmediata** y, tras expediente, decreta la **demolición** (si son incompatibles) o exige **legalización en 2 meses**; **obras terminadas** → igual, dentro del plazo de prescripción (sin límite en sistemas generales, zonas verdes o suelo no urbanizable especial); **ejecución forzosa** con ejecución subsidiaria y **multas coercitivas** (periodicidad no inferior a **un mes**); **suspensión de licencias** manifiestamente ilegales (el Alcalde da traslado al juez en **10 días**); y **revisión de licencias**.",
+      "**Infracciones:** **leves** (art. 277): multa de **600 a 6.000 €**; **graves** (art. 278): **6.000,01 a 60.000 €**; **muy graves** (art. 279): **60.000,01 a 300.000 €**. Prescripción: leves **1 año**, graves **4 años**, muy graves **10 años**; sanciones: **3 años** (muy graves), **2 años** (graves) y **1 año** (leves). **Competencia:** el **Alcalde** las leves y el **Pleno** las graves y muy graves. Responden el promotor, constructor, técnico director, junta de compensación o urbanizador, el propietario inicial en parcelaciones y las suministradoras que no exigen licencia.",
+      "**Graduación:** la sanción debe ser **proporcionada** y la infracción **no puede suponer beneficio económico**. **Agravantes:** prevalerse de cargo público, datos falsos y reincidencia en cuatro años; **atenuantes:** ausencia de intención de daño grave, paralización voluntaria tras la advertencia, falta de daño sustantivo y reposición voluntaria antes de acabar el procedimiento. En graves y muy graves puede imponerse la **inhabilitación como urbanizador** de uno a cinco años."
+     ]
+    ],
+    [
+     "trampa",
+     "Prescripción de infracciones: **1, 4 y 10 años**; de sanciones: **1, 2 y 3 años**. La **licencia** se concede en **tres meses** y el **silencio es negativo**. Declaración responsable y comunicación previa legitiman **desde la presentación**."
     ]
    ],
    "flash": [
@@ -1294,6 +1569,30 @@
     [
      "¿Plazos de prescripción de las infracciones urbanísticas?",
      "Leves 1 año, graves 4 años y muy graves 10 años (art. 284)."
+    ],
+    [
+     "¿Qué altura máxima de edificación rige sin plan que lo autorice?",
+     "Tres plantas."
+    ],
+    [
+     "¿A qué distancia mínima de la calzada deben ubicarse construcciones y cierres sin alineaciones del plan?",
+     "Tres metros."
+    ],
+    [
+     "¿En cuánto tiempo debe otorgarse una licencia urbanística?",
+     "Tres meses como máximo."
+    ],
+    [
+     "¿Quién sanciona las infracciones urbanísticas graves y muy graves?",
+     "El Ayuntamiento Pleno."
+    ],
+    [
+     "¿Qué plazo se da para legalizar unas obras compatibles con el plan?",
+     "Dos meses para iniciar el trámite del título habilitante."
+    ],
+    [
+     "¿Qué multa corresponde a una infracción urbanística leve?",
+     "De 600 a 6.000 euros."
     ]
    ],
    "esquema": [
@@ -1757,6 +2056,20 @@
         "titulo": "Genérico: clase residual"
        }
       ]
+     },
+     {
+      "titulo": "Detalle de clases",
+      "hijos": [
+       {
+        "titulo": "Urbano: servicios suficientes · 2/3 consolidado"
+       },
+       {
+        "titulo": "Urbanizable delimitado = sectores prioritarios"
+       },
+       {
+        "titulo": "No urbanizable genérico = residual"
+       }
+      ]
      }
     ]
    },
@@ -1783,6 +2096,23 @@
        },
        {
         "titulo": "Plan especial · estudio de detalle"
+       }
+      ]
+     },
+     {
+      "titulo": "Plan general y planes derivados",
+      "hijos": [
+       {
+        "titulo": "PG: definitiva por el Consejo Provincial"
+       },
+       {
+        "titulo": "Parcial: inicial Alcalde · definitiva Pleno"
+       },
+       {
+        "titulo": "Estudio de detalle: definitiva Pleno"
+       },
+       {
+        "titulo": "Especiales: no clasifican suelo"
        }
       ]
      }
@@ -1813,6 +2143,20 @@
         "titulo": "Indirecta: compensación · urbanizador"
        }
       ]
+     },
+     {
+      "titulo": "Reparcelación y sistemas",
+      "hijos": [
+       {
+        "titulo": "Reparcelación suspende licencias"
+       },
+       {
+        "titulo": "Compensación: Junta, garantía 6 %"
+       },
+       {
+        "titulo": "Urbanizador: pública competencia"
+       }
+      ]
      }
     ]
    },
@@ -1841,6 +2185,38 @@
         "titulo": "Alcalde: leves · Pleno: graves y muy graves"
        }
       ]
+     },
+     {
+      "titulo": "Licencias y sanciones",
+      "hijos": [
+       {
+        "titulo": "Licencia: 3 meses · silencio negativo"
+       },
+       {
+        "titulo": "DR y CP: desde la presentación"
+       },
+       {
+        "titulo": "Prescripción 1-4-10 años"
+       },
+       {
+        "titulo": "Sanciona: Alcalde leves · Pleno graves y muy graves"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Fuentes y estructura",
+    "color": "#3fa796",
+    "hijos": [
+     {
+      "titulo": "TRLUA: DLeg 1/2014 · 294 artículos · 8 títulos"
+     },
+     {
+      "titulo": "Suelo rural / urbanizado (estatal)"
+     },
+     {
+      "titulo": "Derechos y deberes (arts. 19-20)"
      }
     ]
    }

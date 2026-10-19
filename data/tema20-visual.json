@@ -11,6 +11,9 @@
   ],
   [
    "e3"
+  ],
+  [
+   "e4"
   ]
  ],
  "glosario": [
@@ -133,6 +136,60 @@
    "Disciplina urbanística",
    "Conjunto de medidas para que se cumpla la ordenación urbanística: inspección, órdenes de restablecimiento y sanciones.",
    "Arts. 264 y ss. Ley de Urbanismo de Aragón"
+  ],
+  [
+   "trlua",
+   "TRLUA",
+   "Texto refundido de la Ley Urbanística de Aragón, aprobado por el Decreto Legislativo 1/2014, de 8 de julio.",
+   "DLeg 1/2014"
+  ],
+  [
+   "suelo-rural",
+   "Suelo rural",
+   "Situación básica estatal del suelo preservado de la urbanización o que no reúne los requisitos de suelo urbanizado.",
+   "Art. 21 TRLSRU"
+  ],
+  [
+   "suelo-urbanizado",
+   "Suelo urbanizado",
+   "Situación básica del suelo integrado en la malla urbana y con servicios o ya urbanizado.",
+   "Art. 21 TRLSRU"
+  ],
+  [
+   "ordenacion-estructural",
+   "Ordenación estructural",
+   "Elementos fundamentales del plan general: estructura general y modelo de evolución urbana y ocupación del territorio.",
+   "Art. 40 LUA"
+  ],
+  [
+   "plan-etapas",
+   "Plan de etapas",
+   "Documento del plan parcial que ordena la secuencia de puesta en servicio de las obras.",
+   "Art. 52 LUA"
+  ],
+  [
+   "urbanizador",
+   "Urbanizador",
+   "Agente seleccionado en pública competencia que ejecuta la urbanización y se retribuye a cargo de los propietarios.",
+   "Art. 159 LUA"
+  ],
+  [
+   "programa-urbanizacion",
+   "Programa de urbanización",
+   "Instrumento de la gestión por urbanizador con alternativa técnica y proposición jurídico-económica.",
+   "Art. 160 LUA"
+  ],
+  [
+   "declaracion-responsable-urb",
+   "Declaración responsable urbanística",
+   "Documento en que se afirma que se cumplen los requisitos para una obra menor. Legitima desde que se presenta.",
+   "Art. 227 LUA"
+  ],
+  [
+   "fuera-ordenacion",
+   "Fuera de ordenación",
+   "Situación de un edificio incompatible con un nuevo plan que se permite terminar o mantener sin ampliarlo.",
+   "Art. 233 LUA"
   ]
  ],
  "hubs": [
@@ -304,6 +361,110 @@
     ]
    ],
    "ic": "🏗️"
+  },
+  {
+   "id": "h-fuentes-lua",
+   "epi": "e4",
+   "titulo": "Fuentes y estructura de la LUA",
+   "art": "DLeg 1/2014 · RDLeg 7/2015",
+   "resumen": "Marco normativo del urbanismo aragonés.",
+   "pistas": [
+    [
+     "d",
+     "Texto refundido: Decreto Legislativo 1/2014, de 8 de julio"
+    ],
+    [
+     "n",
+     "294 artículos en ocho títulos"
+    ],
+    [
+     "d",
+     "Estatal: situaciones básicas rural y urbanizado"
+    ],
+    [
+     "d",
+     "Clasificación del suelo: competencia autonómica"
+    ]
+   ],
+   "ic": "🏗️"
+  },
+  {
+   "id": "h-aprob-plan",
+   "epi": "e1",
+   "titulo": "Quién aprueba cada plan",
+   "art": "Arts. 49, 56 y 68 LUA",
+   "resumen": "Competencias de aprobación.",
+   "pistas": [
+    [
+     "q",
+     "Plan general: Consejo Provincial de Urbanismo (definitiva)"
+    ],
+    [
+     "q",
+     "Plan parcial: Alcalde inicial · Pleno definitiva"
+    ],
+    [
+     "q",
+     "Estudio de detalle: Pleno definitiva"
+    ],
+    [
+     "n",
+     "Plan general: 4 meses · silencio aprobatorio"
+    ]
+   ],
+   "ic": "📐"
+  },
+  {
+   "id": "h-licencia-dr",
+   "epi": "e3",
+   "titulo": "Licencia, DR y comunicación previa",
+   "art": "Arts. 225 a 240 LUA",
+   "resumen": "Títulos habilitantes urbanísticos.",
+   "pistas": [
+    [
+     "d",
+     "Licencia: legitima desde que la adopta el Alcalde"
+    ],
+    [
+     "d",
+     "DR y CP: legitiman desde la presentación"
+    ],
+    [
+     "n",
+     "Licencia: 3 meses; silencio negativo"
+    ],
+    [
+     "d",
+     "Licencia: reglada y de control previo"
+    ]
+   ],
+   "ic": "📝"
+  },
+  {
+   "id": "h-sanciones-urb",
+   "epi": "e3",
+   "titulo": "Sanciones urbanísticas",
+   "art": "Arts. 277 a 285 LUA",
+   "resumen": "Multas y prescripciones.",
+   "pistas": [
+    [
+     "n",
+     "Leves 600-6.000 € · graves hasta 60.000 € · muy graves hasta 300.000 €"
+    ],
+    [
+     "n",
+     "Infracciones prescriben a 1, 4 y 10 años"
+    ],
+    [
+     "n",
+     "Sanciones prescriben a 1, 2 y 3 años"
+    ],
+    [
+     "q",
+     "Alcalde sanciona las leves; Pleno las graves y muy graves"
+    ]
+   ],
+   "ic": "💶"
   }
  ],
  "esquema": [
