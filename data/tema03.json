@@ -3654,7 +3654,8 @@
    "h-instituciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3671,7 +3672,8 @@
    "h-instituciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3739,7 +3741,8 @@
    "h-cortes-funciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3790,7 +3793,8 @@
    "h-cortes-funciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3807,7 +3811,8 @@
    "h-cortes-funciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3841,7 +3846,8 @@
    "h-cortes-funciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3858,7 +3864,8 @@
    "h-cortes-funciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3875,7 +3882,8 @@
    "h-presidente",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3892,7 +3900,8 @@
    "h-presidente",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3909,7 +3918,8 @@
    "h-presidente",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3943,7 +3953,8 @@
    "h-presidente",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4011,7 +4022,8 @@
    "h-presidente",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4079,7 +4091,8 @@
    "h-presidente",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4096,7 +4109,8 @@
    "h-presidente",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4147,7 +4161,8 @@
    "h-admin-justicia",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4164,7 +4179,8 @@
    "h-admin-justicia",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4198,7 +4214,8 @@
    "h-admin-justicia",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4249,7 +4266,8 @@
    "h-admin-justicia",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4385,7 +4403,8 @@
    "h-comp-materias",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4419,7 +4438,8 @@
    "h-comp-materias",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4470,7 +4490,8 @@
    "h-singularizadas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4521,7 +4542,8 @@
    "h-singularizadas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4538,7 +4560,8 @@
    "h-singularizadas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4572,7 +4595,8 @@
    "h-singularizadas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4657,7 +4681,8 @@
    "h-competencias",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ]
  ]

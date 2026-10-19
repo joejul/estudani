@@ -3400,7 +3400,8 @@
    "h-defensa-patrimonio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3417,7 +3418,8 @@
    "h-clases",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3536,7 +3538,8 @@
    "h-defensa-patrimonio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3553,7 +3556,8 @@
    "h-defensa-patrimonio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3621,7 +3625,8 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3706,7 +3711,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3740,7 +3746,8 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3757,7 +3764,8 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3791,7 +3799,8 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3808,7 +3817,8 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3842,7 +3852,8 @@
    "h-comunales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3910,7 +3921,8 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3978,7 +3990,8 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4012,7 +4025,8 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4046,7 +4060,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4080,7 +4095,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4097,7 +4113,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4114,7 +4131,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4199,7 +4217,8 @@
    "h-dominio-publico",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4216,7 +4235,8 @@
    "h-dominio-publico",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4284,7 +4304,8 @@
    "h-defensa-patrimonio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4301,7 +4322,8 @@
    "h-defensa-patrimonio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4318,7 +4340,8 @@
    "h-defensa-patrimonio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4352,7 +4375,8 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4420,7 +4444,8 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4437,7 +4462,8 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4522,7 +4548,8 @@
    "h-adquisicion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4539,7 +4566,8 @@
    "h-adquisicion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4573,7 +4601,8 @@
    "h-adquisicion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4590,7 +4619,8 @@
    "h-adquisicion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4658,7 +4688,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4675,7 +4706,8 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4726,7 +4758,8 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4743,7 +4776,8 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4760,7 +4794,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4777,7 +4812,8 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4794,7 +4830,8 @@
    "h-comunales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4879,7 +4916,8 @@
    "h-comunales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4930,7 +4968,8 @@
    "h-comunales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4981,7 +5020,8 @@
    "h-alteracion-enajenacion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4998,7 +5038,8 @@
    "h-alteracion-enajenacion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -5015,7 +5056,8 @@
    "h-alteracion-enajenacion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -5049,7 +5091,8 @@
    "h-alteracion-enajenacion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -5066,7 +5109,8 @@
    "h-alteracion-enajenacion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -5083,7 +5127,8 @@
    "h-alteracion-enajenacion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ]
  ]

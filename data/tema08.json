@@ -2078,7 +2078,8 @@
    "h-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2129,7 +2130,8 @@
    "h-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2163,7 +2165,8 @@
    "h-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2180,7 +2183,8 @@
    "h-lesividad-detalle",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2197,7 +2201,8 @@
    "h-lesividad-detalle",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2214,7 +2219,8 @@
    "h-lesividad-detalle",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2248,7 +2254,8 @@
    "h-lesividad-detalle",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2299,7 +2306,8 @@
    "h-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2316,7 +2324,8 @@
    "h-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2333,7 +2342,8 @@
    "h-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2350,7 +2360,8 @@
    "h-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2418,7 +2429,8 @@
    "h-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2435,7 +2447,8 @@
    "h-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2554,7 +2567,8 @@
    "h-recursos-reglas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2622,7 +2636,8 @@
    "h-recursos-reglas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2639,7 +2654,8 @@
    "h-recursos-reglas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2690,7 +2706,8 @@
    "h-recursos-reglas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2741,7 +2758,8 @@
    "h-recursos-reglas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2826,7 +2844,8 @@
    "h-recursos-reglas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2877,7 +2896,8 @@
    "h-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2911,7 +2931,8 @@
    "h-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2928,7 +2949,8 @@
    "h-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3030,7 +3052,8 @@
    "h-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3115,7 +3138,8 @@
    "h-extraordinario-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3132,7 +3156,8 @@
    "h-extraordinario-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3166,7 +3191,8 @@
    "h-extraordinario-revision",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3201,6 +3227,216 @@
    [],
    {
     "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el escrito de interposición del recurso deberá expresar, entre otros datos:",
+   [
+    "La sentencia que se pretende",
+    "El acto que se recurre y la razón de su impugnación",
+    "Los fundamentos de Derecho en forma de demanda"
+   ],
+   1,
+   "Art. 115.1.",
+   "lpac 115.1",
+   "",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el error o la ausencia de la calificación del recurso por el recurrente:",
+   [
+    "Determina su inadmisión",
+    "No será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter",
+    "Obliga a subsanar en diez días"
+   ],
+   1,
+   "Art. 115.2.",
+   "lpac 115.2",
+   "",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso será inadmitido, entre otras causas, por:",
+   [
+    "Presentarse sin abogado",
+    "Ser reiterado",
+    "Carecer manifiestamente de fundamento"
+   ],
+   2,
+   "Art. 116.",
+   "lpac 116",
+   "",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116.a de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el órgano administrativo es incompetente y el competente pertenece a otra Administración, el recurso:",
+   [
+    "Se archivará sin más",
+    "Deberá remitirse al órgano competente conforme al artículo 14.1 de la LRJSP",
+    "Se inadmitirá en todo caso"
+   ],
+   1,
+   "Art. 116.a.",
+   "lpac 116.a",
+   "",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si han de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente, se concederá audiencia a los interesados por un plazo no inferior a diez días ni superior a:",
+   [
+    "Veinte días",
+    "Treinta días",
+    "Quince días"
+   ],
+   2,
+   "Art. 118.1.",
+   "lpac 118.1",
+   "",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para interponer recurso de alzada contra acto expreso es de:",
+   [
+    "Dos meses",
+    "Quince días",
+    "Un mes"
+   ],
+   2,
+   "Art. 122.1.",
+   "lpac 122.1",
+   "",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 123.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante:",
+   [
+    "El superior jerárquico",
+    "El Tribunal Económico-Administrativo",
+    "El mismo órgano que los hubiera dictado"
+   ],
+   2,
+   "Art. 123.1.",
+   "lpac 123.1",
+   "",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 123.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no se podrá interponer recurso contencioso-administrativo hasta que el recurso de reposición interpuesto sea resuelto expresamente o:",
+   [
+    "Se haya producido su desestimación presunta",
+    "Transcurra un mes desde su interposición",
+    "Se notifique la admisión"
+   ],
+   0,
+   "Art. 123.2.",
+   "lpac 123.2",
+   "",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso extraordinario de revisión se interpone contra actos firmes en vía administrativa ante:",
+   [
+    "El superior jerárquico",
+    "La jurisdicción contencioso-administrativa",
+    "El órgano administrativo que los dictó, que también es competente para resolverlo"
+   ],
+   2,
+   "Art. 125.1.",
+   "lpac 125.1",
+   "",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1.a de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, es causa del recurso extraordinario de revisión que al dictar el acto se hubiera incurrido en error de hecho que resulte:",
+   [
+    "De testimonios posteriores",
+    "De la apreciación del instructor",
+    "De los propios documentos incorporados al expediente"
+   ],
+   2,
+   "Art. 125.1.a.",
+   "lpac 125.1.a",
+   "",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar:",
+   [
+    "Informe de la Abogacía",
+    "Audiencia de los interesados",
+    "Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma"
+   ],
+   2,
+   "Art. 126.1.",
+   "lpac 126.1",
+   "",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, es causa del recurso extraordinario de revisión que aparezcan documentos de valor esencial que, aunque sean posteriores:",
+   [
+    "Se refieran a otro procedimiento",
+    "Hayan sido aportados por terceros",
+    "Evidencien el error de la resolución recurrida"
+   ],
+   2,
+   "Art. 125.1.b.",
+   "lpac 125.1.b",
+   "",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
    }
   ]
  ]

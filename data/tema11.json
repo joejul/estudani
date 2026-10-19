@@ -2285,7 +2285,8 @@
    "h-84-bis",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2336,7 +2337,8 @@
    "h-84-bis",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -2370,7 +2372,8 @@
    "h-servicio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2455,7 +2458,8 @@
    "h-ooaa-epe",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2489,7 +2493,8 @@
    "h-ooaa-epe",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2506,7 +2511,8 @@
    "h-ooaa-epe",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2523,7 +2529,8 @@
    "h-ooaa-epe",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2608,7 +2615,8 @@
    "h-servicio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2642,7 +2650,8 @@
    "h-servicio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2659,7 +2668,8 @@
    "h-policia",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2676,7 +2686,8 @@
    "h-policia",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2761,7 +2772,8 @@
    "h-licencias",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -2880,7 +2892,8 @@
    "h-policia",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3067,7 +3080,8 @@
    "h-servicio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3084,7 +3098,8 @@
    "h-servicio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3101,7 +3116,8 @@
    "h-servicio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3186,7 +3202,8 @@
    "h-subvenciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3220,7 +3237,8 @@
    "h-subvenciones",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3255,6 +3273,131 @@
    [],
    {
     "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 224 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales podrán otorgar auxilios económicos a entidades públicas o privadas y a particulares que realicen actividades de:",
+   [
+    "Interés público que complementen o suplan las de la entidad local",
+    "Interés económico general",
+    "Carácter benéfico exclusivamente"
+   ],
+   0,
+   "Art. 224.",
+   "l7-1999 224",
+   "",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 225.1 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la actividad de fomento se realizará de acuerdo con los principios de publicidad, objetividad, libre concurrencia, igualdad, respeto de las reglas de libre competencia y:",
+   [
+    "Concurrencia competitiva obligatoria",
+    "Adecuación a la legalidad presupuestaria",
+    "Reserva de ley en cada caso"
+   ],
+   1,
+   "Art. 225.1.",
+   "l7-1999 225.1",
+   "",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, los organismos autónomos locales y entidades públicas empresariales locales se rigen por los artículos 45 a 52 y 53 a 60 de la Ley 6/1997 (LOFAGE), respectivamente, en cuanto les resulte de aplicación:",
+   [
+    "Sin especialidad alguna",
+    "Con las especialidades de la propia LBRL",
+    "Con las que fije cada Comunidad Autónoma"
+   ],
+   1,
+   "Art. 85 bis.1.",
+   "lbrl 85 bis.1",
+   "",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 ter de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el artículo 84 ter de la LBRL se refiere al ejercicio de actividades que:",
+   [
+    "No precisen autorización habilitante y previa",
+    "Precisen licencia previa",
+    "Estén sometidas a concesión"
+   ],
+   0,
+   "Art. 84 ter.",
+   "lbrl 84 ter",
+   "",
+   "h-84-bis",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis.1.a de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, los organismos autónomos y entidades públicas empresariales locales deberán quedar adscritos a:",
+   [
+    "Una Concejalía, Área u órgano equivalente de la entidad local",
+    "El Pleno directamente",
+    "La Intervención"
+   ],
+   0,
+   "Art. 85 bis.1.a.",
+   "lbrl 85 bis.1.a",
+   "",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 225.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de:",
+   [
+    "Las directrices de la Diputación Provincial",
+    "Los convenios colectivos",
+    "Los planes sectoriales de coordinación aprobados por la Administración del Estado o de la Comunidad Autónoma"
+   ],
+   2,
+   "Art. 225.2.",
+   "l7-1999 225.2",
+   "",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 224 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales podrán otorgar auxilios económicos a:",
+   [
+    "Solo a entidades sin ánimo de lucro",
+    "Entidades públicas o privadas y a los particulares",
+    "Solo a otras entidades públicas"
+   ],
+   1,
+   "Art. 224.",
+   "l7-1999 224",
+   "",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
    }
   ]
  ]

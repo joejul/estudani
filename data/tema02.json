@@ -3347,7 +3347,8 @@
    "h-ley-art10-12",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3381,7 +3382,8 @@
    "h-ley-art10-12",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3483,7 +3485,8 @@
    "h-empleo",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3551,7 +3554,8 @@
    "h-empleo",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3602,7 +3606,8 @@
    "h-empleo",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3704,7 +3709,8 @@
    "h-plan",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -3738,7 +3744,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3772,7 +3779,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3874,7 +3882,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3942,7 +3951,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -3976,7 +3986,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4010,7 +4021,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4044,7 +4056,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4095,7 +4108,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4180,7 +4194,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4248,7 +4263,8 @@
    "h-ley4-recursos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3
    }
   ],
   [
@@ -4331,6 +4347,283 @@
    "l4-2007 36",
    "",
    "h-ley4-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y especialmente las derivadas de:",
+   [
+    "El embarazo, la edad y la nacionalidad",
+    "La maternidad y la orientación sexual",
+    "La maternidad, la asunción de obligaciones familiares y el estado civil"
+   ],
+   2,
+   "Art. 3.",
+   "lo3-2007 3",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la igualdad de trato y de oportunidades se configura en el ordenamiento jurídico como:",
+   [
+    "Un derecho fundamental de aplicación directa",
+    "Un principio informador que se integrará y observará en la interpretación y aplicación de las normas",
+    "Una directriz sin valor interpretativo"
+   ],
+   1,
+   "Art. 4.",
+   "lo3-2007 4",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el principio de igualdad de trato y oportunidades se garantiza en el ámbito del empleo:",
+   [
+    "Privado y público, en el acceso al empleo, la formación, la promoción y las condiciones de trabajo, incluidas las retributivas y las de despido",
+    "Público exclusivamente",
+    "Privado, salvo condiciones de despido"
+   ],
+   0,
+   "Art. 5.",
+   "lo3-2007 5",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, se considera discriminación directa por razón de sexo la situación en que una persona sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra:",
+   [
+    "En cualquier situación",
+    "En situación comparable",
+    "En situación idéntica y mismo puesto"
+   ],
+   1,
+   "Art. 6.1.",
+   "lo3-2007 6.1",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.2 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la discriminación indirecta se produce cuando una disposición, criterio o práctica aparentemente neutros ponen a personas de un sexo en desventaja particular, salvo que puedan justificarse objetivamente en atención a:",
+   [
+    "Razones organizativas del servicio",
+    "Una finalidad legítima y que los medios para alcanzarla sean necesarios y adecuados",
+    "El convenio colectivo aplicable"
+   ],
+   1,
+   "Art. 6.2.",
+   "lo3-2007 6.2",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7.1 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de:",
+   [
+    "Obtener un favor de naturaleza sexual",
+    "Reiterarse al menos tres veces",
+    "Atentar contra la dignidad de una persona, en particular creando un entorno intimidatorio, degradante u ofensivo"
+   ],
+   2,
+   "Art. 7.1.",
+   "lo3-2007 7.1",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, constituye discriminación directa por razón de sexo:",
+   [
+    "Solo el despido por embarazo",
+    "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad",
+    "Solo el trato desfavorable en la contratación"
+   ],
+   1,
+   "Art. 8.",
+   "lo3-2007 8",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, se considera también discriminación por razón de sexo cualquier trato adverso derivado de:",
+   [
+    "La presentación de queja, reclamación, denuncia, demanda o recurso destinados a impedir su discriminación",
+    "La solicitud de excedencia por cuidado de hijos",
+    "La negativa a trabajar en horario nocturno"
+   ],
+   0,
+   "Art. 9.",
+   "lo3-2007 9",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, las acciones positivas son medidas específicas en favor de las mujeres que serán aplicables en tanto subsistan las situaciones de desigualdad y habrán de ser:",
+   [
+    "Razonables y proporcionadas en relación con el objetivo perseguido",
+    "Temporales por un máximo de cinco años",
+    "Aprobadas por ley"
+   ],
+   0,
+   "Art. 11.1.",
+   "lo3-2007 11.1",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.2 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, las acciones positivas:",
+   [
+    "Solo pueden adoptarlas los Poderes Públicos",
+    "Podrán ser adoptadas también por personas físicas y jurídicas privadas en los términos de la Ley",
+    "Están prohibidas en el ámbito privado"
+   ],
+   1,
+   "Art. 11.2.",
+   "lo3-2007 11.2",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.1 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, incluso:",
+   [
+    "Solo durante la vigencia de la relación",
+    "Tras la terminación de la relación en la que supuestamente se ha producido la discriminación",
+    "Con previa reclamación administrativa obligatoria"
+   ],
+   1,
+   "Art. 12.1.",
+   "lo3-2007 12.1",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.1 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en procesos con alegaciones de discriminación por razón de sexo corresponde a la persona demandada:",
+   [
+    "Probar que la actora no sufrió perjuicio",
+    "Acreditar el consentimiento de la actora",
+    "Probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad"
+   ],
+   2,
+   "Art. 13.1.",
+   "lo3-2007 13.1",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el principio de igualdad de trato y oportunidades informará la actuación de todos los Poderes Públicos con carácter:",
+   [
+    "Sectorial",
+    "Transversal",
+    "Subsidiario"
+   ],
+   1,
+   "Art. 15.",
+   "lo3-2007 15",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, es criterio general de actuación de los Poderes Públicos:",
+   [
+    "El compromiso con la efectividad del derecho constitucional de igualdad entre mujeres y hombres",
+    "La neutralidad en materia de género",
+    "La igualdad formal exclusivamente"
+   ],
+   0,
+   "Art. 14.1.",
+   "lo3-2007 14.1",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la legitimación en procesos sobre la defensa del derecho a la igualdad entre mujeres y hombres corresponde a:",
+   [
+    "Solo a la persona afectada",
+    "Solo al Ministerio Fiscal",
+    "Las personas físicas y jurídicas con interés legítimo, determinadas en las leyes procesales"
+   ],
+   2,
+   "Art. 12.2.",
+   "lo3-2007 12.2",
+   "",
+   "h-ley",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, las medidas de acción positiva a favor de las mujeres:",
+   [
+    "Se aplicarán por un máximo de diez años",
+    "Serán permanentes",
+    "Serán aplicables en tanto subsistan las situaciones patentes de desigualdad de hecho"
+   ],
+   2,
+   "Art. 11.",
+   "lo3-2007 11",
+   "",
+   "h-ley",
    [],
    {
     "nuevo": 1
