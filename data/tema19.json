@@ -4242,6 +4242,261 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "Las Corporaciones locales forman su oferta de empleo en el plazo de:",
+   [
+    "Tres meses desde el inicio del ejercicio",
+    "Un mes desde la aprobación del presupuesto",
+    "Quince días desde la aprobación de la plantilla"
+   ],
+   1,
+   "La aprueba el Alcalde, o la Junta de Gobierno Local en municipios de gran población.",
+   "Lección del tema: oferta de empleo",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En un municipio de gran población, la oferta de empleo público la aprueba:",
+   [
+    "El Pleno",
+    "La Junta de Gobierno Local",
+    "El Alcalde"
+   ],
+   1,
+   "En los demás casos, el Alcalde o Presidente.",
+   "Lección del tema: oferta de empleo",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El RD 896/1991 establece:",
+   [
+    "El régimen de las plantillas locales",
+    "Las reglas básicas y los programas mínimos del procedimiento de selección de los funcionarios de la Administración local",
+    "El Registro Central de Personal"
+   ],
+   1,
+   "Supletoriamente se aplica el RD 364/1995 (AGE).",
+   "Lección del tema: selección",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La reserva del 7 % para personas con discapacidad se aplica también:",
+   [
+    "A la promoción interna (RD 2271/2004), con un 2 % para discapacidad intelectual",
+    "Solo al acceso libre",
+    "A la provisión de puestos por concurso"
+   ],
+   0,
+   "Según el contenido del tema: A la promoción interna (RD 2271/2004), con un 2 % para discapacidad intelectual.",
+   "Lección del tema: selección",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los tribunales de selección tienen una composición:",
+   [
+    "Predominantemente técnica, con titulación igual o superior a la exigida, y pertenencia a título individual",
+    "Predominantemente política",
+    "Representativa de los sindicatos"
+   ],
+   0,
+   "No pueden formar parte el personal de elección política, los interinos ni los eventuales (art. 60 TREBEP).",
+   "Lección del tema: tribunales",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las bases de las pruebas de selección las aprueba:",
+   [
+    "El Pleno",
+    "El Tribunal calificador",
+    "El Alcalde (o la Junta de Gobierno Local en gran población)"
+   ],
+   2,
+   "Según el contenido del tema: El Alcalde (o la Junta de Gobierno Local en gran población).",
+   "Lección del tema: selección",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En las convocatorias de provisión de puestos pueden participar los funcionarios propios y los de otras Administraciones:",
+   [
+    "Según establezcan las relaciones de puestos de trabajo (art. 101 LBRL)",
+    "Siempre, sin límites",
+    "Solo si son del mismo cuerpo"
+   ],
+   0,
+   "Según el contenido del tema: Según establezcan las relaciones de puestos de trabajo (art. 101 LBRL).",
+   "Lección del tema: provisión",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las leyes pueden prever otros procedimientos de provisión, además de concurso y libre designación, como:",
+   [
+    "Oposición libre",
+    "Comisiones de servicio sin límite",
+    "Permutas, movilidad por salud, reingreso, cese o remoción"
+   ],
+   2,
+   "Art. 78.3 TREBEP.",
+   "Lección del tema: provisión",
+   "",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La plantilla de la Corporación se aprueba:",
+   [
+    "Con la relación de puestos de trabajo",
+    "Anualmente a través del presupuesto",
+    "Cada cuatro años por el Pleno"
+   ],
+   1,
+   "Art. 90 LBRL.",
+   "Lección del tema: plantilla",
+   "",
+   "h-plantilla",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La plantilla debe responder a los principios de:",
+   [
+    "Eficacia, jerarquía y coordinación",
+    "Racionalidad, economía y eficiencia, sin rebasar los límites de gasto generales",
+    "Legalidad, mérito y capacidad"
+   ],
+   1,
+   "Según el contenido del tema: Racionalidad, economía y eficiencia, sin rebasar los límites de gasto generales.",
+   "Lección del tema: plantilla",
+   "",
+   "h-plantilla",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La relación de puestos de trabajo debe comprender como mínimo:",
+   [
+    "Las funciones y requisitos de cada puesto",
+    "La denominación de los puestos, los grupos de clasificación, los cuerpos o escalas, los sistemas de provisión y las retribuciones complementarias",
+    "Los nombres de sus titulares"
+   ],
+   1,
+   "Es pública (art. 74 TREBEP).",
+   "Lección del tema: RPT",
+   "",
+   "h-plantilla",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los datos inscritos en el Registro de Personal local determinan:",
+   [
+    "Las bases de selección",
+    "Las nóminas, a efectos de la justificación de las retribuciones",
+    "Los límites de la plantilla"
+   ],
+   1,
+   "Art. 90.3 LBRL.",
+   "Lección del tema: Registro de Personal",
+   "",
+   "h-plantilla",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Registro de Personal local se coordina con:",
+   [
+    "El Registro Central de Personal (RD 1405/1986)",
+    "El Registro de Planes de Igualdad",
+    "El Registro Mercantil"
+   ],
+   0,
+   "Si la entidad carece de capacidad, cooperan el Estado y la Comunidad Autónoma.",
+   "Lección del tema: Registro de Personal",
+   "",
+   "h-plantilla",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En los municipios de gran población, el número de puestos de personal eventual lo fija:",
+   [
+    "El Pleno al aprobar el presupuesto, y la Junta de Gobierno Local decide dentro de ese límite",
+    "El Alcalde",
+    "La Junta de Gobierno Local en todo caso"
+   ],
+   0,
+   "Según el contenido del tema: El Pleno al aprobar el presupuesto, y la Junta de Gobierno Local decide dentro de ese límite.",
+   "Lección del tema: plantilla",
+   "",
+   "h-plantilla",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La plantilla puede ampliarse cuando:",
+   [
+    "Lo autoriza la Comunidad Autónoma",
+    "El incremento se compensa con reducciones",
+    "Lo decide el Alcalde por urgencia"
+   ],
+   1,
+   "Según el contenido del tema: El incremento se compensa con reducciones.",
+   "Lección del tema: plantilla",
+   "",
+   "h-plantilla",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

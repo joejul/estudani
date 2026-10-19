@@ -379,6 +379,32 @@
     ]
    ],
    "ic": "🚒"
+  },
+  {
+   "id": "h-plantilla",
+   "epi": "e4",
+   "titulo": "Plantilla, RPT y Registro de Personal",
+   "art": "LBRL 90; TREBEP 71 y 74",
+   "resumen": "Instrumentos de ordenación del personal local.",
+   "pistas": [
+    [
+     "q",
+     "Plantilla: se aprueba cada año con el presupuesto"
+    ],
+    [
+     "q",
+     "RPT: denominación, grupos, cuerpos o escalas, provisión y retribuciones complementarias; es pública"
+    ],
+    [
+     "d",
+     "Registro de Personal: sus datos determinan las nóminas"
+    ],
+    [
+     "d",
+     "Si la entidad no puede, cooperan el Estado y la Comunidad Autónoma"
+    ]
+   ],
+   "ic": "📋"
   }
  ],
  "esquema": [

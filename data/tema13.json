@@ -3922,6 +3922,312 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "Los ingresos de capítulo 6 en la clasificación económica de los presupuestos locales son:",
+   [
+    "Enajenación de inversiones reales",
+    "Transferencias de capital",
+    "Activos financieros"
+   ],
+   0,
+   "Capítulo 7 = transferencias de capital; 8 = activos financieros.",
+   "Lección del tema: clasificación de ingresos",
+   "Confundir 6 y 7",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En la clasificación económica de gastos, el capítulo 3 corresponde a:",
+   [
+    "Gastos corrientes en bienes y servicios",
+    "Transferencias corrientes",
+    "Gastos financieros (intereses)"
+   ],
+   2,
+   "Intereses = capítulo 3 (gasto corriente).",
+   "Lección del tema: clasificación de gastos",
+   "",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las operaciones no financieras comprenden los capítulos:",
+   [
+    "1 a 5",
+    "1 a 7",
+    "6 a 9"
+   ],
+   1,
+   "Corrientes 1-5, de capital 6-7; financieras 8 y 9.",
+   "Lección del tema: clasificación económica",
+   "",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La cultura se clasifica en el área de gasto:",
+   [
+    "2, protección y promoción social",
+    "3, bienes públicos de carácter preferente",
+    "1, servicios públicos básicos"
+   ],
+   1,
+   "Área 3: sanidad, educación, cultura, deporte y ocio.",
+   "Lección del tema: clasificación por programas",
+   "Cultura no es área 2",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El área de gasto 0 comprende:",
+   [
+    "Los servicios públicos básicos",
+    "La deuda pública",
+    "Las actuaciones de carácter general"
+   ],
+   1,
+   "Intereses y amortización de la deuda.",
+   "Lección del tema: clasificación por programas",
+   "",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los niveles de la clasificación por programas son:",
+   [
+    "Área de gasto, política de gasto, grupo de programas y programa",
+    "Capítulo, artículo, concepto y subconcepto",
+    "Área, capítulo, artículo y programa"
+   ],
+   0,
+   "Las áreas y políticas deben coincidir con las del Estado.",
+   "Lección del tema: clasificación por programas",
+   "",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En la clasificación económica, los niveles obligatorios y cerrados son:",
+   [
+    "Concepto y subconcepto",
+    "Subconcepto y partida",
+    "Capítulo y artículo"
+   ],
+   2,
+   "Concepto, subconcepto y partida son abiertos.",
+   "Lección del tema: clasificación económica",
+   "",
+   "h-capitulos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "La estructura de los presupuestos locales la fija:",
+   [
+    "El Pleno de cada Corporación",
+    "El Ministerio de Hacienda (hoy la Orden EHA/3565/2008)",
+    "La Comunidad Autónoma"
+   ],
+   1,
+   "Art. 167 TRLRHL.",
+   "Lección del tema: estructura del presupuesto",
+   "",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El documento contable RC es:",
+   [
+    "El reconocimiento de la obligación",
+    "La retención de crédito, que comprueba que hay saldo disponible antes de autorizar",
+    "La disposición del gasto"
+   ],
+   1,
+   "En un contrato acredita la existencia de crédito (art. 116 LCSP).",
+   "Lección del tema: documentos contables",
+   "",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El documento A (autorización) se caracteriza por:",
+   [
+    "Vincular a la entidad con un tercero por importe exacto",
+    "Reservar el crédito por importe cierto o aproximado sin crear relación con terceros",
+    "Reconocer el crédito exigible al aprobar la factura"
+   ],
+   1,
+   "La disposición (D) sí vincula con un tercero.",
+   "Lección del tema: documentos contables",
+   "Confundir A con D",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El documento D (disposición o compromiso) se caracteriza por:",
+   [
+    "Reservar crédito por importe aproximado",
+    "Ordenar el pago contra la Tesorería",
+    "Un importe exacto y un tercero determinado, vinculando a la entidad con él"
+   ],
+   2,
+   "Según el contenido del tema: Un importe exacto y un tercero determinado, vinculando a la entidad con él.",
+   "Lección del tema: documentos contables",
+   "",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El documento O corresponde a:",
+   [
+    "El reconocimiento y liquidación de la obligación, normalmente al aprobar la factura o certificación",
+    "La ordenación del pago",
+    "La autorización del gasto"
+   ],
+   0,
+   "P = ordenación del pago.",
+   "Lección del tema: documentos contables",
+   "",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El documento AD se utiliza cuando:",
+   [
+    "Desde el inicio se conoce el importe exacto del servicio o suministro",
+    "Se acumulan autorización, disposición y reconocimiento de la obligación",
+    "No hay crédito disponible"
+   ],
+   0,
+   "ADO acumula las tres primeras fases en gastos de tramitación simple.",
+   "Lección del tema: documentos contables",
+   "",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En un contrato de obras, la disposición del gasto se produce:",
+   [
+    "Al aprobar el expediente de contratación",
+    "Con cada certificación de obra",
+    "Al formalizar el contrato, por el precio exacto adjudicado"
+   ],
+   2,
+   "La autorización es al aprobar el expediente; la obligación se reconoce con cada certificación.",
+   "Lección del tema: ejemplo del contrato de obras",
+   "Confundir autorización y disposición",
+   "h-docs-contables",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Corresponde ordenar los pagos:",
+   [
+    "Al Tesorero",
+    "Al Interventor",
+    "Al Presidente de la Corporación"
+   ],
+   2,
+   "El Tesorero ejecuta el pago.",
+   "Lección del tema: órganos competentes",
+   "",
+   "h-competencias-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Reconocer y liquidar obligaciones derivadas de compromisos legalmente adquiridos corresponde:",
+   [
+    "Al Presidente",
+    "Al Pleno",
+    "Al Interventor"
+   ],
+   0,
+   "Art. 185 TRLRHL.",
+   "Lección del tema: órganos competentes",
+   "",
+   "h-competencias-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Una unidad central de tesorería puede crearla el Pleno, a propuesta del Presidente, en entidades de:",
+   [
+    "Más de 100.000 habitantes",
+    "Más de 250.000 habitantes",
+    "Más de 500.000 habitantes"
+   ],
+   2,
+   "RD 500/1990.",
+   "Lección del tema: órganos competentes",
+   "",
+   "h-competencias-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El acto que acumula varias fases del gasto debe dictarlo:",
+   [
+    "El Interventor",
+    "El órgano con competencia para la primera fase",
+    "Un órgano con competencia para todas las fases, con los mismos efectos que si fueran actos separados"
+   ],
+   2,
+   "Art. 68 RD 500/1990.",
+   "Lección del tema: órganos competentes",
+   "",
+   "h-competencias-gasto",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }
