@@ -5,6 +5,317 @@
  "verificado": "2026-10-04",
  "epigrafes": [
   {
+   "id": "e3",
+   "titulo": "El acto administrativo: concepto, qué no es y clases",
+   "subtitulo": "Definición doctrinal, delimitación y clasificaciones",
+   "clave": [
+    "Declaración de voluntad, deseo, conocimiento o juicio",
+    "Ejercicio de una potestad administrativa",
+    "No son actos: actos materiales, contratos, actos políticos, reglamentos",
+    "Clases: simples/complejos, singulares/generales, expresos/presuntos…"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El **acto administrativo** se define clásicamente como **cualquier declaración de voluntad, de deseo, de conocimiento o de juicio realizada por un sujeto de la Administración Pública en el ejercicio de una potestad administrativa** distinta de la potestad reglamentaria. La Ley de la Jurisdicción Contencioso-Administrativa habla en general de la **actuación de las Administraciones sujeta al Derecho Administrativo**."
+    ],
+    [
+     "lista",
+     [
+      "Es una **declaración** (queda fuera la actividad puramente material).",
+      "Procede de un **sujeto de la Administración con competencia** para dictarlo (art. 34.1); la incompetencia es motivo de impugnación.",
+      "Se dicta en ejercicio de una **potestad administrativa**: la Administración actúa con las prerrogativas que el ordenamiento le da por el interés público."
+     ]
+    ],
+    [
+     "h",
+     "Qué NO es un acto administrativo (delimitación negativa)"
+    ],
+    [
+     "tabla",
+     [
+      "No es acto…",
+      "Por qué",
+      "Ejemplo"
+     ],
+     [
+      [
+       "**Actos materiales o de pura ejecución**",
+       "Son operaciones, no declaraciones; pero van respaldadas por un acto.",
+       "Los obreros derriban una finca en ruina: el acto es el acuerdo que la declara en ruina."
+      ],
+      [
+       "**Actos de la Administración como persona de Derecho privado**",
+       "No hay potestad administrativa.",
+       "Un contrato de arrendamiento civil."
+      ],
+      [
+       "**Contratos**",
+       "Exigen **acuerdo de voluntades**; el acto es **unilateral**.",
+       "Un contrato administrativo de obras."
+      ],
+      [
+       "**Actos políticos o de gobierno**",
+       "Emanan del Gobierno en funciones políticas, no administrativas.",
+       "Decisiones de dirección política."
+      ],
+      [
+       "**Reglamentos**",
+       "Son **normas**: crean Derecho con carácter permanente; el acto se **agota** al ejecutarse.",
+       "Una ordenanza municipal."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Un acto que necesita la **aceptación del destinatario** para producir efectos (el nombramiento de un funcionario exige que tome posesión en el plazo de un mes) **sigue siendo unilateral**: la aceptación afecta a la **eficacia**, no a la validez."
+    ],
+    [
+     "h",
+     "Clases de actos administrativos"
+    ],
+    [
+     "tabla",
+     [
+      "Criterio",
+      "Clases",
+      "Ejemplo"
+     ],
+     [
+      [
+       "**Número de órganos**",
+       "**Simples** (un solo órgano) y **complejos** (dos o más órganos).",
+       "Simple: el Alcalde declara la excedencia voluntaria de un funcionario. Complejo: el acuerdo de varios Ayuntamientos para mancomunarse."
+      ],
+      [
+       "**Destinatarios**",
+       "**Singulares** (una persona o grupo determinado) y **generales** (pluralidad indeterminada).",
+       "General: la convocatoria de unas oposiciones."
+      ],
+      [
+       "**Forma de manifestarse**",
+       "**Expresos** y **presuntos** (por silencio positivo o negativo).",
+       "Silencio positivo en una licencia de obras."
+      ],
+      [
+       "**Margen de decisión**",
+       "**Reglados** (la norma señala la decisión) y **discrecionales** (varias opciones lícitas, siempre al servicio del interés general).",
+       "Reglada: una licencia de obras que cumple la normativa no puede denegarse."
+      ],
+      [
+       "**Posición en el procedimiento**",
+       "**Definitivos** (ponen fin al expediente) y **de trámite** (una fase, sin carácter resolutivo).",
+       "Trámite: el informe técnico del proyecto."
+      ],
+      [
+       "**Efectos para el administrado**",
+       "**Favorables** (reconocen un derecho o quitan un límite) y **de gravamen** (imponen un deber o carga).",
+       "De gravamen: una orden de ejecución o una sanción."
+      ],
+      [
+       "**Efecto sobre la situación jurídica**",
+       "**Constitutivos** (crean, modifican o extinguen) y **declarativos** (solo constatan).",
+       "Declarativo: un certificado de empadronamiento."
+      ],
+      [
+       "**Otras**",
+       "Los que **causan estado** (agotan la vía administrativa) y los que no; de **tracto instantáneo** (licencia de obras) y **sucesivo** (licencia de apertura); unilaterales y plurilaterales.",
+       "Tracto sucesivo: la licencia de un establecimiento hostelero."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "**Complejo ≠ colegiado:** el acuerdo del **Pleno** de una Corporación es un acto **simple** (el órgano colegiado manifiesta una sola voluntad). Tampoco son complejos los actos sujetos a aprobación de un órgano superior ni los trámites de un expediente."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cómo se define el acto administrativo en la doctrina clásica?",
+     "Declaración de voluntad, deseo, conocimiento o juicio realizada por un sujeto de la Administración en ejercicio de una potestad administrativa distinta de la reglamentaria."
+    ],
+    [
+     "¿Por qué los contratos no son actos administrativos?",
+     "Porque exigen un acuerdo de voluntades, mientras que el acto es unilateral."
+    ],
+    [
+     "¿Qué diferencia hay entre acto definitivo y acto de trámite?",
+     "El definitivo pone fin al expediente; el de trámite es una fase del procedimiento sin carácter resolutivo."
+    ],
+    [
+     "¿Qué es un acto de gravamen?",
+     "El que impone al administrado un deber, gravamen o carga (por ejemplo, una sanción)."
+    ]
+   ],
+   "esquema": [
+    "Acto = declaración + sujeto con competencia + potestad administrativa",
+    "No son actos: materiales · privados · contratos · políticos · reglamentos",
+    "Clases: simple/complejo · singular/general · expreso/presunto · reglado/discrecional · definitivo/trámite · favorable/gravamen · constitutivo/declarativo"
+   ],
+   "ic": "📑",
+   "articulos": []
+  },
+  {
+   "id": "e4",
+   "titulo": "Elementos del acto: subjetivos, objetivos y formales",
+   "subtitulo": "Competencia, contenido, causa, fin, procedimiento y forma",
+   "clave": [
+    "Subjetivos: sujeto activo (órgano competente) y sujeto pasivo",
+    "Competencia territorial, funcional, jerárquica y temporal",
+    "Objetivos: contenido (natural, implícito, eventual), causa y fin",
+    "Formales: procedimiento y forma",
+    "Desviación de poder"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La doctrina agrupa los **requisitos** del acto en tres bloques: **elementos subjetivos** (quién), **objetivos** (qué y por qué) y **formales** (cómo)."
+    ],
+    [
+     "h",
+     "Elementos subjetivos"
+    ],
+    [
+     "tabla",
+     [
+      "Elemento",
+      "Qué es"
+     ],
+     [
+      [
+       "**Sujeto activo**",
+       "Un **órgano de la Administración** con **capacidad** (propia de la persona jurídico-pública) y **competencia** (del órgano: la «medida de la potestad» que le corresponde). El titular debe tener **investidura legítima** (nombramiento, toma de posesión…) y no estar incurso en **causas de abstención** (art. 23 Ley 40/2015)."
+      ],
+      [
+       "**Sujeto pasivo**",
+       "El **destinatario** del acto: una colectividad (acto general) o una o varias personas concretas (acto individual). En rigor no es un elemento del acto."
+      ]
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Competencia",
+      "Qué atribuye",
+      "Si se vulnera"
+     ],
+     [
+      [
+       "**Territorial**",
+       "Cada órgano actúa en su circunscripción: nacional, autonómica, local (provincial o municipal) o inferior al municipio.",
+       "**Nulidad de pleno derecho** si la incompetencia es manifiesta (art. 47.1.b)."
+      ],
+      [
+       "**Funcional o material**",
+       "Cada órgano tiene sus materias (por ejemplo, las Direcciones Generales de un Ministerio).",
+       "**Nulidad de pleno derecho** si es manifiesta (art. 47.1.b)."
+      ],
+      [
+       "**Jerárquica**",
+       "Reparte la competencia entre superiores e inferiores.",
+       "**Anulabilidad**; se puede **convalidar** por el órgano superior (art. 52.3)."
+      ],
+      [
+       "**Temporal**",
+       "Algunas competencias solo se pueden ejercer durante un tiempo (por ejemplo, el ejercicio presupuestario).",
+       "Según el caso."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "En un mismo órgano deben coincidir **todos los criterios** de competencia. En los **órganos colegiados**, prescindir de las reglas esenciales de formación de su voluntad produce **nulidad** (art. 47.1.e)."
+    ],
+    [
+     "h",
+     "Elementos objetivos"
+    ],
+    [
+     "tabla",
+     [
+      "Elemento",
+      "Qué es"
+     ],
+     [
+      [
+       "**Contenido**",
+       "El efecto práctico del acto. Debe ser **determinado o determinable, posible y lícito** y adecuado a su fin (art. 34.2). Tiene tres partes: **natural** (lo que lo individualiza, p. ej. la transferencia de propiedad en una expropiación), **implícito** (cláusulas no expresas que el ordenamiento supone, p. ej. la temporalidad del nombramiento del personal eventual) y **eventual** (las que el órgano puede añadir)."
+      ],
+      [
+       "**Cláusulas accesorias**",
+       "**Condición, término y modo.** Son válidas cuando se ejerce una **potestad discrecional** o la ley habilita para ello. Si no, son nulas, pero **la nulidad no arrastra al acto** si este puede producir sus efectos sin ellas (art. 49.2)."
+      ],
+      [
+       "**Causa**",
+       "El **porqué**: la razón que justifica dictar el acto (los **presupuestos de hecho**). Si fallan, el acto queda viciado (por ejemplo, convocar una plaza que no está vacante)."
+      ],
+      [
+       "**Fin**",
+       "El **para qué**. Hay un **fin inmediato** (el efecto práctico) y un **fin remoto**, siempre el **interés público**. Si se transgrede, cabe recurrir por **desviación de poder**."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "La **desviación de poder** es el ejercicio de potestades administrativas **para fines distintos de los fijados por el ordenamiento jurídico** (art. 70.2 LJCA). Los actos con contenido **imposible** o que constituyan **infracción penal** son **nulos** (art. 47.1.c y d); los que incurran en cualquier otra infracción del ordenamiento, incluida la desviación de poder, son **anulables** (art. 48.1)."
+    ],
+    [
+     "h",
+     "Elementos formales"
+    ],
+    [
+     "tabla",
+     [
+      "Elemento",
+      "Regla"
+     ],
+     [
+      [
+       "**Procedimiento**",
+       "El **cauce formal** de actuaciones por el que se elabora la voluntad de la Administración. Los actos se producen **por el órgano competente ajustándose a los requisitos y al procedimiento establecido** (art. 34.1)."
+      ],
+      [
+       "**Forma**",
+       "En Derecho Administrativo la forma suele estar **tasada**: **por escrito y por medios electrónicos**, salvo que su naturaleza exija o permita otra más adecuada (art. 36.1). Si el órgano actúa **verbalmente**, la constancia escrita la firma el titular del órgano inferior o el funcionario que lo reciba; los actos de **la misma naturaleza** (nombramientos, concesiones, licencias) pueden **refundirse en un único acto**."
+      ],
+      [
+       "**Notificación o publicación y motivación**",
+       "Según tenga destinatario concreto o plural se **notifica** o se **publica**; además se **motiva** en los casos del art. 35."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "**Territorial y material** manifiestas → **nulidad**. **Jerárquica** → **anulabilidad** y convalidación por el superior. Un defecto de forma solo anula si el acto carece de requisitos formales indispensables o deja en indefensión."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué clases de competencia distingue la doctrina?",
+     "Territorial, funcional o material, jerárquica y (según algunos autores) temporal."
+    ],
+    [
+     "¿Qué ocurre si un órgano inferior invade la competencia jerárquica de un superior?",
+     "El acto es anulable y puede convalidarse por el órgano superior (art. 52.3)."
+    ],
+    [
+     "¿Cuáles son las tres partes del contenido de un acto?",
+     "Natural, implícito y eventual."
+    ],
+    [
+     "¿Qué es la desviación de poder?",
+     "Ejercer potestades administrativas para fines distintos de los fijados por el ordenamiento (art. 70.2 LJCA)."
+    ]
+   ],
+   "esquema": [
+    "Subjetivos: sujeto activo (capacidad y competencia) · sujeto pasivo",
+    "Competencia: territorial y material (nulidad) · jerárquica (anulabilidad)",
+    "Objetivos: contenido · causa · fin · Formales: procedimiento y forma"
+   ],
+   "ic": "🧩",
+   "articulos": []
+  },
+  {
    "id": "e0",
    "titulo": "Requisitos del acto administrativo",
    "subtitulo": "Arts. 34 a 37",
@@ -163,6 +474,58 @@
     [
      "trampa",
      "Toda notificación debe contener **el texto íntegro** de la resolución (examen 2025). Rechazo electrónico: **10 días naturales**, no hábiles. Segundo intento de papel: **una sola vez**, en otra hora."
+    ],
+    [
+     "h",
+     "Notificación: más reglas (arts. 41 a 46)"
+    ],
+    [
+     "lista",
+     [
+      "**Preferentemente electrónica**; **excepcionalmente en papel**: cuando el interesado comparece espontáneamente en una oficina de asistencia en materia de registros y pide la notificación personal, o cuando hace falta la **entrega directa por un empleado público** para asegurar la eficacia.",
+      "**Nunca por medios electrónicos** (art. 41.2): si el acto va con elementos que **no se pueden convertir** a formato electrónico o contiene **medios de pago** a favor de los obligados (como cheques).",
+      "Son válidas si permiten **constancia de su envío y recepción**, de las fechas y horas, del contenido íntegro y de la identidad del remitente y destinatario.",
+      "El **aviso** al correo o dispositivo del interesado **no es requisito de validez**. Si se notifica por **varios cauces**, vale la fecha de la **primera**. Si el interesado **rechaza** la notificación, se deja constancia y **sigue el procedimiento**.",
+      "**Notificación infructuosa (art. 44):** anuncio en el **BOE**; antes, y con carácter **facultativo**, en el boletín de la Comunidad o de la provincia, en el tablón de edictos del último domicilio o en el Consulado. La publicación en el BOE es **gratuita** para quien la solicita.",
+      "**Publicación (art. 45):** cuando lo digan las normas o por razones de interés público; **obligatoria** (con efectos de notificación) si hay una **pluralidad indeterminada** de destinatarios o si la notificación a uno es insuficiente (entonces es adicional), y en los actos de **procedimientos selectivos o de concurrencia competitiva** (la convocatoria indica el medio; las publicaciones en otros lugares **no valen**).",
+      "**Indicación (art. 46):** si la notificación por anuncio o la publicación **lesiona derechos o intereses legítimos**, solo se publica una **somera indicación** del contenido y del lugar donde comparecer para conocer el acto completo."
+     ]
+    ],
+    [
+     "h",
+     "Otras reglas de eficacia (art. 39)"
+    ],
+    [
+     "lista",
+     [
+      "Las normas y actos dictados por un órgano en el ejercicio de su competencia **deben ser observados por los demás órganos**, aunque no dependan jerárquicamente de él o sean de otra Administración (**39.4**).",
+      "Si una Administración debe dictar un acto que se basa necesariamente en otro de **otra Administración** que cree **ilegal**, puede **requerirla previamente** para que lo anule o revise y, si rechaza, interponer recurso contencioso-administrativo; mientras tanto **queda suspendido el procedimiento** (**39.5**). El requerimiento se hace en **dos meses** y se entiende rechazado si no se contesta en **un mes** (art. 44 LJCA)."
+     ]
+    ],
+    [
+     "h",
+     "Cesación de la eficacia"
+    ],
+    [
+     "tabla",
+     [
+      "Tipo",
+      "Causas"
+     ],
+     [
+      [
+       "**Temporal**",
+       "La **suspensión** del acto: **art. 108** (durante la revisión de oficio) y **art. 117** (durante los recursos administrativos)."
+      ],
+      [
+       "**Definitiva**",
+       "a) **Cumplimiento total** del acto; b) **transcurso del plazo** señalado; c) cumplimiento de la **condición resolutoria**; d) **desaparición de los presupuestos de hecho**; e) **anulación o revocación** del acto."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **ejecutividad** significa que el acto, una vez dictado, puede y debe llevarse a la práctica. La **suspensión** del acto es una cesación **temporal** de la eficacia (arts. 108 y 117); la **anulación o revocación** es **definitiva**."
     ]
    ],
    "flash": [
@@ -173,6 +536,18 @@
     [
      "¿Cuándo se entiende rechazada una notificación electrónica obligatoria?",
      "A los diez días naturales de su puesta a disposición sin acceder (43.2)."
+    ],
+    [
+     "¿Qué publicación obligatoria hay en los procedimientos selectivos?",
+     "Los actos se publican en el medio que indique la convocatoria; las publicaciones en otros lugares carecen de validez."
+    ],
+    [
+     "¿Qué artículos regulan la suspensión del acto (cesación temporal de su eficacia)?",
+     "El art. 108 (revisión de oficio) y el art. 117 (recursos administrativos)."
+    ],
+    [
+     "¿Por qué causas cesa definitivamente la eficacia de un acto?",
+     "Cumplimiento total, transcurso del plazo, condición resolutoria, desaparición de los presupuestos de hecho y anulación o revocación."
     ]
    ],
    "esquema": [
@@ -244,6 +619,26 @@
      "Notificación o publicación que lesiona: solo una somera indicación",
      "Si notificar por **anuncio** o publicar el acto **lesiona derechos o intereses legítimos**, el órgano **solo publica** en el diario oficial una **somera indicación del contenido** y **del lugar donde comparecer**, en el plazo fijado, para conocer el **contenido íntegro**. Se pueden añadir otras formas complementarias, pero **sin excluir** el diario oficial.",
      "¿Qué se publica cuando el contenido íntegro del acto lesionaría derechos?"
+    ],
+    [
+     "lpac",
+     "108",
+     "Suspensión durante la revisión de oficio",
+     "Mientras se revisa de oficio un acto (nulidad), el órgano competente puede **suspender su ejecución** si la ejecución pudiera causar **perjuicios de imposible o difícil reparación**.",
+     "¿Qué puede acordar el órgano competente iniciado el procedimiento de revisión de oficio?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "117",
+     "Suspensión de la ejecución al recurrir",
+     "Recurrir **no suspende** la ejecución del acto, **salvo** que el órgano que decide lo acuerde: por perjuicio de **imposible o difícil reparación** o por causa de **nulidad de pleno derecho**.",
+     "¿Suspende por sí sola la interposición de un recurso la ejecución del acto?",
+     {
+      "add": 1
+     }
     ]
    ]
   },
@@ -318,6 +713,64 @@
     [
      "trampa",
      "Solo los vicios de **47.1** son nulidad de pleno derecho; la **incompetencia** nula es la **manifiesta** por materia o territorio. Lo demás es, en general, **anulable**. Y se **convalidan** los anulables, no los nulos."
+    ],
+    [
+     "h",
+     "Presunción de validez y tres posibles situaciones"
+    ],
+    [
+     "p",
+     "Los actos se **presumen válidos** (art. 39.1), pero es una presunción **«iuris tantum»**: admite prueba en contrario mediante recurso. Un acto con defectos puede ser **nulo de pleno derecho**, **anulable** o simplemente **irregular**. La **regla general** es la **anulabilidad**; la nulidad es la **excepción**."
+    ],
+    [
+     "h",
+     "Diferencias entre nulidad de pleno derecho y anulabilidad"
+    ],
+    [
+     "tabla",
+     [
+      "Aspecto",
+      "Nulidad de pleno derecho",
+      "Anulabilidad"
+     ],
+     [
+      [
+       "**Quién puede alegarla**",
+       "**Cualquiera** (efecto *erga omnes*); los tribunales deben declararla **aunque nadie la alegue**.",
+       "Solo los **interesados**; los tribunales **no** pueden declararla de oficio."
+      ],
+      [
+       "**Plazos**",
+       "La acción **no prescribe**: la Administración puede declararla **en cualquier momento**, de oficio o a instancia de parte, con **dictamen favorable del Consejo de Estado** (art. 106).",
+       "Hay que recurrir en **plazos cortos**; si no, el acto queda **firme** (salvo recurso de revisión)."
+      ],
+      [
+       "**Convalidación**",
+       "**No** se puede convalidar (art. 52).",
+       "**Sí**: la Administración puede **convalidarlo** subsanando los vicios."
+      ],
+      [
+       "**Efectos de la declaración**",
+       "**Retroactivos** (*ex tunc*): se retrotraen al momento en que se dictó el acto.",
+       "**Desde ahora** (*ex nunc*): se mantienen los efectos producidos hasta la anulación."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Irregularidad"
+    ],
+    [
+     "p",
+     "Es un **vicio secundario** que no invalida el acto: los **simples defectos de forma** que no priven al acto de requisitos indispensables ni causen indefensión, y las actuaciones **fuera de plazo** cuando la naturaleza del plazo no exige la anulabilidad (art. 48.2 y 48.3)."
+    ],
+    [
+     "p",
+     "La **convalidación** (art. 52) solo se aplica a los actos **anulables**. La **conversión** (art. 50: el acto nulo o anulable que reúna los elementos de otro distinto produce los efectos de este) y la **conservación** (art. 51: se mantienen los actos y trámites cuyo contenido habría sido igual sin la infracción) responden al **principio de conservación de los actos** y evitan invalidaciones generalizadas."
+    ],
+    [
+     "trampa",
+     "La acción contra la nulidad de pleno derecho **no prescribe** (no es de quince años) y la declaración de nulidad tiene efectos **retroactivos**. En la anulabilidad, los efectos se producen **desde que se declara**."
     ]
    ],
    "flash": [
@@ -328,6 +781,18 @@
     [
      "¿Qué se puede convalidar?",
      "Los actos anulables (art. 52)."
+    ],
+    [
+     "¿Quién puede alegar la nulidad de pleno derecho?",
+     "Cualquier persona; los tribunales pueden declararla aunque nadie la alegue."
+    ],
+    [
+     "¿Prescribe la acción contra un acto nulo de pleno derecho?",
+     "No: puede declararse en cualquier momento, con dictamen favorable del Consejo de Estado (art. 106)."
+    ],
+    [
+     "¿Qué efectos tiene la declaración de nulidad de pleno derecho y la de anulabilidad?",
+     "La nulidad: retroactivos (ex tunc). La anulabilidad: desde la declaración (ex nunc)."
     ]
    ],
    "esquema": [
@@ -386,6 +851,32 @@
   "titulo": "Los actos administrativos",
   "ramas": [
    {
+    "titulo": "Concepto y clases",
+    "color": "#9b5de5",
+    "hijos": [
+     {
+      "titulo": "Acto: declaración + sujeto + potestad administrativa"
+     },
+     {
+      "titulo": "No son actos: materiales, contratos, políticos, reglamentos"
+     },
+     {
+      "titulo": "Clases",
+      "hijos": [
+       {
+        "titulo": "Simple/complejo · singular/general"
+       },
+       {
+        "titulo": "Expreso/presunto · reglado/discrecional"
+       },
+       {
+        "titulo": "Definitivo/trámite · favorable/gravamen"
+       }
+      ]
+     }
+    ]
+   },
+   {
     "titulo": "Requisitos (34-37)",
     "color": "#247ba0",
     "hijos": [
@@ -419,6 +910,20 @@
       "hijos": [
        {
         "titulo": "No vulnerar un reglamento"
+       }
+      ]
+     },
+     {
+      "titulo": "Elementos",
+      "hijos": [
+       {
+        "titulo": "Subjetivos: competencia territorial, funcional, jerárquica"
+       },
+       {
+        "titulo": "Objetivos: contenido, causa y fin"
+       },
+       {
+        "titulo": "Formales: procedimiento y forma"
        }
       ]
      }
@@ -460,6 +965,17 @@
         "titulo": "Efecto de notificación en casos legales"
        }
       ]
+     },
+     {
+      "titulo": "Cesación de la eficacia",
+      "hijos": [
+       {
+        "titulo": "Temporal: suspensión (108 y 117)"
+       },
+       {
+        "titulo": "Definitiva: cumplimiento, plazo, condición, anulación"
+       }
+      ]
      }
     ]
    },
@@ -494,6 +1010,17 @@
       "hijos": [
        {
         "titulo": "Conversión · conservación · convalidación"
+       }
+      ]
+     },
+     {
+      "titulo": "Nulidad frente a anulabilidad",
+      "hijos": [
+       {
+        "titulo": "Nulidad: erga omnes, no prescribe, ex tunc"
+       },
+       {
+        "titulo": "Anulabilidad: interesados, plazos cortos, ex nunc"
        }
       ]
      }

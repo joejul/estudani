@@ -1,6 +1,10 @@
 {
  "mapaEpis": [
   [
+   "e3"
+  ],
+  [
+   "e4",
    "e0"
   ],
   [
@@ -82,6 +86,78 @@
    "Publicación",
    "Cuando no se puede notificar o los interesados son indeterminados, se publica en el BOE o en el diario oficial correspondiente.",
    "Art. 44 y 45 Ley 39/2015"
+  ],
+  [
+   "acto-simple-complejo",
+   "Acto simple y complejo",
+   "Simple: lo dicta un solo órgano. Complejo: intervienen dos o más órganos. El acuerdo de un órgano colegiado es un acto simple.",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "acto-reglado-discrecional",
+   "Acto reglado y discrecional",
+   "Reglado: la norma fija la decisión. Discrecional: la Administración elige entre varias opciones lícitas, siempre por el interés general.",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "acto-definitivo-tramite",
+   "Acto definitivo y de trámite",
+   "Definitivo: pone fin al expediente. De trámite: es una fase del procedimiento sin carácter resolutivo.",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "acto-favorable-gravamen",
+   "Acto favorable y de gravamen",
+   "Favorable: reconoce un derecho o quita un límite. De gravamen: impone un deber o carga, como una sanción.",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "acto-constitutivo-declarativo",
+   "Acto constitutivo y declarativo",
+   "Constitutivo: crea, modifica o extingue una situación jurídica. Declarativo: solo la constata (por ejemplo, un certificado).",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "causa-estado",
+   "Acto que causa estado",
+   "Acto que agota la vía administrativa y abre la vía contencioso-administrativa.",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "desviacion-poder",
+   "Desviación de poder",
+   "Usar una potestad administrativa para un fin distinto del que fija el ordenamiento. Hace anulable el acto.",
+   "Art. 70.2 LJCA"
+  ],
+  [
+   "clausulas-accesorias",
+   "Cláusulas accesorias",
+   "Condición, término y modo: cláusulas que el órgano puede añadir al contenido de un acto, normalmente en potestades discrecionales.",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "competencia-territorial-funcional",
+   "Competencia territorial, funcional y jerárquica",
+   "Territorial: por ámbito geográfico. Funcional: por materia. Jerárquica: entre superiores e inferiores. Las dos primeras, si se vulneran de forma manifiesta, causan nulidad.",
+   "Doctrina · Tema 6"
+  ],
+  [
+   "iuris-tantum",
+   "Presunción iuris tantum",
+   "Presunción que admite prueba en contrario. Los actos administrativos se presumen válidos mientras no se demuestre lo contrario.",
+   "Art. 39.1 Ley 39/2015"
+  ],
+  [
+   "irregularidad",
+   "Irregularidad del acto",
+   "Vicio secundario que no invalida el acto: simples defectos de forma sin indefensión o actuaciones fuera de plazo no esenciales.",
+   "Art. 48 Ley 39/2015"
+  ],
+  [
+   "ejecutividad-acto",
+   "Cesación de la eficacia",
+   "La eficacia del acto puede cesar de forma temporal (suspensión, arts. 108 y 117) o definitiva (cumplimiento, plazo, condición, anulación…).",
+   "Arts. 108 y 117 Ley 39/2015"
   ]
  ],
  "hubs": [
@@ -204,6 +280,122 @@
     ]
    ],
    "ic": "❌"
+  },
+  {
+   "id": "h-concepto-acto",
+   "epi": "e3",
+   "titulo": "Concepto y clases de acto",
+   "art": "Doctrina",
+   "resumen": "Qué es y qué no es un acto administrativo y sus clases.",
+   "pistas": [
+    [
+     "d",
+     "Declaración de voluntad, deseo, conocimiento o juicio en ejercicio de una potestad administrativa"
+    ],
+    [
+     "d",
+     "Los contratos no son actos: exigen acuerdo de voluntades"
+    ],
+    [
+     "d",
+     "Acto simple: un órgano; complejo: dos o más"
+    ],
+    [
+     "d",
+     "Acto de gravamen: impone un deber, carga o sanción"
+    ],
+    [
+     "t",
+     "El Pleno actúa como órgano colegiado: acto simple, no complejo"
+    ]
+   ],
+   "ic": "📑"
+  },
+  {
+   "id": "h-elementos-acto",
+   "epi": "e4",
+   "titulo": "Elementos del acto",
+   "art": "Arts. 34, 36 · Doctrina",
+   "resumen": "Subjetivos, objetivos y formales.",
+   "pistas": [
+    [
+     "d",
+     "Competencia territorial y funcional vulneradas de forma manifiesta: nulidad"
+    ],
+    [
+     "d",
+     "Competencia jerárquica vulnerada: anulabilidad, convalidable por el superior"
+    ],
+    [
+     "d",
+     "Contenido: natural, implícito y eventual"
+    ],
+    [
+     "d",
+     "Cláusulas accesorias: condición, término y modo"
+    ],
+    [
+     "d",
+     "Desviación de poder: fines distintos de los fijados por el ordenamiento (art. 70.2 LJCA)"
+    ]
+   ],
+   "ic": "🧩"
+  },
+  {
+   "id": "h-cesacion",
+   "epi": "e1",
+   "titulo": "Cesación de la eficacia",
+   "art": "Arts. 108 y 117",
+   "resumen": "Suspensión y causas de cese definitivo.",
+   "pistas": [
+    [
+     "d",
+     "Suspensión durante la revisión de oficio: art. 108"
+    ],
+    [
+     "d",
+     "Suspensión durante los recursos administrativos: art. 117"
+    ],
+    [
+     "d",
+     "Cese definitivo: cumplimiento, plazo, condición resolutoria, desaparición de presupuestos, anulación o revocación"
+    ],
+    [
+     "t",
+     "Recurrir no suspende por sí solo la ejecución del acto"
+    ]
+   ],
+   "ic": "⏹️"
+  },
+  {
+   "id": "h-nulidad-anulabilidad",
+   "epi": "e2",
+   "titulo": "Nulidad frente a anulabilidad",
+   "art": "Arts. 47-52",
+   "resumen": "Diferencias entre los dos vicios.",
+   "pistas": [
+    [
+     "d",
+     "Nulidad: cualquiera puede alegarla y los tribunales pueden declararla de oficio"
+    ],
+    [
+     "d",
+     "Nulidad: la acción no prescribe; dictamen favorable del Consejo de Estado (art. 106)"
+    ],
+    [
+     "d",
+     "Anulabilidad: solo los interesados, en plazos cortos"
+    ],
+    [
+     "d",
+     "Efectos de la nulidad: retroactivos; de la anulabilidad: desde la declaración"
+    ],
+    [
+     "t",
+     "Solo se convalidan los actos anulables"
+    ]
+   ],
+   "ic": "⚖️"
   }
  ],
  "esquema": [
