@@ -147,7 +147,10 @@
     "Escalas y subescalas (167)",
     "Administración General (169)",
     "Administración Especial (170-175)",
-    "Habilitación nacional (92 bis)"
+    "Habilitación nacional (92 bis)",
+    "Policía Local: más de 5.000 habitantes",
+    "Promoción interna: hasta el 100 % · 2 años",
+    "Oposición como sistema general (RD 896/1991)"
    ],
    "bloques": [
     [
@@ -215,6 +218,48 @@
     [
      "trampa",
      "**Personal de Oficios** → **Administración Especial, Subescala de Servicios Especiales** (examen 2025, pregunta 41), no Subalterna de Administración General. La Subescala **Auxiliar** (la de esta oposición) es de **Administración General**."
+    ],
+    [
+     "h",
+     "Personal al servicio de las Entidades Locales (art. 89 LBRL)"
+    ],
+    [
+     "lista",
+     [
+      "Se distingue entre: **funcionarios de carrera**, **interinos**, **personal laboral** y **personal eventual**; a ellos se suma el **personal directivo profesional** (art. 13 TREBEP). Los **funcionarios de carrera** (art. 130 TR/86) son los vinculados por **nombramiento legal**, que desempeñan servicios de **carácter permanente**, figuran en la **plantilla** y reciben una **retribución fija** con cargo al presupuesto de personal. No son funcionarios las autoridades locales, el personal laboral, el eventual ni el directivo profesional.",
+      "El **nombramiento** de los funcionarios corresponde al **Alcalde** (o al Presidente de la Diputación), también en los municipios de gran población (art. 124.4.i).",
+      "**Funciones reservadas** a funcionarios de carrera (art. 92.3 LBRL): las que impliquen **participación directa o indirecta en potestades públicas** o en la salvaguardia de los intereses generales; en particular, las que impliquen **ejercicio de autoridad**, la **fe pública y el asesoramiento legal preceptivo**, el **control y la fiscalización interna** y la contabilidad, tesorería y recaudación (estas últimas, a la **escala de habilitación nacional**)."
+     ]
+    ],
+    [
+     "h",
+     "Escala de Administración General en detalle (arts. 167 a 169 TR/86)"
+    ],
+    [
+     "lista",
+     [
+      "Desempeña las **funciones comunes al ejercicio de la actividad administrativa**; los puestos predominantemente burocráticos corresponden a **Técnicos, Gestión, Administrativos o Auxiliares**.",
+      "**Subescala Técnica:** funciones de nivel superior. **Gestión:** apoyo a las funciones de nivel superior. **Administrativa:** tareas administrativas normalmente de trámite y colaboración. **Auxiliar:** mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas y archivo. **Subalterna:** vigilancia y custodia interior de oficinas (conserje, ujier, portero); estos puestos pueden desempeñarlos funcionarios de servicios especiales con la capacidad disminuida para misiones de especial esfuerzo.",
+      "**Titulación (art. 169.2 TR/86, hoy trasladada a los grupos del TREBEP):** Técnica → A1; Gestión → A2; Administrativa → C1 (Bachiller o Técnico); **Auxiliar → C2 (ESO)**; Subalterna → agrupaciones profesionales. Se puede reservar **hasta el 100 %** de plazas a **promoción interna** con **2 años** de antigüedad en el subgrupo inferior.",
+      "**Selección (RD 896/1991):** sistema general de **oposición**; excepcionalmente, concurso-oposición o concurso."
+     ]
+    ],
+    [
+     "h",
+     "Escala de Administración Especial (arts. 170 a 175 TR/86)"
+    ],
+    [
+     "lista",
+     [
+      "Funciones que constituyen **el objeto peculiar de una carrera, profesión, arte u oficio**. Dos subescalas: **Técnica** (Técnicos Superiores, Medios y Auxiliares; exige el título correspondiente) y **Servicios Especiales** (aptitud específica sin exigir título determinado).",
+      "**Clases de Servicios Especiales:** **Policía Local y sus auxiliares**, **Extinción de Incendios**, **Cometidos Especiales**, **Personal de Oficios** y **Agentes forestales y medioambientales**.",
+      "**Policía Local:** solo existe en los municipios de **más de 5.000 habitantes** (salvo autorización); en los menores hay **auxiliares**. Es un **cuerpo único** bajo la autoridad del Alcalde, con **Jefe del Cuerpo**; se integra por una **Escala Técnica o de Mando** (Inspector, Subinspector y Oficial) y una **Ejecutiva** (Suboficial, Sargento, Cabo y Guardia). Sus miembros son **agentes de la autoridad**. **Extinción de incendios:** Oficiales, Suboficiales, Sargentos, Cabos y Bomberos.",
+      "**Cometidos Especiales:** tareas de carácter predominantemente no manual (por ejemplo, bandas de música) que no son de la Subescala Técnica. **Personal de Oficios:** tareas predominantemente manuales: Encargado, Maestro, Oficial, Ayudante y Operario."
+     ]
+    ],
+    [
+     "trampa",
+     "El Auxiliar es de **Administración General** y el Personal de Oficios de **Administración Especial** (Servicios Especiales). La Policía Local solo existe en **más de 5.000 habitantes**."
     ]
    ],
    "flash": [
@@ -229,6 +274,18 @@
     [
      "¿Qué funciones tiene la habilitación nacional?",
      "Secretaría (fe pública y asesoramiento legal) e intervención-tesorería (control económico-financiero, contabilidad, tesorería y recaudación)."
+    ],
+    [
+     "¿Cuál es la titulación de la Subescala Auxiliar hoy?",
+     "C2: Graduado en ESO."
+    ],
+    [
+     "¿En qué municipios existe Policía Local?",
+     "En los de más de 5.000 habitantes, salvo autorización del Ministerio."
+    ],
+    [
+     "¿Qué escalas componen la Policía Local?",
+     "La Técnica o de Mando y la Ejecutiva."
     ]
    ],
    "esquema": [
@@ -536,6 +593,321 @@
      "¿En qué situación quedan los funcionarios que obtienen destino por movilidad en otra Administración?"
     ]
    ]
+  },
+  {
+   "id": "e3",
+   "titulo": "Oferta de empleo, selección y provisión de puestos",
+   "subtitulo": "Cómo se entra y se mueve el personal local",
+   "clave": [
+    "Oferta de empleo público: anual",
+    "Selección: igualdad, mérito, capacidad y publicidad",
+    "Provisión: concurso y libre designación",
+    "Discapacidad: 7 %"
+   ],
+   "bloques": [
+    [
+     "h",
+     "Oferta de empleo público"
+    ],
+    [
+     "lista",
+     [
+      "Las Corporaciones **forman públicamente su oferta de empleo** (art. 91 LBRL), ajustándose a la normativa estatal, en el plazo de **un mes** desde la aprobación del presupuesto. La aprueba el **Alcalde** (o Presidente de la Diputación), salvo en municipios de **gran población**, donde corresponde a la **Junta de Gobierno Local** (art. 127.1.h).",
+      "**Art. 70 TREBEP:** las necesidades de personal de nuevo ingreso con asignación presupuestaria se ejecutan en un plazo **improrrogable de tres años**; la oferta se aprueba **anualmente** y se publica en el diario oficial.",
+      "**Selección (art. 91.2 LBRL):** de todo el personal, funcionario o laboral, según la oferta de empleo, mediante **convocatoria pública** y sistema de **concurso, oposición o concurso-oposición libres**, con **igualdad, mérito, capacidad y publicidad**. Las bases las aprueba el Alcalde (o la Junta de Gobierno Local en gran población). El tribunal eleva la relación de aprobados y el nombramiento lo hace la autoridad competente.",
+      "**Tribunales:** composición **predominantemente técnica**, con titulación igual o superior; ni el personal de elección política, ni los interinos ni los eventuales pueden formar parte (art. 60 TREBEP) y la pertenencia es **a título individual**.",
+      "**Normas aplicables:** TR/86, el **RD 896/1991** (reglas básicas y programas mínimos de selección), la reglamentación autonómica y, supletoriamente, el RD 364/1995 (AGE). La reserva del **7 %** para personas con discapacidad (2 % para discapacidad intelectual) se aplica también a la promoción interna (RD 2271/2004)."
+     ]
+    ],
+    [
+     "h",
+     "Provisión de puestos (art. 101 LBRL y arts. 78 a 84 TREBEP)"
+    ],
+    [
+     "lista",
+     [
+      "Se provee por **concurso** y **libre designación** con convocatoria pública, con igualdad, mérito, capacidad y publicidad. Las leyes pueden prever otros procedimientos (permutas, movilidad por salud, reingreso, cese o remoción).",
+      "En las convocatorias pueden participar los funcionarios **propios de la entidad** y los de **otras Administraciones**, según establezcan las relaciones de puestos de trabajo (art. 101 LBRL)."
+     ]
+    ],
+    [
+     "trampa",
+     "La oferta de empleo debe **ejecutarse en tres años** (improrrogable). Selección **libre, pública** y con igualdad, mérito, capacidad y publicidad."
+    ]
+   ],
+   "flash": [
+    [
+     "¿En cuánto tiempo debe ejecutarse la oferta de empleo público?",
+     "En un plazo improrrogable de tres años."
+    ],
+    [
+     "¿Quién aprueba la oferta de empleo público en un municipio de gran población?",
+     "La Junta de Gobierno Local."
+    ],
+    [
+     "¿Qué sistemas selectivos permite el art. 91 LBRL?",
+     "Concurso, oposición o concurso-oposición libres."
+    ]
+   ],
+   "esquema": [
+    "Oferta anual · ejecución en 3 años",
+    "Selección pública: igualdad, mérito, capacidad, publicidad",
+    "Provisión: concurso y libre designación"
+   ],
+   "ic": "📋",
+   "articulos": []
+  },
+  {
+   "id": "e4",
+   "titulo": "Plantilla, relación de puestos y Registro de Personal",
+   "subtitulo": "Instrumentos de ordenación",
+   "clave": [
+    "Plantilla: se aprueba con el Presupuesto (art. 90 LBRL)",
+    "RPT: denominación, grupo, sistema de provisión, retribuciones",
+    "Registro de Personal"
+   ],
+   "bloques": [
+    [
+     "lista",
+     [
+      "**Plantilla (art. 90 LBRL y 126 TR/86):** cada Corporación la aprueba **anualmente a través del presupuesto**. Comprende los puestos de funcionarios, personal laboral y eventual y responde a la **racionalidad, economía y eficiencia**, sin rebasar los límites de gasto generales. Puede ampliarse si el incremento se **compensa** con reducciones de gasto corriente no ampliable o es consecuencia de **servicios obligatorios** impuestos por ley. Su modificación exige los **mismos trámites que el presupuesto**.",
+      "**Relación de puestos de trabajo (art. 74 TREBEP):** debe comprender como mínimo la **denominación** de los puestos, los **grupos de clasificación**, los **cuerpos o escalas**, los **sistemas de provisión** y las **retribuciones complementarias**. Son **públicos**.",
+      "**Registro de Personal (art. 71 TREBEP):** cada Administración constituye un registro con los datos de su personal; los **datos inscritos determinan las nóminas**. En el ámbito local se coordina con el Registro Central de Personal (RD 1405/1986). Si la entidad local carece de capacidad, cooperan el Estado y la CA.",
+      "**Plantilla y personal eventual en gran población:** el número lo fija el Pleno al aprobar el presupuesto; la Junta de Gobierno Local decide dentro de ese límite."
+     ]
+    ],
+    [
+     "trampa",
+     "La plantilla **se aprueba con el presupuesto** y la RPT es **pública**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Con qué instrumento se aprueba la plantilla de una Corporación Local?",
+     "Con el presupuesto anual."
+    ],
+    [
+     "¿Qué debe contener como mínimo una relación de puestos de trabajo?",
+     "Denominación, grupos de clasificación, cuerpos o escalas, sistemas de provisión y retribuciones complementarias."
+    ]
+   ],
+   "esquema": [
+    "Plantilla: con el presupuesto",
+    "RPT: pública",
+    "Registro de personal: determina las nóminas"
+   ],
+   "ic": "📑",
+   "articulos": []
+  },
+  {
+   "id": "e5",
+   "titulo": "Personal laboral, eventual y directivo en la Administración local",
+   "subtitulo": "Régimen propio de cada colectivo",
+   "clave": [
+    "Laboral: Estatuto de los Trabajadores y convenio · jurisdicción social",
+    "Eventual: límites del art. 104 bis",
+    "Habilitación nacional: Secretaría, Intervención-Tesorería, Secretaría-Intervención",
+    "RD 128/2018"
+   ],
+   "bloques": [
+    [
+     "h",
+     "Personal laboral"
+    ],
+    [
+     "lista",
+     [
+      "Se rige por la **legislación laboral** (Estatuto de los Trabajadores), los **convenios colectivos** y los preceptos del TREBEP que lo dispongan. La **jurisdicción competente** es la **social**, no la contencioso-administrativa.",
+      "Puede ser **contratado indefinidamente** o **temporalmente**. Se **selecciona** por la propia Corporación (art. 103 LBRL) por concurso, concurso-oposición u oposición libre, con el máximo respeto a la **igualdad de oportunidades**. La convocatoria de plazas de laboral fijo de nuevo ingreso la hace el **Presidente de la Corporación**.",
+      "**Contratación, sanción y despido:** corresponden al **Alcalde** o Presidente de la Diputación, que da cuenta al Pleno del decreto de despido en la primera sesión; en **gran población**, el despido lo decide la **Junta de Gobierno Local**.",
+      "**Retribuciones y masa salarial (art. 103 bis):** según los convenios, con los límites de la **Ley de Presupuestos Generales del Estado**. La Corporación aprueba **anualmente la masa salarial** del personal laboral del sector público local (entidad, organismos, empresas y fundaciones públicas) y la **publica** en la sede electrónica y en el boletín oficial en **20 días**.",
+      "Tiene los derechos y deberes del Estatuto de los Trabajadores (trabajo, libre sindicación, negociación colectiva, huelga, reunión, prevención de riesgos…); en incompatibilidades se aplica la Ley 53/1984."
+     ]
+    ],
+    [
+     "h",
+     "Personal eventual (arts. 104 y 104 bis LBRL)"
+    ],
+    [
+     "lista",
+     [
+      "El **Pleno** determina su **número, características y retribuciones al comienzo del mandato**; solo se pueden modificar al aprobar el presupuesto. El nombramiento y cese son **libres** y corresponden al **Alcalde** (o Presidente); cesan automáticamente con la autoridad a la que sirven. Se publican en el boletín oficial.",
+      "**Límites por población (art. 104 bis):** **2.000 a 5.000 habitantes**: un puesto, excepcionalmente, si no hay concejales con dedicación exclusiva · **5.001 a 10.000**: uno · **10.001 a 20.000**: dos · **20.001 a 50.000**: siete · **50.001 a 75.000**: la **mitad** del número de concejales · **75.001 a 500.000**: el **número de concejales** · **más de 500.000**: hasta el **0,7 %** de los puestos de la plantilla. Las Diputaciones tienen el del municipio más poblado de su provincia.",
+      "Se asignan a los **servicios generales** (salvo excepción en el reglamento orgánico), se **publica semestralmente** su número y el Presidente informa **trimestralmente** al Pleno. Pueden ocupar puestos directivos de la RPT cumpliendo las condiciones exigidas y **nunca es mérito** para el acceso a la función pública."
+     ]
+    ],
+    [
+     "h",
+     "Personal directivo profesional"
+    ],
+    [
+     "p",
+     "El art. 13 TREBEP lo regula con mérito, capacidad, idoneidad, publicidad y concurrencia, evaluación por resultados y exclusión de la negociación colectiva. En los municipios de gran población, los **órganos directivos** del art. 130 LBRL se nombran **entre funcionarios de carrera A1** (salvo que el reglamento orgánico permita lo contrario) y están sujetos a la Ley de Incompatibilidades."
+    ],
+    [
+     "trampa",
+     "El **Pleno fija** el número de eventuales **al inicio del mandato**; en municipios de **5.001 a 10.000** habitantes **solo uno**; **más de 500.000**: **0,7 %** de la plantilla."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Quién fija el número de personal eventual de una Corporación Local?",
+     "El Pleno, al comienzo del mandato."
+    ],
+    [
+     "¿Cuántos eventuales puede tener un Ayuntamiento de más de 5.000 y hasta 10.000 habitantes?",
+     "Uno como máximo."
+    ],
+    [
+     "¿Qué jurisdicción es competente para el personal laboral?",
+     "La jurisdicción social."
+    ],
+    [
+     "¿En cuántos días se publica la masa salarial del personal laboral local?",
+     "En 20 días."
+    ]
+   ],
+   "esquema": [
+    "Eventual: 5.001-10.000 → 1 · 10.001-20.000 → 2 · 20.001-50.000 → 7",
+    "Laboral: ET + convenio · jurisdicción social"
+   ],
+   "ic": "👥",
+   "articulos": [
+    [
+     "lbrl",
+     "104 bis",
+     "Personal eventual en los Ayuntamientos",
+     "Fija **límites de puestos de personal eventual** según la población del municipio: 0 en los de menos de 2.000 habitantes, uno excepcional de 2.000 a 5.000…, hasta el número de concejales en los de 75.000 a 500.000.",
+     "¿Cuántos puestos de personal eventual puede tener un Ayuntamiento de más de 5.000 y hasta 10.000 habitantes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lbrl",
+     "103 bis",
+     "Masa salarial del personal laboral del sector público local",
+     "Las Corporaciones aprueban **anualmente la masa salarial** del personal laboral del sector público local respetando los límites de la **Ley de Presupuestos Generales del Estado** y la publican en la sede electrónica.",
+     "¿Quién aprueba la masa salarial del personal laboral local?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e6",
+   "titulo": "Funcionarios con habilitación de carácter nacional",
+   "subtitulo": "Secretaría, Intervención y Tesorería (art. 92 bis LBRL y RD 128/2018)",
+   "clave": [
+    "Funciones reservadas: Secretaría y control interno",
+    "Subescalas y categorías",
+    "Clases de Secretarías: 1.ª, 2.ª y 3.ª",
+    "Concurso ordinario y unitario"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los puestos de Secretaría (fe pública y asesoramiento legal preceptivo) y de control y fiscalización interna, contabilidad, tesorería y recaudación están **reservados** a esta escala, que regula el **Real Decreto 128/2018**. Todas las subescalas están en el **grupo A, subgrupo A1**."
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Reglas"
+     ],
+     [
+      [
+       "**Subescalas y categorías**",
+       "**Secretaría**, **Intervención-Tesorería** (cada una con categoría de **entrada** y **superior**) y **Secretaría-Intervención** (sin categorías)."
+      ],
+      [
+       "**Ingreso**",
+       "Nacionalidad española. **Oposición** (con nombramiento como funcionario en prácticas) y **curso selectivo** en el **INAP** u otros institutos. Lo convoca el Estado a través del Ministerio competente en Función Pública. El ingreso en Secretaría e Intervención-Tesorería es por la categoría de **entrada**."
+      ],
+      [
+       "**Categoría superior**",
+       "Exige **dos años de antigüedad** en la categoría de entrada; se accede por **concurso de méritos** o por **pruebas de aptitud**."
+      ],
+      [
+       "**Promoción interna**",
+       "Secretaría-Intervención → Secretaría o Intervención-Tesorería con **dos años de servicio activo** en la subescala y la titulación exigida."
+      ],
+      [
+       "**Clases de Secretaría (art. 8)**",
+       "**1.ª:** Diputaciones, Cabildos, capitales de provincia y municipios de **más de 20.000** habitantes. **2.ª:** municipios de **5.001 a 20.000** y los de menos de 5.001 con presupuesto superior a **3.000.000 €**. **3.ª:** municipios de menos de 5.001 con presupuesto que no exceda de 3.000.000 €."
+      ],
+      [
+       "**Quién ocupa cada puesto**",
+       "Clase 1.ª: Secretarios de **categoría superior**; clase 2.ª: Secretarios de **entrada**; clase 3.ª: **Secretarios-Interventores**. Intervención 1.ª: Interventores-Tesoreros de **categoría superior**; 2.ª y agrupaciones: de **entrada**."
+      ],
+      [
+       "**Agrupaciones y exenciones**",
+       "Las entidades pequeñas pueden **agrupar** el puesto de Secretaría, Intervención o Tesorería (ámbito autonómico, con informe de la Diputación). Las de **menos de 500 habitantes y presupuesto inferior a 200.000 €** pueden ser **eximidas** si no pueden agruparse; sus funciones las prestan los **servicios de asistencia**."
+      ],
+      [
+       "**Servicios de asistencia (art. 16)**",
+       "Las **Diputaciones** garantizan la Secretaría, intervención, tesorería y recaudación en los municipios de **menos de 1.000 habitantes**."
+      ],
+      [
+       "**Puestos de colaboración**",
+       "Pueden crearse puestos de **colaboración inmediata** con Secretaría, Intervención y Tesorería, que sustituyen a sus titulares en ausencia o abstención."
+      ],
+      [
+       "**Provisión (art. 92 bis)**",
+       "El **concurso** es el sistema normal, de **ámbito estatal**. Méritos generales: al menos el **80 %**; los de la Comunidad Autónoma, hasta el **15 %**; los de la corporación, hasta el **5 %**. Hay **dos concursos anuales**: **ordinario** y **unitario** (supletorio, que convoca el Estado). Los funcionarios deben permanecer **dos años** en el puesto obtenido por concurso. Excepcionalmente, **libre designación** en grandes entidades y Diputaciones."
+      ],
+      [
+       "**Disciplina**",
+       "Incoan: el órgano de la corporación (faltas leves), la **CA** y el **Ministerio** (muy graves). Sanciona el **Ministro** las muy graves; la **destitución** implica prohibición de obtener destino en la misma corporación hasta **6 años** (muy graves) o **3** (graves)."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "El **concurso unitario** es **supletorio** y lo convoca el **Estado**. Los **méritos autonómicos** llegan al **15 %**. Secretaría **1.ª clase**: más de **20.000** habitantes."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué funciones públicas están reservadas a la habilitación nacional?",
+     "La Secretaría (fe pública y asesoramiento legal) y el control y la fiscalización interna, contabilidad, tesorería y recaudación."
+    ],
+    [
+     "¿Qué grupo de clasificación tienen los funcionarios de habilitación nacional?",
+     "El grupo A, subgrupo A1."
+    ],
+    [
+     "¿Cuántos concursos anuales hay para provisión de puestos de habilitación nacional?",
+     "Dos: el ordinario y el unitario, que es supletorio."
+    ],
+    [
+     "¿A qué municipios corresponde una Secretaría de clase primera?",
+     "A los de más de 20.000 habitantes, capitales de provincia y Diputaciones."
+    ],
+    [
+     "¿Qué antigüedad se exige para acceder a la categoría superior?",
+     "Dos años de servicio activo en la categoría de entrada."
+    ]
+   ],
+   "esquema": [
+    "Subescalas: Secretaría · Intervención-Tesorería · Secretaría-Intervención",
+    "Clases 1.ª, 2.ª y 3.ª (20.000 y 5.001 habitantes)",
+    "Concurso ordinario y unitario · 80 / 15 / 5 %"
+   ],
+   "ic": "🏛️",
+   "articulos": [
+    [
+     "lbrl",
+     "92 bis",
+     "Funcionarios con habilitación de carácter nacional",
+     "Reserva a la escala de **habilitación nacional** las funciones públicas necesarias: **Secretaría** (fe pública y asesoramiento legal preceptivo) y **control y fiscalización interna**, contabilidad, tesorería y recaudación. Subescalas: **Secretaría, Intervención-Tesorería y Secretaría-Intervención**.",
+     "¿Qué subescalas forman la escala de habilitación de carácter nacional?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
@@ -634,6 +1006,66 @@
         "titulo": "Retribuciones: básicas iguales; complementarias fija el Pleno (93)"
        }
       ]
+     }
+    ]
+   },
+   {
+    "titulo": "Selección y provisión",
+    "color": "#3fa796",
+    "hijos": [
+     {
+      "titulo": "Oferta anual · ejecución 3 años"
+     },
+     {
+      "titulo": "Concurso y libre designación"
+     },
+     {
+      "titulo": "Reserva discapacidad 7 %"
+     }
+    ]
+   },
+   {
+    "titulo": "Plantilla, RPT y Registro",
+    "color": "#8e6cc4",
+    "hijos": [
+     {
+      "titulo": "Plantilla con el presupuesto"
+     },
+     {
+      "titulo": "RPT pública"
+     },
+     {
+      "titulo": "Registro: determina las nóminas"
+     }
+    ]
+   },
+   {
+    "titulo": "Laboral, eventual y directivo",
+    "color": "#e9a23b",
+    "hijos": [
+     {
+      "titulo": "Laboral: ET + convenio"
+     },
+     {
+      "titulo": "Eventual: límites del 104 bis"
+     },
+     {
+      "titulo": "Directivo: art. 13 TREBEP"
+     }
+    ]
+   },
+   {
+    "titulo": "Habilitación nacional",
+    "color": "#2f7fc1",
+    "hijos": [
+     {
+      "titulo": "Secretaría · Intervención-Tesorería"
+     },
+     {
+      "titulo": "Clases 1.ª, 2.ª y 3.ª"
+     },
+     {
+      "titulo": "Concurso ordinario y unitario"
      }
     ]
    }
