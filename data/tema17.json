@@ -2561,6 +2561,1434 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 8.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos, personal eventual y:",
+   [
+    "Personal laboral, ya sea fijo, por tiempo indefinido o temporal",
+    "Personal directivo profesional",
+    "Personal estatutario temporal"
+   ],
+   0,
+   "Art. 8.2.",
+   "trebep 8.2",
+   "El personal directivo no es una clase del art. 8",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, son empleados públicos quienes desempeñan funciones:",
+   [
+    "Permanentes en la Administración del Estado",
+    "Retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+    "Voluntarias al servicio de las entidades locales"
+   ],
+   1,
+   "Art. 8.1.",
+   "trebep 8.1",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación:",
+   [
+    "Contractual regulada por el Derecho Laboral, de carácter indefinido",
+    "Estatutaria regulada por el Derecho Civil, de carácter temporal",
+    "Estatutaria regulada por el Derecho Administrativo, para el desempeño de servicios profesionales retribuidos de carácter permanente"
+   ],
+   2,
+   "Art. 9.1.",
+   "trebep 9.1",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales corresponden exclusivamente a:",
+   [
+    "El personal laboral fijo",
+    "Los funcionarios de carrera y el personal eventual",
+    "Los funcionarios públicos"
+   ],
+   2,
+   "Art. 9.2.",
+   "trebep 9.2",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, pueden nombrarse funcionarios interinos por la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de:",
+   [
+    "Tres años",
+    "Dos años",
+    "Seis meses prorrogables"
+   ],
+   0,
+   "Art. 10.1.a.",
+   "trebep 10.1.a",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1.c de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los programas de carácter temporal que justifican el nombramiento de un funcionario interino no podrán tener una duración superior a tres años, ampliable:",
+   [
+    "Hasta seis meses más por el órgano de gobierno",
+    "Sin limitación mientras dure el programa",
+    "Hasta doce meses más por las leyes de Función Pública de desarrollo"
+   ],
+   2,
+   "Art. 10.1.c.",
+   "trebep 10.1.c",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1.d de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el exceso o acumulación de tareas permite nombrar un funcionario interino por un plazo máximo de:",
+   [
+    "Seis meses, dentro de un periodo de doce meses",
+    "Doce meses, dentro de un periodo de veinticuatro meses",
+    "Nueve meses, dentro de un periodo de dieciocho meses"
+   ],
+   2,
+   "Art. 10.1.d.",
+   "trebep 10.1.d",
+   "Intercambiar 9/18 con 6/12",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el nombramiento de funcionario interino derivado de un procedimiento de selección:",
+   [
+    "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera",
+    "Dará derecho a la condición de funcionario de carrera tras tres años",
+    "Dará lugar a la condición de laboral fijo"
+   ],
+   0,
+   "Art. 10.2.",
+   "trebep 10.2",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la condición de funcionario interino cesa, entre otros casos, por la finalización del plazo autorizado expresamente en su nombramiento y por:",
+   [
+    "La amortización del puesto, con indemnización",
+    "La cobertura del puesto por personal laboral",
+    "La finalización de la causa que dio lugar a su nombramiento, sin compensación alguna"
+   ],
+   2,
+   "Art. 10.3.",
+   "trebep 10.3",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, transcurridos tres años desde el nombramiento del funcionario interino en plaza vacante se produce el fin de la relación de interinidad y la vacante solo podrá ser ocupada por:",
+   [
+    "Personal funcionario de carrera, salvo que el proceso selectivo quede desierto",
+    "Otro funcionario interino sin límite",
+    "Personal laboral temporal"
+   ],
+   0,
+   "Art. 10.4.",
+   "trebep 10.4",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria:",
+   [
+    "Antes de los dos años y seis meses",
+    "Dentro del plazo de los tres años desde su nombramiento y sea resuelta en los plazos del artículo 70",
+    "Tras el vencimiento de los tres años"
+   ],
+   1,
+   "Art. 10.4.",
+   "trebep 10.4",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, al personal funcionario interino le será aplicable el régimen general de los funcionarios de carrera en cuanto sea adecuado a su naturaleza temporal, salvo:",
+   [
+    "Los derechos retributivos básicos",
+    "Los derechos de representación colectiva",
+    "Los derechos inherentes a la condición de funcionario de carrera"
+   ],
+   2,
+   "Art. 10.5.",
+   "trebep 10.5",
+   "",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el personal laboral presta servicios retribuidos en virtud de un contrato de trabajo formalizado:",
+   [
+    "Verbalmente o por escrito, solo de duración determinada",
+    "Por escrito, que según su duración podrá ser fijo, por tiempo indefinido o temporal",
+    "Por escrito, solo de duración indefinida"
+   ],
+   1,
+   "Art. 11.1.",
+   "trebep 11.1",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la selección del personal laboral se rige en todo caso por los principios de:",
+   [
+    "Igualdad, mérito, capacidad y publicidad exclusivamente",
+    "Libre designación y confianza",
+    "Igualdad, mérito y capacidad (y celeridad en el temporal)"
+   ],
+   2,
+   "Art. 11.3.",
+   "trebep 11.3",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, es personal eventual el que, en virtud de nombramiento y con carácter no permanente, solo realiza funciones expresamente calificadas como:",
+   [
+    "De confianza o asesoramiento especial",
+    "De carácter técnico y administrativo",
+    "De programas temporales"
+   ],
+   0,
+   "Art. 12.1.",
+   "trebep 12.1",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el nombramiento y cese del personal eventual son:",
+   [
+    "Reglados, previo expediente",
+    "Libres, y el cese tendrá lugar en todo caso cuando cese la autoridad a la que presta la función",
+    "Libres el nombramiento y reglado el cese"
+   ],
+   1,
+   "Art. 12.3.",
+   "trebep 12.3",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la condición de personal eventual:",
+   [
+    "Puntuará como mérito en los concursos",
+    "No podrá constituir mérito para el acceso a la Función Pública o para la promoción interna",
+    "Dará acceso directo a la condición de funcionario"
+   ],
+   1,
+   "Art. 12.4.",
+   "trebep 12.4",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el número máximo de personal eventual lo establecen:",
+   [
+    "Los respectivos órganos de gobierno, siendo públicos ese número y las condiciones retributivas",
+    "Las leyes de presupuestos de cada año",
+    "El Estado con carácter básico único"
+   ],
+   0,
+   "Art. 12.2.",
+   "trebep 12.2",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, mediante procedimientos que garanticen:",
+   [
+    "La reserva y la confianza",
+    "La antigüedad y el sorteo",
+    "La publicidad y concurrencia"
+   ],
+   2,
+   "Art. 13.2.",
+   "trebep 13.2",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la determinación de las condiciones de empleo del personal directivo:",
+   [
+    "Es siempre materia obligatoria de negociación",
+    "Se negocia solo con los sindicatos más representativos",
+    "No tendrá la consideración de materia objeto de negociación colectiva"
+   ],
+   2,
+   "Art. 13.4.",
+   "trebep 13.4",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, si el personal directivo tiene la condición de personal laboral, estará sometido a:",
+   [
+    "El convenio colectivo de la Administración",
+    "El régimen funcionarial por analogía",
+    "La relación laboral de carácter especial de alta dirección"
+   ],
+   2,
+   "Art. 13.4.",
+   "trebep 13.4",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, entre los derechos individuales de los empleados públicos, la inamovilidad se reconoce:",
+   [
+    "A todos los empleados públicos",
+    "En la condición de funcionario de carrera",
+    "En el puesto de trabajo desempeñado"
+   ],
+   1,
+   "Art. 14.a.",
+   "trebep 14.a",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.f de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración Pública en procedimientos ante cualquier orden jurisdiccional como consecuencia de:",
+   [
+    "Cualquier conducta realizada durante la jornada",
+    "Las infracciones disciplinarias imputadas",
+    "El ejercicio legítimo de sus funciones o cargos públicos"
+   ],
+   2,
+   "Art. 14.f.",
+   "trebep 14.f",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.g de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el derecho a la formación continua y a la actualización permanente de conocimientos se ejerce:",
+   [
+    "Siempre fuera del horario laboral",
+    "Solo en horario laboral",
+    "Preferentemente en horario laboral"
+   ],
+   2,
+   "Art. 14.g.",
+   "trebep 14.g",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.j bis de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, entre los derechos individuales figura el derecho a la intimidad en el uso de dispositivos digitales y a:",
+   [
+    "La desconexión digital",
+    "El teletrabajo permanente",
+    "La geolocalización voluntaria"
+   ],
+   0,
+   "Art. 14.j bis.",
+   "trebep 14.j bis",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, entre los derechos individuales ejercidos colectivamente se encuentra el ejercicio de la huelga, con la garantía del:",
+   [
+    "Mantenimiento de los servicios esenciales de la comunidad",
+    "Mantenimiento de la totalidad de los servicios",
+    "Cobro de las retribuciones durante la huelga"
+   ],
+   0,
+   "Art. 15.",
+   "trebep 15",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la carrera horizontal consiste en la progresión de grado, categoría o escalón:",
+   [
+    "Con cambio obligatorio de puesto",
+    "Sin necesidad de cambiar de puesto de trabajo",
+    "Mediante ascenso en la estructura de puestos"
+   ],
+   1,
+   "Art. 16.3.a.",
+   "trebep 16.3.a",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3.b de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la carrera vertical consiste en el ascenso en la estructura de puestos de trabajo por:",
+   [
+    "Los procedimientos de provisión del capítulo III del título V",
+    "Procesos selectivos de promoción interna",
+    "La evaluación del desempeño"
+   ],
+   0,
+   "Art. 16.3.b.",
+   "trebep 16.3.b",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3.c de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la promoción interna vertical consiste en el ascenso:",
+   [
+    "A cuerpos del mismo Subgrupo",
+    "Desde un cuerpo o escala de un Subgrupo a otro superior",
+    "Dentro del mismo cuerpo, por escalones"
+   ],
+   1,
+   "Art. 16.3.c.",
+   "trebep 16.3.c",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3.d de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la promoción interna horizontal consiste en el acceso a cuerpos o escalas:",
+   [
+    "Del mismo Subgrupo profesional",
+    "De un Subgrupo superior",
+    "De otra Administración"
+   ],
+   0,
+   "Art. 16.3.d.",
+   "trebep 16.3.d",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, en la carrera horizontal los ascensos de grado serán, con carácter general:",
+   [
+    "Consecutivos, salvo supuestos excepcionales",
+    "Salteados por méritos",
+    "Anuales y automáticos"
+   ],
+   0,
+   "Art. 17.a.",
+   "trebep 17.a",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, para la promoción interna los funcionarios deben tener una antigüedad de al menos:",
+   [
+    "Tres años en el Subgrupo",
+    "Un año en el cuerpo de origen",
+    "Dos años de servicio activo en el inferior Subgrupo, además de los requisitos de ingreso y superar las pruebas"
+   ],
+   2,
+   "Art. 18.2.",
+   "trebep 18.2",
+   "Confundir 2 con 3 años",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la carrera profesional y promoción del personal laboral se hace efectiva a través de los procedimientos previstos en:",
+   [
+    "El Estatuto de los Trabajadores o en los convenios colectivos",
+    "El propio TREBEP",
+    "Las leyes de Función Pública"
+   ],
+   0,
+   "Art. 19.2.",
+   "trebep 19.2",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la evaluación del desempeño es el procedimiento mediante el cual se mide y valora:",
+   [
+    "La conducta profesional y el rendimiento o el logro de resultados",
+    "La antigüedad y los méritos académicos",
+    "La capacidad para ascender de grupo"
+   ],
+   0,
+   "Art. 20.1.",
+   "trebep 20.1",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los sistemas de evaluación del desempeño se adecuarán a criterios de transparencia, objetividad, imparcialidad y:",
+   [
+    "Reciprocidad",
+    "No discriminación",
+    "Confidencialidad"
+   ],
+   1,
+   "Art. 20.2.",
+   "trebep 20.2",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante:",
+   [
+    "Resolución discrecional",
+    "Informe del superior jerárquico",
+    "Resolución motivada"
+   ],
+   2,
+   "Art. 20.4.",
+   "trebep 20.4",
+   "",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las cuantías de las retribuciones básicas y el incremento de las complementarias deben reflejarse para cada ejercicio en:",
+   [
+    "La relación de puestos de trabajo",
+    "La ley de presupuestos",
+    "El convenio colectivo"
+   ],
+   1,
+   "Art. 21.1.",
+   "trebep 21.1",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las retribuciones de los funcionarios de carrera se clasifican en:",
+   [
+    "Básicas y complementarias",
+    "Fijas y variables",
+    "Básicas, complementarias y extraordinarias"
+   ],
+   0,
+   "Art. 22.1.",
+   "trebep 22.1",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las pagas extraordinarias son dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de:",
+   [
+    "El cincuenta por ciento de las complementarias",
+    "Solo el complemento de destino",
+    "La totalidad de las retribuciones complementarias, salvo las de los apartados c) y d) del artículo 24"
+   ],
+   2,
+   "Art. 22.4.",
+   "trebep 22.4",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, no podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones como contraprestación de servicios:",
+   [
+    "Salvo participación en multas",
+    "Salvo participación en tasas",
+    "Ni participación o premio en multas impuestas, aun atribuidas normativamente a los servicios"
+   ],
+   2,
+   "Art. 22.5.",
+   "trebep 22.5",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las retribuciones básicas están integradas única y exclusivamente por:",
+   [
+    "El sueldo y los trienios",
+    "El sueldo, los trienios y el complemento de destino",
+    "El sueldo y las pagas extraordinarias"
+   ],
+   0,
+   "Art. 23.",
+   "trebep 23",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23.b de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los trienios consisten en una cantidad, igual para cada Subgrupo, por cada:",
+   [
+    "Tres años en el mismo puesto",
+    "Cinco años de servicio",
+    "Tres años de servicio"
+   ],
+   2,
+   "Art. 23.b.",
+   "trebep 23.b",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.c de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a:",
+   [
+    "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo",
+    "La antigüedad del funcionario",
+    "Las pagas extraordinarias"
+   ],
+   0,
+   "Art. 24.c.",
+   "trebep 24.c",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la cuantía y estructura de las retribuciones complementarias se establecen por:",
+   [
+    "La Ley de Presupuestos Generales del Estado",
+    "Las leyes de cada Administración Pública",
+    "El convenio colectivo"
+   ],
+   1,
+   "Art. 24.",
+   "trebep 24",
+   "",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por negociación colectiva se entiende el derecho a negociar la determinación de:",
+   [
+    "Las retribuciones básicas únicamente",
+    "Condiciones de trabajo de los empleados de la Administración Pública",
+    "La organización de los servicios"
+   ],
+   1,
+   "Art. 31.2.",
+   "trebep 31.2",
+   "",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por representación se entiende la facultad de elegir representantes y constituir:",
+   [
+    "Organizaciones sindicales",
+    "Órganos unitarios que instrumenten la interlocución entre las Administraciones y sus empleados",
+    "Comités de empresa"
+   ],
+   1,
+   "Art. 31.3.",
+   "trebep 31.3",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la participación institucional es el derecho a participar, a través de las organizaciones sindicales, en:",
+   [
+    "La negociación de las retribuciones",
+    "La elección de las Juntas de Personal",
+    "Los órganos de control y seguimiento de las entidades que legalmente se determine"
+   ],
+   2,
+   "Art. 31.4.",
+   "trebep 31.4",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37.2.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, quedan excluidas de la obligatoriedad de negociación las decisiones que afecten a:",
+   [
+    "La jornada y horarios",
+    "Las retribuciones complementarias",
+    "Las potestades de organización de las Administraciones Públicas"
+   ],
+   2,
+   "Art. 37.2.a.",
+   "trebep 37.2.a",
+   "",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37.2.c de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la determinación de condiciones de trabajo del personal directivo:",
+   [
+    "Está excluida de la obligatoriedad de negociación",
+    "Es objeto de negociación en Mesa General",
+    "Se negocia solo en las Mesas Sectoriales"
+   ],
+   0,
+   "Art. 37.2.c.",
+   "trebep 37.2.c",
+   "",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37.1.b de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, es objeto de negociación la determinación y aplicación de:",
+   [
+    "Las retribuciones complementarias de los funcionarios",
+    "Los poderes de dirección y control jerárquico",
+    "El procedimiento de formación de actos administrativos"
+   ],
+   0,
+   "Art. 37.1.b.",
+   "trebep 37.1.b",
+   "",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los órganos específicos de representación de los funcionarios son:",
+   [
+    "Los comités de empresa y los delegados sindicales",
+    "Los Delegados de Personal y las Juntas de Personal",
+    "Las Mesas de Negociación"
+   ],
+   1,
+   "Art. 39.1.",
+   "trebep 39.1",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, en las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponde a:",
+   [
+    "La Junta de Personal",
+    "Los Delegados de Personal",
+    "El Comité de empresa"
+   ],
+   1,
+   "Art. 39.2.",
+   "trebep 39.2",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, de 31 a 49 funcionarios se elegirán Delegados de Personal en número de:",
+   [
+    "Tres, que ejercerán su representación conjunta y mancomunadamente",
+    "Dos, de forma solidaria",
+    "Uno"
+   ],
+   0,
+   "Art. 39.2.",
+   "trebep 39.2",
+   "Confundir con hasta 30",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las Juntas de Personal se constituyen en unidades electorales con un censo mínimo de:",
+   [
+    "50 funcionarios",
+    "30 funcionarios",
+    "100 funcionarios"
+   ],
+   0,
+   "Art. 39.3.",
+   "trebep 39.3",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, una Junta de Personal en unidad de 101 a 250 funcionarios se compone de:",
+   [
+    "9 representantes",
+    "5 representantes",
+    "13 representantes"
+   ],
+   0,
+   "Art. 39.5.",
+   "trebep 39.5",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, de 1.001 funcionarios en adelante, las Juntas de Personal tienen dos representantes por cada 1.000 o fracción, con un máximo de:",
+   [
+    "50",
+    "75",
+    "100"
+   ],
+   1,
+   "Art. 39.5.",
+   "trebep 39.5",
+   "",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 bis.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el teletrabajo habrá de ser expresamente autorizado, será compatible con la modalidad presencial y tendrá carácter:",
+   [
+    "Voluntario y reversible, salvo supuestos excepcionales debidamente justificados",
+    "Obligatorio e irreversible",
+    "Voluntario e irreversible"
+   ],
+   0,
+   "Art. 47 bis.2.",
+   "trebep 47 bis.2",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 bis.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el personal que preste servicios mediante teletrabajo tendrá:",
+   [
+    "Derechos reducidos en materia retributiva",
+    "Un régimen de prevención de riesgos propio",
+    "Los mismos deberes y derechos, individuales y colectivos, que el personal presencial"
+   ],
+   2,
+   "Art. 47 bis.3.",
+   "trebep 47 bis.3",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el permiso por fallecimiento del cónyuge o familiar de primer grado es de tres días hábiles si el suceso se produce en la misma localidad y:",
+   [
+    "Cuatro días hábiles",
+    "Cinco días hábiles si es en distinta localidad",
+    "Siete días naturales"
+   ],
+   1,
+   "Art. 48.a.",
+   "trebep 48.a",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por fallecimiento de familiar dentro del segundo grado, el permiso es de dos días hábiles en la misma localidad y de:",
+   [
+    "Tres días hábiles",
+    "Cinco días hábiles",
+    "Cuatro días hábiles en distinta localidad"
+   ],
+   2,
+   "Art. 48.a.",
+   "trebep 48.a",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por accidente o enfermedad graves de un familiar de primer grado, el permiso es de:",
+   [
+    "Cinco días hábiles",
+    "Tres días hábiles",
+    "Cuatro días hábiles"
+   ],
+   0,
+   "Art. 48.a.",
+   "trebep 48.a",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.b de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por traslado de domicilio sin cambio de residencia corresponde:",
+   [
+    "Un día",
+    "Dos días",
+    "Tres días hábiles"
+   ],
+   0,
+   "Art. 48.b.",
+   "trebep 48.b",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.f de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en:",
+   [
+    "Tres fracciones",
+    "Dos fracciones, transferible al otro progenitor",
+    "Dos fracciones, siendo un derecho individual no transferible al otro progenitor"
+   ],
+   2,
+   "Art. 48.f.",
+   "trebep 48.f",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.g de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por nacimiento de hijos prematuros u hospitalizados tras el parto, se tiene derecho a ausentarse del trabajo durante un máximo de:",
+   [
+    "Una hora diaria",
+    "Tres horas diarias sin retribución",
+    "Dos horas diarias con retribuciones íntegras"
+   ],
+   2,
+   "Art. 48.g.",
+   "trebep 48.g",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.h de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por razones de guarda legal, el funcionario que cuide de un menor de doce años tiene derecho a:",
+   [
+    "La reducción de su jornada con la disminución de retribuciones que corresponda",
+    "La reducción de jornada con retribuciones íntegras",
+    "Una excedencia retribuida"
+   ],
+   0,
+   "Art. 48.h.",
+   "trebep 48.h",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.i de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, la reducción de hasta el cincuenta por ciento de la jornada, retribuida, para cuidado de un familiar de primer grado por enfermedad muy grave, tiene un plazo máximo de:",
+   [
+    "Tres meses",
+    "Un año",
+    "Un mes"
+   ],
+   2,
+   "Art. 48.i.",
+   "trebep 48.i",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.k de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por asuntos particulares, los funcionarios tienen derecho a:",
+   [
+    "Tres días al año",
+    "Nueve días al año",
+    "Seis días al año"
+   ],
+   2,
+   "Art. 48.k.",
+   "trebep 48.k",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.l de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, por matrimonio o constitución formalizada de pareja de hecho corresponde un permiso de:",
+   [
+    "Diez días",
+    "Quince días",
+    "Veinte días"
+   ],
+   1,
+   "Art. 48.l.",
+   "trebep 48.l",
+   "",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de:",
+   [
+    "Veintiséis semanas",
+    "Treinta semanas",
+    "Treinta y dos semanas"
+   ],
+   2,
+   "Art. 49.a.",
+   "trebep 49.a",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, de las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las:",
+   [
+    "Seis semanas inmediatamente posteriores al parto",
+    "Cuatro semanas posteriores al parto",
+    "Dos semanas anteriores y cuatro posteriores"
+   ],
+   0,
+   "Art. 49.a.",
+   "trebep 49.a",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a.2º de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las once semanas de libre distribución del permiso por nacimiento pueden ejercitarse hasta que el hijo cumpla:",
+   [
+    "Seis meses",
+    "Ocho años",
+    "Doce meses"
+   ],
+   2,
+   "Art. 49.a.2º.",
+   "trebep 49.a.2º",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a.3º de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las dos semanas finales del permiso por nacimiento pueden disfrutarse hasta que el hijo cumpla:",
+   [
+    "Doce meses",
+    "Doce años",
+    "Ocho años"
+   ],
+   2,
+   "Art. 49.a.3º.",
+   "trebep 49.a.3º",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, en el disfrute interrumpido del permiso por nacimiento se requiere para cada período un preaviso de al menos:",
+   [
+    "Diez días, por días naturales",
+    "Un mes, por semanas completas",
+    "Quince días, y se realizará por semanas completas"
+   ],
+   2,
+   "Art. 49.a.",
+   "trebep 49.a",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, en caso de parto prematuro u hospitalización del neonato, el permiso se amplía con un máximo de:",
+   [
+    "Trece semanas adicionales",
+    "Seis semanas adicionales",
+    "Ocho semanas adicionales"
+   ],
+   0,
+   "Art. 49.a.",
+   "trebep 49.a",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.b de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el permiso por adopción, guarda con fines de adopción o acogimiento tiene una duración de diecinueve semanas:",
+   [
+    "En total para ambos adoptantes",
+    "Solo para uno de ellos",
+    "Para cada adoptante, guardador o acogedor"
+   ],
+   2,
+   "Art. 49.b.",
+   "trebep 49.b",
+   "",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, las vacaciones anuales retribuidas de los funcionarios son de:",
+   [
+    "Veintidós días hábiles por año natural, sin considerar hábiles los sábados",
+    "Veintiún días naturales",
+    "Treinta días naturales"
+   ],
+   0,
+   "Art. 50.1.",
+   "trebep 50.1",
+   "",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, cuando situaciones como la incapacidad temporal impidan iniciar las vacaciones dentro del año natural, podrán disfrutarse siempre que no hayan transcurrido más de:",
+   [
+    "Doce meses desde el final del año",
+    "Seis meses desde el inicio de la situación",
+    "Dieciocho meses a partir del final del año en que se originaron"
+   ],
+   2,
+   "Art. 50.2.",
+   "trebep 50.2",
+   "",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, el período de vacaciones anuales retribuidas:",
+   [
+    "Puede compensarse en metálico a petición del funcionario",
+    "No puede ser sustituido por una cuantía económica",
+    "Puede sustituirse por días libres acumulables"
+   ],
+   1,
+   "Art. 50.3.",
+   "trebep 50.3",
+   "",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, en jubilación por incapacidad permanente o fallecimiento, la compensación económica por vacaciones devengadas y no disfrutadas alcanza hasta un máximo de:",
+   [
+    "Dieciocho meses",
+    "Doce meses",
+    "Veinticuatro meses"
+   ],
+   0,
+   "Art. 50.3.",
+   "trebep 50.3",
+   "",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, entre los principios del Código de Conducta de los empleados públicos se encuentran la objetividad, integridad, neutralidad y:",
+   [
+    "Jerarquía y obediencia debida",
+    "Lealtad política",
+    "Responsabilidad, imparcialidad y confidencialidad, entre otros"
+   ],
+   2,
+   "Art. 52.",
+   "trebep 52",
+   "",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los empleados públicos ajustarán su actuación a los principios de:",
+   [
+    "Obediencia y disciplina jerárquica",
+    "Lealtad y buena fe con la Administración, superiores, compañeros, subordinados y ciudadanos",
+    "Reserva y discreción"
+   ],
+   1,
+   "Art. 53.3.",
+   "trebep 53.3",
+   "",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los empleados públicos obedecerán las instrucciones de sus superiores, salvo que constituyan:",
+   [
+    "Una infracción de cualquier norma, caso en que no las cumplirán",
+    "Una instrucción verbal",
+    "Una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes"
+   ],
+   2,
+   "Art. 54.3.",
+   "trebep 54.3",
+   "",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.6 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, respecto de los regalos, se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de:",
+   [
+    "Los cincuenta euros de valor",
+    "Los usos de la localidad",
+    "Los usos habituales, sociales y de cortesía"
+   ],
+   2,
+   "Art. 54.6.",
+   "trebep 54.6",
+   "",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los empleados públicos administrarán los recursos y bienes públicos:",
+   [
+    "Con austeridad, sin utilizarlos en provecho propio o de personas allegadas, y velando por su conservación",
+    "Con eficacia, pudiendo usarlos en casos urgentes",
+    "Con discrecionalidad, previo aviso al superior"
+   ],
+   0,
+   "Art. 54.5.",
+   "trebep 54.5",
+   "",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }
