@@ -1,7 +1,8 @@
 {
  "mapaEpis": [
   [
-   "e0"
+   "e0",
+   "e3"
   ],
   [
    "e1"
@@ -82,6 +83,18 @@
    "Reserva de ley",
    "Materias que solo pueden regularse por ley y no por reglamento.",
    "Art. 53.1 CE"
+  ],
+  [
+   "reglamento-necesidad",
+   "Reglamento de necesidad",
+   "Norma de urgencia que exceptúa temporalmente una ley sin derogarla. Es la base doctrinal de los bandos de urgencia.",
+   "Doctrina · Tema 16"
+  ],
+  [
+   "ad-extra",
+   "Efectos «ad extra»",
+   "Eficacia hacia fuera de la corporación, sobre los ciudadanos. Es la característica de las ordenanzas.",
+   "Doctrina · Tema 16"
   ]
  ],
  "hubs": [
@@ -196,6 +209,32 @@
     [
      "d",
      "Catástrofe: el Alcalde adopta medidas y da cuenta al Pleno"
+    ]
+   ],
+   "ic": "📣"
+  },
+  {
+   "id": "h-bandos",
+   "epi": "e3",
+   "titulo": "Bandos",
+   "art": "Art. 21.1.e y m LBRL",
+   "resumen": "Normas del Alcalde.",
+   "pistas": [
+    [
+     "q",
+     "Solo el Alcalde los dicta"
+    ],
+    [
+     "d",
+     "Reglamentos de necesidad"
+    ],
+    [
+     "d",
+     "Clases: periódicos, de urgencia y de policía y buen gobierno"
+    ],
+    [
+     "t",
+     "No sustituyen a una ordenanza"
     ]
    ],
    "ic": "📣"

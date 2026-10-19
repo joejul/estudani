@@ -50,6 +50,23 @@
     [
      "trampa",
      "Las disposiciones generales locales son **reglamentos u ordenanzas según su objeto** (examen 2025, pregunta 25): **organización = reglamento; el resto = ordenanza**."
+    ],
+    [
+     "h",
+     "Concepto y clases (doctrina del manual)"
+    ],
+    [
+     "lista",
+     [
+      "Son **normas jurídicas generales, obligatorias y permanentes**, subordinadas a la ley y a otras normas de rango superior, dictadas por las Entidades Locales en ejercicio de su potestad reglamentaria para regir sus intereses propios (art. 4.1.a LBRL).",
+      "**Ordenanza:** la doctrina la usa para las normas con efectos **hacia fuera** (relaciones entre la entidad y los ciudadanos). **Reglamento:** su eficacia se limita, en el uso tradicional, a las **relaciones internas** de la Corporación (por ejemplo, regular un servicio o la relación con sus trabajadores). **Bando:** norma reglamentaria dictada **exclusivamente por el Alcalde** en ejercicio de sus competencias. Para el **examen de Aragón** recuerda el criterio de la Ley 7/1999 (art. 139.1): reglamento = organización y funcionamiento de la entidad; ordenanza = el resto.",
+      "Según el art. 84.1.a) LBRL, ordenanzas y bandos son **formas de intervención** de las Corporaciones en la actividad de los ciudadanos.",
+      "**Clases:** no puede hacerse una clasificación cerrada; en la práctica se distingue entre **ordenanzas de policía y buen gobierno** (convivencia y normas elementales de comportamiento) y **ordenanzas sectoriales** (tráfico, circulación y seguridad vial, según el Real Decreto Legislativo 6/2015…). También se pueden clasificar por **procedimiento**, pues la ley exige a algunas un quórum o un órgano especial."
+     ]
+    ],
+    [
+     "trampa",
+     "Según el manual, la ordenanza produce efectos **ad extra** y el reglamento solo **internos**; pero en **Aragón** la distinción oficial la hace el **objeto**: **organización = reglamento**, **otras materias = ordenanza**."
     ]
    ],
    "flash": [
@@ -60,6 +77,14 @@
     [
      "¿Puede el ayuntamiento dispensar individualmente de una ordenanza?",
      "No (139.3)."
+    ],
+    [
+     "¿Quién puede dictar bandos?",
+     "Exclusivamente el Alcalde, en ejercicio de sus competencias."
+    ],
+    [
+     "¿Qué ordenanzas distingue la práctica municipal además de las sectoriales?",
+     "Las de policía y buen gobierno."
     ]
    ],
    "esquema": [
@@ -173,6 +198,20 @@
     [
      "trampa",
      "En Zaragoza el Pleno aprueba **en acto único** (no hay aprobación inicial y definitiva separadas) y la información pública son **30 días naturales mínimo**. En el régimen general: inicial, información pública y definitiva."
+    ],
+    [
+     "h",
+     "Fases del procedimiento común en detalle"
+    ],
+    [
+     "lista",
+     [
+      "**Preparación:** el Presidente de la Corporación o el órgano competente ordena la redacción de la ordenanza o reglamento, normalmente al jefe administrativo de la dependencia con competencia en la materia (o a un órgano equivalente a las secretarías generales técnicas). Redactado el **borrador**, se somete a **dictamen de la comisión informativa** u órgano complementario competente, trámite **previo y preceptivo** (art. 123 ROF).",
+      "**En los municipios de gran población** (arts. 123 y 127 LBRL): el **proyecto** lo aprueba la **Junta de Gobierno Local** (salvo las normas del Pleno y sus comisiones) y la **aprobación definitiva** corresponde al **Pleno**.",
+      "**Aprobación inicial:** la hace el **Pleno** por **mayoría simple**, sin quórum especial (salvo las excepciones legales), y **no puede delegarla** en la Junta de Gobierno ni en el Presidente (art. 22.4 LBRL; art. 33.4 para Diputaciones).",
+      "**Información pública y audiencia:** treinta días como mínimo (el manual los considera **hábiles** por el art. 30.2 LPAC; la Ley 10/2017 de Zaragoza dice **naturales**), con anuncios en el **boletín oficial de la provincia**, el **tablón de edictos** y los lugares de costumbre. Cualquier **interesado** puede presentar reclamaciones y sugerencias.",
+      "**Resolución y aprobación definitiva:** el Pleno resuelve las reclamaciones y aprueba definitivamente; si no hay reclamaciones, el acuerdo provisional se entiende **definitivo**. Los mismos trámites se siguen para **modificar** la norma."
+     ]
     ]
    ],
    "flash": [
@@ -183,6 +222,18 @@
     [
      "¿Quién aprueba el proyecto de ordenanza en Zaragoza?",
      "El Gobierno de Zaragoza; el Pleno la aprueba en acto único (48 Ley 10/2017)."
+    ],
+    [
+     "¿Quién aprueba el proyecto de ordenanza en un municipio de gran población?",
+     "La Junta de Gobierno Local; la aprobación definitiva es del Pleno."
+    ],
+    [
+     "¿Qué trámite previo y preceptivo precede a la aprobación inicial?",
+     "El dictamen de la comisión informativa competente."
+    ],
+    [
+     "¿Puede el Pleno delegar la aprobación inicial de una ordenanza en la Junta de Gobierno?",
+     "No."
     ]
    ],
    "esquema": [
@@ -461,6 +512,74 @@
      }
     ]
    ]
+  },
+  {
+   "id": "e3",
+   "titulo": "Bandos: naturaleza y clases",
+   "subtitulo": "Normas del Alcalde",
+   "clave": [
+    "Solo el Alcalde (art. 21.1.e y m LBRL)",
+    "Reglamentos de necesidad",
+    "Clases: periódicos, de urgencia y de policía y buen gobierno",
+    "No sustituyen a una ordenanza"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los **bandos** son disposiciones que dicta directamente el **Alcalde** (art. 21.1.e LBRL; art. 124.4.g en gran población; art. 41.12 ROF). Sirven para **recordar, aclarar** y, a veces, **crear Derecho** cuando el Alcalde actúa con la atribución del **art. 21.1.m LBRL**: adoptar personalmente, y bajo su responsabilidad, medidas en caso de **catástrofe, infortunios públicos o grave riesgo**, dando cuenta inmediata al Pleno."
+    ],
+    [
+     "lista",
+     [
+      "Son lo que **García de Enterría** llama **«reglamentos de necesidad»**: **exceptúan**, pero **no derogan para siempre**, una ley previa.",
+      "El **Tribunal Supremo** (sentencias de 28 de diciembre de 1977 y de 18 de octubre de 1983) declaró que una **regulación general y de duración indefinida** debe hacerse con **ordenanza** y no con un bando: el bando es para situaciones **eventuales, coyunturales o de concreción** de una norma general."
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Clase de bando",
+      "Qué es"
+     ],
+     [
+      [
+       "**Periódicos**",
+       "Se limitan a **recordar** disposiciones vigentes en **fechas fijadas** de antemano por la ley y en todos los municipios."
+      ],
+      [
+       "**De urgencia**",
+       "Para **situaciones imprevistas**, sobre todo catástrofes. Su apoyo legal es el art. 21.1.m LBRL."
+      ],
+      [
+       "**De policía y buen gobierno**",
+       "Dictados en desarrollo de las atribuciones del Alcalde para regir mejor la vida de la comunidad."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "El **bando** no puede sustituir a una **ordenanza**: una regulación **general y permanente** exige ordenanza. El bando lo dicta **solo el Alcalde** y **no es delegable** (art. 21.3 y 124.5)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué atribución del art. 21 LBRL permite al Alcalde dictar bandos de urgencia?",
+     "La del art. 21.1.m: medidas personales en catástrofes o grave riesgo, dando cuenta inmediata al Pleno."
+    ],
+    [
+     "¿Qué clases clásicas de bandos se distinguen?",
+     "Periódicos, de urgencia y de policía y buen gobierno."
+    ],
+    [
+     "¿Por qué no puede un bando regular una materia con vocación de permanencia?",
+     "Porque ello exige una ordenanza; el bando solo atiende a situaciones eventuales o coyunturales."
+    ]
+   ],
+   "esquema": [
+    "Bandos: periódicos · de urgencia · de policía y buen gobierno · «reglamentos de necesidad»"
+   ],
+   "ic": "📣",
+   "articulos": []
   }
  ],
  "mapa": {
@@ -499,6 +618,20 @@
         "titulo": "Sin dispensa singular"
        }
       ]
+     },
+     {
+      "titulo": "Ordenanza / reglamento / bando",
+      "hijos": [
+       {
+        "titulo": "Ordenanza: efectos ad extra"
+       },
+       {
+        "titulo": "Reglamento: organización (Aragón)"
+       },
+       {
+        "titulo": "Bando: solo el Alcalde"
+       }
+      ]
      }
     ]
    },
@@ -528,6 +661,20 @@
        },
        {
         "titulo": "Comisión y Pleno en acto único"
+       }
+      ]
+     },
+     {
+      "titulo": "Preparación y aprobación inicial",
+      "hijos": [
+       {
+        "titulo": "Dictamen de la comisión informativa"
+       },
+       {
+        "titulo": "Gran población: proyecto por la JGL"
+       },
+       {
+        "titulo": "Inicial por el Pleno: indelegable"
        }
       ]
      }
