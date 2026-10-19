@@ -107,12 +107,8 @@ export function enlazar(raiz, { excluirId } = {}) {
     },
   });
   while (w.nextNode()) nodos.push(w.currentNode);
-  // para no llenar la pantalla de subrayados: en cada bloque (tarjeta, artículo…) solo se subraya la primera vez que sale cada término
-  const hechos = new Map();
+  // se subraya cada aparición del término
   for (const n of nodos) {
-    const bloque = n.parentElement.closest('.card, details, article, section, .lista, li, .sheet-p') || raiz;
-    if (!hechos.has(bloque)) hechos.set(bloque, new Set());
-    const ya = hechos.get(bloque);
     const texto = n.nodeValue;
     const hallazgos = [];
     for (const r of [regex.i, regex.s]) {
@@ -123,7 +119,7 @@ export function enlazar(raiz, { excluirId } = {}) {
         let k = 1;
         while (k < m.length && m[k] === undefined) k += 1;
         const id = r.ids[k - 1];
-        if (id && id !== excluirId && !ya.has(id)) { ya.add(id); hallazgos.push({ i: m.index, f: m.index + m[0].length, id, t: m[0] }); }
+        if (id && id !== excluirId) { hallazgos.push({ i: m.index, f: m.index + m[0].length, id, t: m[0] }); }
         if (m[0].length === 0) r.re.lastIndex += 1;
       }
     }

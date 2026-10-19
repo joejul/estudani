@@ -199,11 +199,11 @@ const fmtTiempo = (ms) => {
 // ---------------------------------------------------------------- enrutado
 function route() {
   clearInterval(reloj);
-  const [a, b, c, d] = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
+  const [a, b, c, d, e5] = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
   let v;
   if (!a) v = vistaInicio();
   else if (a === 'temas') v = vistaTemas();
-  else if (a === 'tema') v = b ? vistaTema(+b, c, d) : vistaTemas();
+  else if (a === 'tema') v = b ? vistaTema(+b, c, d, e5) : vistaTemas();
   else if (a === 'repaso') v = vistaRepaso();
   else if (a === 'quiz') v = vistaQuiz();
   else if (a === 'glosario') v = vistaGlosario(b);
@@ -328,7 +328,7 @@ function vistaTemas() {
 }
 
 // ---------------------------------------------------------------- tema
-function vistaTema(n, seccion, extra) {
+function vistaTema(n, seccion, extra, extra2) {
   const t = D.tema[n];
   if (!t) {
     const i = infoTema(n);
@@ -339,7 +339,7 @@ function vistaTema(n, seccion, extra) {
   const sub = (id, txt) => `<a href="${base}/${id}" class="${activa === id ? 'on' : ''}">${txt}</a>`;
   const subtabs = `<nav class="subtabs">${sub('leccion', 'Lección')}${sub('mapa', 'Mapa')}${sub('asociar', 'Asociar')}${sub('test', 'Test')}</nav>`;
   if (seccion === 'e') {
-    const r = vistaEpigrafe(n, extra);
+    const r = vistaEpigrafe(n, extra, extra2);
     if (r) return r;
   }
   let cuerpo;
@@ -363,8 +363,27 @@ function cuerpoLeccion(n, t) {
         <span class="fila-r">›</span></a>`;
     })
     .join('');
-  return `<div class="lista">${items}</div>
+  return `<div class="lista">${items}</div>${indiceArticulos(n, t)}
     <p class="tiny muted">Cada epígrafe: explicación desde cero → conceptos clave → ejemplo → trampa → tarjetas de memoria → test.</p>`;
+}
+
+// Índice de artículos del tema: agrupado por ley, cada artículo lleva a su ficha dentro del epígrafe
+function indiceArticulos(n, t) {
+  const porLey = new Map();
+  t.epigrafes.forEach((e) => (e.articulos || []).forEach((a) => {
+    if (!porLey.has(a.lx)) porLey.set(a.lx, []);
+    porLey.get(a.lx).push({ a, e });
+  }));
+  if (!porLey.size) return '';
+  const total = [...porLey.values()].reduce((s, l) => s + l.length, 0);
+  const clave = (x) => { const m = /^(\D*)(\d+)/.exec(String(x)); return [m ? m[1] : String(x), m ? +m[2] : 0, String(x)]; };
+  const grupos = [...porLey.entries()].map(([lx, lista]) => {
+    const ley = (D.leyes || {})[lx] || {};
+    lista.sort((x, y) => { const p = clave(x.a.n), q = clave(y.a.n); return p[0] < q[0] ? -1 : p[0] > q[0] ? 1 : p[1] - q[1] || (p[2] < q[2] ? -1 : 1); });
+    return `<details class="idx-ley"><summary><b>${esc(ley.corto || lx)}</b> <span class="muted">· ${lista.length} artículos</span></summary>
+      <div class="idx-arts">${lista.map(({ a, e }) => `<a class="idx-a" href="#/tema/${n}/e/${e.id}/${encodeURIComponent(`${a.lx}:${a.n}`)}" title="${esc(a.ref)}">${esc(etiquetaArt(a.n).replace('Art. ', ''))}</a>`).join('')}</div></details>`;
+  }).join('');
+  return `<section class="card idx"><h3>📚 Índice de artículos del tema (${total})</h3><p class="tiny muted">Toca una ley y luego el número: te lleva directo a ese artículo.</p>${grupos}</section>`;
 }
 
 // «Artículo por artículo»: ficha plegable con la etiqueta corta, el texto oficial literal, la explicación sencilla
@@ -380,7 +399,7 @@ function articulosHtml(e) {
     const ley = (D.leyes || {})[a.lx] || {};
     const oficial = ley.arts && ley.arts[a.n];
     const zs = (D.zgz || {})[`${a.lx}:${a.n}`] || [];
-    return `<details class="art ${zs.length ? 'zgz' : ''}"><summary><span class="art-n">${esc(etiquetaArt(a.n))}</span><b>${esc(a.ref)}</b>${zs.length ? '<span class="art-b" title="Preguntado en Zaragoza">⭐</span>' : ''}${a.add === 1 ? '<span class="art-b" title="Añadido para cobertura 2026">🟠</span>' : ''}</summary>
+    return `<details class="art ${zs.length ? 'zgz' : ''}" data-art="${esc(a.lx)}:${esc(a.n)}"><summary><span class="art-n">${esc(etiquetaArt(a.n))}</span><b>${esc(a.ref)}</b>${zs.length ? '<span class="art-b" title="Preguntado en Zaragoza">⭐</span>' : ''}${a.add === 1 ? '<span class="art-b" title="Añadido para cobertura 2026">🟠</span>' : ''}</summary>
       <p class="art-ley">${esc(ley.corto || a.lx)}</p>
       ${oficial ? `<div class="art-of"><h4>📜 Texto oficial</h4>${oficial.split('\n').map((l, i) => (i === 0 ? `<p><b>${esc(l)}</b></p>` : `<p>${esc(l)}</p>`)).join('')}<p class="tiny muted">Texto consolidado vigente · ${esc(ley.nombre)}</p></div>` : '<p class="tiny muted">El texto oficial de este artículo no está incluido aún.</p>'}
       ${a.txt ? `<div class="art-t"><h4>✅ Lo esencial</h4>${lineas(a.txt)}</div>` : ''}
@@ -395,7 +414,7 @@ function articulosHtml(e) {
     ${e.articulos.map(ficha).join('')}</section>`;
 }
 
-function vistaEpigrafe(n, id) {
+function vistaEpigrafe(n, id, artAbrir) {
   const t = D.tema[n];
   const i = t.epigrafes.findIndex((e) => e.id === id);
   if (i < 0) return null;
@@ -427,7 +446,11 @@ function vistaEpigrafe(n, id) {
       </div>
       <p class="tiny"><button class="link" data-act="reportar" data-ctx="Tema ${n} · ${esc(e.titulo)}">⚑ ¿Algo no cuadra en este epígrafe? Reportar</button></p>
     </article>`;
-  return { titulo: `Tema ${n}`, volver: `#/tema/${n}`, tab: 'temas', html };
+  return { titulo: `Tema ${n}`, volver: `#/tema/${n}`, tab: 'temas', html, despues() {
+    if (!artAbrir) return;
+    const el = view.querySelector(`details.art[data-art="${CSS.escape(artAbrir)}"]`);
+    if (el) { el.open = true; el.scrollIntoView({ block: 'start' }); }
+  } };
 }
 
 function hubsDeEpi(n, epi) {

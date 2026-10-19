@@ -467,3 +467,8 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 .guia ul, .guia ol { margin: 6px 0; padding-left: 20px; }
 .guia li { margin: 6px 0; }
 .pasos { counter-reset: p; }
+
+.idx .idx-arts{display:flex;flex-wrap:wrap;gap:6px;padding:8px 0 4px}
+.idx .idx-a{display:inline-block;min-width:38px;text-align:center;padding:6px 8px;border-radius:8px;background:var(--card2,rgba(127,127,127,.12));text-decoration:none;font-size:.85rem;font-weight:600}
+.idx .idx-ley{margin:6px 0;border-top:1px solid rgba(127,127,127,.2);padding-top:6px}
+.idx .idx-ley summary{cursor:pointer;padding:4px 0}
