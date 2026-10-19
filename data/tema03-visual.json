@@ -4,10 +4,15 @@
    "e0"
   ],
   [
-   "e1"
+   "e1",
+   "e5",
+   "e6",
+   "e7"
   ],
   [
-   "e2"
+   "e2",
+   "e3",
+   "e4"
   ]
  ],
  "glosario": [
@@ -100,6 +105,78 @@
    "Cuestión de confianza en Aragón",
    "El Presidente de Aragón pide a las Cortes que respalden su programa; se entiende otorgada con mayoría simple.",
    "Art. 49 EAAr"
+  ],
+  [
+   "investidura",
+   "Investidura",
+   "Votación de las Cortes que elige al candidato a Presidente. En Aragón se necesita mayoría absoluta y, si no, basta la simple a las 24 horas.",
+   "Art. 48 EAAr"
+  ],
+  [
+   "mocion-censura-aragon",
+   "Moción de censura (Aragón)",
+   "Las Cortes pueden destituir al Presidente y al Gobierno por mayoría absoluta si la propone al menos el 15 % de los diputados con un candidato alternativo.",
+   "Art. 50 EAAr"
+  ],
+  [
+   "diputacion-general",
+   "Diputación General de Aragón",
+   "Otro nombre del Gobierno de Aragón; el Estatuto permite usar ambos indistintamente.",
+   "Art. 53 EAAr"
+  ],
+  [
+   "delegacion-legislativa",
+   "Delegación legislativa",
+   "Las Cortes encargan al Gobierno dictar normas con rango de ley (decretos legislativos), de forma expresa, por ley, para una materia y con plazo.",
+   "Art. 43 EAAr"
+  ],
+  [
+   "clausula-cierre",
+   "Cláusula de cierre",
+   "Regla que cierra el mapa de competencias: las materias del Estatuto no excluyen otros contenidos propios de esa competencia, y en las exclusivas el Derecho aragonés se aplica con preferencia.",
+   "Art. 80 EAAr"
+  ],
+  [
+   "da-cuarta-eaar",
+   "Disposición adicional cuarta",
+   "Permite a Aragón pedir al Estado la transferencia o delegación de más competencias (art. 150.2 CE).",
+   "DA 4.ª EAAr"
+  ],
+  [
+   "competencia-ejecutiva",
+   "Competencia ejecutiva",
+   "Aragón solo ejecuta la legislación del Estado: dicta reglamentos de organización y aplica las normas, pero no legisla.",
+   "Art. 77 EAAr"
+  ],
+  [
+   "materias-singularizadas",
+   "Materias singularizadas",
+   "Seis materias con artículo propio en el Estatuto: aguas, enseñanza, medios de comunicación, policía autonómica, notarios y registradores y fomento.",
+   "Arts. 72 a 79 EAAr"
+  ],
+  [
+   "consejo-justicia-aragon",
+   "Consejo de Justicia de Aragón",
+   "Órgano creado por el Estatuto; una ley de las Cortes fija su estructura, composición y funciones conforme a la LOPJ.",
+   "Art. 64 EAAr"
+  ],
+  [
+   "ley-capitalidad",
+   "Ley de capitalidad",
+   "Ley que da a Zaragoza, como capital de Aragón, un régimen especial. En el temario: la Ley 10/2017.",
+   "Art. 87 EAAr"
+  ],
+  [
+   "junta-seguridad",
+   "Junta de Seguridad",
+   "Órgano paritario del Estado y de la Comunidad que coordina la Policía autonómica con las Fuerzas y Cuerpos de Seguridad del Estado.",
+   "Art. 76 EAAr"
+  ],
+  [
+   "area-metropolitana",
+   "Área metropolitana",
+   "Entidad local que puede crearse por ley de las Cortes de Aragón para varios municipios con fuertes relaciones entre ellos.",
+   "Art. 81 EAAr"
   ]
  ],
  "hubs": [
@@ -226,6 +303,186 @@
     ]
    ],
    "ic": "🧩"
+  },
+  {
+   "id": "h-cortes-funciones",
+   "epi": "e5",
+   "titulo": "Cortes: funciones y normas",
+   "art": "Arts. 41-45",
+   "resumen": "Funciones, delegación, decretos-leyes y promulgación.",
+   "pistas": [
+    [
+     "q",
+     "Las Cortes eligen al Presidente de Aragón y al Justicia"
+    ],
+    [
+     "n",
+     "Convalidación del decreto-ley: 30 días"
+    ],
+    [
+     "d",
+     "Delegación: expresa, por ley, para una materia concreta y con plazo cierto"
+    ],
+    [
+     "n",
+     "Promulgación y publicación: 15 días desde la aprobación"
+    ],
+    [
+     "t",
+     "Para la vigencia de las leyes manda la fecha del BOA"
+    ]
+   ],
+   "ic": "🏛️"
+  },
+  {
+   "id": "h-presidente",
+   "epi": "e6",
+   "titulo": "Presidente de Aragón",
+   "art": "Arts. 46-52",
+   "resumen": "Investidura, confianza, censura y disolución.",
+   "pistas": [
+    [
+     "n",
+     "Investidura: mayoría absoluta y, 24 horas después, mayoría simple"
+    ],
+    [
+     "n",
+     "Dos meses sin investidura: se disuelven las Cortes"
+    ],
+    [
+     "n",
+     "Moción de censura: al menos el 15 % de los diputados y mayoría absoluta"
+    ],
+    [
+     "d",
+     "Cuestión de confianza: se otorga con mayoría simple"
+    ],
+    [
+     "t",
+     "No se puede disolver las Cortes con una moción de censura en trámite"
+    ]
+   ],
+   "ic": "🧑‍💼"
+  },
+  {
+   "id": "h-justicia-consultivo",
+   "epi": "e6",
+   "titulo": "Justicia y Consejo Consultivo",
+   "art": "Arts. 58-60",
+   "resumen": "Dos instituciones con ley propia.",
+   "pistas": [
+    [
+     "d",
+     "Justicia: protege los derechos y el ordenamiento aragonés"
+    ],
+    [
+     "n",
+     "Ley del Justicia: 4/1985, de 27 de junio"
+    ],
+    [
+     "n",
+     "Ley del Consejo Consultivo: 1/2009, de 30 de marzo"
+    ],
+    [
+     "t",
+     "El Justicia no juzga ni dicta sentencias: magistratura moral"
+    ]
+   ],
+   "ic": "⚖️"
+  },
+  {
+   "id": "h-admin-justicia",
+   "epi": "e7",
+   "titulo": "Administración, Justicia y local",
+   "art": "Arts. 61-87",
+   "resumen": "Administración ordinaria, TSJ, cláusula subrogatoria y entes locales.",
+   "pistas": [
+    [
+     "d",
+     "Administración ordinaria en sus competencias (61)"
+    ],
+    [
+     "d",
+     "Cláusula subrogatoria: funciones del Gobierno de España sobre la Justicia (69)"
+    ],
+    [
+     "d",
+     "Organización local: municipios, comarcas y provincias (81)"
+    ],
+    [
+     "d",
+     "Principios locales: subsidiariedad, proporcionalidad y diferenciación (85)"
+    ],
+    [
+     "d",
+     "Zaragoza: régimen especial por ley de capitalidad (87)"
+    ]
+   ],
+   "ic": "🧩"
+  },
+  {
+   "id": "h-comp-materias",
+   "epi": "e3",
+   "titulo": "Materias de cada competencia",
+   "art": "Arts. 71, 75 y 77",
+   "resumen": "Cuántas materias tiene cada clase y ejemplos.",
+   "pistas": [
+    [
+     "n",
+     "Exclusivas: 60 materias en el art. 71"
+    ],
+    [
+     "n",
+     "Compartidas: 13 materias en el art. 75"
+    ],
+    [
+     "n",
+     "Ejecutivas: 17 materias en el art. 77"
+    ],
+    [
+     "d",
+     "Urbanismo, vivienda y sanidad son competencias exclusivas"
+    ],
+    [
+     "d",
+     "Seguridad Social (salvo régimen económico) y energía son compartidas"
+    ],
+    [
+     "t",
+     "El sistema penitenciario es competencia ejecutiva"
+    ]
+   ],
+   "ic": "🗺️"
+  },
+  {
+   "id": "h-singularizadas",
+   "epi": "e4",
+   "titulo": "Materias singularizadas y cláusulas",
+   "art": "Arts. 72-80 · DA 4.ª",
+   "resumen": "Aguas, enseñanza, medios, policía, notarios, fomento y cláusulas.",
+   "pistas": [
+    [
+     "d",
+     "Aguas: exclusiva si discurren íntegramente por Aragón"
+    ],
+    [
+     "d",
+     "Enseñanza y medios de comunicación: compartidas"
+    ],
+    [
+     "d",
+     "Policía autonómica: se crea con ley orgánica y se coordina la local"
+    ],
+    [
+     "d",
+     "Cláusula de cierre: Derecho aragonés preferente en las exclusivas"
+    ],
+    [
+     "d",
+     "DA 4.ª: pedir transferencia o delegación (art. 150.2 CE)"
+    ]
+   ],
+   "ic": "🔚"
   }
  ],
  "esquema": [
