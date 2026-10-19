@@ -1,6 +1,10 @@
 {
  "mapaEpis": [
   [
+   "e2",
+   "e3"
+  ],
+  [
    "e0"
   ],
   [
@@ -70,6 +74,48 @@
    "Cl@ve",
    "Sistema de identificación electrónica común de las Administraciones, que permite acceder a trámites con usuario y contraseña o certificado.",
    "Ley 39/2015"
+  ],
+  [
+   "relacion-juridico-administrativa",
+   "Relación jurídico-administrativa",
+   "Relación entre la Administración y una persona regulada por el Derecho Administrativo. Tiene sujetos, objeto, contenido y causa.",
+   "Doctrina · Tema 4"
+  ],
+  [
+   "administrado",
+   "Administrado",
+   "Persona que se relaciona con la Administración. Puede ser simple (sujeción general) o cualificado (sujeción especial).",
+   "Doctrina · Tema 4"
+  ],
+  [
+   "sujecion-especial",
+   "Sujeción especial",
+   "Situación de quien está especialmente vinculado a la Administración, como un funcionario o quien usa de forma privativa el dominio público.",
+   "Doctrina · Tema 4"
+  ],
+  [
+   "relaciones-ad-extra",
+   "Relaciones ad extra y ad intra",
+   "Ad extra: las de la Administración con los ciudadanos (Ley 39/2015). Ad intra: las internas y entre Administraciones (Ley 40/2015).",
+   "Preámbulo Ley 39/2015"
+  ],
+  [
+   "sector-publico-institucional",
+   "Sector público institucional",
+   "Organismos públicos y entidades de derecho público o privado vinculados o dependientes de las Administraciones, y las Universidades públicas.",
+   "Art. 2 Ley 39/2015"
+  ],
+  [
+   "registro-distribuido",
+   "Tecnología de registro distribuido",
+   "Sistemas como el blockchain. La Ley 39/2015 no admite identificarse ni firmar con ellos ante la Administración mientras no los regule el Estado.",
+   "DA 6.ª Ley 39/2015"
+  ],
+  [
+   "funcionario-habilitado",
+   "Funcionario habilitado",
+   "Funcionario autorizado para identificar o firmar por un interesado que no tiene medios electrónicos, con su consentimiento expreso.",
+   "Art. 12 Ley 39/2015"
   ]
  ],
  "hubs": [
@@ -162,6 +208,96 @@
     ]
    ],
    "ic": "✍️"
+  },
+  {
+   "id": "h-ley39",
+   "epi": "e2",
+   "titulo": "La Ley 39/2015: objeto y ámbito",
+   "art": "Arts. 1 y 2",
+   "resumen": "Objeto, estructura y a quién se aplica.",
+   "pistas": [
+    [
+     "n",
+     "133 artículos, un título preliminar y seis títulos"
+    ],
+    [
+     "d",
+     "Solo una ley puede añadir trámites adicionales (art. 1.2)"
+    ],
+    [
+     "d",
+     "Se aplica al sector público: AGE, CCAA, Entidades Locales y sector público institucional"
+    ],
+    [
+     "d",
+     "Universidades públicas: normativa propia y la Ley 39/2015 supletoria"
+    ],
+    [
+     "t",
+     "Las especialidades por reglamento solo pueden referirse a órganos, plazos, iniciación y terminación, publicación e informes"
+    ]
+   ],
+   "ic": "📘"
+  },
+  {
+   "id": "h-relacion",
+   "epi": "e3",
+   "titulo": "Relación jurídico-administrativa",
+   "art": "Doctrina",
+   "resumen": "Sujetos, elementos y clases de administrado.",
+   "pistas": [
+    [
+     "d",
+     "Elementos: sujetos, objeto, contenido y causa"
+    ],
+    [
+     "d",
+     "Administrado simple: sujeción general"
+    ],
+    [
+     "d",
+     "Administrado cualificado: sujeción especial"
+    ],
+    [
+     "t",
+     "Denunciar o participar en la información pública no da por sí solo la condición de interesado"
+    ],
+    [
+     "d",
+     "Derechos de las personas: art. 13; derechos del interesado: art. 53"
+    ]
+   ],
+   "ic": "🤝"
+  },
+  {
+   "id": "h-ident-firma",
+   "epi": "e1",
+   "titulo": "Identificación y firma",
+   "art": "Arts. 9 a 12",
+   "resumen": "Sistemas válidos y firma obligatoria.",
+   "pistas": [
+    [
+     "d",
+     "Se verifica la identidad con el DNI o documento equivalente"
+    ],
+    [
+     "d",
+     "Certificados cualificados de firma y de sello son siempre válidos"
+    ],
+    [
+     "n",
+     "Firma obligatoria solo en cinco casos: solicitudes, declaraciones o comunicaciones, recursos, desistir y renunciar"
+    ],
+    [
+     "q",
+     "Un funcionario público habilitado puede identificar o firmar por el interesado sin medios"
+    ],
+    [
+     "t",
+     "Los sistemas de registro distribuido (blockchain) no se admiten (DA 6.ª)"
+    ]
+   ],
+   "ic": "🔐"
   }
  ],
  "esquema": [

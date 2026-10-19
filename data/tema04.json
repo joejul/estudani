@@ -5,6 +5,310 @@
  "verificado": "2026-10-04",
  "epigrafes": [
   {
+   "id": "e2",
+   "titulo": "La Ley 39/2015: objetivo, estructura y ámbito (arts. 1 y 2)",
+   "subtitulo": "Para qué sirve la ley, cómo está organizada y a quién se aplica",
+   "clave": [
+    "Procedimiento común a todas las Administraciones",
+    "133 artículos, título preliminar y 6 títulos",
+    "Art. 1: objeto",
+    "Art. 2: sector público",
+    "Universidades públicas: supletoria"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPAC)** regula **cómo se relacionan las Administraciones con los ciudadanos** (relaciones *ad extra*). Su «hermana» la **Ley 40/2015** (Régimen Jurídico del Sector Público) regula la organización interna y las relaciones entre Administraciones (*ad intra*)."
+    ],
+    [
+     "h",
+     "Por qué se aprobó"
+    ],
+    [
+     "lista",
+     [
+      "Para **ordenar la dispersión normativa** que dejaban la Ley 30/1992 y la Ley 11/2007 (acceso electrónico), integrándolas en un solo texto.",
+      "Para que la **tramitación electrónica** sea la forma habitual de actuar de las Administraciones, y no una forma especial.",
+      "Para reforzar la **participación ciudadana**, la **seguridad jurídica** y la revisión del ordenamiento, y fijar por primera vez en una ley los principios de la **iniciativa legislativa** y la **potestad reglamentaria**."
+     ]
+    ],
+    [
+     "p",
+     "El **procedimiento administrativo** es el conjunto ordenado de trámites y actuaciones formalmente realizados, según el cauce legalmente previsto, para **dictar un acto administrativo o expresar la voluntad de la Administración**. Es **común** porque se aplica a todas las Administraciones, aunque el Estado y las Comunidades Autónomas pueden establecer especialidades."
+    ],
+    [
+     "h",
+     "Estructura"
+    ],
+    [
+     "p",
+     "La ley tiene **133 artículos**, un título preliminar y seis títulos, **9 disposiciones adicionales, 5 transitorias, 1 derogatoria y 7 finales**."
+    ],
+    [
+     "tabla",
+     [
+      "Título",
+      "De qué trata"
+     ],
+     [
+      [
+       "Preliminar",
+       "Disposiciones generales (arts. 1 y 2)"
+      ],
+      [
+       "I",
+       "De los interesados en el procedimiento (arts. 3 a 12 y siguientes)"
+      ],
+      [
+       "II",
+       "De la actividad de las Administraciones Públicas"
+      ],
+      [
+       "III",
+       "De los actos administrativos"
+      ],
+      [
+       "IV",
+       "De las disposiciones sobre el procedimiento administrativo común"
+      ],
+      [
+       "V",
+       "De la revisión de los actos en vía administrativa"
+      ],
+      [
+       "VI",
+       "De la iniciativa legislativa y de la potestad para dictar reglamentos y otras disposiciones"
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Objeto (art. 1)"
+    ],
+    [
+     "lista",
+     [
+      "**1.1:** regula los **requisitos de validez y eficacia de los actos administrativos**, el **procedimiento administrativo común** a todas las Administraciones (incluido el **sancionador** y el de **responsabilidad patrimonial**) y los principios de la **iniciativa legislativa** y la **potestad reglamentaria**.",
+      "**1.2:** **solo mediante ley**, cuando resulte **eficaz, proporcionado y necesario** y **de manera motivada**, pueden incluirse trámites adicionales o distintos. **Reglamentariamente** solo pueden fijarse **especialidades** (órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes)."
+     ]
+    ],
+    [
+     "h",
+     "Ámbito de aplicación (art. 2)"
+    ],
+    [
+     "tabla",
+     [
+      "Se aplica a…",
+      "Detalle"
+     ],
+     [
+      [
+       "**Sector público**",
+       "Comprende la **Administración General del Estado**, las **Administraciones de las Comunidades Autónomas**, las **Entidades de la Administración Local** y el **sector público institucional**."
+      ],
+      [
+       "**Sector público institucional**",
+       "Organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones; **entidades de derecho privado** vinculadas o dependientes (solo en las normas que se refieran a ellas y **siempre que ejerzan potestades administrativas**); y las **Universidades públicas**."
+      ],
+      [
+       "**Universidades públicas**",
+       "Se rigen por su **normativa específica** y **supletoriamente** por la Ley 39/2015."
+      ],
+      [
+       "**Corporaciones de Derecho Público**",
+       "Se rigen por su **normativa específica** al ejercer las funciones públicas atribuidas por ley o delegadas por una Administración, y **supletoriamente** por la Ley 39/2015."
+      ],
+      [
+       "**Administraciones Públicas**",
+       "Son la AGE, las Administraciones de las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público del art. 2.2.a)."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Las **Universidades públicas** no quedan fuera: se rigen por su normativa propia y **la Ley 39/2015 les aplica de forma supletoria**. Las **Corporaciones de Derecho Público** igual: normativa específica y, supletoriamente, esta ley."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué ley regula las relaciones «ad extra» de las Administraciones con los ciudadanos y cuál las «ad intra»?",
+     "La Ley 39/2015 regula las relaciones ad extra; la Ley 40/2015 las ad intra (organización y relaciones entre Administraciones)."
+    ],
+    [
+     "¿Cuántos artículos y títulos tiene la Ley 39/2015?",
+     "133 artículos, un título preliminar y seis títulos."
+    ],
+    [
+     "¿Quién puede añadir trámites adicionales a los de la Ley 39/2015?",
+     "Solo una ley, cuando sea eficaz, proporcionado y necesario y de manera motivada (art. 1.2)."
+    ],
+    [
+     "¿Cómo se aplica la Ley 39/2015 a las Universidades públicas?",
+     "Supletoriamente: se rigen por su normativa específica."
+    ]
+   ],
+   "esquema": [
+    "Ley 39/2015: relaciones ad extra · Ley 40/2015: ad intra",
+    "133 artículos · título preliminar + 6 títulos · 9 DA, 5 DT, 1 DD, 7 DF",
+    "Art. 1: objeto (trámites adicionales solo por ley) · Art. 2: sector público y universidades supletoria"
+   ],
+   "ic": "📘",
+   "articulos": [
+    [
+     "lpac",
+     "1",
+     "Objeto de la ley y trámites adicionales",
+     "La ley regula la **validez y eficacia de los actos**, el **procedimiento común**, y los principios de la **iniciativa legislativa y la potestad reglamentaria**. **Solo una ley** puede añadir trámites distintos; por reglamento solo hay especialidades.",
+     "¿Quién puede añadir trámites adicionales o distintos a los de la Ley 39/2015?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "lpac",
+     "2",
+     "Ámbito subjetivo de aplicación",
+     "La ley se aplica a **todo el sector público**: AGE, Comunidades Autónomas, Entidades Locales y sector público institucional. Las **Universidades públicas** tienen normativa propia y la ley es **supletoria**.",
+     "¿Qué entidades forman el sector público institucional según el art. 2.2?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e3",
+   "titulo": "La relación jurídico-administrativa y el administrado",
+   "subtitulo": "Antes de los interesados: la relación en la que se mueve el ciudadano",
+   "clave": [
+    "Relación jurídico-administrativa: Administración + administrado",
+    "Caracteres: Administración como tal, normalmente parte activa y regida por el Derecho Administrativo",
+    "Elementos: sujetos, objeto, contenido y causa",
+    "Administrado simple y cualificado",
+    "Derechos de las personas (art. 13) y del interesado (art. 53)"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Para entender al **interesado** hay que partir de la **relación jurídico-administrativa**: una relación de la vida real que el Derecho Administrativo regula y a la que da efectos jurídicos. En ella, de un lado está la **Administración** y, del otro, el **administrado**."
+    ],
+    [
+     "h",
+     "Caracteres"
+    ],
+    [
+     "lista",
+     [
+      "Está presente la **Administración**, normalmente en el lado **activo**; el administrado suele ocupar el pasivo.",
+      "La Administración actúa **como tal** (al servicio de los intereses generales, art. 103.1 CE), no como persona de Derecho privado.",
+      "Normalmente la Administración ejerce las **potestades y prerrogativas** que el ordenamiento le reconoce. A veces es el sujeto pasivo, por ejemplo cuando un particular le reclama una **indemnización** por responsabilidad patrimonial.",
+      "La relación está **regulada por el Derecho Administrativo**."
+     ]
+    ],
+    [
+     "h",
+     "Elementos"
+    ],
+    [
+     "tabla",
+     [
+      "Elemento",
+      "Qué es"
+     ],
+     [
+      [
+       "**Subjetivo**",
+       "Dos sujetos: el **activo** (por lo general la Administración) y el **pasivo** (por lo general el administrado). También hay relaciones **interadministrativas** entre dos sujetos públicos."
+      ],
+      [
+       "**Objeto**",
+       "Los actos humanos (por ejemplo, el desempeño del cargo de un funcionario) o las cosas (el dominio público) protegidos por la norma."
+      ],
+      [
+       "**Contenido**",
+       "Los **derechos y obligaciones** sobre el objeto que corresponden a cada sujeto."
+      ],
+      [
+       "**Causa**",
+       "Los hechos jurídicos de los que nace la relación (por ejemplo, el nombramiento y la toma de posesión en la relación de servicio de un funcionario)."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Nacimiento, modificación y extinción"
+    ],
+    [
+     "lista",
+     [
+      "**Nace** de una disposición legal, un negocio jurídico (por ejemplo, un contrato administrativo), un hecho o un acto (sobre todo administrativo).",
+      "**Se modifica** por cambios en los sujetos (por ejemplo, otro titular de una licencia), en el objeto o en el contenido.",
+      "**Se extingue** por lo que disponga la ley o, en las relaciones personalísimas (como la de un funcionario), por la muerte del titular."
+     ]
+    ],
+    [
+     "h",
+     "El administrado"
+    ],
+    [
+     "tabla",
+     [
+      "Clase",
+      "Qué es"
+     ],
+     [
+      [
+       "**Administrado simple**",
+       "El que está en una situación de **sujeción general** y es tratado por la norma de forma impersonal. Ejemplo: cualquier ciudadano que usa una calle (uso común general)."
+      ],
+      [
+       "**Administrado cualificado**",
+       "El que está en una situación de **sujeción especial**, especialmente vinculado a la Administración (funcionarios, uso común especial o privativo del dominio público, prestaciones personales)."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Dos cosas que no hay que confundir"
+    ],
+    [
+     "lista",
+     [
+      "Los **derechos de las personas en sus relaciones con las Administraciones** están en el **art. 13**.",
+      "Los **derechos del interesado en el procedimiento** están en el **art. 53**.",
+      "Sobre los interesados trata el **Título I** (arts. 3 a 12), pero también los arts. **53, 82 y 83**.",
+      "Presentar una **denuncia** (art. 62.5) o comparecer en el trámite de **información pública** (art. 83.2) **no da por sí solo** la condición de interesado."
+     ]
+    ],
+    [
+     "trampa",
+     "**Denunciar** o participar en la **información pública** no convierte a nadie en interesado por sí solo. Y no confundas el **art. 13** (derechos de las personas) con el **art. 53** (derechos del interesado en el procedimiento)."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué dos clases de administrado distingue la doctrina?",
+     "Simple (sujeción general) y cualificado (sujeción especial)."
+    ],
+    [
+     "¿Qué artículo recoge los derechos de las personas ante las Administraciones y cuál los derechos del interesado en el procedimiento?",
+     "Los derechos de las personas, el art. 13; los del interesado en el procedimiento, el art. 53."
+    ],
+    [
+     "¿Da la condición de interesado presentar una denuncia?",
+     "No por sí sola (art. 62.5); tampoco comparecer en la información pública (art. 83.2)."
+    ]
+   ],
+   "esquema": [
+    "Relación jurídico-administrativa: Administración + administrado · regulada por el Derecho Administrativo",
+    "Elementos: sujetos, objeto, contenido, causa",
+    "Administrado simple (sujeción general) · cualificado (sujeción especial) · art. 13 frente a art. 53"
+   ],
+   "ic": "🤝",
+   "articulos": []
+  },
+  {
    "id": "e0",
    "titulo": "Capacidad de obrar e interesados",
    "subtitulo": "Arts. 3 y 4",
@@ -54,6 +358,17 @@
     [
      "trampa",
      "En la letra **c)** el interesado debe **personarse antes de la resolución definitiva**. En la **b)** no hace falta que haya iniciado nada."
+    ],
+    [
+     "h",
+     "Dos precisiones sobre el interesado"
+    ],
+    [
+     "lista",
+     [
+      "La **denuncia** (art. 62.5) y la participación en la **información pública** (art. 83.2) no dan, por sí solas, la condición de interesado.",
+      "Aparte del Título I, la figura del interesado aparece en otros artículos de la ley (por ejemplo, **53, 82 y 83**)."
+     ]
     ]
    ],
    "flash": [
@@ -64,6 +379,10 @@
     [
      "¿Qué tres tipos de interesado hay en el art. 4.1?",
      "Los que promueven; los que, sin promoverlo, tienen derechos afectados; y los que tienen intereses legítimos afectados y se personan antes de la resolución definitiva."
+    ],
+    [
+     "¿Qué dos actuaciones no dan por sí solas la condición de interesado?",
+     "Presentar una denuncia (art. 62.5) y comparecer en el trámite de información pública (art. 83.2)."
     ]
    ],
    "esquema": [
@@ -158,6 +477,65 @@
     [
      "trampa",
      "La **firma** solo es obligatoria en los supuestos que fija la ley (art. 11.2); para el resto basta **identificarse**. Los **nuevos interesados** (art. 8) se comunican **durante la instrucción** si el procedimiento no tuvo publicidad."
+    ],
+    [
+     "h",
+     "Identificación y firma en detalle (arts. 9 y 10)"
+    ],
+    [
+     "tabla",
+     [
+      "Qué",
+      "Regla"
+     ],
+     [
+      [
+       "**Identificación electrónica (9.2)**",
+       "a) **Certificados electrónicos cualificados** de firma electrónica; b) certificados cualificados de **sello electrónico**; c) **cualquier otro sistema** que la Administración considere válido, con registro previo del usuario y **comunicación a la Secretaría General de Administración Digital** con declaración responsable (la eficacia llega **dos meses** después, plazo en el que el Estado puede acudir a la vía jurisdiccional por razones de seguridad pública)."
+      ],
+      [
+       "**Garantía**",
+       "Siempre debe poder usarse uno de los sistemas de las letras **a) y b)**, aunque se admita también el de la letra c)."
+      ],
+      [
+       "**Datos de los sistemas c)**",
+       "Sus recursos técnicos deben estar en el territorio de la **Unión Europea** (y en **España** si son datos de categorías especiales)."
+      ],
+      [
+       "**Aceptación por la AGE (9.4)**",
+       "Si la **Administración General del Estado** acepta un sistema, sirve para acreditar la identidad ante **todas** las Administraciones, salvo prueba en contrario."
+      ],
+      [
+       "**Firma (10.2)**",
+       "Son válidos: sistemas de **firma electrónica cualificada y avanzada** basados en certificados cualificados; **sello electrónico cualificado y avanzado**; y otros sistemas con las mismas cautelas. Al firmar, la **identidad queda acreditada** con el propio acto."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Firma obligatoria (art. 11) y funcionarios habilitados (art. 12)"
+    ],
+    [
+     "lista",
+     [
+      "Solo se exige **firma obligatoria** para: **formular solicitudes**, **presentar declaraciones responsables o comunicaciones**, **interponer recursos**, **desistir de acciones** y **renunciar a derechos**. Para el resto de actuaciones basta **acreditar la identidad**.",
+      "Si el interesado no obligado a relacionarse electrónicamente no tiene medios, un **funcionario público habilitado** puede identificarlo o firmar por él, con su **consentimiento expreso** y dejando **constancia**. Cada Administración mantiene un **registro de funcionarios habilitados**, interoperable con los de las demás; constan al menos los que trabajan en las **oficinas de asistencia en materia de registros**."
+     ]
+    ],
+    [
+     "h",
+     "Entrada en vigor y novedades (disposiciones)"
+    ],
+    [
+     "lista",
+     [
+      "**Disposición adicional sexta:** **no son admisibles** los sistemas de identificación y firma basados en **tecnologías de registro distribuido** (como *blockchain*) mientras no los regule el Estado con arreglo al Derecho de la UE.",
+      "**Disposición final séptima:** la ley entró en vigor **un año después de su publicación**, salvo el **registro electrónico de apoderamientos**, el **registro electrónico**, el **registro de empleados públicos habilitados**, el **punto de acceso general electrónico** y el **archivo único electrónico**, que producen efectos desde el **2 de abril de 2021**."
+     ]
+    ],
+    [
+     "trampa",
+     "La **firma** solo es **obligatoria** en cinco casos (solicitar, declarar o comunicar, recurrir, desistir y renunciar). **Aceptar convenios de transacción no está** en esa lista."
     ]
    ],
    "flash": [
@@ -176,6 +554,14 @@
     [
      "Si en un escrito figuran varios interesados, ¿con quién se hacen las actuaciones?",
      "Con el representante o interesado señalado expresamente y, si no, con el que figure en primer término (art. 7)."
+    ],
+    [
+     "¿En qué cinco casos exige la Administración el uso obligatorio de firma (art. 11.2)?",
+     "Formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos."
+    ],
+    [
+     "¿Quién puede identificar o firmar por un interesado sin medios electrónicos?",
+     "Un funcionario público habilitado, con el consentimiento expreso del interesado y dejando constancia."
     ]
    ],
    "esquema": [
@@ -262,6 +648,16 @@
      {
       "txt": "**12.1** Las Administraciones **garantizan** que los interesados pueden relacionarse por **medios electrónicos**, poniendo a su disposición los **canales de acceso** y los sistemas necesarios.\n**12.2** **Asisten** en el uso de medios electrónicos a los interesados **no obligados** a relacionarse electrónicamente (los no incluidos en el art. 14.2 y 14.3) **que lo soliciten**: identificación y firma electrónica, presentación de solicitudes por el **registro electrónico general** y **copias auténticas**. Si no tienen medios, un **funcionario público** puede identificarlos o firmar por ellos con su sistema; hace falta que el interesado **se identifique ante el funcionario** y dé su **consentimiento expreso** (debe quedar **constancia**).\n**12.3** Se mantiene un **registro de funcionarios habilitados** (AGE, CCAA y Entidades Locales), **interoperables**; constan al menos los que trabajan en las **oficinas de asistencia en materia de registros**."
      }
+    ],
+    [
+     "lpac",
+     "DA6",
+     "Identificación y firma con registro distribuido (blockchain)",
+     "No se admiten en ningún caso sistemas de identificación y firma basados en **tecnologías de registro distribuido** mientras no los regule el Estado según el Derecho de la UE.",
+     "¿Se admiten sistemas de identificación basados en registro distribuido (blockchain)?",
+     {
+      "add": 1
+     }
     ]
    ]
   }
@@ -269,6 +665,37 @@
  "mapa": {
   "titulo": "Los interesados",
   "ramas": [
+   {
+    "titulo": "La ley y la relación jurídico-administrativa",
+    "color": "#9b5de5",
+    "hijos": [
+     {
+      "titulo": "Ley 39/2015",
+      "hijos": [
+       {
+        "titulo": "133 artículos · título preliminar + 6"
+       },
+       {
+        "titulo": "Art. 1: objeto"
+       },
+       {
+        "titulo": "Art. 2: sector público · universidades supletoria"
+       }
+      ]
+     },
+     {
+      "titulo": "Relación jurídico-administrativa",
+      "hijos": [
+       {
+        "titulo": "Sujetos · objeto · contenido · causa"
+       },
+       {
+        "titulo": "Administrado simple y cualificado"
+       }
+      ]
+     }
+    ]
+   },
    {
     "titulo": "Quién puede actuar",
     "color": "#247ba0",
