@@ -1,7 +1,8 @@
 {
  "mapaEpis": [
   [
-   "e0"
+   "e0",
+   "e4"
   ],
   [
    "e1"
@@ -10,7 +11,8 @@
    "e2"
   ],
   [
-   "e3"
+   "e3",
+   "e5"
   ]
  ],
  "glosario": [
@@ -110,6 +112,42 @@
    "Ordenación del pago",
    "Acto por el que el ordenador de pagos ordena que se pague una obligación reconocida.",
    "Art. 187 TRLRHL"
+  ],
+  [
+   "area-de-gasto",
+   "Área de gasto",
+   "Primer nivel de la clasificación por programas: 0 deuda, 1 servicios básicos, 2 protección social, 3 bienes preferentes, 4 económico, 9 general.",
+   "Orden EHA/3565/2008"
+  ],
+  [
+   "aplicacion-presupuestaria",
+   "Aplicación presupuestaria",
+   "Combinación de programa y concepto económico que identifica un crédito concreto.",
+   "Art. 167 TRLRHL"
+  ],
+  [
+   "fondo-contingencia",
+   "Fondo de contingencia",
+   "Capítulo 5 de gastos para necesidades imprevistas, inaplazables y no discrecionales. Obligatorio en capitales y municipios de 75.000 o más habitantes.",
+   "Orden EHA/3565/2008"
+  ],
+  [
+   "retencion-credito",
+   "Retención de crédito (RC)",
+   "Documento que comprueba y reserva que hay saldo en una partida antes de autorizar el gasto.",
+   "RD 500/1990"
+  ],
+  [
+   "ingreso-afectado",
+   "Ingreso afectado",
+   "Ingreso que tiene relación objetiva y directa con el gasto que financia; es la excepción a que los ingresos cubran el conjunto de gastos.",
+   "Art. 165 TRLRHL"
+  ],
+  [
+   "presupuesto-sin-deficit",
+   "Presupuesto sin déficit inicial",
+   "Regla de equilibrio: cada presupuesto se aprueba con ingresos suficientes para cubrir sus gastos.",
+   "Art. 165.4 TRLRHL"
   ]
  ],
  "hubs": [
@@ -369,6 +407,118 @@
     ]
    ],
    "ic": "📕"
+  },
+  {
+   "id": "h-areas-gasto",
+   "epi": "e4",
+   "titulo": "Áreas de gasto",
+   "art": "Orden EHA/3565/2008",
+   "resumen": "Clasificación por programas.",
+   "pistas": [
+    [
+     "n",
+     "Seis áreas: 0, 1, 2, 3, 4 y 9"
+    ],
+    [
+     "d",
+     "Área 0: deuda pública"
+    ],
+    [
+     "d",
+     "Área 1: servicios públicos básicos"
+    ],
+    [
+     "d",
+     "Área 3: sanidad, educación, cultura y deporte"
+    ],
+    [
+     "d",
+     "Área 9: actuaciones de carácter general y transferencias a otras Administraciones"
+    ]
+   ],
+   "ic": "🗂️"
+  },
+  {
+   "id": "h-capitulos",
+   "epi": "e4",
+   "titulo": "Capítulos económicos",
+   "art": "Orden EHA/3565/2008",
+   "resumen": "Gastos e ingresos, capítulos 1 a 9.",
+   "pistas": [
+    [
+     "d",
+     "1 personal · 2 bienes y servicios · 3 financieros · 4 transferencias corrientes"
+    ],
+    [
+     "d",
+     "5 fondo de contingencia"
+    ],
+    [
+     "d",
+     "6 inversiones reales · 7 transferencias de capital"
+    ],
+    [
+     "d",
+     "8 activos financieros · 9 pasivos financieros"
+    ],
+    [
+     "t",
+     "Intereses: capítulo 3, gasto corriente"
+    ]
+   ],
+   "ic": "🔢"
+  },
+  {
+   "id": "h-docs-contables",
+   "epi": "e5",
+   "titulo": "Documentos contables",
+   "art": "RD 500/1990",
+   "resumen": "Un documento para cada fase del gasto.",
+   "pistas": [
+    [
+     "d",
+     "RC: retención de crédito"
+    ],
+    [
+     "d",
+     "A autorización · D disposición · O reconocimiento · P pago"
+    ],
+    [
+     "d",
+     "AD y ADO acumulan fases"
+    ],
+    [
+     "q",
+     "Ordena el pago el Presidente"
+    ]
+   ],
+   "ic": "🧾"
+  },
+  {
+   "id": "h-competencias-gasto",
+   "epi": "e5",
+   "titulo": "Quién decide el gasto",
+   "art": "Art. 185 TRLRHL",
+   "resumen": "Competencias del Presidente, Pleno y Junta de Gobierno Local.",
+   "pistas": [
+    [
+     "q",
+     "Autorizar y disponer: Presidente o Pleno (y JGL en gran población)"
+    ],
+    [
+     "q",
+     "Reconocer obligaciones: Presidente"
+    ],
+    [
+     "q",
+     "Ordenar pagos: Presidente"
+    ],
+    [
+     "n",
+     "Unidad central de tesorería: más de 500.000 habitantes"
+    ]
+   ],
+   "ic": "🧑‍⚖️"
   }
  ],
  "esquema": [

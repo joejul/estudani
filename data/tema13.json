@@ -13,7 +13,10 @@
     "Año natural (163)",
     "Qué integra el presupuesto general (164)",
     "Anexos: plan a 4 años (166)",
-    "Gastos corrientes y de capital (167)"
+    "Gastos corrientes y de capital (167)",
+    "Gastos: límite · Ingresos: previsión",
+    "Sin déficit inicial (165.4)",
+    "Bases de ejecución: no modifican la ley"
    ],
    "bloques": [
     [
@@ -63,6 +66,26 @@
     [
      "trampa",
      "Los **intereses** son gasto **corriente**, no de capital (pregunta real del examen 2025). Las sociedades mercantiles entran con **estados de previsión**, no con presupuesto propio."
+    ],
+    [
+     "h",
+     "Principios y contenido adicional"
+    ],
+    [
+     "lista",
+     [
+      "**Consecuencias de la definición:** el presupuesto es una **autorización y límite máximo para los gastos**, pero para los ingresos solo es una **previsión** (sin límite de recaudación).",
+      "**Sin déficit inicial (art. 165.4):** cada presupuesto se aprueba **sin déficit inicial**; no puede aumentarse un crédito ni reducirse un ingreso sin **compensarlo en el mismo acto**.",
+      "**Estados de gastos e ingresos (art. 165):** los ingresos se destinan a **cubrir el conjunto de gastos** (no a gastos concretos) salvo los **ingresos afectados**; los derechos y obligaciones se aplican por su **importe íntegro** (art. 11 RD 500/1990).",
+      "**Presupuesto de la propia entidad (art. 164):** integra los créditos de sus órganos centralizados y de los órganos desconcentrados sin personalidad jurídica. Los **organismos autónomos** pueden ser administrativos o comerciales, industriales, financieros o análogos.",
+      "**Bases de ejecución (art. 165.1.g):** reglas propias para adaptar las disposiciones generales a la entidad y regular la gestión; **no pueden modificar la ley** ni contener preceptos administrativos que exijan procedimientos distintos de los previstos para el presupuesto. Contenido mínimo (art. 9.2 RD 500/1990): **niveles de vinculación jurídica** de los créditos, **créditos ampliables**, **transferencias** y órgano competente, tramitación de ampliaciones, generaciones e incorporaciones, procedimiento de ejecución, **delegaciones o desconcentraciones** de autorización, disposición y reconocimiento, documentos que justifican el reconocimiento de la obligación, forma de acreditar las subvenciones, **acumulación de fases**, **pagos a justificar y anticipos de caja fija** y compromisos de **gastos plurianuales**.",
+      "**Anexos (art. 166):** el **plan de inversiones** y su programa de financiación a **cuatro años** (puede formularlo el municipio; se revisa **anualmente** añadiendo un ejercicio y se da cuenta al Pleno al aprobar el presupuesto), los **programas de actuación, inversiones y financiación de las sociedades**, el **estado de consolidación** y el **estado de previsión de la deuda**.",
+      "**Normativa:** art. 142 CE (suficiencia financiera), TRLRHL (RDLeg 2/2004), **Real Decreto 500/1990** (presupuestos), **Ley Orgánica 2/2012** de estabilidad presupuestaria y sostenibilidad financiera, **Ley 47/2003 General Presupuestaria** como referencia y **RD 424/2017** (control interno)."
+     ]
+    ],
+    [
+     "trampa",
+     "El presupuesto limita los **gastos** pero solo **prevé** los ingresos; se aprueba **sin déficit inicial**; y el **plan de inversiones** es a **cuatro años**."
     ]
    ],
    "flash": [
@@ -77,6 +100,18 @@
     [
      "¿A cuántos años es el plan de inversiones anexo?",
      "A cuatro años (166.1.a)."
+    ],
+    [
+     "¿El presupuesto limita los ingresos?",
+     "No: los ingresos son solo una previsión; los gastos sí son límite máximo."
+    ],
+    [
+     "¿A cuántos años se formula el plan de inversiones anexo al presupuesto?",
+     "A cuatro años, con revisión anual."
+    ],
+    [
+     "¿Qué contienen las bases de ejecución?",
+     "Reglas para adaptar el presupuesto a la entidad: vinculación, ampliables, transferencias, delegaciones, acumulación de fases, pagos a justificar, gastos plurianuales…"
     ]
    ],
    "esquema": [
@@ -130,6 +165,218 @@
      "¿Qué dos clasificaciones aplican los estados de gastos locales?"
     ]
    ]
+  },
+  {
+   "id": "e4",
+   "titulo": "Estructura del presupuesto: programas y clasificación económica",
+   "subtitulo": "Áreas de gasto y capítulos 1 a 9",
+   "clave": [
+    "6 áreas de gasto: 0, 1, 2, 3, 4 y 9",
+    "Gastos: capítulos 1-9 (el 5 = fondo de contingencia)",
+    "Ingresos: capítulos 1-9",
+    "Estructura: Orden EHA/3565/2008"
+   ],
+   "bloques": [
+    [
+     "p",
+     "La estructura del presupuesto la fija el **Ministerio de Hacienda** (art. 167 TRLRHL; hoy la **Orden EHA/3565/2008**). El gasto se ordena de dos maneras: por **para qué** se gasta (programas) y por **en qué** se gasta (economía). La **aplicación presupuestaria** (programa + concepto económico) es el crédito concreto; el control contable se hace sobre ella y el fiscal sobre el **nivel de vinculación**."
+    ],
+    [
+     "h",
+     "Clasificación por programas (áreas de gasto)"
+    ],
+    [
+     "tabla",
+     [
+      "Área",
+      "Contenido",
+      "Políticas de gasto"
+     ],
+     [
+      [
+       "**0** Deuda pública",
+       "Intereses y amortización de la deuda y operaciones financieras análogas (sin los gastos de formalización, que van a la política 93).",
+       "Un solo grupo de programas"
+      ],
+      [
+       "**1** Servicios públicos básicos",
+       "Servicios obligatorios del art. 26.1 LBRL (o del art. 31.2 para provincias).",
+       "13 seguridad y movilidad ciudadana · 15 vivienda y urbanismo · 16 bienestar comunitario · 17 medio ambiente"
+      ],
+      [
+       "**2** Protección y promoción social",
+       "Pensiones, prestaciones a empleados, servicios sociales, fomento del empleo.",
+       "21 a 24"
+      ],
+      [
+       "**3** Bienes públicos de carácter preferente",
+       "Sanidad, educación, cultura, deporte, ocio.",
+       "31 a 34"
+      ],
+      [
+       "**4** Actuaciones de carácter económico",
+       "Agricultura, industria, comercio y turismo, transporte público, infraestructuras, I+D+i.",
+       "41 a 46 y 49"
+      ],
+      [
+       "**9** Actuaciones de carácter general",
+       "Órganos de gobierno, servicios generales, administración financiera y tributaria, **transferencias a otras Administraciones**.",
+       "91 a 94"
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Los niveles son: **área de gasto**, **política de gasto**, **grupo de programas** y **programa**. Las áreas y políticas deben coincidir con las del Estado."
+    ],
+    [
+     "h",
+     "Clasificación económica de los gastos"
+    ],
+    [
+     "tabla",
+     [
+      "Cap.",
+      "Nombre",
+      "Tipo"
+     ],
+     [
+      [
+       "**1**",
+       "Gastos de personal",
+       "Corriente"
+      ],
+      [
+       "**2**",
+       "Gastos corrientes en bienes y servicios (bienes fungibles, duración inferior al año, no inventariables y reiterativos)",
+       "Corriente"
+      ],
+      [
+       "**3**",
+       "Gastos financieros (intereses y gastos de operaciones financieras)",
+       "Corriente"
+      ],
+      [
+       "**4**",
+       "Transferencias corrientes",
+       "Corriente"
+      ],
+      [
+       "**5**",
+       "Fondo de contingencia y otros imprevistos (obligatorio para los municipios del art. 111, capitales o con 75.000 o más habitantes, y del art. 135)",
+       "Corriente"
+      ],
+      [
+       "**6**",
+       "Inversiones reales (bienes no fungibles, inventariables, no reiterativos)",
+       "Capital"
+      ],
+      [
+       "**7**",
+       "Transferencias de capital",
+       "Capital"
+      ],
+      [
+       "**8**",
+       "Activos financieros",
+       "Financiero"
+      ],
+      [
+       "**9**",
+       "Pasivos financieros (amortización de deudas)",
+       "Financiero"
+      ]
+     ]
+    ],
+    [
+     "p",
+     "**Operaciones no financieras:** capítulos 1 a 7 (corrientes 1-5, de capital 6-7). **Operaciones financieras:** capítulos 8 y 9, a corto (hasta un año) o largo plazo (más de un año)."
+    ],
+    [
+     "h",
+     "Clasificación económica de los ingresos"
+    ],
+    [
+     "tabla",
+     [
+      "Cap.",
+      "Nombre"
+     ],
+     [
+      [
+       "**1**",
+       "Impuestos directos"
+      ],
+      [
+       "**2**",
+       "Impuestos indirectos"
+      ],
+      [
+       "**3**",
+       "Tasas, precios públicos y otros ingresos (incluye contribuciones especiales)"
+      ],
+      [
+       "**4**",
+       "Transferencias corrientes"
+      ],
+      [
+       "**5**",
+       "Ingresos patrimoniales"
+      ],
+      [
+       "**6**",
+       "Enajenación de inversiones reales"
+      ],
+      [
+       "**7**",
+       "Transferencias de capital"
+      ],
+      [
+       "**8**",
+       "Activos financieros"
+      ],
+      [
+       "**9**",
+       "Pasivos financieros (deuda pública y préstamos recibidos)"
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Los niveles de **capítulo y artículo** son **cerrados y obligatorios**; concepto, subconcepto y partida son abiertos (cada entidad puede añadir)."
+    ],
+    [
+     "trampa",
+     "**Intereses = capítulo 3** (gasto corriente). **Fondo de contingencia = capítulo 5.** **Cultura** está en el **área 3**, no en la 2; las **transferencias a otras Administraciones**, en la **9**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué capítulo de gastos es el de personal?",
+     "El capítulo 1."
+    ],
+    [
+     "¿Qué capítulos de gastos son operaciones de capital?",
+     "El 6 (inversiones reales) y el 7 (transferencias de capital)."
+    ],
+    [
+     "¿En qué área de gasto se incluye la deuda pública?",
+     "En el área 0."
+    ],
+    [
+     "¿Dónde se clasifican las transferencias a otras Administraciones Públicas?",
+     "En el área de gasto 9, actuaciones de carácter general."
+    ],
+    [
+     "¿Quién fija la estructura de los presupuestos locales?",
+     "El Ministerio de Hacienda (hoy la Orden EHA/3565/2008)."
+    ]
+   ],
+   "esquema": [
+    "Programas: áreas 0,1,2,3,4,9 · Económica: capítulos 1-9 · Capítulo 5 = fondo de contingencia"
+   ],
+   "ic": "🗂️",
+   "articulos": []
   },
   {
    "id": "e1",
@@ -212,6 +459,25 @@
     [
      "trampa",
      "Reclamar solo puede hacerse por **tres causas**. El **contencioso** se interpone directamente, sin pasar otra vez por reclamación. Y la prórroga es **automática**, no hay que acordarla."
+    ],
+    [
+     "h",
+     "Documentación del proyecto y trámites (art. 168)"
+    ],
+    [
+     "lista",
+     [
+      "El proyecto del Presidente va acompañado de: **memoria explicativa**; **liquidación del ejercicio anterior** y **avance de la del corriente referido al menos a seis meses**; **anexo de personal**; **anexo de inversiones**; **anexo de beneficios fiscales**; **anexo de convenios con las CCAA en materia de gasto social**; e **informe económico-financiero** (bases de los ingresos y créditos, suficiencia de los créditos y nivelación).",
+      "Los **organismos autónomos** remiten su presupuesto antes del **15 de septiembre**; las **sociedades** (incluso las de capital solo mayoritariamente local) también remiten antes del 15 de septiembre sus **estados de previsión y programas**.",
+      "El **Presidente** forma el presupuesto general y lo remite al Pleno **antes del 15 de octubre**, informado por la **Intervención**, para su aprobación, **enmienda o devolución**.",
+      "El **acuerdo de aprobación es único** y detalla los presupuestos que integran el general; **no puede aprobarse ninguno por separado**.",
+      "La **copia** del presupuesto y sus modificaciones está a disposición del público desde su aprobación definitiva hasta el fin del ejercicio (art. 169.7).",
+      "**Prórroga (169.6):** automática, pero no afecta a los créditos de servicios o programas que deban concluir en el ejercicio anterior o estén financiados con crédito u otros ingresos específicos o afectados."
+     ]
+    ],
+    [
+     "trampa",
+     "La **prórroga** es automática; **no se prorrogan** los créditos de programas que **terminan** ni los **financiados con ingresos afectados**."
     ]
    ],
    "flash": [
@@ -230,6 +496,14 @@
     [
      "En Zaragoza capital, ¿cuándo va el proyecto al Pleno?",
      "Antes del 15 de octubre (art. 50 Ley 10/2017)."
+    ],
+    [
+     "¿Cuándo debe remitir el Presidente el presupuesto al Pleno?",
+     "Antes del 15 de octubre."
+    ],
+    [
+     "¿A qué fecha debe estar referido el avance de la liquidación del ejercicio corriente?",
+     "Al menos a seis meses del ejercicio corriente."
     ]
    ],
    "esquema": [
@@ -635,6 +909,113 @@
      "¿Qué debe hacer el Pleno en la primera sesión si hay remanente de tesorería negativo?"
     ]
    ]
+  },
+  {
+   "id": "e5",
+   "titulo": "Documentos contables y órganos competentes",
+   "subtitulo": "RC, A, D, O, P, AD y ADO",
+   "clave": [
+    "Cada fase tiene su documento contable",
+    "AD y ADO",
+    "Presidente, Pleno y JGL",
+    "Ordenación de pagos: Presidente"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Cada fase de ejecución del gasto se soporta en un **documento contable**:"
+    ],
+    [
+     "tabla",
+     [
+      "Documento",
+      "Fase",
+      "Para qué sirve"
+     ],
+     [
+      [
+       "**RC**",
+       "Retención de crédito",
+       "Se hace **antes** de autorizar: comprueba que **hay saldo disponible** en la partida. En un contrato, acredita la existencia de crédito (art. 116 LCSP)."
+      ],
+      [
+       "**A**",
+       "Autorización",
+       "Reserva el crédito por importe **cierto o aproximado**; **no** crea relación con terceros."
+      ],
+      [
+       "**D**",
+       "Disposición o compromiso",
+       "Importe **exacto** y tercero determinado; **vincula** a la entidad con un tercero."
+      ],
+      [
+       "**O**",
+       "Reconocimiento y liquidación de la obligación",
+       "Se reconoce el crédito exigible, normalmente al aprobar la **factura o certificación**."
+      ],
+      [
+       "**P**",
+       "Ordenación del pago",
+       "El ordenador de pagos expide la orden de pago contra la Tesorería."
+      ],
+      [
+       "**AD**",
+       "Autorización + disposición",
+       "Cuando desde el inicio se conoce el importe exacto del servicio o suministro."
+      ],
+      [
+       "**ADO**",
+       "Autorización + disposición + reconocimiento",
+       "Gastos de tramitación simple en los que se acumulan las tres primeras fases."
+      ]
+     ]
+    ],
+    [
+     "ejemplo",
+     "Un contrato de obras de 265.000 € de presupuesto: se retiene el crédito (**RC**), se autoriza al aprobar el expediente (**A**, importe aproximado porque aún no se sabe el adjudicatario), se dispone al **formalizar el contrato** por el precio exacto adjudicado (**D**), se reconoce la obligación con cada certificación o factura (**O**) y se ordena el pago (**P**)."
+    ],
+    [
+     "h",
+     "Quién decide cada cosa (art. 185 TRLRHL y RD 500/1990)"
+    ],
+    [
+     "lista",
+     [
+      "**Autorizar y disponer** gastos: el **Presidente** o el **Pleno**, según la normativa de competencias; en municipios de **gran población**, también la **Junta de Gobierno Local** (art. 127.1.a LBRL).",
+      "**Reconocer y liquidar** obligaciones derivadas de compromisos legalmente adquiridos: el **Presidente**.",
+      "**Ordenar los pagos**: el **Presidente**. El Pleno, a propuesta del Presidente, puede crear una **unidad de ordenación de pagos** y, en entidades de **más de 500.000 habitantes**, una **unidad central de tesorería**.",
+      "Estas facultades pueden **delegarse o desconcentrarse** (art. 23 LBRL) y deben recogerse en las **bases de ejecución**. En los organismos autónomos las ejercen los órganos que fijen sus **estatutos**.",
+      "El acto que acumula fases debe dictarlo un órgano con **competencia para todas** las fases (art. 68 RD 500/1990) y produce los **mismos efectos** que si fueran actos separados."
+     ]
+    ],
+    [
+     "trampa",
+     "La **autorización no vincula** frente a terceros; la **disposición sí**. El que **ordena el pago** es el Presidente; el **Tesorero** lo ejecuta."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué documento contable corresponde a la disposición del gasto?",
+     "El documento D."
+    ],
+    [
+     "¿Qué hace el documento RC?",
+     "Retiene crédito: comprueba que hay saldo disponible antes de autorizar el gasto."
+    ],
+    [
+     "¿Qué entidades pueden crear una unidad central de tesorería?",
+     "Las de más de 500.000 habitantes de derecho, por acuerdo del Pleno a propuesta del Presidente."
+    ],
+    [
+     "¿En qué casos se acumulan fases en un solo acto?",
+     "Autorización-disposición (AD) y autorización-disposición-reconocimiento de la obligación (ADO)."
+    ]
+   ],
+   "esquema": [
+    "RC → A → D → O → P · AD y ADO acumulan fases"
+   ],
+   "ic": "🧾",
+   "articulos": []
   }
  ],
  "mapa": {
@@ -666,6 +1047,34 @@
        },
        {
         "titulo": "Corrientes y de capital"
+       }
+      ]
+     },
+     {
+      "titulo": "Estructura",
+      "hijos": [
+       {
+        "titulo": "Áreas de gasto: 0, 1, 2, 3, 4, 9"
+       },
+       {
+        "titulo": "Gastos: capítulos 1-9 (5 = fondo de contingencia)"
+       },
+       {
+        "titulo": "Ingresos: capítulos 1-9"
+       }
+      ]
+     },
+     {
+      "titulo": "Principios y bases de ejecución",
+      "hijos": [
+       {
+        "titulo": "Gastos: límite · ingresos: previsión"
+       },
+       {
+        "titulo": "Sin déficit inicial"
+       },
+       {
+        "titulo": "Anexos: plan de inversiones a 4 años"
        }
       ]
      }
@@ -770,6 +1179,20 @@
        },
        {
         "titulo": "Remanente negativo: reducir gastos"
+       }
+      ]
+     },
+     {
+      "titulo": "Documentos contables",
+      "hijos": [
+       {
+        "titulo": "RC → A → D → O → P"
+       },
+       {
+        "titulo": "AD y ADO acumulan fases"
+       },
+       {
+        "titulo": "Presidente · Pleno · JGL (gran población)"
        }
       ]
      }
