@@ -26,7 +26,7 @@
      [
       [
        "**1**",
-       "Aragón es una **nacionalidad histórica** y ejerce su **autogobierno** según el Estatuto. Los poderes **emanan del pueblo aragonés y de la Constitución**."
+       "Aragón es una **nacionalidad histórica** y ejerce su **autogobierno** según el Estatuto. Los poderes **emanan del pueblo aragonés y de la Constitución**. **(1.3)** Tiene **identidad propia** por tres pilares: sus **instituciones tradicionales**, el **Derecho foral** y su **cultura**."
       ],
       [
        "**2**",
@@ -51,6 +51,10 @@
       [
        "**7**",
        "**Lenguas y modalidades lingüísticas propias** de Aragón: patrimonio cultural. Una **ley de las Cortes de Aragón** fija las zonas de uso predominante y su régimen."
+      ],
+      [
+       "**8**",
+       "**Comunidades aragonesas en el exterior:** los poderes públicos fomentan los vínculos sociales y culturales con ellas y les prestan ayuda."
       ],
       [
        "**9**",
@@ -124,6 +128,10 @@
     [
      "¿En virtud de qué tiene Aragón identidad propia (art. 1.3)?",
      "De sus instituciones tradicionales, el Derecho foral y su cultura."
+    ],
+    [
+     "¿En qué se basa la identidad propia de Aragón según el art. 1.3 del Estatuto?",
+     "En sus instituciones tradicionales, el Derecho foral y su cultura."
     ]
    ],
    "esquema": [
@@ -4683,6 +4691,40 @@
    {
     "nuevo": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, la Comunidad Autónoma de Aragón, dentro del sistema constitucional español, ostenta por su historia una identidad propia en virtud de:",
+   [
+    "Su lengua, su territorio y sus instituciones tradicionales",
+    "El Derecho foral, su economía y su cultura",
+    "Sus instituciones tradicionales, el Derecho foral y su cultura"
+   ],
+   2,
+   "Art. 1.3.",
+   "eaar 1.3",
+   "Cambiar uno de los tres pilares",
+   "h-preliminar",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, los poderes de la Comunidad Autónoma de Aragón emanan:",
+   [
+    "Del pueblo aragonés y de la Constitución",
+    "Del pueblo aragonés y del Estatuto",
+    "De las Cortes de Aragón y de la Constitución"
+   ],
+   0,
+   "Art. 1.2.",
+   "eaar 1.2",
+   "",
+   "h-preliminar",
+   [],
+   {
+    "nuevo": 1
    }
   ]
  ]
