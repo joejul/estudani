@@ -76,6 +76,66 @@
    "Registro general",
    "Lugar donde se anotan las entradas y salidas de documentos para dejar constancia de cuándo se presentaron.",
    "Art. 16 Ley 39/2015"
+  ],
+  [
+   "punto-acceso-general",
+   "Punto de Acceso General electrónico",
+   "Portal de la Administración desde el que las personas pueden comunicarse con ella, consultar el estado de sus procedimientos y obtener copias.",
+   "Art. 13 Ley 39/2015"
+  ],
+  [
+   "oficina-asistencia-registros",
+   "Oficina de asistencia en materia de registros",
+   "Oficina donde se presentan documentos presencialmente y se digitalizan. Ayuda además a quien no tiene medios electrónicos.",
+   "Art. 16 Ley 39/2015"
+  ],
+  [
+   "digitalizacion",
+   "Digitalización",
+   "Convertir un documento en papel en un fichero electrónico que contiene su imagen fiel e íntegra.",
+   "Art. 27 Ley 39/2015"
+  ],
+  [
+   "archivo-electronico-unico",
+   "Archivo electrónico único",
+   "Archivo donde cada Administración conserva los documentos electrónicos de los procedimientos ya terminados.",
+   "Art. 17 Ley 39/2015"
+  ],
+  [
+   "comparecencia",
+   "Comparecencia",
+   "Presentarse ante una oficina pública, presencialmente o por medios electrónicos. Solo es obligatoria si lo dice una norma con rango de ley.",
+   "Art. 19 Ley 39/2015"
+  ],
+  [
+   "certificado-silencio",
+   "Certificado de silencio administrativo",
+   "Documento que acredita que se ha producido el silencio. Se expide de oficio en 15 días desde que vence el plazo máximo.",
+   "Art. 24.4 Ley 39/2015"
+  ],
+  [
+   "recusacion",
+   "Recusación",
+   "Petición para apartar de un procedimiento a una autoridad o empleado por existir causa de abstención. Suspende el plazo hasta que la resuelva el superior jerárquico.",
+   "Art. 24 Ley 40/2015"
+  ],
+  [
+   "suspension-plazo-maximo",
+   "Suspensión del plazo máximo",
+   "Parada del reloj del plazo para resolver en los casos del art. 22 (subsanación, informes preceptivos, pruebas, etc.).",
+   "Art. 22 Ley 39/2015"
+  ],
+  [
+   "metadatos",
+   "Metadatos",
+   "Datos que describen un documento electrónico (autor, fecha, tipo…). Los documentos administrativos deben llevar los mínimos exigidos.",
+   "Art. 26 Ley 39/2015"
+  ],
+  [
+   "documento-publico-administrativo",
+   "Documento público administrativo",
+   "Documento válidamente emitido por los órganos de las Administraciones Públicas, normalmente por escrito y por medios electrónicos.",
+   "Art. 26 Ley 39/2015"
   ]
  ],
  "hubs": [
@@ -205,6 +265,156 @@
     ]
    ],
    "ic": "📥"
+  },
+  {
+   "id": "h-derechos-art13",
+   "epi": "e0",
+   "titulo": "Derechos de las personas (art. 13)",
+   "art": "Arts. 13, 17-20",
+   "resumen": "Derechos ante la Administración y deberes de colaboración.",
+   "pistas": [
+    [
+     "d",
+     "Comunicarse a través del Punto de Acceso General electrónico"
+    ],
+    [
+     "d",
+     "Ser tratadas con respeto y deferencia"
+    ],
+    [
+     "d",
+     "Acceso a la información pública (Ley 19/2013)"
+    ],
+    [
+     "d",
+     "La comparecencia solo es obligatoria si lo prevé una norma con rango de ley"
+    ],
+    [
+     "t",
+     "Los derechos del art. 13 no son los del interesado del art. 53"
+    ]
+   ],
+   "ic": "🧑‍🤝‍🧑"
+  },
+  {
+   "id": "h-documentos",
+   "epi": "e0",
+   "titulo": "Documentos y copias",
+   "art": "Arts. 26 a 28",
+   "resumen": "Documentos públicos, copias auténticas y documentos aportados.",
+   "pistas": [
+    [
+     "d",
+     "Los documentos administrativos se emiten por escrito y por medios electrónicos"
+    ],
+    [
+     "n",
+     "Copia auténtica solicitada: 15 días"
+    ],
+    [
+     "d",
+     "Copias de documentos privados: solo efectos administrativos"
+    ],
+    [
+     "n",
+     "Informes preceptivos de otro órgano: 10 días"
+    ],
+    [
+     "t",
+     "No hace falta aportar documentos que ya tiene la Administración"
+    ]
+   ],
+   "ic": "📄"
+  },
+  {
+   "id": "h-suspension-plazo",
+   "epi": "e1",
+   "titulo": "Suspensión y ampliación del plazo máximo",
+   "art": "Arts. 22 y 23",
+   "resumen": "Cuándo se suspende y cuándo se amplía el plazo para resolver.",
+   "pistas": [
+    [
+     "d",
+     "Se puede suspender por requerimiento de subsanación o por informes preceptivos"
+    ],
+    [
+     "n",
+     "Suspensión por informe preceptivo: máximo tres meses"
+    ],
+    [
+     "d",
+     "Se suspende si se plantea la recusación"
+    ],
+    [
+     "d",
+     "Ampliación: excepcional, motivada y agotados los medios"
+    ],
+    [
+     "t",
+     "Contra el acuerdo de ampliación no cabe recurso"
+    ]
+   ],
+   "ic": "⏸️"
+  },
+  {
+   "id": "h-silencio-detalle",
+   "epi": "e1",
+   "titulo": "Silencio: efectos y certificado",
+   "art": "Arts. 24 y 25",
+   "resumen": "Efectos del silencio y de la falta de resolución en procedimientos de oficio.",
+   "pistas": [
+    [
+     "d",
+     "El silencio positivo es un acto finalizador del procedimiento"
+    ],
+    [
+     "d",
+     "Tras el silencio positivo solo cabe resolución confirmatoria"
+    ],
+    [
+     "n",
+     "Certificado del silencio: de oficio en 15 días"
+    ],
+    [
+     "d",
+     "Procedimiento sancionador de oficio sin resolver en plazo: caducidad"
+    ],
+    [
+     "t",
+     "Un recurso de alzada contra un silencio negativo se entiende estimado si no se resuelve"
+    ]
+   ],
+   "ic": "🤐"
+  },
+  {
+   "id": "h-plazos-detalle",
+   "epi": "e2",
+   "titulo": "Cómputo, registros, ampliación y urgencia",
+   "art": "Arts. 30 a 33",
+   "resumen": "Reglas de cómputo y plazos.",
+   "pistas": [
+    [
+     "d",
+     "Último día inhábil: se prorroga al primer día hábil siguiente"
+    ],
+    [
+     "d",
+     "Presentación en día inhábil: primera hora del primer día hábil"
+    ],
+    [
+     "d",
+     "Ampliación: hasta la mitad y antes del vencimiento"
+    ],
+    [
+     "d",
+     "Urgencia: reduce a la mitad los plazos, salvo solicitudes y recursos"
+    ],
+    [
+     "t",
+     "En el mes de agosto, los plazos para impugnar en vía administrativa corren"
+    ]
+   ],
+   "ic": "📆"
   }
  ],
  "esquema": [

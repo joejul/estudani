@@ -13,7 +13,11 @@
     "Obligados a relacionarse por medios electrónicos (14.2)",
     "Lengua (15)",
     "Registros (16)",
-    "Lugares de presentación (16.4)"
+    "Lugares de presentación (16.4)",
+    "Derechos del art. 13 frente a los del art. 53",
+    "Comparecencia solo por ley (19)",
+    "Copias auténticas: 15 días (27)",
+    "No aportar documentos que ya tiene la Administración (28)"
    ],
    "bloques": [
     [
@@ -60,6 +64,132 @@
     [
      "trampa",
      "Obligados electrónicamente: **personas jurídicas**, **entidades sin personalidad**, **colegiación obligatoria**, **representantes de obligados** y **empleados públicos** (por su condición). Las personas físicas **no** están obligadas en general."
+    ],
+    [
+     "h",
+     "Los derechos de las personas ante la Administración (art. 13)"
+    ],
+    [
+     "tabla",
+     [
+      "Letra",
+      "Derecho"
+     ],
+     [
+      [
+       "**a)**",
+       "Comunicarse con las Administraciones a través del **Punto de Acceso General electrónico**."
+      ],
+      [
+       "**b)**",
+       "Ser **asistidas** en el uso de medios electrónicos."
+      ],
+      [
+       "**c)**",
+       "Usar las **lenguas oficiales** de su Comunidad Autónoma."
+      ],
+      [
+       "**d)**",
+       "Acceso a la **información pública**, archivos y registros (Ley 19/2013 de transparencia)."
+      ],
+      [
+       "**e)**",
+       "Ser tratadas con **respeto y deferencia** por autoridades y empleados públicos."
+      ],
+      [
+       "**f)**",
+       "**Exigir responsabilidades** a las Administraciones y a las autoridades cuando proceda."
+      ],
+      [
+       "**g)**",
+       "Obtener y utilizar los medios de **identificación y firma electrónica**."
+      ],
+      [
+       "**h)**",
+       "**Protección de datos** de carácter personal (seguridad y confidencialidad)."
+      ],
+      [
+       "**i)**",
+       "Cualesquiera otros que reconozcan la Constitución y las leyes."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Estos derechos son **distintos** de los del **interesado en el procedimiento** (art. 53): los del art. 13 corresponden a **toda persona** con capacidad de obrar, aunque no sea interesada en un procedimiento concreto."
+    ],
+    [
+     "h",
+     "Registros: más reglas (art. 16)"
+    ],
+    [
+     "lista",
+     [
+      "El **Registro Electrónico General** anota **entradas y también salidas** de documentos oficiales. Los organismos pueden tener su **propio registro**, interoperable con el general.",
+      "Las disposiciones que crean los registros se publican en el **diario oficial** e indican el **órgano responsable**, la **fecha y hora oficial** y los **días inhábiles**.",
+      "Los asientos se hacen **por orden temporal** y cada uno recoge número, epígrafe, fecha y hora, identificación del interesado, órgano remitente o destinatario y referencia del contenido.",
+      "Se emite **automáticamente un recibo**: una **copia autenticada** del documento con fecha, hora y número de entrada.",
+      "Los documentos presentados **de forma presencial** se **digitalizan** en la oficina de asistencia en materia de registros y se **devuelven los originales** al interesado.",
+      "Las cantidades que haya que pagar al presentar documentos pueden abonarse por **transferencia**. **No se tienen por presentados** los documentos cuyo régimen especial exija otra forma de presentación."
+     ]
+    ],
+    [
+     "h",
+     "Archivo, colaboración, comparecencia y responsabilidad (arts. 17 a 20)"
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**17**",
+       "Cada Administración mantiene un **archivo electrónico único** de los procedimientos finalizados. Los documentos se conservan en un formato que garantice **autenticidad, integridad y conservación**, y solo se eliminan con autorización. Se aplica el Esquema Nacional de Seguridad."
+      ],
+      [
+       "**18**",
+       "**Colaboración:** las personas colaboran en los términos de la ley y, si nada dice, facilitan informes, inspecciones y otros actos de investigación, salvo que atenten contra el **honor, la intimidad** o supongan comunicar datos confidenciales de terceros conocidos por servicios profesionales. Los interesados que conozcan **datos de otros interesados** que no hayan comparecido deben facilitarlos. Si la inspección exige **entrar en el domicilio**, se aplica el art. 100."
+      ],
+      [
+       "**19**",
+       "**Comparecencia:** solo es **obligatoria** cuando lo prevé una **norma con rango de ley**. La citación indica **lugar, fecha, hora, medios, objeto y efectos de no atenderla**. Se entrega **certificación** de la comparecencia si se pide."
+      ],
+      [
+       "**20**",
+       "**Responsabilidad de la tramitación:** los titulares de las unidades y el personal que despachen los asuntos son **responsables directos** y deben **remover los obstáculos** que retrasen los derechos de los interesados. Los interesados pueden **solicitar que se exija esa responsabilidad**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Documentos: emisión, copias y aportación (arts. 26 a 28)"
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**26**",
+       "**Documentos públicos administrativos:** los válidamente emitidos por los órganos de las Administraciones, **por escrito y por medios electrónicos** salvo que su naturaleza exija otra forma. Los electrónicos deben tener: información en soporte electrónico con formato identificable, **datos de identificación**, **referencia temporal**, **metadatos mínimos** y las **firmas electrónicas** que correspondan. **No necesitan firma** los publicados con carácter meramente **informativo** y los que no formen parte de un expediente (hay que identificar su origen)."
+      ],
+      [
+       "**27**",
+       "**Copias auténticas:** cada Administración determina qué órganos las expiden. Tienen **el mismo valor que el original** y **validez en todas las Administraciones**. Las de **documentos privados** surten **solo efectos administrativos**. Los interesados pueden pedirlas en cualquier momento y deben expedirse en **quince días** desde que la solicitud entra en el registro electrónico. Las copias en papel de documentos electrónicos llevan un **código seguro de verificación**."
+      ],
+      [
+       "**28**",
+       "**Documentos aportados:** el interesado tiene **derecho a no aportar** documentos que ya estén en poder de la Administración actuante o hayan sido elaborados por otra (salvo **oposición**, que **no cabe** en potestad **sancionadora o de inspección**). Los informes preceptivos ya elaborados por otro órgano se remiten en **diez días**. No se exigen **originales** salvo excepción; las copias aportadas solo tienen eficacia en el ámbito de las Administraciones; el **cotejo** es excepcional y motivado; el interesado **responde de la veracidad** de lo que presenta."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **comparecencia** solo es obligatoria si la exige una norma **con rango de ley** (no basta un reglamento). Las copias auténticas de **documentos privados** solo tienen efectos **administrativos**. La copia auténtica solicitada se expide en **15 días**."
     ]
    ],
    "flash": [
@@ -70,6 +200,22 @@
     [
      "¿Dónde pueden presentarse documentos según el art. 16.4?",
      "Registro electrónico, oficinas de Correos, representaciones diplomáticas y consulares, oficinas de asistencia en materia de registros y otros previstos."
+    ],
+    [
+     "¿Cuándo es obligatoria la comparecencia ante las oficinas públicas (art. 19)?",
+     "Solo cuando lo prevé una norma con rango de ley."
+    ],
+    [
+     "¿En cuántos días debe expedirse una copia auténtica solicitada por un interesado?",
+     "En quince días desde que la solicitud entra en el registro electrónico de la Administración u Organismo competente."
+    ],
+    [
+     "¿Qué efectos tienen las copias auténticas de documentos privados?",
+     "Solo efectos administrativos."
+    ],
+    [
+     "¿Qué documentos no tiene que aportar el interesado (art. 28.2)?",
+     "Los que ya estén en poder de la Administración actuante o hayan sido elaborados por otra Administración, salvo oposición (que no cabe en potestad sancionadora o de inspección)."
     ]
    ],
    "esquema": [
@@ -166,7 +312,10 @@
     "Resolución expresa (21.1)",
     "Plazo máximo: 6 meses (21.2)",
     "Silencio positivo (24.1)",
-    "Silencio negativo (24.1)"
+    "Silencio negativo (24.1)",
+    "Suspensión del plazo (22)",
+    "Ampliación del plazo máximo (23)",
+    "Procedimientos de oficio: caducidad si hay sanción o gravamen (25)"
    ],
    "bloques": [
     [
@@ -198,6 +347,118 @@
     [
      "trampa",
      "Regla general: **silencio positivo** en solicitudes; el **negativo** es la excepción y debe estar en una **norma con rango de ley**. El plazo máximo **no excede de seis meses** salvo ley o Derecho de la UE."
+    ],
+    [
+     "h",
+     "Obligación de resolver: más reglas (art. 21)"
+    ],
+    [
+     "lista",
+     [
+      "En los casos de **prescripción, renuncia, caducidad, desistimiento** o **desaparición sobrevenida del objeto**, la resolución consiste en **declarar esa circunstancia**, indicando los hechos y las normas aplicables.",
+      "Las Administraciones **publican** en su portal web las **relaciones de procedimientos** con los plazos máximos y los efectos del silencio, e **informan a cada interesado** del plazo y del silencio: en el acuerdo de iniciación de oficio, o en una comunicación **dentro de los diez días siguientes** a la recepción de la solicitud (indicando la fecha en que la recibió el órgano competente).",
+      "Si el número de solicitudes puede hacer incumplir el plazo, el órgano competente puede **habilitar medios personales y materiales**.",
+      "El personal y los titulares de los órganos son **directamente responsables** de resolver en plazo; el incumplimiento da lugar a **responsabilidad disciplinaria**."
+     ]
+    ],
+    [
+     "h",
+     "Suspensión del plazo máximo (art. 22)"
+    ],
+    [
+     "tabla",
+     [
+      "Cuándo",
+      "Supuestos"
+     ],
+     [
+      [
+       "**Se «puede» suspender** (22.1)",
+       "**a)** requerimiento de **subsanación** o aportación de documentos (desde la notificación hasta que se cumple o acaba el plazo); **b)** pronunciamiento previo y preceptivo de un **órgano de la UE**; **c)** procedimiento no finalizado en la **UE** que condiciona la resolución; **d)** **informes preceptivos** de otro órgano (**máximo tres meses**); **e)** **pruebas técnicas** o análisis contradictorios propuestos por los interesados; **f)** **negociaciones de pacto o convenio** (art. 86); **g)** pronunciamiento previo de un **órgano jurisdiccional**."
+      ],
+      [
+       "**Se suspende** (22.2)",
+       "**a)** una Administración **requiere a otra** para que anule o revise un acto ilegal (art. 39.5); **b)** el órgano decide hacer **actuaciones complementarias** (art. 87); **c)** se plantea la **recusación**, hasta que la resuelve el superior jerárquico."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Ampliación del plazo máximo (art. 23)"
+    ],
+    [
+     "p",
+     "Excepcionalmente, **agotados los medios** personales y materiales, el órgano competente puede **acordar de forma motivada** la ampliación del plazo máximo, sin superar el plazo del procedimiento. **Contra ese acuerdo no cabe recurso alguno.**"
+    ],
+    [
+     "h",
+     "Silencio administrativo: reglas completas (art. 24)"
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Efecto de la estimación**",
+       "El silencio **positivo** es un **acto administrativo finalizador** del procedimiento."
+      ],
+      [
+       "**Efecto de la desestimación**",
+       "El silencio **negativo** solo permite **recurrir** (administrativa o contencioso-administrativamente)."
+      ],
+      [
+       "**Resolución expresa posterior**",
+       "Tras silencio **positivo**, solo puede dictarse si es **confirmatoria**. Tras silencio **negativo**, se dicta **sin quedar vinculada** al sentido del silencio."
+      ],
+      [
+       "**Efectos**",
+       "Los actos por silencio se pueden **hacer valer ante la Administración y ante cualquier persona**; producen efectos **desde el vencimiento del plazo**."
+      ],
+      [
+       "**Certificado**",
+       "Se expide **de oficio en 15 días** desde que expira el plazo máximo (o a petición del interesado, contando desde que la petición entra en el registro)."
+      ],
+      [
+       "**Otros supuestos negativos**",
+       "También es negativo en los **recursos** contra actos y disposiciones y en la **revisión de oficio a solicitud del interesado**. **Excepción:** si un **recurso de alzada** se interpone contra una desestimación por silencio y la Administración no resuelve en plazo, se entiende **estimado** (salvo en las materias antes citadas)."
+      ],
+      [
+       "**Actividades**",
+       "Si la ley establece silencio negativo para el acceso a una actividad, debe fundarse en **razones imperiosas de interés general**."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Falta de resolución en procedimientos de oficio (art. 25)"
+    ],
+    [
+     "tabla",
+     [
+      "Tipo de procedimiento",
+      "Efecto del vencimiento del plazo"
+     ],
+     [
+      [
+       "**Pueden reconocer derechos o situaciones favorables**",
+       "Los interesados que hubieran comparecido pueden entender **desestimadas** sus pretensiones por silencio."
+      ],
+      [
+       "**Sancionadores o de intervención con efectos desfavorables o de gravamen**",
+       "Se produce la **caducidad**: la resolución que la declara ordena el **archivo** de las actuaciones (art. 95)."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Si el procedimiento se paraliza **por causa imputable al interesado**, se **interrumpe** el cómputo del plazo para resolver (art. 25.2)."
+    ],
+    [
+     "trampa",
+     "Tras un silencio **positivo** la resolución expresa posterior solo puede ser **confirmatoria**; tras un silencio **negativo**, la Administración puede resolver **en el sentido que quiera**. Y la ampliación del plazo máximo (art. 23) **no admite recurso**."
     ]
    ],
    "flash": [
@@ -208,6 +469,22 @@
     [
      "¿Qué efecto tiene el silencio en procedimientos a solicitud?",
      "Regla general: estimatorio (silencio positivo), salvo norma con rango de ley que diga lo contrario (24.1)."
+    ],
+    [
+     "¿Qué efecto tiene la falta de resolución en un procedimiento sancionador iniciado de oficio?",
+     "La caducidad: se archivan las actuaciones (art. 25.1.b)."
+    ],
+    [
+     "¿Cuánto puede durar como máximo la suspensión del plazo por un informe preceptivo?",
+     "Tres meses (art. 22.1.d)."
+    ],
+    [
+     "Si se estima por silencio una solicitud, ¿qué resolución expresa puede dictarse después?",
+     "Solo una resolución confirmatoria (art. 24.3.a)."
+    ],
+    [
+     "¿En cuántos días se expide de oficio el certificado del silencio?",
+     "En quince días desde que expira el plazo máximo para resolver."
     ]
    ],
    "esquema": [
@@ -262,7 +539,9 @@
     "Cómputo por horas, días, meses (30)",
     "Sábados, domingos y festivos no cuentan (30.2)",
     "Ampliación hasta la mitad (32)",
-    "Tramitación de urgencia: mitad de plazos (33)"
+    "Tramitación de urgencia: mitad de plazos (33)",
+    "Presentación en día inhábil: primera hora del primer día hábil (31)",
+    "Último día inhábil: se prorroga (30.5)"
    ],
    "bloques": [
     [
@@ -317,6 +596,63 @@
     [
      "trampa",
      "En plazos por días **no cuentan sábados, domingos ni festivos** (examen 2025). La **urgencia** reduce a la **mitad** pero **no** los plazos de **solicitudes y recursos**. La **ampliación** nunca excede de la **mitad**."
+    ],
+    [
+     "h",
+     "Cómputo de plazos con más detalle (art. 30)"
+    ],
+    [
+     "lista",
+     [
+      "**Meses o años:** se cuentan desde el **día siguiente** a la notificación, publicación o silencio, y el plazo **termina el mismo día del mes o año de vencimiento**. Si ese mes no tiene día equivalente, el plazo acaba el **último día del mes**.",
+      "Si el **último día es inhábil**, el plazo se **prorroga al primer día hábil siguiente**.",
+      "Si un día es hábil en el municipio o Comunidad del interesado pero **inhábil en la sede del órgano**, o al revés, **se considera inhábil**.",
+      "La **AGE y las Comunidades Autónomas** fijan cada año el **calendario de días inhábiles**, que debe publicarse **antes del comienzo del año**. El de las Comunidades incluye los días inhábiles de sus Entidades Locales.",
+      "Declarar un día hábil o inhábil **no cambia por sí solo** el funcionamiento de los centros de trabajo ni la jornada."
+     ]
+    ],
+    [
+     "p",
+     "Novedades respecto a la Ley 30/1992: el **cómputo por horas** y el **sábado como día inhábil** por regla general. En los plazos para **impugnar en vía administrativa**, **agosto es hábil**."
+    ],
+    [
+     "h",
+     "Cómputo en los registros (art. 31)"
+    ],
+    [
+     "lista",
+     [
+      "El registro electrónico se rige por la **fecha y hora oficial de la sede electrónica**.",
+      "Permite presentar documentos **todos los días del año, 24 horas**.",
+      "Una presentación en **día inhábil** se entiende hecha **en la primera hora del primer día hábil siguiente** (salvo que una norma permita recibirla en día inhábil).",
+      "El plazo que cumplen las **Administraciones** empieza con la **fecha y hora de presentación** en el registro, que debe comunicarse a quien presentó el documento.",
+      "La sede del registro fija sus propios **días inhábiles**: es el **único calendario** aplicable a los registros electrónicos."
+     ]
+    ],
+    [
+     "h",
+     "Ampliación y urgencia: detalles (arts. 32 y 33)"
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**32** · Ampliación",
+       "De oficio o a petición, **hasta la mitad** del plazo, si las circunstancias lo aconsejan y **no se perjudican derechos de terceros**. Debe **motivarse y notificarse**. La petición y la decisión deben hacerse **antes del vencimiento** (nunca se amplía un plazo vencido) y **no cabe recurso**. Se aplica **siempre al máximo** en las misiones diplomáticas y oficinas consulares y en trámites en el extranjero. Ante una **incidencia técnica** o un **ciberincidente** grave la Administración puede ampliar los plazos no vencidos."
+      ],
+      [
+       "**33** · Urgencia",
+       "Por **razones de interés público**, de oficio o a petición: se **reducen a la mitad** los plazos, salvo los de **presentación de solicitudes y recursos**. Debe **motivarse**, **no cabe recurso** contra el acuerdo y **no se confunde** con la **tramitación simplificada** (art. 96)."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **ampliación** nunca supera la **mitad** del plazo y no puede pedirse cuando el plazo ya **venció**. La **urgencia** reduce a la mitad los plazos **excepto** los de solicitudes y recursos. Contra ambos acuerdos **no cabe recurso**."
     ]
    ],
    "flash": [
@@ -331,6 +667,18 @@
     [
      "¿Hasta cuánto puede ampliarse un plazo?",
      "Hasta la mitad del mismo (32.1)."
+    ],
+    [
+     "Una presentación en el registro electrónico en día inhábil, ¿cuándo se entiende hecha?",
+     "En la primera hora del primer día hábil siguiente (art. 31.2.b)."
+    ],
+    [
+     "Si el último día del plazo es inhábil, ¿qué ocurre?",
+     "Se prorroga al primer día hábil siguiente."
+    ],
+    [
+     "¿Qué plazos no se reducen en la tramitación de urgencia?",
+     "Los de presentación de solicitudes y recursos."
     ]
    ],
    "esquema": [
@@ -406,6 +754,23 @@
         "titulo": "Presentación: Correos, consulados, oficinas de asistencia"
        }
       ]
+     },
+     {
+      "titulo": "Arts. 17-20 y 26-28",
+      "hijos": [
+       {
+        "titulo": "Archivo electrónico único (17)"
+       },
+       {
+        "titulo": "Comparecencia solo por ley (19)"
+       },
+       {
+        "titulo": "Copias auténticas: 15 días (27)"
+       },
+       {
+        "titulo": "No aportar lo que ya tiene la Administración (28)"
+       }
+      ]
      }
     ]
    },
@@ -432,6 +797,23 @@
        },
        {
         "titulo": "Negativo: excepción por ley"
+       }
+      ]
+     },
+     {
+      "titulo": "Suspender, ampliar y silencio",
+      "hijos": [
+       {
+        "titulo": "Suspensión (22): informes máx. 3 meses"
+       },
+       {
+        "titulo": "Ampliación (23): sin recurso"
+       },
+       {
+        "titulo": "Silencio positivo: solo resolución confirmatoria"
+       },
+       {
+        "titulo": "De oficio: caducidad si sanciona (25)"
        }
       ]
      }
@@ -463,6 +845,20 @@
        },
        {
         "titulo": "Urgencia: mitad, salvo solicitudes y recursos"
+       }
+      ]
+     },
+     {
+      "titulo": "Registros, ampliación y urgencia",
+      "hijos": [
+       {
+        "titulo": "Día inhábil: primera hora del primer hábil (31)"
+       },
+       {
+        "titulo": "Ampliación: hasta la mitad (32)"
+       },
+       {
+        "titulo": "Urgencia: mitad, salvo solicitudes y recursos (33)"
        }
       ]
      }
