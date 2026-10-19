@@ -4653,6 +4653,429 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "El boletín municipal del Ayuntamiento de Zaragoza tiene edición:",
+   [
+    "Mensual, con representación solo del equipo de Gobierno",
+    "Semestral, dirigida por el Alcalde",
+    "Trimestral, con representación de todos los grupos y del Consejo de la Ciudad en su consejo de redacción"
+   ],
+   2,
+   "Medios locales: boletín, radio y televisión locales, web, red cívica y firma electrónica.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: información municipal",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Las copias y certificaciones de acuerdos municipales se piden en:",
+   [
+    "El Registro General únicamente",
+    "La Secretaría General del Pleno",
+    "La Oficina de Información de las áreas centrales y de las Juntas Municipales y Vecinales"
+   ],
+   2,
+   "Arts. 44 a 49.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: información municipal",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "En la iniciativa ciudadana la decisión final corresponde a:",
+   [
+    "La Junta de Gobierno Local",
+    "El Pleno",
+    "El Alcalde"
+   ],
+   0,
+   "Se canaliza a través de la Oficina Municipal de Apoyo al Ciudadano.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: iniciativa ciudadana",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Una audiencia pública de ámbito de ciudad puede solicitarla, entre otros:",
+   [
+    "El 5 % del padrón",
+    "El 20 % del padrón",
+    "Un número de ciudadanos que sean el 10 % del padrón"
+   ],
+   2,
+   "De ámbito de Junta: el 10 % del padrón del territorio.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: audiencia pública",
+   "10 %",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La audiencia pública se desarrolla:",
+   [
+    "Por escrito en dos fases",
+    "En sesión del Pleno",
+    "De forma oral y en unidad de acto"
+   ],
+   2,
+   "Según el contenido del tema: De forma oral y en unidad de acto.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: audiencia pública",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Para que el Alcalde someta a consulta popular un asunto, se requiere previamente:",
+   [
+    "Acuerdo de la Junta de Gobierno Local",
+    "Acuerdo del Pleno por mayoría simple",
+    "Acuerdo del Pleno por mayoría absoluta"
+   ],
+   2,
+   "Se excluyen los asuntos de Hacienda Local.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: consulta popular",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los vecinos pueden solicitar una consulta popular con:",
+   [
+    "5.000 firmas más el 10 % de los habitantes",
+    "10.000 firmas más el 5 % de los habitantes que excedan de 100.000",
+    "10.000 firmas fijas"
+   ],
+   1,
+   "La autoriza el Gobierno del Estado.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: consulta popular",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "El Observatorio Urbano depende:",
+   [
+    "De la Secretaría General del Pleno",
+    "Del Área de Participación Ciudadana",
+    "Del Consejo de la Ciudad"
+   ],
+   1,
+   "Recoge la opinión de vecinos y entidades mediante encuestas.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: estudios de opinión",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El turno de ruegos y preguntas del público en el Pleno se pide:",
+   [
+    "Verbalmente al inicio de la sesión",
+    "Por escrito con 24 horas de antelación",
+    "Por escrito con 48 horas de antelación"
+   ],
+   1,
+   "Tras la sesión ordinaria del Pleno el Alcalde puede abrirlo.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: ruegos y preguntas",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Censo Municipal de Entidades Ciudadanas se rige por los artículos:",
+   [
+    "44 a 49",
+    "59 a 62 del Reglamento",
+    "82 a 101"
+   ],
+   1,
+   "Según el contenido del tema: 59 a 62 del Reglamento.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: entidades ciudadanas",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La solicitud de inscripción en el Censo de Entidades Ciudadanas la resuelve el Alcalde o Teniente de Alcalde en:",
+   [
+    "15 días",
+    "Dos meses",
+    "30 días"
+   ],
+   2,
+   "Según el contenido del tema: 30 días.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: entidades ciudadanas",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Para pedir la declaración de interés público municipal una entidad inscrita debe tener declaración supramunicipal de utilidad pública o haber mantenido la de interés ciudadano:",
+   [
+    "Cinco años",
+    "Un año",
+    "Dos años"
+   ],
+   2,
+   "Según el contenido del tema: Dos años.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: interés público municipal",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "La declaración de interés ciudadano está prevista para las entidades inscritas:",
+   [
+    "Más de dos años",
+    "Más de cinco años",
+    "Más de un año"
+   ],
+   0,
+   "Da preferencia en subvenciones y uso de locales.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: interés ciudadano",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las cesiones de locales a entidades ciudadanas duran como máximo:",
+   [
+    "Dos años prorrogables",
+    "Cinco años, prorrogables otros cinco en casos excepcionales",
+    "Diez años"
+   ],
+   1,
+   "Según el contenido del tema: Cinco años, prorrogables otros cinco en casos excepcionales.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: locales y subvenciones",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Las entidades inscritas pueden intervenir ante el Pleno del Ayuntamiento:",
+   [
+    "Sobre un punto del orden del día de la parte resolutiva, a través de un único representante",
+    "Sobre cualquier asunto de la parte de control",
+    "Con todos sus socios"
+   ],
+   0,
+   "Según el contenido del tema: Sobre un punto del orden del día de la parte resolutiva, a través de un único representante.",
+   "Reglamento de Órganos Territoriales y de Participación Ciudadana: participación ante los órganos",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El Manual de Atención a la Ciudadanía del Ayuntamiento de Zaragoza se publicó en:",
+   [
+    "2008, y se adaptó en 2018",
+    "1994, y se adaptó en 2018 al lenguaje inclusivo",
+    "1999, y se adaptó en 2012"
+   ],
+   1,
+   "Es un documento práctico, no una norma.",
+   "Manual de Atención a la Ciudadanía: origen",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "Los cuatro aspectos que valora la ciudadanía en la calidad de un servicio son:",
+   [
+    "Rapidez, amabilidad, precio y eficacia",
+    "Aspectos tangibles, capacidad de respuesta, seguridad y fiabilidad, y empatía",
+    "Aspectos tangibles, jerarquía, seguridad y trato"
+   ],
+   1,
+   "Según el contenido del tema: Aspectos tangibles, capacidad de respuesta, seguridad y fiabilidad, y empatía.",
+   "Manual de Atención a la Ciudadanía: calidad",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Según el Manual, los dos motivos principales de la baja calidad son:",
+   [
+    "La falta de medios y la normativa excesiva",
+    "La actitud del personal y el trabajo demasiado lento",
+    "La falta de formación y los horarios"
+   ],
+   1,
+   "Según el contenido del tema: La actitud del personal y el trabajo demasiado lento.",
+   "Manual de Atención a la Ciudadanía: calidad",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Entre los errores en la atención el Manual cita:",
+   [
+    "La apatía, la frialdad, la condescendencia, la robotización, la excesiva reglamentación y las transferencias",
+    "La cortesía excesiva y la rapidez",
+    "La falta de uniforme y de identificación"
+   ],
+   0,
+   "Según el contenido del tema: La apatía, la frialdad, la condescendencia, la robotización, la excesiva reglamentación y las transferencias.",
+   "Manual de Atención a la Ciudadanía: errores en la atención",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "Los tres niveles de atención del Manual son:",
+   [
+    "Saludo, información y despedida",
+    "Recepción, tramitación y resolución",
+    "Acogida, recogida y reconocimiento"
+   ],
+   2,
+   "Conviene llegar al tercero o, al menos, al segundo.",
+   "Manual de Atención a la Ciudadanía: niveles de atención",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "El nivel de reconocimiento es aquel en el que:",
+   [
+    "Se sitúa a la persona",
+    "Se trata el caso concreto de la persona",
+    "Se la saluda y se le indica brevemente lo que ocurrirá"
+   ],
+   1,
+   "Acogida: situar; recogida: saludo e indicación breve.",
+   "Manual de Atención a la Ciudadanía: niveles de atención",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Salvo que se indique lo contrario, a la persona atendida se le trata:",
+   [
+    "De usted",
+    "De tú",
+    "Por su nombre de pila"
+   ],
+   0,
+   "En el primer contacto se saluda con contacto visual y tomando la iniciativa.",
+   "Manual de Atención a la Ciudadanía: comunicación",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "El momento adecuado para intervenir con una frase empática ante una persona hostil es la fase de:",
+   [
+    "Disparo o salida",
+    "Afrontamiento",
+    "Racional"
+   ],
+   1,
+   "En el disparo no sirve razonar ni mandar calmarse.",
+   "Manual de Atención a la Ciudadanía: situaciones difíciles",
+   "Intervenir en el disparo",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "Ante una persona en la fase de disparo, lo recomendable es:",
+   [
+    "No intentar razonar ni defender al Ayuntamiento ni pedirle que se calme",
+    "Defender al Ayuntamiento con argumentos",
+    "Pedirle que se calme y cumpla los trámites"
+   ],
+   0,
+   "Solo provoca repetir el disparo.",
+   "Manual de Atención a la Ciudadanía: situaciones difíciles",
+   "",
+   "h-manual-atencion",
+   [],
+   {
+    "nuevo": 1
+   }
   ]
  ]
 }

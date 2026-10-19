@@ -5130,6 +5130,373 @@
     "nuevo": 1,
     "dif": 3
    }
+  ],
+  [
+   "De acuerdo con el artículo 3.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, el patrimonio de las Administraciones públicas está constituido por:",
+   [
+    "El conjunto de sus bienes inmuebles y los derechos reales sobre ellos",
+    "El conjunto de sus bienes y derechos y de sus recursos financieros",
+    "El conjunto de sus bienes y derechos, cualquiera que sea su naturaleza y el título de su adquisición"
+   ],
+   2,
+   "Art. 3.1.",
+   "l33-2003 3.1",
+   "",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.2 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, no se entienden incluidos en el patrimonio de las Administraciones públicas:",
+   [
+    "Los derechos de arrendamiento y las acciones de sociedades mercantiles",
+    "Los bienes afectados al servicio público",
+    "El dinero, los valores, los créditos y los demás recursos financieros de su hacienda"
+   ],
+   2,
+   "Art. 3.2.",
+   "l33-2003 3.2",
+   "",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, son bienes y derechos de dominio público los de titularidad pública que se encuentren:",
+   [
+    "Afectados al uso general o al servicio público, así como aquellos a los que una ley otorgue expresamente el carácter de demaniales",
+    "Destinados a la generación de ingresos para la hacienda",
+    "Adquiridos por la Administración a título oneroso"
+   ],
+   0,
+   "Art. 5.1.",
+   "l33-2003 5.1",
+   "",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, son bienes y derechos de dominio privado o patrimoniales:",
+   [
+    "Los de titularidad de las Administraciones públicas que no tengan el carácter de demaniales",
+    "Los afectados al uso general",
+    "Los afectados al servicio público"
+   ],
+   0,
+   "Art. 7.1.",
+   "l33-2003 7.1",
+   "",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, la gestión de los bienes demaniales se ajustará, entre otros, al principio de:",
+   [
+    "Libre disposición con autorización del Pleno",
+    "Inalienabilidad, inembargabilidad e imprescriptibilidad",
+    "Enajenación mediante subasta pública"
+   ],
+   1,
+   "Art. 6.",
+   "l33-2003 6",
+   "",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.d de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, en la gestión de los bienes demaniales hay una dedicación preferente:",
+   [
+    "Al uso privativo frente al uso común",
+    "Al servicio público frente al uso general",
+    "Al uso común frente a su uso privativo"
+   ],
+   2,
+   "Art. 6.d.",
+   "l33-2003 6.d",
+   "Invertir uso común y privativo",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, nadie puede ocupar bienes de dominio público o utilizarlos en forma que exceda el derecho de uso que corresponde a todos:",
+   [
+    "Sin el previo informe del servicio jurídico",
+    "Sin comunicación al órgano gestor del bien",
+    "Sin título que lo autorice otorgado por la autoridad competente"
+   ],
+   2,
+   "Art. 84.1.",
+   "l33-2003 84.1",
+   "",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, son bienes patrimoniales o de propios los que siendo propiedad de la Entidad Local:",
+   [
+    "Estén destinados a uso público pero no a servicio público",
+    "No estén destinados a uso público ni afectados a algún servicio público y puedan constituir fuentes de ingresos",
+    "No puedan constituir fuentes de ingresos"
+   ],
+   1,
+   "Art. 6.1.",
+   "rb 6.1",
+   "",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, los bienes patrimoniales se rigen:",
+   [
+    "Por las normas de Derecho administrativo",
+    "Por su legislación específica y, en su defecto, por las normas de Derecho privado",
+    "Por las normas del Derecho civil y mercantil únicamente"
+   ],
+   1,
+   "Art. 6.2.",
+   "rb 6.2",
+   "",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, se conceptúan parcelas sobrantes:",
+   [
+    "Las porciones de terreno propiedad de las Entidades locales que por su reducida extensión, forma irregular o emplazamiento no sean susceptibles de uso adecuado",
+    "Los terrenos que no estén inscritos en el Registro de la Propiedad",
+    "Los terrenos desafectados por acuerdo del Pleno"
+   ],
+   0,
+   "Art. 7.2.",
+   "rb 7.2",
+   "",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, las Corporaciones Locales pueden adquirir bienes y derechos por atribución de la Ley, a título oneroso, por herencia, legado o donación, por prescripción, por ocupación y:",
+   [
+    "Por cesión obligatoria de la Comunidad Autónoma",
+    "Por cualquier otro modo legítimo conforme al ordenamiento jurídico",
+    "Por mera posesión durante diez años"
+   ],
+   1,
+   "Art. 10.",
+   "rb 10",
+   "",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, la adquisición a título oneroso de inmuebles exige, además de los requisitos de la contratación, informe previo:",
+   [
+    "Pericial",
+    "Jurídico",
+    "Del Interventor"
+   ],
+   0,
+   "Art. 11.1.",
+   "rb 11.1",
+   "",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, si una adquisición a título gratuito lleva aneja una condición o modalidad onerosa, solo podrán aceptarse los bienes previo expediente que acredite que:",
+   [
+    "El valor del gravamen impuesto no excede del valor de lo que se adquiere",
+    "El gravamen no excede del 50 % del valor de lo que se adquiere",
+    "La Entidad dispone de crédito para soportarlo"
+   ],
+   0,
+   "Art. 12.2.",
+   "rb 12.2",
+   "",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, la aceptación de herencias se entiende hecha:",
+   [
+    "A título pleno",
+    "Con aceptación tácita",
+    "A beneficio de inventario"
+   ],
+   2,
+   "Art. 12.3.",
+   "rb 12.3",
+   "",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, si los bienes se adquirieron bajo condición de su afectación permanente a determinados destinos, esta se entiende cumplida cuando durante:",
+   [
+    "Veinte años hubieren servido al mismo",
+    "Cincuenta años hubieren servido al mismo",
+    "Treinta años hubieren servido al mismo"
+   ],
+   2,
+   "Art. 13.",
+   "rb 13",
+   "30 años",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, las Entidades locales prescribirán a su favor:",
+   [
+    "Con arreglo a plazos especiales más cortos",
+    "Con arreglo a las leyes comunes, sin perjuicio de lo establecido en disposiciones especiales",
+    "Únicamente los bienes patrimoniales"
+   ],
+   1,
+   "Art. 14.1.",
+   "rb 14.1",
+   "",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, las licencias de uso común especial se otorgarán directamente, salvo que se limite su número, en cuyo caso lo serán:",
+   [
+    "Por licitación y, si no fuere posible, por sorteo",
+    "Por sorteo y, si no fuere posible, por licitación",
+    "Por concurso de méritos"
+   ],
+   0,
+   "Art. 77.2.",
+   "rb 77.2",
+   "",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, están sujetos a concesión administrativa:",
+   [
+    "El uso común especial normal",
+    "El uso común general",
+    "El uso privativo de bienes de dominio público y el uso anormal de los mismos"
+   ],
+   2,
+   "Art. 78.1.",
+   "rb 78.1",
+   "",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.3 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, las licencias que se refieran a las cualidades personales del sujeto o cuyo número esté limitado:",
+   [
+    "No serán transmisibles",
+    "Serán transmisibles con autorización del Pleno",
+    "Serán transmisibles libremente"
+   ],
+   0,
+   "Art. 77.3.",
+   "rb 77.3",
+   "",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, la alteración de la calificación jurídica de los bienes de las Entidades locales requiere:",
+   [
+    "Informe favorable de la Comunidad Autónoma",
+    "Expediente en el que se acrediten su oportunidad y legalidad",
+    "Acuerdo del Alcalde"
+   ],
+   1,
+   "Art. 8.1.",
+   "rb 8.1",
+   "",
+   "h-alteracion-enajenacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, el expediente de alteración de la calificación jurídica se resuelve previa información pública durante:",
+   [
+    "Un mes, por acuerdo con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+    "Quince días, por mayoría simple",
+    "Un mes, por mayoría de dos tercios"
+   ],
+   0,
+   "Art. 8.2.",
+   "rb 8.2",
+   "Mes y mayoría absoluta",
+   "h-alteracion-enajenacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
   ]
  ]
 }

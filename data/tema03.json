@@ -4711,7 +4711,8 @@
    "h-preliminar",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 1
    }
   ],
   [
@@ -4726,6 +4727,76 @@
    "eaar 1.2",
    "",
    "h-preliminar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, corresponden a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el título, que ejercerá respetando:",
+   [
+    "Lo que disponga el Gobierno de España",
+    "El derecho comunitario únicamente",
+    "Lo dispuesto en la Constitución y en el Estatuto"
+   ],
+   2,
+   "Art. 70.1.",
+   "eaar 70.1",
+   "",
+   "h-competencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, en el ámbito de las competencias exclusivas, Aragón ejercerá:",
+   [
+    "El desarrollo legislativo y la ejecución de la legislación básica",
+    "La potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias",
+    "Solo la función ejecutiva y la potestad reglamentaria"
+   ],
+   1,
+   "Art. 71.",
+   "eaar 71",
+   "",
+   "h-comp-materias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, en el ámbito de las competencias compartidas, Aragón ejercerá:",
+   [
+    "La potestad legislativa y reglamentaria plena",
+    "El desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado",
+    "Solo la ejecución de la legislación estatal"
+   ],
+   1,
+   "Art. 75.",
+   "eaar 75",
+   "Confundir exclusiva, compartida y ejecutiva",
+   "h-comp-materias",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, en el ámbito de las competencias ejecutivas, Aragón podrá dictar:",
+   [
+    "Leyes de desarrollo de la legislación estatal",
+    "Decretos-leyes sobre la materia",
+    "Reglamentos para la regulación de su propia competencia funcional y la organización de los servicios necesarios para ello"
+   ],
+   2,
+   "Art. 77.",
+   "eaar 77",
+   "",
+   "h-comp-materias",
    [],
    {
     "nuevo": 1

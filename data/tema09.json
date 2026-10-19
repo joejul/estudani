@@ -4037,6 +4037,145 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Ley tiene por objeto regular la contratación del sector público para garantizar los principios de libertad de acceso a las licitaciones, publicidad y transparencia, y:",
+   [
+    "No discriminación e igualdad de trato entre los licitadores",
+    "Concurrencia competitiva y economía procesal",
+    "Proporcionalidad y reserva de ley"
+   ],
+   0,
+   "Art. 1.1.",
+   "lcsp 1.1",
+   "",
+   "h-lcsp-origen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, es también objeto de la Ley:",
+   [
+    "La regulación del régimen jurídico de los efectos, cumplimiento y extinción de los contratos administrativos",
+    "La regulación de los contratos privados de la Administración",
+    "La regulación de las concesiones demaniales"
+   ],
+   0,
+   "Art. 1.2.",
+   "lcsp 1.2",
+   "",
+   "h-lcsp-origen",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.3 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en toda contratación pública se incorporarán de manera transversal y preceptiva:",
+   [
+    "Criterios de arraigo territorial",
+    "Cláusulas de preferencia de pymes",
+    "Criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato"
+   ],
+   2,
+   "Art. 1.3.",
+   "lcsp 1.3",
+   "",
+   "h-lcsp-origen",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son contratos del sector público los contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren:",
+   [
+    "Las Administraciones Públicas únicamente",
+    "Los poderes adjudicadores y las Administraciones",
+    "Las entidades enumeradas en el artículo 3"
+   ],
+   2,
+   "Art. 2.1.",
+   "lcsp 2.1",
+   "",
+   "h-ambito-sujetos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, un contrato tiene carácter oneroso cuando:",
+   [
+    "La Administración paga un precio cierto",
+    "El contratista obtiene algún tipo de beneficio económico, directo o indirecto",
+    "Existe contraprestación en dinero"
+   ],
+   1,
+   "Art. 2.1.",
+   "lcsp 2.1",
+   "",
+   "h-ambito-sujetos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.4 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, para identificar las prestaciones objeto de los contratos se utiliza:",
+   [
+    "El Catálogo de Productos y Servicios",
+    "El «Vocabulario común de contratos públicos» (CPV)",
+    "La clasificación económica del presupuesto"
+   ],
+   1,
+   "Art. 2.4.",
+   "lcsp 2.4",
+   "",
+   "h-ambito-sujetos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.1.a de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, forman parte del sector público, entre otras entidades:",
+   [
+    "Solo las Administraciones territoriales",
+    "La Administración General del Estado, las de las Comunidades Autónomas, Ceuta y Melilla y las Entidades que integran la Administración Local",
+    "Las fundaciones privadas con ánimo de lucro"
+   ],
+   1,
+   "Art. 3.1.a.",
+   "lcsp 3.1.a",
+   "",
+   "h-ambito-sujetos",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.1.e.2º de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, son fundaciones públicas las que reúnan alguno de los requisitos, como que su patrimonio esté integrado en más de:",
+   [
+    "Un 30 por ciento por bienes aportados por sujetos del sector público",
+    "Un 75 por ciento por bienes aportados por sujetos del sector público",
+    "Un 50 por ciento por bienes o derechos aportados o cedidos con carácter permanente por sujetos del sector público"
+   ],
+   2,
+   "Art. 3.1.e.2º.",
+   "lcsp 3.1.e.2º",
+   "",
+   "h-ambito-sujetos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
   ]
  ]
 }
