@@ -88,6 +88,96 @@
    "Procedimiento simplificado",
    "Procedimiento acortado (30 días) para casos de especial sencillez o sin complejidad.",
    "Art. 96 Ley 39/2015"
+  ],
+  [
+   "actuaciones-previas",
+   "Actuaciones previas",
+   "Período de información que el órgano puede abrir antes de iniciar un procedimiento para conocer el caso y decidir si conviene iniciarlo.",
+   "Art. 55 Ley 39/2015"
+  ],
+  [
+   "acumulacion",
+   "Acumulación de procedimientos",
+   "Unir varios procedimientos con identidad sustancial o íntima conexión. Solo si los tramita y resuelve el mismo órgano; no cabe recurso.",
+   "Art. 57 Ley 39/2015"
+  ],
+  [
+   "orden-superior",
+   "Orden superior",
+   "Orden de un órgano administrativo superior que obliga a otro a iniciar un procedimiento.",
+   "Art. 59 Ley 39/2015"
+  ],
+  [
+   "peticion-razonada",
+   "Petición razonada",
+   "Propuesta de iniciar un procedimiento hecha por un órgano que no es competente para iniciarlo. No vincula.",
+   "Art. 61 Ley 39/2015"
+  ],
+  [
+   "denuncia",
+   "Denuncia",
+   "Acto por el que cualquier persona informa a la Administración de un hecho que podría justificar iniciar un procedimiento de oficio. No da por sí sola la condición de interesado.",
+   "Art. 62 Ley 39/2015"
+  ],
+  [
+   "instructor",
+   "Instructor",
+   "Órgano o persona que tramita la fase de instrucción. En los sancionadores debe ser distinto del órgano que sanciona.",
+   "Arts. 63 y 64 Ley 39/2015"
+  ],
+  [
+   "declaracion-responsable-art69",
+   "Declaración responsable y comunicación",
+   "Documentos que permiten ejercer un derecho o iniciar una actividad desde el día de su presentación, sin esperar a una autorización.",
+   "Art. 69 Ley 39/2015"
+  ],
+  [
+   "expediente-electronico",
+   "Expediente electrónico",
+   "Conjunto ordenado de documentos y actuaciones que fundamentan la resolución. No incluye notas, borradores ni informes internos.",
+   "Art. 70 Ley 39/2015"
+  ],
+  [
+   "cuestion-incidental",
+   "Cuestión incidental",
+   "Asunto que surge durante el procedimiento. No lo suspende, salvo la recusación.",
+   "Art. 74 Ley 39/2015"
+  ],
+  [
+   "informe-preceptivo",
+   "Informe preceptivo y determinante",
+   "Informe obligatorio por ley. Si es determinante y no se emite, se puede suspender el plazo máximo para resolver.",
+   "Arts. 22 y 80 Ley 39/2015"
+  ],
+  [
+   "actuaciones-complementarias",
+   "Actuaciones complementarias",
+   "Actuaciones indispensables que el órgano que resuelve acuerda, motivadamente, antes de resolver. Se alega en siete días.",
+   "Art. 87 Ley 39/2015"
+  ],
+  [
+   "ejecucion-forzosa",
+   "Ejecución forzosa",
+   "Cumplimiento de un acto por la Administración sin la voluntad del obligado, previo apercibimiento. Medios: apremio, subsidiaria, multa coercitiva y compulsión.",
+   "Arts. 99 y 100 Ley 39/2015"
+  ],
+  [
+   "multa-coercitiva",
+   "Multa coercitiva",
+   "Multa reiterada que la ley autoriza para forzar el cumplimiento de un acto. Es independiente de las sanciones.",
+   "Art. 103 Ley 39/2015"
+  ],
+  [
+   "ejecucion-subsidiaria",
+   "Ejecución subsidiaria",
+   "La Administración hace el acto (no personalísimo) por sí o por otra persona, a costa del obligado.",
+   "Art. 102 Ley 39/2015"
+  ],
+  [
+   "apremio",
+   "Apremio sobre el patrimonio",
+   "Procedimiento para cobrar por vía ejecutiva una cantidad líquida debida por un acto administrativo.",
+   "Art. 101 Ley 39/2015"
   ]
  ],
  "hubs": [
@@ -210,6 +300,178 @@
     ]
    ],
    "ic": "🏁"
+  },
+  {
+   "id": "h-provisionales",
+   "epi": "e0",
+   "titulo": "Medidas provisionales y acumulación",
+   "art": "Arts. 55-57",
+   "resumen": "Actuaciones previas, medidas provisionales y acumulación.",
+   "pistas": [
+    [
+     "n",
+     "Medidas previas al procedimiento: se confirman o levantan en el acuerdo de iniciación, en 15 días"
+    ],
+    [
+     "d",
+     "Las medidas provisionales deben ser motivadas y proporcionadas"
+    ],
+    [
+     "d",
+     "Acumulación: solo si el mismo órgano tramita y resuelve"
+    ],
+    [
+     "t",
+     "Contra el acuerdo de acumulación no cabe recurso"
+    ]
+   ],
+   "ic": "🛑"
+  },
+  {
+   "id": "h-inicio-oficio",
+   "epi": "e0",
+   "titulo": "Cómo se inicia de oficio",
+   "art": "Arts. 58-64",
+   "resumen": "Formas de iniciación de oficio y especialidades del sancionador.",
+   "pistas": [
+    [
+     "d",
+     "Propia iniciativa, orden superior, petición razonada o denuncia"
+    ],
+    [
+     "d",
+     "La petición razonada no vincula al órgano competente"
+    ],
+    [
+     "d",
+     "La denuncia no da la condición de interesado"
+    ],
+    [
+     "d",
+     "Sancionador: siempre de oficio y con instructor distinto del órgano sancionador"
+    ],
+    [
+     "n",
+     "Responsabilidad patrimonial a solicitud: prescribe al año"
+    ]
+   ],
+   "ic": "🚦"
+  },
+  {
+   "id": "h-dr-comunicacion",
+   "epi": "e0",
+   "titulo": "Declaración responsable y comunicación",
+   "art": "Art. 69",
+   "resumen": "Qué son y qué efectos tienen.",
+   "pistas": [
+    [
+     "d",
+     "Declaración responsable: se cumplen los requisitos bajo responsabilidad del interesado"
+    ],
+    [
+     "d",
+     "Comunicación: se ponen en conocimiento de la Administración datos para iniciar una actividad"
+    ],
+    [
+     "d",
+     "Permiten ejercer el derecho desde el día de su presentación"
+    ],
+    [
+     "t",
+     "La falsedad esencial impide continuar con la actividad"
+    ]
+   ],
+   "ic": "✍️"
+  },
+  {
+   "id": "h-expediente-prueba",
+   "epi": "e1",
+   "titulo": "Expediente, prueba e informes",
+   "art": "Arts. 70-81",
+   "resumen": "Reglas de la instrucción.",
+   "pistas": [
+    [
+     "d",
+     "Expediente electrónico: la información auxiliar o de apoyo no forma parte"
+    ],
+    [
+     "n",
+     "Período de prueba: de 10 a 30 días"
+    ],
+    [
+     "d",
+     "Los informes son facultativos y no vinculantes salvo norma en contrario"
+    ],
+    [
+     "n",
+     "Dictamen del Consejo de Estado en responsabilidad patrimonial: desde 50.000 euros"
+    ],
+    [
+     "t",
+     "Las cuestiones incidentales no suspenden salvo la recusación"
+    ]
+   ],
+   "ic": "📂"
+  },
+  {
+   "id": "h-resolucion",
+   "epi": "e2",
+   "titulo": "Resolución y procedimientos especiales",
+   "art": "Arts. 86-96",
+   "resumen": "Terminación convencional, resolución, sancionador y simplificada.",
+   "pistas": [
+    [
+     "n",
+     "Actuaciones complementarias: siete días de alegaciones"
+    ],
+    [
+     "d",
+     "Congruencia: la resolución no puede agravar la situación inicial"
+    ],
+    [
+     "d",
+     "Sancionador: la resolución no es ejecutiva mientras quepa recurso administrativo"
+    ],
+    [
+     "n",
+     "Simplificada: treinta días"
+    ],
+    [
+     "t",
+     "La tramitación simplificada pedida por el interesado puede desestimarse en cinco días sin recurso"
+    ]
+   ],
+   "ic": "📜"
+  },
+  {
+   "id": "h-ejecucion",
+   "epi": "e2",
+   "titulo": "Ejecución forzosa",
+   "art": "Arts. 97-105",
+   "resumen": "Medios de ejecución y límites.",
+   "pistas": [
+    [
+     "d",
+     "Cuatro medios: apremio, ejecución subsidiaria, multa coercitiva y compulsión"
+    ],
+    [
+     "d",
+     "Se elige el medio menos restrictivo de la libertad individual"
+    ],
+    [
+     "d",
+     "Entrar en un domicilio: consentimiento o autorización judicial"
+    ],
+    [
+     "d",
+     "La multa coercitiva es independiente de las sanciones"
+    ],
+    [
+     "t",
+     "No se admiten acciones posesorias contra la actuación administrativa"
+    ]
+   ],
+   "ic": "⚙️"
   }
  ],
  "esquema": [

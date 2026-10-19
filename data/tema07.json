@@ -13,7 +13,10 @@
     "De oficio o a solicitud (54)",
     "Actuaciones previas (55)",
     "Denuncia (62)",
-    "Subsanación: 10 días (68)"
+    "Subsanación: 10 días (68)",
+    "Medidas provisionales: confirmación en 15 días (56)",
+    "Responsabilidad patrimonial: prescribe al año (67)",
+    "Declaración responsable frente a comunicación (69)"
    ],
    "bloques": [
     [
@@ -47,6 +50,129 @@
     [
      "trampa",
      "El plazo de **subsanación es de 10 días**. En iniciación **de oficio**, la denuncia **no obliga** a iniciar el procedimiento: lo decide el órgano competente."
+    ],
+    [
+     "h",
+     "Actuaciones previas, medidas provisionales y acumulación (arts. 55 a 57)"
+    ],
+    [
+     "lista",
+     [
+      "**Actuaciones previas (55):** antes de iniciar, el órgano competente puede abrir un período de información para conocer el caso y ver si conviene iniciar el procedimiento. En los **sancionadores** se orientan a precisar los hechos, las personas responsables y las circunstancias relevantes.",
+      "**Medidas provisionales (56):** una vez iniciado, el órgano que resuelve puede adoptarlas **de oficio o a instancia de parte, de forma motivada**, para asegurar la eficacia de la resolución (proporcionalidad, efectividad y menor onerosidad).",
+      "**Antes de iniciar** el procedimiento solo pueden adoptarse en casos de **urgencia inaplazable**. Deben **confirmarse, modificarse o levantarse en el acuerdo de iniciación**, que se dicta **dentro de los 15 días** siguientes. Si no se inicia el procedimiento en ese plazo, o el acuerdo no se pronuncia sobre ellas, **quedan sin efecto**.",
+      "Ejemplos: suspensión temporal de actividades, prestación de fianzas, retirada o intervención de bienes productivos, cierre temporal de un establecimiento, embargo preventivo, depósito o inmovilización de bienes, consignación de cantidades… **No pueden** causar perjuicios de **difícil o imposible reparación**, y pueden alzarse o modificarse durante el procedimiento.",
+      "**Acumulación (57):** el órgano puede acumular procedimientos con **identidad sustancial o íntima conexión**, siempre que **sea el mismo órgano** quien los tramite y resuelva. **Contra el acuerdo de acumulación no cabe recurso.**"
+     ]
+    ],
+    [
+     "h",
+     "Cómo se inicia de oficio (arts. 58 a 62)"
+    ],
+    [
+     "tabla",
+     [
+      "Forma",
+      "Qué es"
+     ],
+     [
+      [
+       "**Propia iniciativa**",
+       "El órgano competente decide iniciar el procedimiento por sí mismo."
+      ],
+      [
+       "**Orden superior**",
+       "La emitida por un órgano superior a otro, con expresión de la causa. En los sancionadores indica, en lo posible, la persona o personas responsables, las conductas y la infracción."
+      ],
+      [
+       "**Petición razonada de otros órganos**",
+       "Propuesta de iniciación formulada por un órgano que **no tiene competencia** para iniciar. **No vincula** al órgano competente, que debe comunicar al autor de la petición los motivos si la rechaza."
+      ],
+      [
+       "**Denuncia**",
+       "Acto por el que **cualquier persona** pone en conocimiento de un órgano un hecho que pudiera justificar iniciar un procedimiento de oficio. Debe expresar la **identidad** del denunciante y el relato de los hechos. **No da por sí sola la condición de interesado.**"
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Sancionadores: especialidades al iniciar (arts. 63 y 64)"
+    ],
+    [
+     "lista",
+     [
+      "Se inician **siempre de oficio** por acuerdo del órgano competente y con **separación entre la fase instructora y la sancionadora**, que se encomiendan a **órganos distintos**.",
+      "**No se puede imponer una sanción sin procedimiento.** No se inician nuevos procedimientos por conductas continuadas mientras no haya una primera resolución sancionadora ejecutiva.",
+      "El acuerdo de iniciación se **comunica al instructor** (con las actuaciones previas) y se **notifica a los interesados**, entendiendo por tal siempre al inculpado (y al denunciante, si la norma lo prevé).",
+      "**Contenido mínimo:** personas presuntamente responsables; hechos, su posible calificación y sanciones; identificación del **instructor y del secretario**, con el régimen de **recusación**; **órgano competente** para resolver y posibilidad de **reconocer voluntariamente la responsabilidad** (art. 85); medidas provisionales; y el **derecho a alegaciones y audiencia**. Si no se formulan alegaciones sobre el acuerdo, este puede considerarse **propuesta de resolución** cuando contenga un pronunciamiento preciso sobre la responsabilidad imputada."
+     ]
+    ],
+    [
+     "h",
+     "Responsabilidad patrimonial: iniciación (arts. 65 y 67)"
+    ],
+    [
+     "tabla",
+     [
+      "Forma",
+      "Regla"
+     ],
+     [
+      [
+       "**De oficio (65)**",
+       "Solo si **no ha prescrito** el derecho a reclamar. El acuerdo se notifica a los particulares presuntamente lesionados, con **diez días** para alegaciones, documentos y pruebas."
+      ],
+      [
+       "**A solicitud (67)**",
+       "El derecho a reclamar **prescribe al año** de producido el hecho o de manifestarse su efecto lesivo. En daños físicos o psíquicos, el plazo cuenta desde la **curación o la determinación de las secuelas**. La solicitud debe especificar las lesiones, la presunta relación de causalidad, la valoración económica y el momento en que se produjo."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "La solicitud de iniciación (art. 66) y su subsanación (art. 68)"
+    ],
+    [
+     "lista",
+     [
+      "Si **varias personas** tienen pretensiones de contenido y fundamento idénticos o sustancialmente similares, pueden formularlas en **una única solicitud** (salvo norma específica). Se puede exigir **recibo** con fecha y hora de presentación.",
+      "Los **modelos normalizados** y de **presentación masiva** deben facilitarse; si la Administración fija un modelo específico para un procedimiento, su uso es **obligatorio**.",
+      "**Subsanación (68):** **diez días**, ampliables **hasta cinco días más** si hay dificultades especiales (salvo en procedimientos selectivos o de concurrencia competitiva). Si no se subsana, se tiene por **desistido**, previa resolución.",
+      "Si alguien **obligado** a relacionarse electrónicamente presenta su solicitud en papel, se le requiere para subsanar presentándola **electrónicamente**, y se considera fecha de presentación la de la subsanación."
+     ]
+    ],
+    [
+     "h",
+     "Declaración responsable y comunicación (art. 69)"
+    ],
+    [
+     "tabla",
+     [
+      "Concepto",
+      "Qué es"
+     ],
+     [
+      [
+       "**Declaración responsable**",
+       "Documento en el que el interesado manifiesta **bajo su responsabilidad** que **cumple los requisitos** exigidos, que **dispone de la documentación** que lo acredita, que la **pondrá a disposición** de la Administración cuando se la pida y que se compromete a **mantener** el cumplimiento."
+      ],
+      [
+       "**Comunicación**",
+       "Documento por el que los interesados ponen en conocimiento de la Administración sus **datos identificativos** u otro dato relevante para **iniciar una actividad** o ejercer un derecho."
+      ],
+      [
+       "**Efectos**",
+       "Permiten **ejercer el derecho o iniciar la actividad desde el día de su presentación**, sin perjuicio de las facultades de comprobación, control e inspección. La comunicación puede presentarse **después** del inicio si la ley lo prevé."
+      ],
+      [
+       "**Inexactitud o falsedad**",
+       "La inexactitud, falsedad u omisión **esencial** (o no presentar la declaración, la documentación requerida o la comunicación) impide **continuar** con el ejercicio del derecho o actividad desde que se tenga constancia, sin perjuicio de las responsabilidades que procedan. Solo puede exigirse **una cosa u otra** (declaración responsable **o** comunicación), no ambas."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Las medidas provisionales previas al procedimiento caen si no se inicia el procedimiento en **15 días**. La petición razonada **no vincula**. La **denuncia no da la condición de interesado**. En la subsanación, los **cinco días** de ampliación son un máximo."
     ]
    ],
    "flash": [
@@ -57,6 +183,22 @@
     [
      "¿Plazo para subsanar una solicitud defectuosa?",
      "Diez días; si no, se le tiene por desistido (art. 68.1)."
+    ],
+    [
+     "¿En cuántos días debe dictarse el acuerdo de iniciación que confirme, modifique o levante las medidas provisionales adoptadas antes del procedimiento?",
+     "Dentro de los quince días siguientes a su adopción; si no, las medidas quedan sin efecto."
+    ],
+    [
+     "¿En cuánto tiempo prescribe el derecho a reclamar por responsabilidad patrimonial?",
+     "Al año de producido el hecho o de manifestarse su efecto lesivo."
+    ],
+    [
+     "¿Cómo se diferencian la declaración responsable y la comunicación?",
+     "La declaración responsable es el compromiso bajo responsabilidad de cumplir los requisitos; la comunicación solo informa de datos de identificación u otros relevantes para iniciar una actividad."
+    ],
+    [
+     "¿Qué debe separar un procedimiento sancionador?",
+     "La fase instructora y la sancionadora, encomendadas a órganos distintos."
     ]
    ],
    "esquema": [
@@ -250,6 +392,83 @@
     [
      "trampa",
      "**Audiencia: 10 a 15 días.** **Información pública: mínimo 20 días.** **Prueba: de 10 a 30 días.** No los mezcles."
+    ],
+    [
+     "h",
+     "Expediente, impulso e incidentes (arts. 70 a 75)"
+    ],
+    [
+     "lista",
+     [
+      "El **expediente** es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución. Es **electrónico** y se forma por agregación ordenada de documentos, con un **índice numerado**. **No forma parte** del expediente la información **auxiliar o de apoyo** (notas, borradores, opiniones, resúmenes, comunicaciones e informes internos).",
+      "**Impulso (71):** de oficio y por medios electrónicos, con **celeridad**. En asuntos de naturaleza homogénea se guarda el **orden riguroso de incoación**; alterarlo exige **orden motivada**. Los titulares de las unidades y el personal son **responsables directos** del impulso.",
+      "**Concentración de trámites (72):** se acuerdan en un solo acto los trámites que admiten **impulso simultáneo**. Al pedir trámites a otros órganos se indica el **plazo legal**.",
+      "**Cumplimiento de trámites (73):** **diez días** desde el siguiente a la notificación; si un acto del interesado no reúne los requisitos, se le dan **diez días** para completarlo; si no cumple, puede **declararse decaído** en su derecho al trámite.",
+      "**Cuestiones incidentales (74):** no suspenden la tramitación, **salvo la recusación**.",
+      "**Actos de instrucción (75):** se realizan **de oficio y por medios electrónicos**; los sistemas deben garantizar el control de tiempos y plazos, la identificación de los órganos responsables y la tramitación ordenada."
+     ]
+    ],
+    [
+     "h",
+     "Alegaciones y prueba (arts. 76 a 78)"
+    ],
+    [
+     "lista",
+     [
+      "**Alegaciones (76):** en cualquier momento **anterior al trámite de audiencia**. Los interesados pueden alegar en todo momento los **defectos de tramitación**.",
+      "**Prueba (77):** cualquier medio admisible en Derecho (se valora según la Ley de Enjuiciamiento Civil). Si la Administración no tiene por ciertos los hechos alegados, el instructor abre un período de prueba de **10 a 30 días**. Solo puede **rechazar** las pruebas **improcedentes o innecesarias**, de forma motivada.",
+      "Los hechos declarados probados por **resoluciones judiciales penales firmes** **vinculan** a la Administración. Los documentos formalizados por funcionarios con **condición de autoridad** hacen **prueba** de los hechos que constatan, salvo prueba en contrario.",
+      "**Práctica (78):** se comunica a los interesados con **antelación suficiente** el inicio de las pruebas, con **lugar, fecha y hora** y la posibilidad de nombrar **técnicos**. Si la prueba pedida por el interesado supone gastos que no debe soportar la Administración, puede exigir un **anticipo**."
+     ]
+    ],
+    [
+     "h",
+     "Informes (arts. 79 a 81)"
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Carácter (80.1)**",
+       "Salvo disposición en contrario, los informes son **facultativos y no vinculantes**."
+      ],
+      [
+       "**Plazo (80.2)**",
+       "**Diez días**, por medios electrónicos, salvo que una norma permita otro plazo."
+      ],
+      [
+       "**Si no se emite (80.3)**",
+       "Se pueden **proseguir** las actuaciones, salvo que sea **preceptivo y determinante**: entonces se puede **suspender** el plazo máximo para resolver (art. 22.1.d)."
+      ],
+      [
+       "**De otra Administración (80.4)**",
+       "Si pasa el plazo sin informe, se **prosiguen las actuaciones**; el emitido **fuera de plazo** puede **no tenerse en cuenta**."
+      ],
+      [
+       "**Responsabilidad patrimonial (81)**",
+       "Informe preceptivo del servicio causante (**diez días**). Si la indemnización es de **50.000 euros o más** (o la cuantía que fije la ley autonómica), **dictamen** del Consejo de Estado u órgano consultivo autonómico, que se emite en **dos meses**; el instructor remite la propuesta en **diez días** desde el fin de la audiencia."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Audiencia e información pública (arts. 82 y 83) en detalle"
+    ],
+    [
+     "lista",
+     [
+      "**Audiencia (82):** inmediatamente **antes de la propuesta de resolución** y **antes** de pedir el informe jurídico o el dictamen del Consejo de Estado. Plazo **no inferior a 10 ni superior a 15 días**. Si el interesado dice que no alegará, se tiene por realizado el trámite. Puede **prescindirse** de ella si no hay otros hechos, alegaciones o pruebas que los aducidos por el interesado.",
+      "**Información pública (83):** la acuerda el órgano que resuelve cuando la naturaleza del procedimiento lo requiere. Se publica **anuncio** en el diario oficial; el expediente puede consultarse también en la **sede electrónica**. El plazo para alegar **no puede ser inferior a 20 días**.",
+      "**No comparecer** no impide recurrir después. **Comparecer** no da por sí solo la condición de interesado, pero quienes alegan tienen derecho a una **respuesta razonada**, que puede ser **común** para alegaciones similares."
+     ]
+    ],
+    [
+     "trampa",
+     "Prueba **10 a 30** días; audiencia **10 a 15**; información pública **mínimo 20**; informe **10 días**; dictamen del Consejo de Estado en responsabilidad patrimonial a partir de **50.000 €** y en **dos meses**."
     ]
    ],
    "flash": [
@@ -264,6 +483,22 @@
     [
      "¿Cuánto dura el período de prueba?",
      "No superior a 30 ni inferior a 10 días (art. 77.2)."
+    ],
+    [
+     "¿Qué cuestiones incidentales suspenden la tramitación del procedimiento?",
+     "Solo la recusación (art. 74)."
+    ],
+    [
+     "¿Qué vinculación tienen los informes salvo norma en contrario?",
+     "Son facultativos y no vinculantes (art. 80.1)."
+    ],
+    [
+     "¿Desde qué cuantía de indemnización es preceptivo el dictamen del Consejo de Estado en responsabilidad patrimonial?",
+     "Desde 50.000 euros (o la cuantía que fije la ley autonómica)."
+    ],
+    [
+     "¿Qué se hace si un interesado dice que no va a formular alegaciones en la audiencia?",
+     "Se tiene por realizado el trámite (art. 82.3)."
     ]
    ],
    "esquema": [
@@ -410,6 +645,132 @@
     [
      "trampa",
      "La **caducidad** exige **tres meses** de paralización **imputable al interesado**. Las resoluciones **sancionadoras** no son ejecutivas mientras quepa **recurso administrativo** (examen 2025). La tramitación simplificada: **30 días, salvo que reste menos**."
+    ],
+    [
+     "h",
+     "Terminación convencional y actuaciones complementarias (arts. 86 y 87)"
+    ],
+    [
+     "lista",
+     [
+      "**Terminación convencional (86):** las Administraciones pueden celebrar **acuerdos, pactos, convenios o contratos** con personas de Derecho público o privado, siempre que **no sean contrarios al ordenamiento**, **no versen sobre materias no susceptibles de transacción** y tengan por objeto satisfacer el **interés público**. Pueden **terminar** el procedimiento o insertarse en él **con carácter previo, vinculante o no**.",
+      "Deben fijar como mínimo las **partes**, el **ámbito personal, funcional y territorial**, y el **plazo de vigencia**; requieren la **aprobación expresa del Consejo de Ministros** (u órgano equivalente autonómico) cuando afectan a competencias resolutorias; **no alteran las competencias** de los órganos.",
+      "**Actuaciones complementarias (87):** antes de resolver, el órgano competente puede acordar, **motivadamente**, las **indispensables** para resolver. **No lo son** los informes que preceden inmediatamente a la resolución. Se **notifica** a los interesados, que tienen **siete días** para alegar; se practican en **15 días** como máximo y el plazo para resolver queda **suspendido** hasta que terminen."
+     ]
+    ],
+    [
+     "h",
+     "La resolución (arts. 88 a 92)"
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Contenido (88.1)**",
+       "Decide **todas las cuestiones planteadas** por los interesados y las **derivadas** del procedimiento. Si hay **cuestiones conexas** no planteadas, puede pronunciarse tras ponerlas de manifiesto a los interesados por un plazo **no superior a 15 días**."
+      ],
+      [
+       "**Congruencia (88.2)**",
+       "En los procedimientos a solicitud, la resolución es **congruente con las peticiones**; **no puede agravar** la situación inicial del solicitante."
+      ],
+      [
+       "**Otras reglas (88)**",
+       "Contiene la decisión, **motivada** en los casos del art. 35; indica **recursos**; la Administración **no puede abstenerse de resolver** alegando silencio, oscuridad o insuficiencia de la ley. **Aceptar informes o dictámenes** sirve de motivación. Si instruye y resuelve **no el mismo órgano**, hay **propuesta de resolución**."
+      ],
+      [
+       "**Sancionador: propuesta (89)**",
+       "El instructor **archiva sin propuesta** si no existen los hechos, no están acreditados, no constituyen infracción, no hay responsable identificado o está extinguida la responsabilidad. La propuesta fija **hechos probados, calificación, infracción, responsable y sanción**, se notifica y da **audiencia por 15 días**."
+      ],
+      [
+       "**Sancionador: resolución (90)**",
+       "Valora las pruebas y **no acepta hechos distintos** de los probados. Si ve **mayor gravedad** que la propuesta, notifica al inculpado para alegaciones en **15 días**. **No es ejecutiva** mientras quepa recurso ordinario en vía administrativa; si es ejecutiva, puede **suspenderse cautelarmente** si el interesado anuncia recurso contencioso-administrativo."
+      ],
+      [
+       "**Responsabilidad patrimonial (91 y 92)**",
+       "Tras el dictamen (o la audiencia, si no es preceptivo), se resuelve o se propone un acuerdo. Pasados **seis meses** desde el inicio sin resolución, puede entenderse que es **contraria a la indemnización**. Competencia: en la **AGE**, el **Ministro** o el **Consejo de Ministros**; en la **autonómica y local**, los órganos que correspondan."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Desistimiento, renuncia y caducidad: más detalles (arts. 94 y 95)"
+    ],
+    [
+     "lista",
+     [
+      "El interesado puede **desistir de su solicitud** o **renunciar a sus derechos** (si no está prohibido). Con varios interesados, afecta **solo a quien lo formule**. La Administración **acepta de plano** y declara concluso el procedimiento, salvo que terceros interesados insten su continuación en **diez días** o la cuestión afecte al **interés general**.",
+      "**Caducidad (95):** se advierte al interesado y, pasados **tres meses** sin actividad, se **archiva**; contra esa resolución caben recursos. La **mera inactividad** en trámites no indispensables solo hace perder el trámite. La caducidad **no produce por sí sola la prescripción**, pero los procedimientos caducados **no interrumpen** el plazo de prescripción. Puede **no aplicarse** si la cuestión afecta al interés general o conviene sustanciarla."
+     ]
+    ],
+    [
+     "h",
+     "Tramitación simplificada (art. 96) en detalle"
+    ],
+    [
+     "lista",
+     [
+      "La acuerda la Administración, de oficio o a solicitud del interesado, por **interés público o falta de complejidad**. De oficio se **notifica**, y si algún interesado **se opone expresamente**, se sigue la **tramitación ordinaria**.",
+      "Si la **pide el interesado**, el órgano puede **desestimarla en cinco días**, **sin recurso**; pasados los cinco días se entiende desestimada.",
+      "En **responsabilidad patrimonial** puede aplicarse cuando la causalidad y la cuantía son **inequívocas**; en **sancionadores**, cuando la infracción pueda calificarse como **leve** (sin oposición posible).",
+      "Plazo: **30 días** desde el día siguiente a la notificación del acuerdo, salvo que reste menos. Trámites: inicio, subsanación, **alegaciones en cinco días**, **audiencia solo si la resolución será desfavorable**, informes y dictamen preceptivos, y resolución."
+     ]
+    ],
+    [
+     "h",
+     "Ejecución de los actos (arts. 97 a 105)"
+    ],
+    [
+     "tabla",
+     [
+      "Art.",
+      "Regla"
+     ],
+     [
+      [
+       "**97**",
+       "No se inicia ninguna **actuación material de ejecución** que limite derechos sin una **resolución previa** que le sirva de fundamento; se **notifica** esa resolución."
+      ],
+      [
+       "**98**",
+       "Los actos son **inmediatamente ejecutivos**, salvo suspensión, resolución **sancionadora** con recurso en vía administrativa (incluido el de reposición), disposición en contra o necesidad de aprobación superior."
+      ],
+      [
+       "**99**",
+       "**Ejecución forzosa:** previo **apercibimiento**, salvo suspensión o cuando la ley exija la intervención de un órgano judicial."
+      ],
+      [
+       "**100**",
+       "**Medios:** **apremio sobre el patrimonio**, **ejecución subsidiaria**, **multa coercitiva** y **compulsión sobre las personas**. Siempre con **proporcionalidad** y el medio **menos restrictivo**. Para entrar en un **domicilio** hace falta consentimiento o **autorización judicial**."
+      ],
+      [
+       "**101**",
+       "**Apremio:** cantidad líquida. No se puede imponer una obligación pecuniaria sin **norma con rango de ley**."
+      ],
+      [
+       "**102**",
+       "**Subsidiaria:** actos **no personalísimos**, realizados por la Administración o quien designe **a costa del obligado**; la liquidación puede ser provisional y previa."
+      ],
+      [
+       "**103**",
+       "**Multa coercitiva:** si lo autoriza una ley, **reiterada** en el tiempo; para actos personalísimos sin compulsión, cuando la Administración no considere conveniente la compulsión o cuando el obligado pueda encargar el acto a otro. Es **independiente** de las sanciones."
+      ],
+      [
+       "**104**",
+       "**Compulsión sobre las personas:** solo en obligaciones **personalísimas de no hacer o soportar**, cuando la **ley lo autorice** y con respeto a la dignidad. En las personalísimas de hacer, se **indemniza** por daños y perjuicios."
+      ],
+      [
+       "**105**",
+       "No se admiten **acciones posesorias** contra actuaciones administrativas de su competencia y conforme al procedimiento."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "El pago voluntario en un sancionador pecuniario implica la **terminación** (con reducción de al menos el **20 %**). La resolución sancionadora **no es ejecutiva** mientras quepa recurso administrativo. La multa coercitiva **no es una sanción**."
     ]
    ],
    "flash": [
@@ -424,6 +785,22 @@
     [
      "¿Plazo de la tramitación simplificada?",
      "Treinta días, salvo que reste menos para la ordinaria (96.6)."
+    ],
+    [
+     "¿Cuántos días tienen los interesados para alegar tras unas actuaciones complementarias?",
+     "Siete días (art. 87)."
+    ],
+    [
+     "¿Qué trámites tiene el procedimiento simplificado?",
+     "Inicio, subsanación, alegaciones en 5 días, audiencia solo si es desfavorable, informes y dictamen preceptivos y resolución."
+    ],
+    [
+     "¿Cuáles son los cuatro medios de ejecución forzosa?",
+     "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas."
+    ],
+    [
+     "¿Cuándo es ejecutiva una resolución sancionadora?",
+     "Cuando no cabe contra ella ningún recurso ordinario en vía administrativa."
     ]
    ],
    "esquema": [
@@ -648,6 +1025,23 @@
         "titulo": "Si no, desistido"
        }
       ]
+     },
+     {
+      "titulo": "Medidas provisionales y formas de inicio",
+      "hijos": [
+       {
+        "titulo": "Provisionales: confirmar en 15 días (56)"
+       },
+       {
+        "titulo": "De oficio: iniciativa, orden superior, petición razonada, denuncia"
+       },
+       {
+        "titulo": "Sancionador: instructor y sancionador distintos"
+       },
+       {
+        "titulo": "DR y comunicación (69)"
+       }
+      ]
      }
     ]
    },
@@ -680,6 +1074,20 @@
        },
        {
         "titulo": "Información pública: ≥ 20 días"
+       }
+      ]
+     },
+     {
+      "titulo": "Informes y trámites",
+      "hijos": [
+       {
+        "titulo": "Informes: 10 días, no vinculantes (80)"
+       },
+       {
+        "titulo": "RP: dictamen Consejo de Estado desde 50.000 € (81)"
+       },
+       {
+        "titulo": "Cuestiones incidentales: no suspenden salvo recusación (74)"
        }
       ]
      }
@@ -719,6 +1127,20 @@
       "hijos": [
        {
         "titulo": "Inmediata, con 4 excepciones"
+       }
+      ]
+     },
+     {
+      "titulo": "Resolución, simplificada y ejecución",
+      "hijos": [
+       {
+        "titulo": "Actuaciones complementarias: 7 días (87)"
+       },
+       {
+        "titulo": "Simplificada: 30 días (96)"
+       },
+       {
+        "titulo": "Medios de ejecución forzosa (100)"
        }
       ]
      }
