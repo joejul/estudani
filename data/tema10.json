@@ -655,11 +655,1192 @@
      }
     ]
    ]
+  },
+  {
+   "id": "e4",
+   "titulo": "Marco estatal: LBRL, RBEL y Ley del Patrimonio de las Administraciones Públicas",
+   "subtitulo": "Dónde se regulan los bienes locales y cómo se clasifican",
+   "clave": [
+    "Normas: LBRL (79-83), TR/86 (74-87), RBEL (RD 1372/1986) y LPAP (Ley 33/2003)",
+    "Patrimonio local: bienes, derechos y acciones",
+    "Dominio público (uso o servicio público) y patrimoniales",
+    "Comunales: solo Municipios y entidades inferiores al municipio"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Además de la normativa aragonesa, los bienes de las Entidades Locales se regulan por: los **arts. 79 a 83 de la LBRL**, los **arts. 74 a 87 del Texto Refundido de 1986** (RDLeg 781/1986), el **Reglamento de Bienes de las Entidades Locales** (**RBEL**, Real Decreto 1372/1986, de 13 de junio) y, como punto de partida, la **Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas (LPAP)**, desarrollada por el Real Decreto 1373/2009. La LPAP desarrolla el **art. 132 CE** (administración, defensa y conservación del patrimonio)."
+    ],
+    [
+     "h",
+     "Qué es el patrimonio"
+    ],
+    [
+     "lista",
+     [
+      "**LPAP, art. 3:** el patrimonio de las Administraciones Públicas es el conjunto de **bienes y derechos**, cualquiera que sea su naturaleza y el título de su adquisición. **No incluye** el dinero, los valores, los créditos ni los demás recursos financieros de su hacienda.",
+      "**LBRL, art. 79.1 y RBEL, art. 1:** el patrimonio de las Entidades Locales es el conjunto de **bienes, derechos y acciones** que les pertenecen."
+     ]
+    ],
+    [
+     "h",
+     "Clases de bienes"
+    ],
+    [
+     "tabla",
+     [
+      "Clase",
+      "Qué es"
+     ],
+     [
+      [
+       "**Dominio público o demaniales**",
+       "LPAP, art. 5: los de titularidad pública **afectados al uso general o al servicio público** y aquellos a los que una ley dé expresamente ese carácter. Se rigen por sus leyes especiales y, en su defecto, por la LPAP; supletoriamente, el Derecho Administrativo y, en último término, el privado."
+      ],
+      [
+       "**Patrimoniales o de dominio privado**",
+       "LPAP, art. 7: los de titularidad pública que **no tienen carácter demanial**. En lo local, **bienes de propios**: no destinados a un uso o servicio público y que pueden ser **fuente de ingresos**."
+      ],
+      [
+       "**Locales (LBRL, art. 79.2 y 3)**",
+       "Son de **dominio público** o **patrimoniales**. Son de dominio público los destinados a un **uso o servicio público**, y dentro de ellos son **comunales** aquellos cuyo aprovechamiento corresponde al **común de los vecinos**."
+      ]
+     ]
+    ],
+    [
+     "tabla",
+     [
+      "Entidad",
+      "Bienes que puede tener"
+     ],
+     [
+      [
+       "**Municipio**",
+       "Dominio público (**uso público**, **servicio público** y **comunales**) y patrimoniales (**de propios**)."
+      ],
+      [
+       "**Provincia**",
+       "Dominio público (uso y servicio público) y patrimoniales. **No tiene bienes comunales** (solo Municipios y Entidades Locales Menores)."
+      ],
+      [
+       "**Entidades de ámbito territorial inferior al municipio**",
+       "Pueden tener todas las clases de bienes municipales (art. 24 bis LBRL)."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "El dominio público **local** incluye los bienes comunales (a diferencia del Reglamento de 1955, que los consideraba patrimoniales)."
+    ],
+    [
+     "trampa",
+     "Los bienes **comunales** pertenecen **solo a Municipios y a entidades inferiores al municipio** (no a las Provincias), y son de **dominio público**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué dos clases de bienes distingue el art. 2 del RBEL?",
+     "Bienes de dominio público y bienes patrimoniales."
+    ],
+    [
+     "¿Pueden las Provincias tener bienes comunales?",
+     "No: los comunales solo pueden pertenecer a Municipios y entidades locales menores."
+    ],
+    [
+     "¿Qué ley estatal es el punto de partida del régimen de los bienes de las Administraciones Públicas?",
+     "La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas (LPAP)."
+    ]
+   ],
+   "esquema": [
+    "Normas: LBRL 79-83 · TR/86 74-87 · RBEL · LPAP",
+    "Dominio público (uso, servicio y comunales) · patrimoniales (propios)",
+    "Comunales: solo municipios y entidades inferiores al municipio"
+   ],
+   "ic": "📚",
+   "articulos": [
+    [
+     "l33-2003",
+     "3",
+     "Patrimonio de las Administraciones Públicas",
+     "El patrimonio es el conjunto de **bienes y derechos** de una Administración. **No incluye** el dinero, los valores, los créditos ni los recursos financieros de su hacienda.",
+     "¿Qué recursos de la hacienda no forman parte del patrimonio de las Administraciones Públicas?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l33-2003",
+     "5",
+     "Bienes y derechos de dominio público",
+     "Son demaniales los de titularidad pública **afectados al uso general o al servicio público** y los que una ley declare demaniales. Se rigen por leyes especiales y, si faltan, por la LPAP.",
+     "¿Qué bienes son de dominio público según la LPAP?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l33-2003",
+     "7",
+     "Bienes y derechos de dominio privado",
+     "Son patrimoniales los bienes públicos que **no son demaniales**.",
+     "¿Cuáles son bienes patrimoniales según la LPAP?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "2",
+     "Clasificación de los bienes locales",
+     "Los bienes locales son de **dominio público** o **patrimoniales**; los demaniales, de **uso o servicio público**; los **comunales** son demaniales cuyo aprovechamiento corresponde al común de los vecinos, y solo de Municipios y entidades menores.",
+     "¿A qué entidades locales pueden pertenecer los bienes comunales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "3",
+     "Bienes de uso público local",
+     "Son los **caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes** y obras públicas de aprovechamiento general cuya conservación y policía son de la Entidad local.",
+     "¿Qué bienes son de uso público local?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "4",
+     "Bienes de servicio público local",
+     "Son los **destinados directamente a cumplir fines públicos** de responsabilidad de la Entidad: casas consistoriales, mercados, cementerios, piscinas, museos, etc.",
+     "¿Qué bienes son de servicio público local?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "6",
+     "Bienes patrimoniales o de propios",
+     "Son de propiedad de la Entidad pero **no están destinados a un uso o servicio público** y pueden dar ingresos. Se rigen por su legislación específica y, si no, por el Derecho privado.",
+     "¿Qué son los bienes de propios?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "7",
+     "Parcelas sobrantes y efectos no utilizables",
+     "También son patrimoniales las **parcelas sobrantes** (porciones sin uso adecuado por su extensión, forma o emplazamiento) y los **efectos no utilizables** (por deterioro o depreciación).",
+     "¿Qué se considera parcela sobrante?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e5",
+   "titulo": "Dominio público local: características y principios",
+   "subtitulo": "Inalienable, inembargable, imprescriptible y sin tributos; tipos de bienes",
+   "clave": [
+    "Inalienables, inembargables, imprescriptibles y sin tributos (80.1 LBRL y 5 RBEL)",
+    "Siete principios de la LPAP (art. 6)",
+    "Tres tipos: uso público, servicio público y comunales"
+   ],
+   "bloques": [
+    [
+     "p",
+     "El **dominio público** es el derecho de propiedad de los Entes Locales sobre ciertos bienes **sometidos a un régimen exorbitante del civil** (en su utilización y protección), por estar afectados a un **uso o servicio público**. Son **inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno** (art. 132 CE, art. 80.1 LBRL, art. 5 RBEL)."
+    ],
+    [
+     "h",
+     "Principios de gestión del dominio público (LPAP, art. 6)"
+    ],
+    [
+     "lista",
+     [
+      "**Inalienabilidad, inembargabilidad e imprescriptibilidad.**",
+      "**Adecuación y suficiencia** de los bienes para el uso o servicio al que se destinan.",
+      "**Aplicación efectiva** al uso general o al servicio público (solo excepciones por razones de interés público justificadas).",
+      "**Dedicación preferente al uso común** frente al uso privativo.",
+      "**Ejercicio diligente** de las prerrogativas para garantizar su conservación e integridad.",
+      "**Identificación y control** mediante inventarios o registros.",
+      "**Cooperación y colaboración** entre Administraciones (lealtad institucional, art. 183 LPAP)."
+     ]
+    ],
+    [
+     "h",
+     "Tipos de bienes de dominio público local"
+    ],
+    [
+     "tabla",
+     [
+      "Tipo",
+      "Ejemplos"
+     ],
+     [
+      [
+       "**Uso público** (74.1 TR/86 y 3.1 RBEL)",
+       "Caminos y carreteras, plazas, calles, paseos, parques, aguas de fuentes y estanques, canales, puentes y demás obras públicas de uso general."
+      ],
+      [
+       "**Servicio público** (74.2 TR/86 y 4 RBEL)",
+       "Casas Consistoriales y palacios provinciales, sedes de las Entidades, mataderos, mercados, lonjas, hospitales, hospicios, museos, cementerios, elementos de transporte, piscinas y campos de deporte."
+      ],
+      [
+       "**Comunales**",
+       "Bienes de dominio público cuyo aprovechamiento corresponde al común de los vecinos (epígrafe propio)."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Las siete notas del art. 6 LPAP incluyen la **dedicación preferente al uso común** (no al privativo). Las tres notas básicas del dominio público son **inalienable, inembargable e imprescriptible**, además de **exento de tributos**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué notas básicas tienen los bienes de dominio público?",
+     "Son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno."
+    ],
+    [
+     "¿Qué tres tipos de bienes de dominio público local existen?",
+     "De uso público, de servicio público y comunales."
+    ],
+    [
+     "¿Qué uso tiene preferencia, según la LPAP, el común o el privativo?",
+     "El uso común."
+    ]
+   ],
+   "esquema": [
+    "Notas del dominio público: inalienable · inembargable · imprescriptible · sin tributos",
+    "LPAP 6: adecuación · aplicación efectiva · uso común preferente · diligencia · inventario · cooperación",
+    "Tipos: uso público · servicio público · comunales"
+   ],
+   "ic": "🛡️",
+   "articulos": [
+    [
+     "l33-2003",
+     "6",
+     "Principios de gestión de los bienes demaniales",
+     "Siete principios: **inalienable, inembargable e imprescriptible**; adecuación y suficiencia; aplicación efectiva; **uso común preferente**; ejercicio diligente de prerrogativas; inventario; cooperación.",
+     "¿Qué uso se prefiere en el dominio público, el común o el privativo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "5",
+     "Inalienabilidad del dominio público",
+     "Los comunales y los demás bienes de dominio público son **inalienables, inembargables e imprescriptibles** y **no están sujetos a tributo alguno**.",
+     "¿Qué cuatro notas atribuye el art. 5 RBEL a los bienes de dominio público?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e6",
+   "titulo": "Adquisición de bienes locales (arts. 10 a 14 RBEL)",
+   "subtitulo": "Modos y requisitos de la adquisición gratuita y onerosa",
+   "clave": [
+    "Modos: ley, título oneroso, herencia, legado, donación, prescripción, ocupación",
+    "A título gratuito: sin restricción, salvo condición onerosa; herencias a beneficio de inventario",
+    "A título oneroso: informe pericial, autorización de la CCAA para valores, informe de patrimonio histórico"
+   ],
+   "bloques": [
+    [
+     "tabla",
+     [
+      "Modo",
+      "Reglas"
+     ],
+     [
+      [
+       "**Modos (art. 10)**",
+       "**Atribución de la ley**; **título oneroso** (con o sin expropiación); **herencia, legado o donación**; **prescripción**; **ocupación**; y cualquier otro modo legítimo."
+      ],
+      [
+       "**A título gratuito (art. 12)**",
+       "**Sin restricción alguna**. Si lleva aneja una **condición o modalidad onerosa**, solo se aceptan si el **valor del gravamen no excede** del de lo que se adquiere (previo expediente). La **herencia se acepta siempre a beneficio de inventario**."
+      ],
+      [
+       "**Afectación condicionada (art. 13)**",
+       "Si se adquirieron bajo condición de **afectación permanente** a un destino, se entiende **cumplida** si sirvieron a ese fin durante **treinta años**."
+      ],
+      [
+       "**A título oneroso (art. 11)**",
+       "Además de la normativa de contratación local: **inmuebles** → **informe pericial previo** y acuerdo de la Corporación; **valores mobiliarios** → **autorización de la Comunidad Autónoma**; **bienes de valor histórico o artístico** que excedan del **1 %** de los recursos ordinarios (o del límite de la contratación directa de suministros) → **informe previo** del órgano estatal o autonómico de patrimonio histórico."
+      ],
+      [
+       "**Prescripción (art. 14)**",
+       "Las Entidades locales prescriben a su favor según las leyes comunes. **Los particulares pueden prescribir a su favor los bienes patrimoniales** de las Entidades locales (no los demaniales). La **ocupación de bienes muebles** se rige por el Código Civil y leyes especiales."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "**Quién decide:** la competencia como órgano de contratación en la adquisición depende de los límites de la DA 2.ª LCSP (Alcalde: 10 % y 3 millones para contratos privados y adquisiciones patrimoniales; Pleno: el resto; gran población: Junta de Gobierno Local)."
+    ],
+    [
+     "trampa",
+     "La herencia se acepta **siempre a beneficio de inventario**. Los particulares pueden prescribir **bienes patrimoniales**, **nunca** los de dominio público."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Cómo se acepta una herencia en una Entidad local?",
+     "Siempre a beneficio de inventario."
+    ],
+    [
+     "¿Qué autorización exige la adquisición onerosa de valores mobiliarios?",
+     "La de la Comunidad Autónoma respectiva."
+    ],
+    [
+     "¿Pueden los particulares prescribir a su favor los bienes de una Entidad local?",
+     "Solo los patrimoniales, no los de dominio público."
+    ]
+   ],
+   "esquema": [
+    "Modos: ley · oneroso · herencia/legado/donación · prescripción · ocupación",
+    "Gratuita: sin restricción; condición onerosa: gravamen ≤ valor · herencia a beneficio de inventario",
+    "Onerosa: inmuebles (informe pericial) · valores (autorización CCAA) · histórico (>1 %: informe previo)"
+   ],
+   "ic": "🤝",
+   "articulos": [
+    [
+     "rb",
+     "10",
+     "Modos de adquirir bienes y derechos",
+     "Se adquiere por **ley**, a **título oneroso** (con o sin expropiación), por **herencia, legado o donación**, por **prescripción**, por **ocupación** o por otro modo legítimo.",
+     "¿Por qué modos pueden adquirir bienes las Corporaciones Locales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "11",
+     "Adquisición a título oneroso",
+     "Además de la normativa de contratación: **informe pericial** si es inmueble y **informe del órgano de patrimonio histórico** si es un bien histórico o artístico que exceda del **1 %** de los recursos ordinarios.",
+     "¿Qué informe previo exige comprar un inmueble?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "12",
+     "Adquisición a título gratuito",
+     "**Sin restricciones**, salvo si lleva condición onerosa: solo se acepta si el gravamen **no excede el valor** de lo adquirido. Las herencias, **a beneficio de inventario**.",
+     "¿Cómo se acepta una herencia según el RBEL?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "13",
+     "Afectación a un destino durante treinta años",
+     "Si un bien adquirido con condición de afectación permanente sirvió a ese destino **treinta años**, la condición se entiende **cumplida**.",
+     "¿Cuántos años de afectación dan por cumplida la condición de destino?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "14",
+     "Prescripción y ocupación",
+     "Las Entidades locales prescriben a su favor según las leyes comunes. Los **particulares pueden prescribir los bienes patrimoniales** de las Entidades locales.",
+     "¿Qué bienes locales pueden prescribir los particulares?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e7",
+   "titulo": "Utilización de los bienes de dominio público",
+   "subtitulo": "Uso común general y especial, uso privativo, uso normal y anormal",
+   "clave": [
+    "Sin título, nadie ocupa el dominio público (art. 84 LPAP)",
+    "Uso común general: libre; especial: licencia",
+    "Uso privativo y uso anormal: concesión administrativa",
+    "Los bienes de servicio público: orden administrativo interno"
+   ],
+   "bloques": [
+    [
+     "p",
+     "**Regla de partida (art. 84 LPAP):** nadie puede, **sin título** otorgado por la autoridad competente, ocupar bienes de dominio público ni utilizarlos más allá del derecho de uso general. Las autoridades deben vigilarlo y actuar contra quienes ocupen sin título. Las concesiones y autorizaciones se rigen primero por la **legislación especial** y, si faltan normas o son insuficientes, por la **LPAP**."
+    ],
+    [
+     "p",
+     "La **utilización de los bienes de servicio público** (por ejemplo, el uso del Ayuntamiento de sus propias Casas Consistoriales) es una cuestión de **orden administrativo interno** que no crea relaciones jurídicas con los administrados; el art. 74.2 RBEL remite al **Reglamento de Servicios** y aplica el RBEL de forma subsidiaria."
+    ],
+    [
+     "tabla",
+     [
+      "Uso",
+      "Qué es",
+      "Título necesario"
+     ],
+     [
+      [
+       "**Común general**",
+       "Corresponde por igual a todos los ciudadanos, sin cualificación especial (parques, vías públicas, circulación). Se usa **libremente** según la naturaleza del bien.",
+       "Ninguno."
+      ],
+      [
+       "**Común especial**",
+       "Concurren circunstancias singulares (**peligrosidad o intensidad**) que colocan al usuario en situación distinta. **Nadie tiene derecho** a él; hace falta un **acto de tolerancia** de la Administración (veladores, comercio ambulante).",
+       "**Licencia** (art. 77.1 RBEL)."
+      ],
+      [
+       "**Privativo**",
+       "**Ocupación de una parte** del dominio público que **limita o excluye** el uso de los demás (aprovechamientos de aguas, concesiones mineras).",
+       "**Concesión administrativa** (arts. 78 a 91 RBEL)."
+      ],
+      [
+       "**Normal**",
+       "El **conforme con el destino** del bien (art. 75.3 RBEL).",
+       "Según el caso."
+      ],
+      [
+       "**Anormal**",
+       "El **no conforme** con ese destino (por ejemplo, una canalización en la vía pública).",
+       "**Concesión administrativa** (art. 78.1 RBEL)."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Licencias y concesiones (arts. 77 y 78 RBEL)"
+    ],
+    [
+     "lista",
+     [
+      "Las **licencias** se otorgan **directamente**, salvo que se limite su número: entonces por **licitación** y, si no es posible, por **sorteo**.",
+      "**No son transmisibles** las licencias que se refieran a cualidades personales del sujeto o cuyo número esté limitado; las demás, según las Ordenanzas.",
+      "Las **concesiones** se otorgan **previa licitación**, conforme a la normativa de contratación de las Corporaciones locales."
+     ]
+    ],
+    [
+     "trampa",
+     "**Uso privativo** y **uso anormal** → **concesión**. **Uso común especial normal** → **licencia**. El uso común general no necesita título."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué título exige el uso común especial normal de un bien de dominio público?",
+     "Licencia (art. 77.1 RBEL)."
+    ],
+    [
+     "¿Qué títulos exigen el uso privativo y el uso anormal?",
+     "Concesión administrativa."
+    ],
+    [
+     "¿Cómo se otorgan las licencias cuando su número está limitado?",
+     "Por licitación y, si no es posible, por sorteo."
+    ]
+   ],
+   "esquema": [
+    "Común general: libre · especial: licencia · privativo: concesión",
+    "Normal: conforme al destino · anormal: concesión",
+    "Servicios públicos: orden administrativo interno"
+   ],
+   "ic": "🚏",
+   "articulos": [
+    [
+     "l33-2003",
+     "84",
+     "Utilización de bienes de dominio público",
+     "Nadie puede ocupar bienes demaniales ni usarlos más allá del derecho general **sin título** otorgado por la autoridad competente. Las autoridades deben **vigilarlo** y actuar contra la ocupación sin título.",
+     "¿Puede alguien ocupar un bien de dominio público sin título habilitante?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "77",
+     "Uso común especial: licencias",
+     "El **uso común especial normal** se sujeta a **licencia**. Se dan **directamente**; si se limita su número, por **licitación** o, si no es posible, por **sorteo**. No son transmisibles las personales o las de número limitado.",
+     "¿Cómo se otorgan las licencias cuyo número está limitado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "78",
+     "Concesiones administrativas",
+     "Requieren **concesión administrativa** el **uso privativo** y el **uso anormal** de los bienes de dominio público; se otorgan **previa licitación**.",
+     "¿Qué usos de los bienes de dominio público requieren concesión?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e8",
+   "titulo": "Alteración de la calificación y enajenación de bienes demaniales",
+   "subtitulo": "Desafectación, alteración automática y mayoría absoluta",
+   "clave": [
+    "Para enajenar o gravar: antes, desafectar",
+    "Alteración: expediente, información pública de un mes y mayoría absoluta",
+    "Alteración automática: planes y proyectos, 25 años, usucapión",
+    "Enajenación: mayoría absoluta si supera el 20 % de los recursos ordinarios"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Mientras conserven su carácter, los bienes de dominio público y comunales son **inalienables, imprescriptibles e inembargables**. Para poder **enajenarlos** o **gravarlos** hay que **desafectarlos** antes (del uso o servicio público o del aprovechamiento comunal) mediante un expediente de **alteración de la calificación jurídica**."
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Alteración expresa (art. 8 RBEL; 81 LBRL)**",
+       "**Expediente** que acredite **oportunidad y legalidad**, **información pública de un mes** y **acuerdo del Pleno** por **mayoría absoluta del número legal** de miembros."
+      ],
+      [
+       "**Alteración automática**",
+       "**a)** **Aprobación definitiva** de los planes de ordenación urbana y de los proyectos de obras y servicios; **b)** **adscripción** de bienes patrimoniales a un uso o servicio público o comunal durante **más de veinticinco años**; **c)** cuando la Entidad **adquiere por usucapión** el dominio de una cosa que venía destinada a uso o servicio público o comunal."
+      ],
+      [
+       "**Enajenación**",
+       "Se exige el acuerdo de la **mayoría absoluta** del número legal cuando la **cuantía exceda del 20 %** de los recursos ordinarios del presupuesto (arts. 47.2.m LBRL y 114 RBEL)."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "La **alteración expresa** exige **mayoría absoluta** y un mes de **información pública**. En el **caso de la alteración automática** no hace falta acuerdo: bastan la aprobación del plan o proyecto, los **25 años** o la usucapión."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué mayoría exige la alteración de la calificación jurídica de un bien local?",
+     "Mayoría absoluta del número legal de miembros de la Corporación, previa información pública de un mes."
+    ],
+    [
+     "¿Cuántos años de adscripción de un bien patrimonial a un uso público alteran automáticamente su calificación?",
+     "Más de veinticinco años."
+    ],
+    [
+     "¿Qué debe hacerse antes de enajenar un bien de dominio público?",
+     "Desafectarlo mediante un expediente de alteración de su calificación jurídica."
+    ]
+   ],
+   "esquema": [
+    "Alterar: expediente · información pública 1 mes · mayoría absoluta del Pleno",
+    "Automática: planes y proyectos · >25 años · usucapión",
+    "Enajenar: mayoría absoluta si > 20 % de recursos ordinarios"
+   ],
+   "ic": "🔄",
+   "articulos": [
+    [
+     "rb",
+     "8",
+     "Alteración de la calificación jurídica de los bienes locales",
+     "Requiere **expediente** de oportunidad y legalidad, **información pública de un mes** y **acuerdo por mayoría absoluta** del número legal de miembros de la Corporación.",
+     "¿Qué mayoría exige la alteración de la calificación jurídica de un bien local?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e9",
+   "titulo": "Defensa del patrimonio: inventario, registro y potestades",
+   "subtitulo": "Deber de defensa, deslinde, recuperación, investigación, desahucio y sanciones",
+   "clave": [
+    "Inventario valorado, rectificado cada año y cuando se renueva la Corporación",
+    "Registro de la Propiedad: certificación del Secretario con el visto bueno del Alcalde",
+    "Deslinde, recuperación de oficio, investigación y desahucio (art. 41 LPAP)",
+    "Recuperación de patrimoniales: un año"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Las Administraciones deben **proteger y defender** su patrimonio: protegerlo, procurar su **inscripción registral** y ejercer las **potestades y acciones** que procedan (art. 28 LPAP). Las Entidades Locales están obligadas a **ejercer las acciones necesarias** para defender sus bienes y derechos (arts. 68 LBRL y 9 RBEL)."
+    ],
+    [
+     "h",
+     "Quién acuerda las acciones y qué pasa si no se ejercen"
+    ],
+    [
+     "lista",
+     [
+      "Las acuerda el **Presidente** o el **Pleno** (o la **Junta de Gobierno Local** en gran población), según sus competencias, o el Alcalde en caso de urgencia (dando cuenta al Pleno), **previo dictamen** del Secretario o la Asesoría Jurídica o, en su defecto, de un Letrado.",
+      "Si no lo hacen, **cualquier vecino** en pleno goce de sus derechos puede **requerirlas** a la Entidad. El requerimiento **suspende el plazo** por **30 días hábiles**; pasado ese plazo sin acuerdo, el vecino puede ejercitar la acción en nombre de la Entidad, con derecho a que se le **reembolsen las costas** y se le indemnicen los daños si prospera.",
+      "Las Entidades Locales **no pueden allanarse** a demandas que afecten al dominio y demás derechos reales de su patrimonio (art. 73 RBEL)."
+     ]
+    ],
+    [
+     "h",
+     "Inventario y registro"
+    ],
+    [
+     "lista",
+     [
+      "**Inventario (art. 17 RBEL; 86 TR/86; 32 LPAP):** las Corporaciones forman **inventario valorado** de todos sus bienes y derechos, con **copia** a la Administración del Estado y a la de la Comunidad Autónoma. Se **rectifica anualmente** y se **comprueba siempre que se renueve la Corporación** (arts. 31 y 33 RBEL).",
+      "**Registro (art. 36 RBEL; 85 TR/86; 36 LPAP):** deben **inscribir en el Registro de la Propiedad** sus inmuebles y derechos reales. Basta la **certificación del Secretario**, con el **visto bueno del Alcalde o Presidente**, sobre el inventario aprobado, que produce los efectos de una **escritura pública**."
+     ]
+    ],
+    [
+     "h",
+     "Potestades de defensa (art. 41 LPAP)"
+    ],
+    [
+     "tabla",
+     [
+      "Potestad",
+      "Regla"
+     ],
+     [
+      [
+       "**Deslinde (art. 50 LPAP; arts. 56-69 RBEL)**",
+       "Cuando los límites con terceros son **imprecisos** o hay **indicios de usurpación**. Iniciado el procedimiento no puede instarse uno **judicial** con igual pretensión. El acuerdo es **ejecutivo** y **solo puede impugnarse en vía contencioso-administrativa** (sin perjuicio de que los lesionados acudan a la jurisdicción ordinaria)."
+      ],
+      [
+       "**Recuperación de oficio (art. 55 LPAP; 70 RBEL; 82 LBRL)**",
+       "De la posesión indebidamente perdida. Bienes **demaniales**: **en cualquier tiempo**. Bienes **patrimoniales**: el procedimiento debe **notificarse antes de que pase un año** desde el día siguiente a la usurpación; después, hay que acudir a la jurisdicción **civil**."
+      ],
+      [
+       "**Investigación (art. 45 LPAP; arts. 47-55 RBEL)**",
+       "Para determinar la **titularidad** de bienes que presumiblemente son de la Entidad. Se acuerda de oficio, a iniciativa de otra Administración o por **denuncia** de particulares."
+      ],
+      [
+       "**Desahucio administrativo (art. 58 LPAP; arts. 120-135 RBEL)**",
+       "Recuperar en vía administrativa la posesión de **bienes demaniales** cuando **decae** el título que legitimaba su ocupación. Se hace **por vía administrativa**, con o sin indemnización según proceda."
+      ],
+      [
+       "**Sancionadora (art. 44.2 RBEL)**",
+       "Pueden establecer e imponer **sanciones** conforme a la normativa sectorial."
+      ]
+     ]
+    ],
+    [
+     "p",
+     "Las cuestiones **civiles** que surjan por el ejercicio de estas potestades las resuelven los órganos de la jurisdicción civil. Las entidades públicas empresariales solo pueden ejercer las potestades para defender bienes **demaniales**."
+    ],
+    [
+     "trampa",
+     "**Recuperación:** los bienes **demaniales** en **cualquier tiempo**; los **patrimoniales** en **un año**. El **deslinde** se impugna solo en lo **contencioso**. El requerimiento de un vecino suspende el plazo **30 días hábiles**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿En cuánto tiempo hay que notificar el inicio de la recuperación de oficio de un bien patrimonial?",
+     "Antes de que transcurra un año desde el día siguiente al de la usurpación."
+    ],
+    [
+     "¿Qué vale la certificación del Secretario con el visto bueno del Alcalde para inscribir bienes en el Registro?",
+     "Produce los mismos efectos que una escritura pública."
+    ],
+    [
+     "¿Cuántos días hábiles suspende el requerimiento de un vecino el plazo para ejercer las acciones?",
+     "Treinta días hábiles."
+    ],
+    [
+     "¿Cómo se impugna el acuerdo de deslinde?",
+     "Solo en vía contencioso-administrativa."
+    ]
+   ],
+   "esquema": [
+    "Inventario valorado: copia a Estado y CCAA · se rectifica cada año y al renovarse la Corporación",
+    "Registro: certificación del Secretario + V.º B.º del Alcalde = escritura pública",
+    "Potestades: deslinde · recuperación (demanial: siempre; patrimonial: 1 año) · investigación · desahucio · sanción"
+   ],
+   "ic": "🔐",
+   "articulos": [
+    [
+     "l33-2003",
+     "41",
+     "Facultades y prerrogativas de defensa",
+     "Para defender su patrimonio las Administraciones pueden **investigar** la situación de los bienes, **deslindar**, **recuperar de oficio** la posesión y **desahuciar en vía administrativa** los inmuebles demaniales.",
+     "¿Qué cuatro potestades enumera el art. 41 LPAP?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l33-2003",
+     "55",
+     "Recuperación de oficio",
+     "Las Administraciones recuperan por sí mismas la posesión perdida: los bienes **demaniales** en **cualquier tiempo**; los **patrimoniales**, si el procedimiento se notifica **dentro del año** siguiente a la usurpación.",
+     "¿Qué plazo hay para recuperar de oficio un bien patrimonial usurpado?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l33-2003",
+     "50",
+     "Deslinde",
+     "Se puede **deslindar** cuando los límites son **imprecisos** o hay indicios de **usurpación**. Mientras dure el deslinde administrativo no puede instarse uno judicial con la misma pretensión.",
+     "¿Cuándo pueden las Administraciones deslindar sus inmuebles?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l33-2003",
+     "45",
+     "Investigación",
+     "Facultad de **investigar** la situación de bienes que presumiblemente son de la Administración para determinar su titularidad cuando no le conste de modo cierto.",
+     "¿Para qué sirve la potestad de investigación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "l33-2003",
+     "58",
+     "Desahucio administrativo",
+     "Permite recuperar en vía administrativa la posesión de **bienes demaniales** cuando **decaen o desaparecen** el título o las condiciones que legitimaban su ocupación.",
+     "¿Qué bienes pueden recuperarse mediante desahucio administrativo?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "9",
+     "Capacidad jurídica y defensa de los bienes",
+     "Las Entidades locales tienen capacidad jurídica plena y la **obligación de ejercer las acciones** necesarias para defender sus bienes; los acuerdos los toma el Presidente o el Pleno, previo dictamen del Secretario o Asesoría.",
+     "¿Quién debe emitir dictamen previo al acuerdo de ejercer acciones de defensa?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "17",
+     "Inventario de bienes y derechos",
+     "Las Corporaciones están **obligadas a formar inventario** de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición; también de los entes con personalidad propia que dependen de ellas.",
+     "¿Qué obligación impone el art. 17 RBEL a las Corporaciones locales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "36",
+     "Inscripción en el Registro de la Propiedad",
+     "Las Corporaciones **inscriben sus inmuebles y derechos reales**; basta la **certificación del Secretario con el visto bueno del Presidente** sobre el inventario aprobado.",
+     "¿Qué documento basta para inscribir un bien local en el Registro de la Propiedad?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e10",
+   "titulo": "Los bienes comunales: aprovechamiento, cesión y pérdida",
+   "subtitulo": "Arts. 94 a 108 RBEL",
+   "clave": [
+    "Comunales típicos y atípicos (montes vecinales en mano común)",
+    "Derecho de los vecinos sin distinción de sexo, estado civil o edad; extranjeros domiciliados",
+    "Régimen común; lotes o suertes; subasta o adjudicación directa",
+    "Cesión y pérdida del carácter comunal: mayoría absoluta"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Son **comunales** los bienes de **dominio público** cuyo aprovechamiento corresponde al **común de los vecinos**; solo pertenecen a **Municipios y entidades inferiores al municipio**. La doctrina distingue **comunales típicos** (regulados por la LBRL y el RBEL) y **atípicos** (regulados por leyes especiales o la costumbre; sobre todo los **montes vecinales en mano común**)."
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Quién disfruta (art. 103)**",
+       "El aprovechamiento corresponde **simultáneamente a los vecinos, sin distinción de sexo, estado civil o edad**. Los **extranjeros domiciliados** en el término también tienen estos derechos."
+      ],
+      [
+       "**Régimen general (arts. 94 y 96)**",
+       "**Explotación común o cultivo colectivo**: disfrute general y simultáneo por quienes sean vecinos en cada momento."
+      ],
+      [
+       "**Si no es posible (art. 94)**",
+       "**a)** **Aprovechamiento peculiar** (costumbre, reglamentación local o normas sectoriales); **b)** **lotes o suertes** a los vecinos; **c)** **adjudicación mediante precio**."
+      ],
+      [
+       "**Lotes o suertes (art. 97)**",
+       "En proporción **directa al número de personas a cargo** e **inversa a la situación económica**. No se paga contraprestación, salvo **casos extraordinarios**: cuota anual con **mayoría absoluta** del número legal para compensar los gastos de custodia, conservación y administración (art. 99)."
+      ],
+      [
+       "**Adjudicación mediante precio (art. 98)**",
+       "Autorizada por la **Comunidad Autónoma**; **subasta pública** con **preferencia de los vecinos** en igualdad de condiciones; si no hay licitadores, **adjudicación directa**. El producto se destina a servicios en beneficio de los aprovechantes; la Corporación **no puede detraer más del 5 %**."
+      ],
+      [
+       "**Quién decide**",
+       "La modalidad de aprovechamiento y su regulación corresponden al **Pleno**."
+      ],
+      [
+       "**Cesión (art. 102)**",
+       "La cesión **por cualquier título** del aprovechamiento la acuerda el **Pleno** con **mayoría absoluta** del número legal."
+      ],
+      [
+       "**Pérdida del carácter comunal (art. 100)**",
+       "Si **durante más de diez años** no han sido disfrutados (aunque haya habido un acto aislado de aprovechamiento), pueden perder la condición por **acuerdo de la Corporación** con **información pública**, **mayoría absoluta** y **aprobación de la Comunidad Autónoma**. Si pasan a ser patrimoniales, se arriendan para **aprovechamiento agrícola** con **preferencia de los vecinos**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "Los comunales **no se disfrutan solo por vecinos varones ni mayores de edad**: el derecho corresponde a los vecinos **sin distinción de sexo, estado civil o edad**. La pérdida del carácter comunal exige **más de diez años** sin disfrute, **mayoría absoluta** y **aprobación de la Comunidad Autónoma**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué régimen es el general de aprovechamiento de los bienes comunales?",
+     "Explotación común o cultivo colectivo, con disfrute general y simultáneo por los vecinos."
+    ],
+    [
+     "¿En qué proporción se adjudican los lotes o suertes?",
+     "Directa al número de personas a cargo e inversa a la situación económica."
+    ],
+    [
+     "¿Cuánto tiempo sin disfrute permite que un bien pierda su carácter comunal?",
+     "Más de diez años, con información pública, mayoría absoluta y aprobación de la Comunidad Autónoma."
+    ],
+    [
+     "¿Quién decide la modalidad de aprovechamiento de los comunales?",
+     "El Pleno."
+    ]
+   ],
+   "esquema": [
+    "Típicos (LBRL, RBEL) y atípicos (montes vecinales en mano común)",
+    "Régimen común → lotes o suertes → subasta/adjudicación directa · máximo 5 % detraíble",
+    "Cesión: Pleno y mayoría absoluta · pérdida: +10 años, información pública, mayoría absoluta y CCAA"
+   ],
+   "ic": "🌾",
+   "articulos": [
+    [
+     "rb",
+     "94",
+     "Formas de aprovechamiento de los bienes comunales",
+     "Primero **explotación común o cultivo colectivo**; si es impracticable, **aprovechamiento peculiar** o **lotes o suertes**; y, si no es posible, **adjudicación mediante precio**.",
+     "¿Cuál es el régimen preferente de aprovechamiento de los comunales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "97",
+     "Adjudicación por lotes o suertes",
+     "Se adjudican a los vecinos en proporción **directa al número de personas a su cargo** e **inversa a su situación económica**.",
+     "¿Con qué criterios se adjudican los lotes o suertes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "98",
+     "Adjudicación mediante precio",
+     "Autorizada por la **Comunidad Autónoma**; **subasta pública con preferencia de los vecinos postores**; sin licitadores, adjudicación **directa**. El producto se destina a servicios; no se detrae más del **5 %**.",
+     "¿Qué porcentaje máximo del producto puede detraer la Corporación?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "99",
+     "Cuota anual por los lotes",
+     "En **casos extraordinarios**, con **mayoría absoluta** del número legal, se puede fijar una **cuota anual** para compensar los gastos de custodia, conservación y administración.",
+     "¿Qué mayoría exige fijar una cuota anual por los lotes comunales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "100",
+     "Pérdida del carácter comunal",
+     "Tras **más de diez años** sin disfrute comunal, pueden dejar de ser comunales por acuerdo con **información pública**, **mayoría absoluta** y **aprobación de la Comunidad Autónoma**.",
+     "¿Cuántos años sin disfrute permiten desproveer a un bien de su carácter comunal?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "102",
+     "Cesión del aprovechamiento",
+     "La cesión del aprovechamiento de bienes comunales por cualquier título la acuerda el **Pleno** con **mayoría absoluta** del número legal.",
+     "¿Qué órgano acuerda la cesión del aprovechamiento comunal?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "103",
+     "Quién tiene derecho al aprovechamiento",
+     "Corresponde simultáneamente a los **vecinos, sin distinción de sexo, estado civil o edad**; también a los **extranjeros domiciliados** en el término.",
+     "¿Pueden aprovechar los comunales los extranjeros domiciliados en el término municipal?",
+     {
+      "add": 1
+     }
+    ]
+   ]
+  },
+  {
+   "id": "e11",
+   "titulo": "Bienes patrimoniales: enajenación, cesión, administración y uso",
+   "subtitulo": "Arts. 92 y 109 a 116 RBEL; arts. 106 a 110 LPAP",
+   "clave": [
+    "Enajenación: subasta pública como regla; permuta con diferencia máxima del 40 %",
+    "Comunicación a la CCAA y autorización si supera el 25 %",
+    "Cesión gratuita: mayoría absoluta; fines en 5 años y destino 30 años",
+    "Arrendamiento: subasta si más de 5 años o 5 % de recursos; canon mínimo 6 %"
+   ],
+   "bloques": [
+    [
+     "p",
+     "Los bienes patrimoniales se gestionan según los principios del **art. 8 LPAP**: **eficiencia y economía** en la gestión; **eficacia y rentabilidad** en la explotación; **publicidad, transparencia, concurrencia y objetividad** en la adquisición, explotación y enajenación; **identificación y control** con inventarios o registros; y **colaboración** entre Administraciones. Además, su gestión debe contribuir a las **políticas públicas**, en particular a la de **vivienda**."
+    ],
+    [
+     "h",
+     "Enajenación"
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Regla general (art. 112 RBEL)**",
+       "**Subasta pública**. Excepción: **permuta con otros bienes inmuebles**, previo expediente que acredite la **necesidad** y que la **diferencia de valor** no supera el **40 %** del bien de mayor valor."
+      ],
+      [
+       "**Mayoría (47.2.m LBRL)**",
+       "**Mayoría absoluta** del número legal si la cuantía supera el **20 %** de los recursos ordinarios del presupuesto."
+      ],
+      [
+       "**Comunidad Autónoma (art. 109)**",
+       "Toda **enajenación, gravamen o permuta de inmuebles** se **comunica** al órgano competente de la Comunidad Autónoma. Si el valor **excede del 25 %** de los recursos ordinarios del presupuesto anual, además requiere su **autorización**."
+      ],
+      [
+       "**Patrimonio histórico o artístico**",
+       "Para enajenar o gravar monumentos, edificios u objetos artísticos o históricos hace falta **informe previo** del órgano estatal o autonómico de patrimonio."
+      ],
+      [
+       "**Parcelas sobrantes (art. 115)**",
+       "Se enajenan por **venta directa** a los **propietarios colindantes** o se **permutan** por terrenos suyos. Si son varios, de forma que las parcelas resultantes se ajusten al criterio más racional de ordenación del suelo (dictamen técnico). Si algún colindante se niega a adquirir, la Corporación puede **expropiar** su terreno."
+      ],
+      [
+       "**Derecho de adquisición preferente**",
+       "Si se desafecta un bien que estaba en concesión y se vende, el **último concesionario** tiene **derecho preferente de adquisición directa**, sin subasta (art. 3.4 TRLRHL), salvo que la legislación autonómica diga otra cosa."
+      ]
+     ]
+    ],
+    [
+     "h",
+     "Cesión gratuita"
+    ],
+    [
+     "lista",
+     [
+      "Requiere acuerdo con **mayoría absoluta** del número legal, previo expediente (art. 110 RBEL).",
+      "Los inmuebles patrimoniales **solo pueden cederse gratuitamente** a **Entidades o Instituciones públicas** para fines que beneficien a los habitantes del término, y a **instituciones privadas de interés público sin ánimo de lucro**, dando cuenta a la Comunidad Autónoma.",
+      "Salvo que se estipule otra cosa, la cesión queda sujeta a que los **fines se cumplan en cinco años** y el **destino se mantenga al menos treinta años**; si no, los bienes **revierten** a la Corporación (con indemnización por los detrimentos).",
+      "**No son enajenación ni gravamen** (art. 116) las cesiones de parcelas a **vecinos jornaleros** (aunque duren más de diez años) ni las cesiones a vecinos para **plantar arbolado** en terrenos no catalogados de utilidad pública; las acuerda el **Pleno** con mayoría absoluta.",
+      "Los **particulares pueden prescribir** a su favor bienes patrimoniales (art. 14.1 RBEL)."
+     ]
+    ],
+    [
+     "h",
+     "Administración, uso y aprovechamiento"
+    ],
+    [
+     "tabla",
+     [
+      "Tema",
+      "Regla"
+     ],
+     [
+      [
+       "**Explotación (LPAP, arts. 106 y 107)**",
+       "Puede hacerse mediante **cualquier negocio jurídico**, típico o atípico. Los contratos de explotación se adjudican por **concurso**, salvo **adjudicación directa** justificada (peculiaridades del bien, limitación de la demanda, urgencia o singularidad de la operación)."
+      ],
+      [
+       "**Régimen jurídico (LPAP, art. 110)**",
+       "Preparación y adjudicación: la **LPAP** y, en su defecto, la **legislación de contratos**. Efectos y extinción: la **LPAP** y el **Derecho privado**."
+      ],
+      [
+       "**Valores mobiliarios (art. 37 RBEL)**",
+       "Se custodian en la **caja de caudales** bajo responsabilidad de los **tres claveros**: el **Presidente** (ordenador de pagos), el **Interventor** y el **Tesorero**. El Pleno puede acordar su depósito en establecimientos bancarios con intervención del Estado."
+      ],
+      [
+       "**Arrendamiento (art. 92 RBEL)**",
+       "Se rige por la normativa de contratación local. **Subasta obligatoria** si la cesión dura **más de cinco años** o el precio **excede del 5 %** de los recursos ordinarios. El usuario paga un **canon no inferior al 6 %** del valor en venta."
+      ],
+      [
+       "**Viviendas del personal**",
+       "La Corporación pone fin a la ocupación (por **desahucio administrativo** y sin indemnización, trámites de los arts. 130 a 132 RBEL) si el empleado lleva **dos años en excedencia voluntaria** sin pedir el reingreso, si se extingue su relación de empleo o si se extingue el título de cesión."
+      ],
+      [
+       "**Cuentas (art. 43 RBEL)**",
+       "Las cuentas de administración del patrimonio se forman, rinden y fiscalizan según la legislación de **Haciendas Locales**."
+      ]
+     ]
+    ],
+    [
+     "trampa",
+     "**Permuta:** diferencia de valor de **hasta el 40 %**. **Autorización de la CCAA:** más del **25 %**. **Mayoría absoluta:** más del **20 %**. **Subasta del arrendamiento:** más de **5 años** o más del **5 %**; canon **mínimo del 6 %**. Los valores los custodian los **tres claveros**."
+    ]
+   ],
+   "flash": [
+    [
+     "¿Qué diferencia de valor máxima admite la permuta de bienes inmuebles patrimoniales sin subasta?",
+     "El 40 % del valor del bien de mayor valor."
+    ],
+    [
+     "¿A partir de qué porcentaje de los recursos ordinarios hace falta autorización de la Comunidad Autónoma para enajenar un inmueble patrimonial?",
+     "Cuando excede del 25 %."
+    ],
+    [
+     "¿Quiénes son los tres claveros que custodian los valores mobiliarios?",
+     "El Presidente de la Corporación (ordenador de pagos), el Interventor y el Tesorero."
+    ],
+    [
+     "¿Cuándo es obligatoria la subasta en el arrendamiento de bienes patrimoniales?",
+     "Si la cesión dura más de cinco años o el precio excede del 5 % de los recursos ordinarios del presupuesto."
+    ]
+   ],
+   "esquema": [
+    "Enajenar: subasta · permuta ≤ 40 % · mayoría absoluta > 20 % · comunicar a CCAA y autorizar > 25 %",
+    "Cesión gratuita: mayoría absoluta · fines en 5 años y destino 30 años · solo entidades públicas o privadas de interés público sin ánimo de lucro",
+    "Arrendar: subasta si > 5 años o > 5 % · canon ≥ 6 % · valores: tres claveros"
+   ],
+   "ic": "💼",
+   "articulos": [
+    [
+     "l33-2003",
+     "8",
+     "Principios de gestión de los bienes patrimoniales",
+     "Eficiencia y economía; eficacia y rentabilidad; **publicidad, transparencia, concurrencia y objetividad**; identificación y control; colaboración; y apoyo a las políticas públicas, sobre todo la de vivienda.",
+     "¿Qué principios de publicidad y concurrencia rigen la gestión de los bienes patrimoniales?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "37",
+     "Custodia de valores mobiliarios",
+     "Se guardan en la **caja de caudales** bajo la responsabilidad de los **tres claveros** (Presidente, Interventor y Tesorero); el Pleno puede acordar su depósito en bancos con intervención del Estado.",
+     "¿Quiénes son los tres claveros?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "92",
+     "Arrendamiento y cesión de uso de bienes patrimoniales",
+     "Se rige por la contratación local. **Subasta** si dura **más de cinco años** o el precio excede del **5 %** de los recursos ordinarios. **Canon no inferior al 6 %** del valor en venta.",
+     "¿Qué canon mínimo debe pagar el usuario de un bien patrimonial cedido en arrendamiento?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "109",
+     "Enajenación de inmuebles patrimoniales: comunicación y autorización",
+     "Se **comunica** a la Comunidad Autónoma toda enajenación de inmuebles; **autorización** si el valor excede del **25 %** de los recursos ordinarios. Las cesiones gratuitas solo a entidades públicas o instituciones privadas de interés público sin lucro.",
+     "¿A partir de qué valor requiere autorización de la CCAA la enajenación de un inmueble patrimonial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "110",
+     "Cesión gratuita de bienes",
+     "Requiere acuerdo con **mayoría absoluta** del número legal y un expediente que justifique el **carácter público** del cesionario y que los fines redundan en beneficio de los habitantes. Los fines deben cumplirse en **cinco años** y mantenerse **treinta**.",
+     "¿En cuántos años deben cumplirse los fines de una cesión gratuita?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "112",
+     "Enajenación de bienes patrimoniales",
+     "Se rige por la contratación local; **subasta pública** salvo **permuta** con bienes inmuebles si se acredita la necesidad y la diferencia de valor **no supera el 40 %**.",
+     "¿Cuándo no es necesaria la subasta para enajenar un bien patrimonial?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "115",
+     "Enajenación de parcelas sobrantes",
+     "Se enajenan por **venta directa a los propietarios colindantes** o se permutan con terrenos suyos; si alguno se niega a adquirir, la Corporación puede **expropiarle** su terreno.",
+     "¿A quién se enajenan las parcelas sobrantes?",
+     {
+      "add": 1
+     }
+    ],
+    [
+     "rb",
+     "116",
+     "Cesiones que no son enajenación",
+     "No implican enajenación ni gravamen las cesiones de parcelas a **vecinos jornaleros** (aunque el disfrute dure más de diez años) ni a vecinos para **plantar arbolado**; las acuerda el Pleno con **mayoría absoluta**.",
+     "¿Qué cesiones a vecinos no se consideran enajenación ni gravamen?",
+     {
+      "add": 1
+     }
+    ]
+   ]
   }
  ],
  "mapa": {
   "titulo": "Bienes de las entidades locales",
   "ramas": [
+   {
+    "titulo": "Marco estatal y clases de bienes",
+    "color": "#9b5de5",
+    "hijos": [
+     {
+      "titulo": "LBRL 79-83 · TR/86 · RBEL · LPAP (Ley 33/2003)"
+     },
+     {
+      "titulo": "Dominio público y patrimoniales"
+     },
+     {
+      "titulo": "Provincia sin comunales"
+     }
+    ]
+   },
    {
     "titulo": "Clases",
     "color": "#247ba0",
@@ -790,6 +1971,39 @@
       ]
      }
     ]
+   },
+   {
+    "titulo": "Adquisición, uso y enajenación",
+    "color": "#ff9f1c",
+    "hijos": [
+     {
+      "titulo": "Adquisición: herencia a beneficio de inventario · valores: autorización CCAA"
+     },
+     {
+      "titulo": "Uso común general (libre), especial (licencia), privativo y anormal (concesión)"
+     },
+     {
+      "titulo": "Alteración: mayoría absoluta + información pública 1 mes"
+     }
+    ]
+   },
+   {
+    "titulo": "Defensa, comunales y patrimoniales",
+    "color": "#2ec4b6",
+    "hijos": [
+     {
+      "titulo": "Inventario anual · registro por certificación del Secretario"
+     },
+     {
+      "titulo": "Recuperación: demaniales siempre · patrimoniales 1 año"
+     },
+     {
+      "titulo": "Comunales: lotes · 5 % · pérdida a los 10 años"
+     },
+     {
+      "titulo": "Patrimoniales: subasta · permuta 40 % · 25 % CCAA · canon 6 %"
+     }
+    ]
    }
   ],
   "conexiones": [
@@ -853,9 +2067,7 @@
    [
     "servicio público"
    ],
-   {
-    "off": 1
-   }
+   {}
   ],
   [
    "Se clasificarán como bienes patrimoniales:",
@@ -872,9 +2084,7 @@
    [
     "parcelas sobrantes"
    ],
-   {
-    "off": 1
-   }
+   {}
   ],
   [
    "Los bienes comunales y demás bienes de dominio público son:",

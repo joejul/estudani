@@ -1,6 +1,10 @@
 {
  "mapaEpis": [
   [
+   "e4",
+   "e5"
+  ],
+  [
    "e0"
   ],
   [
@@ -11,6 +15,16 @@
   ],
   [
    "e3"
+  ],
+  [
+   "e6",
+   "e7",
+   "e8"
+  ],
+  [
+   "e9",
+   "e10",
+   "e11"
   ]
  ],
  "glosario": [
@@ -103,6 +117,102 @@
    "Patrimonio municipal del suelo",
    "Conjunto de bienes de la entidad local destinados a fines sociales y de vivienda protegida.",
    "Legislación urbanística"
+  ],
+  [
+   "lpap",
+   "Ley del Patrimonio de las Administraciones Públicas (LPAP)",
+   "Ley 33/2003, de 3 de noviembre. Fija las bases del régimen patrimonial de las Administraciones y regula la administración, defensa y conservación de su patrimonio.",
+   "Ley 33/2003"
+  ],
+  [
+   "rbel",
+   "Reglamento de Bienes de las Entidades Locales (RBEL)",
+   "Real Decreto 1372/1986, de 13 de junio. Desarrolla el régimen de los bienes locales.",
+   "RD 1372/1986"
+  ],
+  [
+   "uso-comun-general",
+   "Uso común general",
+   "El que corresponde por igual a todos los ciudadanos sin cualificación especial (parques, vías públicas). Es libre.",
+   "Art. 75 RBEL"
+  ],
+  [
+   "uso-comun-especial",
+   "Uso común especial",
+   "Uso que, por su peligrosidad o intensidad, coloca al usuario en una situación distinta. Requiere licencia.",
+   "Art. 77 RBEL"
+  ],
+  [
+   "uso-privativo",
+   "Uso privativo",
+   "Ocupación de una parte del dominio público que limita o excluye el uso de los demás. Requiere concesión administrativa.",
+   "Art. 78 RBEL"
+  ],
+  [
+   "afectacion",
+   "Afectación y desafectación",
+   "Afectar es destinar un bien a un uso o servicio público; desafectar es quitarle ese destino. Hay que desafectar para poder enajenarlo o gravarlo.",
+   "Art. 8 RBEL"
+  ],
+  [
+   "inventario-bienes",
+   "Inventario de bienes",
+   "Relación valorada de todos los bienes y derechos de la Entidad local. Se rectifica cada año y se comprueba cuando se renueva la Corporación.",
+   "Art. 17 RBEL"
+  ],
+  [
+   "deslinde-bienes",
+   "Deslinde",
+   "Procedimiento para fijar los límites de un inmueble público frente a terceros cuando son imprecisos o hay indicios de usurpación.",
+   "Art. 50 LPAP"
+  ],
+  [
+   "recuperacion-oficio-posesion",
+   "Recuperación de oficio",
+   "Potestad de recuperar por sí misma la posesión perdida: de los demaniales en cualquier tiempo; de los patrimoniales, si se notifica dentro del año siguiente a la usurpación.",
+   "Art. 55 LPAP"
+  ],
+  [
+   "desahucio-administrativo",
+   "Desahucio administrativo",
+   "Recuperación en vía administrativa de un bien demanial cuando decae el título que permitía su ocupación.",
+   "Art. 58 LPAP"
+  ],
+  [
+   "claveros",
+   "Claveros",
+   "Las tres personas que custodian los valores mobiliarios de la Corporación: el Presidente, el Interventor y el Tesorero.",
+   "Art. 37 RBEL"
+  ],
+  [
+   "parcela-sobrante",
+   "Parcela sobrante",
+   "Porción de terreno de la Entidad que por su reducida extensión, forma o emplazamiento no es susceptible de uso adecuado.",
+   "Art. 7 RBEL"
+  ],
+  [
+   "beneficio-inventario",
+   "Beneficio de inventario",
+   "Forma de aceptar una herencia sin responder de las deudas con el patrimonio propio. Las Entidades locales aceptan siempre así.",
+   "Art. 12 RBEL"
+  ],
+  [
+   "lotes-suertes",
+   "Lotes o suertes",
+   "Forma de reparto del aprovechamiento comunal entre los vecinos, en proporción directa a las personas a cargo e inversa a su situación económica.",
+   "Art. 97 RBEL"
+  ],
+  [
+   "montes-vecinales",
+   "Montes vecinales en mano común",
+   "Comunales atípicos regulados por una ley especial o por la costumbre.",
+   "Doctrina · Tema 10"
+  ],
+  [
+   "permuta",
+   "Permuta",
+   "Intercambio de bienes. Los patrimoniales se pueden permutar sin subasta con otros inmuebles si la diferencia de valor no supera el 40 %.",
+   "Art. 112 RBEL"
   ]
  ],
  "hubs": [
@@ -258,6 +368,226 @@
     ]
    ],
    "ic": "🔑"
+  },
+  {
+   "id": "h-marco-estatal",
+   "epi": "e4",
+   "titulo": "Marco estatal de los bienes locales",
+   "art": "LBRL 79 · RBEL 2-7 · LPAP 3-7",
+   "resumen": "Normas y clasificación de los bienes.",
+   "pistas": [
+    [
+     "d",
+     "El patrimonio de las Administraciones Públicas no incluye el dinero, los valores ni los créditos"
+    ],
+    [
+     "d",
+     "Los bienes locales son de dominio público o patrimoniales"
+    ],
+    [
+     "d",
+     "Los comunales solo pertenecen a Municipios y entidades inferiores al municipio"
+    ],
+    [
+     "d",
+     "Parcelas sobrantes y efectos no utilizables son bienes patrimoniales"
+    ]
+   ],
+   "ic": "📚"
+  },
+  {
+   "id": "h-dominio-publico",
+   "epi": "e5",
+   "titulo": "Dominio público: notas y principios",
+   "art": "Art. 5 RBEL · Art. 6 LPAP",
+   "resumen": "Inalienable, inembargable, imprescriptible y sin tributos.",
+   "pistas": [
+    [
+     "d",
+     "Inalienables, inembargables, imprescriptibles y sin tributos"
+    ],
+    [
+     "d",
+     "Uso público: caminos, plazas, calles, parques, puentes"
+    ],
+    [
+     "d",
+     "Servicio público: casas consistoriales, mercados, cementerios, piscinas"
+    ],
+    [
+     "t",
+     "Se prefiere el uso común frente al privativo"
+    ]
+   ],
+   "ic": "🛡️"
+  },
+  {
+   "id": "h-adquisicion",
+   "epi": "e6",
+   "titulo": "Adquisición de bienes",
+   "art": "Arts. 10-14 RBEL",
+   "resumen": "Modos y requisitos.",
+   "pistas": [
+    [
+     "d",
+     "La herencia se acepta a beneficio de inventario"
+    ],
+    [
+     "d",
+     "Valores mobiliarios: autorización de la Comunidad Autónoma"
+    ],
+    [
+     "n",
+     "Bien histórico o artístico: informe previo si excede del 1 % de los recursos ordinarios"
+    ],
+    [
+     "d",
+     "Los particulares pueden prescribir bienes patrimoniales, no los demaniales"
+    ]
+   ],
+   "ic": "🤝"
+  },
+  {
+   "id": "h-uso-demanial",
+   "epi": "e7",
+   "titulo": "Utilización del dominio público",
+   "art": "Arts. 77 y 78 RBEL",
+   "resumen": "Licencia o concesión según el uso.",
+   "pistas": [
+    [
+     "d",
+     "Uso común general: libre"
+    ],
+    [
+     "d",
+     "Uso común especial normal: licencia"
+    ],
+    [
+     "d",
+     "Uso privativo y uso anormal: concesión administrativa"
+    ],
+    [
+     "d",
+     "Licencias de número limitado: licitación o sorteo"
+    ]
+   ],
+   "ic": "🚏"
+  },
+  {
+   "id": "h-alteracion-enajenacion",
+   "epi": "e8",
+   "titulo": "Alteración de la calificación",
+   "art": "Art. 8 RBEL",
+   "resumen": "Desafectación y alteración automática.",
+   "pistas": [
+    [
+     "d",
+     "Expediente, información pública de un mes y mayoría absoluta del número legal"
+    ],
+    [
+     "n",
+     "Alteración automática: adscripción de patrimoniales por más de 25 años"
+    ],
+    [
+     "d",
+     "Alteración automática: aprobación definitiva de planes de ordenación urbana"
+    ],
+    [
+     "n",
+     "Enajenación con mayoría absoluta si supera el 20 % de los recursos ordinarios"
+    ]
+   ],
+   "ic": "🔄"
+  },
+  {
+   "id": "h-defensa-patrimonio",
+   "epi": "e9",
+   "titulo": "Defensa del patrimonio",
+   "art": "Arts. 9, 17, 36 RBEL · art. 41 LPAP",
+   "resumen": "Inventario, registro y potestades.",
+   "pistas": [
+    [
+     "d",
+     "Inventario valorado: se rectifica anualmente y cuando se renueva la Corporación"
+    ],
+    [
+     "d",
+     "Certificación del Secretario con V.º B.º del Alcalde: efectos de escritura pública"
+    ],
+    [
+     "n",
+     "Recuperación de bienes patrimoniales: notificar el inicio antes de un año"
+    ],
+    [
+     "d",
+     "Deslinde: acuerdo ejecutivo impugnable solo en lo contencioso"
+    ],
+    [
+     "n",
+     "Requerimiento de un vecino: suspende 30 días hábiles"
+    ]
+   ],
+   "ic": "🔐"
+  },
+  {
+   "id": "h-comunales",
+   "epi": "e10",
+   "titulo": "Bienes comunales",
+   "art": "Arts. 94-103 RBEL",
+   "resumen": "Aprovechamiento y pérdida del carácter.",
+   "pistas": [
+    [
+     "d",
+     "Régimen general: explotación común o cultivo colectivo"
+    ],
+    [
+     "d",
+     "Lotes: proporción directa a personas a cargo e inversa a situación económica"
+    ],
+    [
+     "n",
+     "Adjudicación por precio: la Corporación no detrae más del 5 %"
+    ],
+    [
+     "n",
+     "Pérdida del carácter comunal: más de diez años sin disfrute"
+    ],
+    [
+     "t",
+     "Derecho de los vecinos sin distinción de sexo, estado civil o edad"
+    ]
+   ],
+   "ic": "🌾"
+  },
+  {
+   "id": "h-patrimoniales",
+   "epi": "e11",
+   "titulo": "Bienes patrimoniales",
+   "art": "Arts. 92, 109-116 RBEL",
+   "resumen": "Enajenación, cesión y arrendamiento.",
+   "pistas": [
+    [
+     "n",
+     "Permuta sin subasta: diferencia máxima del 40 %"
+    ],
+    [
+     "n",
+     "Autorización de la CCAA si el valor excede del 25 %"
+    ],
+    [
+     "n",
+     "Cesión gratuita: fines en cinco años y destino treinta"
+    ],
+    [
+     "n",
+     "Arrendamiento: subasta si dura más de 5 años o el precio excede del 5 %; canon mínimo del 6 %"
+    ],
+    [
+     "d",
+     "Los valores mobiliarios los custodian los tres claveros"
+    ]
+   ],
+   "ic": "💼"
   }
  ],
  "esquema": [
