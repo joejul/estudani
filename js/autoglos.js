@@ -71,11 +71,12 @@ export function construir(glos) {
     vistos.add(clave);
     alts.push({ cuerpo, largo, sens, id });
   };
+  const siglas = new Set(glos.filter((g) => g.tipo === 'sigla').map((g) => g.id)); // las siglas solo en mayúsculas
   const frase = (f, id) => {
     const t = f.trim();
     if (!t) return;
     const ws = t.split(/\s+/);
-    agregar(ws.map((w) => palabra(w, ws.length > 1)).join('\\s+'), t.length, id, MAYUSCULA.has(id), t.toLowerCase());
+    agregar(ws.map((w) => palabra(w, ws.length > 1)).join('\\s+'), t.length, id, MAYUSCULA.has(id) || siglas.has(id), t.toLowerCase());
   };
   for (const g of glos) {
     if (OMITIR.has(g.id)) continue;

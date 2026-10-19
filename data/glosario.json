@@ -981,5 +981,749 @@
   "def": "Cada **paso concreto** de un procedimiento (solicitar, informar, dar audiencia, resolver).",
   "ejemplo": "Trámite de audiencia, trámite de información pública.",
   "ref": "Ley 39/2015"
+ },
+ {
+  "id": "sigla-ce",
+  "termino": "CE",
+  "tipo": "sigla",
+  "def": "Constitución Española. La norma más importante de España, aprobada en 1978.",
+  "ejemplo": "",
+  "ref": "CE 1978"
+ },
+ {
+  "id": "sigla-lo",
+  "termino": "LO",
+  "tipo": "sigla",
+  "def": "Ley Orgánica. Ley que regula derechos fundamentales, Estatutos de Autonomía o el régimen electoral; necesita mayoría absoluta del Congreso.",
+  "ejemplo": "",
+  "ref": "Art. 81 CE"
+ },
+ {
+  "id": "sigla-rd",
+  "termino": "RD",
+  "tipo": "sigla",
+  "def": "Real Decreto. Norma que aprueba el Gobierno (reglamento). Si es «Real Decreto Legislativo» (RDLeg) tiene rango de ley por delegación de las Cortes.",
+  "ejemplo": "",
+  "ref": "Art. 97 CE"
+ },
+ {
+  "id": "sigla-lbrl",
+  "termino": "LBRL",
+  "tipo": "sigla",
+  "def": "Ley reguladora de las Bases del Régimen Local. Ley 7/1985, de 2 de abril: la ley básica de los ayuntamientos, diputaciones y demás entes locales.",
+  "ejemplo": "",
+  "ref": "Ley 7/1985"
+ },
+ {
+  "id": "sigla-trebep",
+  "termino": "TREBEP",
+  "tipo": "sigla",
+  "def": "Texto Refundido del Estatuto Básico del Empleado Público. Real Decreto Legislativo 5/2015, de 30 de octubre: regula a todos los empleados públicos (derechos, deberes, acceso, situaciones…).",
+  "ejemplo": "",
+  "ref": "RDLeg 5/2015"
+ },
+ {
+  "id": "sigla-ebep",
+  "termino": "EBEP",
+  "tipo": "sigla",
+  "def": "Estatuto Básico del Empleado Público. Nombre anterior del TREBEP (Ley 7/2007). Hoy se cita el texto refundido de 2015.",
+  "ejemplo": "",
+  "ref": "Ley 7/2007"
+ },
+ {
+  "id": "sigla-lpac",
+  "termino": "LPAC",
+  "tipo": "sigla",
+  "def": "Ley del Procedimiento Administrativo Común. Ley 39/2015, de 1 de octubre: cómo se relacionan los ciudadanos con la Administración y cómo se tramitan los procedimientos.",
+  "ejemplo": "",
+  "ref": "Ley 39/2015"
+ },
+ {
+  "id": "sigla-lrjsp",
+  "termino": "LRJSP",
+  "tipo": "sigla",
+  "def": "Ley de Régimen Jurídico del Sector Público. Ley 40/2015, de 1 de octubre: organización y funcionamiento del sector público (órganos, convenios, consorcios…).",
+  "ejemplo": "",
+  "ref": "Ley 40/2015"
+ },
+ {
+  "id": "sigla-lcsp",
+  "termino": "LCSP",
+  "tipo": "sigla",
+  "def": "Ley de Contratos del Sector Público. Ley 9/2017, de 8 de noviembre: regula cómo contratan las Administraciones obras, servicios y suministros.",
+  "ejemplo": "",
+  "ref": "Ley 9/2017"
+ },
+ {
+  "id": "sigla-trlrhl",
+  "termino": "TRLRHL",
+  "tipo": "sigla",
+  "def": "Texto Refundido de la Ley Reguladora de las Haciendas Locales. Real Decreto Legislativo 2/2004, de 5 de marzo: regula los ingresos, impuestos, tasas y presupuestos de las entidades locales.",
+  "ejemplo": "",
+  "ref": "RDLeg 2/2004"
+ },
+ {
+  "id": "sigla-tr-86",
+  "termino": "TR/86",
+  "tipo": "sigla",
+  "def": "Texto Refundido de las disposiciones vigentes en materia de régimen local. Real Decreto Legislativo 781/1986, de 18 de abril: complementa a la LBRL (personal, bienes, Haciendas…).",
+  "ejemplo": "",
+  "ref": "RDLeg 781/1986"
+ },
+ {
+  "id": "sigla-rbel",
+  "termino": "RBEL",
+  "tipo": "sigla",
+  "def": "Reglamento de Bienes de las Entidades Locales. Real Decreto 1372/1986, de 13 de junio: regula los bienes de ayuntamientos y diputaciones.",
+  "ejemplo": "",
+  "ref": "RD 1372/1986"
+ },
+ {
+  "id": "sigla-rbaso",
+  "termino": "RBASO",
+  "tipo": "sigla",
+  "def": "Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón. Decreto 347/2002 del Gobierno de Aragón: el reglamento aragonés sobre bienes, actividades, servicios, obras y reglamentos locales.",
+  "ejemplo": "",
+  "ref": "Decreto 347/2002"
+ },
+ {
+  "id": "sigla-rscl",
+  "termino": "RSCL",
+  "tipo": "sigla",
+  "def": "Reglamento de Servicios de las Corporaciones Locales. Reglamento de 1955 que regula la actividad de policía, fomento y servicio público de las entidades locales.",
+  "ejemplo": "",
+  "ref": "Decreto de 17-6-1955"
+ },
+ {
+  "id": "sigla-rof",
+  "termino": "ROF",
+  "tipo": "sigla",
+  "def": "Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales. Real Decreto 2568/1986, de 28 de noviembre: desarrolla cómo funcionan los órganos de los ayuntamientos.",
+  "ejemplo": "",
+  "ref": "RD 2568/1986"
+ },
+ {
+  "id": "sigla-lgt",
+  "termino": "LGT",
+  "tipo": "sigla",
+  "def": "Ley General Tributaria. Ley 58/2003, de 17 de diciembre: reglas comunes de todos los tributos (gestión, inspección, recaudación, infracciones).",
+  "ejemplo": "",
+  "ref": "Ley 58/2003"
+ },
+ {
+  "id": "sigla-lpap",
+  "termino": "LPAP",
+  "tipo": "sigla",
+  "def": "Ley del Patrimonio de las Administraciones Públicas. Ley 33/2003, de 3 de noviembre: regula los bienes públicos (demaniales y patrimoniales).",
+  "ejemplo": "",
+  "ref": "Ley 33/2003"
+ },
+ {
+  "id": "sigla-lopj",
+  "termino": "LOPJ",
+  "tipo": "sigla",
+  "def": "Ley Orgánica del Poder Judicial. Ley Orgánica 6/1985, de 1 de julio: organiza los juzgados y tribunales.",
+  "ejemplo": "",
+  "ref": "LO 6/1985"
+ },
+ {
+  "id": "sigla-lotc",
+  "termino": "LOTC",
+  "tipo": "sigla",
+  "def": "Ley Orgánica del Tribunal Constitucional. Ley Orgánica 2/1979, de 3 de octubre: regula el Tribunal Constitucional y sus procesos.",
+  "ejemplo": "",
+  "ref": "LO 2/1979"
+ },
+ {
+  "id": "sigla-loreg",
+  "termino": "LOREG",
+  "tipo": "sigla",
+  "def": "Ley Orgánica del Régimen Electoral General. Ley Orgánica 5/1985, de 19 de junio: regula las elecciones (también las municipales, la moción de censura al Alcalde, etc.).",
+  "ejemplo": "",
+  "ref": "LO 5/1985"
+ },
+ {
+  "id": "sigla-ljca",
+  "termino": "LJCA",
+  "tipo": "sigla",
+  "def": "Ley reguladora de la Jurisdicción Contencioso-administrativa. Ley 29/1998, de 13 de julio: regula los recursos ante los jueces contra la actuación de la Administración.",
+  "ejemplo": "",
+  "ref": "Ley 29/1998"
+ },
+ {
+  "id": "sigla-lofage",
+  "termino": "LOFAGE",
+  "tipo": "sigla",
+  "def": "Ley de Organización y Funcionamiento de la Administración General del Estado. Ley 6/1997, de 14 de abril. Sus reglas sobre organismos autónomos y entidades públicas empresariales se aplican a los entes locales.",
+  "ejemplo": "",
+  "ref": "Ley 6/1997"
+ },
+ {
+  "id": "sigla-lrsal",
+  "termino": "LRSAL",
+  "tipo": "sigla",
+  "def": "Ley de Racionalización y Sostenibilidad de la Administración Local. Ley 27/2013, de 27 de diciembre: reformó la LBRL para ajustar las competencias y el gasto local.",
+  "ejemplo": "",
+  "ref": "Ley 27/2013"
+ },
+ {
+  "id": "sigla-lala",
+  "termino": "LALA",
+  "tipo": "sigla",
+  "def": "Ley de Administración Local de Aragón. Ley 7/1999, de 9 de abril: regula el régimen local en Aragón (comarcas, municipios, bandos, ordenanzas…).",
+  "ejemplo": "",
+  "ref": "Ley 7/1999"
+ },
+ {
+  "id": "sigla-lua",
+  "termino": "LUA",
+  "tipo": "sigla",
+  "def": "Ley Urbanística de Aragón. Norma que regula el urbanismo en Aragón. Hoy se aplica su texto refundido (TRLUA).",
+  "ejemplo": "",
+  "ref": "DLeg 1/2014"
+ },
+ {
+  "id": "sigla-trlua",
+  "termino": "TRLUA",
+  "tipo": "sigla",
+  "def": "Texto Refundido de la Ley Urbanística de Aragón. Decreto Legislativo 1/2014, de 8 de julio, del Gobierno de Aragón: la norma vigente de urbanismo en Aragón (294 artículos).",
+  "ejemplo": "",
+  "ref": "DLeg 1/2014"
+ },
+ {
+  "id": "sigla-trlsru",
+  "termino": "TRLSRU",
+  "tipo": "sigla",
+  "def": "Texto Refundido de la Ley de Suelo y Rehabilitación Urbana. Real Decreto Legislativo 7/2015, de 30 de octubre: ley estatal que fija las situaciones básicas del suelo (rural y urbanizado).",
+  "ejemplo": "",
+  "ref": "RDLeg 7/2015"
+ },
+ {
+  "id": "sigla-eaar",
+  "termino": "EAAr",
+  "tipo": "sigla",
+  "def": "Estatuto de Autonomía de Aragón. Norma básica de la Comunidad: sus instituciones, derechos y competencias. Ley Orgánica 5/2007, de 20 de abril.",
+  "ejemplo": "",
+  "ref": "LO 5/2007"
+ },
+ {
+  "id": "sigla-ljip",
+  "termino": "LJIP",
+  "tipo": "sigla",
+  "def": "Libertad, justicia, igualdad y pluralismo político. Los cuatro valores superiores del ordenamiento jurídico español que proclama el art. 1.1 de la Constitución.",
+  "ejemplo": "",
+  "ref": "Art. 1.1 CE"
+ },
+ {
+  "id": "sigla-dudh",
+  "termino": "DUDH",
+  "tipo": "sigla",
+  "def": "Declaración Universal de Derechos Humanos. Texto de la ONU de 1948 que recoge los derechos básicos de todas las personas. La Constitución manda interpretar los derechos conforme a ella.",
+  "ejemplo": "",
+  "ref": "Art. 10.2 CE"
+ },
+ {
+  "id": "sigla-cedaw",
+  "termino": "CEDAW",
+  "tipo": "sigla",
+  "def": "Convención sobre la eliminación de todas las formas de discriminación contra la mujer. Tratado de la ONU de 1979 considerado la «carta de derechos de las mujeres».",
+  "ejemplo": "",
+  "ref": "ONU 1979"
+ },
+ {
+  "id": "sigla-onu",
+  "termino": "ONU",
+  "tipo": "sigla",
+  "def": "Organización de las Naciones Unidas. Organización internacional de Estados creada en 1945 para la paz y los derechos humanos.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ue",
+  "termino": "UE",
+  "tipo": "sigla",
+  "def": "Unión Europea. Organización de Estados europeos con instituciones y normas comunes.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-tfue",
+  "termino": "TFUE",
+  "tipo": "sigla",
+  "def": "Tratado de Funcionamiento de la Unión Europea. Uno de los dos tratados básicos de la UE; regula sus competencias y políticas.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-tjue",
+  "termino": "TJUE",
+  "tipo": "sigla",
+  "def": "Tribunal de Justicia de la Unión Europea. Tribunal que interpreta el Derecho de la UE y vela por que se cumpla.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-doue",
+  "termino": "DOUE",
+  "tipo": "sigla",
+  "def": "Diario Oficial de la Unión Europea. Donde se publican las normas y los anuncios de la UE (por ejemplo, los contratos de regulación armonizada).",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ocde",
+  "termino": "OCDE",
+  "tipo": "sigla",
+  "def": "Organización para la Cooperación y el Desarrollo Económicos. Organización internacional que elabora estudios y estadísticas económicas, como la brecha salarial.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-unesco",
+  "termino": "UNESCO",
+  "tipo": "sigla",
+  "def": "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. Organismo de la ONU que protege, entre otras cosas, el patrimonio cultural mundial.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-boa",
+  "termino": "BOA",
+  "tipo": "sigla",
+  "def": "Boletín Oficial de Aragón. Diario oficial de la Comunidad Autónoma de Aragón: las leyes aragonesas rigen desde su publicación en él.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-bopz",
+  "termino": "BOPZ",
+  "tipo": "sigla",
+  "def": "Boletín Oficial de la Provincia de Zaragoza. Diario oficial donde se publican los anuncios de la provincia, como las bases de las oposiciones o los planes municipales.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-age",
+  "termino": "AGE",
+  "tipo": "sigla",
+  "def": "Administración General del Estado. La Administración central: ministerios y organismos dependientes del Gobierno de España.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-aapp",
+  "termino": "AAPP",
+  "tipo": "sigla",
+  "def": "Administraciones Públicas. Conjunto de Administraciones: estatal, autonómicas y locales, con sus organismos.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ccaa",
+  "termino": "CCAA",
+  "tipo": "sigla",
+  "def": "Comunidades Autónomas. Entes territoriales con autonomía política (en España hay 17, más las ciudades autónomas de Ceuta y Melilla).",
+  "ejemplo": "",
+  "ref": "Título VIII CE"
+ },
+ {
+  "id": "sigla-ca",
+  "termino": "CA",
+  "tipo": "sigla",
+  "def": "Comunidad Autónoma. Cada una de las entidades territoriales con autonomía política; Aragón es una de ellas.",
+  "ejemplo": "",
+  "ref": "Título VIII CE"
+ },
+ {
+  "id": "sigla-ffaa",
+  "termino": "FFAA",
+  "tipo": "sigla",
+  "def": "Fuerzas Armadas. Ejército de Tierra, Armada y Ejército del Aire, que dependen del Gobierno.",
+  "ejemplo": "",
+  "ref": "Art. 8 CE"
+ },
+ {
+  "id": "sigla-cgpj",
+  "termino": "CGPJ",
+  "tipo": "sigla",
+  "def": "Consejo General del Poder Judicial. Órgano de gobierno de los jueces y magistrados.",
+  "ejemplo": "",
+  "ref": "Art. 122 CE"
+ },
+ {
+  "id": "sigla-stc",
+  "termino": "STC",
+  "tipo": "sigla",
+  "def": "Sentencia del Tribunal Constitucional. Resolución del Tribunal Constitucional. Por ejemplo, la STC 61/1997 anuló buena parte de la ley estatal de suelo.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-tsj",
+  "termino": "TSJ",
+  "tipo": "sigla",
+  "def": "Tribunal Superior de Justicia. El tribunal en el que culmina la organización judicial de cada Comunidad Autónoma.",
+  "ejemplo": "",
+  "ref": "Art. 152 CE"
+ },
+ {
+  "id": "sigla-tear",
+  "termino": "TEAR",
+  "tipo": "sigla",
+  "def": "Tribunal Económico-Administrativo Regional. Órgano que resuelve las reclamaciones económico-administrativas en materia tributaria.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-dni",
+  "termino": "DNI",
+  "tipo": "sigla",
+  "def": "Documento Nacional de Identidad. Documento con el que se comprueba nombre y apellidos de una persona ante la Administración.",
+  "ejemplo": "",
+  "ref": "Art. 9 LPAC"
+ },
+ {
+  "id": "sigla-cif",
+  "termino": "CIF",
+  "tipo": "sigla",
+  "def": "Código de Identificación Fiscal. Número que identifica a las personas jurídicas (asociaciones, sociedades…) ante la Hacienda.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ine",
+  "termino": "INE",
+  "tipo": "sigla",
+  "def": "Instituto Nacional de Estadística. Organismo que elabora las estadísticas oficiales, entre ellas las cifras de población.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ign",
+  "termino": "IGN",
+  "tipo": "sigla",
+  "def": "Instituto Geográfico Nacional. Organismo cuyo informe se pide, por ejemplo, para el deslinde de términos municipales.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-femp",
+  "termino": "FEMP",
+  "tipo": "sigla",
+  "def": "Federación Española de Municipios y Provincias. Asociación que representa a los ayuntamientos y diputaciones.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-inap",
+  "termino": "INAP",
+  "tipo": "sigla",
+  "def": "Instituto Nacional de Administración Pública. Organismo que forma y selecciona a empleados públicos.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-eso",
+  "termino": "ESO",
+  "tipo": "sigla",
+  "def": "Educación Secundaria Obligatoria. El título de Graduado en ESO se exige para el Subgrupo C2.",
+  "ejemplo": "",
+  "ref": "Art. 76 TREBEP"
+ },
+ {
+  "id": "sigla-tic",
+  "termino": "TIC",
+  "tipo": "sigla",
+  "def": "Tecnologías de la Información y la Comunicación. Medios informáticos y de comunicación (Internet, firma electrónica…) que usa la Administración.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-bic",
+  "termino": "BIC",
+  "tipo": "sigla",
+  "def": "Bien de Interés Cultural. La categoría más alta de protección de los bienes del patrimonio cultural.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ibi",
+  "termino": "IBI",
+  "tipo": "sigla",
+  "def": "Impuesto sobre Bienes Inmuebles. Impuesto municipal obligatorio que pagan los propietarios de viviendas, locales y terrenos.",
+  "ejemplo": "",
+  "ref": "Arts. 60 y ss. TRLRHL"
+ },
+ {
+  "id": "sigla-iae",
+  "termino": "IAE",
+  "tipo": "sigla",
+  "def": "Impuesto sobre Actividades Económicas. Impuesto municipal obligatorio sobre el ejercicio de actividades empresariales, profesionales o artísticas.",
+  "ejemplo": "",
+  "ref": "Arts. 78 y ss. TRLRHL"
+ },
+ {
+  "id": "sigla-ivtm",
+  "termino": "IVTM",
+  "tipo": "sigla",
+  "def": "Impuesto sobre Vehículos de Tracción Mecánica. Impuesto municipal obligatorio que se paga por tener un vehículo a motor aptos para circular.",
+  "ejemplo": "",
+  "ref": "Arts. 92 y ss. TRLRHL"
+ },
+ {
+  "id": "sigla-icio",
+  "termino": "ICIO",
+  "tipo": "sigla",
+  "def": "Impuesto sobre Construcciones, Instalaciones y Obras. Impuesto municipal potestativo que se paga por hacer obras que exigen licencia.",
+  "ejemplo": "",
+  "ref": "Arts. 100 y ss. TRLRHL"
+ },
+ {
+  "id": "sigla-iivtnu",
+  "termino": "IIVTNU",
+  "tipo": "sigla",
+  "def": "Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana. Impuesto municipal potestativo, la «plusvalía municipal», sobre el aumento de valor de un terreno al venderlo o transmitirlo.",
+  "ejemplo": "",
+  "ref": "Arts. 104 y ss. TRLRHL"
+ },
+ {
+  "id": "sigla-iva",
+  "termino": "IVA",
+  "tipo": "sigla",
+  "def": "Impuesto sobre el Valor Añadido. Impuesto estatal indirecto que grava el consumo.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-irpf",
+  "termino": "IRPF",
+  "tipo": "sigla",
+  "def": "Impuesto sobre la Renta de las Personas Físicas. Impuesto estatal directo sobre los ingresos de las personas; los municipios participan en los tributos del Estado.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ite",
+  "termino": "ITE",
+  "tipo": "sigla",
+  "def": "Ingresos Tributarios del Estado. Cifra que sirve para calcular la participación de las entidades locales en los tributos del Estado (su evolución entre el año base y el año de la participación).",
+  "ejemplo": "",
+  "ref": "TRLRHL"
+ },
+ {
+  "id": "sigla-hi",
+  "termino": "HI",
+  "tipo": "sigla",
+  "def": "Hecho imponible. El hecho o situación que, cuando ocurre, hace nacer la obligación de pagar un tributo.",
+  "ejemplo": "",
+  "ref": "Art. 20 LGT"
+ },
+ {
+  "id": "sigla-rc",
+  "termino": "RC",
+  "tipo": "sigla",
+  "def": "Retención de crédito. Documento contable que comprueba que hay saldo disponible en una partida antes de autorizar un gasto.",
+  "ejemplo": "",
+  "ref": "RD 500/1990"
+ },
+ {
+  "id": "sigla-ad",
+  "termino": "AD",
+  "tipo": "sigla",
+  "def": "Autorización-Disposición. Documento contable que une la autorización y la disposición del gasto cuando ya se conoce el importe exacto y la persona a quien se paga.",
+  "ejemplo": "",
+  "ref": "RD 500/1990"
+ },
+ {
+  "id": "sigla-ado",
+  "termino": "ADO",
+  "tipo": "sigla",
+  "def": "Autorización-Disposición-Obligación. Documento contable que acumula autorización, disposición y reconocimiento de la obligación en gastos de tramitación simple.",
+  "ejemplo": "",
+  "ref": "RD 500/1990"
+ },
+ {
+  "id": "sigla-jgl",
+  "termino": "JGL",
+  "tipo": "sigla",
+  "def": "Junta de Gobierno Local. Órgano del ayuntamiento que asiste al Alcalde y ejerce las atribuciones que se le delegan; en los municipios de gran población es obligatoria.",
+  "ejemplo": "",
+  "ref": "Arts. 20 y 126 LBRL"
+ },
+ {
+  "id": "sigla-ooaa",
+  "termino": "OOAA",
+  "tipo": "sigla",
+  "def": "Organismos Autónomos. Entes con personalidad jurídica propia creados por una Administración para realizar actividades de su competencia con régimen administrativo.",
+  "ejemplo": "",
+  "ref": "LOFAGE"
+ },
+ {
+  "id": "sigla-oa",
+  "termino": "OA",
+  "tipo": "sigla",
+  "def": "Organismo Autónomo. Cada uno de los entes con personalidad jurídica propia que dependen de una Administración (singular de OOAA).",
+  "ejemplo": "",
+  "ref": "LOFAGE"
+ },
+ {
+  "id": "sigla-epe",
+  "termino": "EPE",
+  "tipo": "sigla",
+  "def": "Entidad Pública Empresarial. Ente público con personalidad propia que realiza actividades económicas con régimen mixto, de Derecho público y privado.",
+  "ejemplo": "",
+  "ref": "LOFAGE"
+ },
+ {
+  "id": "sigla-sara",
+  "termino": "SARA",
+  "tipo": "sigla",
+  "def": "Contrato sujeto a regulación armonizada. Contrato cuyo importe supera los umbrales europeos y que debe publicarse en el DOUE; tiene reglas más estrictas.",
+  "ejemplo": "",
+  "ref": "Arts. 19 a 23 LCSP"
+ },
+ {
+  "id": "sigla-cpv",
+  "termino": "CPV",
+  "tipo": "sigla",
+  "def": "Vocabulario común de contratos públicos. Código europeo que identifica el objeto de cada contrato (obras, servicios, suministros).",
+  "ejemplo": "",
+  "ref": "Art. 2.4 LCSP"
+ },
+ {
+  "id": "sigla-pgou",
+  "termino": "PGOU",
+  "tipo": "sigla",
+  "def": "Plan General de Ordenación Urbana. Plan urbanístico municipal que clasifica el suelo y fija su ordenación general.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-pieem",
+  "termino": "PIEEM",
+  "tipo": "sigla",
+  "def": "Plan de Igualdad para Empleadas y Empleados Municipales. El plan de igualdad del Ayuntamiento de Zaragoza (hay un I y un II PIEEM).",
+  "ejemplo": "",
+  "ref": "II PIEEM"
+ },
+ {
+  "id": "sigla-umi",
+  "termino": "UMI",
+  "tipo": "sigla",
+  "def": "Unidad Municipal de Igualdad. Unidad del Ayuntamiento que incorpora la igualdad en las políticas municipales y asesora a la Comisión de Igualdad.",
+  "ejemplo": "",
+  "ref": "II PIEEM"
+ },
+ {
+  "id": "sigla-rpt",
+  "termino": "RPT",
+  "tipo": "sigla",
+  "def": "Relación de Puestos de Trabajo. Documento público que recoge los puestos de la Administración con su denominación, grupo, cuerpo, forma de provisión y retribuciones complementarias.",
+  "ejemplo": "",
+  "ref": "Art. 74 TREBEP"
+ },
+ {
+  "id": "sigla-a1",
+  "termino": "A1",
+  "tipo": "sigla",
+  "def": "Subgrupo A1. Subgrupo del Grupo A: cuerpos que exigen título universitario de Grado y más nivel de responsabilidad.",
+  "ejemplo": "",
+  "ref": "Art. 76 TREBEP"
+ },
+ {
+  "id": "sigla-a2",
+  "termino": "A2",
+  "tipo": "sigla",
+  "def": "Subgrupo A2. Subgrupo del Grupo A: título universitario de Grado, con menor nivel de responsabilidad que el A1.",
+  "ejemplo": "",
+  "ref": "Art. 76 TREBEP"
+ },
+ {
+  "id": "sigla-c1",
+  "termino": "C1",
+  "tipo": "sigla",
+  "def": "Subgrupo C1. Subgrupo del Grupo C: se exige el título de Bachiller o Técnico (el de Administrativo).",
+  "ejemplo": "",
+  "ref": "Art. 76 TREBEP"
+ },
+ {
+  "id": "sigla-c2",
+  "termino": "C2",
+  "tipo": "sigla",
+  "def": "Subgrupo C2. Subgrupo del Grupo C: se exige el título de Graduado en ESO (el de Auxiliar Administrativo).",
+  "ejemplo": "",
+  "ref": "Art. 76 TREBEP"
+ },
+ {
+  "id": "sigla-ap",
+  "termino": "AP",
+  "tipo": "sigla",
+  "def": "Agrupaciones profesionales. Grupo de personal sin requisito de titulación.",
+  "ejemplo": "",
+  "ref": "Disp. adic. 6.ª TREBEP"
+ },
+ {
+  "id": "sigla-da",
+  "termino": "DA",
+  "tipo": "sigla",
+  "def": "Disposición adicional. Norma que se añade al final de una ley para regular casos especiales que no encajan en el articulado.",
+  "ejemplo": "",
+  "ref": "Técnica normativa"
+ },
+ {
+  "id": "sigla-dt",
+  "termino": "DT",
+  "tipo": "sigla",
+  "def": "Disposición transitoria. Regula el paso de la situación antigua a la nueva cuando entra en vigor una norma.",
+  "ejemplo": "",
+  "ref": "Técnica normativa"
+ },
+ {
+  "id": "sigla-dd",
+  "termino": "DD",
+  "tipo": "sigla",
+  "def": "Disposición derogatoria. Dice qué normas anteriores quedan derogadas (eliminadas) por la nueva.",
+  "ejemplo": "",
+  "ref": "Técnica normativa"
+ },
+ {
+  "id": "sigla-df",
+  "termino": "DF",
+  "tipo": "sigla",
+  "def": "Disposición final. Disposición del final de una ley; por ejemplo, la que fija cuándo entra en vigor.",
+  "ejemplo": "",
+  "ref": "Técnica normativa"
+ },
+ {
+  "id": "sigla-ccoo",
+  "termino": "CCOO",
+  "tipo": "sigla",
+  "def": "Comisiones Obreras. Sindicato presente en la negociación colectiva de las Administraciones.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-cgt",
+  "termino": "CGT",
+  "tipo": "sigla",
+  "def": "Confederación General del Trabajo. Sindicato presente en la negociación colectiva del Ayuntamiento.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-csif",
+  "termino": "CSIF",
+  "tipo": "sigla",
+  "def": "Central Sindical Independiente y de Funcionarios. Sindicato del personal de las Administraciones Públicas.",
+  "ejemplo": "",
+  "ref": ""
+ },
+ {
+  "id": "sigla-ugt",
+  "termino": "UGT",
+  "tipo": "sigla",
+  "def": "Unión General de Trabajadores. Sindicato presente en la negociación colectiva de las Administraciones.",
+  "ejemplo": "",
+  "ref": ""
  }
 ]
