@@ -1220,6 +1220,25 @@ function vistaAjustes() {
     <section class="card"><h3>Penalización por fallo</h3>
       <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
       <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
+    <details class="card"><summary><b>📊 Cómo se calculan los porcentajes</b></summary>
+      <h4>Dominio por tema (Inicio y Test)</h4>
+      <p class="tiny">Mide <b>cuánto sabes de lo que ya has estudiado</b>, no del tema entero. Cuentan solo las preguntas de los epígrafes que has marcado como estudiados, las que ya has respondido alguna vez y las de los temas que actives a mano en <i>Test</i>.</p>
+      <p class="tiny">Cada pregunta da puntos según tu <b>última respuesta</b> y cuántos aciertos seguidos llevas (su «caja» de repaso):</p>
+      <ul class="tiny">
+        <li><b>Sin ver, fallada o en blanco:</b> 0 puntos.</li>
+        <li><b>1 acierto seguido:</b> 25 %.</li>
+        <li><b>2 seguidos:</b> 50 %.</li>
+        <li><b>3 seguidos:</b> 75 %.</li>
+        <li><b>4 o más seguidos:</b> 100 % (pregunta dominada).</li>
+      </ul>
+      <p class="tiny">El porcentaje del tema es la <b>media</b> de todas esas preguntas. Un fallo vuelve a poner la pregunta en 0, así que el porcentaje puede bajar.</p>
+      <p class="tiny"><b>Ejemplo:</b> un tema con 10 preguntas en estudio, 4 dominadas (4 puntos), 2 con 2 aciertos seguidos (1 punto) y 4 sin ver o falladas (0) saca (4 + 1) ÷ 10 = <b>50 %</b>.</p>
+      <p class="tiny"><b>Etiquetas:</b> ⚪ <i>Sin practicar</i> (menos de 3 preguntas vistas), 🔴 <i>Flojo</i> (menos de 40 %), 🟡 <i>En camino</i> (40 a 69 %) y 🟢 <i>Dominado</i> (70 % o más). «12/80 vistas» son las preguntas del tema que ya has respondido de las que tienes en estudio. El botón <i>Reforzar</i> reúne los tres temas con menos porcentaje.</p>
+      <h4>Porcentaje de la lista de Temas</h4>
+      <p class="tiny">Es tu <b>porcentaje de acierto histórico</b> en ese tema: aciertos ÷ (aciertos + fallos) con todo lo que has respondido, en cualquier test. Las preguntas dejadas en blanco no cuentan y no suben ni bajan este número. Si aún no has respondido ninguna, pone «Empezar».</p>
+      <h4>Cuándo vuelve a salir una pregunta (repaso espaciado)</h4>
+      <p class="tiny">Si aciertas, la pregunta vuelve a salir al cabo de 1, 2, 4, 8, 16, 32 y 64 días según subes de caja. Si fallas o la dejas en blanco, vuelve a la caja 0 y sale otra vez enseguida. Cualquier test (por tema, rápido, simulacro, trampas…) registra tus respuestas. Las preguntas de la prueba oficial real tienen sus propias cajas y no cuentan en el porcentaje de ningún tema.</p>
+    </details>
     <section class="card"><h3>Cómo usar la app</h3><p class="muted tiny">Para qué sirve cada sección y una rutina de estudio recomendada.</p><a class="btn small" href="#/guia">Abrir la guía</a></section>
     <details class="card" ${conSync ? '' : 'open'}><summary><b>Avanzado</b> · copia de seguridad, instalación y borrar</summary>
       <h4>Copia de seguridad</h4>
