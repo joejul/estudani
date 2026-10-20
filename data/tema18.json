@@ -1219,7 +1219,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-002"
    }
   ],
   [
@@ -1444,7 +1446,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-003"
    }
   ],
   [
@@ -1617,7 +1621,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-005"
    }
   ],
   [
@@ -2004,7 +2010,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-010"
    }
   ],
   [
@@ -2074,7 +2082,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-012"
    }
   ],
   [
@@ -2109,7 +2119,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-014"
    }
   ],
   [
@@ -2163,7 +2175,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-015"
    }
   ],
   [
@@ -2482,7 +2496,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-076"
    }
   ],
   [
@@ -2500,7 +2516,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-013"
    }
   ],
   [
@@ -2569,7 +2587,9 @@
    "h-prescripcion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-071"
    }
   ],
   [
@@ -2641,7 +2661,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-018"
    }
   ],
   [
@@ -2728,7 +2750,9 @@
    "h-acceso-extranj",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-021"
    }
   ],
   [
@@ -2833,7 +2857,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-024"
    }
   ],
   [
@@ -2869,7 +2895,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-025"
    }
   ],
   [
@@ -2887,7 +2915,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-026"
    }
   ],
   [
@@ -2904,7 +2934,9 @@
    "h-acceso",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-027"
    }
   ],
   [
@@ -2921,7 +2953,9 @@
    "h-acceso",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-028"
    }
   ],
   [
@@ -2938,7 +2972,9 @@
    "h-acceso",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-029"
    }
   ],
   [
@@ -2955,7 +2991,9 @@
    "h-acceso",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-030"
    }
   ],
   [
@@ -3009,7 +3047,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-003"
    }
   ],
   [
@@ -3079,7 +3119,9 @@
    "h-adquirir",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-032"
    }
   ],
   [
@@ -3132,7 +3174,9 @@
    "h-adquirir",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-033"
    }
   ],
   [
@@ -3149,7 +3193,9 @@
    "h-adquirir",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-034"
    }
   ],
   [
@@ -3414,7 +3460,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-047"
    }
   ],
   [
@@ -3432,7 +3480,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-048"
    }
   ],
   [
@@ -3449,7 +3499,9 @@
    "h-excedencias",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-049"
    }
   ],
   [
@@ -3466,7 +3518,9 @@
    "h-excedencias",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-050"
    }
   ],
   [
@@ -3484,7 +3538,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-007"
    }
   ],
   [
@@ -3502,7 +3558,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-055"
    }
   ],
   [
@@ -3556,7 +3614,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-057"
    }
   ],
   [
@@ -3574,7 +3634,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-059"
    }
   ],
   [
@@ -3592,7 +3654,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-097"
    }
   ],
   [
@@ -3609,7 +3673,9 @@
    "h-disciplina",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-061"
    }
   ],
   [
@@ -3714,7 +3780,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-013"
    }
   ],
   [
@@ -3767,7 +3835,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t18-069"
    }
   ],
   [
@@ -3784,7 +3854,9 @@
    "h-prescripcion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-071"
    }
   ],
   [
@@ -3802,7 +3874,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-072"
    }
   ],
   [
@@ -3838,7 +3912,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t18-073"
    }
   ],
   [
@@ -3873,7 +3949,9 @@
    "h-suspension",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t18-076"
    }
   ],
   [
@@ -3891,6 +3969,24 @@
    [],
    {
     "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, los plazos, procedimientos y condiciones para solicitar el reingreso al servicio activo de los funcionarios de carrera, con respeto al derecho a la reserva del puesto de trabajo en los casos en que proceda, se regularán:",
+   [
+    "Reglamentariamente",
+    "Por el convenio colectivo aplicable",
+    "Por acuerdo del órgano de gobierno de cada Administración"
+   ],
+   0,
+   "Art. 91.",
+   "trebep 91",
+   "",
+   "h-situaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
    }
   ]
  ]

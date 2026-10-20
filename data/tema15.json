@@ -4191,7 +4191,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t15-140"
    }
   ],
   [
@@ -4404,7 +4406,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t15-049"
    }
   ],
   [
@@ -4474,7 +4478,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t15-068"
    }
   ],
   [
@@ -4774,7 +4780,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t15-150"
    }
   ],
   [
@@ -5004,7 +5012,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t15-165"
    }
   ],
   [
@@ -5057,7 +5067,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t15-167"
    }
   ],
   [
@@ -5075,6 +5087,218 @@
    [],
    {
     "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, el Ayuntamiento potenciará los medios de comunicación locales y propiciará el acceso a los mismos de:",
+   [
+    "Solo los grupos políticos municipales",
+    "Las entidades declaradas de utilidad pública únicamente",
+    "Los ciudadanos y asociaciones inscritas en el Censo Municipal de Entidades Ciudadanas"
+   ],
+   2,
+   "Art. 45.",
+   "rot 45",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, para regular las formas de promoción de la radio y televisión locales se elaborará:",
+   [
+    "Un convenio con la Comunidad Autónoma",
+    "Un reglamento interno, garantizando la representación de todos los grupos políticos municipales y del Consejo de la Ciudad en los planes de difusión",
+    "Una ordenanza fiscal reguladora de la comunicación"
+   ],
+   1,
+   "Art. 47.",
+   "rot 47",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, el Ayuntamiento reconocerá las actividades, realizaciones o trayectorias de personas y entidades que constituyan respetables ejemplos de:",
+   [
+    "Dignidad cívica, por su diligente cumplimiento de la Ley, la defensa de los derechos propios y ajenos y su respeto a las Instituciones Públicas",
+    "Excelencia profesional en el ámbito municipal",
+    "Colaboración económica con el Ayuntamiento"
+   ],
+   0,
+   "Art. 57.",
+   "rot 57",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, la entidad que solicita declaración de interés público dirigirá su petición al Alcalde, acompañada de una memoria suscrita por:",
+   [
+    "El Presidente y el Tesorero de la entidad",
+    "Dos tercios de los socios",
+    "El Presidente y el Secretario de la entidad"
+   ],
+   2,
+   "Art. 69.",
+   "rot 69",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, el Ayuntamiento subvencionará económicamente a las entidades inscritas en el Censo cuando complementen el fin público municipal:",
+   [
+    "En todo caso, con carácter obligatorio cada año",
+    "En la medida en que lo permitan los recursos presupuestados, con los requisitos y criterios de las convocatorias",
+    "Solo a las declaradas de interés público municipal"
+   ],
+   1,
+   "Art. 78.",
+   "rot 78",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, el Ayuntamiento promoverá la participación de las entidades de la sociedad civil en los entes supramunicipales que complementen el fin público municipal:",
+   [
+    "Mediante convenio obligatorio con la Diputación",
+    "Con arreglo a sus disponibilidades presupuestarias",
+    "Sin limitación presupuestaria alguna"
+   ],
+   1,
+   "Art. 79.",
+   "rot 79",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.1 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, entre las funciones de la Presidencia del Consejo de la Ciudad figura:",
+   [
+    "Aprobar los acuerdos del Pleno del Ayuntamiento",
+    "Presidir y coordinar la actuación del Consejo de la Ciudad",
+    "Resolver las quejas de la Comisión de Sugerencias"
+   ],
+   1,
+   "Art. 90.1.",
+   "rot 90.1",
+   "",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, el Consejo de la Ciudad podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter:",
+   [
+    "Siempre permanente",
+    "Temporal o permanente",
+    "Siempre temporal"
+   ],
+   1,
+   "Art. 95.",
+   "rot 95",
+   "",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 108.1 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, el Ayuntamiento adscribirá al Área de Participación Ciudadana una Oficina Técnica de la Comisión Especial de Sugerencias y Reclamaciones que le prestará:",
+   [
+    "Asesoramiento jurídico vinculante",
+    "Apoyo técnico y administrativo en el desempeño de sus funciones",
+    "Representación ante los tribunales"
+   ],
+   1,
+   "Art. 108.1.",
+   "rot 108.1",
+   "",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 112 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, la tramitación de las quejas, reclamaciones y sugerencias seguirá un tratamiento uniforme que garantice:",
+   [
+    "Su rápida contestación o su conocimiento",
+    "Su resolución por el Pleno",
+    "Su archivo en el plazo de un mes"
+   ],
+   0,
+   "Art. 112.",
+   "rot 112",
+   "",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, en las Juntas Vecinales se podrán crear Comisiones de Trabajo de carácter permanente para llevar a cabo estudios y actividades, por iniciativa propia o por encargo de los órganos de gobierno; su número, denominación y composición los establece libremente:",
+   [
+    "El Alcalde",
+    "El Consejo Territorial de Alcaldes de Barrio",
+    "El Pleno de la Junta"
+   ],
+   2,
+   "Art. 35.1.",
+   "rot 35.1",
+   "",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, la solicitud de declaración de interés ciudadano la dirige la entidad al Alcalde, con una memoria suscrita por el Presidente y el Secretario sobre el número de socios, los beneficiarios, los medios, las actividades de los dos últimos años, los resultados y:",
+   [
+    "El importe de las cuotas de los socios",
+    "El nivel o grado de cumplimiento de los fines estatutarios",
+    "El balance económico de los tres últimos ejercicios"
+   ],
+   1,
+   "Art. 73.",
+   "rot 73",
+   "",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
    }
   ]
  ]

@@ -2494,7 +2494,11 @@
    "h-disciplina",
    [
     "licencia, declaración responsable o comunicación previa"
-   ]
+   ],
+   {
+    "off": 1,
+    "dup": "t20-141"
+   }
   ],
   [
    "La comunicación previa y la declaración responsable legitiman para la realización de su objeto:",
@@ -2763,7 +2767,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t20-004"
    }
   ],
   [
@@ -3285,7 +3291,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t20-010"
    }
   ],
   [
@@ -3545,7 +3553,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t20-011"
    }
   ],
   [
@@ -4271,7 +4281,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t20-014"
    }
   ],
   [
@@ -4858,7 +4870,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t20-018"
    }
   ],
   [
@@ -5411,7 +5425,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t20-020"
    }
   ],
   [
@@ -5659,6 +5675,130 @@
    [],
    {
     "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 218 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, la edificación de parcelas y solares requerirá el establecimiento de la ordenación pormenorizada, el cumplimiento de los deberes legales de la propiedad y:",
+   [
+    "La previa cesión al Ayuntamiento del cincuenta por ciento del suelo",
+    "La previa aprobación del proyecto de reparcelación",
+    "La previa ejecución de las obras de urbanización aún pendientes o el cumplimiento de los requisitos para simultanearlas con las de edificación"
+   ],
+   2,
+   "Art. 218.",
+   "urb 218",
+   "",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 275 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, los actos dictados en materia de disciplina urbanística serán inscribibles en el Registro de la Propiedad:",
+   [
+    "En todo caso, de oficio por el Ayuntamiento",
+    "Solo cuando lo ordene el órgano judicial",
+    "En los supuestos establecidos en la normativa estatal de aplicación"
+   ],
+   2,
+   "Art. 275.",
+   "urb 275",
+   "",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 154.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, presentada una iniciativa en el Ayuntamiento y admitida a trámite por contener la documentación requerida, se procederá a la aprobación de los estatutos y bases de actuación conforme al procedimiento establecido para:",
+   [
+    "Los planes parciales, sin particularidad alguna",
+    "Los proyectos de urbanización, por vía de urgencia",
+    "Los estudios de detalle, con las particularidades del artículo"
+   ],
+   2,
+   "Art. 154.1.",
+   "urb 154.1",
+   "",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1.b de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, el plan general de ordenación urbana deberá establecer un horizonte temporal de gestión que, en defecto de previsión del planeamiento, será de:",
+   [
+    "Diez años",
+    "Quince años",
+    "Veinte años"
+   ],
+   2,
+   "Art. 39.1.b.",
+   "urb 39.1.b",
+   "",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, el modelo de evolución urbana y ocupación del territorio del plan general deberá ser específicamente evaluado en:",
+   [
+    "El procedimiento de información pública",
+    "El procedimiento de evaluación ambiental del plan general",
+    "El informe del Consejo Provincial de Urbanismo"
+   ],
+   1,
+   "Art. 39.2.",
+   "urb 39.2",
+   "",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.b de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, toda delimitación del suelo urbano debe incluir los terrenos que cuenten con servicios urbanísticos suficientes, y podrá incluir las parcelas que vayan a contar con ellos:",
+   [
+    "Tras la aprobación del proyecto de urbanización",
+    "Una vez cedidos los terrenos al Ayuntamiento",
+    "Sin otras obras que las de la conexión a las instalaciones ya en funcionamiento"
+   ],
+   2,
+   "Art. 71.b.",
+   "urb 71.b",
+   "",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.c de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, las alineaciones y rasantes que no afecten a la superficie destinada a espacios libres, públicos o privados, se podrán prever, modificar o reajustar a través de:",
+   [
+    "Un plan parcial",
+    "Un proyecto de urbanización",
+    "Un estudio de detalle"
+   ],
+   2,
+   "Art. 71.c.",
+   "urb 71.c",
+   "",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
    }
   ]
  ]

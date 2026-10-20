@@ -1056,7 +1056,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-002"
    }
   ],
   [
@@ -1074,7 +1076,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-001"
    }
   ],
   [
@@ -1091,7 +1095,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-003"
    }
   ],
   [
@@ -1127,7 +1133,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-006"
    }
   ],
   [
@@ -1162,7 +1170,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-008"
    }
   ],
   [
@@ -1232,7 +1242,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t04-013"
    }
   ],
   [
@@ -1284,7 +1296,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-014"
    }
   ],
   [
@@ -1301,7 +1315,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-009"
    }
   ],
   [
@@ -1318,7 +1334,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-010"
    }
   ],
   [
@@ -1352,7 +1370,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-012"
    }
   ],
   [
@@ -1422,7 +1442,9 @@
    "h-interesado",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-002"
    }
   ],
   [
@@ -1440,7 +1462,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-016"
    }
   ],
   [
@@ -1476,7 +1500,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-005"
    }
   ],
   [
@@ -1494,7 +1520,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-006"
    }
   ],
   [
@@ -1512,7 +1540,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-007"
    }
   ],
   [
@@ -1704,7 +1734,9 @@
    "h-ident-firma",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-030"
    }
   ],
   [
@@ -1876,7 +1908,9 @@
    "h-interesado",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-002"
    }
   ],
   [
@@ -1911,7 +1945,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-016"
    }
   ],
   [
@@ -1928,7 +1964,9 @@
    "h-interesado",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-003"
    }
   ],
   [
@@ -1945,7 +1983,9 @@
    "h-interesado",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-004"
    }
   ],
   [
@@ -1981,7 +2021,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-006"
    }
   ],
   [
@@ -1998,7 +2040,9 @@
    "h-interesado",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-007"
    }
   ],
   [
@@ -2016,7 +2060,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-008"
    }
   ],
   [
@@ -2050,7 +2096,9 @@
    "h-actuar",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-022"
    }
   ],
   [
@@ -2137,7 +2185,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t04-024"
    }
   ],
   [
@@ -2275,7 +2325,9 @@
    "h-actuar",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-027"
    }
   ],
   [
@@ -2293,7 +2345,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t04-013"
    }
   ],
   [
@@ -2327,7 +2381,9 @@
    "h-interesado",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-014"
    }
   ],
   [
@@ -2344,7 +2400,9 @@
    "h-interesado",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-009"
    }
   ],
   [
@@ -2361,7 +2419,9 @@
    "h-ident-firma",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-030"
    }
   ],
   [
@@ -2448,7 +2508,9 @@
    "h-ident-firma",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-011"
    }
   ],
   [
@@ -2482,7 +2544,9 @@
    "h-ident-firma",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-012"
    }
   ],
   [
@@ -2499,7 +2563,9 @@
    "h-ident-firma",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-033"
    }
   ],
   [
@@ -2534,7 +2600,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t04-035"
    }
   ],
   [
@@ -2894,7 +2962,9 @@
    "h-actuar",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t04-073"
    }
   ],
   [
@@ -3187,7 +3257,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-071"
    }
   ],
   [
@@ -3400,7 +3472,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t04-028"
    }
   ],
   [
@@ -3561,6 +3635,24 @@
    {
     "nuevo": 1,
     "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo DA6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no son admisibles en ningún caso, mientras el Estado no los regule específicamente en el marco del Derecho de la Unión Europea, los sistemas de identificación basados en:",
+   [
+    "Certificados electrónicos cualificados de firma electrónica",
+    "Claves concertadas en un registro previo de usuarios",
+    "Tecnologías de registro distribuido, y los sistemas de firma basados en ellas"
+   ],
+   2,
+   "Art. DA6.",
+   "lpac DA6",
+   "Confundir con los sistemas admitidos del art. 9.2",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
    }
   ]
  ]

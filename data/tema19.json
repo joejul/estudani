@@ -1178,7 +1178,11 @@
    "h-escalas",
    [
     "Administración General"
-   ]
+   ],
+   {
+    "off": 1,
+    "dup": "t19-034"
+   }
   ],
   [
    "La Escala de Administración Especial se divide en las subescalas:",
@@ -1604,7 +1608,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-005"
    }
   ],
   [
@@ -1621,7 +1627,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-012"
    }
   ],
   [
@@ -1674,7 +1682,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-007"
    }
   ],
   [
@@ -1778,7 +1788,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-008"
    }
   ],
   [
@@ -2036,7 +2048,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t19-055"
    }
   ],
   [
@@ -2054,7 +2068,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t19-055"
    }
   ],
   [
@@ -2775,7 +2791,9 @@
    "h-oferta-empleo",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-015"
    }
   ],
   [
@@ -2793,7 +2811,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-016"
    }
   ],
   [
@@ -2882,7 +2902,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-018"
    }
   ],
   [
@@ -2917,7 +2939,9 @@
    "h-grupos",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-020"
    }
   ],
   [
@@ -2953,7 +2977,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-024"
    }
   ],
   [
@@ -2989,7 +3015,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-022"
    }
   ],
   [
@@ -3025,7 +3053,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-025"
    }
   ],
   [
@@ -3061,7 +3091,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-066"
    }
   ],
   [
@@ -3114,7 +3146,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-069"
    }
   ],
   [
@@ -3167,7 +3201,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-072"
    }
   ],
   [
@@ -3201,7 +3237,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-074"
    }
   ],
   [
@@ -3219,7 +3257,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-075"
    }
   ],
   [
@@ -3236,7 +3276,9 @@
    "h-personal",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-026"
    }
   ],
   [
@@ -3254,7 +3296,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-027"
    }
   ],
   [
@@ -3360,7 +3404,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-030"
    }
   ],
   [
@@ -3377,7 +3423,9 @@
    "h-personal",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-005"
    }
   ],
   [
@@ -3447,7 +3495,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-012"
    }
   ],
   [
@@ -3481,7 +3531,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-050"
    }
   ],
   [
@@ -3498,7 +3550,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-052"
    }
   ],
   [
@@ -3515,7 +3569,9 @@
    "h-oferta-empleo",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-053"
    }
   ],
   [
@@ -3551,7 +3607,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-054"
    }
   ],
   [
@@ -3586,7 +3644,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t19-055"
    }
   ],
   [
@@ -3604,7 +3664,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t19-055"
    }
   ],
   [
@@ -3622,7 +3684,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t19-055"
    }
   ],
   [
@@ -3640,7 +3704,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-058"
    }
   ],
   [
@@ -3694,7 +3760,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-060"
    }
   ],
   [
@@ -3729,7 +3797,9 @@
    "h-personal",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-062"
    }
   ],
   [
@@ -3782,7 +3852,9 @@
    "h-eventual-limites",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-063"
    }
   ],
   [
@@ -3886,7 +3958,9 @@
    "h-eventual-limites",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-160"
    }
   ],
   [
@@ -3903,7 +3977,9 @@
    "h-eventual-limites",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-160"
    }
   ],
   [
@@ -3938,7 +4014,9 @@
    "h-eventual-limites",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-163"
    }
   ],
   [
@@ -3974,7 +4052,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-034"
    }
   ],
   [
@@ -3992,7 +4072,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-007"
    }
   ],
   [
@@ -4028,7 +4110,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-037"
    }
   ],
   [
@@ -4045,7 +4129,9 @@
    "h-escalas",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t19-038"
    }
   ],
   [
@@ -4063,7 +4149,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-039"
    }
   ],
   [
@@ -4081,7 +4169,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-040"
    }
   ],
   [
@@ -4117,7 +4207,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-042"
    }
   ],
   [
@@ -4188,7 +4280,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-047"
    }
   ],
   [
@@ -4275,7 +4369,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-076"
    }
   ],
   [
@@ -4397,7 +4493,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t19-078"
    }
   ],
   [
@@ -4498,6 +4596,24 @@
    "Lección del tema: plantilla",
    "",
    "h-plantilla",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, en el marco de sus competencias de autoorganización, las Administraciones Públicas estructuran sus recursos humanos de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y:",
+   [
+    "La distribución de funciones",
+    "La evaluación del desempeño",
+    "La negociación colectiva"
+   ],
+   0,
+   "Art. 72.",
+   "trebep 72",
+   "",
+   "h-grupos",
    [],
    {
     "nuevo": 1,

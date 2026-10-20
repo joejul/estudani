@@ -1629,7 +1629,11 @@
    "h-gran",
    [
     "máxima representación política"
-   ]
+   ],
+   {
+    "off": 1,
+    "dup": "t14-067"
+   }
   ],
   [
    "En los municipios de gran población, el número de miembros de la Junta de Gobierno Local:",
@@ -2653,7 +2657,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t14-070"
    }
   ],
   [
@@ -2775,7 +2781,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t14-013"
    }
   ],
   [
@@ -3536,7 +3544,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t14-019"
    }
   ],
   [
@@ -3894,7 +3904,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t14-013"
    }
   ],
   [
@@ -4069,6 +4081,78 @@
    "Ley 10/2017",
    "",
    "h-zaragoza-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1,
+    "off": 1,
+    "dup": "t14-114"
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, el municipio de Zaragoza goza, de acuerdo con la autonomía garantizada constitucionalmente, de:",
+   [
+    "Personalidad jurídica propia y capacidad de obrar limitada a los asuntos de su competencia",
+    "Potestad legislativa propia para los asuntos de interés público municipal",
+    "Personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público que afecten a sus ciudadanos"
+   ],
+   2,
+   "Art. 2.",
+   "l10-2017 2",
+   "",
+   "h-ley10",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, el Ayuntamiento de Zaragoza y el Gobierno de Aragón promoverán actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con:",
+   [
+    "Entidades financieras públicas",
+    "Las Cortes Generales",
+    "Instituciones internacionales, en el ámbito de sus competencias"
+   ],
+   2,
+   "Art. 5.",
+   "l10-2017 5",
+   "",
+   "h-ley10",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.1 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, las competencias del Pleno, del Gobierno de Zaragoza, del Alcalde y de los restantes órganos ejecutivos de dirección política y administrativa serán las establecidas en:",
+   [
+    "La Ley 10/2017 exclusivamente",
+    "El Reglamento orgánico municipal exclusivamente",
+    "La regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación"
+   ],
+   2,
+   "Art. 9.1.",
+   "l10-2017 9.1",
+   "",
+   "h-ley10",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, la Administración de la Comunidad Autónoma de Aragón y el Ayuntamiento de Zaragoza ajustarán sus relaciones a los criterios de información mutua, colaboración, coordinación y:",
+   [
+    "Subordinación jerárquica del Ayuntamiento",
+    "Control previo de la Comunidad Autónoma",
+    "Respeto a los ámbitos competenciales respectivos"
+   ],
+   2,
+   "Art. 19.",
+   "l10-2017 19",
+   "",
+   "h-ley10",
    [],
    {
     "nuevo": 1,

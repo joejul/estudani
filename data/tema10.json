@@ -2283,7 +2283,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-001"
    }
   ],
   [
@@ -2335,7 +2337,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-005"
    }
   ],
   [
@@ -2370,7 +2374,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-007"
    }
   ],
   [
@@ -2406,7 +2412,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-009"
    }
   ],
   [
@@ -2614,7 +2622,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-008"
    }
   ],
   [
@@ -2736,7 +2746,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t10-012"
    }
   ],
   [
@@ -3279,7 +3291,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-013"
    }
   ],
   [
@@ -3383,7 +3397,9 @@
    "h-defensa-patrimonio",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-007"
    }
   ],
   [
@@ -3419,7 +3435,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-024"
    }
   ],
   [
@@ -3453,7 +3471,9 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-028"
    }
   ],
   [
@@ -3470,7 +3490,9 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-029"
    }
   ],
   [
@@ -3504,7 +3526,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-031"
    }
   ],
   [
@@ -3521,7 +3545,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-006"
    }
   ],
   [
@@ -3539,7 +3565,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-008"
    }
   ],
   [
@@ -3660,7 +3688,9 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-041"
    }
   ],
   [
@@ -3677,7 +3707,9 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-052"
    }
   ],
   [
@@ -3747,7 +3779,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-054"
    }
   ],
   [
@@ -3765,7 +3799,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-055"
    }
   ],
   [
@@ -3782,7 +3818,9 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-057"
    }
   ],
   [
@@ -3922,7 +3960,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t10-061"
    }
   ],
   [
@@ -3939,7 +3979,9 @@
    "h-alteracion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-062"
    }
   ],
   [
@@ -3991,7 +4033,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-063"
    }
   ],
   [
@@ -4008,7 +4052,9 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-064"
    }
   ],
   [
@@ -4026,7 +4072,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-065"
    }
   ],
   [
@@ -4043,7 +4091,9 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-069"
    }
   ],
   [
@@ -4061,7 +4111,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-013"
    }
   ],
   [
@@ -4096,7 +4148,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t10-074"
    }
   ],
   [
@@ -4114,7 +4168,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-078"
    }
   ],
   [
@@ -4132,7 +4188,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-075"
    }
   ],
   [
@@ -4149,7 +4207,9 @@
    "h-patrimoniales",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-076"
    }
   ],
   [
@@ -4410,7 +4470,9 @@
    "h-regimen",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-005"
    }
   ],
   [
@@ -5179,7 +5241,9 @@
    "h-marco-estatal",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-126"
    }
   ],
   [
@@ -5232,7 +5296,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-128"
    }
   ],
   [
@@ -5250,7 +5316,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-136"
    }
   ],
   [
@@ -5267,7 +5335,9 @@
    "h-marco-estatal",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-139"
    }
   ],
   [
@@ -5284,7 +5354,9 @@
    "h-marco-estatal",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-006"
    }
   ],
   [
@@ -5337,7 +5409,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-146"
    }
   ],
   [
@@ -5354,7 +5428,9 @@
    "h-adquisicion",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-148"
    }
   ],
   [
@@ -5372,7 +5448,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-149"
    }
   ],
   [
@@ -5390,7 +5468,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t10-150"
    }
   ],
   [
@@ -5424,7 +5504,9 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-156"
    }
   ],
   [
@@ -5441,7 +5523,9 @@
    "h-uso-demanial",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t10-158"
    }
   ],
   [
@@ -5459,7 +5543,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-157"
    }
   ],
   [
@@ -5477,7 +5563,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t10-009"
    }
   ],
   [
@@ -5495,7 +5583,96 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t10-140"
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, los bienes de las Entidades locales se clasificarán en:",
+   [
+    "Bienes de dominio público y bienes patrimoniales",
+    "Bienes de uso público, de servicio público y comunales",
+    "Bienes demaniales, comunales y de propios"
+   ],
+   0,
+   "Art. 2.1.",
+   "rb 2.1",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.4 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, los bienes comunales solo podrán pertenecer a:",
+   [
+    "Las provincias y las comarcas",
+    "Los Municipios y a las Entidades locales menores",
+    "Cualquier Entidad local"
+   ],
+   1,
+   "Art. 2.4.",
+   "rb 2.4",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, son bienes de uso público local los caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento o utilización generales:",
+   [
+    "Cuya conservación y policía sean de la competencia de la Entidad local",
+    "Que hayan sido cedidos a la Entidad local por la Comunidad Autónoma",
+    "Que figuren inscritos en el Inventario como bienes patrimoniales"
+   ],
+   0,
+   "Art. 3.1.",
+   "rb 3.1",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, la afectación de los inmuebles al uso público se producirá, en todo caso:",
+   [
+    "En el momento de la aprobación definitiva del plan",
+    "En el momento de la cesión de derecho a la administración actuante conforme a la legislación urbanística",
+    "En el momento de la inscripción en el Registro de la Propiedad"
+   ],
+   1,
+   "Art. 3.2.",
+   "rb 3.2",
+   "",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, los bienes comunales y demás bienes de dominio público no están sujetos a:",
+   [
+    "Las normas del Derecho administrativo",
+    "El control de la Intervención",
+    "Tributo alguno"
+   ],
+   2,
+   "Art. 5.",
+   "rb 5",
+   "",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1
    }
   ]
  ]

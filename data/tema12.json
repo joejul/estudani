@@ -2238,7 +2238,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t12-003"
    }
   ],
   [
@@ -2778,7 +2780,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t12-009"
    }
   ],
   [
@@ -2952,7 +2956,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 1
+    "dif": 1,
+    "off": 1,
+    "dup": "t12-014"
    }
   ],
   [
@@ -3475,7 +3481,9 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "off": 1,
+    "dup": "t12-099"
    }
   ],
   [
@@ -4295,7 +4303,9 @@
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "off": 1,
+    "dup": "t12-146"
    }
   ],
   [
@@ -5039,6 +5049,460 @@
    {
     "nuevo": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, las entidades locales podrán exigir los precios públicos en régimen de:",
+   [
+    "Liquidación de oficio exclusivamente",
+    "Padrón anual cobratorio",
+    "Autoliquidación"
+   ],
+   2,
+   "Art. 45.",
+   "trlrhl 45",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la hacienda de los municipios estará constituida por los recursos enumerados en el artículo 2 de la ley:",
+   [
+    "Con las mismas reglas que las de las provincias",
+    "En los términos y con las especialidades que se recogen en el título II",
+    "Sin más límites que los fijados por cada ordenanza fiscal"
+   ],
+   1,
+   "Art. 56.",
+   "trlrhl 56",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por:",
+   [
+    "La ejecución de obras de interés general",
+    "La utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal",
+    "La participación en los tributos del Estado"
+   ],
+   1,
+   "Art. 57.",
+   "trlrhl 57",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, los ayuntamientos podrán establecer y exigir contribuciones especiales por la realización de obras o por:",
+   [
+    "La utilización privativa del dominio público",
+    "El establecimiento o ampliación de servicios municipales",
+    "El aprovechamiento de los bienes comunales"
+   ],
+   1,
+   "Art. 58.",
+   "trlrhl 58",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, el ejercicio de las actividades gravadas por el Impuesto sobre Actividades Económicas se probará:",
+   [
+    "Únicamente mediante la matrícula del impuesto",
+    "Por cualquier medio admisible en derecho, y en particular por los contemplados en el artículo 3 del Código de Comercio",
+    "Solo con la inscripción en el Registro Mercantil"
+   ],
+   1,
+   "Art. 80.",
+   "trlrhl 80",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, son sujetos pasivos del Impuesto sobre Actividades Económicas las personas físicas o jurídicas y las entidades del artículo 35.4 de la LGT, siempre que:",
+   [
+    "Realicen en territorio nacional cualquiera de las actividades que originan el hecho imponible",
+    "Tengan su domicilio fiscal en el municipio",
+    "Superen el importe neto de la cifra de negocios que fije la ordenanza"
+   ],
+   0,
+   "Art. 83.",
+   "trlrhl 83",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la cuota tributaria del Impuesto sobre Actividades Económicas será la resultante de aplicar las tarifas del impuesto de acuerdo con la ley y:",
+   [
+    "Un tipo único fijado por el Estado",
+    "Los índices correctores que apruebe la Comunidad Autónoma",
+    "Los coeficientes y las bonificaciones previstos por la ley y, en su caso, acordados por cada ayuntamiento en las ordenanzas fiscales"
+   ],
+   2,
+   "Art. 84.",
+   "trlrhl 84",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, los ayuntamientos podrán exigir el Impuesto sobre Construcciones, Instalaciones y Obras en régimen de:",
+   [
+    "Autoliquidación",
+    "Padrón cobratorio",
+    "Liquidación única de oficio"
+   ],
+   0,
+   "Art. 98.1.",
+   "trlrhl 98.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, se cede a cada uno de los municipios del ámbito del artículo 111 del rendimiento no cedido a las comunidades autónomas del IRPF producido en su territorio:",
+   [
+    "El 2,1336 por ciento",
+    "El 2,3266 por ciento",
+    "El 2,9220 por ciento"
+   ],
+   0,
+   "Art. 115.1.",
+   "trlrhl 115.1",
+   "Confundir los porcentajes de IRPF, IVA e impuestos especiales",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, se cede a cada uno de los municipios del ámbito del artículo 111 del rendimiento no cedido a las comunidades autónomas del IVA que se impute producido en su territorio:",
+   [
+    "El 2,1336 por ciento",
+    "El 2,3266 por ciento",
+    "El 2,9220 por ciento"
+   ],
+   1,
+   "Art. 116.1.",
+   "trlrhl 116.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, se cede a cada municipio del artículo 111 de los rendimientos no cedidos a las comunidades autónomas de los Impuestos sobre la Cerveza, el Vino y Bebidas Fermentadas, Productos Intermedios y el Alcohol y Bebidas Derivadas:",
+   [
+    "El 2,1336 por ciento",
+    "El 2,3266 por ciento",
+    "El 2,9220 por ciento"
+   ],
+   2,
+   "Art. 117.1.",
+   "trlrhl 117.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, participan en los tributos del Estado con arreglo al modelo del Capítulo II los municipios a los que se refiere:",
+   [
+    "El artículo 122 de la ley",
+    "El artículo 2 de la ley",
+    "El artículo 111 de la ley"
+   ],
+   2,
+   "Art. 118.",
+   "trlrhl 118",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, participan en tributos del Estado con arreglo al modelo descrito en la Sección 2.ª los municipios:",
+   [
+    "No incluidos en el artículo 111",
+    "Incluidos en el artículo 111",
+    "De más de 20.000 habitantes"
+   ],
+   0,
+   "Art. 122.",
+   "trlrhl 122",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, el índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten:",
+   [
+    "Los ingresos de las haciendas locales entre dos ejercicios consecutivos",
+    "La población del municipio entre el año base y el año de la participación",
+    "Los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base"
+   ],
+   2,
+   "Art. 121.",
+   "trlrhl 121",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, con carácter cuatrienal se revisará:",
+   [
+    "El conjunto de municipios que se incluirán en cada uno de los modelos de participación",
+    "El importe del Fondo Complementario de Financiación",
+    "Los tipos de gravamen de los impuestos municipales"
+   ],
+   0,
+   "Art. 126.",
+   "trlrhl 126",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, cuando se trate de los casos del artículo 67.1.b).1.º, el cómputo del período de reducción en la base imponible del IBI:",
+   [
+    "Se inicia de nuevo y se extingue el derecho a aplicar el resto de la reducción que se viniera aplicando",
+    "Continúa sin interrupción con el coeficiente anterior",
+    "Se suspende hasta la siguiente ponencia de valores"
+   ],
+   0,
+   "Art. 70.1.",
+   "trlrhl 70.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, no se podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales por las entidades locales que presten servicios que no se financien mayoritariamente con ingresos de mercado:",
+   [
+    "Sin comunicación previa a la Comunidad Autónoma",
+    "Sin acuerdo del Pleno por mayoría simple",
+    "Sin previa autorización de los órganos competentes del Ministerio de Hacienda y Administraciones Públicas"
+   ],
+   2,
+   "Art. 53.1.",
+   "trlrhl 53.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, en la concertación o modificación de operaciones de crédito con entidades financieras sujetas a Derecho privado vinculadas a la gestión del presupuesto, será de aplicación lo previsto en:",
+   [
+    "El artículo 3.1.k) de la Ley 9/2017 de Contratos del Sector Público",
+    "El artículo 3.1.k) del texto refundido de la Ley de Contratos de las Administraciones Públicas (RDLeg 2/2000)",
+    "El artículo 9 de la Ley 7/1985 reguladora de las Bases del Régimen Local"
+   ],
+   1,
+   "Art. 52.1.",
+   "trlrhl 52.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67.1.a de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la reducción en la base imponible del IBI es aplicable a inmuebles cuyo valor catastral se incremente como consecuencia de procedimientos de valoración colectiva de carácter general, por la aplicación de:",
+   [
+    "La primera ponencia total de valores aprobada con posterioridad al 1 de enero de 1997 y de las sucesivas una vez transcurrido el período de reducción",
+    "Cualquier modificación del valor catastral posterior a 2004",
+    "La primera ponencia de valores aprobada con posterioridad al 1 de enero de 2004"
+   ],
+   0,
+   "Art. 67.1.a.",
+   "trlrhl 67.1.a",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, el valor base de la reducción en la base imponible del IBI es, con carácter general:",
+   [
+    "La base liquidable del ejercicio inmediato anterior a la entrada en vigor del nuevo valor catastral",
+    "El valor catastral del ejercicio inmediato anterior",
+    "La base imponible del ejercicio en que entra en vigor el nuevo valor"
+   ],
+   0,
+   "Art. 69.",
+   "trlrhl 69",
+   "Base liquidable, no valor catastral",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, las alteraciones de los bienes inmuebles con trascendencia a efectos del IBI determinan la obligación de los sujetos pasivos de formalizar:",
+   [
+    "Una comunicación al ayuntamiento en el plazo de un mes",
+    "Una autoliquidación complementaria del impuesto",
+    "Las declaraciones conducentes a su inscripción en el Catastro Inmobiliario"
+   ],
+   2,
+   "Art. 76.1.",
+   "trlrhl 76.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.2 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, en los municipios acogidos por ordenanza fiscal al procedimiento de comunicación del Catastro, las declaraciones del art. 76 se entenderán realizadas cuando las alteraciones consten:",
+   [
+    "En el padrón del impuesto del ejercicio anterior",
+    "En la correspondiente licencia o autorización municipal, quedando el sujeto pasivo exento de declarar",
+    "En escritura pública inscrita en el Registro de la Propiedad"
+   ],
+   1,
+   "Art. 76.2.",
+   "trlrhl 76.2",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 113.1.2º de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, en el IRPF cedido a los municipios, se aplica el 50 por ciento a las cuotas líquidas de los contribuyentes que hayan optado por tributar por el Impuesto sobre la Renta de No Residentes conforme al régimen especial de:",
+   [
+    "Pensionistas residentes en el extranjero",
+    "Trabajadores desplazados a territorio español (art. 93 de la Ley 35/2006)",
+    "Personas jurídicas con sede en la Unión Europea"
+   ],
+   1,
+   "Art. 113.1.2º.",
+   "trlrhl 113.1.2º",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 119 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la participación de un municipio en el Fondo Complementario de Financiación se determina, para cada ejercicio, aplicando a la participación del año base:",
+   [
+    "Un índice de población, siendo el año base el 2003",
+    "El tipo de gravamen medio de los tributos locales",
+    "Un índice de evolución, siendo el año base el 2004"
+   ],
+   2,
+   "Art. 119.",
+   "trlrhl 119",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 120.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de:",
+   [
+    "La cesión del rendimiento de impuestos estatales (IRPF, IVA e impuestos especiales)",
+    "Las subvenciones recibidas de la Comunidad Autónoma",
+    "La recaudación de los tributos locales del ejercicio 2003"
+   ],
+   0,
+   "Art. 120.1.",
+   "trlrhl 120.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 123.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, en el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina:",
+   [
+    "Repartiendo el Fondo en proporción a la población",
+    "Aplicando un índice de evolución a la participación del año base",
+    "Según la recaudación propia de cada municipio"
+   ],
+   1,
+   "Art. 123.1.",
+   "trlrhl 123.1",
+   "",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1
    }
   ]
  ]
