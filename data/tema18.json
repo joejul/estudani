@@ -3988,6 +3988,346 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 64 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "la renuncia a la condición de funcionario no inhabilita para ingresar de nuevo en la Administración Pública a través del procedimiento de selección establecido",
+    "la renuncia voluntaria a la condición de funcionario habrá de manifestarse por escrito y se entenderá aceptada por silencio",
+    "no podrá ser aceptada la renuncia a la condición de funcionario cuando esté sujeto a expediente disciplinario o haya sido dictado en su contra auto de procesamiento o de apertura de juicio oral por la comisión de algún delito"
+   ],
+   1,
+   "La incorrecta es «la renuncia voluntaria a la condición de funcionario habrá de manifestarse por escrito y se entenderá aceptada por silencio». Lo correcto: la renuncia voluntaria a la condición de funcionario habrá de manifestarse por escrito y ser aceptada expresamente por la Administración.",
+   "trebep 64.1",
+   "Proposición negativa",
+   "h-adquirir",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "una edad máxima de acceso al empleo público distinta de la de jubilación forzosa solo puede establecerse por ley",
+    "los requisitos específicos de acceso deberán guardar relación objetiva y proporcionada con las funciones y establecerse de manera abstracta y general",
+    "para participar en los procesos selectivos será necesario, entre otros requisitos estar empadronado en el municipio convocante con una antelación mínima de un año"
+   ],
+   2,
+   "La incorrecta es «para participar en los procesos selectivos será necesario, entre otros requisitos estar empadronado en el municipio convocante con una antelación mínima de un año». Lo correcto: para participar en los procesos selectivos será necesario, entre otros requisitos poseer la capacidad funcional para el desempeño de las tareas y la titulación exigida.",
+   "trebep 56.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "quienes tras superar el proceso no acrediten los requisitos de la convocatoria no podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a ellos",
+    "el nombramiento de funcionario de carrera será publicado en el Diario Oficial correspondiente",
+    "el acto de acatamiento incluye la Constitución, en su caso el Estatuto de Autonomía correspondiente y las leyes de función Pública únicamente"
+   ],
+   2,
+   "La incorrecta es «el acto de acatamiento incluye la Constitución, en su caso el Estatuto de Autonomía correspondiente y las leyes de función Pública únicamente». Lo correcto: el acto de acatamiento incluye la Constitución, en su caso el Estatuto de Autonomía correspondiente y el resto del ordenamiento Jurídico.",
+   "trebep 62.1.c",
+   "Proposición negativa",
+   "h-adquirir",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "los funcionarios o personal laboral que indujeren a otros a la realización de actos constitutivos de falta disciplinaria incurrirán en la misma responsabilidad que éstos",
+    "los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido en el título correspondiente del TREBEP y en las leyes de función Pública de desarrollo; y el régimen disciplinario del personal laboral se regirá, en lo no previsto en el título VII, por la legislación laboral",
+    "incurrirán en responsabilidad los funcionarios o personal laboral que encubrieren las faltas consumadas muy graves únicamente, aunque no se derive daño grave para la Administración o los ciudadanos"
+   ],
+   2,
+   "La incorrecta es «incurrirán en responsabilidad los funcionarios o personal laboral que encubrieren las faltas consumadas muy graves únicamente, aunque no se derive daño grave para la Administración o los ciudadanos». Lo correcto: incurrirán en responsabilidad los funcionarios o personal laboral que encubrieren las faltas consumadas muy graves o graves, cuando de dichos actos se derive daño grave para la Administración o los ciudadanos.",
+   "trebep 93.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista tendrán derecho a disfrutar de un período de excedencia en las mismas condiciones que las víctimas de violencia de género o de violencia sexual",
+    "quienes se encuentren en excedencia por interés particular computan el tiempo a efectos de trienios y de ascensos, aunque no devenguen retribuciones",
+    "los funcionarios de carrera tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo; el puesto de trabajo se reservará, al menos, durante dos años, y transcurrido este período, la reserva lo será a un puesto en la misma localidad y de igual retribución"
+   ],
+   1,
+   "La incorrecta es «quienes se encuentren en excedencia por interés particular computan el tiempo a efectos de trienios y de ascensos, aunque no devenguen retribuciones». Lo correcto: quienes se encuentren en excedencia por interés particular no devengarán retribuciones ni les será computable el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social.",
+   "trebep 89.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "los requisitos específicos de acceso deberán guardar relación objetiva y proporcionada con las funciones y establecerse de forma individualizada por puesto",
+    "entre los requisitos de acceso está no haber sido separado mediante expediente disciplinario del servicio de cualquier Administración ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial",
+    "para participar en los procesos selectivos será necesario, entre otros requisitos poseer la capacidad funcional para el desempeño de las tareas y la titulación exigida"
+   ],
+   0,
+   "La incorrecta es «los requisitos específicos de acceso deberán guardar relación objetiva y proporcionada con las funciones y establecerse de forma individualizada por puesto». Lo correcto: los requisitos específicos de acceso deberán guardar relación objetiva y proporcionada con las funciones y establecerse de manera abstracta y general.",
+   "trebep 56.3",
+   "Proposición negativa",
+   "h-acceso",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "los procesos selectivos tendrán carácter abierto y garantizarán la preferencia de los residentes en el territorio de la Administración que convoca el proceso",
+    "las Administraciones podrán crear órganos especializados y permanentes para organizar procesos selectivos, pudiendo encomendar estas funciones a los Institutos o Escuelas de Administración Pública",
+    "los procesos selectivos que incluyan valoración de méritos sólo podrán otorgar a dicha valoración una puntuación proporcionada que no determinará, en ningún caso, por sí misma el resultado del proceso selectivo"
+   ],
+   0,
+   "La incorrecta es «los procesos selectivos tendrán carácter abierto y garantizarán la preferencia de los residentes en el territorio de la Administración que convoca el proceso». Lo correcto: los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y las medidas de discriminación positiva.",
+   "trebep 61.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "no podrán formar parte de los órganos de selección los funcionarios de carrera que no pertenezcan a la Administración convocante del proceso selectivo",
+    "la pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse en representación o por cuenta de nadie",
+    "los órganos de selección serán colegiados y su composición deberá ajustarse a los principios de imparcialidad y profesionalidad de sus miembros y se tenderá, asimismo, a la paridad entre mujer y hombre"
+   ],
+   0,
+   "La incorrecta es «no podrán formar parte de los órganos de selección los funcionarios de carrera que no pertenezcan a la Administración convocante del proceso selectivo». Lo correcto: no podrán formar parte de los órganos de selección el personal de elección o de designación política, los funcionarios interinos y el personal eventual.",
+   "trebep 60.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y las medidas de discriminación positiva",
+    "las Administraciones podrán crear órganos especializados y permanentes para organizar procesos selectivos, pudiendo encomendar estas funciones a los Institutos o Escuelas de Administración Pública",
+    "para asegurar la objetividad de los procesos selectivos, las pruebas podrán completarse con cursos, períodos de prácticas, exposición curricular, psicotécnicos, entrevistas e igualmente informes de la última Administración"
+   ],
+   2,
+   "La incorrecta es «para asegurar la objetividad de los procesos selectivos, las pruebas podrán completarse con cursos, períodos de prácticas, exposición curricular, psicotécnicos, entrevistas e igualmente informes de la última Administración». Lo correcto: para asegurar la objetividad de los procesos selectivos, las pruebas podrán completarse con cursos, períodos de prácticas, exposición curricular, psicotécnicos, entrevistas e igualmente reconocimientos médicos.",
+   "trebep 61.5",
+   "Proposición negativa",
+   "h-acceso",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "las previsiones de acceso de nacionales de la UE se aplican, cualquiera que sea su nacionalidad, al cónyuge y a los descendientes menores de dieciocho años o mayores dependientes",
+    "solo por ley de las Cortes Generales o de las asambleas legislativas autonómicas podrá eximirse del requisito de la nacionalidad por razones de interés general para el acceso a la condición de personal funcionario",
+    "los nacionales de los estados miembros de la Unión Europea podrán acceder como personal funcionario, en igualdad de condiciones que los españoles, a los empleos públicos, con excepción de los que directa o indirectamente impliquen una participación en el ejercicio del poder público o en las funciones de salvaguardia de los intereses del Estado o de las Administraciones Públicas"
+   ],
+   0,
+   "La incorrecta es «las previsiones de acceso de nacionales de la UE se aplican, cualquiera que sea su nacionalidad, al cónyuge y a los descendientes menores de dieciocho años o mayores dependientes». Lo correcto: las previsiones de acceso de nacionales de la UE se aplican, cualquiera que sea su nacionalidad, al cónyuge y a los descendientes menores de veintiún años o mayores dependientes, siempre que no estén separados de derecho.",
+   "trebep 57.2",
+   "Proposición negativa",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "el alcance de cada sanción se establece teniendo en cuenta, entre otros, el grado de intencionalidad, el daño al interés público, la reiteración o reincidencia y el cargo que ocupe",
+    "por razón de las faltas cometidas podrán imponerse sanciones como separación del servicio, despido disciplinario del personal laboral, suspensión firme de funciones (máximo 6 años), traslado forzoso, demérito y apercibimiento",
+    "la separación del servicio solo puede sancionar la comisión de faltas muy graves, y en funcionarios interinos comporta la revocación del nombramiento"
+   ],
+   0,
+   "La incorrecta es «el alcance de cada sanción se establece teniendo en cuenta, entre otros, el grado de intencionalidad, el daño al interés público, la reiteración o reincidencia y el cargo que ocupe». Lo correcto: el alcance de cada sanción se establece teniendo en cuenta, entre otros, el grado de intencionalidad, el daño al interés público, la reiteración o reincidencia y el grado de participación.",
+   "trebep 96.3",
+   "Proposición negativa",
+   "h-disciplina",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "solo por ley de las Cortes Generales o de las asambleas legislativas autonómicas podrá eximirse del requisito de la nacionalidad por razones de interés general para el acceso a la condición de personal funcionario",
+    "los extranjeros con residencia legal en España podrán acceder a las Administraciones como personal funcionario de carrera",
+    "los nacionales de los estados miembros de la Unión Europea podrán acceder como personal funcionario, en igualdad de condiciones que los españoles, a los empleos públicos, con excepción de los que directa o indirectamente impliquen una participación en el ejercicio del poder público o en las funciones de salvaguardia de los intereses del Estado o de las Administraciones Públicas"
+   ],
+   1,
+   "La incorrecta es «los extranjeros con residencia legal en España podrán acceder a las Administraciones como personal funcionario de carrera». Lo correcto: los extranjeros con residencia legal en España podrán acceder a las Administraciones como personal laboral, en igualdad de condiciones que los españoles.",
+   "trebep 57.4",
+   "Proposición negativa",
+   "h-acceso-extranj",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "la imposición de sanciones por faltas leves se llevará a cabo por resolución directa sin audiencia",
+    "en el procedimiento disciplinario quedará establecida la debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos",
+    "durante la suspensión provisional el funcionario tendrá derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo"
+   ],
+   0,
+   "La incorrecta es «la imposición de sanciones por faltas leves se llevará a cabo por resolución directa sin audiencia». Lo correcto: la imposición de sanciones por faltas leves se llevará a cabo por Procedimiento sumario con audiencia al interesado.",
+   "trebep 98.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "entre los requisitos de acceso está no haber sido separado mediante expediente disciplinario del servicio de cualquier Administración ni hallarse en suspensión de funciones por sanción leve",
+    "no podrá participar en procesos selectivos quien haya sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o se halle en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial",
+    "en las Comunidades Autónomas con dos lenguas oficiales, las Administraciones deberán prever la selección de empleados públicos debidamente capacitados para cubrir los puestos"
+   ],
+   0,
+   "La incorrecta es «entre los requisitos de acceso está no haber sido separado mediante expediente disciplinario del servicio de cualquier Administración ni hallarse en suspensión de funciones por sanción leve». Lo correcto: entre los requisitos de acceso está no haber sido separado mediante expediente disciplinario del servicio de cualquier Administración ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial.",
+   "trebep 56.1.d",
+   "Proposición negativa",
+   "h-acceso",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "durante la suspensión provisional el funcionario tendrá derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo",
+    "en el procedimiento disciplinario la fase instructora y la sancionadora se encomiendan a órganos distintos",
+    "no podrá imponerse sanción por la comisión de faltas muy graves o graves sin la audiencia previa del Comité de empresa y de los delegados sindicales del personal"
+   ],
+   2,
+   "La incorrecta es «no podrá imponerse sanción por la comisión de faltas muy graves o graves sin la audiencia previa del Comité de empresa y de los delegados sindicales del personal». Lo correcto: no podrá imponerse sanción por la comisión de faltas muy graves o graves sino mediante el procedimiento previamente establecido.",
+   "trebep 98.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "la suspensión firme se impone en virtud de sentencia dictada en causa criminal o de sanción disciplinaria",
+    "podrá acordarse la suspensión de funciones con carácter provisional con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario",
+    "el funcionario declarado en situación de suspensión quedará privado del ejercicio de sus funciones y de todos los derechos inherentes a la condición; la suspensión determinará la pérdida del puesto de trabajo cuando exceda de un mes"
+   ],
+   2,
+   "La incorrecta es «el funcionario declarado en situación de suspensión quedará privado del ejercicio de sus funciones y de todos los derechos inherentes a la condición; la suspensión determinará la pérdida del puesto de trabajo cuando exceda de un mes». Lo correcto: el funcionario declarado en situación de suspensión quedará privado del ejercicio de sus funciones y de todos los derechos inherentes a la condición; la suspensión determinará la pérdida del puesto de trabajo cuando exceda de seis meses.",
+   "trebep 90.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un período mínimo de cinco años inmediatamente anteriores",
+    "los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista tendrán derecho a disfrutar de un período de excedencia en las mismas condiciones que la excedencia voluntaria por interés particular",
+    "los funcionarios de carrera tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo; el puesto de trabajo se reservará, al menos, durante dos años, y transcurrido este período, la reserva lo será a un puesto en la misma localidad y de igual retribución"
+   ],
+   1,
+   "La incorrecta es «los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista tendrán derecho a disfrutar de un período de excedencia en las mismas condiciones que la excedencia voluntaria por interés particular». Lo correcto: los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista tendrán derecho a disfrutar de un período de excedencia en las mismas condiciones que las víctimas de violencia de género o de violencia sexual.",
+   "trebep 89.6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "la sanción de demérito consiste en la penalización a efectos de carrera, promoción o movilidad voluntaria",
+    "la separación del servicio solo puede sancionar la comisión de faltas graves y muy graves",
+    "procede la readmisión del personal laboral fijo cuando sea declarado improcedente el despido disciplinario por falta muy grave"
+   ],
+   1,
+   "La incorrecta es «la separación del servicio solo puede sancionar la comisión de faltas graves y muy graves». Lo correcto: la separación del servicio solo puede sancionar la comisión de faltas muy graves, y en funcionarios interinos comporta la revocación del nombramiento.",
+   "trebep 96.1.a",
+   "Proposición negativa",
+   "h-disciplina",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
   ]
  ]
 }

@@ -3602,6 +3602,775 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 194 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "los regímenes de autorización deberán basarse en criterios que delimiten el ejercicio de la facultad de apreciación de las autoridades competentes con el fin de que dicha facultad no se ejerza de forma arbitraria",
+    "si la actividad requiere autorización o licencia municipal y de la Administración de la Comunidad Autónoma, deberá establecerse dos autorizaciones independientes, una municipal y otra autonómica, sin coordinación entre ambas",
+    "las autorizaciones y licencias se exigirán en los términos previstos en la legislación sectorial que sea de aplicación por razón de la materia"
+   ],
+   1,
+   "La incorrecta es «si la actividad requiere autorización o licencia municipal y de la Administración de la Comunidad Autónoma, deberá establecerse dos autorizaciones independientes, una municipal y otra autonómica, sin coordinación entre ambas». Lo correcto: si la actividad requiere autorización o licencia municipal y de la Administración de la Comunidad Autónoma, deberá establecerse un procedimiento de gestión coordinada que comportará una sola autorización de una de las dos administraciones.",
+   "l7-1999 194.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 220 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "los municipios podrán solicitar la dispensa del establecimiento o prestación de los servicios obligatorios cuando resulte imposible o muy difícil su cumplimiento",
+    "la solicitud de dispensa de servicios obligatorios se dirigirá al Departamento de Presidencia y relaciones Institucionales, previa instrucción del procedimiento",
+    "la dispensa también podrá fundarse en la falta de personal"
+   ],
+   2,
+   "La incorrecta es «la dispensa también podrá fundarse en la falta de personal». Lo correcto: la dispensa también podrá fundarse en la innecesariedad de la prestación del servicio.",
+   "rbaso 220.2",
+   "Proposición negativa",
+   "h-servicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "la gestión indirecta de los servicios públicos locales se realiza mediante encomiendas de gestión únicamente",
+    "la gestión directa de los servicios públicos locales puede ser por la propia entidad Local, organismo autónomo local, entidad pública empresarial local o sociedad mercantil local con capital social de titularidad pública",
+    "para optar por entidad pública empresarial o sociedad mercantil se recabará informe del interventor local que valorará la sostenibilidad financiera de las propuestas planteadas, conforme al artículo 4 de la Ley Orgánica 2/2012"
+   ],
+   0,
+   "La incorrecta es «la gestión indirecta de los servicios públicos locales se realiza mediante encomiendas de gestión únicamente». Lo correcto: la gestión indirecta de los servicios públicos locales se realiza mediante las distintas formas previstas para el contrato de gestión de servicios públicos en la legislación de contratos del sector público.",
+   "lbrl 85.2.B",
+   "Proposición negativa",
+   "h-servicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 225 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la actividad de fomento se realizará de acuerdo con los principios de publicidad, objetividad, libre concurrencia e igualdad, respeto de las reglas de libre competencia y adecuación a la legalidad presupuestaria",
+    "las entidades locales comprobarán la aplicación efectiva de las ayudas recibidas a la finalidad prevista",
+    "en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de los convenios colectivos"
+   ],
+   2,
+   "La incorrecta es «en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de los convenios colectivos». Lo correcto: en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de los planes sectoriales de coordinación aprobados por la Administración del Estado o de la Comunidad Autónoma.",
+   "l7-1999 225.2",
+   "Proposición negativa",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 196 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las autorizaciones o licencias quedarán resueltas y sin efecto cuando su titular incumpla las condiciones impuestas por causas que le sean imputables",
+    "procederá la revocación de las licencias por cambio o desaparición de las circunstancias que determinaron su otorgamiento, o por sobrevenir otras nuevas que hubieran justificado su denegación; en el procedimiento se dará audiencia a los interesados",
+    "no procederá indemnización cuando la anulación de la licencia se deba a un cambio de criterio de la Corporación en la apreciación de las condiciones para su otorgamiento"
+   ],
+   2,
+   "La incorrecta es «no procederá indemnización cuando la anulación de la licencia se deba a un cambio de criterio de la Corporación en la apreciación de las condiciones para su otorgamiento». Lo correcto: no procederá indemnización cuando la anulación de la licencia se deba a dolo, culpa o negligencia grave imputable al interesado.",
+   "l7-1999 196.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 197 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las ordenanzas locales, en materias de competencia exclusiva local y en ausencia de previsión legal específica, podrán tipificar como infracción el incumplimiento de los mandatos y prohibiciones en ellas establecidos, con multas dentro de los límites señalados",
+    "la instrucción de los procedimientos sancionadores corresponderá al funcionario, unidad administrativa u órgano que se determine en el acuerdo de iniciación o, con carácter general, en las ordenanzas locales",
+    "la iniciación y resolución de los procedimientos sancionadores corresponde a la Junta de Gobierno Local"
+   ],
+   2,
+   "La incorrecta es «la iniciación y resolución de los procedimientos sancionadores corresponde a la Junta de Gobierno Local». Lo correcto: la iniciación y resolución de los procedimientos sancionadores corresponde al Presidente de la Corporación, salvo que la ley o las ordenanzas lo atribuyan a otro órgano.",
+   "l7-1999 197.3",
+   "Proposición negativa",
+   "h-policia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 231 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la facultad de establecer la forma de gestión de los servicios públicos corresponderá a las Entidades locales, sin perjuicio de lo que disponga la legislación sectorial",
+    "la gestión indirecta de los servicios públicos locales adoptará alguna de las siguientes formas organismo autónomo local y sociedad mercantil cuyo capital social pertenezca íntegramente a la entidad",
+    "la gestión directa de los servicios públicos locales adoptará alguna de las siguientes formas gestión por la propia entidad local (órganos ordinarios o especial de administración), organismo autónomo local o sociedad mercantil cuyo capital pertenezca íntegramente a la entidad"
+   ],
+   1,
+   "La incorrecta es «la gestión indirecta de los servicios públicos locales adoptará alguna de las siguientes formas organismo autónomo local y sociedad mercantil cuyo capital social pertenezca íntegramente a la entidad». Lo correcto: la gestión indirecta de los servicios públicos locales adoptará alguna de las siguientes formas concesión, gestión interesada, arrendamiento, concierto y sociedad mercantil o cooperativa cuyo capital pertenezca parcialmente a la entidad.",
+   "rbaso 231.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "los organismos autónomos locales y entidades públicas empresariales locales se rigen por los artículos 45 a 52 y 53 a 60 de la Ley 6/1997 (LOFAGE), respectivamente, en cuanto les resulte de aplicación con las especialidades de la propia LBRL",
+    "en los municipios del título X de la LBRL, el titular del máximo órgano de dirección tendrá la consideración de órgano directivo",
+    "la creación, modificación, refundición y supresión de organismos autónomos y entidades públicas empresariales locales corresponderá a la Junta de Gobierno Local, que aprobará sus estatutos y los adscribirá a una Concejalía"
+   ],
+   2,
+   "La incorrecta es «la creación, modificación, refundición y supresión de organismos autónomos y entidades públicas empresariales locales corresponderá a la Junta de Gobierno Local, que aprobará sus estatutos y los adscribirá a una Concejalía». Lo correcto: la creación, modificación, refundición y supresión de organismos autónomos y entidades públicas empresariales locales corresponderá al Pleno de la entidad local, quien aprobará sus estatutos.",
+   "lbrl 85 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales",
+    "la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "entre los medios de intervención de las Entidades locales figuran las órdenes generales de policía"
+   ],
+   2,
+   "La incorrecta es «entre los medios de intervención de las Entidades locales figuran las órdenes generales de policía». Lo correcto: entre los medios de intervención de las Entidades locales figuran las órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo.",
+   "lbrl 84.1.e",
+   "Proposición negativa",
+   "h-policia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos cuando el solicitante sea una persona jurídica y la actividad se desarrolle en un local de más de 300 metros",
+    "puede exigirse licencia cuando, por escasez de recursos naturales, utilización de dominio público, impedimentos técnicos o servicios públicos con tarifas reguladas el número de operadores económicos del mercado sea limitado",
+    "las instalaciones o infraestructuras para actividades económicas solo se someterán a autorización cuando lo establezca una Ley que defina sus requisitos esenciales, sean susceptibles de generar daños al medio ambiente, seguridad, salud o patrimonio histórico y resulte proporcionado"
+   ],
+   0,
+   "La incorrecta es «podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos cuando el solicitante sea una persona jurídica y la actividad se desarrolle en un local de más de 300 metros». Lo correcto: podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente y no puedan salvaguardarse mediante declaración responsable o comunicación.",
+   "lbrl 84 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 196 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "procederá la revocación de las licencias por cambio o desaparición de las circunstancias que determinaron su otorgamiento y también cuando la Corporación adoptase nuevos criterios de apreciación recogidos en la normativa aplicable, dando audiencia a los interesados",
+    "las autorizaciones o licencias quedarán resueltas y sin efecto cuando transcurran cinco años desde su otorgamiento sin que se haya iniciado la actividad",
+    "no procederá indemnización cuando la anulación de la licencia se deba a dolo, culpa o negligencia grave imputable al interesado"
+   ],
+   1,
+   "La incorrecta es «las autorizaciones o licencias quedarán resueltas y sin efecto cuando transcurran cinco años desde su otorgamiento sin que se haya iniciado la actividad». Lo correcto: las autorizaciones o licencias quedarán resueltas y sin efecto cuando su titular incumpla las condiciones impuestas por causas que le sean imputables.",
+   "l7-1999 196.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "la creación, modificación, refundición y supresión de organismos autónomos y entidades públicas empresariales locales corresponderá al Pleno de la entidad local, quien aprobará sus estatutos",
+    "las entidades públicas empresariales y los organismos autónomos locales deberán quedar adscritos a una Concejalía, Área u órgano equivalente de la entidad local; las empresariales también podrán estarlo a un organismo autónomo local",
+    "los organismos autónomos locales y entidades públicas empresariales locales se rigen por los artículos 45 a 52 y 53 a 60 de la Ley 6/1997 (LOFAGE), respectivamente, en cuanto les resulte de aplicación con las que fije cada Comunidad Autónoma"
+   ],
+   2,
+   "La incorrecta es «los organismos autónomos locales y entidades públicas empresariales locales se rigen por los artículos 45 a 52 y 53 a 60 de la Ley 6/1997 (LOFAGE), respectivamente, en cuanto les resulte de aplicación con las que fije cada Comunidad Autónoma». Lo correcto: los organismos autónomos locales y entidades públicas empresariales locales se rigen por los artículos 45 a 52 y 53 a 60 de la Ley 6/1997 (LOFAGE), respectivamente, en cuanto les resulte de aplicación con las especialidades de la propia LBRL.",
+   "lbrl 85 bis.1",
+   "Proposición negativa",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "las entidades públicas empresariales y los organismos autónomos locales deberán quedar adscritos a una Concejalía, Área u órgano equivalente de la entidad local; las empresariales también podrán estarlo a un organismo autónomo local",
+    "el titular del máximo órgano de dirección de estos entes deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos y con más de cinco años de ejercicio profesional en ambos casos",
+    "los organismos autónomos locales y entidades públicas empresariales locales se rigen por los artículos 45 a 52 y 53 a 60 de la Ley 6/1997 (LOFAGE), respectivamente, en cuanto les resulte de aplicación con las especialidades de la propia LBRL"
+   ],
+   1,
+   "La incorrecta es «el titular del máximo órgano de dirección de estos entes deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos y con más de cinco años de ejercicio profesional en ambos casos». Lo correcto: el titular del máximo órgano de dirección de estos entes deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos y con más de cinco años de ejercicio profesional en el segundo caso (el profesional del sector privado).",
+   "lbrl 85 bis.1.b",
+   "Proposición negativa",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 194 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "los regímenes de autorización deberán basarse en criterios que delimiten el ejercicio de la facultad de apreciación de las autoridades competentes con el fin de que dicha facultad no se ejerza de forma arbitraria",
+    "cuando el ejercicio de una actividad requiera una licencia en cuyo otorgamiento hayan de intervenir diversas unidades o servicios municipales se les dará tramitación conjunta y simultánea en un único procedimiento que concluirá en una sola resolución",
+    "las autorizaciones y licencias se exigirán por decreto del Alcalde"
+   ],
+   2,
+   "La incorrecta es «las autorizaciones y licencias se exigirán por decreto del Alcalde». Lo correcto: las autorizaciones y licencias se exigirán en los términos previstos en la legislación sectorial que sea de aplicación por razón de la materia.",
+   "l7-1999 194.1",
+   "Proposición negativa",
+   "h-licencias",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "la gestión indirecta de los servicios públicos locales se realiza mediante convenios con otras entidades locales",
+    "para optar por entidad pública empresarial o sociedad mercantil se recabará informe del interventor local que valorará la sostenibilidad financiera de las propuestas planteadas, conforme al artículo 4 de la Ley Orgánica 2/2012",
+    "los servicios públicos de competencia local habrán de gestionarse de la forma más sostenible y eficiente de entre las enumeradas en el artículo"
+   ],
+   0,
+   "La incorrecta es «la gestión indirecta de los servicios públicos locales se realiza mediante convenios con otras entidades locales». Lo correcto: la gestión indirecta de los servicios públicos locales se realiza mediante las distintas formas previstas para el contrato de gestión de servicios públicos en la legislación de contratos del sector público.",
+   "lbrl 85.2.B",
+   "Proposición negativa",
+   "h-servicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "para evaluar el riesgo de las instalaciones se atenderá, entre otras características, a la potencia eléctrica o energética, la capacidad o aforo, la contaminación acústica, las aguas residuales y los materiales inflamables o contaminantes",
+    "puede exigirse licencia cuando, por escasez de recursos naturales, utilización de dominio público, impedimentos técnicos o servicios públicos con tarifas reguladas la actividad sea de temporada",
+    "podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente y no puedan salvaguardarse mediante declaración responsable o comunicación"
+   ],
+   1,
+   "La incorrecta es «puede exigirse licencia cuando, por escasez de recursos naturales, utilización de dominio público, impedimentos técnicos o servicios públicos con tarifas reguladas la actividad sea de temporada». Lo correcto: puede exigirse licencia cuando, por escasez de recursos naturales, utilización de dominio público, impedimentos técnicos o servicios públicos con tarifas reguladas el número de operadores económicos del mercado sea limitado.",
+   "lbrl 84 bis.1.b",
+   "Proposición negativa",
+   "h-84-bis",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 194 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la competencia para otorgar autorizaciones y licencias corresponde al Pleno, a no ser que la legislación sectorial la atribuya a otro órgano local",
+    "las autorizaciones y licencias se exigirán en los términos previstos en la legislación sectorial que sea de aplicación por razón de la materia",
+    "los regímenes de autorización deberán basarse en criterios que delimiten el ejercicio de la facultad de apreciación de las autoridades competentes con el fin de que dicha facultad no se ejerza de forma arbitraria"
+   ],
+   0,
+   "La incorrecta es «la competencia para otorgar autorizaciones y licencias corresponde al Pleno, a no ser que la legislación sectorial la atribuya a otro órgano local». Lo correcto: la competencia para otorgar autorizaciones y licencias corresponde al Alcalde, a no ser que la legislación sectorial la atribuya a otro órgano.",
+   "l7-1999 194.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las subvenciones podrán otorgarse directamente, entre otros supuestos cuando estuvieran previstas singularmente en el presupuesto de la entidad",
+    "las subvenciones locales podrán otorgarse mediante concurso público o directamente",
+    "con carácter general, las subvenciones se otorgarán directamente por el Alcalde"
+   ],
+   2,
+   "La incorrecta es «con carácter general, las subvenciones se otorgarán directamente por el Alcalde». Lo correcto: con carácter general, las subvenciones se otorgarán mediante concurso público, previa convocatoria, con propuesta de una Comisión cuya composición establecerán las bases.",
+   "rbaso 184.2",
+   "Proposición negativa",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las subvenciones locales podrán otorgarse solo directamente, sin convocatoria previa ni concurso público, por decisión del órgano competente",
+    "podrán otorgarse directamente las subvenciones destinadas a atender situaciones perentorias de necesidad social de carácter individual o familiar",
+    "con carácter general, las subvenciones se otorgarán mediante concurso público, previa convocatoria, con propuesta de una Comisión cuya composición establecerán las bases"
+   ],
+   0,
+   "La incorrecta es «las subvenciones locales podrán otorgarse solo directamente, sin convocatoria previa ni concurso público, por decisión del órgano competente». Lo correcto: las subvenciones locales podrán otorgarse mediante concurso público o directamente; con carácter general, mediante concurso público previa convocatoria.",
+   "rbaso 184.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 196 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las autorizaciones o licencias quedarán resueltas y sin efecto cuando su titular incumpla las condiciones impuestas por causas que le sean imputables",
+    "las licencias serán anulables en los supuestos previstos por la legislación de procedimiento común; no procederá indemnización cuando el otorgamiento fuera debido a error de la Administración",
+    "procederá la revocación de las licencias por cambio o desaparición de las circunstancias que determinaron su otorgamiento y también cuando la Corporación adoptase nuevos criterios de apreciación recogidos en la normativa aplicable, dando audiencia a los interesados"
+   ],
+   1,
+   "La incorrecta es «las licencias serán anulables en los supuestos previstos por la legislación de procedimiento común; no procederá indemnización cuando el otorgamiento fuera debido a error de la Administración». Lo correcto: las licencias serán anulables en los supuestos previstos por la legislación de procedimiento común; no procederá indemnización cuando el otorgamiento fuera debido a dolo, culpa o negligencia grave imputable al interesado.",
+   "l7-1999 196.2",
+   "Proposición negativa",
+   "h-licencias",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las subvenciones locales podrán otorgarse solo directamente, sin convocatoria previa ni concurso público, por decisión del órgano competente",
+    "con carácter general, las subvenciones se otorgarán mediante concurso público, previa convocatoria, con propuesta de una Comisión cuya composición establecerán las bases",
+    "las subvenciones podrán otorgarse directamente, entre otros supuestos cuando estuvieran previstas singularmente en el presupuesto de la entidad"
+   ],
+   0,
+   "La incorrecta es «las subvenciones locales podrán otorgarse solo directamente, sin convocatoria previa ni concurso público, por decisión del órgano competente». Lo correcto: las subvenciones locales podrán otorgarse mediante concurso público o directamente; con carácter general, mediante concurso público previa convocatoria.",
+   "rbaso 184.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo",
+    "puede exigirse licencia a una actividad económica cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad y no puedan salvaguardarse mediante declaración responsable o comunicación",
+    "puede exigirse licencia cuando, por escasez de recursos naturales, utilización de dominio público, impedimentos técnicos o servicios públicos con tarifas reguladas la actividad requiera cualificación profesional"
+   ],
+   2,
+   "La incorrecta es «puede exigirse licencia cuando, por escasez de recursos naturales, utilización de dominio público, impedimentos técnicos o servicios públicos con tarifas reguladas la actividad requiera cualificación profesional». Lo correcto: puede exigirse licencia cuando, por escasez de recursos naturales, utilización de dominio público, impedimentos técnicos o servicios públicos con tarifas reguladas el número de operadores económicos del mercado sea limitado.",
+   "lbrl 84 bis.1.b",
+   "Proposición negativa",
+   "h-84-bis",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "para evaluar el riesgo de las instalaciones se atenderá, entre otras características, a la potencia eléctrica o energética, la capacidad o aforo, la contaminación acústica, las aguas residuales y los materiales inflamables o contaminantes",
+    "puede exigirse licencia a una actividad económica cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente siempre que lo decida el Alcalde",
+    "con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo"
+   ],
+   1,
+   "La incorrecta es «puede exigirse licencia a una actividad económica cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente siempre que lo decida el Alcalde». Lo correcto: puede exigirse licencia a una actividad económica cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad y no puedan salvaguardarse mediante declaración responsable o comunicación.",
+   "lbrl 84 bis.1.a",
+   "Proposición negativa",
+   "h-84-bis",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "en los organismos autónomos locales deberá existir una comisión ejecutiva",
+    "la creación, modificación, refundición y supresión de organismos autónomos y entidades públicas empresariales locales corresponderá al Pleno de la entidad local, quien aprobará sus estatutos",
+    "el titular del máximo órgano de dirección de estos entes deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos y con más de cinco años de ejercicio profesional en el segundo caso (el profesional del sector privado)"
+   ],
+   0,
+   "La incorrecta es «en los organismos autónomos locales deberá existir una comisión ejecutiva». Lo correcto: en los organismos autónomos locales deberá existir un consejo rector, cuya composición se determinará en sus estatutos.",
+   "lbrl 85 bis.1.c",
+   "Proposición negativa",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos cuando el solicitante sea una persona jurídica y la actividad se desarrolle en un local de más de 300 metros",
+    "para evaluar el riesgo de las instalaciones se atenderá, entre otras características, a la potencia eléctrica o energética, la capacidad o aforo, la contaminación acústica, las aguas residuales y los materiales inflamables o contaminantes",
+    "puede exigirse licencia a una actividad económica cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad y no puedan salvaguardarse mediante declaración responsable o comunicación"
+   ],
+   0,
+   "La incorrecta es «podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos cuando el solicitante sea una persona jurídica y la actividad se desarrolle en un local de más de 300 metros». Lo correcto: podrá exigirse licencia u otro medio de control preventivo respecto de actividades económicas, entre otros casos cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente y no puedan salvaguardarse mediante declaración responsable o comunicación.",
+   "lbrl 84 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "en los municipios del título X de la LBRL, el titular del máximo órgano de dirección tendrá la consideración de órgano consultivo",
+    "las entidades públicas empresariales y los organismos autónomos locales deberán quedar adscritos a una Concejalía, Área u órgano equivalente de la entidad local; las empresariales también podrán estarlo a un organismo autónomo local",
+    "en los organismos autónomos locales deberá existir un consejo rector, cuya composición se determinará en sus estatutos"
+   ],
+   0,
+   "La incorrecta es «en los municipios del título X de la LBRL, el titular del máximo órgano de dirección tendrá la consideración de órgano consultivo». Lo correcto: en los municipios del título X de la LBRL, el titular del máximo órgano de dirección tendrá la consideración de órgano directivo.",
+   "lbrl 85 bis.1.b",
+   "Proposición negativa",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "podrán otorgarse directamente las subvenciones destinadas a atender situaciones perentorias de necesidad social de carácter individual o familiar",
+    "las subvenciones locales podrán otorgarse mediante concurso público o directamente; con carácter general, mediante concurso público previa convocatoria",
+    "en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá al Pleno directamente, sin necesidad de constituir una Comisión de valoración"
+   ],
+   2,
+   "La incorrecta es «en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá al Pleno directamente, sin necesidad de constituir una Comisión de valoración». Lo correcto: en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá a una Comisión cuya composición deberá establecer las bases reguladoras de la convocatoria.",
+   "rbaso 184.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá a una Comisión cuya composición deberá establecer las bases reguladoras de la convocatoria",
+    "las subvenciones podrán otorgarse directamente, entre otros supuestos cuando estuvieran previstas singularmente en el presupuesto de la entidad",
+    "las subvenciones locales podrán otorgarse solo directamente"
+   ],
+   2,
+   "La incorrecta es «las subvenciones locales podrán otorgarse solo directamente». Lo correcto: las subvenciones locales podrán otorgarse mediante concurso público o directamente.",
+   "rbaso 184.1",
+   "Proposición negativa",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las subvenciones locales podrán otorgarse mediante concurso público o directamente",
+    "podrán otorgarse directamente las subvenciones destinadas a atender situaciones perentorias de necesidad social de carácter individual o familiar",
+    "en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá al Alcalde sin más trámite, tras la valoración de las solicitudes presentadas en plazo"
+   ],
+   2,
+   "La incorrecta es «en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá al Alcalde sin más trámite, tras la valoración de las solicitudes presentadas en plazo». Lo correcto: en la concesión de subvenciones por concurso público, la propuesta de otorgamiento corresponderá a una Comisión cuya composición deberá establecer las bases reguladoras de la convocatoria.",
+   "rbaso 184.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "la efectiva ejecución de las actividades reservadas en régimen de monopolio requiere, además del acuerdo de aprobación del Pleno la aprobación por el órgano competente de la Comunidad Autónoma",
+    "el artículo 84 ter de la LBRL se refiere al ejercicio de actividades que no precisen autorización habilitante y previa",
+    "el titular del máximo órgano de dirección de estos entes deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos y con más de cinco años de ejercicio profesional en ambos casos"
+   ],
+   2,
+   "La incorrecta es «el titular del máximo órgano de dirección de estos entes deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos y con más de cinco años de ejercicio profesional en ambos casos». Lo correcto: el titular del máximo órgano de dirección de estos entes deberá ser un funcionario de carrera o laboral de las Administraciones públicas o un profesional del sector privado, titulados superiores en ambos casos y con más de cinco años de ejercicio profesional en el segundo caso (el profesional del sector privado).",
+   "lbrl 85 bis.1.b",
+   "Proposición negativa",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la actividad de fomento se realizará de acuerdo con los principios de publicidad, objetividad, libre concurrencia e igualdad, respeto de las reglas de libre competencia y adecuación a la legalidad presupuestaria",
+    "procederá la revocación de las licencias por cambio o desaparición de las circunstancias que determinaron su otorgamiento y también cuando la Corporación adoptase nuevos criterios de apreciación recogidos en la normativa aplicable, dando audiencia a los interesados",
+    "la explotación de actividades económicas por las entidades locales podrá realizarse solo mediante concesión"
+   ],
+   2,
+   "La incorrecta es «la explotación de actividades económicas por las entidades locales podrá realizarse solo mediante concesión». Lo correcto: la explotación de actividades económicas por las entidades locales podrá realizarse por sí mismas o en colaboración con otras entidades públicas o privadas y particulares mediante la creación de sociedades mercantiles.",
+   "l7-1999 221.1",
+   "Proposición negativa",
+   "h-servicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "las Entidades Locales podrán ejercer la iniciativa pública para el desarrollo de actividades económicas siempre que esté garantizado el cumplimiento del objetivo de estabilidad presupuestaria y de la sostenibilidad financiera del ejercicio de sus competencias",
+    "en los municipios del título X de la LBRL, el titular del máximo órgano de dirección tendrá la consideración de órgano superior",
+    "con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo"
+   ],
+   1,
+   "La incorrecta es «en los municipios del título X de la LBRL, el titular del máximo órgano de dirección tendrá la consideración de órgano superior». Lo correcto: en los municipios del título X de la LBRL, el titular del máximo órgano de dirección tendrá la consideración de órgano directivo.",
+   "lbrl 85 bis.1.b",
+   "Proposición negativa",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la competencia para otorgar autorizaciones y licencias corresponde a la Junta de Gobierno Local en todo caso, con independencia de lo que disponga la legislación sectorial",
+    "la iniciación y resolución de los procedimientos sancionadores corresponde al Presidente de la Corporación, salvo que la ley o las ordenanzas lo atribuyan a otro órgano",
+    "la instrucción de los procedimientos sancionadores corresponderá al funcionario, unidad administrativa u órgano que se determine en el acuerdo de iniciación o, con carácter general, en las ordenanzas locales"
+   ],
+   0,
+   "La incorrecta es «la competencia para otorgar autorizaciones y licencias corresponde a la Junta de Gobierno Local en todo caso, con independencia de lo que disponga la legislación sectorial». Lo correcto: la competencia para otorgar autorizaciones y licencias corresponde al Alcalde, a no ser que la legislación sectorial la atribuya a otro órgano.",
+   "l7-1999 194.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "procederá la revocación de las licencias por cambio o desaparición de las circunstancias que determinaron su otorgamiento, o por sobrevenir otras nuevas que hubieran justificado su denegación; en el procedimiento se dará audiencia a los interesados",
+    "en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de las directrices de la Diputación Provincial",
+    "las ordenanzas locales, en materias de competencia exclusiva local y en ausencia de previsión legal específica, podrán tipificar como infracción el incumplimiento de los mandatos y prohibiciones en ellas establecidos, con multas dentro de los límites señalados"
+   ],
+   1,
+   "La incorrecta es «en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de las directrices de la Diputación Provincial». Lo correcto: en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de los planes sectoriales de coordinación aprobados por la Administración del Estado o de la Comunidad Autónoma.",
+   "l7-1999 225.2",
+   "Proposición negativa",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las entidades locales podrán otorgar auxilios económicos a entidades públicas o privadas y a los particulares",
+    "son servicios públicos locales cuantos se prestan para satisfacer los intereses y necesidades de la comunidad vecinal en los asuntos de competencia de las entidades locales",
+    "las entidades locales tendrán plena libertad para constituir, regular, modificar y suprimir los servicios de su competencia de acuerdo con las leyes, garantizando en todo caso que los servicios se presten en régimen de concesión a empresas privadas de la localidad"
+   ],
+   2,
+   "La incorrecta es «las entidades locales tendrán plena libertad para constituir, regular, modificar y suprimir los servicios de su competencia de acuerdo con las leyes, garantizando en todo caso que los servicios se presten en régimen de concesión a empresas privadas de la localidad». Lo correcto: las entidades locales tendrán plena libertad para constituir, regular, modificar y suprimir los servicios de su competencia de acuerdo con las leyes, garantizando en todo caso el funcionamiento de los servicios obligatorios municipales, salvo los supuestos de dispensa.",
+   "l7-1999 199.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "los municipios podrán solicitar la dispensa del establecimiento o prestación de los servicios obligatorios cuando resulte imposible o muy difícil su cumplimiento",
+    "la solicitud de dispensa de servicios obligatorios se dirigirá al Ministerio de política Territorial, previa instrucción del procedimiento en la forma establecida",
+    "la gestión directa de los servicios públicos locales adoptará alguna de las siguientes formas gestión por la propia entidad local (órganos ordinarios o especial de administración), organismo autónomo local o sociedad mercantil cuyo capital pertenezca íntegramente a la entidad"
+   ],
+   1,
+   "La incorrecta es «la solicitud de dispensa de servicios obligatorios se dirigirá al Ministerio de política Territorial, previa instrucción del procedimiento en la forma establecida». Lo correcto: la solicitud de dispensa de servicios obligatorios se dirigirá al Departamento de Presidencia y relaciones Institucionales, previa instrucción del procedimiento.",
+   "rbaso 220.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la actividad de intervención se ajustará a los principios de igualdad de trato, congruencia con los motivos y fines justificativos, respeto a la libertad individual y proporcionalidad",
+    "la realización por los particulares de actividades o la prestación de servicios de interés público, cuya tutela esté legalmente atribuida a las entidades locales queda excluida de la intervención administrativa local, correspondiendo su control a la Comunidad Autónoma",
+    "procederá la revocación de las licencias por cambio o desaparición de las circunstancias que determinaron su otorgamiento, o por sobrevenir otras nuevas que hubieran justificado su denegación; en el procedimiento se dará audiencia a los interesados"
+   ],
+   1,
+   "La incorrecta es «la realización por los particulares de actividades o la prestación de servicios de interés público, cuya tutela esté legalmente atribuida a las entidades locales queda excluida de la intervención administrativa local, correspondiendo su control a la Comunidad Autónoma». Lo correcto: la realización por los particulares de actividades o la prestación de servicios de interés público, cuya tutela esté legalmente atribuida a las entidades locales estará también sujeta a la intervención administrativa local.",
+   "l7-1999 198.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de los convenios colectivos",
+    "la explotación de actividades económicas por las entidades locales podrá realizarse por sí mismas o en colaboración con otras entidades públicas o privadas y particulares mediante la creación de sociedades mercantiles",
+    "la potestad de intervención en actividades de interés público podrá comprender la regulación de las bases generales de prestación del servicio, la autorización de su ejercicio, la aprobación de tarifas y el régimen de infracciones y sanciones"
+   ],
+   0,
+   "La incorrecta es «en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de los convenios colectivos». Lo correcto: en el otorgamiento de subvenciones se tendrán en cuenta, en su caso, los criterios y prioridades de los planes sectoriales de coordinación aprobados por la Administración del Estado o de la Comunidad Autónoma.",
+   "l7-1999 225.2",
+   "Proposición negativa",
+   "h-subvenciones",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la Ley 7/1999 enumera entre los medios de intervención de las entidades locales decretos con rango de ley",
+    "las ordenanzas locales, en materias de competencia exclusiva local y en ausencia de previsión legal específica, podrán tipificar como infracción el incumplimiento de los mandatos y prohibiciones en ellas establecidos, con multas dentro de los límites señalados",
+    "las entidades locales comprobarán la aplicación efectiva de las ayudas recibidas a la finalidad prevista"
+   ],
+   0,
+   "La incorrecta es «la Ley 7/1999 enumera entre los medios de intervención de las entidades locales decretos con rango de ley». Lo correcto: la Ley 7/1999 enumera entre los medios de intervención de las entidades locales ordenanzas y decretos normativos de emergencia.",
+   "l7-1999 193.1.a",
+   "Proposición negativa",
+   "h-policia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la realización por los particulares de actividades o la prestación de servicios de interés público, cuya tutela esté legalmente atribuida a las entidades locales estará también sujeta a la intervención administrativa local",
+    "la competencia para otorgar autorizaciones y licencias corresponde al Pleno, a no ser que la legislación sectorial la atribuya a otro órgano local",
+    "las Entidades locales aragonesas podrán intervenir la actividad de los ciudadanos a través de, entre otros medios ordenanzas y decretos normativos de emergencia"
+   ],
+   1,
+   "La incorrecta es «la competencia para otorgar autorizaciones y licencias corresponde al Pleno, a no ser que la legislación sectorial la atribuya a otro órgano local». Lo correcto: la competencia para otorgar autorizaciones y licencias corresponde al Alcalde, a no ser que la legislación sectorial la atribuya a otro órgano.",
+   "l7-1999 194.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "en los organismos autónomos locales deberá existir un consejo de administración",
+    "las sociedades mercantiles locales se regirán íntegramente, cualquiera que sea su forma jurídica, por el ordenamiento jurídico privado, salvo las materias en que les sea de aplicación la normativa presupuestaria, contable, de control financiero, de control de eficacia y contratación",
+    "para ejercer la iniciativa pública para el desarrollo de actividades económicas, las Entidades Locales deben garantizar el cumplimiento del objetivo de estabilidad presupuestaria y sostenibilidad financiera, con un análisis del mercado sobre oferta, demanda, rentabilidad y efectos sobre la concurrencia empresarial"
+   ],
+   0,
+   "La incorrecta es «en los organismos autónomos locales deberá existir un consejo de administración». Lo correcto: en los organismos autónomos locales deberá existir un consejo rector, cuya composición se determinará en sus estatutos.",
+   "lbrl 85 bis.1.c",
+   "Proposición negativa",
+   "h-ooaa-epe",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
   ]
  ]
 }

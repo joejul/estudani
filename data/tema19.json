@@ -4619,6 +4619,25 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 90 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "las Corporaciones locales constituirán registros de personal, coordinados con los de las demás Administraciones públicas, cuyos datos determinarán las nóminas",
+    "corresponde a cada Corporación local aprobar anualmente, a través del presupuesto la relación de puestos de trabajo existentes, que se formará por las normas del Estado",
+    "corresponde al Estado establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo y las normas básicas de la carrera administrativa"
+   ],
+   1,
+   "La incorrecta es «corresponde a cada Corporación local aprobar anualmente, a través del presupuesto la relación de puestos de trabajo existentes, que se formará por las normas del Estado». Lo correcto: corresponde a cada Corporación local aprobar anualmente, a través del presupuesto la plantilla, que deberá comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual.",
+   "lbrl 90.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
   ]
  ]
 }

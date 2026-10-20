@@ -3692,6 +3692,341 @@
     "nuevo": 1,
     "dif": 3
    }
+  ],
+  [
+   "De acuerdo con el artículo 28 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los informes preceptivos ya elaborados por un órgano distinto del que tramita deberán ser remitidos en el plazo de diez días desde su solicitud",
+    "los interesados deberán aportar los datos y documentos exigidos por las Administraciones conforme a la normativa aplicable, pudiendo aportar cualquier otro que estimen conveniente",
+    "las Administraciones no exigirán a los interesados la presentación de documentos que acrediten su identidad"
+   ],
+   2,
+   "La incorrecta es «las Administraciones no exigirán a los interesados la presentación de documentos que acrediten su identidad». Lo correcto: las Administraciones no exigirán a los interesados la presentación de documentos originales, salvo que la normativa establezca lo contrario con carácter excepcional.",
+   "lpac 28.3",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "las copias auténticas tendrán la misma validez y eficacia que los documentos originales",
+    "las copias electrónicas de un documento electrónico original deberán incluir la firma manuscrita del funcionario",
+    "las copias auténticas pueden realizarse mediante funcionario habilitado o actuación administrativa automatizada"
+   ],
+   1,
+   "La incorrecta es «las copias electrónicas de un documento electrónico original deberán incluir la firma manuscrita del funcionario». Lo correcto: las copias electrónicas de un documento electrónico original deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.",
+   "lpac 27.3",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los organismos públicos vinculados o dependientes podrán disponer de su propio registro electrónico solo si no lo tiene la Administración matriz",
+    "el asiento del registro electrónico garantiza la constancia de número, epígrafe de su naturaleza, fecha y hora de presentación, identificación del interesado, órgano remitente y destinatario y referencia al contenido",
+    "los asientos de registro se anotarán respetando el orden temporal de recepción o salida, indicando la fecha del día en que se produzcan"
+   ],
+   0,
+   "La incorrecta es «los organismos públicos vinculados o dependientes podrán disponer de su propio registro electrónico solo si no lo tiene la Administración matriz». Lo correcto: los organismos públicos vinculados o dependientes podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el registro Electrónico general de la Administración de la que dependen.",
+   "lpac 16.1",
+   "Proposición negativa",
+   "h-registro",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los plazos señalados por días se entienden hábiles, excluyéndose del cómputo los sábados y domingos, pero no los festivos",
+    "los plazos señalados por días se cuentan a partir del día siguiente a aquel en que tenga lugar la notificación o publicación, o desde el siguiente a aquel en que se produzca el silencio",
+    "cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se considerará inhábil en todo caso"
+   ],
+   0,
+   "La incorrecta es «los plazos señalados por días se entienden hábiles, excluyéndose del cómputo los sábados y domingos, pero no los festivos». Lo correcto: los plazos señalados por días se entienden hábiles, excluyéndose del cómputo los sábados, domingos y los declarados festivos.",
+   "lpac 30.2",
+   "Proposición negativa",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada el último día hábil anterior",
+    "el inicio del cómputo de los plazos de las Administraciones lo determina la fecha y hora de presentación en el registro electrónico, que debe comunicarse a quien presentó el documento",
+    "el calendario de días inhábiles aplicable en los registros electrónicos es el que determine la sede electrónica del registro, único para esos efectos, sin que resulte de aplicación el artículo 30.6"
+   ],
+   0,
+   "La incorrecta es «la presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada el último día hábil anterior». Lo correcto: la presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada en la primera hora del primer día hábil siguiente.",
+   "lpac 31.2.b",
+   "Proposición negativa",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "las Administraciones no requerirán documentos que hayan sido aportados anteriormente por el interesado a cualquier Administración si el interesado lo solicita por escrito",
+    "los informes preceptivos ya elaborados por un órgano distinto del que tramita deberán ser remitidos en el plazo de diez días desde su solicitud",
+    "los interesados deberán aportar los datos y documentos exigidos por las Administraciones conforme a la normativa aplicable, pudiendo aportar cualquier otro que estimen conveniente"
+   ],
+   0,
+   "La incorrecta es «las Administraciones no requerirán documentos que hayan sido aportados anteriormente por el interesado a cualquier Administración si el interesado lo solicita por escrito». Lo correcto: las Administraciones no requerirán documentos que hayan sido aportados anteriormente por el interesado a cualquier Administración debiendo el interesado indicar en qué momento y ante qué órgano los presentó.",
+   "lpac 28.3",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los documentos administrativos se emitirán en papel con firma manuscrita",
+    "para ser válidos, los documentos electrónicos administrativos deberán contener información en soporte electrónico identificable, datos de individualización, referencia temporal, metadatos mínimos y firmas electrónicas correspondientes",
+    "no requerirán firma electrónica los documentos emitidos por las Administraciones publicados con carácter meramente informativo y los que no formen parte de un expediente, siendo en todo caso necesario identificar su origen"
+   ],
+   0,
+   "La incorrecta es «los documentos administrativos se emitirán en papel con firma manuscrita». Lo correcto: los documentos administrativos se emitirán por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada.",
+   "lpac 26.1",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el inicio del cómputo de los plazos de las Administraciones lo determina la fecha de reparto interno",
+    "cada Administración publicará los días y horario en que deban permanecer abiertas las oficinas que presten asistencia para la presentación electrónica de documentos garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos",
+    "la presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada en la primera hora del primer día hábil siguiente"
+   ],
+   0,
+   "La incorrecta es «el inicio del cómputo de los plazos de las Administraciones lo determina la fecha de reparto interno». Lo correcto: el inicio del cómputo de los plazos de las Administraciones lo determina la fecha y hora de presentación en el registro electrónico, que debe comunicarse a quien presentó el documento.",
+   "lpac 31.2.c",
+   "Proposición negativa",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el informe preceptivo no se recibe en el plazo máximo de suspensión se entenderá emitido en sentido favorable",
+    "el plazo se suspende cuando sea indispensable un pronunciamiento previo de un órgano jurisdiccional desde que se solicita, comunicándolo a los interesados, hasta que la Administración tenga constancia del mismo",
+    "el plazo de resolución puede suspenderse cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, por el tiempo que medie entre la petición y la notificación del pronunciamiento"
+   ],
+   0,
+   "La incorrecta es «si el informe preceptivo no se recibe en el plazo máximo de suspensión se entenderá emitido en sentido favorable». Lo correcto: si el informe preceptivo no se recibe en el plazo máximo de suspensión proseguirá el procedimiento.",
+   "lpac 22.1.d",
+   "Proposición negativa",
+   "h-suspension-plazo",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el plazo máximo para resolver podrá suspenderse cuando deba requerirse al interesado la subsanación de deficiencias por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento o, en su defecto, el plazo concedido",
+    "se suspende el plazo máximo cuando se inicien negociaciones con vistas a un pacto o convenio durante tres meses improrrogables",
+    "el plazo se suspende cuando sea indispensable un pronunciamiento previo de un órgano jurisdiccional desde que se solicita, comunicándolo a los interesados, hasta que la Administración tenga constancia del mismo"
+   ],
+   1,
+   "La incorrecta es «se suspende el plazo máximo cuando se inicien negociaciones con vistas a un pacto o convenio durante tres meses improrrogables». Lo correcto: se suspende el plazo máximo cuando se inicien negociaciones con vistas a un pacto o convenio desde la declaración formal y hasta la conclusión sin efecto de las negociaciones.",
+   "lpac 22.1.f",
+   "Proposición negativa",
+   "h-suspension-plazo",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el plazo máximo para resolver podrá suspenderse cuando deba requerirse al interesado la subsanación de deficiencias por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento o, en su defecto, el plazo concedido",
+    "se suspende el plazo máximo cuando se inicien negociaciones con vistas a un pacto o convenio desde la firma del convenio",
+    "el plazo se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados, durante el tiempo necesario para incorporar los resultados al expediente"
+   ],
+   1,
+   "La incorrecta es «se suspende el plazo máximo cuando se inicien negociaciones con vistas a un pacto o convenio desde la firma del convenio». Lo correcto: se suspende el plazo máximo cuando se inicien negociaciones con vistas a un pacto o convenio desde la declaración formal y hasta la conclusión sin efecto de las negociaciones.",
+   "lpac 22.1.f",
+   "Proposición negativa",
+   "h-suspension-plazo",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el incumplimiento de la obligación de dictar resolución expresa en plazo da lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que proceda con arreglo a la normativa aplicable",
+    "cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente podrá archivar las solicitudes sobrantes",
+    "el plazo máximo se cuenta en los iniciados de oficio desde la fecha del acuerdo de iniciación"
+   ],
+   1,
+   "La incorrecta es «cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente podrá archivar las solicitudes sobrantes». Lo correcto: cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente podrá habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.",
+   "lpac 21.5",
+   "Proposición negativa",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en los procedimientos de las Comunidades Autónomas y Entidades Locales, el uso de la lengua se ajustará al reglamento orgánico de cada entidad",
+    "si concurren varios interesados con discrepancia sobre la lengua, el procedimiento se tramitará en castellano, expidiéndose los documentos o testimonios en la lengua elegida por quien los solicite",
+    "la Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma salvo que deban surtir efectos en un territorio donde sea cooficial esa misma lengua"
+   ],
+   0,
+   "La incorrecta es «en los procedimientos de las Comunidades Autónomas y Entidades Locales, el uso de la lengua se ajustará al reglamento orgánico de cada entidad». Lo correcto: en los procedimientos de las Comunidades Autónomas y Entidades Locales, el uso de la lengua se ajustará a la legislación autonómica correspondiente.",
+   "lpac 15.2",
+   "Proposición negativa",
+   "h-derechos-art13",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los plazos señalados por días se cuentan a partir del día siguiente a aquel en que tenga lugar la notificación o publicación, o desde el siguiente a aquel en que se produzca el silencio",
+    "cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se considerará hábil para el interesado",
+    "cuando los plazos se señalen por horas, se entiende que éstas son hábiles, formando parte de un día hábil, y no pueden superar las veinticuatro horas"
+   ],
+   1,
+   "La incorrecta es «cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se considerará hábil para el interesado». Lo correcto: cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se considerará inhábil en todo caso.",
+   "lpac 30.6",
+   "Proposición negativa",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el procedimiento se paraliza por causa imputable al interesado se interrumpe el cómputo del plazo para resolver y notificar",
+    "en procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la caducidad, con el archivo de las actuaciones",
+    "el vencimiento del plazo máximo en los procedimientos de oficio exime de resolver al órgano instructor"
+   ],
+   2,
+   "La incorrecta es «el vencimiento del plazo máximo en los procedimientos de oficio exime de resolver al órgano instructor». Lo correcto: el vencimiento del plazo máximo en los procedimientos de oficio no exime a la Administración del cumplimiento de la obligación legal de resolver.",
+   "lpac 25.1",
+   "Proposición negativa",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "tienen la consideración de copia auténtica las realizadas por los órganos competentes en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido",
+    "las copias auténticas de documentos privados surten efectos judiciales plenos",
+    "las copias electrónicas de un documento electrónico original deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento"
+   ],
+   1,
+   "La incorrecta es «las copias auténticas de documentos privados surten efectos judiciales plenos». Lo correcto: las copias auténticas de documentos privados surten únicamente efectos administrativos.",
+   "lpac 27.1",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "cada Administración deberá mantener varios archivos por tipo de procedimiento",
+    "la eliminación de documentos electrónicos deberá ser autorizada de acuerdo con la normativa aplicable",
+    "los soportes donde se almacenen documentos deberán contar con medidas de seguridad de acuerdo con el Esquema Nacional de Seguridad"
+   ],
+   0,
+   "La incorrecta es «cada Administración deberá mantener varios archivos por tipo de procedimiento». Lo correcto: cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos correspondientes a procedimientos finalizados.",
+   "lpac 17.1",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en los casos de prescripción, renuncia, caducidad, desistimiento o desaparición sobrevenida del objeto, la resolución consistirá en la declaración de la circunstancia que concurra, con indicación de los hechos y las normas aplicables",
+    "cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente podrá habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo",
+    "el plazo máximo se cuenta en los iniciados de oficio desde la notificación del acuerdo de iniciación"
+   ],
+   2,
+   "La incorrecta es «el plazo máximo se cuenta en los iniciados de oficio desde la notificación del acuerdo de iniciación». Lo correcto: el plazo máximo se cuenta en los iniciados de oficio desde la fecha del acuerdo de iniciación.",
+   "lpac 21.3",
+   "Proposición negativa",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
   ]
  ]
 }

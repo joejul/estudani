@@ -4881,6 +4881,156 @@
     "off": 1,
     "dup": "t03-097"
    }
+  ],
+  [
+   "De acuerdo con el artículo 74 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la Comunidad Autónoma podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, cualquier medio de comunicación social, respetando la autonomía local",
+    "la Comunidad Autónoma ostenta la competencia compartida en medios de comunicación social y servicios de contenido audiovisual; podrá crear su propia televisión, radio y prensa",
+    "la competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia ejecutiva"
+   ],
+   2,
+   "La incorrecta es «la competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia ejecutiva». Lo correcto: la competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia compartida.",
+   "eaar 74.1",
+   "Proposición negativa",
+   "h-comp-materias",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "si las Cortes aprueban una moción de censura se convocan nuevas elecciones",
+    "la moción de censura debe ser propuesta, al menos, por un quince por ciento de los Diputados e incluir un candidato; para su adopción se exige mayoría absoluta",
+    "si la moción de censura no es aprobada, sus signatarios no podrán suscribir otra hasta transcurrido un año desde la fecha de la votación"
+   ],
+   0,
+   "La incorrecta es «si las Cortes aprueban una moción de censura se convocan nuevas elecciones». Lo correcto: si las Cortes aprueban una moción de censura cesan el Presidente y su Gobierno, y el candidato se entiende investido, comunicándolo el Presidente de las Cortes al Rey para su nombramiento.",
+   "eaar 50.4",
+   "Proposición negativa",
+   "h-presidente",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "corresponde a las Cortes de Aragón la designación de los Senadores a que se refiere el artículo 69.5 de la Constitución en proporción al número de diputados de cada grupo parlamentario, en los términos que establezca una ley de Cortes de Aragón",
+    "corresponde a las Cortes de Aragón el ejercicio de la iniciativa legislativa prevista en el artículo 87.2 de la Constitución y de la iniciativa de reforma de la Constitución",
+    "corresponde a las Cortes de Aragón la elección del Presidente de Aragón, el nombramiento y cese de los Consejeros, la designación del Justicia y la aprobación del programa del Gobierno"
+   ],
+   2,
+   "La incorrecta es «corresponde a las Cortes de Aragón la elección del Presidente de Aragón, el nombramiento y cese de los Consejeros, la designación del Justicia y la aprobación del programa del Gobierno». Lo correcto: corresponde a las Cortes de Aragón la elección del Presidente de Aragón, la elección, nombramiento y cese del Justicia, la designación de los Senadores del art. 69.5 CE y la aprobación del programa del Gobierno.",
+   "eaar 41",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las Cortes de Aragón funcionarán en Pleno y en Comisiones",
+    "durante el tiempo en que las Cortes no estén reunidas, hubiese expirado su mandato o hubiesen sido disueltas, se constituirá una Mesa interina",
+    "las Cortes de Aragón elegirán, de entre sus miembros un Presidente, una Mesa y una Diputación Permanente"
+   ],
+   1,
+   "La incorrecta es «durante el tiempo en que las Cortes no estén reunidas, hubiese expirado su mandato o hubiesen sido disueltas, se constituirá una Mesa interina». Lo correcto: durante el tiempo en que las Cortes no estén reunidas, hubiese expirado su mandato o hubiesen sido disueltas, se constituirá una Diputación Permanente.",
+   "eaar 39.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la confianza en una cuestión de confianza planteada por el Presidente del Gobierno de Aragón se entenderá otorgada cuando obtenga la mayoría de dos tercios de los miembros de las Cortes",
+    "si las Cortes niegan la confianza el Presidente cesa junto con su Gobierno y debe elegirse un nuevo Presidente",
+    "el Presidente puede plantear ante las Cortes la cuestión de confianza sobre su programa o sobre una declaración de política general previa deliberación del Gobierno"
+   ],
+   0,
+   "La incorrecta es «la confianza en una cuestión de confianza planteada por el Presidente del Gobierno de Aragón se entenderá otorgada cuando obtenga la mayoría de dos tercios de los miembros de las Cortes». Lo correcto: la confianza en una cuestión de confianza planteada por el Presidente del Gobierno de Aragón se entenderá otorgada cuando obtenga la mayoría simple de los votos emitidos.",
+   "eaar 49",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la moción de censura debe ser propuesta, al menos, por un quince por ciento de los Diputados e incluir un candidato; para su adopción se exige mayoría absoluta",
+    "las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno mediante una moción de censura adoptada por dos tercios",
+    "si las Cortes aprueban una moción de censura cesan el Presidente y su Gobierno, y el candidato se entiende investido, comunicándolo el Presidente de las Cortes al Rey para su nombramiento"
+   ],
+   1,
+   "La incorrecta es «las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno mediante una moción de censura adoptada por dos tercios». Lo correcto: las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno mediante una moción de censura adoptada por mayoría absoluta.",
+   "eaar 50.1",
+   "Proposición negativa",
+   "h-presidente",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la aprobación de la reforma por las Cortes Generales incluirá la autorización del Estado para que el Gobierno de Aragón convoque referéndum de ratificación en un plazo de un año desde la aprobación de la reforma por las Cortes de Aragón, mediante consulta a los aragoneses",
+    "la iniciativa de la reforma del Estatuto corresponderá al Gobierno de Aragón, a las Cortes de Aragón a propuesta de un quinto de sus Diputados y a las Cortes Generales",
+    "si la propuesta de reforma no es aprobada por las Cortes de Aragón o por las Cortes Generales, no podrá ser sometida nuevamente a debate y votación hasta que haya transcurrido un año"
+   ],
+   0,
+   "La incorrecta es «la aprobación de la reforma por las Cortes Generales incluirá la autorización del Estado para que el Gobierno de Aragón convoque referéndum de ratificación en un plazo de un año desde la aprobación de la reforma por las Cortes de Aragón, mediante consulta a los aragoneses». Lo correcto: la aprobación de la reforma por las Cortes Generales incluirá la autorización del Estado para que el Gobierno de Aragón convoque referéndum de ratificación en un plazo de seis meses desde la votación final en las Cortes Generales.",
+   "eaar 115.7",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "corresponde a las Cortes de Aragón la elección del Presidente por sufragio directo",
+    "corresponde a las Cortes de Aragón la designación de los Senadores a que se refiere el artículo 69.5 de la Constitución en proporción al número de diputados de cada grupo parlamentario, en los términos que establezca una ley de Cortes de Aragón",
+    "corresponde a las Cortes de Aragón la elección del Presidente de Aragón, la elección, nombramiento y cese del Justicia, la designación de los Senadores del art. 69.5 CE y la aprobación del programa del Gobierno"
+   ],
+   0,
+   "La incorrecta es «corresponde a las Cortes de Aragón la elección del Presidente por sufragio directo». Lo correcto: corresponde a las Cortes de Aragón la elección, de entre sus miembros, del Presidente de Aragón.",
+   "eaar 41.a",
+   "Proposición negativa",
+   "h-cortes-funciones",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
   ]
  ]
 }

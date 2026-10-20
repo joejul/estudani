@@ -5019,6 +5019,137 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "la extradición solo se concederá en cumplimiento de un tratado o de la ley, quedando excluidos los delitos políticos, no considerándose como tales los actos de terrorismo",
+    "solamente los españoles serán titulares de los derechos del artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales",
+    "los extranjeros gozarán en España de las libertades públicas que garantiza el título I en los mismos términos que los españoles"
+   ],
+   2,
+   "La incorrecta es «los extranjeros gozarán en España de las libertades públicas que garantiza el título I en los mismos términos que los españoles». Lo correcto: los extranjeros gozarán en España de las libertades públicas que garantiza el título I en los términos que establezcan los tratados y la ley.",
+   "ce 13.1",
+   "Proposición negativa",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 153 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal Constitucional",
+    "el control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley",
+    "el control del ejercicio de funciones delegadas del artículo 150.2 lo ejerce el Gobierno, previo dictamen del Consejo de Estado"
+   ],
+   0,
+   "La incorrecta es «el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal Constitucional». Lo correcto: el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal de Cuentas.",
+   "ce 153.d",
+   "Proposición negativa",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "ningún español de origen podrá ser privado de su nacionalidad",
+    "la nacionalidad española se adquiere, se conserva y se pierde conforme a los tratados internacionales ratificados",
+    "el Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España"
+   ],
+   1,
+   "La incorrecta es «la nacionalidad española se adquiere, se conserva y se pierde conforme a los tratados internacionales ratificados». Lo correcto: la nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley.",
+   "ce 11.1",
+   "Proposición negativa",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 135 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "las Entidades Locales deberán presentar equilibrio presupuestario",
+    "el Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por ley",
+    "los límites de déficit estructural y deuda pública solo podrán superarse en caso de catástrofes naturales, recesión económica o emergencia extraordinaria, apreciadas por la mayoría simple del Congreso"
+   ],
+   2,
+   "La incorrecta es «los límites de déficit estructural y deuda pública solo podrán superarse en caso de catástrofes naturales, recesión económica o emergencia extraordinaria, apreciadas por la mayoría simple del Congreso». Lo correcto: los límites de déficit estructural y deuda pública solo podrán superarse en caso de catástrofes naturales, recesión económica o emergencia extraordinaria, apreciadas por la mayoría absoluta de los miembros del Congreso de los Diputados.",
+   "ce 135.4",
+   "Proposición negativa",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 135 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria",
+    "el Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por acuerdo del Consejo de política Fiscal y financiera",
+    "el déficit estructural máximo permitido al Estado y a las Comunidades Autónomas lo fija una ley orgánica, en relación con su producto interior bruto"
+   ],
+   1,
+   "La incorrecta es «el Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por acuerdo del Consejo de política Fiscal y financiera». Lo correcto: el Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por ley.",
+   "ce 135.3",
+   "Proposición negativa",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "la ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de reagrupación familiar",
+    "la extradición solo se concederá en cumplimiento de un tratado o de la ley, quedando excluidos los delitos políticos, no considerándose como tales los actos de terrorismo",
+    "los extranjeros gozarán en España de las libertades públicas que garantiza el título I en los términos que establezcan los tratados y la ley"
+   ],
+   0,
+   "La incorrecta es «la ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de reagrupación familiar». Lo correcto: la ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España.",
+   "ce 13.4",
+   "Proposición negativa",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 153 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal Constitucional",
+    "la jurisdicción contencioso-administrativa controla la administración autónoma y sus normas reglamentarias",
+    "el control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley"
+   ],
+   0,
+   "La incorrecta es «el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal Constitucional». Lo correcto: el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal de Cuentas.",
+   "ce 153.d",
+   "Proposición negativa",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
   ]
  ]
 }

@@ -3482,6 +3482,594 @@
     "off": 1,
     "dup": "t16-068"
    }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "los acuerdos provisionales para el establecimiento o modificación de tributos y ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días como mínimo; los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además en un diario de los de mayor difusión de la provincia o comunidad autónoma uniprovincial",
+    "el acuerdo definitivo de ordenanzas fiscales, incluidos los provisionales elevados automáticamente a tales, deberá publicarse en el boletín oficial de la provincia o, en su caso, de la Comunidad Autónoma uniprovincial, sin que entren en vigor antes de dicha publicación",
+    "las entidades locales con población superior a 20.000 habitantes editarán el texto íntegro de sus ordenanzas fiscales dentro del primer trimestre"
+   ],
+   2,
+   "La incorrecta es «las entidades locales con población superior a 20.000 habitantes editarán el texto íntegro de sus ordenanzas fiscales dentro del primer trimestre». Lo correcto: las entidades locales con población superior a 20.000 habitantes editarán el texto íntegro de sus ordenanzas fiscales dentro del primer cuatrimestre del ejercicio económico correspondiente.",
+   "trlrhl 17.5",
+   "Proposición negativa",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado previa audiencia de las Comunidades Autónomas afectadas, según pertenezcan a la misma o a distinta Comunidad, sin perjuicio de impugnar la resolución en vía contencioso-administrativa",
+    "los conflictos de atribuciones que surjan entre órganos y entidades dependientes de una misma Corporación local se resolverán por el Pleno cuando afecten a órganos colegiados, miembros de éstos o entidades locales del artículo 45, y en el resto de supuestos por el Alcalde o Presidente de la Corporación",
+    "las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por las comunidades autónomas conjuntamente, previo informe del Consejo de Estado de cada una"
+   ],
+   2,
+   "La incorrecta es «las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por las comunidades autónomas conjuntamente, previo informe del Consejo de Estado de cada una». Lo correcto: las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por la Administración del Estado, previo informe del Instituto Geográfico nacional, audiencia de los municipios y CCAA afectados y dictamen del Consejo de Estado.",
+   "lbrl 50.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan reglamentos",
+    "las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son decretos normativos",
+    "las ordenanzas y reglamentos de las Entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia"
+   ],
+   1,
+   "La incorrecta es «las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son decretos normativos». Lo correcto: las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son ordenanzas.",
+   "rbaso 125",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán aplicar la tarifa legal supletoria",
+    "las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras de estos",
+    "las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales salvo en los supuestos del artículo 59.1 (impuestos obligatorios: IBI, IAE e IVTM)"
+   ],
+   0,
+   "La incorrecta es «respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán aplicar la tarifa legal supletoria». Lo correcto: respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán acordar el ejercicio de tales facultades y aprobar las oportunas ordenanzas fiscales.",
+   "trlrhl 15.2",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "los conflictos de atribuciones que no afecten a órganos colegiados se resolverán por el Alcalde o Presidente de la Corporación",
+    "los conflictos de competencias planteados entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o del Estado, previa audiencia de las Comunidades afectadas, según sean de la misma o distinta Comunidad",
+    "las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por las comunidades autónomas conjuntamente, previo informe del Consejo de Estado de cada una"
+   ],
+   2,
+   "La incorrecta es «las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por las comunidades autónomas conjuntamente, previo informe del Consejo de Estado de cada una». Lo correcto: las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por la Administración del Estado, previo informe del Instituto Geográfico nacional, audiencia de los municipios y CCAA afectados y dictamen del Consejo de Estado.",
+   "lbrl 50.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "el acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el diario oficial de la provincia, un mes",
+    "se concederá audiencia previa a las asociaciones Vecinales y de defensa de los consumidores y usuarios del ámbito territorial inscritas en el registro correspondiente y cuyos fines guarden relación directa con el objeto de la disposición",
+    "corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la entidad local"
+   ],
+   0,
+   "La incorrecta es «el acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el diario oficial de la provincia, un mes». Lo correcto: el acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el «Boletín Oficial de Aragón» y el tablón de anuncios, por el plazo mínimo de treinta días.",
+   "rbaso 130.2",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "la remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse dentro de los quince días siguientes a su aprobación",
+    "las ordenanzas fiscales entran en vigor al día siguiente de su aprobación definitiva",
+    "las Entidades locales dispondrán para consulta de los ciudadanos de una recopilación ordenada y actualizada de todos sus reglamentos y ordenanzas vigentes y un registro cronológico de los aprobados, modificados o derogados"
+   ],
+   1,
+   "La incorrecta es «las ordenanzas fiscales entran en vigor al día siguiente de su aprobación definitiva». Lo correcto: las ordenanzas fiscales entran en vigor una vez publicados íntegramente el acuerdo definitivo y el texto, salvo que se demore su aplicación a una fecha posterior.",
+   "rbaso 133.1",
+   "Proposición negativa",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla continuará las actuaciones por sí mismo, hasta que se resuelva por el órgano que se considere competente",
+    "los conflictos de atribuciones, positivos o negativos, entre órganos de una misma Corporación local se resolverán por el Pleno u órgano supremo si afectan a Órganos colegiados, miembros de éstos o entidades dependientes del municipio",
+    "en conflicto de atribuciones, el plazo de ocho días del órgano requerido se cuenta para decidir acerca de su competencia"
+   ],
+   0,
+   "La incorrecta es «en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla continuará las actuaciones por sí mismo, hasta que se resuelva por el órgano que se considere competente». Lo correcto: en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla suspenderá las actuaciones y las remitirá inmediatamente, con el requerimiento y su informe, al órgano a que corresponda resolver el conflicto.",
+   "l7-1999 143.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de dos meses",
+    "en el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas, el plazo mínimo de información pública es de treinta días, previo anuncio en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad",
+    "la ley aragonesa exige, además, audiencia previa a las asociaciones vecinales y de consumidores y usuarios inscritas en el registro correspondiente y cuyos fines guarden relación directa con la disposición"
+   ],
+   0,
+   "La incorrecta es «en el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de dos meses». Lo correcto: en el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de treinta días.",
+   "l7-1999 140.1.b",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en Zaragoza, el plazo mínimo de información pública y audiencia es de treinta días naturales",
+    "toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso requiere la aprobación del Pleno por mayoría absoluta",
+    "en Zaragoza, la iniciativa para la aprobación de ordenanzas y reglamentos de competencia del Pleno corresponderá al Gobierno de Zaragoza (mediante proyecto normativo), los grupos políticos (mediante proposición) y la iniciativa popular"
+   ],
+   1,
+   "La incorrecta es «toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso requiere la aprobación del Pleno por mayoría absoluta». Lo correcto: toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso requiere la conformidad del Gobierno de Zaragoza para su tramitación.",
+   "l10-2017 48.6",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "las entidades locales con población superior a 20.000 habitantes editarán el texto íntegro de sus ordenanzas fiscales dentro del primer cuatrimestre del ejercicio económico correspondiente",
+    "el plazo durante el que los interesados pueden examinar el expediente y presentar reclamaciones contra el acuerdo provisional es el de exposición pública, de treinta días como mínimo",
+    "si no se presentan reclamaciones durante la exposición de la ordenanza fiscal debe elevarse a la Comunidad Autónoma"
+   ],
+   2,
+   "La incorrecta es «si no se presentan reclamaciones durante la exposición de la ordenanza fiscal debe elevarse a la Comunidad Autónoma». Lo correcto: si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se entenderá definitivamente adoptado el acuerdo provisional, sin necesidad de acuerdo plenario.",
+   "trlrhl 17.3",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las disposiciones generales aprobadas por las Entidades locales adoptarán la denominación de reglamentos cuando tengan por objeto regular la actividad económica",
+    "las ordenanzas y reglamentos de las Entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia",
+    "las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son ordenanzas"
+   ],
+   0,
+   "La incorrecta es «las disposiciones generales aprobadas por las Entidades locales adoptarán la denominación de reglamentos cuando tengan por objeto regular la actividad económica». Lo correcto: las disposiciones generales aprobadas por las Entidades locales adoptarán la denominación de reglamentos cuando tengan por objeto regular su organización y funcionamiento, y la de ordenanzas en los demás casos.",
+   "rbaso 125.1",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "a las mancomunidades de municipios les corresponden las potestades señaladas que determinen sus Estatutos y, en su defecto, todas las enumeradas en el apartado 1, siempre que sean precisas",
+    "las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales según decida cada entidad en sus estatutos, también en el caso de las mancomunidades de municipios",
+    "corresponden a los municipios, provincias e islas las prelaciones y preferencias de la Hacienda Pública para sus créditos, así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes"
+   ],
+   1,
+   "La incorrecta es «las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales según decida cada entidad en sus estatutos, también en el caso de las mancomunidades de municipios». Lo correcto: las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades.",
+   "lbrl 4.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "el acuerdo definitivo de ordenanzas fiscales, incluidos los provisionales elevados automáticamente a tales, deberá publicarse en el boletín oficial de la provincia o, en su caso, de la Comunidad Autónoma uniprovincial, sin que entren en vigor antes de dicha publicación",
+    "las entidades locales con población superior a 20.000 habitantes editarán el texto íntegro de sus ordenanzas fiscales dentro del primer cuatrimestre del ejercicio económico correspondiente",
+    "si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se requiere nuevo acuerdo plenario"
+   ],
+   2,
+   "La incorrecta es «si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se requiere nuevo acuerdo plenario». Lo correcto: si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se entenderá definitivamente adoptado el acuerdo provisional, sin necesidad de acuerdo plenario.",
+   "trlrhl 17.3",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "las potestades reglamentaria y de autoorganización corresponden a los municipios solo si la Comunidad Autónoma las delega",
+    "corresponden en todo caso a los municipios, las provincias y las islas, dentro de la esfera de sus competencias las potestades reglamentaria y de autoorganización, tributaria y financiera, de programación o planificación, expropiatoria, de ejecución forzosa y sancionadora, y de revisión de oficio",
+    "corresponden a los municipios, provincias e islas las prelaciones y preferencias de la Hacienda Pública para sus créditos, así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes"
+   ],
+   0,
+   "La incorrecta es «las potestades reglamentaria y de autoorganización corresponden a los municipios solo si la Comunidad Autónoma las delega». Lo correcto: las potestades reglamentaria y de autoorganización corresponden a los municipios en todo caso, como Administración pública territorial.",
+   "lbrl 4.1.a",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "el acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el «Boletín Oficial de Aragón» y el tablón de anuncios, por el plazo mínimo de treinta días",
+    "corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Alcalde, con información pública de treinta días mediante anuncio en el tablón de anuncios",
+    "corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la entidad local"
+   ],
+   1,
+   "La incorrecta es «corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Alcalde, con información pública de treinta días mediante anuncio en el tablón de anuncios». Lo correcto: corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la entidad local, con información pública de treinta días como mínimo mediante anuncio en el BOA y en el tablón de anuncios.",
+   "rbaso 130",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas debe concederse, además, audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios inscritas en el registro correspondiente, cuyos fines guarden relación directa con el objeto de la disposición",
+    "en el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de treinta días",
+    "la ley aragonesa exige, además, audiencia previa a los colegios profesionales"
+   ],
+   2,
+   "La incorrecta es «la ley aragonesa exige, además, audiencia previa a los colegios profesionales». Lo correcto: la ley aragonesa exige, además, audiencia previa a las asociaciones vecinales y de consumidores y usuarios inscritas en el registro correspondiente y cuyos fines guarden relación directa con la disposición.",
+   "l7-1999 140.1.c",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "las ordenanzas fiscales entran en vigor una vez publicados íntegramente el acuerdo definitivo y el texto, salvo que se demore su aplicación a una fecha posterior",
+    "la remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse dentro de los quince días siguientes a su aprobación",
+    "las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes exclusivamente en formato papel, sin obligación de llevar registro de sus modificaciones"
+   ],
+   2,
+   "La incorrecta es «las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes exclusivamente en formato papel, sin obligación de llevar registro de sus modificaciones». Lo correcto: las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes para su consulta por todos los ciudadanos, con texto íntegro actualizado, y llevarán un registro cronológico de los aprobados y sus modificaciones.",
+   "rbaso 133",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades",
+    "corresponden a los municipios, provincias e islas las prelaciones y preferencias de la Hacienda Pública para sus créditos, así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes",
+    "corresponden en todo caso a los municipios, las provincias y las islas, dentro de la esfera de sus competencias solo las potestades reglamentaria y de autoorganización, y las de programación o planificación"
+   ],
+   2,
+   "La incorrecta es «corresponden en todo caso a los municipios, las provincias y las islas, dentro de la esfera de sus competencias solo las potestades reglamentaria y de autoorganización, y las de programación o planificación». Lo correcto: corresponden en todo caso a los municipios, las provincias y las islas, dentro de la esfera de sus competencias las potestades reglamentaria y de autoorganización, tributaria y financiera, de programación o planificación, expropiatoria, de ejecución forzosa y sancionadora, y de revisión de oficio.",
+   "lbrl 4.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla continuará las actuaciones por sí mismo, hasta que se resuelva por el órgano que se considere competente",
+    "los conflictos de atribuciones, positivos o negativos, entre órganos de una misma Corporación local se resolverán por el Pleno u órgano supremo si afectan a Órganos colegiados, miembros de éstos o entidades dependientes del municipio",
+    "si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días"
+   ],
+   0,
+   "La incorrecta es «en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla continuará las actuaciones por sí mismo, hasta que se resuelva por el órgano que se considere competente». Lo correcto: en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla suspenderá las actuaciones y las remitirá inmediatamente, con el requerimiento y su informe, al órgano a que corresponda resolver el conflicto.",
+   "l7-1999 143.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "entre las potestades de municipios, provincias e islas se encuentra la potestad legislativa, en las materias de competencia propia de cada entidad local",
+    "las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades",
+    "a las mancomunidades de municipios les corresponden las potestades señaladas que determinen sus Estatutos y, en su defecto, todas las enumeradas en el apartado 1, siempre que sean precisas"
+   ],
+   0,
+   "La incorrecta es «entre las potestades de municipios, provincias e islas se encuentra la potestad legislativa, en las materias de competencia propia de cada entidad local». Lo correcto: entre las potestades de municipios, provincias e islas se encuentra la presunción de legitimidad y la ejecutividad de sus actos.",
+   "lbrl 4.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en Zaragoza, el plazo mínimo de información pública y audiencia es de treinta días naturales",
+    "en Zaragoza, tras la información pública, el proyecto se remitirá directamente al Pleno, para su aprobación en acto único, sin dictamen de comisión",
+    "toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso requiere la conformidad del Gobierno de Zaragoza para su tramitación"
+   ],
+   1,
+   "La incorrecta es «en Zaragoza, tras la información pública, el proyecto se remitirá directamente al Pleno, para su aprobación en acto único, sin dictamen de comisión». Lo correcto: en Zaragoza, tras la información pública, el proyecto se remitirá a la Comisión plenaria competente, con todas las reclamaciones y sugerencias recibidas, para la emisión del dictamen.",
+   "l10-2017 48",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial de Aragón»",
+    "la remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse dentro de los quince días siguientes a su aprobación",
+    "las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes exclusivamente en formato papel, sin obligación de llevar registro de sus modificaciones"
+   ],
+   2,
+   "La incorrecta es «las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes exclusivamente en formato papel, sin obligación de llevar registro de sus modificaciones». Lo correcto: las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes para su consulta por todos los ciudadanos, con texto íntegro actualizado, y llevarán un registro cronológico de los aprobados y sus modificaciones.",
+   "rbaso 133",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "los anuncios de exposición de ordenanzas fiscales se publicarán en el boletín oficial de la provincia y, además, en un diario de los de mayor difusión de la provincia cuando se trate de Diputaciones, órganos de gobierno de entidades supramunicipales y ayuntamientos de población superior a 10.000 habitantes",
+    "finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones se entenderá definitivamente adoptado el acuerdo hasta entonces provisional",
+    "el plazo durante el que los interesados pueden examinar el expediente y presentar reclamaciones contra el acuerdo provisional es diez días desde la publicación"
+   ],
+   2,
+   "La incorrecta es «el plazo durante el que los interesados pueden examinar el expediente y presentar reclamaciones contra el acuerdo provisional es diez días desde la publicación». Lo correcto: el plazo durante el que los interesados pueden examinar el expediente y presentar reclamaciones contra el acuerdo provisional es el de exposición pública, de treinta días como mínimo.",
+   "trlrhl 17.1",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "en conflicto de atribuciones, el plazo de ocho días del órgano requerido se cuenta para decidir acerca de su competencia",
+    "cuando un órgano o entidad se considere incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de quince días; si se considerase incompetente archivará el expediente con su informe",
+    "los conflictos de atribuciones, positivos o negativos, entre órganos de una misma Corporación local se resolverán por el Pleno u órgano supremo si afectan a Órganos colegiados, miembros de éstos o entidades dependientes del municipio"
+   ],
+   1,
+   "La incorrecta es «cuando un órgano o entidad se considere incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de quince días; si se considerase incompetente archivará el expediente con su informe». Lo correcto: cuando un órgano o entidad se considere incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días; si se considerase incompetente remitirá de inmediato el expediente, con su informe, al que corresponda decidir el conflicto.",
+   "l7-1999 143.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "requerirá mayoría absoluta, entre otros supuestos el planeamiento general, las ordenanzas fiscales, el reglamento orgánico y las ordenanzas de aprovechamientos de bienes comunales",
+    "la aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación, resolviéndose de forma razonada las reclamaciones, con respuesta posiblemente común para las sustancialmente iguales",
+    "con carácter general, los reglamentos y ordenanzas locales aragoneses se aprobarán por dos tercios del número legal siempre, y mayoría simple solo para las ordenanzas fiscales"
+   ],
+   2,
+   "La incorrecta es «con carácter general, los reglamentos y ordenanzas locales aragoneses se aprobarán por dos tercios del número legal siempre, y mayoría simple solo para las ordenanzas fiscales». Lo correcto: con carácter general, los reglamentos y ordenanzas locales aragoneses se aprobarán por mayoría simple, requiriéndose mayoría absoluta para los instrumentos de planeamiento general, las ordenanzas fiscales, el reglamento orgánico y las ordenanzas de aprovechamientos comunales.",
+   "rbaso 132",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "el acuerdo definitivo de ordenanzas fiscales, incluidos los provisionales elevados automáticamente a tales, deberá publicarse en el boletín oficial de la provincia o, en su caso, de la Comunidad Autónoma uniprovincial, sin que entren en vigor antes de dicha publicación",
+    "el plazo durante el que los interesados pueden examinar el expediente y presentar reclamaciones contra el acuerdo provisional es el de exposición pública, de treinta días como mínimo",
+    "si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se requiere nuevo acuerdo plenario"
+   ],
+   2,
+   "La incorrecta es «si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se requiere nuevo acuerdo plenario». Lo correcto: si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se entenderá definitivamente adoptado el acuerdo provisional, sin necesidad de acuerdo plenario.",
+   "trlrhl 17.3",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "el acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el diario oficial de la provincia, un mes",
+    "corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la entidad local, con información pública de treinta días como mínimo mediante anuncio en el BOA y en el tablón de anuncios",
+    "se concederá audiencia previa a las asociaciones Vecinales y de defensa de los consumidores y usuarios del ámbito territorial inscritas en el registro correspondiente y cuyos fines guarden relación directa con el objeto de la disposición"
+   ],
+   0,
+   "La incorrecta es «el acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el diario oficial de la provincia, un mes». Lo correcto: el acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el «Boletín Oficial de Aragón» y el tablón de anuncios, por el plazo mínimo de treinta días.",
+   "rbaso 130.2",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "los conflictos de atribuciones que surjan entre órganos y entidades dependientes de una misma Corporación local se resolverán por el Pleno cuando afecten a órganos colegiados, miembros de éstos o entidades locales del artículo 45, y en el resto de supuestos por la Junta de Gobierno Local",
+    "los conflictos de competencias planteados entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o del Estado, previa audiencia de las Comunidades afectadas, según sean de la misma o distinta Comunidad",
+    "las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por la Administración del Estado, previo informe del Instituto Geográfico nacional, audiencia de los municipios y CCAA afectados y dictamen del Consejo de Estado"
+   ],
+   0,
+   "La incorrecta es «los conflictos de atribuciones que surjan entre órganos y entidades dependientes de una misma Corporación local se resolverán por el Pleno cuando afecten a órganos colegiados, miembros de éstos o entidades locales del artículo 45, y en el resto de supuestos por la Junta de Gobierno Local». Lo correcto: los conflictos de atribuciones que surjan entre órganos y entidades dependientes de una misma Corporación local se resolverán por el Pleno cuando afecten a órganos colegiados, miembros de éstos o entidades locales del artículo 45, y en el resto de supuestos por el Alcalde o Presidente de la Corporación.",
+   "lbrl 50.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de quince días",
+    "en un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla suspenderá las actuaciones y las remitirá inmediatamente, con el requerimiento y su informe, al órgano a que corresponda resolver el conflicto",
+    "en conflicto de atribuciones, el plazo de ocho días del órgano requerido se cuenta para decidir acerca de su competencia"
+   ],
+   0,
+   "La incorrecta es «si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de quince días». Lo correcto: si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días.",
+   "l7-1999 143.2.b",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "los acuerdos provisionales de establecimiento, supresión y ordenación de tributos y las aprobaciones y modificaciones de ordenanzas fiscales se expondrán en el tablón de anuncios durante quince días",
+    "los acuerdos provisionales para el establecimiento o modificación de tributos y ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días como mínimo; los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además en un diario de los de mayor difusión de la provincia o comunidad autónoma uniprovincial",
+    "finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones se entenderá definitivamente adoptado el acuerdo hasta entonces provisional"
+   ],
+   0,
+   "La incorrecta es «los acuerdos provisionales de establecimiento, supresión y ordenación de tributos y las aprobaciones y modificaciones de ordenanzas fiscales se expondrán en el tablón de anuncios durante quince días». Lo correcto: los acuerdos provisionales de establecimiento, supresión y ordenación de tributos y las aprobaciones y modificaciones de ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días, como mínimo.",
+   "trlrhl 17.1",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
   ]
  ]
 }

@@ -3528,6 +3528,844 @@
     "off": 1,
     "dup": "t08-130"
    }
+  ],
+  [
+   "De acuerdo con el artículo 114 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en el ámbito estatal ponen fin a la vía administrativa, entre otros los actos de los miembros y órganos del Gobierno y los emanados de Ministros y Secretarios de Estado en sus competencias",
+    "ponen fin a la vía administrativa las resoluciones de los recursos de alzada y las de órganos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario",
+    "pone fin a la vía administrativa la propuesta de resolución"
+   ],
+   2,
+   "La incorrecta es «pone fin a la vía administrativa la propuesta de resolución». Lo correcto: pone fin a la vía administrativa la resolución de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación de que derive.",
+   "lpac 114.1.e",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el acto no es expreso, el recurso de alzada puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio",
+    "el plazo máximo para dictar y notificar la resolución del recurso de alzada es de un mes",
+    "contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión"
+   ],
+   1,
+   "La incorrecta es «el plazo máximo para dictar y notificar la resolución del recurso de alzada es de un mes». Lo correcto: el plazo máximo para dictar y notificar la resolución del recurso de alzada es de tres meses, tras los cuales se podrá entender desestimado, salvo el supuesto del artículo 24.1, párrafo tercero.",
+   "lpac 122.2",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando no se basen en alguna causa del artículo 47.1, carezcan manifiestamente de fundamento o ya se hayan desestimado otras sustancialmente iguales",
+    "al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución la responsabilidad penal de los autores",
+    "si el procedimiento de revisión de oficio se inició de oficio, el transcurso de seis meses desde su inicio sin resolución producirá la caducidad del mismo"
+   ],
+   1,
+   "La incorrecta es «al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución la responsabilidad penal de los autores». Lo correcto: al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución las indemnizaciones que proceda reconocer a los interesados, subsistiendo en las disposiciones los actos firmes dictados en su aplicación.",
+   "lpac 106.4",
+   "Proposición negativa",
+   "h-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el procedimiento de revisión de oficio se inició de oficio, el transcurso de seis meses desde su inicio sin resolución producirá la caducidad del mismo",
+    "el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando el interesado no acredite su legitimación",
+    "la revisión de oficio de actos nulos puede hacerse en cualquier momento, por iniciativa propia o a solicitud de interesado"
+   ],
+   1,
+   "La incorrecta es «el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando el interesado no acredite su legitimación». Lo correcto: el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando no se basen en alguna causa del artículo 47.1, carezcan manifiestamente de fundamento o ya se hayan desestimado otras sustancialmente iguales.",
+   "lpac 106.3",
+   "Proposición negativa",
+   "h-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de tres meses desde la notificación",
+    "procede el recurso extraordinario de revisión cuando al dictar el acto se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente",
+    "procede el recurso extraordinario de revisión cuando aparezcan documentos de valor esencial para la resolución que, aunque sean posteriores, evidencien el error de la resolución recurrida"
+   ],
+   0,
+   "La incorrecta es «el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de tres meses desde la notificación». Lo correcto: el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de cuatro años desde la notificación de la resolución impugnada.",
+   "lpac 125.2",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el procedimiento de revisión de oficio se inició de oficio, el transcurso de seis meses desde su inicio sin resolución producirá la caducidad del mismo",
+    "al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución la responsabilidad penal de los autores",
+    "la revisión de oficio de actos nulos puede hacerse en cualquier momento, por iniciativa propia o a solicitud de interesado"
+   ],
+   1,
+   "La incorrecta es «al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución la responsabilidad penal de los autores». Lo correcto: al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución las indemnizaciones que proceda reconocer a los interesados, subsistiendo en las disposiciones los actos firmes dictados en su aplicación.",
+   "lpac 106.4",
+   "Proposición negativa",
+   "h-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la suspensión se prolonga tras agotar la vía administrativa cuando el recurrente interponga cualquier recurso",
+    "la ejecución se entiende suspendida si transcurrido un mes desde la solicitud de suspensión el órgano no ha dictado y notificado resolución expresa sobre ella",
+    "el órgano que resuelve el recurso podrá suspender la ejecución, previa ponderación razonada del perjuicio al interés público y al recurrente, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o la impugnación se funde en causas de nulidad del artículo 47.1"
+   ],
+   0,
+   "La incorrecta es «la suspensión se prolonga tras agotar la vía administrativa cuando el recurrente interponga cualquier recurso». Lo correcto: la suspensión se prolonga tras agotar la vía administrativa cuando el interesado lo haya solicitado previamente y exista medida cautelar cuyos efectos se extiendan a la vía contencioso-administrativa.",
+   "lpac 117.4",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "no tienen el carácter de documentos nuevos el recurso, los informes y las propuestas, ni los aportados al expediente antes de recaer la resolución impugnada",
+    "si hubiera otros interesados se les dará en todo caso traslado del recurso para que aleguen en el mismo plazo",
+    "en la resolución de los recursos no se tendrán en cuenta hechos, documentos o alegaciones del recurrente que se aporten en la fase de recurso"
+   ],
+   2,
+   "La incorrecta es «en la resolución de los recursos no se tendrán en cuenta hechos, documentos o alegaciones del recurrente que se aporten en la fase de recurso». Lo correcto: en la resolución de los recursos no se tendrán en cuenta hechos, documentos o alegaciones del recurrente cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho.",
+   "lpac 118.1",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si han de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente, se concederá audiencia a los interesados por un plazo no inferior a diez días ni superior a quince días",
+    "si hubiera otros interesados se les notificará solo la resolución",
+    "no tienen el carácter de documentos nuevos el recurso, los informes y las propuestas, ni los aportados al expediente antes de recaer la resolución impugnada"
+   ],
+   1,
+   "La incorrecta es «si hubiera otros interesados se les notificará solo la resolución». Lo correcto: si hubiera otros interesados se les dará en todo caso traslado del recurso para que aleguen en el mismo plazo.",
+   "lpac 118.2",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución la anulación de los actos firmes dictados en aplicación",
+    "el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando no se basen en alguna causa del artículo 47.1, carezcan manifiestamente de fundamento o ya se hayan desestimado otras sustancialmente iguales",
+    "la revisión de oficio de actos nulos puede hacerse en cualquier momento, por iniciativa propia o a solicitud de interesado"
+   ],
+   0,
+   "La incorrecta es «al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución la anulación de los actos firmes dictados en aplicación». Lo correcto: al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución las indemnizaciones que proceda reconocer a los interesados, subsistiendo en las disposiciones los actos firmes dictados en su aplicación.",
+   "lpac 106.4",
+   "Proposición negativa",
+   "h-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "procede el recurso extraordinario de revisión cuando al dictar el acto se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente",
+    "procede el recurso extraordinario de revisión cuando aparezcan nuevos criterios jurisprudenciales",
+    "en las restantes causas de revisión el plazo es de tres meses desde el conocimiento de los documentos o desde que la sentencia quedó firme"
+   ],
+   1,
+   "La incorrecta es «procede el recurso extraordinario de revisión cuando aparezcan nuevos criterios jurisprudenciales». Lo correcto: procede el recurso extraordinario de revisión cuando aparezcan documentos de valor esencial para la resolución que, aunque sean posteriores, evidencien el error de la resolución recurrida.",
+   "lpac 125.1.b",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el órgano que resuelva el recurso decidirá cuantas cuestiones plantee el procedimiento, hayan sido o no alegadas por los interesados; en este último caso se les oirá previamente, sin que pueda agravarse la situación inicial del recurrente",
+    "el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar audiencia de los interesados",
+    "cuando haya pluralidad de recursos administrativos derivados de un mismo acto y se haya interpuesto recurso judicial el órgano administrativo podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial"
+   ],
+   1,
+   "La incorrecta es «el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar audiencia de los interesados». Lo correcto: el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma.",
+   "lpac 126.1",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "pueden recurrirse en alzada y reposición los actos de trámite si cualquier acto de trámite",
+    "si han de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente, se concederá audiencia a los interesados por un plazo no inferior a diez días ni superior a quince días",
+    "los recursos contra un acto que se funden únicamente en la nulidad de una disposición general podrán interponerse directamente ante el órgano que dictó dicha disposición"
+   ],
+   0,
+   "La incorrecta es «pueden recurrirse en alzada y reposición los actos de trámite si cualquier acto de trámite». Lo correcto: pueden recurrirse en alzada y reposición los actos de trámite si deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos o intereses legítimos.",
+   "lpac 112.1",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en el ámbito estatal ponen fin a la vía administrativa, entre otros los actos de los miembros y órganos del Gobierno y los emanados de Ministros y Secretarios de Estado en sus competencias",
+    "pueden recurrirse en alzada y reposición los actos de trámite si deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos o intereses legítimos",
+    "podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa autorización previa del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
+   ],
+   2,
+   "La incorrecta es «podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa autorización previa del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma». Lo correcto: podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa su declaración de lesividad para el interés público.",
+   "lpac 107.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "cuando haya pluralidad de recursos administrativos derivados de un mismo acto y se haya interpuesto recurso judicial debe resolverlos todos conjuntamente",
+    "la interposición del recurso deberá expresar, entre otros extremos el acto que se recurre y la razón de su impugnación, además de nombre, firma, medio de notificación y órgano al que se dirige con su código de identificación",
+    "si han de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente, se concederá audiencia a los interesados por un plazo no inferior a diez días ni superior a quince días"
+   ],
+   0,
+   "La incorrecta es «cuando haya pluralidad de recursos administrativos derivados de un mismo acto y se haya interpuesto recurso judicial debe resolverlos todos conjuntamente». Lo correcto: cuando haya pluralidad de recursos administrativos derivados de un mismo acto y se haya interpuesto recurso judicial el órgano administrativo podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial.",
+   "lpac 120.1",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "no tienen el carácter de documentos nuevos los informes técnicos posteriores",
+    "en las restantes causas de revisión el plazo es de tres meses desde el conocimiento de los documentos o desde que la sentencia quedó firme",
+    "las facultades de revisión no podrán ejercerse cuando su ejercicio resulte contrario a la equidad, la buena fe, el derecho de los particulares o las leyes, por prescripción de acciones, tiempo transcurrido u otras circunstancias"
+   ],
+   0,
+   "La incorrecta es «no tienen el carácter de documentos nuevos los informes técnicos posteriores». Lo correcto: no tienen el carácter de documentos nuevos el recurso, los informes y las propuestas, ni los aportados al expediente antes de recaer la resolución impugnada.",
+   "lpac 118.3",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "procede el recurso extraordinario de revisión cuando al dictar el acto se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente",
+    "el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar audiencia de los interesados",
+    "podrán revocar, mientras no haya transcurrido el plazo de prescripción sus actos de gravamen o desfavorables, siempre que no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico"
+   ],
+   1,
+   "La incorrecta es «el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar audiencia de los interesados». Lo correcto: el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma.",
+   "lpac 126.1",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el plazo máximo para dictar y notificar la resolución del recurso de alzada es de tres meses, tras los cuales se podrá entender desestimado, salvo el supuesto del artículo 24.1, párrafo tercero",
+    "las facultades de revisión no podrán ejercerse cuando su ejercicio resulte contrario a la equidad, la buena fe, el derecho de los particulares o las leyes, por prescripción de acciones, tiempo transcurrido u otras circunstancias",
+    "si hubiera otros interesados se les notificará solo la resolución"
+   ],
+   2,
+   "La incorrecta es «si hubiera otros interesados se les notificará solo la resolución». Lo correcto: si hubiera otros interesados se les dará en todo caso traslado del recurso para que aleguen en el mismo plazo.",
+   "lpac 118.2",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el acto no es expreso, el recurso de alzada puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio",
+    "ponen fin a la vía administrativa los actos de trámite cualificados",
+    "en la resolución de los recursos no se tendrán en cuenta hechos, documentos o alegaciones del recurrente cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho"
+   ],
+   1,
+   "La incorrecta es «ponen fin a la vía administrativa los actos de trámite cualificados». Lo correcto: ponen fin a la vía administrativa las resoluciones de los recursos de alzada y las de órganos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.",
+   "lpac 114.1",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "declararán de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 solo dentro de los cuatro años siguientes, previo dictamen facultativo del órgano consultivo correspondiente",
+    "a efectos del recurso de alzada, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente",
+    "la declaración de lesividad exige la previa audiencia de cuantos aparezcan como interesados en el acto"
+   ],
+   0,
+   "La incorrecta es «declararán de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 solo dentro de los cuatro años siguientes, previo dictamen facultativo del órgano consultivo correspondiente». Lo correcto: declararán de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 en cualquier momento, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere.",
+   "lpac 106.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en las restantes causas de revisión el plazo es de cuatro años",
+    "contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión",
+    "podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa su declaración de lesividad para el interés público"
+   ],
+   0,
+   "La incorrecta es «en las restantes causas de revisión el plazo es de cuatro años». Lo correcto: en las restantes causas de revisión el plazo es de tres meses desde el conocimiento de los documentos o desde que la sentencia quedó firme.",
+   "lpac 125.2",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el recurso será inadmitido, entre otras causas, por carecer manifiestamente de fundamento",
+    "podrán revocar, mientras no haya transcurrido el plazo de prescripción sus actos de gravamen o desfavorables, siempre que no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
+    "el acuerdo de suspensión del plazo por pluralidad de recursos se notifica solo al recurrente judicial"
+   ],
+   2,
+   "La incorrecta es «el acuerdo de suspensión del plazo por pluralidad de recursos se notifica solo al recurrente judicial». Lo correcto: el acuerdo de suspensión del plazo por pluralidad de recursos deberá ser notificado a los interesados, quienes podrán recurrirlo.",
+   "lpac 120.2",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "declararán de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 en cualquier momento, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+    "pone fin a la vía administrativa solo la de responsabilidad de relación pública",
+    "los recursos contra un acto que se funden únicamente en la nulidad de una disposición general podrán interponerse directamente ante el órgano que dictó dicha disposición"
+   ],
+   1,
+   "La incorrecta es «pone fin a la vía administrativa solo la de responsabilidad de relación pública». Lo correcto: pone fin a la vía administrativa la resolución de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación de que derive.",
+   "lpac 114.1.e",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "podrán revocar, mientras no haya transcurrido el plazo de prescripción sus actos de gravamen o desfavorables, siempre que no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
+    "la ejecución se entiende suspendida si transcurrido un mes desde la solicitud de suspensión no se ha prestado garantía",
+    "el órgano competente puede acordar motivadamente la inadmisión del recurso extraordinario sin dictamen cuando no se funde en alguna causa del artículo 125.1 o se hayan desestimado en cuanto al fondo otros recursos sustancialmente iguales"
+   ],
+   1,
+   "La incorrecta es «la ejecución se entiende suspendida si transcurrido un mes desde la solicitud de suspensión no se ha prestado garantía». Lo correcto: la ejecución se entiende suspendida si transcurrido un mes desde la solicitud de suspensión el órgano no ha dictado y notificado resolución expresa sobre ella.",
+   "lpac 117.3",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el plazo máximo para dictar y notificar la resolución del recurso de alzada es de tres meses, tras los cuales se podrá entender desestimado, salvo el supuesto del artículo 24.1, párrafo tercero",
+    "las facultades de revisión no podrán ejercerse cuando su ejercicio resulte contrario a la equidad, la buena fe, el derecho de los particulares o las leyes, por prescripción de acciones, tiempo transcurrido u otras circunstancias",
+    "el órgano competente puede acordar motivadamente la inadmisión del recurso extraordinario sin dictamen cuando se presente fuera de plazo siempre"
+   ],
+   2,
+   "La incorrecta es «el órgano competente puede acordar motivadamente la inadmisión del recurso extraordinario sin dictamen cuando se presente fuera de plazo siempre». Lo correcto: el órgano competente puede acordar motivadamente la inadmisión del recurso extraordinario sin dictamen cuando no se funde en alguna causa del artículo 125.1 o se hayan desestimado en cuanto al fondo otros recursos sustancialmente iguales.",
+   "lpac 126.1",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la ejecución se entiende suspendida si transcurrido un mes desde la solicitud de suspensión el órgano no ha dictado y notificado resolución expresa sobre ella",
+    "el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de tres meses desde la notificación",
+    "contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión"
+   ],
+   1,
+   "La incorrecta es «el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de tres meses desde la notificación». Lo correcto: el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de cuatro años desde la notificación de la resolución impugnada.",
+   "lpac 125.2",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "pueden recurrirse en alzada y reposición los actos de trámite si deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos o intereses legítimos",
+    "los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado",
+    "a efectos del recurso de alzada, se considerarán dependientes de ningún órgano, por tener autonomía funcional, y sus actos no son recurribles en alzada"
+   ],
+   2,
+   "La incorrecta es «a efectos del recurso de alzada, se considerarán dependientes de ningún órgano, por tener autonomía funcional, y sus actos no son recurribles en alzada». Lo correcto: a efectos del recurso de alzada, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente.",
+   "lpac 121.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el recurso será inadmitido, entre otras causas, por carecer manifiestamente de fundamento",
+    "podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa su declaración de nulidad de pleno derecho, previo dictamen favorable del órgano consultivo",
+    "procede el recurso extraordinario de revisión cuando aparezcan documentos de valor esencial para la resolución que, aunque sean posteriores, evidencien el error de la resolución recurrida"
+   ],
+   1,
+   "La incorrecta es «podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa su declaración de nulidad de pleno derecho, previo dictamen favorable del órgano consultivo». Lo correcto: podrán impugnar ante el orden contencioso-administrativo los actos favorables para los interesados que sean anulables, previa su declaración de lesividad para el interés público.",
+   "lpac 107.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el órgano que resuelve el recurso podrá suspender la ejecución, previa ponderación razonada del perjuicio al interés público y al recurrente, cuando el acto sea sancionador",
+    "los Secretarios de Estado son competentes para revisar de oficio los actos y disposiciones dictados por los órganos directivos de ellos dependientes",
+    "cuando haya pluralidad de recursos administrativos derivados de un mismo acto y se haya interpuesto recurso judicial el órgano administrativo podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial"
+   ],
+   0,
+   "La incorrecta es «el órgano que resuelve el recurso podrá suspender la ejecución, previa ponderación razonada del perjuicio al interés público y al recurrente, cuando el acto sea sancionador». Lo correcto: el órgano que resuelve el recurso podrá suspender la ejecución, previa ponderación razonada del perjuicio al interés público y al recurrente, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o la impugnación se funde en causas de nulidad del artículo 47.1.",
+   "lpac 117.2",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el órgano que resuelve el recurso podrá suspender la ejecución, previa ponderación razonada del perjuicio al interés público y al recurrente, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o la impugnación se funde en causas de nulidad del artículo 47.1",
+    "declararán de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 en cualquier momento, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+    "el recurso de alzada se interpone contra resoluciones y actos que no pongan fin a la vía administrativa ante el Consejo de Estado"
+   ],
+   2,
+   "La incorrecta es «el recurso de alzada se interpone contra resoluciones y actos que no pongan fin a la vía administrativa ante el Consejo de Estado». Lo correcto: el recurso de alzada se interpone contra resoluciones y actos que no pongan fin a la vía administrativa ante el órgano superior jerárquico del que los dictó.",
+   "lpac 121.1",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la interposición del recurso deberá expresar, entre otros extremos el acto que se recurre y la razón de su impugnación, además de nombre, firma, medio de notificación y órgano al que se dirige con su código de identificación",
+    "el recurso de alzada podrá interponerse ante el órgano que dictó el acto o ante el competente para resolverlo, que debe recibirlo en diez días con informe y copia del expediente si se presentó ante el primero",
+    "el acuerdo de suspensión del plazo por pluralidad de recursos se notifica solo al recurrente judicial"
+   ],
+   2,
+   "La incorrecta es «el acuerdo de suspensión del plazo por pluralidad de recursos se notifica solo al recurrente judicial». Lo correcto: el acuerdo de suspensión del plazo por pluralidad de recursos deberá ser notificado a los interesados, quienes podrán recurrirlo.",
+   "lpac 120.2",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el Tribunal Económico-Administrativo",
+    "la suspensión se prolonga tras agotar la vía administrativa cuando el interesado lo haya solicitado previamente y exista medida cautelar cuyos efectos se extiendan a la vía contencioso-administrativa",
+    "ponen fin a la vía administrativa las resoluciones de los recursos de alzada y las de órganos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario"
+   ],
+   0,
+   "La incorrecta es «los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el Tribunal Económico-Administrativo». Lo correcto: los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado.",
+   "lpac 123.1",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el recurso será inadmitido, entre otras causas, por carecer manifiestamente de fundamento",
+    "en el ámbito estatal ponen fin a la vía administrativa, entre otros los actos de los miembros y órganos del Gobierno y los emanados de Ministros y Secretarios de Estado en sus competencias",
+    "el órgano competente puede acordar motivadamente la inadmisión del recurso extraordinario sin dictamen cuando el recurrente no acredite su legitimación"
+   ],
+   2,
+   "La incorrecta es «el órgano competente puede acordar motivadamente la inadmisión del recurso extraordinario sin dictamen cuando el recurrente no acredite su legitimación». Lo correcto: el órgano competente puede acordar motivadamente la inadmisión del recurso extraordinario sin dictamen cuando no se funde en alguna causa del artículo 125.1 o se hayan desestimado en cuanto al fondo otros recursos sustancialmente iguales.",
+   "lpac 126.1",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la declaración de lesividad exige dictamen vinculante del Consejo de Estado",
+    "la suspensión se prolonga tras agotar la vía administrativa cuando el interesado lo haya solicitado previamente y exista medida cautelar cuyos efectos se extiendan a la vía contencioso-administrativa",
+    "en la resolución de los recursos no se tendrán en cuenta hechos, documentos o alegaciones del recurrente cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho"
+   ],
+   0,
+   "La incorrecta es «la declaración de lesividad exige dictamen vinculante del Consejo de Estado». Lo correcto: la declaración de lesividad exige la previa audiencia de cuantos aparezcan como interesados en el acto.",
+   "lpac 107.2",
+   "Proposición negativa",
+   "h-lesividad-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el órgano que resuelva el recurso decidirá cuantas cuestiones plantee el procedimiento, hayan sido o no alegadas por los interesados; en este último caso se les oirá previamente, sin que pueda agravarse la situación inicial del recurrente",
+    "si el órgano administrativo es incompetente y el competente pertenece a otra Administración, el recurso deberá remitirse al órgano competente conforme al artículo 14.1 de la LRJSP",
+    "la declaración de lesividad exige informe del Ministerio Fiscal"
+   ],
+   2,
+   "La incorrecta es «la declaración de lesividad exige informe del Ministerio Fiscal». Lo correcto: la declaración de lesividad exige la previa audiencia de cuantos aparezcan como interesados en el acto.",
+   "lpac 107.2",
+   "Proposición negativa",
+   "h-lesividad-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el acuerdo de suspensión del plazo por pluralidad de recursos deberá ser notificado a los interesados, quienes podrán recurrirlo",
+    "es causa de inadmisión del recurso ser incompetente el órgano administrativo cuando el competente pertenece a otra Administración, debiendo remitirse el recurso al competente",
+    "el recurso de alzada se interpone contra resoluciones y actos que no pongan fin a la vía administrativa ante el mismo órgano que los dictó"
+   ],
+   2,
+   "La incorrecta es «el recurso de alzada se interpone contra resoluciones y actos que no pongan fin a la vía administrativa ante el mismo órgano que los dictó». Lo correcto: el recurso de alzada se interpone contra resoluciones y actos que no pongan fin a la vía administrativa ante el órgano superior jerárquico del que los dictó.",
+   "lpac 121.1",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado",
+    "si el acto no es expreso, el recurso de alzada puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio",
+    "la interposición del recurso deberá expresar, entre otros extremos la indemnización que se solicita"
+   ],
+   2,
+   "La incorrecta es «la interposición del recurso deberá expresar, entre otros extremos la indemnización que se solicita». Lo correcto: la interposición del recurso deberá expresar, entre otros extremos el acto que se recurre y la razón de su impugnación, además de nombre, firma, medio de notificación y órgano al que se dirige con su código de identificación.",
+   "lpac 115.1",
+   "Proposición negativa",
+   "h-recursos-reglas",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de cuatro años desde la notificación de la resolución impugnada",
+    "es causa de inadmisión del recurso ser incompetente el órgano administrativo cuando el competente pertenece a otra Administración, debiendo remitirse el recurso al competente",
+    "a efectos del recurso de alzada, se considerarán dependientes de ningún órgano, por tener autonomía funcional, y sus actos no son recurribles en alzada"
+   ],
+   2,
+   "La incorrecta es «a efectos del recurso de alzada, se considerarán dependientes de ningún órgano, por tener autonomía funcional, y sus actos no son recurribles en alzada». Lo correcto: a efectos del recurso de alzada, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente.",
+   "lpac 121.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el recurso de alzada se interpone contra resoluciones y actos que no pongan fin a la vía administrativa ante el órgano superior jerárquico del que los dictó",
+    "el órgano que resuelva el recurso decidirá cuantas cuestiones plantee el procedimiento, hayan sido o no alegadas por los interesados; en este último caso se les oirá previamente, sin que pueda agravarse la situación inicial del recurrente",
+    "pone fin a la vía administrativa la propuesta de resolución"
+   ],
+   2,
+   "La incorrecta es «pone fin a la vía administrativa la propuesta de resolución». Lo correcto: pone fin a la vía administrativa la resolución de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación de que derive.",
+   "lpac 114.1.e",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los Secretarios de Estado son competentes para revisar de oficio los actos y disposiciones dictados por los órganos directivos de ellos dependientes",
+    "si el órgano administrativo es incompetente y el competente pertenece a otra Administración, el recurso deberá remitirse al órgano competente conforme al artículo 14.1 de la LRJSP",
+    "el recurso de alzada podrá interponerse solo ante el que dictó el acto"
+   ],
+   2,
+   "La incorrecta es «el recurso de alzada podrá interponerse solo ante el que dictó el acto». Lo correcto: el recurso de alzada podrá interponerse ante el órgano que dictó el acto o ante el competente para resolverlo, que debe recibirlo en diez días con informe y copia del expediente si se presentó ante el primero.",
+   "lpac 121.2",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "es causa de inadmisión del recurso ser incompetente el órgano administrativo cuando el competente pertenece a otra Administración, debiendo remitirse el recurso al competente",
+    "el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar informe de la Abogacía",
+    "los recursos contra un acto que se funden únicamente en la nulidad de una disposición general podrán interponerse directamente ante el órgano que dictó dicha disposición"
+   ],
+   1,
+   "La incorrecta es «el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar informe de la Abogacía». Lo correcto: el órgano competente podrá acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma.",
+   "lpac 126.1",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 114 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "pone fin a la vía administrativa la resolución de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación de que derive",
+    "en el ámbito estatal ponen fin a la vía administrativa, entre otros los actos de los miembros y órganos del Gobierno y los emanados de Ministros y Secretarios de Estado en sus competencias",
+    "ponen fin a la vía administrativa las resoluciones de los recursos de reposición únicamente"
+   ],
+   2,
+   "La incorrecta es «ponen fin a la vía administrativa las resoluciones de los recursos de reposición únicamente». Lo correcto: ponen fin a la vía administrativa las resoluciones de los recursos de alzada y las de órganos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.",
+   "lpac 114.1",
+   "Proposición negativa",
+   "h-recursos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la revisión de oficio de actos nulos puede hacerse en cualquier momento, por iniciativa propia o a solicitud de interesado",
+    "el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando el interesado no acredite su legitimación",
+    "al declarar la nulidad de una disposición o acto, la Administración podrá establecer en la misma resolución las indemnizaciones que proceda reconocer a los interesados, subsistiendo en las disposiciones los actos firmes dictados en su aplicación"
+   ],
+   1,
+   "La incorrecta es «el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando el interesado no acredite su legitimación». Lo correcto: el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando no se basen en alguna causa del artículo 47.1, carezcan manifiestamente de fundamento o ya se hayan desestimado otras sustancialmente iguales.",
+   "lpac 106.3",
+   "Proposición negativa",
+   "h-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el plazo para interponer el recurso extraordinario de revisión por error de hecho (causa a) es de cuatro años desde la notificación de la resolución impugnada",
+    "procede el recurso extraordinario de revisión cuando al dictar el acto se hubiera incurrido en cualquier infracción formal",
+    "procede el recurso extraordinario de revisión cuando aparezcan documentos de valor esencial para la resolución que, aunque sean posteriores, evidencien el error de la resolución recurrida"
+   ],
+   1,
+   "La incorrecta es «procede el recurso extraordinario de revisión cuando al dictar el acto se hubiera incurrido en cualquier infracción formal». Lo correcto: procede el recurso extraordinario de revisión cuando al dictar el acto se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente.",
+   "lpac 125.1.a",
+   "Proposición negativa",
+   "h-extraordinario-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el procedimiento de revisión de oficio se inició de oficio, el transcurso de seis meses desde su inicio sin resolución producirá la nulidad del acto",
+    "el órgano competente podrá inadmitir a trámite las solicitudes de revisión de oficio sin necesidad de dictamen cuando no se basen en alguna causa del artículo 47.1, carezcan manifiestamente de fundamento o ya se hayan desestimado otras sustancialmente iguales",
+    "declararán de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 en cualquier momento, previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere"
+   ],
+   0,
+   "La incorrecta es «si el procedimiento de revisión de oficio se inició de oficio, el transcurso de seis meses desde su inicio sin resolución producirá la nulidad del acto». Lo correcto: si el procedimiento de revisión de oficio se inició de oficio, el transcurso de seis meses desde su inicio sin resolución producirá la caducidad del mismo.",
+   "lpac 106.5",
+   "Proposición negativa",
+   "h-revision",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
   ]
  ]
 }

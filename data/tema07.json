@@ -3896,6 +3896,342 @@
     "off": 1,
     "dup": "t07-122"
    }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si no se realiza una obligación personalísima de hacer, el obligado deberá abonar una multa coercitiva en todo caso",
+    "las multas coercitivas pueden imponerse cuando lo autoricen las leyes, entre otros supuestos, en actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado",
+    "el importe de la ejecución subsidiaria podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva"
+   ],
+   0,
+   "La incorrecta es «si no se realiza una obligación personalísima de hacer, el obligado deberá abonar una multa coercitiva en todo caso». Lo correcto: si no se realiza una obligación personalísima de hacer, el obligado deberá resarcir los daños y perjuicios, liquidándose y cobrándose en vía administrativa.",
+   "lpac 104.2",
+   "Proposición negativa",
+   "h-ejecucion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en la petición de informe se concretará el plazo de resolución del procedimiento",
+    "el procedimiento de responsabilidad patrimonial iniciado de oficio se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo",
+    "se entiende por orden superior la emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+   ],
+   0,
+   "La incorrecta es «en la petición de informe se concretará el plazo de resolución del procedimiento». Lo correcto: en la petición de informe se concretará el extremo o extremos acerca de los que se solicita.",
+   "lpac 79.2",
+   "Proposición negativa",
+   "h-instruccion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el procedimiento de responsabilidad patrimonial iniciado de oficio se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo",
+    "las multas coercitivas pueden imponerse cuando lo autoricen las leyes, entre otros supuestos, en actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado",
+    "no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin previo dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
+   ],
+   2,
+   "La incorrecta es «no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin previo dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma». Lo correcto: no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico.",
+   "lpac 97.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "se entiende por petición razonada la propuesta de iniciación formulada por cualquier órgano administrativo que no tiene competencia para iniciar el procedimiento y ha tenido conocimiento de los hechos",
+    "el importe de la ejecución subsidiaria podrá liquidarse solo una vez finalizada la ejecución",
+    "en los procedimientos sancionadores, la orden superior expresará, en la medida de lo posible las personas presuntamente responsables, las conductas o hechos, su tipificación y el lugar y fecha de los hechos"
+   ],
+   1,
+   "La incorrecta es «el importe de la ejecución subsidiaria podrá liquidarse solo una vez finalizada la ejecución». Lo correcto: el importe de la ejecución subsidiaria podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva.",
+   "lpac 102.4",
+   "Proposición negativa",
+   "h-ejecucion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la petición razonada de otros órganos obliga a iniciar el procedimiento en diez días",
+    "en la ejecución subsidiaria las Administraciones realizarán el acto por sí o a través de las personas que determinen, a costa del obligado",
+    "se entiende por orden superior la emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+   ],
+   0,
+   "La incorrecta es «la petición razonada de otros órganos obliga a iniciar el procedimiento en diez días». Lo correcto: la petición razonada de otros órganos no vincula al órgano competente, que deberá comunicar al peticionario los motivos por los que, en su caso, no procede la iniciación.",
+   "lpac 61.2",
+   "Proposición negativa",
+   "h-inicio-oficio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el órgano que inicie o tramite un procedimiento podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento",
+    "en los procedimientos sancionadores, la orden superior expresará, en la medida de lo posible las personas presuntamente responsables, las conductas o hechos, su tipificación y el lugar y fecha de los hechos",
+    "el desistimiento por la Administración procede en cualquier procedimiento"
+   ],
+   2,
+   "La incorrecta es «el desistimiento por la Administración procede en cualquier procedimiento». Lo correcto: el desistimiento por la Administración procede en los procedimientos iniciados de oficio, motivadamente, en los supuestos y con los requisitos previstos en las leyes.",
+   "lpac 93",
+   "Proposición negativa",
+   "h-fin",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en la AGE, la responsabilidad patrimonial se resuelve por el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley 40/2015 o cuando una ley así lo disponga",
+    "el órgano que inicie o tramite un procedimiento podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión siempre que lo acepten los interesados",
+    "para iniciar de oficio un procedimiento de responsabilidad patrimonial es necesario que no haya prescrito el derecho a la reclamación del interesado"
+   ],
+   1,
+   "La incorrecta es «el órgano que inicie o tramite un procedimiento podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión siempre que lo acepten los interesados». Lo correcto: el órgano que inicie o tramite un procedimiento podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento.",
+   "lpac 57",
+   "Proposición negativa",
+   "h-inicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "se entiende por petición razonada la propuesta de iniciación formulada por cualquier órgano administrativo que no tiene competencia para iniciar el procedimiento y ha tenido conocimiento de los hechos",
+    "si no se realiza una obligación personalísima de hacer, el obligado deberá cumplir mediante ejecución subsidiaria",
+    "la compulsión directa sobre las personas procede para obligaciones personalísimas de no hacer o soportar en los casos en que la ley expresamente lo autorice, con respeto a su dignidad y a los derechos constitucionales"
+   ],
+   1,
+   "La incorrecta es «si no se realiza una obligación personalísima de hacer, el obligado deberá cumplir mediante ejecución subsidiaria». Lo correcto: si no se realiza una obligación personalísima de hacer, el obligado deberá resarcir los daños y perjuicios, liquidándose y cobrándose en vía administrativa.",
+   "lpac 104.2",
+   "Proposición negativa",
+   "h-ejecucion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "el desistimiento por la Administración procede en los procedimientos iniciados de oficio, motivadamente, en los supuestos y con los requisitos previstos en las leyes",
+    "en la ejecución subsidiaria las Administraciones realizarán el acto por sí o a través de las personas que determinen, a costa del obligado",
+    "el órgano que ordene un acto de ejecución material estará obligado a dar cuenta al órgano superior"
+   ],
+   2,
+   "La incorrecta es «el órgano que ordene un acto de ejecución material estará obligado a dar cuenta al órgano superior». Lo correcto: el órgano que ordene un acto de ejecución material estará obligado a notificar al particular interesado la resolución que autorice la actuación administrativa.",
+   "lpac 97.2",
+   "Proposición negativa",
+   "h-ejecucion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la petición razonada de otros órganos obliga a iniciar el procedimiento en diez días",
+    "para iniciar de oficio un procedimiento de responsabilidad patrimonial es necesario que no haya prescrito el derecho a la reclamación del interesado",
+    "podrán celebrar acuerdos, pactos, convenios o contratos con personas de derecho público o privado siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción y tengan por objeto satisfacer el interés público"
+   ],
+   0,
+   "La incorrecta es «la petición razonada de otros órganos obliga a iniciar el procedimiento en diez días». Lo correcto: la petición razonada de otros órganos no vincula al órgano competente, que deberá comunicar al peticionario los motivos por los que, en su caso, no procede la iniciación.",
+   "lpac 61.2",
+   "Proposición negativa",
+   "h-inicio-oficio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en la petición de informe se concretará el plazo de resolución del procedimiento",
+    "la compulsión directa sobre las personas procede para obligaciones personalísimas de no hacer o soportar en los casos en que la ley expresamente lo autorice, con respeto a su dignidad y a los derechos constitucionales",
+    "en la AGE, la responsabilidad patrimonial se resuelve por el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley 40/2015 o cuando una ley así lo disponga"
+   ],
+   0,
+   "La incorrecta es «en la petición de informe se concretará el plazo de resolución del procedimiento». Lo correcto: en la petición de informe se concretará el extremo o extremos acerca de los que se solicita.",
+   "lpac 79.2",
+   "Proposición negativa",
+   "h-instruccion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "podrán celebrar acuerdos, pactos, convenios o contratos con personas de derecho público o privado siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción y tengan por objeto satisfacer el interés público",
+    "contra el acuerdo de acumulación de procedimientos no procederá recurso alguno",
+    "al solicitar los trámites que deban cumplir otros órganos, deberá consignarse en la comunicación la fecha límite de la resolución"
+   ],
+   2,
+   "La incorrecta es «al solicitar los trámites que deban cumplir otros órganos, deberá consignarse en la comunicación la fecha límite de la resolución». Lo correcto: al solicitar los trámites que deban cumplir otros órganos, deberá consignarse en la comunicación el plazo legal establecido al efecto.",
+   "lpac 72.2",
+   "Proposición negativa",
+   "h-instruccion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "al solicitar los trámites que deban cumplir otros órganos, deberá consignarse en la comunicación el plazo legal establecido al efecto",
+    "si procede indemnización por anulación en vía administrativa o contencioso-administrativa de un acto, el derecho a reclamar prescribe al año de haberse notificado la resolución administrativa o la sentencia definitiva",
+    "no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin comunicarlo previamente al Defensor del Pueblo ni a las demás Administraciones afectadas"
+   ],
+   2,
+   "La incorrecta es «no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin comunicarlo previamente al Defensor del Pueblo ni a las demás Administraciones afectadas». Lo correcto: no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico.",
+   "lpac 97.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "contra el acuerdo de acumulación de procedimientos cabe recurso de alzada",
+    "el órgano que ordene un acto de ejecución material estará obligado a notificar al particular interesado la resolución que autorice la actuación administrativa",
+    "si procede indemnización por anulación en vía administrativa o contencioso-administrativa de un acto, el derecho a reclamar prescribe al año de haberse notificado la resolución administrativa o la sentencia definitiva"
+   ],
+   0,
+   "La incorrecta es «contra el acuerdo de acumulación de procedimientos cabe recurso de alzada». Lo correcto: contra el acuerdo de acumulación de procedimientos no procederá recurso alguno.",
+   "lpac 57",
+   "Proposición negativa",
+   "h-inicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "las multas coercitivas pueden imponerse cuando lo autoricen las leyes, entre otros supuestos, en actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado",
+    "la compulsión directa sobre las personas procede para obligaciones personalísimas de no hacer o soportar en los casos en que la ley expresamente lo autorice, con respeto a su dignidad y a los derechos constitucionales",
+    "en caso de daños físicos o psíquicos a las personas, el plazo de prescripción empieza a computarse desde la denuncia de los hechos"
+   ],
+   2,
+   "La incorrecta es «en caso de daños físicos o psíquicos a las personas, el plazo de prescripción empieza a computarse desde la denuncia de los hechos». Lo correcto: en caso de daños físicos o psíquicos a las personas, el plazo de prescripción empieza a computarse desde la curación o la determinación del alcance de las secuelas.",
+   "lpac 67.1",
+   "Proposición negativa",
+   "h-inicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "las multas coercitivas pueden imponerse cuando lo autoricen las leyes, entre otros supuestos, en solo actos tributarios",
+    "en la petición de informe se concretará el extremo o extremos acerca de los que se solicita",
+    "contra el acuerdo de acumulación de procedimientos no procederá recurso alguno"
+   ],
+   0,
+   "La incorrecta es «las multas coercitivas pueden imponerse cuando lo autoricen las leyes, entre otros supuestos, en solo actos tributarios». Lo correcto: las multas coercitivas pueden imponerse cuando lo autoricen las leyes, entre otros supuestos, en actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado.",
+   "lpac 103.1",
+   "Proposición negativa",
+   "h-ejecucion",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "para iniciar de oficio un procedimiento de responsabilidad patrimonial es necesario que no haya prescrito el derecho a la reclamación del interesado",
+    "en la AGE, la responsabilidad patrimonial se resuelve por el Ministro respectivo o por el Consejo de Ministros solo por el Ministro de Hacienda",
+    "la compulsión directa sobre las personas procede para obligaciones personalísimas de no hacer o soportar en los casos en que la ley expresamente lo autorice, con respeto a su dignidad y a los derechos constitucionales"
+   ],
+   1,
+   "La incorrecta es «en la AGE, la responsabilidad patrimonial se resuelve por el Ministro respectivo o por el Consejo de Ministros solo por el Ministro de Hacienda». Lo correcto: en la AGE, la responsabilidad patrimonial se resuelve por el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley 40/2015 o cuando una ley así lo disponga.",
+   "lpac 92",
+   "Proposición negativa",
+   "h-fin",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en la ejecución subsidiaria las Administraciones realizarán el acto por sí o a través de las personas que determinen, a costa del obligado",
+    "si procede indemnización por anulación en vía administrativa o contencioso-administrativa de un acto, el derecho a reclamar prescribe al año del acto anulado",
+    "al solicitar los trámites que deban cumplir otros órganos, deberá consignarse en la comunicación el plazo legal establecido al efecto"
+   ],
+   1,
+   "La incorrecta es «si procede indemnización por anulación en vía administrativa o contencioso-administrativa de un acto, el derecho a reclamar prescribe al año del acto anulado». Lo correcto: si procede indemnización por anulación en vía administrativa o contencioso-administrativa de un acto, el derecho a reclamar prescribe al año de haberse notificado la resolución administrativa o la sentencia definitiva.",
+   "lpac 67.1",
+   "Proposición negativa",
+   "h-inicio",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
   ]
  ]
 }

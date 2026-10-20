@@ -4316,6 +4316,290 @@
    {
     "nuevo": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 182 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "los remanentes de crédito incorporados podrán ser aplicados tan sólo dentro del ejercicio presupuestario al que la incorporación se acuerde",
+    "los créditos que amparen proyectos financiados con ingresos afectados deberán incorporarse obligatoriamente, salvo que se desista total o parcialmente de iniciar o continuar la ejecución del gasto",
+    "podrán incorporarse a los créditos del ejercicio inmediato siguiente, si existen recursos financieros suficientes, entre otros los créditos no comprometidos de gastos corrientes, con independencia de su fecha de autorización"
+   ],
+   2,
+   "La incorrecta es «podrán incorporarse a los créditos del ejercicio inmediato siguiente, si existen recursos financieros suficientes, entre otros los créditos no comprometidos de gastos corrientes, con independencia de su fecha de autorización». Lo correcto: podrán incorporarse a los créditos del ejercicio inmediato siguiente, si existen recursos financieros suficientes, entre otros los créditos extraordinarios, suplementos y transferencias concedidos o autorizados en el último trimestre del ejercicio y los créditos por operaciones de capital.",
+   "trlrhl 182.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 185 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "corresponderá al presidente de la corporación el reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos",
+    "las facultades de autorización, disposición y reconocimiento podrán desconcentrarse o delegarse en los términos del artículo 23 de la LBRL previa autorización del Pleno por mayoría absoluta",
+    "corresponde la autorización y disposición de los gastos al presidente o al Pleno de la entidad, de acuerdo con la atribución de competencias de la normativa vigente"
+   ],
+   1,
+   "La incorrecta es «las facultades de autorización, disposición y reconocimiento podrán desconcentrarse o delegarse en los términos del artículo 23 de la LBRL previa autorización del Pleno por mayoría absoluta». Lo correcto: las facultades de autorización, disposición y reconocimiento podrán desconcentrarse o delegarse en los términos del artículo 23 de la LBRL debiendo recogerse para cada ejercicio en las bases de ejecución del presupuesto.",
+   "trlrhl 185.3",
+   "Proposición negativa",
+   "h-competencias-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "son nulos de pleno derecho los acuerdos que adquieran compromisos de gastos por cuantía superior al importe de los créditos autorizados en los estados de gastos",
+    "las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten de cualquier resolución administrativa, aunque no estén previstas en el presupuesto de la entidad",
+    "si para el pago de una resolución judicial fuere necesario un crédito extraordinario o suplemento, deberá solicitarse del Pleno dentro de los tres meses siguientes al día de notificación de la resolución judicial"
+   ],
+   1,
+   "La incorrecta es «las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten de cualquier resolución administrativa, aunque no estén previstas en el presupuesto de la entidad». Lo correcto: las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten de la ejecución de sus respectivos presupuestos, con los límites del artículo anterior, o de sentencia judicial firme.",
+   "trlrhl 173.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "cuando la impugnación del presupuesto afecte a la nivelación presupuestaria la Comunidad Autónoma debe autorizar previamente la interposición del recurso contencioso-administrativo",
+    "contra la aprobación definitiva del presupuesto podrá interponerse directamente recurso contencioso-administrativo, en la forma y plazos de dicha jurisdicción",
+    "la interposición de recursos contra el presupuesto aprobado no suspenderá por sí sola su aplicación"
+   ],
+   0,
+   "La incorrecta es «cuando la impugnación del presupuesto afecte a la nivelación presupuestaria la Comunidad Autónoma debe autorizar previamente la interposición del recurso contencioso-administrativo». Lo correcto: cuando la impugnación del presupuesto afecte a la nivelación presupuestaria el Tribunal de Cuentas deberá informar previamente a la resolución del recurso.",
+   "trlrhl 171.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 166 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "se unirán como anexos al presupuesto general los planes y programas de inversión y financiación a cuatro años, los programas anuales de las sociedades mercantiles, el estado de consolidación y el estado de previsión de movimientos y situación de la deuda",
+    "entre los anexos figura el estado de previsión de movimientos y situación de la deuda, que comprende el detalle de operaciones de crédito pendientes al principio del ejercicio, las nuevas previstas y el volumen de endeudamiento al cierre",
+    "el programa financiero del plan de inversiones contendrá, entre otros extremos solo las operaciones de crédito necesarias"
+   ],
+   2,
+   "La incorrecta es «el programa financiero del plan de inversiones contendrá, entre otros extremos solo las operaciones de crédito necesarias». Lo correcto: el programa financiero del plan de inversiones contendrá, entre otros extremos la inversión prevista en cada uno de los cuatro ejercicios y los ingresos por subvenciones, contribuciones especiales, cargas de urbanización y recursos patrimoniales.",
+   "trlrhl 166.2",
+   "Proposición negativa",
+   "h-contenido",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 193 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "de no adoptarse ninguna de las medidas previstas en caso de remanente de tesorería negativo (reducción de gastos u operación de crédito) se disuelve el Pleno de la corporación y se convocan nuevas elecciones municipales",
+    "si no fuera posible reducir los gastos, se podrá acudir al concierto de una operación de crédito por su importe, si se dan las condiciones del artículo 177.5",
+    "de la liquidación de cada presupuesto y de los estados financieros de las sociedades dependientes, una vez aprobada, se dará cuenta al Pleno en la primera sesión que celebre"
+   ],
+   0,
+   "La incorrecta es «de no adoptarse ninguna de las medidas previstas en caso de remanente de tesorería negativo (reducción de gastos u operación de crédito) se disuelve el Pleno de la corporación y se convocan nuevas elecciones municipales». Lo correcto: de no adoptarse ninguna de las medidas previstas en caso de remanente de tesorería negativo (reducción de gastos u operación de crédito) el presupuesto del ejercicio siguiente habrá de aprobarse con un superávit inicial de cuantía no inferior al repetido déficit.",
+   "trlrhl 193.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 193 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "si no fuera posible reducir los gastos, se podrá acudir a una subvención de la Comunidad Autónoma",
+    "de la liquidación de cada presupuesto y de los estados financieros de las sociedades dependientes, una vez aprobada, se dará cuenta al Pleno en la primera sesión que celebre",
+    "de no adoptarse ninguna de las medidas anteriores, el presupuesto del ejercicio siguiente habrá de aprobarse con un superávit inicial de cuantía no inferior al déficit"
+   ],
+   0,
+   "La incorrecta es «si no fuera posible reducir los gastos, se podrá acudir a una subvención de la Comunidad Autónoma». Lo correcto: si no fuera posible reducir los gastos, se podrá acudir al concierto de una operación de crédito por su importe, si se dan las condiciones del artículo 177.5.",
+   "trlrhl 193.2",
+   "Proposición negativa",
+   "h-cierre",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 190 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "los anticipos de caja fija son fondos para atenciones de carácter periódico o repetitivo cuya aplicación se justifica a lo largo del ejercicio presupuestario en que se constituyó el anticipo",
+    "respecto de las órdenes de pago a justificar en ningún caso podrán expedirse nuevas, por los mismos conceptos presupuestarios, a perceptores que tuviesen aún en su poder fondos pendientes de justificación",
+    "las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición tendrán el carácter de anticipos de caja fija"
+   ],
+   2,
+   "La incorrecta es «las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición tendrán el carácter de anticipos de caja fija». Lo correcto: las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición tendrán el carácter de a justificar.",
+   "trlrhl 190.1",
+   "Proposición negativa",
+   "h-ejec",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 190 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición tendrán el carácter de pagos en firme",
+    "los anticipos de caja fija son fondos para atenciones de carácter periódico o repetitivo cuya aplicación se justifica a lo largo del ejercicio presupuestario en que se constituyó el anticipo",
+    "los perceptores de órdenes de pago a justificar quedarán obligados a justificar la aplicación de las cantidades percibidas en el plazo máximo de tres meses"
+   ],
+   0,
+   "La incorrecta es «las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición tendrán el carácter de pagos en firme». Lo correcto: las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición tendrán el carácter de a justificar.",
+   "trlrhl 190.1",
+   "Proposición negativa",
+   "h-ejec",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 166 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "se unirán como anexos al presupuesto general los planes y programas de inversión y financiación a cuatro años, los programas anuales de las sociedades mercantiles, el estado de consolidación y el estado de previsión de movimientos y situación de la deuda",
+    "entre los anexos figura el estado de previsión de movimientos y situación de la deuda, que comprende los avales concedidos a terceros",
+    "al presupuesto general se unirán, como anexos, los planes y programas de inversión y financiación para un plazo de cuatro años, que podrán formular los municipios y demás entidades locales supramunicipales"
+   ],
+   1,
+   "La incorrecta es «entre los anexos figura el estado de previsión de movimientos y situación de la deuda, que comprende los avales concedidos a terceros». Lo correcto: entre los anexos figura el estado de previsión de movimientos y situación de la deuda, que comprende el detalle de operaciones de crédito pendientes al principio del ejercicio, las nuevas previstas y el volumen de endeudamiento al cierre.",
+   "trlrhl 166.1.d",
+   "Proposición negativa",
+   "h-contenido",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "el Ministerio de Hacienda establecerá con carácter general la estructura de los presupuestos de las entidades locales teniendo en cuenta solo la naturaleza económica de los gastos",
+    "la clasificación por programas consta de los niveles Área de gasto, política de gasto, grupos de programas y programas, ampliable a subprogramas",
+    "las entidades locales podrán clasificar los gastos e ingresos atendiendo a su propia estructura, de acuerdo con sus reglamentos o decretos de organización"
+   ],
+   0,
+   "La incorrecta es «el Ministerio de Hacienda establecerá con carácter general la estructura de los presupuestos de las entidades locales teniendo en cuenta solo la naturaleza económica de los gastos». Lo correcto: el Ministerio de Hacienda establecerá con carácter general la estructura de los presupuestos de las entidades locales teniendo en cuenta la naturaleza económica de los ingresos y los gastos y las finalidades u objetivos que con estos últimos se propongan conseguir.",
+   "trlrhl 167.1",
+   "Proposición negativa",
+   "h-areas-gasto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "de no adoptarse ninguna de las medidas previstas en caso de remanente de tesorería negativo (reducción de gastos u operación de crédito) el presupuesto del ejercicio siguiente habrá de aprobarse con un superávit inicial de cuantía no inferior al repetido déficit",
+    "al presupuesto general se unirán, como anexos, los planes y programas de inversión y financiación para un plazo de seis años",
+    "las fases del procedimiento de gestión de los gastos son autorización, disposición o compromiso, reconocimiento o liquidación de la obligación y ordenación de pago"
+   ],
+   1,
+   "La incorrecta es «al presupuesto general se unirán, como anexos, los planes y programas de inversión y financiación para un plazo de seis años». Lo correcto: al presupuesto general se unirán, como anexos, los planes y programas de inversión y financiación para un plazo de cuatro años, que podrán formular los municipios y demás entidades locales supramunicipales.",
+   "trlrhl 166.1.a",
+   "Proposición negativa",
+   "h-contenido",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "las bases de ejecución del presupuesto no pueden modificar lo legislado para la administración económica ni comprender preceptos de orden administrativo que requieran procedimientos distintos de los previstos para el presupuesto",
+    "el número de ejercicios a que pueden aplicarse los gastos de los párrafos a), b) y e) no será superior a cuatro",
+    "las transferencias de créditos de cualquier clase no podrán, entre otras limitaciones afectar a créditos de personal, que quedan siempre excluidos de las transferencias de crédito"
+   ],
+   2,
+   "La incorrecta es «las transferencias de créditos de cualquier clase no podrán, entre otras limitaciones afectar a créditos de personal, que quedan siempre excluidos de las transferencias de crédito». Lo correcto: las transferencias de créditos de cualquier clase no podrán, entre otras limitaciones afectar a los créditos ampliables ni a los extraordinarios concedidos durante el ejercicio.",
+   "trlrhl 180.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "el Pleno de las entidades locales de más de 500.000 habitantes de derecho, a propuesta del presidente, podrá crear una Junta de contratación que ejerza las funciones de contratación bajo la autoridad del presidente",
+    "tendrán la condición de créditos ampliables aquellos que de modo taxativo y debidamente explicitados se relacionen en las bases de ejecución del presupuesto",
+    "los presupuestos generales de las entidades locales constituyen la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la entidad y sus organismos autónomos, y de los derechos que prevean liquidar durante el ejercicio"
+   ],
+   0,
+   "La incorrecta es «el Pleno de las entidades locales de más de 500.000 habitantes de derecho, a propuesta del presidente, podrá crear una Junta de contratación que ejerza las funciones de contratación bajo la autoridad del presidente». Lo correcto: el Pleno de las entidades locales de más de 500.000 habitantes de derecho, a propuesta del presidente, podrá crear una unidad central de tesorería que ejerza las funciones de la ordenación de pagos bajo la superior autoridad del presidente.",
+   "trlrhl 186.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "si para el pago de una resolución judicial fuere necesario un crédito extraordinario o suplemento, deberá solicitarse del Pleno dentro de un mes",
+    "el presupuesto de la entidad Local será formado por su Presidente, quien unirá la documentación exigida (memoria, liquidación del ejercicio anterior y avance del corriente, anexos de personal, inversiones, etc.)",
+    "las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten de la ejecución de sus respectivos presupuestos, con los límites del artículo anterior, o de sentencia judicial firme"
+   ],
+   0,
+   "La incorrecta es «si para el pago de una resolución judicial fuere necesario un crédito extraordinario o suplemento, deberá solicitarse del Pleno dentro de un mes». Lo correcto: si para el pago de una resolución judicial fuere necesario un crédito extraordinario o suplemento, deberá solicitarse del Pleno dentro de los tres meses siguientes al día de notificación de la resolución judicial.",
+   "trlrhl 173.4",
+   "Proposición negativa",
+   "h-modif",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
   ]
  ]
 }

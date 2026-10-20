@@ -4268,6 +4268,498 @@
     "nuevo": 1,
     "dif": 1
    }
+  ],
+  [
+   "De acuerdo con el artículo 25 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "tendrán carácter privado, aunque los celebre una Administración Pública los contratos de servicios que tengan por objeto servicios financieros, creación e interpretación artística y literaria o espectáculos, y la suscripción a revistas y bases de datos",
+    "los contratos administrativos se regirán en cuanto a su preparación, adjudicación, efectos, modificación y extinción por el derecho privado en todo caso, con aplicación supletoria de las normas de derecho administrativo",
+    "tienen carácter administrativo especial los contratos de objeto distinto a los típicos que estén vinculados al giro o tráfico específico de la Administración contratante o satisfagan de forma directa o inmediata una finalidad pública de su competencia"
+   ],
+   1,
+   "La incorrecta es «los contratos administrativos se regirán en cuanto a su preparación, adjudicación, efectos, modificación y extinción por el derecho privado en todo caso, con aplicación supletoria de las normas de derecho administrativo». Lo correcto: los contratos administrativos se regirán en cuanto a su preparación, adjudicación, efectos, modificación y extinción por la Ley y sus disposiciones de desarrollo; supletoriamente por las restantes normas de derecho administrativo y, en su defecto, por las de derecho privado.",
+   "lcsp 25.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "tienen la consideración de Administraciones Públicas, a efectos de la Ley, entre otras las Mutuas colaboradoras con la Seguridad Social y las sociedades mercantiles de capital público",
+    "las sociedades mercantiles forman parte del sector público cuando la participación, directa o indirecta, de entidades públicas en su capital social sea superior al 50 por 100",
+    "se considerarán poderes adjudicadores, entre otras entidades las Administraciones Públicas, las fundaciones públicas y las Mutuas colaboradoras con la Seguridad Social"
+   ],
+   0,
+   "La incorrecta es «tienen la consideración de Administraciones Públicas, a efectos de la Ley, entre otras las Mutuas colaboradoras con la Seguridad Social y las sociedades mercantiles de capital público». Lo correcto: tienen la consideración de Administraciones Públicas, a efectos de la Ley, entre otras la Administración General del Estado, las Administraciones de las CCAA, Ceuta y Melilla y las Entidades Locales.",
+   "lcsp 3.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "la compensación al medio propio personificado se establece por referencia a tarifas aprobadas por la entidad pública de la que depende, que representen los costes reales de realización",
+    "el encargo a un medio propio personificado que cumpla los requisitos del artículo 32 se adjudicará por procedimiento abierto",
+    "el 80 por ciento de actividades se calcula tomando en consideración el promedio del volumen global de negocios o indicador alternativo de los tres ejercicios anteriores al de formalización del encargo"
+   ],
+   1,
+   "La incorrecta es «el encargo a un medio propio personificado que cumpla los requisitos del artículo 32 se adjudicará por procedimiento abierto». Lo correcto: el encargo a un medio propio personificado que cumpla los requisitos del artículo 32 no tendrá la consideración de contrato.",
+   "lcsp 32.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "la Ley tiene por objeto regular la contratación del sector público a fin de garantizar que se ajusta a los principios de jerarquía, competencia y descentralización de los órganos de contratación y de los contratistas",
+    "es también objeto de la Ley la regulación del régimen jurídico de los efectos, cumplimiento y extinción de los contratos administrativos",
+    "en toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato"
+   ],
+   0,
+   "La incorrecta es «la Ley tiene por objeto regular la contratación del sector público a fin de garantizar que se ajusta a los principios de jerarquía, competencia y descentralización de los órganos de contratación y de los contratistas». Lo correcto: la Ley tiene por objeto regular la contratación del sector público a fin de garantizar que se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores.",
+   "lcsp 1.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "quedan excluidos los contratos que tengan por objeto servicios relacionados con campañas políticas cuando sean adjudicados por un partido político",
+    "quedan excluidos de la Ley los contratos de servicios de consultoría y los de suministro de energía celebrados por Administraciones Públicas",
+    "se excluyen de la Ley las relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público de aplicación general"
+   ],
+   1,
+   "La incorrecta es «quedan excluidos de la Ley los contratos de servicios de consultoría y los de suministro de energía celebrados por Administraciones Públicas». Lo correcto: quedan excluidos de la Ley la relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral.",
+   "lcsp 11.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "lo dispuesto sobre el informe de justificación de necesidad del contrato menor no será de aplicación en los contratos cuyo pago se verifique por anticipos de caja fija u otro sistema similar, siempre que el valor estimado no exceda de 3.000 euros",
+    "en los contratos menores la tramitación del expediente exigirá un informe del órgano de contratación justificando motivadamente la necesidad del contrato y que no se está alterando su objeto para evitar los umbrales",
+    "en los contratos menores se requerirá además la aprobación del gasto y la incorporación de la factura correspondiente"
+   ],
+   0,
+   "La incorrecta es «lo dispuesto sobre el informe de justificación de necesidad del contrato menor no será de aplicación en los contratos cuyo pago se verifique por anticipos de caja fija u otro sistema similar, siempre que el valor estimado no exceda de 3.000 euros». Lo correcto: lo dispuesto sobre el informe de justificación de necesidad del contrato menor no será de aplicación en los contratos cuyo pago se verifique por anticipos de caja fija u otro sistema similar, siempre que el valor estimado no exceda de 5.000 euros.",
+   "lcsp 118.5",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "la enumeración de documentos que integran el contrato podrá estar jerarquizada si así se expresa en el contrato, y salvo error manifiesto el orden pactado determina la prevalencia",
+    "los documentos en los que se formalicen los contratos deberán incluir necesariamente, entre otras menciones el nombre de los demás licitadores que concurrieron al procedimiento y sus ofertas económicas",
+    "el documento contractual no podrá incluir estipulaciones que establezcan derechos y obligaciones para las partes distintos de los previstos en los pliegos, concretados en la proposición del adjudicatario o los precisados en el acto de adjudicación"
+   ],
+   1,
+   "La incorrecta es «los documentos en los que se formalicen los contratos deberán incluir necesariamente, entre otras menciones el nombre de los demás licitadores que concurrieron al procedimiento y sus ofertas económicas». Lo correcto: los documentos en los que se formalicen los contratos deberán incluir necesariamente, entre otras menciones la identificación de las partes, la acreditación de la capacidad de los firmantes y la definición del objeto y tipo del contrato.",
+   "lcsp 35.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "el importe de las prestaciones parciales que el medio propio pueda contratar con terceros, en ejecución de un encargo, no excederá del 20 por ciento de la cuantía del encargo",
+    "para tener la consideración de medio propio personificado respecto de una única entidad concreta del sector público, más de un cierto porcentaje de las actividades del ente se llevarán a cabo en el ejercicio de los cometidos confiados por el poder adjudicador que hace el encargo y que lo controla. Ese porcentaje es más del 80 por ciento",
+    "para ser medio propio personificado, el poder adjudicador debe ejercer sobre el ente destinatario un control, directo o indirecto, análogo al que ostentaría sobre sus propios servicios"
+   ],
+   0,
+   "La incorrecta es «el importe de las prestaciones parciales que el medio propio pueda contratar con terceros, en ejecución de un encargo, no excederá del 20 por ciento de la cuantía del encargo». Lo correcto: el importe de las prestaciones parciales que el medio propio pueda contratar con terceros, en ejecución de un encargo, no excederá del 50 por ciento de la cuantía del encargo.",
+   "lcsp 32.7",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "los contratos de concesión de obras y de concesión de servicios que comprendan la ejecución de obras y la explotación del servicio no podrán exceder, incluyendo prórrogas, de cuarenta años",
+    "los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de diez años, sin contar las prórrogas",
+    "en ningún caso podrá producirse la prórroga del contrato por el consentimiento tácito de las partes"
+   ],
+   1,
+   "La incorrecta es «los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de diez años, sin contar las prórrogas». Lo correcto: los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas.",
+   "lcsp 29.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "en los contratos menores se requerirá además un trámite de información pública del expediente de contratación durante quince días",
+    "en los contratos menores la tramitación del expediente exigirá un informe del órgano de contratación justificando motivadamente la necesidad del contrato y que no se está alterando su objeto para evitar los umbrales",
+    "en el contrato menor de obras deberá añadirse, además el presupuesto de las obras (y el proyecto cuando sea requerido) y, si afecta a estabilidad, seguridad o estanqueidad, el informe de la oficina de supervisión"
+   ],
+   0,
+   "La incorrecta es «en los contratos menores se requerirá además un trámite de información pública del expediente de contratación durante quince días». Lo correcto: en los contratos menores se requerirá además la aprobación del gasto y la incorporación de la factura correspondiente.",
+   "lcsp 118.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "el orden jurisdiccional civil es competente para las controversias sobre efectos y extinción de los contratos privados de las entidades que tengan la consideración de poderes adjudicadores, sean o no Administraciones Públicas, con las excepciones de modificaciones citadas",
+    "el orden jurisdiccional civil será el competente para resolver, entre otras los recursos interpuestos contra las resoluciones de los órganos de resolución de recursos contractuales",
+    "serán competencia del orden jurisdiccional contencioso-administrativo las cuestiones relativas a la preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos"
+   ],
+   1,
+   "La incorrecta es «el orden jurisdiccional civil será el competente para resolver, entre otras los recursos interpuestos contra las resoluciones de los órganos de resolución de recursos contractuales». Lo correcto: el orden jurisdiccional civil será el competente para resolver, entre otras las controversias relativas a los efectos y extinción de los contratos privados de poderes adjudicadores.",
+   "lcsp 27.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "los contratos administrativos se regirán en cuanto a su preparación, adjudicación, efectos, modificación y extinción por la Ley y sus disposiciones de desarrollo; supletoriamente por las restantes normas de derecho administrativo y, en su defecto, por las de derecho privado",
+    "tendrán carácter administrativo, siempre que se celebren por una Administración Pública todos los contratos celebrados por poderes adjudicadores, sean o no Administraciones Públicas",
+    "tienen carácter administrativo especial los contratos de objeto distinto a los típicos que estén vinculados al giro o tráfico específico de la Administración contratante o satisfagan de forma directa o inmediata una finalidad pública de su competencia"
+   ],
+   1,
+   "La incorrecta es «tendrán carácter administrativo, siempre que se celebren por una Administración Pública todos los contratos celebrados por poderes adjudicadores, sean o no Administraciones Públicas». Lo correcto: tendrán carácter administrativo, siempre que se celebren por una Administración Pública los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios.",
+   "lcsp 25.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "forman parte del sector público, entre otras entidades la Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local",
+    "son fundaciones públicas las que reúnan alguno de los requisitos, como que su patrimonio esté integrado en más de un 50 por ciento por bienes o derechos aportados o cedidos con carácter permanente por sujetos del sector público",
+    "se considerarán poderes adjudicadores, entre otras entidades solo las Administraciones Públicas, quedando excluidas las fundaciones públicas y las Mutuas"
+   ],
+   2,
+   "La incorrecta es «se considerarán poderes adjudicadores, entre otras entidades solo las Administraciones Públicas, quedando excluidas las fundaciones públicas y las Mutuas». Lo correcto: se considerarán poderes adjudicadores, entre otras entidades las Administraciones Públicas, las fundaciones públicas y las Mutuas colaboradoras con la Seguridad Social.",
+   "lcsp 3.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "quedan excluidos de la Ley la relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral",
+    "quedan excluidos los contratos que tengan por objeto servicios relacionados con campañas políticas cuando sean adjudicados por un partido político",
+    "los contratos relativos a servicios de arbitraje y conciliación son contratos de servicios sujetos a regulación armonizada"
+   ],
+   2,
+   "La incorrecta es «los contratos relativos a servicios de arbitraje y conciliación son contratos de servicios sujetos a regulación armonizada». Lo correcto: los contratos relativos a servicios de arbitraje y conciliación quedan excluidos de la Ley.",
+   "lcsp 11.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales",
+    "las entidades del sector público programarán la actividad de contratación pública y darán a conocer su plan de contratación una vez adjudicados los contratos, mediante la publicación del anuncio de adjudicación en el perfil de contratante",
+    "las entidades del sector público promoverán la participación de la pequeña y mediana empresa y el acceso sin coste a la información, valorando consideraciones sociales, medioambientales y de innovación"
+   ],
+   1,
+   "La incorrecta es «las entidades del sector público programarán la actividad de contratación pública y darán a conocer su plan de contratación una vez adjudicados los contratos, mediante la publicación del anuncio de adjudicación en el perfil de contratante». Lo correcto: las entidades del sector público programarán la actividad de contratación pública y darán a conocer su plan de contratación anticipadamente mediante un anuncio de información previa (art. 134) que recoja al menos los contratos sujetos a regulación armonizada.",
+   "lcsp 28.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "se excluyen de la Ley las relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera el pago de un precio privado negociado individualmente entre el prestador y cada usuario del servicio",
+    "quedan excluidos de la Ley la relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral",
+    "los contratos relativos a servicios de arbitraje y conciliación quedan excluidos de la Ley"
+   ],
+   0,
+   "La incorrecta es «se excluyen de la Ley las relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera el pago de un precio privado negociado individualmente entre el prestador y cada usuario del servicio». Lo correcto: se excluyen de la Ley las relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público de aplicación general.",
+   "lcsp 11.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "los contratos menores no podrán tener una duración superior a un año ni ser objeto de prórroga",
+    "la prórroga del contrato se acordará por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con seis meses de antelación a la finalización del plazo de duración, salvo que el pliego establezca otro",
+    "los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas"
+   ],
+   1,
+   "La incorrecta es «la prórroga del contrato se acordará por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con seis meses de antelación a la finalización del plazo de duración, salvo que el pliego establezca otro». Lo correcto: la prórroga del contrato se acordará por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con dos meses de antelación a la finalización del plazo de duración, salvo que el pliego establezca uno mayor.",
+   "lcsp 29.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "la prestación de servicios se realizará normalmente por la propia Administración por sus propios medios; cuando carezca de medios suficientes, previa justificación en el expediente, se podrá contratar",
+    "la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos cuando no haya habido ofertas de empresarios en la licitación previamente efectuada",
+    "procede la ejecución por la Administración cuando posea elementos auxiliares utilizables cuyo empleo suponga una economía superior al 20 por 100"
+   ],
+   2,
+   "La incorrecta es «procede la ejecución por la Administración cuando posea elementos auxiliares utilizables cuyo empleo suponga una economía superior al 20 por 100». Lo correcto: procede la ejecución por la Administración cuando posea elementos auxiliares utilizables cuyo empleo suponga una economía superior al 5 por 100 del importe del presupuesto del contrato o una mayor celeridad en su ejecución, justificándose las ventajas.",
+   "lcsp 30.1.b",
+   "Proposición negativa",
+   "h-medios-propios",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "forman parte del sector público, entre otras entidades las Corporaciones de derecho público, aunque no cumplan los requisitos de poder adjudicador",
+    "tienen la consideración de Administraciones Públicas, a efectos de la Ley, entre otras la Administración General del Estado, las Administraciones de las CCAA, Ceuta y Melilla y las Entidades Locales",
+    "se considerarán poderes adjudicadores, entre otras entidades las Administraciones Públicas, las fundaciones públicas y las Mutuas colaboradoras con la Seguridad Social"
+   ],
+   0,
+   "La incorrecta es «forman parte del sector público, entre otras entidades las Corporaciones de derecho público, aunque no cumplan los requisitos de poder adjudicador». Lo correcto: forman parte del sector público, entre otras entidades la Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local.",
+   "lcsp 3.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "otro requisito del medio propio personificado es que más del 80 por ciento de sus actividades se lleven a cabo en el ejercicio de los cometidos confiados por el poder adjudicador que lo controla",
+    "para ser medio propio personificado, el poder adjudicador debe ejercer sobre el ente destinatario un control económico sin influencia sobre las decisiones",
+    "el importe de las prestaciones parciales que el medio propio pueda contratar con terceros, en ejecución de un encargo, no excederá del 50 por ciento de la cuantía del encargo"
+   ],
+   1,
+   "La incorrecta es «para ser medio propio personificado, el poder adjudicador debe ejercer sobre el ente destinatario un control económico sin influencia sobre las decisiones». Lo correcto: para ser medio propio personificado, el poder adjudicador debe ejercer sobre el ente destinatario un control, directo o indirecto, análogo al que ostentaría sobre sus propios servicios.",
+   "lcsp 32.2.a",
+   "Proposición negativa",
+   "h-medios-propios",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "la ejecución de obras por la Administración con medios propios no personificados procede, normalmente, cuando la Administración tenga montados fábricas, arsenales, maestranzas o servicios técnicos o industriales suficientemente aptos para la prestación",
+    "la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos cuando el presupuesto supere el umbral de regulación armonizada fijado para ese tipo de contratos",
+    "la prestación de servicios se realizará normalmente por la propia Administración por sus propios medios; cuando carezca de medios suficientes, previa justificación en el expediente, se podrá contratar"
+   ],
+   1,
+   "La incorrecta es «la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos cuando el presupuesto supere el umbral de regulación armonizada fijado para ese tipo de contratos». Lo correcto: la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos cuando no haya habido ofertas de empresarios en la licitación previamente efectuada.",
+   "lcsp 30.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "el importe de las prestaciones parciales que el medio propio pueda contratar con terceros, en ejecución de un encargo, no excederá del 50 por ciento de la cuantía del encargo",
+    "la compensación al medio propio personificado se establece por referencia a precios de mercado",
+    "otro requisito del medio propio personificado es que más del 80 por ciento de sus actividades se lleven a cabo en el ejercicio de los cometidos confiados por el poder adjudicador que lo controla"
+   ],
+   1,
+   "La incorrecta es «la compensación al medio propio personificado se establece por referencia a precios de mercado». Lo correcto: la compensación al medio propio personificado se establece por referencia a tarifas aprobadas por la entidad pública de la que depende, que representen los costes reales de realización.",
+   "lcsp 32.2",
+   "Proposición negativa",
+   "h-medios-propios",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "los contratos menores no podrán tener una duración superior a un año ni ser objeto de prórroga",
+    "los contratos de concesión de obras y de concesión de servicios que comprendan la ejecución de obras y la explotación del servicio no podrán exceder, incluyendo prórrogas, de cuarenta años",
+    "en ningún caso podrá producirse la prórroga del contrato por previsión en el pliego"
+   ],
+   2,
+   "La incorrecta es «en ningún caso podrá producirse la prórroga del contrato por previsión en el pliego». Lo correcto: en ningún caso podrá producirse la prórroga del contrato por el consentimiento tácito de las partes.",
+   "lcsp 29.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "la prestación de servicios se realizará normalmente por la propia Administración por sus propios medios; cuando carezca de medios suficientes, previa justificación en el expediente, se podrá contratar",
+    "la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos siempre que la Administración lo prefiera, aunque haya habido ofertas de empresarios en la licitación",
+    "procede también la ejecución directa cuando no haya habido ofertas de empresarios en la licitación previamente efectuada"
+   ],
+   1,
+   "La incorrecta es «la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos siempre que la Administración lo prefiera, aunque haya habido ofertas de empresarios en la licitación». Lo correcto: la ejecución de obras podrá realizarse por los servicios de la Administración, entre otros casos cuando no haya habido ofertas de empresarios en la licitación previamente efectuada.",
+   "lcsp 30.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "los contratos relativos a servicios de arbitraje y conciliación quedan excluidos de la Ley",
+    "quedan excluidos los contratos que tengan por objeto servicios relacionados con campañas políticas cuando sean adjudicados por una Administración",
+    "se excluyen de la Ley las relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público de aplicación general"
+   ],
+   1,
+   "La incorrecta es «quedan excluidos los contratos que tengan por objeto servicios relacionados con campañas políticas cuando sean adjudicados por una Administración». Lo correcto: quedan excluidos los contratos que tengan por objeto servicios relacionados con campañas políticas cuando sean adjudicados por un partido político.",
+   "lcsp 11.5",
+   "Proposición negativa",
+   "h-excluidos",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 118 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la proposición INCORRECTA:",
+   [
+    "en los contratos menores la tramitación del expediente exigirá la publicación del contrato en el Boletín Oficial y un informe preceptivo del Consejo de Estado",
+    "en el contrato menor de obras deberá añadirse, además el presupuesto de las obras (y el proyecto cuando sea requerido) y, si afecta a estabilidad, seguridad o estanqueidad, el informe de la oficina de supervisión",
+    "lo dispuesto sobre el informe de justificación de necesidad del contrato menor no será de aplicación en los contratos cuyo pago se verifique por anticipos de caja fija u otro sistema similar, siempre que el valor estimado no exceda de 5.000 euros"
+   ],
+   0,
+   "La incorrecta es «en los contratos menores la tramitación del expediente exigirá la publicación del contrato en el Boletín Oficial y un informe preceptivo del Consejo de Estado». Lo correcto: en los contratos menores la tramitación del expediente exigirá un informe del órgano de contratación justificando motivadamente la necesidad del contrato y que no se está alterando su objeto para evitar los umbrales.",
+   "lcsp 118.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
   ]
  ]
 }

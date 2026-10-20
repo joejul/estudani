@@ -4099,6 +4099,321 @@
     "off": 1,
     "dup": "t06-053"
    }
+  ],
+  [
+   "De acuerdo con el artículo 47 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "son nulos los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
+    "son nulos los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición",
+    "son nulos los actos dictados con defectos formales no esenciales"
+   ],
+   2,
+   "La incorrecta es «son nulos los actos dictados con defectos formales no esenciales». Lo correcto: son nulos los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+   "lpac 47.1.e",
+   "Proposición negativa",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con la recepción efectiva por el interesado",
+    "los interesados podrán acceder a las notificaciones desde el Punto de acceso General electrónico de la Administración, que funcionará como portal de acceso",
+    "si la notificación electrónica es obligatoria o elegida, se entenderá rechazada transcurridos diez días naturales desde la puesta a disposición sin acceso"
+   ],
+   0,
+   "La incorrecta es «se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con la recepción efectiva por el interesado». Lo correcto: se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con la puesta a disposición de la notificación en la sede electrónica o en la dirección electrónica habilitada única.",
+   "lpac 43.3",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "son nulos los actos que tengan un contenido discrecional",
+    "son nulos los actos que sean constitutivos de infracción penal o se dicten como consecuencia de ésta",
+    "son nulos los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las reglas esenciales para la formación de la voluntad de los órganos colegiados"
+   ],
+   0,
+   "La incorrecta es «son nulos los actos que tengan un contenido discrecional». Lo correcto: son nulos los actos que tengan un contenido imposible.",
+   "lpac 47.1.c",
+   "Proposición negativa",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, podrá requerirla previamente para que lo anule o revise y, si rechaza el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "la presunción de validez de los actos administrativos supone que producen efectos solo tras ser confirmados por un tribunal",
+    "las normas y actos dictados por un órgano en el ejercicio de su propia competencia deberán ser observados por el resto de órganos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración"
+   ],
+   1,
+   "La incorrecta es «la presunción de validez de los actos administrativos supone que producen efectos solo tras ser confirmados por un tribunal». Lo correcto: la presunción de validez de los actos administrativos supone que producen efectos mientras no se declare su invalidez.",
+   "lpac 39.1",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado cuando estas tengan por destinatarios a más de un interesado",
+    "el órgano que dicte las resoluciones y actos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos",
+    "la notificación debe expresar, además del texto íntegro solo el órgano competente"
+   ],
+   2,
+   "La incorrecta es «la notificación debe expresar, además del texto íntegro solo el órgano competente». Lo correcto: la notificación debe expresar, además del texto íntegro los recursos que procedan, el órgano ante el que presentarse y el plazo para interponerlos.",
+   "lpac 40.2",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "los interesados podrán acceder a las notificaciones mediante carta certificada",
+    "las notificaciones electrónicas se practican mediante comparecencia en la sede electrónica, a través de la dirección electrónica habilitada única o ambos sistemas según disponga cada Administración",
+    "se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con la puesta a disposición de la notificación en la sede electrónica o en la dirección electrónica habilitada única"
+   ],
+   0,
+   "La incorrecta es «los interesados podrán acceder a las notificaciones mediante carta certificada». Lo correcto: los interesados podrán acceder a las notificaciones desde el Punto de acceso General electrónico de la Administración, que funcionará como portal de acceso.",
+   "lpac 43.4",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "son también nulos cualquier otro acto que se establezca expresamente en una disposición con rango de ley",
+    "son nulos los actos que contravengan una circular interna",
+    "son nulos los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición"
+   ],
+   1,
+   "La incorrecta es «son nulos los actos que contravengan una circular interna». Lo correcto: son nulos los actos que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.",
+   "lpac 47.1.d",
+   "Proposición negativa",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "toda notificación deberá cursarse en el plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+    "el órgano que dicte las resoluciones y actos los notificará a todos los ciudadanos",
+    "las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado cuando estas tengan por destinatarios a más de un interesado"
+   ],
+   1,
+   "La incorrecta es «el órgano que dicte las resoluciones y actos los notificará a todos los ciudadanos». Lo correcto: el órgano que dicte las resoluciones y actos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos.",
+   "lpac 40.1",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "si el interesado rechaza la notificación debe repetirse la notificación hasta tres veces",
+    "en los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel, siendo electrónica cuando exista obligación de relacionarse así",
+    "en los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones podrán recabar el domicilio del interesado en las bases de datos del INE sobre el Padrón Municipal"
+   ],
+   0,
+   "La incorrecta es «si el interesado rechaza la notificación debe repetirse la notificación hasta tres veces». Lo correcto: si el interesado rechaza la notificación se hará constar en el expediente, dando por efectuado el trámite y siguiendo el procedimiento.",
+   "lpac 41.5",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "la publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su publicación en el Diario oficial correspondiente",
+    "la publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige para las notificaciones",
+    "los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando sean actos favorables"
+   ],
+   2,
+   "La incorrecta es «los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando sean actos favorables». Lo correcto: los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando tengan por destinatario a una pluralidad indeterminada de personas o formen parte de un procedimiento selectivo o de concurrencia competitiva.",
+   "lpac 45.1",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "han de ser motivados los actos dictados en el ejercicio de potestades discrecionales y los que deban serlo por disposición legal o reglamentaria expresa",
+    "deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de contratación pública",
+    "han de motivarse los actos que rechacen pruebas propuestas por los interesados"
+   ],
+   1,
+   "La incorrecta es «deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de contratación pública». Lo correcto: deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de carácter sancionador o de responsabilidad patrimonial.",
+   "lpac 35.1.h",
+   "Proposición negativa",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que así lo decida el órgano superior",
+    "la presunción de validez de los actos administrativos supone que producen efectos mientras no se declare su invalidez",
+    "las normas y actos dictados por un órgano en el ejercicio de su propia competencia deberán ser observados por el resto de órganos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración"
+   ],
+   0,
+   "La incorrecta es «podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que así lo decida el órgano superior». Lo correcto: podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que los supuestos de hecho existieran ya en la fecha a que se retrotraiga y no lesione derechos o intereses legítimos de otras personas.",
+   "lpac 39.3",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario",
+    "si el interesado rechaza la notificación se hará constar en el expediente, dando por efectuado el trámite y siguiendo el procedimiento",
+    "con independencia del medio de notificación, las Administraciones enviarán un aviso al domicilio fiscal"
+   ],
+   2,
+   "La incorrecta es «con independencia del medio de notificación, las Administraciones enviarán un aviso al domicilio fiscal». Lo correcto: con independencia del medio de notificación, las Administraciones enviarán un aviso al dispositivo electrónico o correo electrónico que el interesado haya comunicado, sin que su falta afecte a la validez de la notificación.",
+   "lpac 41.6",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de solo del envío",
+    "en los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones podrán recabar el domicilio del interesado en las bases de datos del INE sobre el Padrón Municipal",
+    "en los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel, siendo electrónica cuando exista obligación de relacionarse así"
+   ],
+   0,
+   "La incorrecta es «las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de solo del envío». Lo correcto: las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario.",
+   "lpac 41.1",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "en los actos de procedimientos selectivos, la convocatoria deberá indicar el medio donde se efectuarán las sucesivas publicaciones, careciendo de validez las realizadas en lugares distintos",
+    "los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando tengan por destinatario a una pluralidad indeterminada de personas o formen parte de un procedimiento selectivo o de concurrencia competitiva",
+    "la publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por el anuncio en sede electrónica"
+   ],
+   2,
+   "La incorrecta es «la publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por el anuncio en sede electrónica». Lo correcto: la publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su publicación en el Diario oficial correspondiente.",
+   "lpac 45.4",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "han de motivarse los actos que rechacen pruebas propuestas por los interesados",
+    "deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden el desistimiento del interesado",
+    "deben motivarse los actos que resuelvan procedimientos de revisión de oficio, recursos administrativos y arbitraje, y los que declaren su inadmisión"
+   ],
+   1,
+   "La incorrecta es «deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden el desistimiento del interesado». Lo correcto: deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden el desistimiento por la Administración en procedimientos iniciados de oficio.",
+   "lpac 35.1.g",
+   "Proposición negativa",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de carácter sancionador o de responsabilidad patrimonial",
+    "deben motivarse los acuerdos de suspensión de actos y la adopción de medidas provisionales previstas en el artículo 56",
+    "la motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará no es necesaria"
+   ],
+   2,
+   "La incorrecta es «la motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará no es necesaria». Lo correcto: la motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, quedando acreditados los fundamentos de la resolución.",
+   "lpac 35.2",
+   "Proposición negativa",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "neg": 1,
+    "dif": 3
+   }
   ]
  ]
 }
