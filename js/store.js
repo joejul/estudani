@@ -21,6 +21,7 @@ const vacio = () => ({
   sesiones: [], // últimas sesiones de test
   reportes: [], // problemas anotados para enviar: { id, fecha, tipo, texto, qid?, ref?, enun? }
   ocultas: {}, // id de pregunta -> true (apartadas en este dispositivo)
+  tarjetas: {}, // id de pregunta -> { t: cuándo se creó, d?: cuándo se quitó } (flashcards del estudiante)
 });
 
 let estado = cargar();
@@ -176,6 +177,18 @@ export function ocultar(id, si = true) {
 }
 export const esOculta = (id) => !!(estado.ocultas && estado.ocultas[id]);
 
+// ---------- flashcards ----------
+// Cada flashcard es una pregunta guardada por el estudiante. Al quitarla se deja una marca (d) para que la baja también se sincronice.
+export const esTarjeta = (id) => !!(estado.tarjetas && estado.tarjetas[id] && !estado.tarjetas[id].d);
+export const tarjetas = () => Object.entries(estado.tarjetas || {}).filter(([, v]) => !v.d).sort((a, b) => b[1].t - a[1].t).map(([id]) => id);
+export function alternarTarjeta(id) {
+  estado.tarjetas = { ...(estado.tarjetas || {}) };
+  const ya = esTarjeta(id);
+  estado.tarjetas[id] = ya ? { t: estado.tarjetas[id].t, d: Date.now() } : { t: Date.now() };
+  guardar();
+  return !ya;
+}
+
 // ---------- copia de seguridad ----------
 export const marcarCopia = () => { estado.ajustes.copia = Date.now(); guardar(); };
 export const diasDesdeCopia = () => (estado.ajustes.copia ? Math.floor((Date.now() - estado.ajustes.copia) / 86400000) : null);
@@ -208,6 +221,11 @@ export function fusionar(texto, { silencioso = false } = {}) {
     estado.dias[d] = { n: Math.max(a.n, b.n || 0), ok: Math.max(a.ok, b.ok || 0), fail: Math.max(a.fail, b.fail || 0), blank: Math.max(a.blank, b.blank || 0) };
   }
   Object.assign(estado.lecciones, o.lecciones || {});
+  estado.tarjetas = estado.tarjetas || {};
+  for (const [id, b] of Object.entries(o.tarjetas || {})) {
+    const a = estado.tarjetas[id];
+    if (!a || Math.max(b.t, b.d || 0) > Math.max(a.t, a.d || 0)) estado.tarjetas[id] = b;
+  }
   const vistas = new Set();
   estado.sesiones = [...estado.sesiones, ...(o.sesiones || [])]
     .filter((x) => { const k = JSON.stringify(x); if (vistas.has(k)) return false; vistas.add(k); return true; })

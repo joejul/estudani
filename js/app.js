@@ -205,6 +205,45 @@ const fmtTiempo = (ms) => {
   return `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
 };
 
+// ---------------------------------------------------------------- flashcards
+// El estudiante guarda como flashcard cualquier pregunta (sobre todo las que falla). Se juntan todas en el Inicio,
+// sin importar el tema, y cada una lleva etiquetas: el tema y el epígrafe (o idea) al que se asocia.
+function etiquetasTarjeta(q) {
+  const t = D.tema[q.tema];
+  const e = t && t.epigrafes.find((x) => x.id === epiDe(q));
+  return { tema: `Tema ${q.tema}`, epi: e ? e.titulo : '' };
+}
+const botonTarjeta = (q) => `<button class="btn small ${store.esTarjeta(q.id) ? 'primary' : ''}" data-act="tarjeta" data-q="${esc(q.id)}">${store.esTarjeta(q.id) ? '🃏 Guardada como flashcard (quitar)' : '🃏 Crear flashcard de esta pregunta'}</button>`;
+function tarjetaHtml(q) {
+  const et = etiquetasTarjeta(q);
+  return `<article class="fcard" data-fc="${esc(q.id)}">
+    <div class="fc-tags"><span class="tag">${esc(et.tema)}</span>${et.epi ? `<span class="tag">${esc(et.epi)}</span>` : ''}</div>
+    <button class="fc-cara" data-act="voltear" aria-expanded="false">
+      <span class="fc-q">${esc(q.q)}</span>
+      <span class="fc-a" hidden><b>Respuesta:</b> ${esc(q.o[q.c])}${q.e ? `<br><span class="tiny">${esc(q.e)}</span>` : ''}<br><span class="tiny muted">${esc(q.ref)}</span></span>
+      <span class="fc-hint tiny muted">Toca para ver la respuesta</span>
+    </button>
+    <button class="link tiny" data-act="tarjeta" data-q="${esc(q.id)}">Quitar flashcard</button>
+  </article>`;
+}
+const preguntasTarjeta = () => store.tarjetas().map((id) => D.qById[id]).filter(Boolean);
+function seccionTarjetasInicio() {
+  const qs = preguntasTarjeta();
+  if (!qs.length) return '';
+  return `<section class="card"><h3>🃏 Mis flashcards (${qs.length})</h3>
+    <p class="tiny muted">Preguntas que guardaste para repasar, de todos los temas. Toca una para ver la respuesta.</p>
+    ${qs.slice(0, 4).map(tarjetaHtml).join('')}
+    ${qs.length > 4 ? `<a class="btn small" href="#/tarjetas">Ver las ${qs.length} flashcards</a>` : `<a class="btn small ghost" href="#/tarjetas">Abrir en pantalla completa</a>`}</section>`;
+}
+function vistaTarjetas(filtro) {
+  const todas = preguntasTarjeta();
+  const temas = [...new Set(todas.map((q) => q.tema))].sort((x, y) => x - y);
+  const qs = filtro ? todas.filter((q) => String(q.tema) === String(filtro)) : todas;
+  const chips = temas.length > 1 ? `<div class="seg">${[`<a href="#/tarjetas" class="${!filtro ? 'on' : ''}">Todas (${todas.length})</a>`].concat(temas.map((n) => `<a href="#/tarjetas/${n}" class="${String(filtro) === String(n) ? 'on' : ''}">T${n} (${todas.filter((q) => q.tema === n).length})</a>`)).join('')}</div>` : '';
+  const html = `<p class="tiny muted">Cada flashcard lleva el tema y el epígrafe al que se asocia. Se guardan con tu progreso y se sincronizan entre tus dispositivos.</p>${chips}${qs.length ? qs.map(tarjetaHtml).join('') : '<section class="card"><p class="muted">Aún no tienes flashcards. En cualquier test, pulsa «Crear flashcard de esta pregunta» al corregirla.</p></section>'}`;
+  return { titulo: 'Flashcards', volver: '#/', tab: 'inicio', html };
+}
+
 // ---------------------------------------------------------------- navegación
 // «Atrás» (la flecha ‹ de arriba o el gesto del móvil) vuelve a la pantalla de la que vienes y a la misma altura,
 // aunque hayas saltado a otra sección: por ejemplo, de una lección a «Asociar» y de vuelta a la lección.
@@ -234,6 +273,7 @@ function route() {
   else if (a === 'glosario') v = vistaGlosario(b);
   else if (a === 'ajustes') v = vistaAjustes();
   else if (a === 'guia') v = vistaGuia();
+  else if (a === 'tarjetas') v = vistaTarjetas(b);
   else v = vistaInicio();
   montar(v);
 }
@@ -294,6 +334,7 @@ function vistaInicio() {
     ${avisoMudanza()}
     ${guiaVista() ? '' : `<section class="card tip"><h3>👋 ¿Primera vez?</h3><p>En 3 minutos te explico para qué sirve cada parte de la app y cómo estudiar con ella cada día.</p><a class="btn primary" href="#/guia">Cómo usar EstuDani</a></section>`}
     ${store.hayProgreso() && (store.diasDesdeCopia() === null || store.diasDesdeCopia() > 14) ? `<section class="card tip"><p><strong>Guarda una copia de tu progreso</strong>: ${store.diasDesdeCopia() === null ? 'aún no tienes ninguna' : `hace ${store.diasDesdeCopia()} días de la última`}. <a href="#/ajustes">Hacerlo ahora</a></p></section>` : ''}
+    ${seccionTarjetasInicio()}
     ${esIOS && !instalada && !ocultarInstalar ? `<section class="card tip"><p><strong>Instálala en tu iPhone</strong>: en Safari toca <em>Compartir</em> <span aria-hidden="true">⎙</span> y luego <em>Añadir a pantalla de inicio</em>. Funcionará sin conexión.</p><button class="link" data-act="ocultar-instalar">Entendido</button></section>` : ''}
 
     <section class="card">
@@ -776,6 +817,7 @@ function vistaQuiz() {
       <p class="tiny muted">${esc(q.ref)}</p>
       ${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}
       ${enlaceIdea(q)}
+      <p>${botonTarjeta(q)}</p>
       <p class="tiny"><button class="link" data-act="reportar" data-q="${esc(q.id)}">⚑ Reportar error en esta pregunta</button></p>
       <button class="btn primary" data-act="sig">${S.i + 1 < total ? 'Siguiente' : 'Ver resultado'}</button>
     </section>`;
@@ -865,7 +907,7 @@ function vistaResultados() {
         ${q.pistas ? `<ul class="pistas">${q.pistas.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
         <p class="tiny"><b>${etiqueta}</b></p>
         <p class="tiny ok-t"><b>Correcta:</b> ${esc(q.o[q.c])}</p>
-        ${q.e ? `<p>${esc(q.e)}</p>` : ''}${q.trampa ? `<p class="tiny"><b>Trampa:</b> ${esc(q.trampa)}</p>` : ''}<p class="tiny muted">${esc(q.ref)}</p>${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}<p class="tiny"><button class="link" data-act="reportar" data-q="${esc(q.id)}">⚑ Reportar error</button></p></details>`;
+        ${q.e ? `<p>${esc(q.e)}</p>` : ''}${q.trampa ? `<p class="tiny"><b>Trampa:</b> ${esc(q.trampa)}</p>` : ''}<p class="tiny muted">${esc(q.ref)}</p><p>${botonTarjeta(q)}</p>${q.z ? `<p class="tiny z-t">⭐ <b>Preguntada en Zaragoza:</b> ${esc(q.z)}</p>` : ''}<p class="tiny"><button class="link" data-act="reportar" data-q="${esc(q.id)}">⚑ Reportar error</button></p></details>`;
     })
     .join('');
   const html = `
@@ -999,6 +1041,7 @@ function vistaGuia() {
     ${sec('⚙️', 'Más (ajustes)', `
       <ul>
         <li><b>Penalización por fallo:</b> cuánto resta cada error en simulacros y en la prueba oficial. Mientras no se confirme la oficial, usa 1/3.</li>
+        <li><b>Flashcards:</b> al corregir una pregunta pulsa «Crear flashcard». Todas se juntan en el Inicio, con el tema y el epígrafe al que pertenecen, y se sincronizan con tu progreso.</li>
         <li><b>Varios dispositivos:</b> en «Más» usa «Enviar mi progreso» en uno y «Fusionar desde archivo» en el otro; se juntan los dos progresos sin perder nada.</li>
         <li><b>Copia de seguridad:</b> tu progreso está solo en este móvil. Descarga una copia de vez en cuando y guárdala en iCloud o mándatela.</li>
         <li><b>Reportes:</b> si ves una pregunta con error o algo del temario que no cuadra, díselo a la app con «⚑ Reportar». Luego los envías todos juntos desde aquí.</li>
@@ -1252,6 +1295,14 @@ document.addEventListener('click', (e) => {
       return;
     }
     case 'reportar': return abrirReporte({ q: d.q, ctx: d.ctx });
+    case 'tarjeta': {
+      const ahora = store.alternarTarjeta(d.q);
+      aviso(ahora ? '🃏 Flashcard creada: la verás en el Inicio' : 'Flashcard quitada');
+      if (el.classList.contains('btn')) { el.textContent = ahora ? '🃏 Guardada como flashcard (quitar)' : '🃏 Crear flashcard de esta pregunta'; el.classList.toggle('primary', ahora); }
+      else { const fc = el.closest('.fcard'); if (fc && !ahora) fc.remove(); }
+      return;
+    }
+    case 'voltear': { const a2 = el.querySelector('.fc-a'); const abierto = !a2.hidden; a2.hidden = abierto; el.querySelector('.fc-hint').hidden = !abierto; el.setAttribute('aria-expanded', String(!abierto)); return; }
     case 'rep-guardar': return guardarReporte();
     case 'rep-copiar': return (navigator.clipboard ? navigator.clipboard.writeText(textoReportes()) : Promise.reject()).then(() => aviso('Copiado'), () => aviso('No se pudo copiar'));
     case 'rep-compartir': {

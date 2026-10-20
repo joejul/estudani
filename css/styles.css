@@ -472,3 +472,13 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 .idx .idx-a{display:inline-block;min-width:38px;text-align:center;padding:6px 8px;border-radius:8px;background:var(--card2,rgba(127,127,127,.12));text-decoration:none;font-size:.85rem;font-weight:600}
 .idx .idx-ley{margin:6px 0;border-top:1px solid rgba(127,127,127,.2);padding-top:6px}
 .idx .idx-ley summary{cursor:pointer;padding:4px 0}
+
+
+/* Flashcards */
+.fcard { border: 1px solid var(--line); border-radius: var(--radius); background: var(--card); padding: 12px; margin: 10px 0; }
+.fc-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.fc-cara { display: block; width: 100%; text-align: left; background: var(--brand-soft, transparent); color: inherit; border: 1px dashed var(--line); border-radius: 10px; padding: 12px; font: inherit; line-height: 1.4; cursor: pointer; }
+.fc-cara .fc-q { display: block; font-weight: 600; }
+.fc-cara .fc-a { display: block; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); }
+.fc-cara .fc-hint { display: block; margin-top: 8px; }
+.fcard .link { margin-top: 6px; }
