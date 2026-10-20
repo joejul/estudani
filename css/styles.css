@@ -482,3 +482,7 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 .fc-cara .fc-a { display: block; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); }
 .fc-cara .fc-hint { display: block; margin-top: 8px; }
 .fcard .link { margin-top: 6px; }
+
+/* Más: bloque «Avanzado» plegable */
+details.card > summary { cursor: pointer; list-style-position: inside; }
+details.card h4 { margin: 14px 0 4px; }

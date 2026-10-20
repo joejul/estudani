@@ -333,7 +333,7 @@ function vistaInicio() {
 
     ${avisoMudanza()}
     ${guiaVista() ? '' : `<section class="card tip"><h3>👋 ¿Primera vez?</h3><p>En 3 minutos te explico para qué sirve cada parte de la app y cómo estudiar con ella cada día.</p><a class="btn primary" href="#/guia">Cómo usar EstuDani</a></section>`}
-    ${store.hayProgreso() && (store.diasDesdeCopia() === null || store.diasDesdeCopia() > 14) ? `<section class="card tip"><p><strong>Guarda una copia de tu progreso</strong>: ${store.diasDesdeCopia() === null ? 'aún no tienes ninguna' : `hace ${store.diasDesdeCopia()} días de la última`}. <a href="#/ajustes">Hacerlo ahora</a></p></section>` : ''}
+    ${!sync.activo() && store.hayProgreso() && (store.diasDesdeCopia() === null || store.diasDesdeCopia() > 14) ? `<section class="card tip"><p><strong>Guarda una copia de tu progreso</strong>: ${store.diasDesdeCopia() === null ? 'aún no tienes ninguna' : `hace ${store.diasDesdeCopia()} días de la última`}. <a href="#/ajustes">Hacerlo ahora</a></p></section>` : ''}
     ${seccionTarjetasInicio()}
     ${esIOS && !instalada && !ocultarInstalar ? `<section class="card tip"><p><strong>Instálala en tu iPhone</strong>: en Safari toca <em>Compartir</em> <span aria-hidden="true">⎙</span> y luego <em>Añadir a pantalla de inicio</em>. Funcionará sin conexión.</p><button class="link" data-act="ocultar-instalar">Entendido</button></section>` : ''}
 
@@ -1206,22 +1206,10 @@ function vistaAjustes() {
   const opciones = Object.entries(store.PENALIZACIONES)
     .map(([k, v]) => `<option value="${k}" ${a.penalizacion === k ? 'selected' : ''}>${esc(v.etiqueta)}</option>`)
     .join('');
+  const instalada = window.navigator.standalone === true || matchMedia('(display-mode: standalone)').matches;
+  const conSync = sync.activo();
   const html = `
-    <section class="card"><h3>Penalización por fallo</h3>
-      <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
-      <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
     ${avisoMudanza()}${sincronizacionHtml()}
-    <section class="card"><h3>🔄 ${sync.disponible() ? 'Pasar el progreso con un archivo' : 'Usar en varios dispositivos'}</h3>
-      <p class="muted tiny">Para seguir en otro móvil o en el ordenador donde lo dejaste: <b>1)</b> en el dispositivo donde estudiaste pulsa «Enviar mi progreso» y guárdalo en iCloud/Archivos o mándatelo; <b>2)</b> en el otro pulsa «Fusionar» y elige ese archivo. No se pierde nada: se junta lo de los dos y, en cada pregunta, vale la respuesta más reciente. Repite al cambiar de dispositivo.</p>
-      <div class="acciones"><button class="btn primary small" data-act="enviar-progreso">Enviar mi progreso</button><button class="btn small" data-act="fusionar-archivo">Fusionar desde archivo</button></div>
-      <input type="file" id="fusion" accept="application/json,.json" hidden></section>
-    <section class="card"><h3>Copia de seguridad</h3>
-      <p class="muted tiny">Tu progreso solo vive en este dispositivo. ${store.diasDesdeCopia() === null ? 'Aún no has guardado ninguna copia.' : `Última copia: hace ${store.diasDesdeCopia()} día(s).`} Descarga un archivo (mejor, guárdalo en iCloud o mándatelo) o copia el código.</p>
-      <div class="acciones"><button class="btn primary small" data-act="descargar">Descargar copia (.json)</button><button class="btn small" data-act="cargar-archivo">Cargar copia desde archivo</button></div>
-      <input type="file" id="archivo" accept="application/json,.json" hidden>
-      <p class="muted tiny">O con código de texto:</p>
-      <textarea id="bk" rows="3" readonly></textarea>
-      <div class="acciones"><button class="btn small" data-act="copiar">Copiar</button><button class="btn small" data-act="restaurar">Restaurar desde el código pegado</button></div></section>
     <section class="card"><h3>Reportes</h3>
       <p class="muted tiny">¿Una pregunta con error, algo del temario que no cuadra o un fallo de la app? Anótalo aquí y envíalo cuando quieras. Los de una pregunta también salen en la corrección.</p>
       <div class="acciones"><button class="btn primary small" data-act="reportar">⚑ Reportar un problema</button></div>
@@ -1229,18 +1217,25 @@ function vistaAjustes() {
         <ul class="tiny">${store.reportes().map((r) => `<li>${esc(r.tipo)}: ${esc(r.texto.slice(0, 70))}${r.texto.length > 70 ? '…' : ''}</li>`).join('')}</ul>
         <div class="acciones"><button class="btn small" data-act="rep-compartir">Enviar</button><button class="btn small" data-act="rep-copiar">Copiar texto</button><button class="btn small" data-act="rep-vaciar">Vaciar lista</button></div>` : ''}
       ${store.ocultas().length ? `<p class="tiny">Tienes <b>${store.ocultas().length}</b> pregunta(s) ocultas en este móvil. <button class="link" data-act="des-ocultar">Volver a mostrarlas</button></p>` : ''}</section>
+    <section class="card"><h3>Penalización por fallo</h3>
+      <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
+      <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
     <section class="card"><h3>Cómo usar la app</h3><p class="muted tiny">Para qué sirve cada sección y una rutina de estudio recomendada.</p><a class="btn small" href="#/guia">Abrir la guía</a></section>
-    <section class="card"><h3>Instalar como app</h3>
-      <p class="muted tiny"><b>iPhone (Safari):</b> toca Compartir ⎙ → «Añadir a pantalla de inicio». Se abrirá a pantalla completa y funcionará sin conexión.</p></section>
-    <section class="card"><h3>Sobre el contenido</h3>
-      <p class="muted tiny">Los artículos se han contrastado con el texto consolidado del BOE (verificado entre ${esc(Object.values(D.tema).map((t) => `T${t.n}: ${t.verificado}`).join(' · '))}). Si algo no te cuadra con tu manual, díselo a quien mantiene la app: la ley cambia y conviene revisarlo.</p>
-      <p class="muted tiny">${esc(Object.values(D.tema).map((t) => t.notaVerificacion).filter(Boolean).join(' '))}</p></section>
-    <section class="card"><h3>Borrar progreso</h3><button class="btn danger" data-act="borrar">Borrar todo mi progreso</button></section>
+    <details class="card" ${conSync ? '' : 'open'}><summary><b>Avanzado</b> · copia de seguridad, instalación y borrar</summary>
+      <h4>Copia de seguridad</h4>
+      <p class="muted tiny">${conSync ? 'Con la sincronización activa tu progreso ya está guardado en la nube; esto es un respaldo extra.' : 'Tu progreso solo vive en este dispositivo.'} ${store.diasDesdeCopia() === null ? 'Aún no has guardado ninguna copia.' : `Última copia: hace ${store.diasDesdeCopia()} día(s).`} Guarda el archivo en iCloud/Archivos o mándatelo.</p>
+      <div class="acciones"><button class="btn primary small" data-act="descargar">Descargar copia</button><button class="btn small" data-act="cargar-archivo">Cargar copia (sustituye)</button></div>
+      <input type="file" id="archivo" accept="application/json,.json" hidden>
+      <p class="muted tiny"><b>Pasar el progreso a otro dispositivo sin sincronización:</b> «Enviar mi progreso» aquí y «Fusionar desde archivo» en el otro. Se juntan los dos sin perder nada.</p>
+      <div class="acciones"><button class="btn small" data-act="enviar-progreso">Enviar mi progreso</button><button class="btn small" data-act="fusionar-archivo">Fusionar desde archivo</button></div>
+      <input type="file" id="fusion" accept="application/json,.json" hidden>
+      ${instalada ? '' : '<h4>Instalar como app</h4><p class="muted tiny"><b>iPhone (Safari):</b> toca Compartir ⎙ → «Añadir a pantalla de inicio». Se abrirá a pantalla completa y funcionará sin conexión.</p>'}
+      <h4>Borrar progreso</h4><button class="btn danger" data-act="borrar">Borrar todo mi progreso</button>
+    </details>
     ${store.sinPersistencia() ? '<p class="tiny tr-t">Tu navegador no deja guardar datos: el progreso se perderá al cerrar.</p>' : ''}`;
   return {
     titulo: 'Más', tab: 'ajustes', sinGlosario: true, html,
     despues() {
-      $('#bk').value = store.exportar();
       $('#pen').addEventListener('change', (e) => { store.setAjuste('penalizacion', e.target.value); aviso('Guardado'); });
       $('#archivo').addEventListener('change', (e) => { if (e.target.files[0]) cargarCopiaArchivo(e.target.files[0]); });
       $('#fusion').addEventListener('change', (e) => { if (e.target.files[0]) fusionarArchivo(e.target.files[0]); e.target.value = ''; });
@@ -1285,15 +1280,6 @@ document.addEventListener('click', (e) => {
     case 'mm-recordar': { const on = $('#mm').classList.toggle('recordar'); el.setAttribute('aria-pressed', on); el.classList.toggle('primary', on); return; }
     case 'hoja': return el.classList.toggle('ver');
     case 'ocultar-instalar': try { localStorage.setItem('estudani.instalar', '1'); } catch {} return route();
-    case 'copiar': { const t = $('#bk'); t.select(); return (navigator.clipboard ? navigator.clipboard.writeText(t.value) : Promise.reject()).then(() => aviso('Copiado'), () => { document.execCommand?.('copy'); aviso('Copiado'); }); }
-    case 'restaurar': {
-      const t = $('#bk'); t.readOnly = false;
-      const texto = prompt('Pega aquí el código de la copia de seguridad:');
-      t.readOnly = true;
-      if (!texto) return;
-      try { store.importar(texto); aviso('Progreso restaurado'); route(); } catch { aviso('El código no es válido'); }
-      return;
-    }
     case 'reportar': return abrirReporte({ q: d.q, ctx: d.ctx });
     case 'tarjeta': {
       const ahora = store.alternarTarjeta(d.q);
