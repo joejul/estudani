@@ -3,6 +3,7 @@ import { esc, fmt, plano, setGlosario } from './markup.js';
 import { icHtml } from './iconos.js';
 import { normalizaTema } from './normaliza.js';
 import * as autoglos from './autoglos.js';
+import * as sync from './sync.js';
 import { mapaSvg, ramaHtml, conexionesHtml, hubHtml, leyendaHub, esquemaHtml } from './visual.js';
 
 const $ = (s, r = document) => r.querySelector(s);
@@ -71,6 +72,9 @@ async function init() {
   tabs.innerHTML = tabsHtml();
   window.addEventListener('hashchange', route);
   route();
+  sync.iniciar();
+  // si se está mirando Ajustes, el estado de la sincronización se refresca solo (nunca en un test ni en una lección)
+  sync.alCambiar(() => { if (location.hash === '#/ajustes' && !document.activeElement?.matches?.('input, textarea')) route(); });
 }
 
 async function cargarExamen() {
@@ -1100,6 +1104,23 @@ function cargarCopiaArchivo(file) {
   fr.readAsText(file);
 }
 
+function sincronizacionHtml() {
+  if (!sync.disponible()) return '';
+  const e = sync.estado();
+  const cuando = e.ultima ? `Última sincronización: ${new Date(e.ultima).toLocaleString('es-ES', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}.` : 'Aún no se ha sincronizado.';
+  if (!sync.activo()) {
+    return `<section class="card"><h3>☁️ Sincronización automática</h3>
+      <p class="muted tiny">Tu progreso se guarda solo en la nube y lo ves igual en todos tus dispositivos, sin exportar nada. No hay correo ni contraseña: usas un <b>código</b>.</p>
+      <p class="tiny"><b>En el primer dispositivo:</b> «Activar» y apunta el código. <b>En los demás:</b> «Ya tengo un código» y escríbelo.</p>
+      <div class="acciones"><button class="btn primary small" data-act="sync-activar">Activar sincronización</button><button class="btn small" data-act="sync-vincular">Ya tengo un código</button></div></section>`;
+  }
+  return `<section class="card"><h3>☁️ Sincronización automática: activa</h3>
+    <p class="tiny">Tu código: <b id="sync-cod" style="letter-spacing:.08em;font-size:1.1em">${esc(sync.codigo())}</b></p>
+    <p class="muted tiny">Apúntalo en un sitio seguro: lo necesitas para vincular otro dispositivo. Quien tenga el código puede ver y cambiar tu progreso.</p>
+    <p class="tiny">${e.sincronizando ? 'Sincronizando…' : esc(cuando)}${e.error ? ` <span class="tr-t">${esc(e.error)}</span>` : ''}</p>
+    <div class="acciones"><button class="btn primary small" data-act="sync-ahora">Sincronizar ahora</button><button class="btn small" data-act="sync-copiar">Copiar código</button><button class="btn small" data-act="sync-quitar">Quitar en este dispositivo</button></div></section>`;
+}
+
 // ---------------------------------------------------------------- ajustes
 function vistaAjustes() {
   const a = store.getAjustes();
@@ -1110,7 +1131,8 @@ function vistaAjustes() {
     <section class="card"><h3>Penalización por fallo</h3>
       <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
       <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
-    <section class="card"><h3>🔄 Usar en varios dispositivos</h3>
+    ${sincronizacionHtml()}
+    <section class="card"><h3>🔄 ${sync.disponible() ? 'Pasar el progreso con un archivo' : 'Usar en varios dispositivos'}</h3>
       <p class="muted tiny">Para seguir en otro móvil o en el ordenador donde lo dejaste: <b>1)</b> en el dispositivo donde estudiaste pulsa «Enviar mi progreso» y guárdalo en iCloud/Archivos o mándatelo; <b>2)</b> en el otro pulsa «Fusionar» y elige ese archivo. No se pierde nada: se junta lo de los dos y, en cada pregunta, vale la respuesta más reciente. Repite al cambiar de dispositivo.</p>
       <div class="acciones"><button class="btn primary small" data-act="enviar-progreso">Enviar mi progreso</button><button class="btn small" data-act="fusionar-archivo">Fusionar desde archivo</button></div>
       <input type="file" id="fusion" accept="application/json,.json" hidden></section>
@@ -1205,6 +1227,15 @@ document.addEventListener('click', (e) => {
     case 'descargar': return descargarCopia();
     case 'cargar-archivo': return $('#archivo').click();
     case 'enviar-progreso': return enviarProgreso();
+    case 'sync-activar': return sync.activar().then((c) => { aviso('Sincronización activada. Apunta tu código.'); route(); }, () => aviso('No se pudo activar'));
+    case 'sync-vincular': {
+      const t = prompt('Escribe el código de sincronización (12 letras y números):');
+      if (!t) return;
+      return sync.vincular(t).then(() => { aviso('Dispositivo vinculado y progreso fusionado'); route(); }, (err) => aviso(err.message));
+    }
+    case 'sync-ahora': return sync.sincronizar().then((r) => { aviso(r ? 'Sincronizado' : 'No se pudo sincronizar'); route(); });
+    case 'sync-copiar': return (navigator.clipboard ? navigator.clipboard.writeText(sync.codigo()) : Promise.reject()).then(() => aviso('Código copiado'), () => aviso('Cópialo a mano'));
+    case 'sync-quitar': if (confirm('Este dispositivo dejará de sincronizarse (no se borra tu progreso ni el de la nube). ¿Seguro?')) { sync.desvincular(); route(); } return;
     case 'fusionar-archivo': return $('#fusion').click();
     case 'borrar': if (confirm('Se borrará todo tu progreso en este dispositivo. ¿Seguro?')) { store.borrarTodo(); aviso('Progreso borrado'); route(); } return;
   }

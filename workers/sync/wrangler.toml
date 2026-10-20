@@ -1,0 +1,10 @@
+name = "estudani-sync"
+main = "index.js"
+compatibility_date = "2024-11-01"
+
+[[kv_namespaces]]
+binding = "STORE"
+id = "PON_AQUI_EL_ID_DEL_KV"   # lo da: npx wrangler kv namespace create STORE
+
+# [vars]
+# ALLOWED_ORIGIN = "https://joejul.github.io"   # opcional: solo esa web podrá usar el servicio

@@ -37,12 +37,17 @@ function cargar() {
   }
 }
 
+let silencio = false; // true mientras se fusiona: no cuenta como un cambio del estudiante
+const oyentes = [];
+export const alCambiar = (f) => oyentes.push(f);
+
 function guardar() {
   try {
     localStorage.setItem(KEY, JSON.stringify(estado));
   } catch {
     memoriaSolo = true;
   }
+  if (!silencio) oyentes.forEach((f) => f());
 }
 
 export const sinPersistencia = () => memoriaSolo;
@@ -184,7 +189,7 @@ export function importar(texto) {
 }
 // Fusiona el progreso de otro dispositivo con el de este SIN borrar nada: por pregunta gana la respuesta más reciente
 // (los contadores se quedan con el mayor de los dos), los días y las lecciones se juntan.
-export function fusionar(texto) {
+export function fusionar(texto, { silencioso = false } = {}) {
   const o = JSON.parse(texto);
   if (!o || typeof o !== 'object' || !o.preguntas || !o.ajustes) throw new Error('Formato no válido');
   const antes = Object.keys(estado.preguntas).length;
@@ -210,7 +215,9 @@ export function fusionar(texto) {
   const ids = new Set(estado.reportes.map((r) => r.id));
   estado.reportes = [...estado.reportes, ...(o.reportes || []).filter((r) => !ids.has(r.id))];
   estado.ajustes.repaso = { ...((o.ajustes || {}).repaso || {}), ...(estado.ajustes.repaso || {}) };
+  silencio = silencioso;
   guardar();
+  silencio = false;
   return { nuevas: Object.keys(estado.preguntas).length - antes, actualizadas: cambiadas };
 }
 export function borrarTodo() {
