@@ -31,8 +31,9 @@ def main():
             def flag(k, msg): cont[k] += 1; casos[k].append((ident, ref, enun[-80:], msg))
             # (1) formato
             if len(o) != 3 or len({norm(x) for x in o}) != 3: flag('formato', 'opciones repetidas o no son 3')
-            if re.search(r'  | ,|\.\.|de el |a el ', enun + ' '.join(o)): flag('errata', 'espacio doble, coma suelta o «de el»')
-            if not e or len(e) < 8: flag('formato', 'explicación vacía')
+            for txt in [enun] + o:
+                if re.search(r'\S  \S| ,|[^.]\.\.[^.]|\bde el\b|\ba el\b', txt): flag('errata', 'espacio doble, coma suelta o «de el»: ' + txt[:50]); break
+            if not e or len(e) < 25 or re.match(r'^Art\. [\w.ºª ]+\.$', e): flag('formato', 'explicación vacía o demasiado corta')
             # (3) distractores casi idénticos a la correcta
             for k, x in enumerate(o):
                 if k != c and difflib.SequenceMatcher(None, norm(x), norm(o[c])).ratio() > 0.93 and nums(x) == nums(o[c]):
