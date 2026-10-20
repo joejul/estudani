@@ -244,6 +244,8 @@ function vistaTarjetas(filtro) {
   return { titulo: 'Flashcards', volver: '#/', tab: 'inicio', html };
 }
 
+const negrita = (t) => esc(t).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>'); // definiciones del glosario: solo **negrita**
+
 // ---------------------------------------------------------------- navegación
 // «Atrás» (la flecha ‹ de arriba o el gesto del móvil) vuelve a la pantalla de la que vienes y a la misma altura,
 // aunque hayas saltado a otra sección: por ejemplo, de una lección a «Asociar» y de vuelta a la lección.
@@ -929,9 +931,9 @@ function vistaResultados() {
 // ---------------------------------------------------------------- glosario
 function vistaGlosario(abrir) {
   const lista = [...D.glos].sort((a, b) => a.termino.localeCompare(b.termino, 'es'));
-  const item = (g) => `<details class="gl" id="g-${g.id}" ${abrir === g.id ? 'open' : ''} data-t="${esc((g.termino + ' ' + g.def).toLowerCase())}">
+  const item = (g) => `<details class="gl" id="g-${g.id}" ${abrir === g.id ? 'open' : ''} data-t="${esc(plano(g.termino + ' ' + g.def).toLowerCase())}">
       <summary>${esc(g.termino)}${g.tipo ? ` <span class="gl-tipo">${esc(g.tipo)}</span>` : ''}</summary>
-      <p>${esc(g.def)}</p>
+      <p>${negrita(g.def)}</p>
       ${g.ejemplo ? `<p class="tiny"><b>Ejemplo:</b> ${esc(g.ejemplo)}</p>` : ''}
       ${g.trampa ? `<p class="tiny tr-t"><b>⚠ Trampa:</b> ${esc(g.trampa)}</p>` : ''}
       <p class="tiny muted">${esc(g.ref || '')}</p></details>`;
@@ -962,7 +964,7 @@ function abrirTermino(id) {
   sheet.innerHTML = `<div class="sheet-bg" data-act="cerrar-hoja"></div>
     <div class="sheet-p" role="dialog" aria-modal="true" aria-label="${esc(g.termino)}">
       <div class="sheet-h"><h3>${esc(g.termino)}</h3><button class="link" data-act="cerrar-hoja" aria-label="Cerrar">✕</button></div>
-      <p>${esc(g.def)}</p>
+      <p>${negrita(g.def)}</p>
       ${g.ejemplo ? `<p class="tiny"><b>Ejemplo:</b> ${esc(g.ejemplo)}</p>` : ''}
       ${g.trampa ? `<p class="tiny tr-t"><b>⚠ Trampa:</b> ${esc(g.trampa)}</p>` : ''}
       <p class="tiny muted">${esc(g.ref || '')} · <a href="#/glosario/${g.id}" data-act="cerrar-hoja">Ver en el glosario</a></p>

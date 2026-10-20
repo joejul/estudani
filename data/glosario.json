@@ -443,8 +443,9 @@
  {
   "id": "sujeto-pasivo",
   "termino": "Sujeto pasivo",
-  "def": "La persona que debe pagar el tributo (contribuyente).",
-  "ref": "Ej.: art. 30 TRLRHL"
+  "def": "La persona (física o jurídica) que, según la ley, **debe pagar el tributo** y cumplir sus obligaciones. Normalmente es el contribuyente, que es quien realiza el hecho imponible; si lo paga otra persona por mandato de la ley, es el sustituto. Es la otra cara del sujeto activo, que es quien cobra.",
+  "ref": "LGT y TRLRHL (p. ej. art. 30 TRLRHL)",
+  "ejemplo": "En el IBI, el sujeto pasivo es el propietario del inmueble; el sujeto activo es el ayuntamiento que lo cobra."
  },
  {
   "id": "base-imponible",
@@ -1725,5 +1726,40 @@
   "def": "Unión General de Trabajadores. Sindicato presente en la negociación colectiva de las Administraciones.",
   "ejemplo": "",
   "ref": ""
+ },
+ {
+  "id": "sujeto-activo",
+  "termino": "Sujeto activo",
+  "def": "El que **tiene derecho a exigir o cobrar** algo. En un tributo es la Administración que lo exige (el Estado, la comunidad autónoma o el ayuntamiento). En general, en una relación jurídico-administrativa el sujeto activo suele ser la Administración y el pasivo, el ciudadano.",
+  "ejemplo": "En el IBI, el sujeto activo es el ayuntamiento que lo cobra y el sujeto pasivo es el propietario que lo paga.",
+  "ref": "LGT y Tema 4 (relación jurídico-administrativa)"
+ },
+ {
+  "id": "gravamen",
+  "termino": "Gravamen",
+  "def": "**La carga u obligación que se impone** sobre algo o sobre alguien. En impuestos, «gravar» es someter una actividad o un bien al pago de un tributo, y el tipo de gravamen es el porcentaje que se aplica. Un acto de gravamen es el que impone una carga u obligación al ciudadano (por ejemplo, una multa), al contrario de un acto favorable, que le reconoce un derecho.",
+  "ejemplo": "El IBI es un gravamen sobre la propiedad de inmuebles: con un tipo de gravamen del 0,5 %, se paga el 0,5 % de la base.",
+  "ref": "TRLRHL y Ley 39/2015"
+ },
+ {
+  "id": "contribuyente",
+  "termino": "Contribuyente",
+  "def": "El sujeto pasivo que **realiza el hecho imponible**, es decir, quien hace nacer la obligación de pagar. No se confunde con el sustituto del contribuyente, que paga en su lugar por mandato de la ley.",
+  "ejemplo": "En el IBI, el contribuyente es quien es propietario del inmueble.",
+  "ref": "Art. 36 LGT"
+ },
+ {
+  "id": "cuota-tributaria",
+  "termino": "Cuota tributaria",
+  "def": "La **cantidad de dinero que finalmente hay que pagar** por un tributo. Se obtiene aplicando el tipo de gravamen a la base imponible (o con una tarifa fija) y, después, los coeficientes, exenciones y bonificaciones que correspondan.",
+  "ejemplo": "Con una base imponible de 100.000 € y un tipo del 0,5 %, la cuota es de 500 €.",
+  "ref": "TRLRHL"
+ },
+ {
+  "id": "flagrante-delito",
+  "termino": "Flagrante delito",
+  "def": "Cuando una persona **es sorprendida cometiendo un delito**, o justo después de cometerlo y con las pruebas a la vista. Es una excepción importante: quien tiene inmunidad (los diputados de las Cortes de Aragón y los miembros del Gobierno de Aragón durante su mandato) solo puede ser detenido en caso de flagrante delito.",
+  "ejemplo": "Un policía que ve cómo alguien roba un bolso puede detenerlo en el acto: es un delito flagrante.",
+  "ref": "Arts. 38 y 55 EAAr"
  }
 ]

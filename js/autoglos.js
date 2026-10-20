@@ -5,6 +5,10 @@
 // Formas extra por término (el término tal cual ya se busca solo). Clave: id del glosario.
 const ALIAS = {
   'sufragio': ['sufragio universal'],
+  'gravamen': ['gravámenes'],
+  'flagrante-delito': ['flagrante', 'delito flagrante', 'flagrante delito'],
+  'acto-favorable-gravamen': ['acto de gravamen', 'actos de gravamen', 'acto favorable', 'actos favorables'],
+  'cuota-tributaria': ['cuota', 'cuotas', 'cuota líquida', 'cuotas líquidas'],
   'estados-excepcionales': ['estado de alarma', 'estado de excepción', 'estado de sitio'],
   'patria-potestad': ['patria potestad'],
   'disposiciones-finales': ['disposición adicional', 'disposición transitoria', 'disposición derogatoria', 'disposición final'],
