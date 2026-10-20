@@ -1110,7 +1110,7 @@ const URL_NUEVA = 'https://estudani.joejul815.workers.dev';
 function avisoMudanza() {
   if (!/github\.io$/.test(location.hostname)) return '';
   return `<section class="card tip" style="border:2px solid var(--accent,#2f6f5e)"><h3>📦 EstuDani tiene dirección nueva</h3>
-    <p>Desde ahora la app está en <b>${esc(URL_NUEVA.replace('https://', ''))}</b>. Esta dirección dejará de actualizarse. Para pasarte <b>sin perder tu progreso</b>:</p>
+    <p>Desde ahora la app está en <b>${esc(URL_NUEVA.replace('https://', ''))}</b>. Esta dirección dejará de actualizarse. Para empezar de nuevo basta con abrir la dirección nueva e instalarla (pasos 2 y 4). Si quieres <b>conservar tu progreso</b>, haz también los pasos 1 y 3:</p>
     <ol class="tiny"><li>Aquí, ve a <a href="#/ajustes">Más</a> y pulsa <b>Activar sincronización</b>. Apunta el código (si ya lo tienes activado, solo apúntalo).</li>
     <li>Abre <b>${esc(URL_NUEVA)}</b> en Safari y pulsa Compartir ⎙ → <b>Añadir a pantalla de inicio</b>.</li>
     <li>En la app nueva, ve a <b>Más → Ya tengo un código</b> y escríbelo. Tu progreso aparece solo.</li>
