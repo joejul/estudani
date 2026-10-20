@@ -70,7 +70,12 @@ async function init() {
     return;
   }
   tabs.innerHTML = tabsHtml();
-  window.addEventListener('hashchange', route);
+  window.addEventListener('hashchange', () => {
+    const hacia = navegar();
+    route();
+    if (hacia.volviendo) window.scrollTo(0, posiciones[hacia.hash] || 0); // «atrás»: vuelve a donde estabas en esa pantalla
+  });
+  window.addEventListener('scroll', () => { posiciones[hashActual] = window.scrollY; }, { passive: true });
   route();
   sync.iniciar();
   // si se está mirando Ajustes, el estado de la sincronización se refresca solo (nunca en un test ni en una lección)
@@ -199,6 +204,22 @@ const fmtTiempo = (ms) => {
   const s = Math.floor(ms / 1000);
   return `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
 };
+
+// ---------------------------------------------------------------- navegación
+// «Atrás» (la flecha ‹ de arriba o el gesto del móvil) vuelve a la pantalla de la que vienes y a la misma altura,
+// aunque hayas saltado a otra sección: por ejemplo, de una lección a «Asociar» y de vuelta a la lección.
+const pila = [location.hash || '#/'];
+const posiciones = {};
+let hashActual = location.hash || '#/';
+function navegar() {
+  const h = location.hash || '#/';
+  const volviendo = pila.length > 1 && pila[pila.length - 2] === h;
+  if (volviendo) pila.pop();
+  else if (pila[pila.length - 1] !== h) pila.push(h);
+  if (pila.length > 60) pila.shift();
+  hashActual = h;
+  return { hash: h, volviendo };
+}
 
 // ---------------------------------------------------------------- enrutado
 function route() {
@@ -1186,6 +1207,8 @@ function vistaAjustes() {
 
 // ---------------------------------------------------------------- eventos
 document.addEventListener('click', (e) => {
+  const atras = e.target.closest('a.back');
+  if (atras && pila.length > 1) { e.preventDefault(); history.back(); return; }
   const termino = e.target.closest('[data-term]');
   if (termino) return abrirTermino(termino.dataset.term);
   const el = e.target.closest('[data-act]');
