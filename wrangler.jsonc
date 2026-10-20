@@ -1,0 +1,6 @@
+{
+  // Sitio estático de EstuDani en Cloudflare (Workers con assets). Sin compilación: se sube la carpeta tal cual.
+  "name": "estudani",
+  "compatibility_date": "2025-01-01",
+  "assets": { "directory": "." }
+}

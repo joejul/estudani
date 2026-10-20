@@ -270,6 +270,7 @@ function vistaInicio() {
       <p class="muted">Faltan unos <strong>${dias} días</strong> para el objetivo de mayo de 2027 <span class="tiny">(fecha oficial por confirmar)</span>.</p>
     </section>
 
+    ${avisoMudanza()}
     ${guiaVista() ? '' : `<section class="card tip"><h3>👋 ¿Primera vez?</h3><p>En 3 minutos te explico para qué sirve cada parte de la app y cómo estudiar con ella cada día.</p><a class="btn primary" href="#/guia">Cómo usar EstuDani</a></section>`}
     ${store.hayProgreso() && (store.diasDesdeCopia() === null || store.diasDesdeCopia() > 14) ? `<section class="card tip"><p><strong>Guarda una copia de tu progreso</strong>: ${store.diasDesdeCopia() === null ? 'aún no tienes ninguna' : `hace ${store.diasDesdeCopia()} días de la última`}. <a href="#/ajustes">Hacerlo ahora</a></p></section>` : ''}
     ${esIOS && !instalada && !ocultarInstalar ? `<section class="card tip"><p><strong>Instálala en tu iPhone</strong>: en Safari toca <em>Compartir</em> <span aria-hidden="true">⎙</span> y luego <em>Añadir a pantalla de inicio</em>. Funcionará sin conexión.</p><button class="link" data-act="ocultar-instalar">Entendido</button></section>` : ''}
@@ -1104,6 +1105,20 @@ function cargarCopiaArchivo(file) {
   fr.readAsText(file);
 }
 
+// La app se ha mudado a Cloudflare: quien la abre desde la dirección antigua (GitHub Pages) ve cómo pasarse sin perder el progreso.
+const URL_NUEVA = 'https://estudani.joejul815.workers.dev';
+function avisoMudanza() {
+  if (!/github\.io$/.test(location.hostname)) return '';
+  return `<section class="card tip" style="border:2px solid var(--accent,#2f6f5e)"><h3>📦 EstuDani tiene dirección nueva</h3>
+    <p>Desde ahora la app está en <b>${esc(URL_NUEVA.replace('https://', ''))}</b>. Esta dirección dejará de actualizarse. Para pasarte <b>sin perder tu progreso</b>:</p>
+    <ol class="tiny"><li>Aquí, ve a <a href="#/ajustes">Más</a> y pulsa <b>Activar sincronización</b>. Apunta el código (si ya lo tienes activado, solo apúntalo).</li>
+    <li>Abre <b>${esc(URL_NUEVA)}</b> en Safari y pulsa Compartir ⎙ → <b>Añadir a pantalla de inicio</b>.</li>
+    <li>En la app nueva, ve a <b>Más → Ya tengo un código</b> y escríbelo. Tu progreso aparece solo.</li>
+    <li>Cuando lo veas todo bien, borra el icono antiguo.</li></ol>
+    <div class="acciones"><a class="btn primary small" href="${esc(URL_NUEVA)}">Abrir la app nueva</a></div></section>`;
+}
+
+
 function sincronizacionHtml() {
   if (!sync.disponible()) return '';
   const e = sync.estado();
@@ -1131,7 +1146,7 @@ function vistaAjustes() {
     <section class="card"><h3>Penalización por fallo</h3>
       <p class="muted tiny">El examen resta por error, pero el valor exacto está en las bases generales (base 7.4.D). Hasta confirmarlo se usa 1/3, el valor más habitual con 4 opciones.</p>
       <select id="pen" aria-label="Penalización por fallo">${opciones}</select></section>
-    ${sincronizacionHtml()}
+    ${avisoMudanza()}${sincronizacionHtml()}
     <section class="card"><h3>🔄 ${sync.disponible() ? 'Pasar el progreso con un archivo' : 'Usar en varios dispositivos'}</h3>
       <p class="muted tiny">Para seguir en otro móvil o en el ordenador donde lo dejaste: <b>1)</b> en el dispositivo donde estudiaste pulsa «Enviar mi progreso» y guárdalo en iCloud/Archivos o mándatelo; <b>2)</b> en el otro pulsa «Fusionar» y elige ese archivo. No se pierde nada: se junta lo de los dos y, en cada pregunta, vale la respuesta más reciente. Repite al cambiar de dispositivo.</p>
       <div class="acciones"><button class="btn primary small" data-act="enviar-progreso">Enviar mi progreso</button><button class="btn small" data-act="fusionar-archivo">Fusionar desde archivo</button></div>

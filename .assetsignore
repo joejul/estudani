@@ -1,0 +1,14 @@
+.git
+.github
+.claude
+.idea
+.cache
+tools
+workers
+delete
+node_modules
+README.md
+wrangler.jsonc
+.assetsignore
+.gitignore
+.DS_Store

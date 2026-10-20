@@ -18,6 +18,12 @@ Estado: **20 de los 21 temas** del Anexo I (falta **ofimática**, aplazada). 337
 - **Repaso espaciado (detalle)** (cajas tipo Leitner: 0, 1, 2, 4, 8, 16, 32, 64 días), test rápido, simulacro con cronómetro y «mis fallos».
 - Progreso guardado en el dispositivo + copia de seguridad en Ajustes.
 
+## Despliegue (Cloudflare)
+
+- **App:** `https://estudani.joejul815.workers.dev` (Worker `estudani` con la carpeta como *assets*; `.assetsignore` excluye `tools/` y `workers/`). Publicar: `npx wrangler deploy` en la raíz.
+- **Sincronización del progreso:** Worker `estudani-sync` + KV `estudani-progreso` (ver `workers/sync/README.md`); su URL está en `js/config.js`.
+- La dirección antigua (GitHub Pages) solo muestra el aviso de mudanza.
+
 ## Ejecutar en local
 
 No hay dependencias ni paso de compilación:
