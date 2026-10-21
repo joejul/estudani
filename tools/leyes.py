@@ -66,15 +66,20 @@ def indice_zgz(url):
     class P(HTMLParser):
         def __init__(self):
             super().__init__(); self.bloques = []; self.cur = None; self.pila = []; self.n = [0]
+        def vaciar(self):
+            # un <li> con <p> o listas dentro: se guarda primero el texto que ya llevaba
+            if self.cur is not None and self.cur['txt'].strip(): self.bloques.append(self.cur)
+            self.cur = None
         def handle_starttag(self, tag, a):
-            if tag in ('ol', 'ul'): self.pila.append(tag); self.n.append(0)
+            if tag in ('ol', 'ul'):
+                self.vaciar(); self.pila.append(tag); self.n.append(0)
             if tag in ('p', 'li', 'h3', 'h4', 'h5'):
+                self.vaciar()
                 self.cur = {'tag': tag, 'txt': '', 'lista': self.pila[-1] if self.pila else None}
                 if tag == 'li': self.n[-1] += 1; self.cur['num'] = self.n[-1]
         def handle_endtag(self, tag):
-            if tag in ('ol', 'ul') and self.pila: self.pila.pop(); self.n.pop()
-            if tag in ('p', 'li', 'h3', 'h4', 'h5') and self.cur and self.cur['tag'] == tag:
-                self.bloques.append(self.cur); self.cur = None
+            if tag in ('ol', 'ul') and self.pila: self.vaciar(); self.pila.pop(); self.n.pop()
+            if tag in ('p', 'li', 'h3', 'h4', 'h5'): self.vaciar()
         def handle_data(self, d):
             if self.cur is not None: self.cur['txt'] += d
     pr = P(); pr.feed(raw)
