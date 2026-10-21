@@ -729,8 +729,8 @@ function vistaRepaso() {
     ${selectorTemas()}
     <section class="card"><h3>Test rápido</h3><p class="muted">10 preguntas mezcladas de lo que ya estás estudiando, con corrección inmediata. Ideal para 5 minutos.</p>
       <button class="btn" data-act="empezar" data-modo="rapido">Empezar (10)</button></section>
-    <section class="card"><h3>Simulacro tipo examen</h3><p class="muted">Sin corrección hasta el final, con cronómetro y <strong>penalización por fallo</strong>. Practica cuándo dejar en blanco.</p>
-      <button class="btn" data-act="empezar" data-modo="simulacro">Simulacro (20)</button></section>
+    <section class="card"><h3>Simulacro tipo examen</h3><p class="muted">55 preguntas de nivel muy alto, sin corrección hasta el final, con cronómetro y <strong>penalización por fallo</strong>. Practica cuándo dejar en blanco.</p>
+      <button class="btn" data-act="empezar" data-modo="simulacro">Simulacro (55, muy difícil)</button></section>
     ${D.examen ? `<section class="card examen"><h3>🎯 Prueba oficial real</h3>
       <p class="muted">Preguntas oficiales del Ayuntamiento con su plantilla de respuestas. Sin ayudas, con cronómetro y penalización.</p>
       <button class="btn primary" data-act="empezar" data-modo="examen">Parte 1 completa (${D.examen.p1.length} preguntas · 3 opciones)</button>
@@ -803,7 +803,13 @@ function empezar(modo, p = {}) {
   }
   else if (modo === 'supuesto') { pool = D.examen.sup[+p.n].preguntas.slice(); titulo = `Supuesto ${+p.n + 1}`; inmediato = false; ordenar = true; }
   else if (modo === 'rapido') { pool = barajar(D.preguntas.filter(enEstudio)).slice(0, 10); titulo = 'Test rápido'; }
-  else if (modo === 'simulacro') { pool = barajar(D.preguntas.filter(enEstudio)).slice(0, 20); titulo = 'Simulacro'; inmediato = false; }
+  else if (modo === 'simulacro') {
+    // 55 preguntas de nivel muy alto; si aún no hay tantas en estudio, completa con las siguientes más difíciles
+    const est = D.preguntas.filter(enEstudio);
+    const dura = barajar(est.filter((q) => q.dif >= 3));
+    pool = dura.length >= 55 ? dura.slice(0, 55) : dura.concat(barajar(est.filter((q) => q.dif < 3))).slice(0, 55);
+    titulo = 'Simulacro'; inmediato = false;
+  }
   if (!pool.length) return aviso(['rapido', 'simulacro', 'trampas', 'dificiles'].includes(modo) && !n ? 'Aún no hay preguntas en estudio: marca un epígrafe como estudiado o activa un tema abajo' : 'No hay preguntas para este modo');
   S = {
     modo, titulo, inmediato, volver, i: 0, fin: false, t0: Date.now(),
@@ -1051,7 +1057,7 @@ function vistaGuia() {
 
     ${sec('📆', 'Rutina semanal y de examen', `
       <ul>
-        <li><b>Un día a la semana:</b> un <em>Simulacro</em> (20 preguntas, con cronómetro y sin corrección hasta el final). Es el único modo que se parece al examen.</li>
+        <li><b>Un día a la semana:</b> un <em>Simulacro</em> (55 preguntas muy difíciles, con cronómetro y sin corrección hasta el final). Es el único modo que se parece al examen.</li>
         <li><b>Cada dos semanas:</b> la <em>Prueba oficial real</em> completa (en <em>Test</em>) y los supuestos prácticos.</li>
         <li><b>Mirando el calendario:</b> cuando se acerque el examen, deja de estudiar temas nuevos y dedica los últimos días a Repaso, Mis fallos y Simulacros.</li>
       </ul>`)}
@@ -1079,7 +1085,7 @@ function vistaGuia() {
         <li><b>Repaso de hoy:</b> repaso espaciado. Si aciertas una pregunta, tarda más en volver; si fallas, vuelve pronto. Es lo que más rinde por minuto.</li>
         <li><b>Elegir temas:</b> en esta misma pantalla decides qué temas entran en el repaso (por defecto, los que ya estudiaste).</li>
         <li><b>Test rápido:</b> 10 preguntas mezcladas con corrección inmediata. Para 5 minutos. Los modos mezclados (rápido, simulacro, trampas y nivel alto) solo usan lo que ya has estudiado o activado, nunca artículos que aún no has visto.</li>
-        <li><b>Simulacro:</b> 20 preguntas sin corrección hasta el final, con cronómetro y <b>penalización por fallo</b>. Practica cuándo dejar en blanco.</li>
+        <li><b>Simulacro:</b> 55 preguntas de nivel muy alto sin corrección hasta el final, con cronómetro y <b>penalización por fallo</b>. Practica cuándo dejar en blanco.</li>
         <li><b>Prueba oficial real:</b> preguntas del examen del Ayuntamiento con su plantilla de respuestas, y los supuestos prácticos.</li>
         <li><b>Asociar ideas:</b> las pistas y el atajo mental.</li>
         <li><b>Solo trampas:</b> las preguntas que juegan con detalles (plazos, mayorías, «excepto»).</li>

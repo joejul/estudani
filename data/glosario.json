@@ -1768,5 +1768,334 @@
   "def": "Cuando una persona **es sorprendida cometiendo un delito**, o justo después de cometerlo y con las pruebas a la vista. Es una excepción importante: quien tiene inmunidad (los diputados de las Cortes de Aragón y los miembros del Gobierno de Aragón durante su mandato) solo puede ser detenido en caso de flagrante delito.",
   "ejemplo": "Un policía que ve cómo alguien roba un bolso puede detenerlo en el acto: es un delito flagrante.",
   "ref": "Arts. 38 y 55 EAAr"
+ },
+ {
+  "id": "interesado",
+  "termino": "Interesado",
+  "def": "Es la persona que **tiene que ver con el procedimiento**: la que lo inicia, la que tiene derechos que pueden verse afectados por la decisión, o la que tiene intereses que la decisión puede perjudicar. Tiene derecho a ser informada, a presentar alegaciones y a recibir la notificación.",
+  "ejemplo": "Una vecina que pide una licencia es interesada. Su vecino, al que la obra puede afectar, también.",
+  "ref": "Ley 39/2015, art. 4"
+ },
+ {
+  "id": "tramite-audiencia",
+  "termino": "Trámite de audiencia",
+  "def": "Momento en que la Administración **enseña el expediente** a los interesados y les deja **alegar y aportar documentos** antes de decidir. Va justo antes de redactar la propuesta de resolución. El plazo es de **no menos de 10 ni más de 15 días**.",
+  "ejemplo": "Antes de multar a Pedro, el Ayuntamiento le da 10 días para ver el expediente y alegar.",
+  "ref": "Ley 39/2015, art. 82"
+ },
+ {
+  "id": "informacion-publica",
+  "termino": "Información pública",
+  "def": "Trámite en el que la Administración **abre el expediente a cualquier persona**, no solo a los interesados, para que pueda hacer alegaciones. Se anuncia en el boletín oficial y dura **al menos 20 días**.",
+  "ejemplo": "Un plan urbanístico se expone 20 días para que cualquier vecino presente alegaciones.",
+  "ref": "Ley 39/2015, art. 83"
+ },
+ {
+  "id": "dias-habiles",
+  "termino": "Días hábiles",
+  "def": "Son los días **que cuentan** para los plazos de la Administración: **no cuentan sábados, domingos ni festivos**. Los plazos señalados en días se entienden hábiles, salvo que la ley diga otra cosa.",
+  "ejemplo": "Un plazo de 10 días hábiles que empieza el lunes termina dos semanas después, no al viernes siguiente.",
+  "ref": "Ley 39/2015, art. 30"
+ },
+ {
+  "id": "computo-plazos",
+  "termino": "Cómputo de plazos",
+  "def": "Forma de **contar los plazos**: los plazos en días empiezan a contar **el día siguiente** a la notificación o publicación. Los plazos en meses o años se cuentan **de fecha a fecha**. Si el último día es inhábil, el plazo pasa al primer día hábil siguiente.",
+  "ejemplo": "Notificado el 5 de enero con plazo de un mes: acaba el 5 de febrero.",
+  "ref": "Ley 39/2015, art. 30"
+ },
+ {
+  "id": "via-administrativa",
+  "termino": "Vía administrativa",
+  "def": "Es el camino de **recursos dentro de la propia Administración**, antes de acudir al juez. «Poner fin a la vía administrativa» significa que contra ese acto ya solo cabe recurso potestativo de reposición o recurso contencioso-administrativo.",
+  "ejemplo": "Si el acto lo dicta el Alcalde, pone fin a la vía administrativa y se puede ir al juez directamente.",
+  "ref": "Ley 39/2015, art. 114"
+ },
+ {
+  "id": "recurso-alzada",
+  "termino": "Recurso de alzada",
+  "def": "Recurso que se presenta **ante el órgano superior** del que dictó un acto que **no pone fin a la vía administrativa**. El plazo es de **1 mes** si el acto es expreso y de **3 meses** si hubo silencio. La Administración tiene **3 meses** para resolver.",
+  "ejemplo": "Una resolución de un jefe de servicio se recurre en alzada ante el Concejal.",
+  "ref": "Ley 39/2015, arts. 121 y 122"
+ },
+ {
+  "id": "recurso-reposicion",
+  "termino": "Recurso potestativo de reposición",
+  "def": "Recurso que se presenta **ante el mismo órgano que dictó el acto** si este puso fin a la vía administrativa. Es **voluntario** (potestativo): se puede saltar e ir directo al juez. Plazo de **1 mes** (acto expreso) y la Administración tiene **1 mes** para resolver.",
+  "ejemplo": "El Alcalde multa a una persona y esta le pide a él mismo que lo reconsidere.",
+  "ref": "Ley 39/2015, arts. 123 y 124"
+ },
+ {
+  "id": "recurso-revision",
+  "termino": "Recurso extraordinario de revisión",
+  "def": "Recurso **excepcional** contra actos **firmes** en vía administrativa, solo por causas tasadas: error de hecho, documentos nuevos decisivos, documentos o testimonios falsos, o que el acto se dictara por prevaricación, cohecho o violencia. Plazo: **4 años** si es por error de hecho y **3 meses** en las demás causas.",
+  "ejemplo": "Aparece un documento que prueba que la sanción se basó en un dato erróneo.",
+  "ref": "Ley 39/2015, arts. 125 y 126"
+ },
+ {
+  "id": "silencio-administrativo",
+  "termino": "Silencio administrativo",
+  "def": "Es lo que ocurre cuando la Administración **no contesta en plazo**. Puede ser **positivo** (se entiende concedido lo que pedías, que es la regla general en solicitudes) o **negativo** (se entiende denegado). Aun así, la Administración debe resolver siempre de forma expresa.",
+  "ejemplo": "Pides una licencia, pasan 3 meses sin respuesta y la regla general es que se entiende concedida.",
+  "ref": "Ley 39/2015, arts. 21, 24 y 25"
+ },
+ {
+  "id": "nulidad-pleno-derecho",
+  "termino": "Nulidad de pleno derecho",
+  "def": "Es el defecto **más grave** de un acto administrativo: el acto **no vale desde el principio** y no se puede arreglar. Algunos casos: lesionar derechos fundamentales, dictarlo un órgano manifiestamente incompetente, o hacerlo prescindiendo totalmente del procedimiento. Se puede revisar **en cualquier momento**.",
+  "ejemplo": "Una multa dictada por quien no tenía competencia ninguna sobre la materia es nula de pleno derecho.",
+  "ref": "Ley 39/2015, art. 47"
+ },
+ {
+  "id": "anulabilidad",
+  "termino": "Anulabilidad",
+  "def": "Es un defecto **menos grave**: el acto **vale mientras nadie lo anule**, y se puede **corregir** (convalidar). Ocurre con cualquier infracción del ordenamiento, incluida la desviación de poder. Un fallo de forma solo anula el acto si le deja sin defensa o impide su finalidad.",
+  "ejemplo": "Una licencia concedida con un fallo menor de procedimiento es anulable, no nula.",
+  "ref": "Ley 39/2015, art. 48"
+ },
+ {
+  "id": "convalidacion",
+  "termino": "Convalidación",
+  "def": "Cuando la Administración **corrige los defectos** de un acto anulable para que sea válido. Solo cabe con los actos **anulables**, nunca con los nulos de pleno derecho.",
+  "ejemplo": "El órgano superior ratifica un acto que dictó uno incompetente: lo convalida.",
+  "ref": "Ley 39/2015, art. 52"
+ },
+ {
+  "id": "caducidad",
+  "termino": "Caducidad",
+  "def": "Es el fin de un procedimiento **por no resolver a tiempo** o por quedarse **parado** por culpa de la persona interesada. En los procedimientos iniciados **de oficio**, la falta de resolución en plazo provoca caducidad. Se puede volver a iniciar mientras no haya prescrito.",
+  "ejemplo": "El procedimiento sancionador se abrió de oficio y pasó el plazo máximo sin resolver: caduca.",
+  "ref": "Ley 39/2015, arts. 25 y 95"
+ },
+ {
+  "id": "prescripcion",
+  "termino": "Prescripción",
+  "def": "Es la **pérdida de un derecho o de la posibilidad de sancionar por el paso del tiempo**. En las infracciones administrativas, salvo que la ley diga otra cosa, prescriben a los **3 años** las muy graves, a los **2 años** las graves y a los **6 meses** las leves.",
+  "ejemplo": "Una infracción leve que nadie persigue en 6 meses ya no se puede sancionar.",
+  "ref": "Ley 40/2015, art. 30"
+ },
+ {
+  "id": "declaracion-responsable",
+  "termino": "Declaración responsable",
+  "def": "Documento en el que una persona **afirma bajo su responsabilidad** que cumple los requisitos para hacer algo (y que tiene la prueba). Permite **empezar la actividad desde que se presenta**, sin esperar permiso. Después la Administración puede comprobarlo. Si es falsa, se pierde el derecho.",
+  "ejemplo": "Abrir una pequeña tienda presentando una declaración responsable en lugar de pedir licencia.",
+  "ref": "Ley 39/2015, art. 69"
+ },
+ {
+  "id": "comunicacion-previa",
+  "termino": "Comunicación previa",
+  "def": "Documento por el que una persona **avisa a la Administración** de que va a empezar una actividad o ejercer un derecho. Solo **informa de datos** (no declara que cumple requisitos, como la declaración responsable).",
+  "ejemplo": "Avisar al Ayuntamiento del cambio de titularidad de un local.",
+  "ref": "Ley 39/2015, art. 69"
+ },
+ {
+  "id": "ejecucion-forzosa",
+  "termino": "Ejecución forzosa",
+  "def": "Cuando la Administración **hace cumplir sus propios actos por la fuerza** si el interesado no los cumple. Medios: **apremio sobre el patrimonio**, **ejecución subsidiaria**, **multa coercitiva** y **compulsión sobre las personas** (solo si la ley lo permite).",
+  "ejemplo": "Si no retiras un cartel ilegal, el Ayuntamiento lo retira y te cobra el coste.",
+  "ref": "Ley 39/2015, arts. 99 a 104"
+ },
+ {
+  "id": "multa-coercitiva",
+  "termino": "Multa coercitiva",
+  "def": "Multa que se impone **para obligar a cumplir** una orden de la Administración. **No es una sanción**: es un medio de presión y **se puede repetir** cada cierto tiempo hasta que se cumpla.",
+  "ejemplo": "Una multa cada mes hasta que derribes un muro ilegal.",
+  "ref": "Ley 39/2015, art. 103"
+ },
+ {
+  "id": "legitimacion",
+  "termino": "Legitimación",
+  "def": "Es el **derecho a ser parte** en un procedimiento o recurso, porque se tiene un derecho o interés afectado. Sin legitimación, el recurso no se admite.",
+  "ejemplo": "Solo quien resulta afectado por la licencia está legitimado para recurrirla.",
+  "ref": "Ley 39/2015, art. 4"
+ },
+ {
+  "id": "acumulacion",
+  "termino": "Acumulación de procedimientos",
+  "def": "Cuando la Administración **junta varios procedimientos** en uno solo porque tienen **identidad sustancial o íntima conexión**. Se acuerda por el órgano que tramita y **no cabe recurso** contra el acuerdo.",
+  "ejemplo": "Cinco reclamaciones iguales contra la misma obra se tramitan juntas.",
+  "ref": "Ley 39/2015, art. 57"
+ },
+ {
+  "id": "delegacion-competencias",
+  "termino": "Delegación de competencias",
+  "def": "Cuando un órgano **cede el ejercicio** de algunas de sus competencias a otro, que **actúa en su nombre**. Hay que **publicarla**, es **revocable en cualquier momento** y la resolución se considera dictada por **quien delega**. No se puede delegar todo: por ejemplo, los asuntos que afecten a las relaciones con la Jefatura del Estado.",
+  "ejemplo": "El Alcalde delega la firma de licencias en un Concejal.",
+  "ref": "Ley 40/2015, art. 9"
+ },
+ {
+  "id": "potestad-sancionadora",
+  "termino": "Potestad sancionadora",
+  "def": "Poder de la Administración para **imponer sanciones** por infracciones administrativas. Solo se puede usar si **una norma con rango de ley** lo prevé y siguiendo **el procedimiento legal**. Nunca se puede sancionar por algo que no estuviera ya tipificado.",
+  "ejemplo": "El Ayuntamiento multa por no recoger los excrementos del perro porque la ordenanza lo prevé como infracción.",
+  "ref": "Ley 40/2015, arts. 25 a 31"
+ },
+ {
+  "id": "infraccion-administrativa",
+  "termino": "Infracción administrativa",
+  "def": "Es una **acción u omisión que la ley castiga** con una sanción administrativa (multa, suspensión de licencia…). Se clasifican en **leves, graves y muy graves**. La **sanción** es el castigo previsto para esa infracción.",
+  "ejemplo": "Aparcar en zona prohibida es una infracción y la multa es la sanción.",
+  "ref": "Ley 40/2015, art. 27"
+ },
+ {
+  "id": "proporcionalidad",
+  "termino": "Principio de proporcionalidad",
+  "def": "La sanción debe ser **adecuada a la gravedad** de la infracción: no puede ser más dura de lo necesario. Se tienen en cuenta la **intencionalidad**, la **reincidencia**, el daño causado, etc.",
+  "ejemplo": "Una infracción leve no se castiga con la clausura definitiva.",
+  "ref": "Ley 40/2015, art. 29"
+ },
+ {
+  "id": "motivacion",
+  "termino": "Motivación",
+  "def": "Es **explicar las razones** de una decisión: los **hechos** y los **fundamentos de derecho** en que se basa. Es obligatoria, por ejemplo, en los actos que limitan derechos, en los que resuelven recursos y en los que se apartan del criterio anterior.",
+  "ejemplo": "Una denegación debe decir por qué se deniega, no solo «denegado».",
+  "ref": "Ley 39/2015, art. 35"
+ },
+ {
+  "id": "funcionario-carrera",
+  "termino": "Funcionario de carrera",
+  "def": "Persona **nombrada legalmente** para un servicio profesional **retribuido y de carácter permanente**, con una relación **estatutaria** regulada por el Derecho Administrativo. Adquiere la condición tras **aprobar el proceso selectivo** y tomar posesión.",
+  "ejemplo": "Dani, tras aprobar la oposición, será funcionario de carrera.",
+  "ref": "TREBEP, art. 9"
+ },
+ {
+  "id": "funcionario-interino",
+  "termino": "Funcionario interino",
+  "def": "Persona **nombrada por necesidad y urgencia** para hacer un trabajo propio de funcionario de carrera mientras tanto: plaza vacante sin cubrir, sustitución, programa temporal o exceso de trabajo. **No es permanente** y cesa al terminar la causa.",
+  "ejemplo": "Cubre la plaza de una funcionaria de baja durante meses.",
+  "ref": "TREBEP, art. 10"
+ },
+ {
+  "id": "personal-laboral",
+  "termino": "Personal laboral",
+  "def": "Trabajadores contratados por la Administración con **contrato de trabajo** (indefinido o temporal), regulados sobre todo por el **Derecho Laboral**, no por el Administrativo.",
+  "ejemplo": "Un operario de mantenimiento contratado por el Ayuntamiento.",
+  "ref": "TREBEP, art. 11"
+ },
+ {
+  "id": "personal-eventual",
+  "termino": "Personal eventual",
+  "def": "Persona que ocupa un puesto **de confianza o asesoramiento especial**, **nombrada y cesada libremente**. Su puesto **no es permanente**: cesa cuando cesa la autoridad que lo nombró. No se accede por oposición.",
+  "ejemplo": "El asesor de un Alcalde.",
+  "ref": "TREBEP, art. 12"
+ },
+ {
+  "id": "excedencia",
+  "termino": "Excedencia",
+  "def": "Situación en la que el funcionario **deja de trabajar temporalmente** sin perder su condición de funcionario. Hay varias clases: **voluntaria por interés particular**, por **agrupación familiar**, por **cuidado de familiares**, por **violencia de género**… Cada una tiene sus requisitos y efectos.",
+  "ejemplo": "Pedir excedencia para cuidar de un hijo.",
+  "ref": "TREBEP, art. 89"
+ },
+ {
+  "id": "servicios-especiales",
+  "termino": "Servicios especiales",
+  "def": "Situación en la que el funcionario **sirve en un cargo público o internacional** (por ejemplo, ser diputado o ministro). Se le **reserva su puesto** y se le **computa el tiempo** como trabajado.",
+  "ejemplo": "Una funcionaria elegida diputada pasa a servicios especiales.",
+  "ref": "TREBEP, art. 87"
+ },
+ {
+  "id": "oferta-empleo-publico",
+  "termino": "Oferta de empleo público",
+  "def": "Documento anual en el que la Administración **fija las plazas** que va a cubrir con **personal de nuevo ingreso**. Debe tener **presupuesto asignado** y ejecutarse en un plazo **improrrogable de 3 años**.",
+  "ejemplo": "El Ayuntamiento aprueba la oferta con 10 plazas de auxiliar administrativo.",
+  "ref": "TREBEP, art. 70"
+ },
+ {
+  "id": "suspension-funciones",
+  "termino": "Suspensión de funciones",
+  "def": "El funcionario **deja de trabajar** y de cobrar (en parte) durante un tiempo. Puede ser **provisional** (mientras dura un procedimiento judicial o disciplinario) o **firme** (como sanción disciplinaria, hasta 6 años).",
+  "ejemplo": "Suspensión por una falta muy grave.",
+  "ref": "TREBEP, art. 90"
+ },
+ {
+  "id": "dominio-publico",
+  "termino": "Bienes de dominio público",
+  "def": "Bienes de la Administración que están **destinados al uso o servicio público**: calles, plazas, parques, edificios administrativos. Son **inalienables** (no se pueden vender), **imprescriptibles** (nadie los gana por el paso del tiempo) e **inembargables**.",
+  "ejemplo": "Una plaza o una calle del municipio.",
+  "ref": "CE art. 132; LBRL art. 79"
+ },
+ {
+  "id": "padron-municipal",
+  "termino": "Padrón municipal",
+  "def": "Es el **registro** donde constan las personas que **viven en el municipio**. Estar inscrito es **obligatorio** y sirve de **prueba de la residencia** y del domicilio habitual. Lo gestiona el Ayuntamiento.",
+  "ejemplo": "Empadronarse al mudarse a Zaragoza.",
+  "ref": "LBRL, art. 15"
+ },
+ {
+  "id": "convenio",
+  "termino": "Convenio entre Administraciones",
+  "def": "**Acuerdo** firmado entre Administraciones (o con organismos o particulares) para **un fin común**, con efectos jurídicos. No es un contrato. No se confunde con el **convenio colectivo**, que es entre empresa y trabajadores.",
+  "ejemplo": "El Ayuntamiento y la DGA firman un convenio para financiar un centro.",
+  "ref": "Ley 40/2015, art. 47"
+ },
+ {
+  "id": "mancomunidad",
+  "termino": "Mancomunidad",
+  "def": "**Asociación de municipios** para ejecutar **en común obras y servicios** de su competencia (por ejemplo, recogida de basuras). Tiene **personalidad jurídica propia**.",
+  "ejemplo": "Varios pueblos pequeños se unen para compartir el servicio de agua.",
+  "ref": "LBRL, art. 44"
+ },
+ {
+  "id": "mocion-censura",
+  "termino": "Moción de censura",
+  "def": "Mecanismo para **destituir al Alcalde** y elegir a otro. Necesita el voto favorable de la **mayoría absoluta** del número legal de concejales.",
+  "ejemplo": "Si la mayoría absoluta de concejales apoya a otro candidato, este es el nuevo Alcalde.",
+  "ref": "LOREG, art. 197"
+ },
+ {
+  "id": "cuestion-confianza",
+  "termino": "Cuestión de confianza",
+  "def": "Cuando **el Alcalde pide al Pleno** que respalde un asunto importante (por ejemplo, el presupuesto o las ordenanzas fiscales). Si el Pleno no lo apoya, el Alcalde **cesa** y se elige a otro.",
+  "ejemplo": "El Alcalde vincula su continuidad a la aprobación de los presupuestos.",
+  "ref": "LOREG, art. 197 bis"
+ },
+ {
+  "id": "interventor",
+  "termino": "Interventor",
+  "def": "Funcionario con **habilitación nacional** que **controla y fiscaliza** las cuentas del Ayuntamiento: comprueba que el gasto se hace conforme a la ley y lleva la contabilidad.",
+  "ejemplo": "Sin su informe de fiscalización, ciertos gastos no pueden aprobarse.",
+  "ref": "TRLRHL, arts. 213 y ss."
+ },
+ {
+  "id": "licitacion",
+  "termino": "Licitación",
+  "def": "Proceso por el que la Administración **invita a empresas a presentar ofertas** para un contrato público y elige la mejor. Se rige por los principios de **publicidad, concurrencia, transparencia e igualdad**.",
+  "ejemplo": "El Ayuntamiento licita las obras de un parque.",
+  "ref": "Ley 9/2017 (LCSP)"
+ },
+ {
+  "id": "pliego",
+  "termino": "Pliego de cláusulas",
+  "def": "Documento con **las condiciones** de un contrato público. El **pliego administrativo** fija los derechos y obligaciones y el **pliego técnico** describe el trabajo que hay que hacer.",
+  "ejemplo": "Las empresas presentan oferta según lo que dicen los pliegos.",
+  "ref": "Ley 9/2017 (LCSP), arts. 122 y 124"
+ },
+ {
+  "id": "presupuesto-municipal",
+  "termino": "Presupuesto municipal",
+  "def": "Documento anual que recoge **cuánto dinero puede gastar** como máximo el Ayuntamiento y **cuántos ingresos** prevé cobrar durante el ejercicio.",
+  "ejemplo": "El Pleno aprueba el presupuesto de cada año.",
+  "ref": "TRLRHL, art. 162"
+ },
+ {
+  "id": "remanente-tesoreria",
+  "termino": "Remanente de tesorería",
+  "def": "Dinero **sobrante** al terminar el año: lo que hay en caja más lo que falta por cobrar menos lo que falta por pagar. Se puede **usar para financiar gasto** del año siguiente.",
+  "ejemplo": "El Ayuntamiento destina el remanente a pagar deudas.",
+  "ref": "TRLRHL, art. 191"
+ },
+ {
+  "id": "bonificacion",
+  "termino": "Bonificación",
+  "def": "**Rebaja** del impuesto que hay que pagar: se paga, pero **menos**. Se diferencia de la **exención**, en la que no se paga nada.",
+  "ejemplo": "Una bonificación del 50 % en el IBI para familias numerosas.",
+  "ref": "TRLRHL, art. 9"
+ },
+ {
+  "id": "exencion",
+  "termino": "Exención",
+  "def": "Caso en el que **no se paga** un tributo aunque se cumpla el hecho imponible, porque la ley lo libera. Los beneficios fiscales solo pueden venir de **una norma con rango de ley**.",
+  "ejemplo": "Los templos religiosos están exentos del IBI.",
+  "ref": "TRLRHL, art. 9"
  }
 ]
