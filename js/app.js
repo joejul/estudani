@@ -563,13 +563,13 @@ function vistaEpigrafe(n, id, artAbrir) {
   } };
 }
 
-// Barra fija arriba de cada lección: accesos a las ideas de «Asociar» de este epígrafe, al mapa y al test del tema.
+// Barra fija arriba de cada lección: accesos a las ideas de «Asociar» de este epígrafe y al mapa del tema.
 function barraLeccion(n, epi) {
   const hs = D.hubs.filter((h) => h.tema === n && h.epi === epi);
   const ideas = hs.length
     ? hs.map((h) => `<a class="lb-chip" href="#/tema/${n}/asociar/${h.id}">${icHtml(h.titulo, h.ic)}${esc(h.titulo)}</a>`).join('')
     : `<a class="lb-chip" href="#/tema/${n}/asociar">Asociar</a>`;
-  return `<nav class="lec-bar" aria-label="Accesos rápidos de la lección"><span class="lb-et">🧭 Ideas</span>${ideas}<span class="lb-sep"></span><a class="lb-chip lb-sec" href="#/tema/${n}/mapa">Mapa</a><a class="lb-chip lb-sec" href="#/tema/${n}/test">Test</a></nav>`;
+  return `<nav class="lec-bar" aria-label="Accesos rápidos de la lección"><span class="lb-et">🧭 Ideas</span>${ideas}<span class="lb-sep"></span><a class="lb-chip lb-sec" href="#/tema/${n}/mapa">Mapa</a></nav>`;
 }
 
 function hubsDeEpi(n, epi) {
