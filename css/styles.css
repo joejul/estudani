@@ -493,3 +493,12 @@ mark { background: var(--warn); color: #3a3b39; border-radius: 4px; padding: 0 3
 /* Más: bloque «Avanzado» plegable */
 details.card > summary { cursor: pointer; list-style-position: inside; }
 details.card h4 { margin: 14px 0 4px; }
+
+
+/* Barra fija de la lección: accesos a las ideas de Asociar, Mapa y Test */
+.lec-bar { position: sticky; top: calc(52px + var(--safe-t)); z-index: 6; display: flex; align-items: center; gap: 6px; overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; scrollbar-width: none; background: var(--bg); border-bottom: 1px solid var(--line); margin: -4px -16px 10px; padding: 8px 16px; }
+.lec-bar::-webkit-scrollbar { display: none; }
+.lb-et { font-weight: 700; font-size: .9rem; color: var(--muted); flex: none; }
+.lb-chip { flex: none; display: inline-flex; align-items: center; min-height: 40px; background: var(--brand-soft); border: 2px solid var(--brand); border-radius: 99px; padding: 4px 14px; font-weight: 650; font-size: .95rem; color: inherit; }
+.lb-chip.lb-sec { background: transparent; border-color: var(--line); color: var(--muted); }
+.lb-sep { flex: none; width: 1px; height: 22px; background: var(--line); margin: 0 2px; }

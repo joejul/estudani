@@ -73,9 +73,14 @@ async function init() {
   window.addEventListener('hashchange', () => {
     const hacia = navegar();
     route();
-    if (hacia.volviendo) window.scrollTo(0, posiciones[hacia.hash] || 0); // «atrás»: vuelve a donde estabas en esa pantalla
+    if (pendienteScroll && pendienteScroll.hash === hacia.hash) { window.scrollTo(0, pendienteScroll.y); pendienteScroll = null; } // «Lección»: vuelve a donde estabas
+    else if (hacia.volviendo) window.scrollTo(0, posiciones[hacia.hash] || 0); // «atrás»: vuelve a donde estabas en esa pantalla
   });
-  window.addEventListener('scroll', () => { posiciones[hashActual] = window.scrollY; }, { passive: true });
+  let tScroll = null;
+  window.addEventListener('scroll', () => {
+    posiciones[hashActual] = window.scrollY;
+    if (/^#\/tema\/\d+\/e\//.test(hashActual)) { recordarLeccion(hashActual, window.scrollY); clearTimeout(tScroll); tScroll = setTimeout(guardarUltima, 400); }
+  }, { passive: true });
   route();
   sync.iniciar();
   // si se está mirando Ajustes, el estado de la sincronización se refresca solo (nunca en un test ni en una lección)
@@ -270,6 +275,23 @@ function vistaTarjetas() {
 const pila = [location.hash || '#/'];
 const posiciones = {};
 let hashActual = location.hash || '#/';
+// Última lección abierta de cada tema (pantalla y posición): «Lección» y «Ver la lección» vuelven justo ahí.
+let ultimaLeccion = {};
+try { ultimaLeccion = JSON.parse(localStorage.getItem('estudani.lec') || '{}'); } catch { ultimaLeccion = {}; }
+let pendienteScroll = null;
+const guardarUltima = () => { try { localStorage.setItem('estudani.lec', JSON.stringify(ultimaLeccion)); } catch { /* sin almacenamiento */ } };
+function recordarLeccion(h, y) {
+  const m = /^#\/tema\/(\d+)\/e\//.exec(h);
+  if (!m) return;
+  ultimaLeccion[m[1]] = { h, y: Math.round(y) };
+}
+function retomarLeccion(n, destino) {
+  const u = ultimaLeccion[n];
+  if (!u || (destino && destino !== u.h)) return false;
+  pendienteScroll = { hash: u.h, y: u.y };
+  if (location.hash === u.h) { window.scrollTo(0, u.y); pendienteScroll = null; } else location.hash = u.h;
+  return true;
+}
 function navegar() {
   const h = location.hash || '#/';
   const volviendo = pila.length > 1 && pila[pila.length - 2] === h;
@@ -277,6 +299,7 @@ function navegar() {
   else if (pila[pila.length - 1] !== h) pila.push(h);
   if (pila.length > 60) pila.shift();
   hashActual = h;
+  recordarLeccion(h, volviendo ? posiciones[h] || 0 : 0); // al abrir una lección ya queda anotada (aunque no se haga scroll)
   return { hash: h, volviendo };
 }
 
@@ -423,7 +446,7 @@ function vistaTema(n, seccion, extra, extra2) {
   }
   const base = `#/tema/${n}`;
   const activa = seccion === 'esquema' ? 'mapa' : !seccion || seccion === 'e' ? 'leccion' : seccion;
-  const sub = (id, txt) => `<a href="${base}/${id}" class="${activa === id ? 'on' : ''}">${txt}</a>`;
+  const sub = (id, txt) => `<a href="${base}/${id}" class="${activa === id ? 'on' : ''}" ${id === 'leccion' ? `data-retomar="${n}"` : ''}>${txt}</a>`;
   const subtabs = `<nav class="subtabs">${sub('leccion', 'Lección')}${sub('mapa', 'Mapa')}${sub('asociar', 'Asociar')}${sub('test', 'Test')}</nav>`;
   if (seccion === 'e') {
     const r = vistaEpigrafe(n, extra, extra2);
@@ -512,12 +535,12 @@ function vistaEpigrafe(n, id, artAbrir) {
   const nq = t.preguntas.filter((q) => q.epi === id).length;
   const html = `
     <article class="epi">
+      ${barraLeccion(n, id)}
       <p class="eyebrow">Tema ${n} · epígrafe ${i + 1} de ${t.epigrafes.length}</p>
       <h2>${icHtml(e.titulo, e.ic)}${esc(e.titulo)}</h2>
       <p class="muted">${esc(e.subtitulo)}</p>
       <section class="card dominar"><h3>Debes dominar</h3><ul class="chips">${e.clave.map((c) => `<li>${esc(c)}</li>`).join('')}</ul></section>
       ${e.bloques.map(bloqueHtml).join('')}
-      ${hubsDeEpi(n, id)}
       ${articulosHtml(e)}
       <details class="card esq"><summary>Esquema para repasar</summary><ul>${e.esquema.map((x) => `<li>${fmt(x)}</li>`).join('')}</ul></details>
       <section class="flashes"><h3>Antes de seguir: ¿lo recuerdas?</h3><p class="tiny muted">Intenta responder en tu cabeza y luego toca la tarjeta.</p>
@@ -538,6 +561,15 @@ function vistaEpigrafe(n, id, artAbrir) {
     const el = view.querySelector(`details.art[data-art="${CSS.escape(artAbrir)}"]`);
     if (el) { el.open = true; el.scrollIntoView({ block: 'start' }); }
   } };
+}
+
+// Barra fija arriba de cada lección: accesos a las ideas de «Asociar» de este epígrafe, al mapa y al test del tema.
+function barraLeccion(n, epi) {
+  const hs = D.hubs.filter((h) => h.tema === n && h.epi === epi);
+  const ideas = hs.length
+    ? hs.map((h) => `<a class="lb-chip" href="#/tema/${n}/asociar/${h.id}">${icHtml(h.titulo, h.ic)}${esc(h.titulo)}</a>`).join('')
+    : `<a class="lb-chip" href="#/tema/${n}/asociar">Asociar</a>`;
+  return `<nav class="lec-bar" aria-label="Accesos rápidos de la lección"><span class="lb-et">🧭 Ideas</span>${ideas}<span class="lb-sep"></span><a class="lb-chip lb-sec" href="#/tema/${n}/mapa">Mapa</a><a class="lb-chip lb-sec" href="#/tema/${n}/test">Test</a></nav>`;
 }
 
 function hubsDeEpi(n, epi) {
@@ -614,7 +646,7 @@ function cuerpoAsociar(n, t, id) {
       <div id="mm">${hubHtml(h)}</div>${leyendaHub()}
       <div class="acciones">
         ${nq ? `<button class="btn primary" data-act="empezar" data-modo="hub" data-hub="${h.id}" data-tema="${n}">Preguntas de esta idea (${nq})</button>` : ''}
-        ${e ? `<a class="btn" href="#/tema/${n}/e/${e.id}">Ver la lección: ${esc(e.titulo)}</a>` : ''}
+        ${e ? `<a class="btn" href="#/tema/${n}/e/${e.id}" data-retomar="${n}" data-destino="#/tema/${n}/e/${e.id}">Ver la lección: ${esc(e.titulo)}</a>` : ''}
       </div>
       <div class="pager">${prev ? `<a href="#/tema/${n}/asociar/${prev.id}">‹ ${esc(prev.titulo)}</a>` : '<span></span>'}${next ? `<a href="#/tema/${n}/asociar/${next.id}">${esc(next.titulo)} ›</a>` : '<span></span>'}</div>`;
   }
@@ -1284,6 +1316,8 @@ function vistaAjustes() {
 
 // ---------------------------------------------------------------- eventos
 document.addEventListener('click', (e) => {
+  const ret = e.target.closest('a[data-retomar]');
+  if (ret && retomarLeccion(ret.dataset.retomar, ret.dataset.destino)) { e.preventDefault(); return; }
   const atras = e.target.closest('a.back');
   if (atras && pila.length > 1) { e.preventDefault(); history.back(); return; }
   const termino = e.target.closest('[data-term]');
