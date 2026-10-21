@@ -214,37 +214,55 @@ function etiquetasTarjeta(q) {
   return { tema: `Tema ${q.tema}`, epi: e ? e.titulo : '' };
 }
 const botonTarjeta = (q) => `<button class="btn small ${store.esTarjeta(q.id) ? 'primary' : ''}" data-act="tarjeta" data-q="${esc(q.id)}">${store.esTarjeta(q.id) ? '🃏 Guardada como flashcard (quitar)' : '🃏 Crear flashcard de esta pregunta'}</button>`;
+const tituloTema = (n) => { const t = infoTema(n); return t ? t.titulo : ''; };
+// Una flashcard plegada muestra solo la pregunta; al tocarla se abre la respuesta, la explicación y la etiqueta del epígrafe.
+// Título corto para la tarjeta plegada: «Art. 8 · los miembros del Gobierno…» en vez de «De acuerdo con el artículo 8 de la Ley…, los…».
+const REG_ART = /^De acuerdo con el art[ií]culo (\S+) (?:de|del) (?:la |el )?(.+?), (?=(?:el|la|los|las|un|una|unos|se|en|son|es|para|quien|quienes|cuando|si|a|por|corresponde|corresponden|podrá|podrán|serán|será|tendrá|tendrán|deberá|deberán|no|todo|toda|todos|todas|cada|ningún|estará|estarán|constituye|constituyen|entre|cualquier|aquellos|aquellas|ejercer)\b)([\s\S]+)$/;
+function tituloTarjeta(q) {
+  const m = REG_ART.exec(q.q);
+  return m && m[3].length > 12 ? `Art. ${m[1]} · ${m[3][0].toUpperCase()}${m[3].slice(1)}` : q.q;
+}
 function tarjetaHtml(q) {
   const et = etiquetasTarjeta(q);
-  return `<article class="fcard" data-fc="${esc(q.id)}">
-    <div class="fc-tags"><span class="tag">${esc(et.tema)}</span>${et.epi ? `<span class="tag">${esc(et.epi)}</span>` : ''}</div>
-    <button class="fc-cara" data-act="voltear" aria-expanded="false">
-      <span class="fc-q">${esc(q.q)}</span>
-      <span class="fc-a" hidden><b>Respuesta:</b> ${esc(q.o[q.c])}${q.e ? `<br><span class="tiny">${esc(q.e)}</span>` : ''}<br><span class="tiny muted">${esc(q.ref)}</span></span>
-      <span class="fc-hint tiny muted">Toca para ver la respuesta</span>
-    </button>
-    <button class="link tiny" data-act="tarjeta" data-q="${esc(q.id)}">Quitar flashcard</button>
-  </article>`;
+  // la explicación se muestra solo si añade algo: no si repite la respuesta (frase del artículo o «La respuesta correcta es…»)
+  const resp = q.o[q.c].toLowerCase().slice(0, 40);
+  const generica = !q.e || /^La respuesta correcta es «/.test(q.e) || q.e.toLowerCase().includes(resp);
+  const yaCita = q.e && !generica && q.e.includes(q.ref);
+  return `<details class="fcard" data-nogl data-fc="${esc(q.id)}">
+    <summary><span class="fc-q">${esc(tituloTarjeta(q))}</span></summary>
+    <div class="fc-body">
+      <p class="fc-a"><b>Respuesta:</b> ${esc(q.o[q.c])}</p>
+      ${generica ? '' : `<p class="tiny">${esc(q.e)}</p>`}
+      ${yaCita ? '' : `<p class="tiny muted">${esc(q.ref)}</p>`}
+      <div class="fc-tags">${et.epi ? `<span class="tag">${esc(et.epi)}</span>` : `<span class="tag">${esc(et.tema)}</span>`}</div>
+      <button class="link tiny" data-act="tarjeta" data-q="${esc(q.id)}">Quitar flashcard</button>
+    </div>
+  </details>`;
 }
 const preguntasTarjeta = () => store.tarjetas().map((id) => D.qById[id]).filter(Boolean);
+// Agrupadas por tema (de menor a mayor); cada tema es un desplegable cerrado.
+function gruposTarjetas(qs, abiertos = false) {
+  const por = new Map();
+  qs.forEach((q) => { if (!por.has(q.tema)) por.set(q.tema, []); por.get(q.tema).push(q); });
+  return [...por.entries()].sort((x, y) => x[0] - y[0]).map(([n, l]) => `<details class="fc-grupo" ${abiertos ? 'open' : ''}>
+    <summary><b class="fc-t">Tema ${n}</b><span class="fc-tit muted tiny">${esc(tituloTema(n))}</span><span class="fc-n">${l.length}</span></summary>
+    ${l.map(tarjetaHtml).join('')}</details>`).join('');
+}
 function seccionTarjetasInicio() {
   const qs = preguntasTarjeta();
   if (!qs.length) return '';
-  return `<section class="card"><h3>🃏 Mis flashcards (${qs.length})</h3>
-    <p class="tiny muted">Preguntas que guardaste para repasar, de todos los temas. Toca una para ver la respuesta.</p>
-    ${qs.slice(0, 4).map(tarjetaHtml).join('')}
-    ${qs.length > 4 ? `<a class="btn small" href="#/tarjetas">Ver las ${qs.length} flashcards</a>` : `<a class="btn small ghost" href="#/tarjetas">Abrir en pantalla completa</a>`}</section>`;
+  return `<details class="card fc-sec"><summary><b>🃏 Mis flashcards</b> <span class="fc-n" id="fc-total">${qs.length}</span></summary>
+    <p class="tiny muted">Preguntas que guardaste, ordenadas por tema. Toca un tema y luego una pregunta para ver la respuesta.</p>
+    ${gruposTarjetas(qs)}
+    <a class="btn small ghost" href="#/tarjetas">Abrir en pantalla completa</a></details>`;
 }
-function vistaTarjetas(filtro) {
-  const todas = preguntasTarjeta();
-  const temas = [...new Set(todas.map((q) => q.tema))].sort((x, y) => x - y);
-  const qs = filtro ? todas.filter((q) => String(q.tema) === String(filtro)) : todas;
-  const chips = temas.length > 1 ? `<div class="seg">${[`<a href="#/tarjetas" class="${!filtro ? 'on' : ''}">Todas (${todas.length})</a>`].concat(temas.map((n) => `<a href="#/tarjetas/${n}" class="${String(filtro) === String(n) ? 'on' : ''}">T${n} (${todas.filter((q) => q.tema === n).length})</a>`)).join('')}</div>` : '';
-  const html = `<p class="tiny muted">Cada flashcard lleva el tema y el epígrafe al que se asocia. Se guardan con tu progreso y se sincronizan entre tus dispositivos.</p>${chips}${qs.length ? qs.map(tarjetaHtml).join('') : '<section class="card"><p class="muted">Aún no tienes flashcards. En cualquier test, pulsa «Crear flashcard de esta pregunta» al corregirla.</p></section>'}`;
+function vistaTarjetas() {
+  const qs = preguntasTarjeta();
+  const html = qs.length
+    ? `<p class="tiny muted">Ordenadas por tema. Toca un tema para ver sus preguntas y una pregunta para ver la respuesta. Se guardan con tu progreso y se sincronizan entre tus dispositivos.</p>${gruposTarjetas(qs, new Set(qs.map((q) => q.tema)).size === 1)}`
+    : '<section class="card"><p class="muted">Aún no tienes flashcards. En cualquier test, pulsa «Crear flashcard de esta pregunta» al corregirla.</p></section>';
   return { titulo: 'Flashcards', volver: '#/', tab: 'inicio', html };
 }
-
-const negrita = (t) => esc(t).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>'); // definiciones del glosario: solo **negrita**
 
 // ---------------------------------------------------------------- navegación
 // «Atrás» (la flecha ‹ de arriba o el gesto del móvil) vuelve a la pantalla de la que vienes y a la misma altura,
@@ -275,7 +293,7 @@ function route() {
   else if (a === 'glosario') v = vistaGlosario(b);
   else if (a === 'ajustes') v = vistaAjustes();
   else if (a === 'guia') v = vistaGuia();
-  else if (a === 'tarjetas') v = vistaTarjetas(b);
+  else if (a === 'tarjetas') v = vistaTarjetas();
   else v = vistaInicio();
   montar(v);
 }
@@ -1306,10 +1324,9 @@ document.addEventListener('click', (e) => {
       const ahora = store.alternarTarjeta(d.q);
       aviso(ahora ? '🃏 Flashcard creada: la verás en el Inicio' : 'Flashcard quitada');
       if (el.classList.contains('btn')) { el.textContent = ahora ? '🃏 Guardada como flashcard (quitar)' : '🃏 Crear flashcard de esta pregunta'; el.classList.toggle('primary', ahora); }
-      else { const fc = el.closest('.fcard'); if (fc && !ahora) fc.remove(); }
+      else { const fc = el.closest('.fcard'); if (fc && !ahora) { const g = fc.closest('.fc-grupo'); const sec = fc.closest('.fc-sec'); fc.remove(); if (g) { const n = g.querySelectorAll('.fcard').length; if (!n) g.remove(); else g.querySelector('.fc-n').textContent = n; } if (sec) { const tot = sec.querySelectorAll('.fcard').length; if (!tot) sec.remove(); else sec.querySelector('#fc-total').textContent = tot; } } }
       return;
     }
-    case 'voltear': { const a2 = el.querySelector('.fc-a'); const abierto = !a2.hidden; a2.hidden = abierto; el.querySelector('.fc-hint').hidden = !abierto; el.setAttribute('aria-expanded', String(!abierto)); return; }
     case 'rep-guardar': return guardarReporte();
     case 'rep-copiar': return (navigator.clipboard ? navigator.clipboard.writeText(textoReportes()) : Promise.reject()).then(() => aviso('Copiado'), () => aviso('No se pudo copiar'));
     case 'rep-compartir': {
