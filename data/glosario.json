@@ -840,6 +840,13 @@
   "ref": "Ley 40/2015"
  },
  {
+  "id": "lesividad",
+  "termino": "Lesividad",
+  "def": "Es el procedimiento con el que la **Administración** puede anular un acto suyo que **favorece** a una persona (un acto anulable) porque **perjudica el interés público**. Como el acto beneficia al ciudadano, la Administración no puede anularlo sin más: primero lo **declara lesivo** y después lo **impugna ante el juez** (recurso contencioso-administrativo). La declaración debe hacerse en **4 años** desde que se dictó el acto, con **audiencia** a los interesados, y el procedimiento **caduca a los 6 meses**.",
+  "ejemplo": "El Ayuntamiento concedió por error una licencia ilegal: declara el acto lesivo y lo impugna ante el juzgado.",
+  "ref": "Ley 39/2015, art. 107"
+ },
+ {
   "id": "lesivo",
   "termino": "Lesivo",
   "tipo": "adjetivo",

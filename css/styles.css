@@ -327,6 +327,7 @@ textarea { font-size: 1rem; font-family: ui-monospace, Menlo, monospace; resize:
 .hub-c { background: var(--brand); color: var(--brand-ink); border-radius: 22px; padding: 14px 16px; text-align: center; display: flex; flex-direction: column; gap: 2px; }
 .hub-c small { font-weight: 700; opacity: .92; }
 .hub-c b { font-size: 1.3rem; line-height: 1.25; }
+.hub-c .term { color: inherit; border-bottom-color: currentColor; }   /* el término del glosario en el nodo central no puede ser del color del fondo */
 .hub-r { margin: 0 0 0 26px; padding: 4px 0 0 24px; border-left: 5px solid var(--brand); }
 .sp { position: relative; display: block; width: 100%; text-align: left; font: inherit; color: inherit; background: color-mix(in srgb, var(--k) 14%, var(--card)); border: 3px solid var(--k); border-radius: 16px; padding: 8px 12px 10px; margin: 14px 0; cursor: pointer; }
 .sp::before { content: ''; position: absolute; left: -32px; top: 26px; width: 26px; border-top: 5px solid var(--brand); }

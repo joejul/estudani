@@ -6,6 +6,7 @@
 const ALIAS = {
   'sufragio': ['sufragio universal'],
   'gravamen': ['gravámenes'],
+  'lesividad': ['declaración de lesividad', 'declarar la lesividad'],
   'flagrante-delito': ['flagrante', 'delito flagrante', 'flagrante delito'],
   'acto-favorable-gravamen': ['acto de gravamen', 'actos de gravamen', 'acto favorable', 'actos favorables'],
   'cuota-tributaria': ['cuota', 'cuotas', 'cuota líquida', 'cuotas líquidas'],
