@@ -651,7 +651,7 @@
   },
   {
    "id": "e8",
-   "titulo": "Necesidad, duración, medios propios y libertad de pactos (arts. 28 a 35)",
+   "titulo": "Necesidad, duración, medios propios, libertad de pactos y requisitos del contrato (arts. 28 a 37, 65 a 73 y 99 a 102)",
    "subtitulo": "Principios del contrato y cooperación pública",
    "clave": [
     "Solo se contrata lo necesario (28)",
@@ -779,6 +779,111 @@
      "Contenido mínimo obligatorio del documento del contrato",
      "Debe incluir, entre otras menciones: **identificación de las partes**, **capacidad de los firmantes**, **objeto y tipo**, **legislación aplicable** (con protección de datos), **documentos que integran el contrato**, **precio cierto** o su modo de determinarlo, **duración y prórrogas**, **condiciones de recepción y pago**, **supuestos de modificación y resolución**, **crédito presupuestario** y **confidencialidad** (lista completa en el texto oficial).",
      "¿Qué mención sobre el precio debe contener el documento del contrato?"
+    ],
+    [
+     "lcsp",
+     "36",
+     "Perfección de los contratos",
+     "Los contratos de los poderes adjudicadores **se perfeccionan con su formalización**. **Excepciones:** los **contratos menores** y los **contratos basados en un acuerdo marco** (o específicos de un sistema dinámico de adquisición), que se perfeccionan **con la adjudicación**. Salvo que el contrato diga otra cosa, se entiende celebrado **donde está la sede del órgano de contratación**.",
+     "¿Cuándo se perfeccionan, con carácter general, los contratos de los poderes adjudicadores?"
+    ],
+    [
+     "lcsp",
+     "37",
+     "Carácter formal de la contratación",
+     "Las entidades del sector público **no pueden contratar verbalmente**, salvo en los contratos de **emergencia**. Los contratos de las Administraciones Públicas **se formalizan conforme al art. 153**, sin perjuicio de lo previsto para los **contratos menores** (art. 118).",
+     "¿Qué contratos del sector público pueden celebrarse verbalmente?"
+    ],
+    [
+     "lcsp",
+     "65",
+     "Condiciones de aptitud para contratar",
+     "Solo pueden contratar con el sector público las personas **naturales o jurídicas**, españolas o extranjeras, que tengan **plena capacidad de obrar**, **no estén incursas en prohibición de contratar** y acrediten su **solvencia económica y financiera y técnica o profesional** (o la **clasificación**, cuando la ley la exija). Además deben tener la **habilitación empresarial o profesional** exigible para la prestación.",
+     "¿Qué tres cosas debe reunir quien quiere contratar con el sector público?"
+    ],
+    [
+     "lcsp",
+     "66",
+     "Personas jurídicas como contratistas",
+     "Las personas jurídicas **solo pueden ser adjudicatarias de contratos cuyas prestaciones estén dentro de sus fines, objeto o ámbito de actividad**, según sus **estatutos o reglas fundacionales**. Quienes concurran a una **concesión de obras o de servicios** pueden comprometerse a **constituir una sociedad** que será la titular de la concesión.",
+     "¿Qué prestaciones pueden contratar las personas jurídicas?"
+    ],
+    [
+     "lcsp",
+     "67",
+     "Empresas comunitarias o del Espacio Económico Europeo",
+     "Tienen **capacidad para contratar con el sector público, en todo caso**, las empresas **no españolas de Estados de la Unión Europea o del Espacio Económico Europeo** que, según la ley de su Estado, estén **habilitadas para realizar la prestación**. Si su Estado exige **autorización especial** o **pertenecer a una organización**, deben acreditarlo.",
+     "¿Pueden contratar con el sector público las empresas de otro Estado de la UE?"
+    ],
+    [
+     "lcsp",
+     "68",
+     "Empresas no comunitarias",
+     "Las empresas de **Estados que no son de la UE ni del EEE** deben justificar, **mediante informe**, que su Estado **admite a empresas españolas** en contratos públicos de forma análoga (**informe de reciprocidad**, elaborado por la **Oficina Económica y Comercial de España en el exterior**). El pliego puede exigir a las adjudicatarias de **obras** que **abran sucursal en España** con apoderados y **estén inscritas en el Registro Mercantil**.",
+     "¿Qué informe deben aportar las empresas no comunitarias para contratar con el sector público?"
+    ],
+    [
+     "lcsp",
+     "69",
+     "Uniones de empresarios",
+     "Pueden contratar las **uniones de empresarios constituidas temporalmente al efecto**; **no hace falta escritura pública** hasta que se les **adjudique** el contrato. Quedan **obligados solidariamente** y deben nombrar un **representante o apoderado único**. Al licitar, indican **nombres, circunstancias y participación** de cada uno y se **comprometen a constituirse formalmente** si resultan adjudicatarios. Su **duración** coincide, al menos, con la del contrato.",
+     "¿Cuándo es necesario formalizar en escritura pública una unión temporal de empresarios?"
+    ],
+    [
+     "lcsp",
+     "70",
+     "Condiciones especiales de compatibilidad",
+     "El órgano de contratación debe **garantizar que no se falsea la competencia** cuando participan en la licitación empresas que **ayudaron a preparar el contrato** (especificaciones técnicas o asesoramiento). Puede **excluirlas** si no hay otro medio de asegurar la **igualdad de trato**, pero **antes** debe darles **audiencia** para justificar que su participación no falsea la competencia.",
+     "¿Qué trámite hay que dar antes de excluir a una empresa que participó en la preparación del contrato?"
+    ],
+    [
+     "lcsp",
+     "71",
+     "Prohibiciones de contratar",
+     "No pueden contratar con el sector público quienes: **a)** hayan sido condenados por sentencia firme por **delitos graves** (terrorismo, corrupción, cohecho, fraudes, blanqueo, delitos contra la Hacienda Pública o contra los derechos de los trabajadores…); **b)** hayan sido **sancionados con carácter firme** por infracciones graves en materia profesional, laboral, medioambiental, etc.; **c)** estén en **concurso o insolventes**; **d)** **no estén al corriente** de sus obligaciones **tributarias o de Seguridad Social**, o no cumplan la **reserva del 2 %** de personas con discapacidad (empresas de 50 o más trabajadores); **e)** hayan incurrido en **falsedad** al presentar la declaración responsable; entre otras.",
+     "¿Qué prohibición de contratar afecta a quien no está al corriente de sus obligaciones con Hacienda o la Seguridad Social?"
+    ],
+    [
+     "lcsp",
+     "72",
+     "Apreciación de la prohibición de contratar",
+     "Las prohibiciones de las letras **c), d), f), g) y h)** del art. 71 las aprecian **directamente los órganos de contratación**, mientras concurran las circunstancias. Las de las letras **a) y b)** también, **si la sentencia o resolución fija su alcance y duración**; si no, hace falta un **procedimiento instruido al efecto**. Su competencia corresponde, con carácter general, al **Ministro de Hacienda y Función Pública**, previa propuesta de la **Junta Consultiva de Contratación Pública del Estado**, o a los órganos de las Comunidades Autónomas.",
+     "¿Quién aprecia directamente la prohibición de contratar por no estar al corriente de las obligaciones tributarias?"
+    ],
+    [
+     "lcsp",
+     "73",
+     "Efectos de la prohibición de contratar",
+     "Si la prohibición la declara **el órgano de contratación**, afecta a **su ámbito** y puede **extenderse al sector público** correspondiente. Cuando la declara el **Ministro de Hacienda y Función Pública**, produce efectos en **todo el sector público**. Las prohibiciones (salvo las de las letras c, d, g y h del art. 71) se **inscriben** en el **Registro Oficial de Licitadores y Empresas Clasificadas**, y la inscripción **caduca a los 3 meses** de que termine su duración.",
+     "¿A los cuántos meses de terminar su duración caduca la inscripción de una prohibición de contratar?"
+    ],
+    [
+     "lcsp",
+     "99",
+     "Objeto del contrato, fraccionamiento y lotes",
+     "El objeto del contrato debe ser **determinado**. **No se puede fraccionar** un contrato para **reducir su cuantía** y eludir la **publicidad** o el **procedimiento de adjudicación**. Siempre que la naturaleza lo permita se prevé **dividir en lotes**; puede no dividirse si hay **motivos válidos justificados** en el expediente (salvo en las **concesiones de obras**).",
+     "¿Se puede fraccionar un contrato para eludir los requisitos de publicidad?"
+    ],
+    [
+     "lcsp",
+     "100",
+     "Presupuesto base de licitación",
+     "Es el **límite máximo de gasto** que el contrato puede comprometer, **incluido el IVA**, salvo disposición en contrario. Debe ser **adecuado a los precios de mercado** y **desglosarse** en el pliego (costes directos, indirectos y otros gastos), con los **costes salariales** desagregados por **género y categoría profesional** cuando proceda.",
+     "¿Incluye el IVA el presupuesto base de licitación?"
+    ],
+    [
+     "lcsp",
+     "101",
+     "Valor estimado del contrato",
+     "En obras, suministros y servicios es el **importe total pagadero, sin IVA**, según las estimaciones del órgano de contratación. En las **concesiones**, es el **importe neto de la cifra de negocios**, sin IVA, que generará el concesionario. Debe incluir, como mínimo, **costes laborales, gastos generales de estructura y beneficio industrial**, además de **opciones eventuales, prórrogas, primas y modificaciones previstas**.",
+     "¿Incluye el IVA el valor estimado del contrato?"
+    ],
+    [
+     "lcsp",
+     "102",
+     "Precio del contrato",
+     "Los contratos del sector público tienen **siempre un precio cierto**, que se abona **según la prestación realmente ejecutada** y lo pactado. El **IVA** se indica como **partida independiente**. Como regla general el precio se expresa **en euros**, aunque puede pagarse parte en **otra moneda** si el contrato lo prevé. El órgano de contratación cuida de que el precio sea **adecuado** a los precios de mercado.",
+     "¿Cómo debe ser el precio de los contratos del sector público?"
     ]
    ]
   },
@@ -7460,6 +7565,261 @@
     "hard": "pos",
     "src": "t09-134",
     "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos que celebren los poderes adjudicadores, salvo excepciones, se perfeccionan:",
+   [
+    "Con su formalización",
+    "Con su adjudicación",
+    "Con la publicación del anuncio de licitación"
+   ],
+   0,
+   "Art. 36 · Ley 9/2017 (LCSP): Regla general (apartado 1): se perfeccionan con la formalización. Solo los basados en un acuerdo marco y los específicos de un sistema dinámico de adquisición se perfeccionan con la adjudicación.",
+   "lcsp 36",
+   "Formalización o adjudicación",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las entidades del sector público no podrán contratar verbalmente, salvo que el contrato tenga carácter de:",
+   [
+    "Emergencia",
+    "Contrato menor",
+    "Urgencia ordinaria"
+   ],
+   0,
+   "Art. 37 · Ley 9/2017 (LCSP): No pueden contratar verbalmente, salvo el contrato de emergencia (art. 120.1). El contrato menor tiene su propia regla de formalización (art. 118), pero no autoriza la contratación verbal.",
+   "lcsp 37",
+   "Emergencia, no menor",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, solo podrán contratar con el sector público las personas con plena capacidad de obrar que:",
+   [
+    "No estén incursas en prohibición de contratar y acrediten su solvencia (o clasificación, si se exige)",
+    "Estén inscritas en el Registro Mercantil y hayan contratado antes con la Administración",
+    "Sean de nacionalidad española o de un Estado de la Unión Europea, con independencia de su solvencia"
+   ],
+   0,
+   "Art. 65 · Ley 9/2017 (LCSP): Art. 65.1: capacidad de obrar, ausencia de prohibición de contratar y solvencia (o clasificación). También pueden contratar empresas extranjeras, y la inscripción mercantil o la experiencia previa no son requisitos generales.",
+   "lcsp 65",
+   "Requisitos inventados",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de:",
+   [
+    "Sus fines, objeto o ámbito de actividad según sus estatutos o reglas fundacionales",
+    "Cualquier actividad que no esté expresamente prohibida por la Ley",
+    "El ámbito geográfico de su domicilio social, sin atender a sus estatutos"
+   ],
+   0,
+   "Art. 66 · Ley 9/2017 (LCSP): Art. 66.1: debe coincidir con los fines, objeto o ámbito de actividad que les sean propios según estatutos o reglas fundacionales.",
+   "lcsp 66",
+   "Estatutos",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tienen capacidad para contratar con el sector público, en todo caso, las empresas no españolas de Estados miembros de la Unión Europea o del Espacio Económico Europeo que:",
+   [
+    "Estén habilitadas para realizar la prestación según la legislación del Estado donde estén establecidas",
+    "Presenten un informe de reciprocidad de la Oficina Económica y Comercial de España",
+    "Abran una sucursal en España inscrita en el Registro Mercantil"
+   ],
+   0,
+   "Art. 67 · Ley 9/2017 (LCSP): Art. 67.1. El informe de reciprocidad (art. 68) y la sucursal en España se exigen a las empresas no comunitarias, no a las comunitarias.",
+   "lcsp 67",
+   "Comunitarias vs. no comunitarias",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las empresas de Estados no pertenecientes a la UE ni al EEE deben justificar mediante informe que:",
+   [
+    "Su Estado de origen admite a su vez la participación de empresas españolas en forma sustancialmente análoga",
+    "Su Estado de origen tiene firmado un convenio de doble imposición con España",
+    "Cuentan con una filial constituida previamente en un Estado miembro de la Unión Europea"
+   ],
+   0,
+   "Art. 68 · Ley 9/2017 (LCSP): Art. 68.1: es el informe de reciprocidad, elaborado por la Oficina Económica y Comercial de España en el exterior. En los contratos SARA se prescinde de él para los Estados del Acuerdo sobre Contratación Pública de la OMC.",
+   "lcsp 68",
+   "Reciprocidad",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las uniones temporales de empresarios podrán contratar con el sector público sin que sea necesaria su formalización en escritura pública hasta que:",
+   [
+    "Se haya efectuado la adjudicación del contrato a su favor",
+    "Se presente la oferta en la licitación",
+    "Se firme el acta de recepción del contrato"
+   ],
+   0,
+   "Art. 69 · Ley 9/2017 (LCSP): Art. 69.1: la escritura pública solo es necesaria tras la adjudicación. Sus miembros quedan obligados solidariamente (art. 69.3).",
+   "lcsp 69",
+   "Adjudicación",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, antes de excluir al licitador que participó en la preparación del contrato, el órgano de contratación debe:",
+   [
+    "Darle audiencia para que justifique que su participación no puede falsear la competencia",
+    "Solicitar informe previo de la Junta Consultiva de Contratación Pública",
+    "Declarar la prohibición de contratar mediante resolución del Ministro de Hacienda"
+   ],
+   0,
+   "Art. 70 · Ley 9/2017 (LCSP): Art. 70.1: audiencia previa. La exclusión no es una prohibición de contratar y no requiere intervención del Ministro.",
+   "lcsp 70",
+   "Audiencia previa",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no podrán contratar con las entidades del sector público, entre otros, quienes:",
+   [
+    "No se hallen al corriente en el cumplimiento de sus obligaciones tributarias o de Seguridad Social",
+    "Hayan sido sancionados con carácter leve en materia de extranjería",
+    "Hayan presentado una oferta con valores anormales o desproporcionados"
+   ],
+   0,
+   "Art. 71 · Ley 9/2017 (LCSP): Art. 71.1.d). Las infracciones leves no generan prohibición: solo las graves o muy graves de la letra b). Una oferta anormalmente baja se trata en el art. 149, no como prohibición.",
+   "lcsp 71",
+   "Infracciones graves o muy graves, no leves",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las prohibiciones de contratar de las letras c), d), f), g) y h) del apartado 1 del artículo 71 se apreciarán:",
+   [
+    "Directamente por los órganos de contratación, subsistiendo mientras concurran las circunstancias",
+    "Siempre mediante procedimiento instruido por el Ministro de Hacienda y Función Pública",
+    "Por el Tribunal de Cuentas, previa solicitud del órgano de contratación"
+   ],
+   0,
+   "Art. 72 · Ley 9/2017 (LCSP): Art. 72.1: la aprecia directamente el órgano de contratación y subsiste mientras concurran las circunstancias que la determinan.",
+   "lcsp 72",
+   "Directamente por el órgano de contratación",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la inscripción de la prohibición de contratar en el Registro de Licitadores correspondiente caducará pasados, desde que termine su duración:",
+   [
+    "3 meses",
+    "6 meses",
+    "1 año"
+   ],
+   0,
+   "Art. 73 · Ley 9/2017 (LCSP): Art. 73.2: caduca a los 3 meses, debiendo cancelarse de oficio.",
+   "lcsp 73",
+   "3 meses",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no podrá fraccionarse un contrato con la finalidad de:",
+   [
+    "Disminuir su cuantía y eludir los requisitos de publicidad o de procedimiento de adjudicación",
+    "Facilitar la participación de las pequeñas y medianas empresas mediante lotes",
+    "Reservar lotes a centros especiales de empleo o empresas de inserción"
+   ],
+   0,
+   "Art. 99 · Ley 9/2017 (LCSP): Art. 99.2. La división en lotes (art. 99.3) es lícita y recomendable; lo prohibido es fraccionar para eludir requisitos.",
+   "lcsp 99",
+   "Fraccionar vs. dividir en lotes",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se entiende por presupuesto base de licitación el límite máximo de gasto que, en virtud del contrato, puede comprometer el órgano de contratación:",
+   [
+    "Incluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario",
+    "Sin incluir el Impuesto sobre el Valor Añadido en ningún caso",
+    "Incluido el IVA y las eventuales prórrogas y modificaciones previstas"
+   ],
+   0,
+   "Art. 100 · Ley 9/2017 (LCSP): Art. 100.1. El valor estimado (art. 101) es el que excluye el IVA y suma prórrogas y modificaciones.",
+   "lcsp 100",
+   "Con IVA (presupuesto) / sin IVA (valor estimado)",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los contratos de obras, suministros y servicios, el valor estimado es el importe total pagadero según las estimaciones del órgano de contratación:",
+   [
+    "Sin incluir el Impuesto sobre el Valor Añadido",
+    "Incluido el Impuesto sobre el Valor Añadido",
+    "Incluido el IVA, pero sin tener en cuenta las prórrogas"
+   ],
+   0,
+   "Art. 101 · Ley 9/2017 (LCSP): Art. 101.1.a). Se calculan sin IVA e incluyen prórrogas, opciones, primas y modificaciones previstas.",
+   "lcsp 101",
+   "Sin IVA (a diferencia del presupuesto base de licitación)",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos del sector público tendrán siempre un precio:",
+   [
+    "Cierto, que se abonará en función de la prestación realmente ejecutada y de acuerdo con lo pactado",
+    "Estimado, que se abonará íntegramente al formalizar el contrato",
+    "Variable, fijado libremente por el contratista tras la adjudicación"
+   ],
+   0,
+   "Art. 102 · Ley 9/2017 (LCSP): Art. 102.1: precio cierto, pagado según la prestación realmente ejecutada. El IVA se indica como partida independiente.",
+   "lcsp 102",
+   "Precio cierto",
+   "",
+   [],
+   {
+    "nuevo": 1
    }
   ]
  ]

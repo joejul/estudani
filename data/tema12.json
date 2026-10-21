@@ -324,6 +324,13 @@
     ],
     [
      "trlrhl",
+     "48 bis",
+     "Principio de prudencia financiera",
+     "Todas las **operaciones financieras** de las Corporaciones Locales están sujetas al **principio de prudencia financiera**: el conjunto de condiciones que deben cumplir para **minimizar su riesgo y coste**. Son financieras las que tienen por objeto **activos financieros**, **pasivos financieros** (deudas, créditos, derivados…) y la **concesión de avales, reavales y otras garantías públicas**. Las condiciones las fijan **resoluciones de la Secretaría General del Tesoro y Política Financiera** (pasivos) y de la **Secretaría General de Coordinación Autonómica y Local** (activos y avales).",
+     "¿Qué persigue el principio de prudencia financiera?"
+    ],
+    [
+     "trlrhl",
      "49",
      "Finalidad, instrumentos y garantías del crédito local",
      "Para **financiar inversiones** (o sustituir operaciones) se puede acudir al **crédito a largo plazo**. Se instrumenta mediante **emisión pública de deuda, préstamos o créditos, otra apelación al crédito y conversión o sustitución**. La **deuda local** goza de los **mismos beneficios que la deuda del Estado**. En casos excepcionales (arts. 177.5 y 193.2) solo **préstamos con entidades financieras**.",
@@ -370,6 +377,20 @@
      "Central de información de riesgos de las entidades locales",
      "El **Ministerio de Hacienda** mantiene una **central de riesgos** con información sobre las **operaciones de crédito de las entidades locales** y sus cargas financieras. Las entidades financieras y las Administraciones **remiten los datos**; el **Banco de España colabora**; las corporaciones informan del resto de su **endeudamiento**.",
      "¿Qué organismo mantiene la central de riesgos del endeudamiento local?"
+    ],
+    [
+     "trlrhl",
+     "128",
+     "Prestaciones personales y de transporte: normas comunes",
+     "Los **ayuntamientos con población de derecho no superior a 5.000 habitantes** pueden imponer las **prestaciones personal y de transporte** para obras de su competencia (o cedidas o transferidas). Son **compatibles entre sí**. La **falta de concurrencia sin redención previa**, salvo fuerza mayor, obliga a pagar **el importe más una sanción de la misma cuantía**, por **vía ejecutiva**. Los períodos **no deben coincidir con la época de mayor actividad laboral**.",
+     "¿Qué ayuntamientos pueden imponer las prestaciones personal y de transporte?"
+    ],
+    [
+     "trlrhl",
+     "130",
+     "Prestaciones de transporte",
+     "La obligación es **general, sin excepción**, para todas las personas físicas o jurídicas, **residentes o no** en el municipio, con **elementos de transporte en el término municipal** afectos a **explotaciones empresariales radicadas en este**. Puede **reducirse a metálico** (tres veces el salario mínimo interprofesional). **Vehículos de tracción mecánica:** máximo **5 días al año, no consecutivos**. **Resto:** máximo **10 días al año y no más de dos consecutivos**.",
+     "¿Cuántos días al año como máximo dura la prestación de transporte con vehículos de tracción mecánica?"
     ]
    ]
   },
@@ -7631,6 +7652,57 @@
     "neg": 1,
     "hard": "neg",
     "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 bis de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, se entiende por prudencia financiera el conjunto de condiciones que deben cumplir las operaciones financieras para:",
+   [
+    "Minimizar su riesgo y coste",
+    "Maximizar su rentabilidad a corto plazo",
+    "Garantizar su amortización en el mismo ejercicio presupuestario"
+   ],
+   0,
+   "Art. 48 bis · RDLeg 2/2004 (TRLRHL): Art. 48 bis.1: todas las operaciones financieras de las Corporaciones Locales están sujetas a este principio; busca minimizar riesgo y coste.",
+   "trlrhl 48 bis",
+   "Minimizar riesgo y coste",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 128 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, los ayuntamientos podrán imponer la prestación personal y de transporte para obras de su competencia cuando su población de derecho no sea superior a:",
+   [
+    "5.000 habitantes",
+    "20.000 habitantes",
+    "1.000 habitantes"
+   ],
+   0,
+   "Art. 128 · RDLeg 2/2004 (TRLRHL): Art. 128.1: ayuntamientos de hasta 5.000 habitantes de derecho.",
+   "trlrhl 128",
+   "5.000 habitantes",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la prestación de transportes con vehículos de tracción mecánica no excederá de:",
+   [
+    "Cinco días al año, sin que pueda ser consecutivo ninguno de ellos",
+    "Diez días al año, sin que puedan ser consecutivos más de dos",
+    "Quince días al año, consecutivos o no"
+   ],
+   0,
+   "Art. 130 · RDLeg 2/2004 (TRLRHL): Art. 130.2: tracción mecánica, 5 días al año no consecutivos; en los demás casos, 10 días al año y no más de dos consecutivos.",
+   "trlrhl 130",
+   "5 días (mecánica) / 10 días (resto)",
+   "",
+   [],
+   {
+    "nuevo": 1
    }
   ]
  ]

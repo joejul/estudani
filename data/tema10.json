@@ -558,6 +558,27 @@
      }
     ],
     [
+     "l7-1999",
+     "181",
+     "Adscripción y aportación de bienes a organismos y sociedades",
+     "Las entidades locales pueden **adscribir directamente** a sus **organismos autónomos** los bienes necesarios para sus fines; esos bienes **conservan su calificación jurídica originaria** y el organismo **no adquiere la propiedad** (solo facultades de conservación y utilización). También pueden **aportar bienes patrimoniales y derechos**, previa **valoración técnica**, a las **sociedades** creadas por ellas o en las que participen.",
+     "¿Adquieren la propiedad los organismos autónomos de los bienes que se les adscriben?"
+    ],
+    [
+     "l7-1999",
+     "191",
+     "Montes propiedad de las entidades locales",
+     "Las entidades locales pueden **explotar sus montes** y realizan su **conservación y fomento**, según la **legislación sobre montes y aprovechamientos forestales**. Les corresponde la **repoblación forestal, ordenación y mejora**, con **intervención de la Diputación General de Aragón** en los planes y trabajos. Pueden suscribir **acuerdos y convenios** con la DGA para mejorarlos.",
+     "¿A quién corresponde la repoblación forestal de los montes de propiedad local?"
+    ],
+    [
+     "l7-1999",
+     "192",
+     "Fomento de la reforestación",
+     "Se pueden **ceder en uso parcelas** del patrimonio municipal **no catalogadas de utilidad pública** a **vecinos** para **plantar arbolado** en explotación directa, **aunque dure más de diez años**. La cesión la acuerda el **Pleno por mayoría absoluta** del número legal. Los cesionarios se hacen **dueños del arbolado** y durante los **primeros cinco años** pueden **acotar** las parcelas.",
+     "¿Qué mayoría exige ceder parcelas a vecinos para plantar arbolado?"
+    ],
+    [
      "rbaso",
      "72",
      "Modalidades de utilización de los bienes de dominio público",
@@ -1061,6 +1082,13 @@
      {
       "add": 1
      }
+    ],
+    [
+     "rbaso",
+     "16",
+     "Títulos de adquisición de bienes",
+     "Las entidades locales pueden **adquirir bienes y derechos por cualquier título, oneroso o lucrativo**, de derecho público o privado. En particular: **atribución legal**; **contrato, expropiación, tanteo y retracto** (onerosos); **herencia, legado o donación**; **cesión urbanística**; **prescripción**; **ocupación**; **sucesión administrativa**; y **cualquier otro modo legítimo**.",
+     "¿Qué títulos permiten a una entidad local adquirir bienes?"
     ]
    ]
   },
@@ -1185,6 +1213,27 @@
      {
       "add": 1
      }
+    ],
+    [
+     "l7-1999",
+     "182",
+     "Aprovechamiento de bienes de uso y servicio público",
+     "El uso de los bienes de uso público puede ser **común (general o especial)** o **privativo**. El **uso común general** lo ejerce **libremente cualquier ciudadano**. El **uso común especial** (intensidad, peligrosidad…) **puede sujetarse a licencia**, **temporal y revocable por razones de interés público**. El **uso privativo** ocupa una porción del dominio público **excluyendo o limitando a otros**: exige **concesión** si hay **instalaciones fijas y permanentes**; si no, basta **licencia**. Los bienes de **servicio público** se rigen por el **reglamento del servicio**.",
+     "¿Cuándo exige concesión el uso privativo de un bien de uso público?"
+    ],
+    [
+     "rbaso",
+     "81",
+     "Usos sujetos a concesión",
+     "Están sujetos a **concesión administrativa**: **a)** la **utilización privativa normal** de los bienes de dominio y uso público cuando requiera **obras o instalaciones de carácter permanente**; **b)** la **utilización anormal** de los bienes.",
+     "¿Qué usos de los bienes de dominio público están sujetos a concesión?"
+    ],
+    [
+     "rbaso",
+     "83",
+     "Procedimiento y plazo de la concesión",
+     "La concesión exige un **procedimiento** en el que consten sus **cláusulas** y se otorga **previa licitación**, conforme a este Reglamento y a la **normativa de contratación** de las Administraciones Públicas. Su **plazo máximo es de cincuenta años**, salvo que disposiciones especiales fijen uno menor.",
+     "¿Cuál es el plazo máximo de una concesión sobre bienes de dominio público?"
     ]
    ]
   },
@@ -1379,10 +1428,10 @@
     ],
     [
      "l33-2003",
-     "55",
-     "Recuperación de oficio",
-     "Las Administraciones recuperan por sí mismas la posesión perdida: los bienes **demaniales** en **cualquier tiempo**; los **patrimoniales**, si el procedimiento se notifica **dentro del año** siguiente a la usurpación.",
-     "¿Qué plazo hay para recuperar de oficio un bien patrimonial usurpado?",
+     "45",
+     "Investigación",
+     "Facultad de **investigar** la situación de bienes que presumiblemente son de la Administración para determinar su titularidad cuando no le conste de modo cierto.",
+     "¿Para qué sirve la potestad de investigación?",
      {
       "add": 1
      }
@@ -1399,10 +1448,10 @@
     ],
     [
      "l33-2003",
-     "45",
-     "Investigación",
-     "Facultad de **investigar** la situación de bienes que presumiblemente son de la Administración para determinar su titularidad cuando no le conste de modo cierto.",
-     "¿Para qué sirve la potestad de investigación?",
+     "55",
+     "Recuperación de oficio",
+     "Las Administraciones recuperan por sí mismas la posesión perdida: los bienes **demaniales** en **cualquier tiempo**; los **patrimoniales**, si el procedimiento se notifica **dentro del año** siguiente a la usurpación.",
+     "¿Qué plazo hay para recuperar de oficio un bien patrimonial usurpado?",
      {
       "add": 1
      }
@@ -1446,6 +1495,27 @@
      {
       "add": 1
      }
+    ],
+    [
+     "rbaso",
+     "47",
+     "Prerrogativas sobre los bienes",
+     "Respecto de sus bienes, las entidades locales gozan de cinco potestades: **investigación**, **deslinde**, **recuperación de oficio**, **desahucio administrativo** y **sancionadora**.",
+     "¿Cuáles son las prerrogativas de las entidades locales sobre sus bienes?"
+    ],
+    [
+     "rbaso",
+     "62",
+     "Recuperación de la posesión",
+     "Las entidades locales aragonesas pueden recuperar **por sí mismas** la posesión de sus **bienes de dominio público en cualquier momento**. Los **bienes patrimoniales** solo en el plazo de **un año** desde el día siguiente a la usurpación; después deben acudir a los **tribunales ordinarios**. No se admiten demandas de **tutela sumaria** de la posesión contra la recuperación ajustada al procedimiento (salvo **vía de hecho**).",
+     "¿En qué plazo pueden recuperar de oficio la posesión de un bien patrimonial usurpado?"
+    ],
+    [
+     "rbaso",
+     "64",
+     "Desahucio administrativo",
+     "Cuando se **extingan los derechos** constituidos sobre bienes de dominio público (**autorización, concesión** u otro título), las entidades locales pueden **recuperar la posesión por vía administrativa**, con sus **facultades coercitivas**, mediante el **desahucio administrativo**.",
+     "¿Qué potestad permite recuperar un bien demanial cuando se extingue la concesión?"
     ]
    ]
   },
@@ -1604,6 +1674,20 @@
      {
       "add": 1
      }
+    ],
+    [
+     "l7-1999",
+     "180",
+     "Desafectación de comunales para su cesión",
+     "Para **desafectar bienes comunales** y luego **transmitirlos** (a título oneroso o gratuito) o **permutarlos** hace falta: **acuerdo inicial motivado** (interés municipal), **información pública de un mes**, resolución de reclamaciones y **aprobación provisional por dos tercios del número legal** de miembros de la Corporación, más **aprobación del Gobierno de Aragón** con declaración de **utilidad pública o social**. Los mismos requisitos valen para **ceder el uso** a otra Administración o entidad sin ánimo de lucro. Siempre debe incluirse una **cláusula de reversión**.",
+     "¿Qué mayoría exige la desafectación de comunales para su posterior cesión?"
+    ],
+    [
+     "l7-1999",
+     "183",
+     "Aprovechamiento de los bienes comunales",
+     "Las entidades locales **velan por la producción, mejora y aprovechamiento** de los comunales. El disfrute se hace **preferentemente en régimen de explotación colectiva o comunal**. Si no es posible, rige la **costumbre u ordenanza local** y, en su defecto, **lotes o suertes** a los vecinos, **en proporción directa al número de familiares a cargo e inversa a su situación económica**. Si es imposible, el **Gobierno de Aragón** puede autorizar la **subasta** con preferencia de los vecinos en igualdad de condiciones.",
+     "¿Qué régimen es preferente para el aprovechamiento de los bienes comunales?"
     ]
    ]
   },
@@ -1819,6 +1903,69 @@
      {
       "add": 1
      }
+    ],
+    [
+     "l7-1999",
+     "184",
+     "Utilización de los bienes patrimoniales",
+     "Las entidades locales **regulan la utilización de sus bienes patrimoniales con criterios de rentabilidad**, directamente o mediante **convenio con particulares**. Pueden hacer prevalecer la **rentabilidad social sobre la económica** cuando el bien se destine a **servicios sociales, actividades culturales y deportivas** y análogas, y **ceder su uso**, gratuitamente o con contraprestación, a **otras Administraciones o entidades sin ánimo de lucro**. El acuerdo debe fijar la **finalidad**, el **plazo** o el **carácter precario**.",
+     "¿Qué criterio general rige la utilización de los bienes patrimoniales?"
+    ],
+    [
+     "l7-1999",
+     "185",
+     "Regulación de aprovechamientos específicos",
+     "Mediante **ordenanza**, las entidades locales pueden establecer un **régimen específico** de los aprovechamientos de sus bienes (**micológicos, plantas aromáticas, caza, pastos…**), sin perjuicio de la **legislación sectorial**. Puede consistir en el **acotado de terrenos** y en la **regulación del acceso**. También pueden **convenir con otras Administraciones y particulares** la inclusión de terrenos de su propiedad.",
+     "¿Mediante qué norma regulan las entidades locales los aprovechamientos micológicos o de caza de sus bienes?"
+    ],
+    [
+     "l7-1999",
+     "186",
+     "Tutela sobre los actos de disposición",
+     "**Toda enajenación, gravamen o permuta de inmuebles** debe **comunicarse a la Diputación General de Aragón**. Si su valor **excede del 25 %** de los **recursos ordinarios del presupuesto anual**, requiere **aprobación de la Administración de la Comunidad Autónoma**. En toda enajenación o cesión hace falta **informe pericial previo** que acredite la valoración.",
+     "¿A partir de qué porcentaje de los recursos ordinarios necesita aprobación autonómica la enajenación de inmuebles?"
+    ],
+    [
+     "l7-1999",
+     "187",
+     "Cesiones gratuitas",
+     "Los **inmuebles patrimoniales no pueden cederse gratuitamente**, salvo a **entidades o instituciones públicas** e **instituciones privadas de interés público sin ánimo de lucro**, siempre que los fines **redunden en beneficio de los habitantes** del término municipal. La cesión debe hacerse para una **finalidad concreta**, con **plazo** para llevarla a cabo, y la **reversión es automática** si se incumple o no se usa.",
+     "¿Qué ocurre si el cesionario incumple la finalidad de una cesión gratuita de bienes patrimoniales?"
+    ],
+    [
+     "l7-1999",
+     "188",
+     "Enajenación de bienes patrimoniales onerosa",
+     "Regla general: **subasta pública**, salvo **permuta** u otros supuestos legales. Las **parcelas sobrantes** y los **bienes no utilizables** pueden **venderse directamente**, según **valoración pericial**. La cesión de bienes del **patrimonio municipal del suelo** sigue su **normativa específica**. Las **viviendas de promoción pública** se adjudican por su normativa específica con **criterios sociales**.",
+     "¿Cuál es el procedimiento general para enajenar bienes patrimoniales a título oneroso?"
+    ],
+    [
+     "l7-1999",
+     "189",
+     "Permutas de bienes patrimoniales",
+     "La **permuta** de bienes patrimoniales exige **expediente** que acredite la **necesidad o conveniencia** y la **equivalencia de valores**. Puede hacerse aunque la **diferencia de valores no supere el 50 %** del bien de **mayor valor**, con **compensación económica**. Se puede permutar un bien presente por **bienes futuros** determinables, con **garantías** y un **plazo** para consumar el contrato.",
+     "¿Qué diferencia máxima de valor permite una permuta con compensación económica?"
+    ],
+    [
+     "l7-1999",
+     "190",
+     "Enajenaciones de bienes históricos o artísticos",
+     "Para **enajenar o gravar monumentos, edificios u objetos de índole artística o histórica** es necesario **informe previo del órgano estatal o autonómico competente**, según la **legislación sobre patrimonio histórico y artístico**.",
+     "¿Qué informe es necesario para enajenar un bien histórico o artístico de una entidad local?"
+    ],
+    [
+     "rbaso",
+     "109",
+     "Procedimiento de enajenación",
+     "Las enajenaciones de **bienes patrimoniales** se realizan, como regla general, por **subasta pública**, salvo **permuta** u otros supuestos legales. Las **parcelas sobrantes** y los **bienes no utilizables** pueden **venderse directamente**, con **valoración pericial**. Las parcelas sobrantes se **ofrecen a los propietarios colindantes** o se **permutan** con sus terrenos.",
+     "¿A quién se ofrecen primero las parcelas sobrantes?"
+    ],
+    [
+     "rbaso",
+     "110",
+     "Destino de los ingresos por enajenación",
+     "Los ingresos de la **enajenación de bienes patrimoniales** **no pueden financiar gastos corrientes**, salvo que procedan de **parcelas sobrantes** o **efectos no utilizables** (art. 5 del Reglamento).",
+     "¿Pueden financiar gastos corrientes los ingresos por enajenar bienes patrimoniales?"
     ]
    ]
   }
@@ -8376,6 +8523,363 @@
     "hard": "pos",
     "src": "t10-067",
     "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 180 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la desafectación de bienes comunales para su posterior transmisión requiere, entre otros trámites, aprobación provisional por mayoría de:",
+   [
+    "Los dos tercios del número legal de miembros de la Corporación",
+    "La mayoría simple de los miembros presentes",
+    "La mayoría absoluta del número legal de miembros de la Corporación"
+   ],
+   0,
+   "Art. 180 · Ley 7/1999 (Aragón): Art. 180.1: información pública de un mes, aprobación provisional por dos tercios del número legal y aprobación del Gobierno de Aragón.",
+   "l7-1999 180",
+   "Dos tercios, no mayoría absoluta",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 181 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, los bienes y derechos que las entidades locales adscriben a sus organismos autónomos:",
+   [
+    "Conservan la calificación jurídica originaria y el organismo no adquiere su propiedad",
+    "Pasan a ser propiedad del organismo autónomo desde la adscripción",
+    "Se transforman en bienes patrimoniales del organismo autónomo"
+   ],
+   0,
+   "Art. 181 · Ley 7/1999 (Aragón): Art. 181.1: la adscripción no transmite la propiedad; el organismo solo recibe facultades de conservación y utilización.",
+   "l7-1999 181",
+   "Adscribir no es transmitir la propiedad",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 182 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, el uso privativo de bienes de uso público estará sujeto a concesión administrativa cuando:",
+   [
+    "Requiera la implantación de instalaciones fijas y permanentes",
+    "Se ejerza por un periodo superior a un año",
+    "Lo solicite una entidad sin ánimo de lucro"
+   ],
+   0,
+   "Art. 182 · Ley 7/1999 (Aragón): Art. 182.4: concesión si hay instalaciones fijas y permanentes; en otro caso puede bastar la licencia.",
+   "l7-1999 182",
+   "Concesión (instalaciones permanentes) / licencia",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 183 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, el aprovechamiento y disfrute de los bienes comunales se efectuará preferentemente:",
+   [
+    "En régimen de explotación colectiva o comunal",
+    "Mediante subasta pública entre los vecinos",
+    "Mediante adjudicación directa a los vecinos de mayor antigüedad en el padrón"
+   ],
+   0,
+   "Art. 183 · Ley 7/1999 (Aragón): Art. 183.2: explotación colectiva o comunal. Los lotes (183.3) y la subasta autorizada por el Gobierno de Aragón (183.4) son subsidiarios.",
+   "l7-1999 183",
+   "Colectivo antes que lotes o subasta",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 184 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la utilización de los bienes patrimoniales de las entidades locales se regula, con carácter general, de acuerdo con criterios de:",
+   [
+    "Rentabilidad",
+    "Uso público general y gratuito",
+    "Antigüedad en el padrón de los solicitantes"
+   ],
+   0,
+   "Art. 184 · Ley 7/1999 (Aragón): Art. 184.1: rentabilidad. Solo excepcionalmente pueden prevalecer motivos de rentabilidad social (184.3).",
+   "l7-1999 184",
+   "Rentabilidad económica, con excepción social",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 185 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las entidades locales podrán establecer un régimen específico de aprovechamientos de sus bienes, como los micológicos, la caza o los pastos, mediante:",
+   [
+    "Ordenanza",
+    "Decreto del Gobierno de Aragón",
+    "Convenio con el Estado, previa autorización del Pleno"
+   ],
+   0,
+   "Art. 185 · Ley 7/1999 (Aragón): Art. 185.1: mediante ordenanza, sin perjuicio de la legislación sectorial.",
+   "l7-1999 185",
+   "Ordenanza",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 186 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la enajenación, gravamen o permuta de bienes inmuebles requerirá aprobación de la Comunidad Autónoma de Aragón si su valor excede del:",
+   [
+    "25 % de los recursos ordinarios del presupuesto anual de la Corporación",
+    "10 % de los recursos ordinarios del presupuesto anual de la Corporación",
+    "50 % de los recursos ordinarios del presupuesto anual de la Corporación"
+   ],
+   0,
+   "Art. 186 · Ley 7/1999 (Aragón): Art. 186.1: toda enajenación se comunica a la DGA y, si supera el 25 %, requiere aprobación autonómica.",
+   "l7-1999 186",
+   "25 %, no 10 % (operaciones de crédito)",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 187 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en las cesiones gratuitas de bienes inmuebles patrimoniales, en caso de incumplimiento o falta de uso:",
+   [
+    "Se produce la reversión automática",
+    "La cesión se mantiene hasta que el Pleno acuerde su revocación",
+    "El cesionario debe abonar el valor pericial del bien"
+   ],
+   0,
+   "Art. 187 · Ley 7/1999 (Aragón): Art. 187.2: la reversión es automática en caso de incumplimiento o falta de uso.",
+   "l7-1999 187",
+   "Reversión automática",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 188 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, mediante:",
+   [
+    "Subasta pública",
+    "Adjudicación directa al mejor postor invitado",
+    "Concurso con valoración pericial de las ofertas"
+   ],
+   0,
+   "Art. 188 · Ley 7/1999 (Aragón): Art. 188.1: subasta pública, salvo permuta u otros supuestos. Las parcelas sobrantes y los bienes no utilizables pueden venderse directamente (188.2).",
+   "l7-1999 188",
+   "Subasta como regla; venta directa como excepción",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 189 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la permuta de bienes patrimoniales puede efectuarse si la diferencia de valores entre los bienes no es superior al:",
+   [
+    "50 % del bien que tenga el valor más alto, con la compensación económica pertinente",
+    "25 % del bien que tenga el valor más alto, con la compensación económica pertinente",
+    "10 % de los recursos ordinarios del presupuesto de la entidad"
+   ],
+   0,
+   "Art. 189 · Ley 7/1999 (Aragón): Art. 189.1: expediente de necesidad y equivalencia; se admite diferencia hasta el 50 % del valor más alto con compensación económica.",
+   "l7-1999 189",
+   "50 % del valor más alto",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 190 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, para enajenar o gravar monumentos, edificios u objetos de índole artística o histórica es necesario:",
+   [
+    "Informe previo del órgano estatal o autonómico competente en patrimonio histórico y artístico",
+    "Autorización del Consejo de Ministros en todos los casos",
+    "Dictamen del Consejo Consultivo de Aragón"
+   ],
+   0,
+   "Art. 190 · Ley 7/1999 (Aragón): Art. 190: informe previo del órgano estatal o autonómico competente, conforme a la legislación de patrimonio histórico y artístico.",
+   "l7-1999 190",
+   "Informe previo",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 191 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la repoblación forestal, ordenación y mejora de los montes de las entidades locales corresponde:",
+   [
+    "A las propias entidades locales, con intervención de la Diputación General de Aragón en los planes y trabajos",
+    "Exclusivamente a la Diputación General de Aragón",
+    "A las Diputaciones Provinciales, mediante convenio con los municipios"
+   ],
+   0,
+   "Art. 191 · Ley 7/1999 (Aragón): Art. 191.2: corresponde a las entidades locales, con la intervención de la DGA en el ejercicio de sus competencias.",
+   "l7-1999 191",
+   "Entidad local con intervención autonómica",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 192 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la cesión de parcelas a vecinos para plantar arbolado debe acordarse por el Pleno con el voto favorable de:",
+   [
+    "La mayoría absoluta del número legal de miembros de la Corporación",
+    "Los dos tercios del número legal de miembros de la Corporación",
+    "La mayoría simple de los miembros presentes"
+   ],
+   0,
+   "Art. 192 · Ley 7/1999 (Aragón): Art. 192.2: mayoría absoluta del número legal. El uso puede durar más de diez años (192.1).",
+   "l7-1999 192",
+   "Mayoría absoluta",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las Entidades locales pueden adquirir bienes y derechos:",
+   [
+    "Por cualquier título, oneroso o lucrativo, de derecho público o de derecho privado, conforme al ordenamiento jurídico",
+    "Únicamente a título oneroso mediante contrato o expropiación",
+    "Solo por los títulos de atribución legal, herencia o donación"
+   ],
+   0,
+   "Art. 16 · Decreto 347/2002 (RBASO): Art. 16.1 RBASO: cualquier título, oneroso o lucrativo. El apartado 2 enumera, entre otros, expropiación, tanteo y retracto, prescripción y ocupación.",
+   "rbaso 16",
+   "Cualquier título, no solo oneroso",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, entre las prerrogativas de las Entidades locales respecto de sus bienes se encuentran las potestades de:",
+   [
+    "Investigación, deslinde, recuperación de oficio, desahucio administrativo y sancionadora",
+    "Investigación, deslinde, expropiación forzosa, embargo y sancionadora",
+    "Deslinde, recuperación de oficio, desahucio administrativo, tasación y arbitraje"
+   ],
+   0,
+   "Art. 47 · Decreto 347/2002 (RBASO): Art. 47 RBASO enumera cinco potestades: investigación, deslinde, recuperación de oficio, desahucio administrativo y sancionadora.",
+   "rbaso 47",
+   "Cinco potestades",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las Entidades locales podrán recuperar por sí mismas la posesión de sus bienes patrimoniales en el plazo de:",
+   [
+    "Un año desde el día siguiente a la fecha en que se haya producido la usurpación",
+    "Cuatro años desde que tengan conocimiento de la usurpación",
+    "Diez años desde la fecha de la usurpación"
+   ],
+   0,
+   "Art. 62 · Decreto 347/2002 (RBASO): Art. 62.2: un año; pasado ese plazo hay que acudir a los tribunales ordinarios. En los bienes de dominio público pueden hacerlo en cualquier momento (62.1).",
+   "rbaso 62",
+   "Un año (patrimoniales) / cualquier momento (demaniales)",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, cuando se extingan los derechos constituidos sobre bienes de dominio público en virtud de autorización o concesión, las Entidades locales podrán recuperar la posesión:",
+   [
+    "Por vía administrativa, mediante el desahucio administrativo",
+    "Solo mediante demanda ante la jurisdicción civil",
+    "Previa autorización del Gobierno de Aragón"
+   ],
+   0,
+   "Art. 64 · Decreto 347/2002 (RBASO): Art. 64: por vía administrativa, con facultades coercitivas, a través del desahucio administrativo.",
+   "rbaso 64",
+   "Vía administrativa",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, estarán sujetas a concesión administrativa:",
+   [
+    "La utilización privativa normal que requiera obras o instalaciones permanentes y la utilización anormal de los bienes",
+    "Todas las utilizaciones de uso común especial de bienes de dominio público",
+    "Únicamente la utilización de bienes patrimoniales por particulares"
+   ],
+   0,
+   "Art. 81 · Decreto 347/2002 (RBASO): Art. 81 RBASO: privativa normal con obras o instalaciones permanentes, y utilización anormal.",
+   "rbaso 81",
+   "Instalaciones permanentes / uso anormal",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el plazo máximo de la concesión sobre bienes de dominio público será de:",
+   [
+    "Cincuenta años, salvo que disposiciones especiales señalen otro plazo menor",
+    "Setenta y cinco años, prorrogables por periodos de veinticinco años",
+    "Veinticinco años, sin posibilidad de prórroga"
+   ],
+   0,
+   "Art. 83 · Decreto 347/2002 (RBASO): Art. 83.2: cincuenta años, salvo plazo menor en disposiciones especiales.",
+   "rbaso 83",
+   "50 años",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 109 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, las parcelas sobrantes serán ofrecidas:",
+   [
+    "Al propietario o propietarios colindantes, o permutadas con terrenos de los mismos",
+    "A los vecinos del municipio mediante sorteo",
+    "A las entidades sin ánimo de lucro del término municipal"
+   ],
+   0,
+   "Art. 109 · Decreto 347/2002 (RBASO): Art. 109.2: se ofrecen a los colindantes o se permutan con sus terrenos; si hay varios, según el criterio más racional de ordenación del suelo.",
+   "rbaso 109",
+   "Colindantes",
+   "",
+   [],
+   {
+    "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 110 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse a financiar gastos corrientes, salvo que se trate de:",
+   [
+    "Parcelas sobrantes o efectos no utilizables",
+    "Bienes inmuebles de valor inferior al 25 % de los recursos ordinarios",
+    "Bienes enajenados mediante subasta pública desierta"
+   ],
+   0,
+   "Art. 110 · Decreto 347/2002 (RBASO): Art. 110: no pueden destinarse a gastos corrientes, salvo parcelas sobrantes o efectos no utilizables del art. 5.",
+   "rbaso 110",
+   "Parcelas sobrantes y efectos no utilizables",
+   "",
+   [],
+   {
+    "nuevo": 1
    }
   ]
  ]
