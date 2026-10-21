@@ -459,7 +459,7 @@ function vistaTema(n, seccion, extra, extra2) {
   else if (seccion === 'asociar') { cuerpo = cuerpoAsociar(n, t, extra); if (extra !== undefined) volver = `${base}/asociar`; }
   else if (seccion === 'test') cuerpo = cuerpoTestTema(n, t);
   else cuerpo = cuerpoLeccion(n, t);
-  return { titulo: `Tema ${n}`, volver, tab: 'temas', html: `<header class="tema-h"><h2>${esc(t.titulo)}</h2><p class="tiny muted">Fuente verificada el ${esc(t.verificado)}</p></header>${subtabs}${cuerpo}` };
+  return { titulo: `Tema ${n}`, volver, tab: 'temas', html: `<header class="tema-h"><h2>${esc(t.titulo)}</h2></header>${subtabs}${cuerpo}` };
 }
 
 function cuerpoLeccion(n, t) {
@@ -511,7 +511,7 @@ function articulosHtml(e) {
     const zs = (D.zgz || {})[`${a.lx}:${a.n}`] || [];
     return `<details class="art ${zs.length ? 'zgz' : ''}" data-art="${esc(a.lx)}:${esc(a.n)}"><summary><span class="art-n">${esc(etiquetaArt(a.n))}</span><b>${esc(a.ref)}</b>${zs.length ? '<span class="art-b" title="Preguntado en Zaragoza">⭐</span>' : ''}${a.add === 1 ? '<span class="art-b" title="Añadido para cobertura 2026">🟠</span>' : ''}</summary>
       <p class="art-ley">${esc(ley.corto || a.lx)}</p>
-      ${oficial ? `<div class="art-of"><h4>📜 Texto oficial</h4>${oficial.split('\n').map((l, i) => (i === 0 ? `<p><b>${esc(l)}</b></p>` : `<p>${esc(l)}</p>`)).join('')}<p class="tiny muted">Texto consolidado vigente · ${esc(ley.nombre)}</p></div>` : '<p class="tiny muted">El texto oficial de este artículo no está incluido aún.</p>'}
+      ${oficial ? `<div class="art-of"><h4>📜 Texto oficial</h4>${oficial.split('\n').map((l, i) => (i === 0 ? `<p><b>${esc(l)}</b></p>` : `<p>${esc(l)}</p>`)).join('')}<p class="tiny muted">${esc(ley.nombre)}</p></div>` : '<p class="tiny muted">El texto oficial de este artículo no está incluido aún.</p>'}
       ${a.txt ? `<div class="art-t"><h4>✅ Lo esencial</h4>${lineas(a.txt)}</div>` : ''}
       <p class="art-i"><b>🧠 En sencillo:</b> ${fmt(a.int)}</p>
       <p class="art-q"><b>💭 Pregunta mental:</b> ${fmt(a.preg)}</p>
