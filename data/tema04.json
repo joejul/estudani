@@ -832,7 +832,8 @@
    "h-interesado",
    [
     "grupos de afectados"
-   ]
+   ],
+   {}
   ],
   [
    "Los menores de edad tienen capacidad de obrar ante las Administraciones para el ejercicio de aquellos derechos e intereses cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela. Se exceptúa:",
@@ -848,7 +849,8 @@
    "h-interesado",
    [
     "menores incapacitados"
-   ]
+   ],
+   {}
   ],
   [
    "Según el art. 4.1.a), se consideran interesados en el procedimiento administrativo:",
@@ -864,7 +866,8 @@
    "h-interesado",
    [
     "promuevan"
-   ]
+   ],
+   {}
   ],
   [
    "Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte:",
@@ -880,7 +883,8 @@
    "h-interesado",
    [
     "sin haber iniciado"
-   ]
+   ],
+   {}
   ],
   [
    "Según el art. 4.1.c), son interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento:",
@@ -896,7 +900,8 @@
    "h-interesado",
    [
     "resolución definitiva"
-   ]
+   ],
+   {}
   ],
   [
    "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de:",
@@ -912,7 +917,8 @@
    "h-interesado",
    [
     "intereses legítimos colectivos"
-   ]
+   ],
+   {}
   ],
   [
    "Cuando la condición de interesado derivase de una relación jurídica transmisible, el derechohabiente:",
@@ -928,7 +934,8 @@
    "h-interesado",
    [
     "derechohabiente"
-   ]
+   ],
+   {}
   ],
   [
    "Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas:",
@@ -944,7 +951,8 @@
    "h-actuar",
    [
     "manifestación expresa en contra"
-   ]
+   ],
+   {}
   ],
   [
    "Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente:",
@@ -960,7 +968,8 @@
    "h-actuar",
    [
     "comunicará"
-   ]
+   ],
+   {}
   ],
   [
    "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación o razón social que conste en:",
@@ -976,7 +985,8 @@
    "h-actuar",
    [
     "Documento Nacional de Identidad"
-   ]
+   ],
+   {}
   ],
   [
    "Los interesados podrán firmar a través de cualquier medio que permita acreditar:",
@@ -992,7 +1002,8 @@
    "h-actuar",
    [
     "integridad e inalterabilidad"
-   ]
+   ],
+   {}
   ],
   [
    "Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo será suficiente con que los interesados:",
@@ -1008,7 +1019,8 @@
    "h-actuar",
    [
     "acrediten previamente su identidad"
-   ]
+   ],
+   {}
   ],
   [
    "Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez determinada máxima de:",
@@ -1024,7 +1036,8 @@
    "h-actuar",
    [
     "cinco años"
-   ]
+   ],
+   {}
   ],
   [
    "Cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con:",
@@ -1040,7 +1053,8 @@
    "h-actuar",
    [
     "en primer término"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 3 de la Ley 39/2015, de 1 de octubre, tendrán capacidad de obrar ante las Administraciones Públicas, entre otros:",
@@ -1425,7 +1439,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1596,7 +1611,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1891,7 +1907,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2456,7 +2473,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2999,7 +3017,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3652,7 +3671,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3670,7 +3690,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -3707,7 +3728,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -3744,7 +3766,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -3781,7 +3804,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -3799,7 +3823,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -3856,7 +3881,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4007,7 +4033,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4025,7 +4052,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4043,7 +4071,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4138,7 +4167,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4175,7 +4205,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4195,6 +4226,3011 @@
     "nuevo": 1,
     "neg": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con el representante o interesado que expresamente hayan señalado y, en su defecto, el que figure en primer término",
+    "Cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con siempre el último interesado que firme",
+    "Cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con todos los interesados por separado"
+   ],
+   0,
+   "Art. 7 · Ley 39/2015: Cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con el representante o interesado que expresamente hayan señalado y, en su defecto, el que figure en primer término.",
+   "lpac 7",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-014",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente se archiva el procedimiento",
+    "Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente se comunicará a dichas personas la tramitación del procedimiento",
+    "Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente se ignora, pues no se personaron"
+   ],
+   1,
+   "Art. 8 · Ley 39/2015: Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente se comunicará a dichas personas la tramitación del procedimiento.",
+   "lpac 8",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-009",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente únicamente las personas jurídicas",
+    "Tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente los extranjeros sin residencia en todo caso",
+    "Tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos"
+   ],
+   2,
+   "Art. 3 · Ley 39/2015: Tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
+   "lpac 3",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-001",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Administraciones solo exigen el uso obligatorio de firma para cualquier actuación del procedimiento",
+    "Las Administraciones solo exigen el uso obligatorio de firma para aportar documentos",
+    "Las Administraciones solo exigen el uso obligatorio de firma para formular solicitudes, declaraciones responsables, recursos, desistir y renunciar a derechos"
+   ],
+   2,
+   "Art. 11 · Ley 39/2015: Las Administraciones solo exigen el uso obligatorio de firma para formular solicitudes, declaraciones responsables, recursos, desistir y renunciar a derechos.",
+   "lpac 11",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-050",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La Ley regula también los principios a los que se ha de ajustar la organización de las Administraciones Públicas",
+    "La Ley regula también los principios a los que se ha de ajustar la gestión de los recursos humanos del sector público",
+    "La Ley regula también los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria"
+   ],
+   2,
+   "Art. 1.1 · Ley 39/2015: La Ley regula también los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.",
+   "lpac 1.1",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-054",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los interesados no podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar solo su identidad mediante certificado electrónico",
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento"
+   ],
+   2,
+   "Art. 10 · Ley 39/2015: Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.",
+   "lpac 10",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-011",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los ciudadanos no tienen derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma",
+    "Los ciudadanos tienen derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma",
+    "Los ciudadanos tienen derecho a utilizar cualquier lengua de la Unión Europea"
+   ],
+   1,
+   "Art. 13.c · Ley 39/2015: Los ciudadanos tienen derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma.",
+   "lpac 13.c",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-105",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las personas físicas no obligadas pueden modificar el medio elegido para comunicarse solo con autorización del órgano competente",
+    "Las personas físicas no obligadas pueden modificar el medio elegido para comunicarse en cualquier momento",
+    "Las personas físicas no obligadas pueden modificar el medio elegido para comunicarse solo una vez al año"
+   ],
+   1,
+   "Art. 14.1 · Ley 39/2015: Las personas físicas no obligadas pueden modificar el medio elegido para comunicarse en cualquier momento.",
+   "lpac 14.1",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-149",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución únicamente durante el trámite de audiencia",
+    "Pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución hasta que finalice la fase de instrucción",
+    "Pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución en tanto no haya recaído resolución definitiva"
+   ],
+   2,
+   "Art. 4.1.c · Ley 39/2015: Pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución en tanto no haya recaído resolución definitiva.",
+   "lpac 4.1.c",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-067",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos",
+    "La comunicación de la tramitación a nuevos interesados procede en procedimientos que hayan sido objeto de información pública",
+    "Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas salvo manifestación expresa en contra del interesado"
+   ],
+   1,
+   "La incorrecta es «la comunicación de la tramitación a nuevos interesados procede en procedimientos que hayan sido objeto de información pública». Lo correcto: la comunicación de la tramitación a nuevos interesados procede en procedimientos que no hayan tenido publicidad.",
+   "lpac 8",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con todos ellos simultáneamente",
+    "Los interesados podrán identificarse electrónicamente mediante certificados electrónicos cualificados de firma o de sello y otros sistemas que la Administración considere válidos con registro previo y comunicación a la Secretaría General de Administración Digital",
+    "El derecho de acceso a la información pública, archivos y registros se ejerce de acuerdo con la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno"
+   ],
+   0,
+   "La incorrecta es «en defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con todos ellos simultáneamente». Lo correcto: en defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con el que figure en primer término.",
+   "lpac 7",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El registro de funcionarios habilitados debe contener, al menos los jefes de servicio de cada departamento",
+    "La Ley regula también los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria",
+    "Es interesado quien, sin haber iniciado el procedimiento, tenga derechos que puedan resultar afectados por la decisión que se adopte"
+   ],
+   0,
+   "La incorrecta es «el registro de funcionarios habilitados debe contener, al menos los jefes de servicio de cada departamento». Lo correcto: el registro de funcionarios habilitados debe contener, al menos los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.",
+   "lpac 12.3",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la Ley en todo caso y para toda su actividad",
+    "Las asociaciones representativas son titulares de intereses legítimos colectivos en los términos que la Ley reconozca",
+    "El apoderamiento apud acta se efectúa por comparecencia personal o electrónica en la sede electrónica correspondiente"
+   ],
+   0,
+   "La incorrecta es «las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la Ley en todo caso y para toda su actividad». Lo correcto: las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la Ley en las normas que específicamente se refieran a ellas y, en todo caso, cuando ejerzan potestades administrativas.",
+   "lpac 2.2",
+   "Proposición negativa",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En el ámbito estatal, el registro electrónico general de apoderamientos es el Registro Electrónico de Apoderamientos de la Administración General del Estado",
+    "Los poderes inscribibles pueden ser solo los referidos a procedimientos sancionadores",
+    "Los asientos de los registros de apoderamientos deben contener, al menos datos del poderdante y apoderado, fecha de inscripción, período por el que se otorga el poder y tipo de poder según las facultades"
+   ],
+   1,
+   "La incorrecta es «los poderes inscribibles pueden ser solo los referidos a procedimientos sancionadores». Lo correcto: los poderes inscribibles pueden ser general; para cualquier actuación ante una Administración u Organismo concreto; o para determinados trámites especificados.",
+   "lpac 6.4",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Se entiende acreditada la representación realizada mediante apoderamiento apud acta por comparecencia personal o electrónica, o inscripción en el registro electrónico de apoderamientos",
+    "El consentimiento del interesado para la actuación del funcionario habilitado debe quedar constancia para los casos de discrepancia o litigio",
+    "Pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución hasta que finalice la fase de instrucción"
+   ],
+   2,
+   "La incorrecta es «pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución hasta que finalice la fase de instrucción». Lo correcto: pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución en tanto no haya recaído resolución definitiva.",
+   "lpac 4.1.c",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las personas físicas no obligadas pueden modificar el medio elegido para comunicarse en cualquier momento",
+    "Están obligados a relacionarse electrónicamente los apoderados apud acta",
+    "Reglamentariamente las Administraciones podrán establecer la obligación electrónica para ciertos colectivos de personas físicas que por razón de capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios"
+   ],
+   1,
+   "La incorrecta es «están obligados a relacionarse electrónicamente los apoderados apud acta». Lo correcto: están obligados a relacionarse electrónicamente quienes representen a un interesado que esté obligado a relacionarse electrónicamente.",
+   "lpac 14.2.d",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Para los actos y gestiones de mero trámite, la representación se presume",
+    "La falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo improrrogable de cinco días que deberá conceder el órgano administrativo, sin posibilidad de ampliación alguna",
+    "Se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o electrónica en la correspondiente sede electrónica, o mediante inscripción en el registro electrónico de apoderamientos"
+   ],
+   1,
+   "La incorrecta es «la falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo improrrogable de cinco días que deberá conceder el órgano administrativo, sin posibilidad de ampliación alguna». Lo correcto: la falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo de diez dí",
+   "lpac 5.6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las Universidades públicas se rigen directamente por la Ley en todos sus aspectos",
+    "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación o razón social que conste en el Documento Nacional de Identidad o documento identificativo equivalente",
+    "Para los actos y gestiones de mero trámite se presumirá la representación"
+   ],
+   0,
+   "La incorrecta es «las Universidades públicas se rigen directamente por la Ley en todos sus aspectos». Lo correcto: las Universidades públicas se rigen por su normativa específica y supletoriamente por las previsiones de la Ley.",
+   "lpac 2.2",
+   "Proposición negativa",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La condición de interesado se transmite a los causahabientes cuando la relación jurídica sea de carácter personalísimo y se extinga con el fallecimiento de la persona interesada",
+    "Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte sí, art. 4.1.b",
+    "Pueden ser interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva"
+   ],
+   0,
+   "La incorrecta es «la condición de interesado se transmite a los causahabientes cuando la relación jurídica sea de carácter personalísimo y se extinga con el fallecimiento de la persona interesada». Lo correcto: la condición de interesado se transmite a los causahabientes cuando la relación jurídica no se extinga por la muerte de la persona interesada.",
+   "lpac 4.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los registros de apoderamientos permitirán comprobar la representación mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad y a los protocolos notariales",
+    "Los poderes que se inscriban en los registros electrónicos de apoderamientos deberán corresponder, entre otras, a la tipología de un poder verbal, sin forma escrita ni inscripción, para actuaciones urgentes ante una Administración concreta",
+    "Los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción"
+   ],
+   1,
+   "La incorrecta es «los poderes que se inscriban en los registros electrónicos de apoderamientos deberán corresponder, entre otras, a la tipología de un poder verbal, sin forma escrita ni inscripción, para actuaciones urgentes ante una Administración concreta». Lo correcto: los poderes que se inscriban en los registros electrónicos de apoderamientos deberán corresponder, entre otras, a la tipología de un poder general ",
+   "lpac 6.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso los procuradores únicamente",
+    "Reglamentariamente las Administraciones podrán establecer la obligación electrónica para ciertos colectivos de personas físicas que por razón de capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios",
+    "Los empleados públicos se relacionan electrónicamente por razón de su condición en la forma en que se determine reglamentariamente por cada Administración"
+   ],
+   0,
+   "La incorrecta es «dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso los procuradores únicamente». Lo correcto: dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso los notarios y registradores de la propiedad y mercantiles.",
+   "lpac 14.2.c",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos, en los términos que la Ley reconozca",
+    "Los ciudadanos tienen derecho a utilizar solo el castellano",
+    "Las asociaciones representativas son titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+   ],
+   1,
+   "La incorrecta es «los ciudadanos tienen derecho a utilizar solo el castellano». Lo correcto: los ciudadanos tienen derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma.",
+   "lpac 13.c",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma solo los sistemas de firma cualificada",
+    "Durante los dos meses desde la comunicación del sistema, el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitirlo en diez días desde su solicitud",
+    "Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas salvo manifestación expresa en contra del interesado"
+   ],
+   0,
+   "La incorrecta es «si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma solo los sistemas de firma cualificada». Lo correcto: si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma sistemas de firma electrónica cualificada y avanzada, sello electrónico cualificado y avanzado y otros sistemas admitidos con registro previo.",
+   "lpac 10.2",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los derechos del artículo 13 incluyen solo los enumerados taxativamente en el artículo",
+    "Los ciudadanos tienen derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos",
+    "Se reconoce a las personas el derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley"
+   ],
+   0,
+   "La incorrecta es «los derechos del artículo 13 incluyen solo los enumerados taxativamente en el artículo». Lo correcto: los derechos del artículo 13 incluyen cualesquiera otros que les reconozcan la Constitución y las leyes.",
+   "lpac 13.i",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando en una solicitud figuren varios interesados, las actuaciones se efectuarán con el representante o interesado que expresamente hayan señalado y, en su defecto, el que figure en primer término",
+    "Los derechos del artículo 13 se entienden sin perjuicio de los reconocidos en el artículo 53 a los interesados en el procedimiento",
+    "Se exceptúa del supuesto de capacidad de los menores los menores no escolarizados"
+   ],
+   2,
+   "La incorrecta es «se exceptúa del supuesto de capacidad de los menores los menores no escolarizados». Lo correcto: se exceptúa del supuesto de capacidad de los menores los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.",
+   "lpac 3.b",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia",
+    "En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado",
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales no serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+   ],
+   2,
+   "La incorrecta es «Las asociaciones y organizaciones representativas de intereses económicos y sociales no serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca»: niega lo que dice la ley. Lo correcto: «Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca».",
+   "lpac 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los registros mercantiles, de la propiedad, y de los protocolos notariales serán interoperables con los registros electrónicos generales y particulares de apoderamientos",
+    "Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de seis años a contar desde la fecha de inscripción",
+    "Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos"
+   ],
+   1,
+   "La incorrecta es «Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de seis años a contar desde la fecha de inscripción»: cambia «cinco años». Lo correcto: «Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción».",
+   "lpac 6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las personas físicas con capacidad de obrar y las personas jurídicas podrán actuar en representación de otras ante las Administraciones Públicas las personas jurídicas, siempre que ello esté previsto en sus Estatutos",
+    "Las Administraciones Públicas podrán habilitar a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Si la representación no se acredita suficientemente, el órgano administrativo debe archivar sin más la solicitud"
+   ],
+   2,
+   "La incorrecta es «si la representación no se acredita suficientemente, el órgano administrativo debe archivar sin más la solicitud». Lo correcto: si la representación no se acredita suficientemente, el órgano administrativo debe conceder plazo de diez días o superior para aportarla o subsanar el defecto.",
+   "lpac 5.6",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar únicamente su firma manuscrita",
+    "La Ley tiene por objeto regular, entre otros aspectos los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común, incluido el sancionador y el de responsabilidad",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas podrán actuar en representación de otras ante las Administraciones Públicas las personas jurídicas, siempre que ello esté previsto en sus Estatutos"
+   ],
+   0,
+   "La incorrecta es «los interesados podrán firmar a través de cualquier medio que permita acreditar únicamente su firma manuscrita». Lo correcto: los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.",
+   "lpac 10",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La firma debe permitir acreditar la autenticidad de la expresión de voluntad y la integridad e inalterabilidad del documento",
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+    "Si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma cualquier sistema sin registro previo"
+   ],
+   2,
+   "La incorrecta es «si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma cualquier sistema sin registro previo». Lo correcto: si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma sistemas de firma electrónica cualificada y avanzada, sello electrónico cualificado y avanzado y otros sistemas admitidos con registro previo.",
+   "lpac 10.2",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas",
+    "Las Administraciones Públicas no podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados"
+   ],
+   2,
+   "La incorrecta es «Las Administraciones Públicas no podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados»: cambia «podrán». Lo correcto: «Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realizació",
+   "lpac 5",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "El documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos",
+    "Los poderes inscritos en el registro tendrán una validez determinada máxima de seis años a contar desde la fecha de inscripción"
+   ],
+   2,
+   "La incorrecta es «Los poderes inscritos en el registro tendrán una validez determinada máxima de seis años a contar desde la fecha de inscripción»: cambia «cinco años». Lo correcto: «Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción».",
+   "lpac 6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas",
+    "La representación deberá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia"
+   ],
+   2,
+   "La incorrecta es «La representación deberá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia»: cambia «podrá». Lo correcto: «La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia».",
+   "lpac 5",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Para los actos y gestiones de mero trámite, la representación debe acreditarse mediante poder notarial",
+    "La falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo de diez días que deberá conceder el órgano administrativo, o uno superior si las circunstancias lo requieren",
+    "Para los actos y gestiones de mero trámite se presumirá la representación"
+   ],
+   0,
+   "La incorrecta es «para los actos y gestiones de mero trámite, la representación debe acreditarse mediante poder notarial». Lo correcto: para los actos y gestiones de mero trámite, la representación se presume.",
+   "lpac 5",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los registros de apoderamientos permitirán comprobar la representación mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad y a los protocolos notariales",
+    "Las personas físicas pueden elegir en todo momento comunicarse por medios electrónicos o no salvo que estén obligadas a relacionarse electrónicamente; el medio elegido puede modificarse en cualquier momento",
+    "Con carácter general, para realizar una actuación en el procedimiento basta con comparecer presencialmente"
+   ],
+   2,
+   "La incorrecta es «con carácter general, para realizar una actuación en el procedimiento basta con comparecer presencialmente». Lo correcto: con carácter general, para realizar una actuación en el procedimiento basta con acreditar previamente la identidad por cualquiera de los medios previstos.",
+   "lpac 11",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los registros generales de apoderamientos sustituyen a los registros particulares de los organismos",
+    "Las personas con capacidad de obrar tienen derecho a comunicarse con las Administraciones a través de un Punto de Acceso General electrónico de la Administración",
+    "Tendrán capacidad de obrar las personas físicas o jurídicas que ostenten capacidad con arreglo a las normas civiles"
+   ],
+   0,
+   "La incorrecta es «los registros generales de apoderamientos sustituyen a los registros particulares de los organismos». Lo correcto: los registros generales de apoderamientos no impiden la existencia de registros particulares en cada Organismo para trámites específicos.",
+   "lpac 6.1",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar",
+    "El registro de funcionarios habilitados debe ser plenamente interoperable y estar interconectado con los de las restantes Administraciones",
+    "El apoderamiento apud acta se efectúa solo ante notario"
+   ],
+   2,
+   "La incorrecta es «el apoderamiento apud acta se efectúa solo ante notario». Lo correcto: el apoderamiento apud acta se efectúa por comparecencia personal o electrónica en la sede electrónica correspondiente.",
+   "lpac 5",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con el que figure en primer término",
+    "Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente se comunicará a dichas personas la tramitación del procedimiento",
+    "Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la Ley únicamente cuando lo prevean sus estatutos"
+   ],
+   2,
+   "La incorrecta es «las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la Ley únicamente cuando lo prevean sus estatutos». Lo correcto: las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a la Ley en las normas que específicamente se refieran a ellas y, en todo caso, cuando ejerzan potestades administrativas",
+   "lpac 2.2",
+   "Proposición negativa",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente únicamente las personas jurídicas",
+    "Se exceptúa del supuesto de capacidad de los menores los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate",
+    "Tendrán capacidad de obrar las personas físicas o jurídicas que ostenten capacidad con arreglo a las normas civiles"
+   ],
+   0,
+   "La incorrecta es «tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente únicamente las personas jurídicas». Lo correcto: tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
+   "lpac 3",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si un interesado carece de medios electrónicos, su identificación o firma podrá ser realizada válidamente por un funcionario público con su sistema de firma electrónica, previa identificación y consentimiento expreso del interesado",
+    "Para interponer recursos en nombre de otra persona se presume la representación",
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento, admitiéndose entre otros sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados"
+   ],
+   1,
+   "La incorrecta es «para interponer recursos en nombre de otra persona se presume la representación». Lo correcto: para interponer recursos en nombre de otra persona debe acreditarse la representación.",
+   "lpac 5",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El registro de funcionarios habilitados debe contener, al menos los funcionarios que presten servicios en las oficinas de asistencia en materia de registros",
+    "Los registros electrónicos de apoderamientos deben inscribir, al menos todos los poderes otorgados en cualquier procedimiento",
+    "Para admitir sistemas de identificación distintos de los certificados cualificados hace falta Registro previo como usuario y comunicación a la Secretaría General de Administración Digital con declaración responsable de cumplimiento"
+   ],
+   1,
+   "La incorrecta es «los registros electrónicos de apoderamientos deben inscribir, al menos todos los poderes otorgados en cualquier procedimiento». Lo correcto: los registros electrónicos de apoderamientos deben inscribir, al menos los poderes de carácter general otorgados apud acta por quien ostente la condición de interesado.",
+   "lpac 6.1",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca",
+    "El documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos",
+    "En el ámbito estatal, este registro será el registro mercantil de Apoderamientos de la Administración General del Estado"
+   ],
+   2,
+   "La incorrecta es «En el ámbito estatal, este registro será el registro mercantil de Apoderamientos de la Administración General del Estado»: cambia «Registro Electrónico». Lo correcto: «En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado».",
+   "lpac 6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte solo si se personan",
+    "Los empleados públicos se relacionan electrónicamente por razón de su condición en la forma en que se determine reglamentariamente por cada Administración",
+    "Los menores de edad tienen capacidad de obrar ante las Administraciones para el ejercicio de aquellos derechos e intereses cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela. Se exceptúa el supuesto de los menores incapacitados, cuando la incapacitación afecte al ejercicio de los derechos de que se trate"
+   ],
+   0,
+   "La incorrecta es «son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte solo si se personan». Lo correcto: son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte sí, art. 4.1.b.",
+   "lpac 4",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El consentimiento del interesado para la actuación del funcionario habilitado no necesita constar",
+    "Si un interesado no obligado a relacionarse electrónicamente no dispone de medios electrónicos, su identificación o firma electrónica podrá ser realizada válidamente por un funcionario público mediante su sistema de firma electrónica, previa identificación del interesado y su consentimiento expreso, del que debe quedar constancia",
+    "Están obligados a relacionarse electrónicamente en cualquier trámite, al menos personas jurídicas, entidades sin personalidad jurídica, profesionales de colegiación obligatoria, representantes de obligados y empleados públicos por su condición"
+   ],
+   0,
+   "La incorrecta es «el consentimiento del interesado para la actuación del funcionario habilitado no necesita constar». Lo correcto: el consentimiento del interesado para la actuación del funcionario habilitado debe quedar constancia para los casos de discrepancia o litigio.",
+   "lpac 12.2",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La Ley se aplica a las Entidades que integran la Administración Local",
+    "El sector público institucional se integra por Organismos públicos y entidades de derecho público vinculados o dependientes, entidades de derecho privado vinculadas o dependientes y Universidades públicas",
+    "Tienen la consideración de Administraciones Públicas solo la AGE, las CCAA y las Entidades Locales"
+   ],
+   2,
+   "La incorrecta es «tienen la consideración de Administraciones Públicas solo la AGE, las CCAA y las Entidades Locales». Lo correcto: tienen la consideración de Administraciones Públicas la AGE, las Administraciones de las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público vinculados o dependientes.",
+   "lpac 2.3",
+   "Proposición negativa",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de derechos subjetivos individuales de sus socios",
+    "La comunicación de la tramitación a nuevos interesados procede en procedimientos que no hayan tenido publicidad",
+    "Los registros electrónicos de apoderamientos deben inscribir al menos los poderes de carácter general otorgados apud acta"
+   ],
+   0,
+   "La incorrecta es «las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de derechos subjetivos individuales de sus socios». Lo correcto: las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos, en los términos que la Ley reconozca.",
+   "lpac 4",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando la condición de interesado derivase de una relación jurídica transmisible, el derechohabiente sucederá en tal condición cualquiera que sea el estado del procedimiento",
+    "La firma debe permitir acreditar la autenticidad de la expresión de voluntad y la conservación por diez años",
+    "Las personas con capacidad de obrar tienen derecho a comunicarse con las Administraciones a través de un Punto de Acceso General electrónico de la Administración"
+   ],
+   1,
+   "La incorrecta es «la firma debe permitir acreditar la autenticidad de la expresión de voluntad y la conservación por diez años». Lo correcto: la firma debe permitir acreditar la autenticidad de la expresión de voluntad y la integridad e inalterabilidad del documento.",
+   "lpac 10.1",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Con carácter general, para realizar una actuación en el procedimiento basta con firmar siempre electrónicamente",
+    "Son interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva",
+    "Las Administraciones Públicas podrán habilitar a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados"
+   ],
+   0,
+   "La incorrecta es «con carácter general, para realizar una actuación en el procedimiento basta con firmar siempre electrónicamente». Lo correcto: con carácter general, para realizar una actuación en el procedimiento basta con acreditar previamente la identidad por cualquiera de los medios previstos.",
+   "lpac 11",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Durante los dos meses desde la comunicación del sistema, el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitirlo en diez días desde su solicitud",
+    "La identidad de los interesados que son personas jurídicas se verifica por su nombre comercial",
+    "Las Administraciones deberán garantizar que la utilización de los sistemas de las letras a) y b) sea posible para todo procedimiento, aun cuando se admita otro sistema de la letra c)"
+   ],
+   1,
+   "La incorrecta es «la identidad de los interesados que son personas jurídicas se verifica por su nombre comercial». Lo correcto: la identidad de los interesados que son personas jurídicas se verifica por su denominación o razón social que conste en el documento identificativo equivalente.",
+   "lpac 9.1",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben estar alojados en servidores del Estado",
+    "Las Administraciones deberán garantizar que la utilización de los sistemas de las letras a) y b) sea posible para todo procedimiento, aun cuando se admita otro sistema de la letra c)",
+    "Para admitir sistemas de identificación distintos de los certificados cualificados hace falta Registro previo como usuario y comunicación a la Secretaría General de Administración Digital con declaración responsable de cumplimiento"
+   ],
+   0,
+   "La incorrecta es «los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben estar alojados en servidores del Estado». Lo correcto: los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben estar situados en territorio de la Unión Europea.",
+   "lpac 9.3",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Entre los derechos de las personas figura elegir el órgano que resuelva su caso",
+    "Los ciudadanos tienen derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos",
+    "El derecho de acceso a la información pública, archivos y registros se ejerce de acuerdo con la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno"
+   ],
+   0,
+   "La incorrecta es «entre los derechos de las personas figura elegir el órgano que resuelva su caso». Lo correcto: entre los derechos de las personas figura exigir las responsabilidades de las Administraciones Públicas y autoridades cuando así corresponda legalmente.",
+   "lpac 13.f",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años, que puede prorrogarse en cualquier momento anterior a su finalización y por otros cinco años",
+    "Los registros electrónicos de apoderamientos deben inscribir al menos los poderes otorgados ante notario",
+    "Los poderes inscribibles pueden ser general; para cualquier actuación ante una Administración u Organismo concreto; o para determinados trámites especificados"
+   ],
+   1,
+   "La incorrecta es «los registros electrónicos de apoderamientos deben inscribir al menos los poderes otorgados ante notario». Lo correcto: los registros electrónicos de apoderamientos deben inscribir al menos los poderes de carácter general otorgados apud acta.",
+   "lpac 6",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Está obligada a relacionarse electrónicamente con las Administraciones toda persona jurídica",
+    "La Ley se aplica a las Entidades que integran la Administración Local",
+    "Se consideran interesados en el procedimiento administrativo únicamente quienes hayan recibido la notificación"
+   ],
+   2,
+   "La incorrecta es «se consideran interesados en el procedimiento administrativo únicamente quienes hayan recibido la notificación». Lo correcto: se consideran interesados en el procedimiento administrativo quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+   "lpac 4",
+   "Proposición negativa",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Entre los derechos de las personas figura obtener indemnización automática por demoras",
+    "Los derechos del artículo 13 incluyen cualesquiera otros que les reconozcan la Constitución y las leyes",
+    "Se reconoce a las personas el derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley"
+   ],
+   0,
+   "La incorrecta es «entre los derechos de las personas figura obtener indemnización automática por demoras». Lo correcto: entre los derechos de las personas figura exigir las responsabilidades de las Administraciones Públicas y autoridades cuando así corresponda legalmente.",
+   "lpac 13.f",
+   "Proposición negativa",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los asientos de los registros de apoderamientos deben contener, al menos datos del poderdante y apoderado, fecha de inscripción, período por el que se otorga el poder y tipo de poder según las facultades",
+    "Los registros electrónicos generales y particulares de apoderamientos deberán ser gestionados exclusivamente por la AGE",
+    "En cualquier momento antes de la finalización de ese plazo el poderdante puede revocar o prorrogar el poder, y la prórroga también podrá hacerse en los dos últimos años del plazo"
+   ],
+   1,
+   "La incorrecta es «los registros electrónicos generales y particulares de apoderamientos deberán ser gestionados exclusivamente por la AGE». Lo correcto: los registros electrónicos generales y particulares de apoderamientos deberán ser plenamente interoperables entre sí.",
+   "lpac 6.2",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente se ignora, pues no se personaron",
+    "Sólo requerirán a los interesados el uso obligatorio de firma para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos",
+    "Pueden ser interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva"
+   ],
+   0,
+   "La incorrecta es «si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente se ignora, pues no se personaron». Lo correcto: si durante la instrucción de un procedimiento que no haya tenido publicidad se advierte la existencia de titulares de derechos o intereses legítimos y ",
+   "lpac 8",
+   "Proposición negativa",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las Universidades públicas se rigen por su normativa específica y supletoriamente por las previsiones de la Ley",
+    "Tienen la consideración de Administraciones Públicas la AGE, las Administraciones de las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público vinculados o dependientes",
+    "El ámbito subjetivo de aplicación de la Ley comprende al sector público, que incluye la Administración General del Estado, las Comunidades Autónomas y los órganos constitucionales"
+   ],
+   2,
+   "La incorrecta es «el ámbito subjetivo de aplicación de la Ley comprende al sector público, que incluye la Administración General del Estado, las Comunidades Autónomas y los órganos constitucionales». Lo correcto: el ámbito subjetivo de aplicación de la Ley comprende al sector público, que incluye la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Adm",
+   "lpac 2.1",
+   "Proposición negativa",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los registros generales de apoderamientos no impiden la existencia de registros particulares en cada Organismo para trámites específicos",
+    "Las Administraciones solo exigen el uso obligatorio de firma para cualquier actuación del procedimiento",
+    "Pueden personarse como interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución en tanto no haya recaído resolución definitiva"
+   ],
+   1,
+   "La incorrecta es «las Administraciones solo exigen el uso obligatorio de firma para cualquier actuación del procedimiento». Lo correcto: las Administraciones solo exigen el uso obligatorio de firma para formular solicitudes, declaraciones responsables, recursos, desistir y renunciar a derechos.",
+   "lpac 11",
+   "Proposición negativa",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El órgano competente para la tramitación del procedimiento deberá incorporar al expediente la acreditación de la condición de representante y de los poderes que tiene reconocidos en ese momento",
+    "Si la representación no se acredita suficientemente, el órgano administrativo debe conceder plazo de diez días o superior para aportarla o subsanar el defecto",
+    "Se entiende acreditada la representación realizada mediante escrito presentado por el representante, firmado por él y sin necesidad de constancia fehaciente de la voluntad del interesado"
+   ],
+   2,
+   "La incorrecta es «se entiende acreditada la representación realizada mediante escrito presentado por el representante, firmado por él y sin necesidad de constancia fehaciente de la voluntad del interesado». Lo correcto: se entiende acreditada la representación realizada mediante apoderamiento apud acta por comparecencia personal o electrónica, o inscripción en el registro electrónico de apoderamientos.",
+   "lpac 5.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los menores de edad tienen capacidad de obrar ante las Administraciones para el ejercicio de aquellos derechos e intereses cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela. Se exceptúa a los menores emancipados",
+    "Los menores de edad tienen capacidad de obrar ante las Administraciones para el ejercicio de aquellos derechos e intereses cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela. Se exceptúa siempre a los menores de dieciséis años",
+    "Los menores de edad tienen capacidad de obrar ante las Administraciones para el ejercicio de aquellos derechos e intereses cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela. Se exceptúa el supuesto de los menores incapacitados, cuando la incapacitación afecte al ejercicio de los derechos de que se trate"
+   ],
+   2,
+   "Art. 3 · Ley 39/2015: Los menores de edad tienen capacidad de obrar ante las Administraciones para el ejercicio de aquellos derechos e intereses cuya actuación esté permitida sin asistencia de quien ejerza la patria potestad, tutela o curatela. Se exceptúa el supuesto de los menores incapacitados, cuando la incapacitación afecte al ejercicio de los derechos de que se trate.",
+   "lpac 3",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-002",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Universidades públicas se rigen exclusivamente por la Ley Orgánica de Universidades",
+    "Las Universidades públicas se rigen directamente por la Ley en todos sus aspectos",
+    "Las Universidades públicas se rigen por su normativa específica y supletoriamente por las previsiones de la Ley"
+   ],
+   2,
+   "Art. 2.2 · Ley 39/2015: Las Universidades públicas se rigen por su normativa específica y supletoriamente por las previsiones de la Ley.",
+   "lpac 2.2",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-059",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2.d de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Están obligados a relacionarse electrónicamente quienes representen a un interesado que esté obligado a relacionarse electrónicamente",
+    "Están obligados a relacionarse electrónicamente quienes representen a cualquier interesado",
+    "Están obligados a relacionarse electrónicamente los apoderados apud acta"
+   ],
+   0,
+   "Art. 14.2.d · Ley 39/2015: Están obligados a relacionarse electrónicamente quienes representen a un interesado que esté obligado a relacionarse electrónicamente.",
+   "lpac 14.2.d",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-114",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los registros electrónicos de apoderamientos deben inscribir al menos los poderes otorgados ante notario",
+    "Los registros electrónicos de apoderamientos deben inscribir al menos los poderes de carácter general otorgados apud acta",
+    "Los registros electrónicos de apoderamientos deben inscribir al menos los poderes específicos de cada trámite"
+   ],
+   1,
+   "Art. 6 · Ley 39/2015: Los registros electrónicos de apoderamientos deben inscribir al menos los poderes de carácter general otorgados apud acta.",
+   "lpac 6",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-046",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "El documento electrónico que acredite el resultado de la consulta al registro civil de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos",
+    "El documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos",
+    "El documento electrónico que acredite el resultado de la consulta al registro mercantil de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos"
+   ],
+   1,
+   "Art. 5 · Ley 39/2015: El documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos. Las otras dos frases cambian «registro electrónico» por «registro civil» y «registro mercantil».",
+   "lpac 5",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En cualquier momento antes de la finalización de ese plazo el poderdante puede revocar o prorrogar el poder, y la prórroga también podrá hacerse en los dos últimos años del plazo",
+    "En cualquier momento antes de la finalización de ese plazo el poderdante puede prorrogarlo automáticamente",
+    "En cualquier momento antes de la finalización de ese plazo el poderdante puede solo revocar, nunca prorrogar"
+   ],
+   0,
+   "Art. 6.6 · Ley 39/2015: En cualquier momento antes de la finalización de ese plazo el poderdante puede revocar o prorrogar el poder, y la prórroga también podrá hacerse en los dos últimos años del plazo.",
+   "lpac 6.6",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-087",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La firma debe permitir acreditar la autenticidad de la expresión de voluntad y la confidencialidad del contenido",
+    "La firma debe permitir acreditar la autenticidad de la expresión de voluntad y la integridad e inalterabilidad del documento",
+    "La firma debe permitir acreditar la autenticidad de la expresión de voluntad y la conservación por diez años"
+   ],
+   1,
+   "Art. 10.1 · Ley 39/2015: La firma debe permitir acreditar la autenticidad de la expresión de voluntad y la integridad e inalterabilidad del documento.",
+   "lpac 10.1",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-146",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El consentimiento del interesado para la actuación del funcionario habilitado no necesita constar",
+    "El consentimiento del interesado para la actuación del funcionario habilitado debe quedar constancia para los casos de discrepancia o litigio",
+    "El consentimiento del interesado para la actuación del funcionario habilitado se presume siempre"
+   ],
+   1,
+   "Art. 12.2 · Ley 39/2015: El consentimiento del interesado para la actuación del funcionario habilitado debe quedar constancia para los casos de discrepancia o litigio.",
+   "lpac 12.2",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-102",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.i de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los derechos del artículo 13 incluyen los que determine cada ayuntamiento por ordenanza",
+    "Los derechos del artículo 13 incluyen solo los enumerados taxativamente en el artículo",
+    "Los derechos del artículo 13 incluyen cualesquiera otros que les reconozcan la Constitución y las leyes"
+   ],
+   2,
+   "Art. 13.i · Ley 39/2015: Los derechos del artículo 13 incluyen cualesquiera otros que les reconozcan la Constitución y las leyes.",
+   "lpac 13.i",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-135",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El apoderamiento «apud acta» se otorgará mediante comparecencia electrónica en la sede electrónica o personal en las oficinas de asistencia en materia de registros",
+    "El apoderamiento «apud acta» se otorgará mediante escritura pública otorgada ante notario y presentada posteriormente en cualquier oficina de asistencia en materia de registros",
+    "El apoderamiento «apud acta» se otorgará por correo postal certificado dirigido al órgano competente, con firma manuscrita legitimada notarialmente"
+   ],
+   0,
+   "Art. 6.5 · Ley 39/2015: El apoderamiento «apud acta» se otorgará mediante comparecencia electrónica en la sede electrónica o personal en las oficinas de asistencia en materia de registros.",
+   "lpac 6.5",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-027",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia",
+    "La representación deberá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia",
+    "La representación no podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia"
+   ],
+   0,
+   "Art. 5 · Ley 39/2015: La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "lpac 5",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Para admitir sistemas de identificación distintos de los certificados cualificados hace falta autorización del Consejo de Ministros",
+    "Para admitir sistemas de identificación distintos de los certificados cualificados hace falta Registro previo como usuario y comunicación a la Secretaría General de Administración Digital con declaración responsable de cumplimiento",
+    "Para admitir sistemas de identificación distintos de los certificados cualificados hace falta informe del Consejo de Estado"
+   ],
+   1,
+   "Art. 9.2.c · Ley 39/2015: Para admitir sistemas de identificación distintos de los certificados cualificados hace falta Registro previo como usuario y comunicación a la Secretaría General de Administración Digital con declaración responsable de cumplimiento.",
+   "lpac 9.2.c",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-127",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los interesados no podrán identificarse electrónicamente mediante certificados electrónicos cualificados de firma o de sello y otros sistemas que la Administración considere válidos con registro previo y comunicación a la Secretaría General de Administración Digital",
+    "Los interesados podrán identificarse electrónicamente mediante solo con certificado electrónico cualificado",
+    "Los interesados podrán identificarse electrónicamente mediante certificados electrónicos cualificados de firma o de sello y otros sistemas que la Administración considere válidos con registro previo y comunicación a la Secretaría General de Administración Digital"
+   ],
+   2,
+   "Art. 9.2 · Ley 39/2015: Los interesados podrán identificarse electrónicamente mediante certificados electrónicos cualificados de firma o de sello y otros sistemas que la Administración considere válidos con registro previo y comunicación a la Secretaría General de Administración Digital.",
+   "lpac 9.2",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-091",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Deberá acreditarse la representación para únicamente para interponer recursos, presumiéndose la representación para solicitudes, desistimientos y renuncias de derechos",
+    "Deberá acreditarse la representación para cualquier actuación del procedimiento, incluidos los actos y gestiones de mero trámite, sin presunción alguna de representación",
+    "Deberá acreditarse la representación para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos"
+   ],
+   2,
+   "Art. 5.3 · Ley 39/2015: Deberá acreditarse la representación para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
+   "lpac 5.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-022",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben estar situados en territorio de la Unión Europea",
+    "Los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben estar situados en territorio español",
+    "Los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben estar alojados en servidores del Estado"
+   ],
+   0,
+   "Art. 9.3 · Ley 39/2015: Los recursos técnicos para la recogida y tratamiento de los sistemas de identificación de la letra c) deben estar situados en territorio de la Unión Europea.",
+   "lpac 9.3",
+   "Opciones casi idénticas",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-094",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Para los actos y gestiones de mero trámite, la representación no es posible",
+    "Para los actos y gestiones de mero trámite, la representación debe acreditarse mediante poder notarial",
+    "Para los actos y gestiones de mero trámite, la representación se presume"
+   ],
+   2,
+   "Art. 5 · Ley 39/2015: Para los actos y gestiones de mero trámite, la representación se presume.",
+   "lpac 5",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-043",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El ámbito subjetivo de aplicación de la Ley comprende al sector público, que incluye la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional",
+    "El ámbito subjetivo de aplicación de la Ley no comprende al sector público, que incluye la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional",
+    "El ámbito subjetivo de aplicación de la Ley comprende al sector público, que incluye la Administración General del Estado, las Comunidades Autónomas y los órganos constitucionales"
+   ],
+   0,
+   "Art. 2.1 · Ley 39/2015: El ámbito subjetivo de aplicación de la Ley comprende al sector público, que incluye la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional.",
+   "lpac 2.1",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-057",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los ciudadanos tienen derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos",
+    "Los ciudadanos no tienen derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos",
+    "Los ciudadanos tienen derecho a ser tratados con arreglo al orden de presentación únicamente"
+   ],
+   0,
+   "Art. 13.e · Ley 39/2015: Los ciudadanos tienen derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos.",
+   "lpac 13.e",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-107",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento",
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas deberá ser modificado por aquella en cualquier momento",
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas no podrá ser modificado por aquella en cualquier momento"
+   ],
+   0,
+   "Art. 14 · Ley 39/2015: El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "lpac 14",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, deberán actuar en representación de otras ante las Administraciones Públicas",
+    "Reglamentariamente deberán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar",
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+   ],
+   2,
+   "La correcta es «Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca». Las otras dos son falsas: lo correcto es «Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Pú",
+   "lpac 4",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los registros electrónicos de apoderamientos deben inscribir, al menos los poderes de carácter general otorgados apud acta por quien ostente la condición de interesado",
+    "Los registros electrónicos de apoderamientos deben inscribir, al menos únicamente los poderes otorgados para trámites concretos",
+    "Los registros electrónicos de apoderamientos deben inscribir, al menos todos los poderes otorgados en cualquier procedimiento"
+   ],
+   0,
+   "Art. 6.1 · Ley 39/2015: Los registros electrónicos de apoderamientos deben inscribir, al menos los poderes de carácter general otorgados apud acta por quien ostente la condición de interesado.",
+   "lpac 6.1",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-079",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las personas físicas pueden elegir en todo momento comunicarse por medios electrónicos o no sin que puedan cambiar la elección",
+    "Las personas físicas pueden elegir en todo momento comunicarse por medios electrónicos o no solo en el primer trámite del procedimiento",
+    "Las personas físicas pueden elegir en todo momento comunicarse por medios electrónicos o no salvo que estén obligadas a relacionarse electrónicamente; el medio elegido puede modificarse en cualquier momento"
+   ],
+   2,
+   "Art. 14.1 · Ley 39/2015: Las personas físicas pueden elegir en todo momento comunicarse por medios electrónicos o no salvo que estén obligadas a relacionarse electrónicamente; el medio elegido puede modificarse en cualquier momento.",
+   "lpac 14.1",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-111",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando la condición de interesado derivase de una relación jurídica transmisible, el derechohabiente sucederá en tal condición cualquiera que sea el estado del procedimiento",
+    "Cuando la condición de interesado derivase de una relación jurídica transmisible, el derechohabiente deberá iniciar un nuevo procedimiento",
+    "Cuando la condición de interesado derivase de una relación jurídica transmisible, el derechohabiente perderá la condición de interesado"
+   ],
+   0,
+   "Art. 4 · Ley 39/2015: Cuando la condición de interesado derivase de una relación jurídica transmisible, el derechohabiente sucederá en tal condición cualquiera que sea el estado del procedimiento.",
+   "lpac 4",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-007",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento, admitiéndose entre otros sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados",
+    "Los interesados no podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento, admitiéndose entre otros sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados",
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento, admitiéndose entre otros únicamente la firma manuscrita digitalizada del interesado, sin certificado electrónico ni sistema alguno de garantía adicional"
+   ],
+   0,
+   "Art. 10.2 · Ley 39/2015: Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento, admitiéndose entre otros sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados.",
+   "lpac 10.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-031",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, no podrán actuar en representación de otras ante las Administraciones Públicas",
+    "Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de tres años a contar desde la fecha de inscripción"
+   ],
+   0,
+   "La correcta es «La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia». Las otras dos son falsas: lo correcto es «Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas» (la otra frase cambia «podrán») y «Las",
+   "lpac 5",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado solo ante notario público",
+    "Se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado únicamente en las oficinas de correos",
+    "Se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o electrónica en la correspondiente sede electrónica, o mediante inscripción en el registro electrónico de apoderamientos"
+   ],
+   2,
+   "Art. 5.4 · Ley 39/2015: Se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o electrónica en la correspondiente sede electrónica, o mediante inscripción en el registro electrónico de apoderamientos.",
+   "lpac 5.4",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-075",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "En el ámbito estatal, este registro será el registro civil de Apoderamientos de la Administración General del Estado",
+    "Reglamentariamente no podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar",
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+   ],
+   2,
+   "La correcta es «Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca». Las otras dos son falsas: lo correcto es «En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado» (la otra frase cambia «Registro Electrónico») y «Reglamentariame",
+   "lpac 4",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Reglamentariamente deberán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar",
+    "Reglamentariamente no podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar",
+    "Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar"
+   ],
+   2,
+   "Art. 1 · Ley 39/2015: Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lpac 1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos",
+    "Las Administraciones Públicas no podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de seis años a contar desde la fecha de inscripción"
+   ],
+   0,
+   "La correcta es «Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos». Las otras dos son falsas: lo correcto es «Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados» (la otra frase cambia «podrán») y «Las prórrogas otor",
+   "lpac 6",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Para interponer recursos en nombre de otra persona se presume la representación",
+    "Para interponer recursos en nombre de otra persona debe acreditarse la representación",
+    "Para interponer recursos en nombre de otra persona no hace falta ninguna acreditación"
+   ],
+   1,
+   "Art. 5 · Ley 39/2015: Para interponer recursos en nombre de otra persona debe acreditarse la representación.",
+   "lpac 5",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-042",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en cualquier momento, incluso tras la firmeza",
+    "Son interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva",
+    "Son interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento hasta un mes después de la resolución"
+   ],
+   1,
+   "Art. 4 · Ley 39/2015: Son interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+   "lpac 4",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-005",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las personas físicas con capacidad de obrar y las personas jurídicas no podrán actuar en representación de otras ante las Administraciones Públicas las personas jurídicas, siempre que ello esté previsto en sus Estatutos",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas podrán actuar en representación de otras ante las Administraciones Públicas las personas jurídicas, siempre que ello esté previsto en sus Estatutos",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas podrán actuar en representación de otras ante las Administraciones Públicas las personas jurídicas, en todo caso"
+   ],
+   1,
+   "Art. 5.2 · Ley 39/2015: Las personas físicas con capacidad de obrar y las personas jurídicas podrán actuar en representación de otras ante las Administraciones Públicas las personas jurídicas, siempre que ello esté previsto en sus Estatutos.",
+   "lpac 5.2",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-071",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Los poderes inscritos en el registro tendrán una validez determinada máxima de tres años a contar desde la fecha de inscripción",
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales no serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+   ],
+   0,
+   "La correcta es «Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados». Las otras dos son falsas: lo correcto es «Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción» (la ot",
+   "lpac 5",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Corporaciones de Derecho Público se regirán por su normativa específica en el ejercicio de las funciones públicas atribuidas por ley o delegadas, y supletoriamente por la Ley 39/2015",
+    "Las Corporaciones de Derecho Público se regirán directamente por la Ley 39/2015 en todo caso",
+    "Las Corporaciones de Derecho Público se regirán únicamente por sus estatutos colegiales"
+   ],
+   0,
+   "Art. 2.4 · Ley 39/2015: Las Corporaciones de Derecho Público se regirán por su normativa específica en el ejercicio de las funciones públicas atribuidas por ley o delegadas, y supletoriamente por la Ley 39/2015.",
+   "lpac 2.4",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-061",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Cada Organismo deberá disponer de su propio registro electrónico de apoderamientos",
+    "El documento electrónico que acredite el resultado de la consulta al registro civil de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos",
+    "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca"
+   ],
+   2,
+   "La correcta es «Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca». Las otras dos son falsas: lo correcto es «Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos» (la otra frase cambia «podrá») y «El documento electrónico que acredite el resultado de la consulta al re",
+   "lpac 4",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las Administraciones Públicas deberán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las Administraciones Públicas no podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados"
+   ],
+   0,
+   "Art. 5 · Ley 39/2015: Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lpac 5",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Pueden ser interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva",
+    "Pueden ser interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en cualquier momento, incluso tras la resolución firme",
+    "Pueden ser interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento hasta que finalice la instrucción"
+   ],
+   0,
+   "Art. 4.1 · Ley 39/2015: Pueden ser interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+   "lpac 4.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con el de mayor edad",
+    "En defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con el que figure en primer término",
+    "En defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con todos ellos simultáneamente"
+   ],
+   1,
+   "Art. 7 · Ley 39/2015: En defecto de señalamiento expreso de representante o interesado entre varios, las actuaciones se efectuarán con el que figure en primer término.",
+   "lpac 7",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-140",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si un interesado no obligado a relacionarse electrónicamente no dispone de medios electrónicos, su identificación o firma electrónica podrá ser realizada válidamente por cualquier empleado de la oficina de registro, sin necesidad de consentimiento del interesado ni de dejar constancia alguna",
+    "Si un interesado no obligado a relacionarse electrónicamente no dispone de medios electrónicos, su identificación o firma electrónica podrá ser realizada válidamente por un funcionario público mediante su sistema de firma electrónica, previa identificación del interesado y su consentimiento expreso, del que debe quedar constancia",
+    "Si un interesado no obligado a relacionarse electrónicamente no dispone de medios electrónicos, su identificación o firma electrónica podrá ser realizada válidamente por un tercero designado verbalmente por el interesado, aunque no tenga vinculación alguna con la Administración ni firma electrónica"
+   ],
+   1,
+   "Art. 12.3 · Ley 39/2015: Si un interesado no obligado a relacionarse electrónicamente no dispone de medios electrónicos, su identificación o firma electrónica podrá ser realizada válidamente por un funcionario público mediante su sistema de firma electrónica, previa identificación del interesado y su consentimiento expreso, del que debe quedar constancia.",
+   "lpac 12.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-034",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.h de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Se reconoce el derecho a la protección de datos de carácter personal y en particular a la supresión inmediata de sus datos tras cada trámite",
+    "Se reconoce el derecho a la protección de datos de carácter personal y en particular al cobro de una compensación por su uso",
+    "Se reconoce el derecho a la protección de datos de carácter personal y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones"
+   ],
+   2,
+   "Art. 13.h · Ley 39/2015: Se reconoce el derecho a la protección de datos de carácter personal y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones.",
+   "lpac 13.h",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-109",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las Administraciones Públicas podrán habilitar con carácter general o específico a personas jurídicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las Administraciones Públicas podrán habilitar con carácter general o específico a entidades públicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados"
+   ],
+   0,
+   "Art. 5 · Ley 39/2015: Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados. Las otras dos frases cambian «personas físicas» por «personas jurídicas» y «entidades públicas».",
+   "lpac 5",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Está obligada a relacionarse electrónicamente con las Administraciones toda persona física",
+    "Está obligada a relacionarse electrónicamente con las Administraciones solo los empleados públicos",
+    "Está obligada a relacionarse electrónicamente con las Administraciones toda persona jurídica"
+   ],
+   2,
+   "Art. 14 · Ley 39/2015: Está obligada a relacionarse electrónicamente con las Administraciones toda persona jurídica.",
+   "lpac 14",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-047",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Se consideran interesados en el procedimiento administrativo solo las personas jurídicas",
+    "Se consideran interesados en el procedimiento administrativo quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+    "Se consideran interesados en el procedimiento administrativo únicamente quienes hayan recibido la notificación"
+   ],
+   1,
+   "Art. 4 · Ley 39/2015: Se consideran interesados en el procedimiento administrativo quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+   "lpac 4",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-003",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los asientos de los registros de apoderamientos deben contener, al menos solo los datos del poderdante y la fecha de inscripción",
+    "Los asientos de los registros de apoderamientos deben contener, al menos los antecedentes penales del apoderado",
+    "Los asientos de los registros de apoderamientos deben contener, al menos datos del poderdante y apoderado, fecha de inscripción, período por el que se otorga el poder y tipo de poder según las facultades"
+   ],
+   2,
+   "Art. 6.3 · Ley 39/2015: Los asientos de los registros de apoderamientos deben contener, al menos datos del poderdante y apoderado, fecha de inscripción, período por el que se otorga el poder y tipo de poder según las facultades.",
+   "lpac 6.3",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-083",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los poderes inscribibles pueden ser general; para cualquier actuación ante una Administración u Organismo concreto; o para determinados trámites especificados",
+    "Los poderes inscribibles pueden ser solo los referidos a procedimientos sancionadores",
+    "Los poderes inscribibles pueden ser únicamente generales"
+   ],
+   0,
+   "Art. 6.4 · Ley 39/2015: Los poderes inscribibles pueden ser general; para cualquier actuación ante una Administración u Organismo concreto; o para determinados trámites especificados.",
+   "lpac 6.4",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-084",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Con carácter general, para realizar una actuación en el procedimiento basta con comparecer presencialmente",
+    "Con carácter general, para realizar una actuación en el procedimiento basta con firmar siempre electrónicamente",
+    "Con carácter general, para realizar una actuación en el procedimiento basta con acreditar previamente la identidad por cualquiera de los medios previstos"
+   ],
+   2,
+   "Art. 11 · Ley 39/2015: Con carácter general, para realizar una actuación en el procedimiento basta con acreditar previamente la identidad por cualquiera de los medios previstos.",
+   "lpac 11",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-051",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, deberán actuar en representación de otras ante las Administraciones Públicas",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, no podrán actuar en representación de otras ante las Administraciones Públicas"
+   ],
+   0,
+   "Art. 5 · Ley 39/2015: Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lpac 5",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Reglamentariamente no podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar",
+    "Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los requisitos de validez de los actos y su eficacia",
+    "Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar"
+   ],
+   2,
+   "Art. 1.2 · Ley 39/2015: Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar.",
+   "lpac 1.2",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-056",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El registro de funcionarios habilitados debe ser exclusivo de cada Administración sin conexión con otras",
+    "El registro de funcionarios habilitados debe ser plenamente interoperable y estar interconectado con los de las restantes Administraciones",
+    "El registro de funcionarios habilitados debe ser de acceso restringido al órgano de contratación"
+   ],
+   1,
+   "Art. 12.3 · Ley 39/2015: El registro de funcionarios habilitados debe ser plenamente interoperable y estar interconectado con los de las restantes Administraciones.",
+   "lpac 12.3",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-132",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Antes de que un sistema de identificación distinto de certificados tenga eficacia jurídica, deben transcurrir desde la comunicación dos meses, durante los cuales el órgano estatal competente no podrá acudir a la vía jurisdiccional por motivos de seguridad pública",
+    "Antes de que un sistema de identificación distinto de certificados tenga eficacia jurídica, deben transcurrir desde la comunicación un mes sin posibilidad de oposición",
+    "Antes de que un sistema de identificación distinto de certificados tenga eficacia jurídica, deben transcurrir desde la comunicación dos meses, durante los cuales el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública"
+   ],
+   2,
+   "Art. 9.2.c · Ley 39/2015: Antes de que un sistema de identificación distinto de certificados tenga eficacia jurídica, deben transcurrir desde la comunicación dos meses, durante los cuales el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública.",
+   "lpac 9.2.c",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-092",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado",
+    "En el ámbito estatal, este registro será el registro civil de Apoderamientos de la Administración General del Estado",
+    "En el ámbito estatal, este registro será el registro mercantil de Apoderamientos de la Administración General del Estado"
+   ],
+   0,
+   "Art. 6 · Ley 39/2015: En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado. Las otras dos frases cambian «Registro Electrónico» por «registro civil» y «registro mercantil».",
+   "lpac 6",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados a relacionarse electrónicamente que así lo soliciten, especialmente en la redacción y presentación de recursos contencioso-administrativos y la representación procesal ante los Tribunales de Justicia",
+    "Las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados a relacionarse electrónicamente que así lo soliciten, especialmente en la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas",
+    "Las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados a relacionarse electrónicamente que así lo soliciten, especialmente en el pago de tributos y sanciones municipales mediante cargo bancario, con exclusión de la identificación y firma electrónica"
+   ],
+   1,
+   "Art. 12.2 · Ley 39/2015: Las Administraciones asistirán en el uso de medios electrónicos a los interesados no obligados a relacionarse electrónicamente que así lo soliciten, especialmente en la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.",
+   "lpac 12.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-035",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Podrán incluirse trámites adicionales o distintos a los contemplados en la Ley solo mediante ley, cuando resulte eficaz, proporcionado y necesario y de manera motivada",
+    "Podrán incluirse trámites adicionales o distintos a los contemplados en la Ley mediante reglamento, cuando lo considere oportuno la Administración",
+    "Podrán incluirse trámites adicionales o distintos a los contemplados en la Ley mediante ordenanza o reglamento de la entidad local siempre que se publique"
+   ],
+   0,
+   "Art. 1.2 · Ley 39/2015: Podrán incluirse trámites adicionales o distintos a los contemplados en la Ley solo mediante ley, cuando resulte eficaz, proporcionado y necesario y de manera motivada.",
+   "lpac 1.2",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-055",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "En el ámbito estatal, este registro será el registro mercantil de Apoderamientos de la Administración General del Estado",
+    "Los registros mercantiles, de la propiedad, y de los protocolos notariales no serán interoperables con los registros electrónicos generales y particulares de apoderamientos"
+   ],
+   0,
+   "La correcta es «Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados». Las otras dos son falsas: lo correcto es «En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado» (la otra fra",
+   "lpac 5",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Administraciones deben garantizar que los interesados puedan relacionarse con ellas por medios electrónicos poniendo a su disposición únicamente un punto de acceso presencial",
+    "Las Administraciones deben garantizar que los interesados puedan relacionarse con ellas por medios electrónicos poniendo a su disposición los canales de acceso necesarios y los sistemas y aplicaciones que en cada caso se determinen",
+    "Las Administraciones deben garantizar que los interesados puedan relacionarse con ellas por medios electrónicos poniendo a su disposición equipos informáticos gratuitos en todas las oficinas"
+   ],
+   1,
+   "Art. 12.1 · Ley 39/2015: Las Administraciones deben garantizar que los interesados puedan relacionarse con ellas por medios electrónicos poniendo a su disposición los canales de acceso necesarios y los sistemas y aplicaciones que en cada caso se determinen.",
+   "lpac 12.1",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-099",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El registro de funcionarios habilitados debe contener, al menos los jefes de servicio de cada departamento",
+    "El registro de funcionarios habilitados debe contener, al menos todos los funcionarios del municipio",
+    "El registro de funcionarios habilitados debe contener, al menos los funcionarios que presten servicios en las oficinas de asistencia en materia de registros"
+   ],
+   2,
+   "Art. 12.3 · Ley 39/2015: El registro de funcionarios habilitados debe contener, al menos los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.",
+   "lpac 12.3",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-103",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La comunicación de la tramitación a nuevos interesados procede en procedimientos que no hayan tenido publicidad",
+    "La comunicación de la tramitación a nuevos interesados procede en procedimientos que hayan sido objeto de información pública",
+    "La comunicación de la tramitación a nuevos interesados procede en procedimientos que se encuentren en fase de recurso"
+   ],
+   0,
+   "Art. 8 · Ley 39/2015: La comunicación de la tramitación a nuevos interesados procede en procedimientos que no hayan tenido publicidad.",
+   "lpac 8",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-141",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.d de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El derecho de acceso a la información pública, archivos y registros se ejerce de acuerdo con la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno",
+    "El derecho de acceso a la información pública, archivos y registros no se ejerce de acuerdo con la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno",
+    "El derecho de acceso a la información pública, archivos y registros se ejerce de acuerdo con la Ley Orgánica de Protección de Datos"
+   ],
+   0,
+   "Art. 13.d · Ley 39/2015: El derecho de acceso a la información pública, archivos y registros se ejerce de acuerdo con la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno.",
+   "lpac 13.d",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-106",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte solo si se personan",
+    "Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte no: solo lo son quienes lo inician",
+    "Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte sí, art. 4.1.b"
+   ],
+   2,
+   "Art. 4 · Ley 39/2015: Son interesados quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte sí, art. 4.1.b.",
+   "lpac 4",
+   "La afirmación, su negación y otro dato",
+   "h-interesado",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-004",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los poderes que se inscriban en los registros electrónicos de apoderamientos no deberán corresponder, entre otras, a la tipología de un poder general para actuar en cualquier actuación administrativa y ante cualquier Administración",
+    "Los poderes que se inscriban en los registros electrónicos de apoderamientos deberán corresponder, entre otras, a la tipología de un poder verbal, sin forma escrita ni inscripción, para actuaciones urgentes ante una Administración concreta",
+    "Los poderes que se inscriban en los registros electrónicos de apoderamientos deberán corresponder, entre otras, a la tipología de un poder general para actuar en cualquier actuación administrativa y ante cualquier Administración"
+   ],
+   2,
+   "Art. 6.4 · Ley 39/2015: Los poderes que se inscriban en los registros electrónicos de apoderamientos deberán corresponder, entre otras, a la tipología de un poder general para actuar en cualquier actuación administrativa y ante cualquier Administración.",
+   "lpac 6.4",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-026",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.7 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Administraciones Públicas podrán habilitar a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las Administraciones Públicas no podrán habilitar a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las Administraciones Públicas podrán habilitar a personas físicas o jurídicas autorizadas para otorgar poderes generales a los interesados"
+   ],
+   0,
+   "Art. 5.7 · Ley 39/2015: Las Administraciones Públicas podrán habilitar a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados.",
+   "lpac 5.7",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-078",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los registros de apoderamientos permitirán comprobar la representación mediante la consulta a únicamente los registros de la propia Administración",
+    "Los registros de apoderamientos permitirán comprobar la representación mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad y a los protocolos notariales",
+    "Los registros de apoderamientos permitirán comprobar la representación mediante la consulta al padrón municipal de habitantes"
+   ],
+   1,
+   "Art. 6.2 · Ley 39/2015: Los registros de apoderamientos permitirán comprobar la representación mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad y a los protocolos notariales.",
+   "lpac 6.2",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-125",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado",
+    "En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración Local",
+    "En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 6 · Ley 39/2015: En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado. Las otras dos frases cambian «Administración General del Estado» por «Administración Local» y «Administración de la Comunidad Autónoma».",
+   "lpac 6",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El órgano competente para la tramitación del procedimiento deberá incorporar al expediente la acreditación de la condición de representante y de los poderes que tiene reconocidos en ese momento",
+    "El órgano competente para la tramitación del procedimiento no deberá incorporar al expediente la acreditación de la condición de representante y de los poderes que tiene reconocidos en ese momento",
+    "El órgano competente para la tramitación del procedimiento deberá conservar la acreditación fuera del expediente"
+   ],
+   0,
+   "Art. 5.5 · Ley 39/2015: El órgano competente para la tramitación del procedimiento deberá incorporar al expediente la acreditación de la condición de representante y de los poderes que tiene reconocidos en ese momento.",
+   "lpac 5.5",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-076",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación o razón social que conste en el Documento Nacional de Identidad o documento identificativo equivalente",
+    "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación o razón social que conste en el certificado de empadronamiento",
+    "Las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación o razón social que conste en el padrón municipal únicamente"
+   ],
+   0,
+   "Art. 9 · Ley 39/2015: Las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de su nombre y apellidos o denominación o razón social que conste en el Documento Nacional de Identidad o documento identificativo equivalente.",
+   "lpac 9",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-010",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Reglamentariamente las Administraciones no podrán establecer la obligación electrónica para ciertos colectivos de personas físicas que por razón de capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios",
+    "Reglamentariamente las Administraciones podrán establecer la obligación electrónica para ciertos colectivos de personas físicas que por razón de capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios",
+    "Reglamentariamente las Administraciones podrán establecer la obligación electrónica para ciertos colectivos de personas físicas residentes en municipios de más de 20.000 habitantes"
+   ],
+   1,
+   "Art. 14.3 · Ley 39/2015: Reglamentariamente las Administraciones podrán establecer la obligación electrónica para ciertos colectivos de personas físicas que por razón de capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios.",
+   "lpac 14.3",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-115",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los empleados públicos se relacionan electrónicamente por razón de su condición en la forma en que se determine reglamentariamente por cada Administración",
+    "Los empleados públicos se relacionan electrónicamente por razón de su condición en la forma que decida cada empleado",
+    "Los empleados públicos se relacionan electrónicamente por razón de su condición siempre mediante firma manuscrita escaneada"
+   ],
+   0,
+   "Art. 14.2.e · Ley 39/2015: Los empleados públicos se relacionan electrónicamente por razón de su condición en la forma en que se determine reglamentariamente por cada Administración.",
+   "lpac 14.2.e",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-137",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo DA6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "No son admisibles en ningún caso, mientras el Estado no los regule específicamente en el marco del Derecho de la Unión Europea, los sistemas de identificación basados en claves concertadas en un registro previo de usuarios",
+    "No son admisibles en ningún caso, mientras el Estado no los regule específicamente en el marco del Derecho de la Unión Europea, los sistemas de identificación basados en certificados electrónicos cualificados de firma electrónica",
+    "No son admisibles en ningún caso, mientras el Estado no los regule específicamente en el marco del Derecho de la Unión Europea, los sistemas de identificación basados en tecnologías de registro distribuido, y los sistemas de firma basados en ellas"
+   ],
+   2,
+   "Art. DA6 · Ley 39/2015: No son admisibles en ningún caso, mientras el Estado no los regule específicamente en el marco del Derecho de la Unión Europea, los sistemas de identificación basados en tecnologías de registro distribuido, y los sistemas de firma basados en ellas.",
+   "lpac DA6",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-160",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Durante los dos meses desde la comunicación del sistema, el órgano estatal competente no podrá acudir a la vía jurisdiccional por motivos de seguridad pública previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitirlo en diez días desde su solicitud",
+    "Durante los dos meses desde la comunicación del sistema, el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitirlo en diez días desde su solicitud",
+    "Durante los dos meses desde la comunicación del sistema, el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública previo informe vinculante del Ministerio del Interior, en quince días"
+   ],
+   1,
+   "Art. 9.2.c · Ley 39/2015: Durante los dos meses desde la comunicación del sistema, el órgano estatal competente podrá acudir a la vía jurisdiccional por motivos de seguridad pública previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitirlo en diez días desde su solicitud.",
+   "lpac 9.2.c",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-128",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Tienen la consideración de Administraciones Públicas la AGE, las Administraciones de las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público vinculados o dependientes",
+    "Tienen la consideración de Administraciones Públicas todas las entidades del sector público institucional, incluidas las de derecho privado",
+    "Tienen la consideración de Administraciones Públicas solo la AGE, las CCAA y las Entidades Locales"
+   ],
+   0,
+   "Art. 2.3 · Ley 39/2015: Tienen la consideración de Administraciones Públicas la AGE, las Administraciones de las CCAA, las Entidades Locales y los organismos públicos y entidades de derecho público vinculados o dependientes.",
+   "lpac 2.3",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-060",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los registros generales de apoderamientos sustituyen a los registros particulares de los organismos",
+    "Los registros generales de apoderamientos no impiden la existencia de registros particulares en cada Organismo para trámites específicos",
+    "Los registros generales de apoderamientos prohíben registros particulares"
+   ],
+   1,
+   "Art. 6.1 · Ley 39/2015: Los registros generales de apoderamientos no impiden la existencia de registros particulares en cada Organismo para trámites específicos.",
+   "lpac 6.1",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-081",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos",
+    "Cada Organismo podrá disponer de su propio registro civil de apoderamientos",
+    "Cada Organismo podrá disponer de su propio registro mercantil de apoderamientos"
+   ],
+   0,
+   "Art. 6 · Ley 39/2015: Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos. Las otras dos frases cambian «registro electrónico» por «registro civil» y «registro mercantil».",
+   "lpac 6",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Los poderes inscritos en el registro tendrán una validez determinada máxima de seis años a contar desde la fecha de inscripción",
+    "Las Administraciones Públicas deberán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados",
+    "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas"
+   ],
+   2,
+   "La correcta es «Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas». Las otras dos son falsas: lo correcto es «Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción» (la otra frase cambia «cinco años»)",
+   "lpac 5",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En el ámbito estatal, el registro electrónico general de apoderamientos es el Registro Electrónico de Apoderamientos de la Administración General del Estado",
+    "En el ámbito estatal, el registro electrónico general de apoderamientos no es el Registro Electrónico de Apoderamientos de la Administración General del Estado",
+    "En el ámbito estatal, el registro electrónico general de apoderamientos es el Registro Civil electrónico"
+   ],
+   0,
+   "Art. 6.1 · Ley 39/2015: En el ámbito estatal, el registro electrónico general de apoderamientos es el Registro Electrónico de Apoderamientos de la Administración General del Estado.",
+   "lpac 6.1",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-124",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso los procuradores únicamente",
+    "Dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso los abogados exclusivamente",
+    "Dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso los notarios y registradores de la propiedad y mercantiles"
+   ],
+   2,
+   "Art. 14.2.c · Ley 39/2015: Dentro de los profesionales de colegiación obligatoria se entienden incluidos en todo caso los notarios y registradores de la propiedad y mercantiles.",
+   "lpac 14.2.c",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-113",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo improrrogable de cinco días que deberá conceder el órgano administrativo, sin posibilidad de ampliación alguna",
+    "La falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo de un mes desde la presentación del escrito, contado de fecha a fecha, previa advertencia de archivo",
+    "La falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo de diez días que deberá conceder el órgano administrativo, o uno superior si las circunstancias lo requieren"
+   ],
+   2,
+   "Art. 5.6 · Ley 39/2015: La falta o insuficiente acreditación de la representación no impedirá tener por realizado el acto siempre que se subsane en el plazo de diez días que deberá conceder el órgano administrativo, o uno superior si las circunstancias lo requieren.",
+   "lpac 5.6",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-024",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La falta o insuficiente acreditación de la representación puede subsanarse en el plazo de diez días, o más si las circunstancias lo requieren",
+    "La falta o insuficiente acreditación de la representación puede subsanarse en el plazo de quince días improrrogables",
+    "La falta o insuficiente acreditación de la representación puede subsanarse en el plazo de cinco días"
+   ],
+   0,
+   "Art. 5 · Ley 39/2015: La falta o insuficiente acreditación de la representación puede subsanarse en el plazo de diez días, o más si las circunstancias lo requieren.",
+   "lpac 5",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-044",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Los interesados deberán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+    "Los interesados no podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+    "Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento"
+   ],
+   2,
+   "Art. 10 · Ley 39/2015: Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lpac 10",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.g de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Se reconoce a las personas el derecho a que se les exima de todos los trámites electrónicos",
+    "Se reconoce a las personas el derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley",
+    "Se reconoce a las personas el derecho a elegir libremente el órgano que resuelva su solicitud"
+   ],
+   1,
+   "Art. 13.g · Ley 39/2015: Se reconoce a las personas el derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley.",
+   "lpac 13.g",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-134",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Sólo requerirán a los interesados el uso obligatorio de firma para únicamente interponer recursos y renunciar a derechos, quedando exentas de firma las solicitudes y declaraciones responsables",
+    "Sólo requerirán a los interesados el uso obligatorio de firma para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos",
+    "Sólo requerirán a los interesados el uso obligatorio de firma para cualquier actuación prevista en el procedimiento administrativo, incluidas las de mero trámite y las alegaciones ordinarias"
+   ],
+   1,
+   "Art. 11.2 · Ley 39/2015: Sólo requerirán a los interesados el uso obligatorio de firma para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
+   "lpac 11.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-033",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La asistencia en el uso de medios electrónicos se presta a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten",
+    "La asistencia en el uso de medios electrónicos se presta a los interesados obligados a relacionarse electrónicamente en todo caso",
+    "La asistencia en el uso de medios electrónicos se presta a los interesados que sean personas jurídicas"
+   ],
+   0,
+   "Art. 12.2 · Ley 39/2015: La asistencia en el uso de medios electrónicos se presta a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten.",
+   "lpac 12.2",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-131",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.f de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Entre los derechos de las personas figura obtener indemnización automática por demoras",
+    "Entre los derechos de las personas figura exigir las responsabilidades de las Administraciones Públicas y autoridades cuando así corresponda legalmente",
+    "Entre los derechos de las personas figura elegir el órgano que resuelva su caso"
+   ],
+   1,
+   "Art. 13.f · Ley 39/2015: Entre los derechos de las personas figura exigir las responsabilidades de las Administraciones Públicas y autoridades cuando así corresponda legalmente.",
+   "lpac 13.f",
+   "La afirmación, su negación y otro dato",
+   "h-relacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-108",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En el registro de apoderamientos no deberá constar también el bastanteo realizado del poder",
+    "En el registro de apoderamientos deberá constar también la declaración de bienes del poderdante",
+    "En el registro de apoderamientos deberá constar también el bastanteo realizado del poder"
+   ],
+   2,
+   "Art. 6.1 · Ley 39/2015: En el registro de apoderamientos deberá constar también el bastanteo realizado del poder.",
+   "lpac 6.1",
+   "La afirmación, su negación y otro dato",
+   "h-actuar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-080",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El sector público institucional se integra por Organismos públicos y entidades de derecho público vinculados o dependientes, entidades de derecho privado vinculadas o dependientes y Universidades públicas",
+    "El sector público institucional se integra por solo los organismos públicos y las sociedades mercantiles",
+    "El sector público institucional se integra por las Administraciones territoriales y sus órganos de gobierno"
+   ],
+   0,
+   "Art. 2.2 · Ley 39/2015: El sector público institucional se integra por Organismos públicos y entidades de derecho público vinculados o dependientes, entidades de derecho privado vinculadas o dependientes y Universidades públicas.",
+   "lpac 2.2",
+   "La afirmación, su negación y otro dato",
+   "h-ley39",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-117",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma cualquier sistema sin registro previo",
+    "Si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma sistemas de firma electrónica cualificada y avanzada, sello electrónico cualificado y avanzado y otros sistemas admitidos con registro previo",
+    "Si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma solo los sistemas de firma cualificada"
+   ],
+   1,
+   "Art. 10.2 · Ley 39/2015: Si optan por relacionarse electrónicamente, se consideran válidos a efectos de firma sistemas de firma electrónica cualificada y avanzada, sello electrónico cualificado y avanzado y otros sistemas admitidos con registro previo.",
+   "lpac 10.2",
+   "La afirmación, su negación y otro dato",
+   "h-ident-firma",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t04-096",
+    "tc": 1
    }
   ]
  ]

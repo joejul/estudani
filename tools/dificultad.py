@@ -30,7 +30,7 @@ if __name__ == '__main__':
     for f in sorted(glob.glob('data/tema[0-9][0-9].json')):
         d = json.load(open(f, encoding='utf-8'))
         for q in d['preguntas']:
-            if isinstance(q, list) and len(q) > 8 and isinstance(q[8], dict) and q[8].get('nuevo'):
+            if isinstance(q, list) and len(q) > 8 and isinstance(q[8], dict) and q[8].get('nuevo') and not q[8].get('tc') and not q[8].get('hard'):   # las del test completo ya son de nivel 3 por su formato
                 n = nivel(q)
                 cuenta[n] += 1
                 if n == 2: q[8].pop('dif', None)

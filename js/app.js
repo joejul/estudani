@@ -668,6 +668,7 @@ function cuerpoAsociar(n, t, id) {
 // ---------------------------------------------------------------- test del tema
 function cuerpoTestTema(n, t) {
   const total = t.preguntas.length;
+  const completo = t.preguntas.filter((q) => q.tc).length || total; // el «Test completo» son las 150 preguntas de nivel alto que cubren todos los artículos
   const trampas = t.preguntas.filter((q) => q.tipo === 'trampa').length;
   const altas = t.preguntas.filter((q) => q.dif >= 3).length;
   const fallos = store.falladas(idsTema(n)).length;
@@ -680,8 +681,8 @@ function cuerpoTestTema(n, t) {
     .join('');
   return `
     <section class="card"><h3>Todo el tema</h3>
-      <p class="muted">${total} preguntas · ${trampas} trampa · ${r.vistas} vistas · ${r.precision === null ? 'sin datos' : r.precision + '% de acierto'}</p>
-      <button class="btn primary" data-act="empezar" data-modo="tema" data-tema="${n}">Test completo (${total})</button>
+      <p class="muted">${completo} preguntas de nivel alto que cubren todos los artículos del tema · ${r.vistas} vistas · ${r.precision === null ? 'sin datos' : r.precision + '% de acierto'}</p>
+      <button class="btn primary" data-act="empezar" data-modo="tema" data-tema="${n}">Test completo (${completo})</button>
       <div class="acciones">
         <button class="btn" data-act="empezar" data-modo="trampas" data-tema="${n}">Solo preguntas trampa (${trampas})</button>
         <button class="btn" data-act="empezar" data-modo="dificiles" data-tema="${n}" ${altas ? '' : 'disabled'}>Solo nivel alto (${altas})</button>
@@ -756,7 +757,7 @@ function empezar(modo, p = {}) {
   let inmediato = true;
   let volver = '#/repaso';
   let ordenar = false;
-  if (modo === 'tema') { pool = D.preguntas.filter(delTema); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
+  if (modo === 'tema') { const todas = D.preguntas.filter(delTema); pool = todas.some((q) => q.tc) ? todas.filter((q) => q.tc) : todas; titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
   else if (modo === 'epi') { pool = D.preguntas.filter((q) => delTema(q) && q.epi === p.epi); titulo = `Tema ${n}`; volver = `#/tema/${n}/test`; }
   else if (modo === 'trampas') { pool = D.preguntas.filter((q) => delTema(q) && enEstudio(q) && q.tipo === 'trampa'); titulo = 'Preguntas trampa'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }
   else if (modo === 'dificiles') { pool = barajar(D.preguntas.filter((q) => delTema(q) && enEstudio(q) && q.dif >= 3)).slice(0, 20); titulo = 'Nivel alto'; volver = n ? `#/tema/${n}/test` : '#/repaso'; }

@@ -1104,7 +1104,8 @@
    "h-clases",
    [
     "funcionarios interinos"
-   ]
+   ],
+   {}
   ],
   [
    "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración por:",
@@ -1120,7 +1121,8 @@
    "h-clases",
    [
     "relación estatutaria"
-   ]
+   ],
+   {}
   ],
   [
    "Según el art. 10.1.d) TREBEP, son funcionarios interinos los que son nombrados por el exceso o acumulación de tareas por plazo máximo de:",
@@ -1136,7 +1138,8 @@
    "h-interinos",
    [
     "nueve meses"
-   ]
+   ],
+   {}
   ],
   [
    "La existencia de plazas vacantes que no puedan ser cubiertas por funcionarios de carrera justifica el nombramiento de interinos por un máximo de:",
@@ -1152,7 +1155,8 @@
    "h-interinos",
    [
     "tres años"
-   ]
+   ],
+   {}
   ],
   [
    "La ejecución de programas de carácter temporal por funcionarios interinos no podrá tener una duración superior a:",
@@ -1168,7 +1172,8 @@
    "h-interinos",
    [
     "tres años"
-   ]
+   ],
+   {}
   ],
   [
    "Es personal eventual el que, con carácter no permanente, solo realiza funciones:",
@@ -1184,7 +1189,8 @@
    "h-clases",
    [
     "confianza o asesoramiento especial"
-   ]
+   ],
+   {}
   ],
   [
    "Es personal laboral el que presta servicios retribuidos a las Administraciones en virtud de:",
@@ -1200,7 +1206,8 @@
    "h-clases",
    [
     "contrato de trabajo"
-   ]
+   ],
+   {}
   ],
   [
    "¿Cuál de los siguientes es un derecho individual del art. 14 TREBEP?",
@@ -1216,7 +1223,8 @@
    "h-derechos",
    [
     "inamovilidad"
-   ]
+   ],
+   {}
   ],
   [
    "La libertad sindical y la negociación colectiva son, según el TREBEP:",
@@ -1232,7 +1240,8 @@
    "h-derechos",
    [
     "ejercidos colectivamente"
-   ]
+   ],
+   {}
   ],
   [
    "Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por:",
@@ -1248,7 +1257,8 @@
    "h-deberes",
    [
     "intereses generales"
-   ]
+   ],
+   {}
   ],
   [
    "Los órganos específicos de representación de los funcionarios son, según el art. 39.1:",
@@ -1264,7 +1274,8 @@
    "h-repres",
    [
     "Delegados de Personal"
-   ]
+   ],
+   {}
   ],
   [
    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de:",
@@ -1280,7 +1291,8 @@
    "h-repres",
    [
     "50 funcionarios"
-   ]
+   ],
+   {}
   ],
   [
    "En las unidades electorales con 31 a 49 funcionarios se elegirán:",
@@ -1296,7 +1308,8 @@
    "h-repres",
    [
     "tres"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 8.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, son empleados públicos:",
@@ -1682,7 +1695,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1700,7 +1714,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1806,7 +1821,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1859,7 +1875,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2038,7 +2055,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 38",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2125,7 +2143,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2323,7 +2342,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2486,7 +2506,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3669,7 +3690,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3723,7 +3745,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3881,7 +3904,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3989,7 +4013,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4137,7 +4162,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4441,6 +4467,2889 @@
     "nuevo": 1,
     "neg": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos",
+    "Las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios no deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos",
+    "Las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deberán reflejarse para cada ejercicio presupuestario en la relación de puestos de trabajo"
+   ],
+   0,
+   "Art. 21.1 · RDLeg 5/2015 (TREBEP): Las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos.",
+   "trebep 21.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-040",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos",
+    "La carrera profesional y la promoción del personal laboral se hará efectiva según las leyes de Función Pública que se dicten en desarrollo del Estatuto, como para funcionarios",
+    "La carrera profesional y la promoción del personal laboral se hará efectiva mediante libre designación con convocatoria pública, como en el caso de los puestos de confianza"
+   ],
+   0,
+   "Art. 19 · RDLeg 5/2015 (TREBEP): La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos.",
+   "trebep 19",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-037",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente",
+    "El número mínimo se establecerá por los respectivos órganos de gobierno",
+    "El ceno se tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento"
+   ],
+   0,
+   "La correcta es «Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente». Las otras dos son falsas: lo correcto es «El número máximo se establecerá por los respectivos órganos de gobierno» (la otra frase cambia «",
+   "trebep 9",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los empleados públicos deberán desempeñar con diligencia las tareas asignadas y velar por los intereses generales, actuando con arreglo a los principios de objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres",
+    "Los empleados públicos no deberán desempeñar con diligencia las tareas asignadas y velar por los intereses generales, actuando con arreglo a los principios de objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres",
+    "Los empleados públicos deberán desempeñar con diligencia las tareas asignadas y velar por los intereses generales, actuando con arreglo a los principios de legalidad, publicidad y concurrencia, en el desempeño de las tareas que tengan asignadas"
+   ],
+   0,
+   "Art. 52 · RDLeg 5/2015 (TREBEP): Los empleados públicos deberán desempeñar con diligencia las tareas asignadas y velar por los intereses generales, actuando con arreglo a los principios de objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y me",
+   "trebep 52",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-051",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+    "Son empleados públicos quienes trabajan en cualquier empresa o entidad participada por la Administración con capital público",
+    "Son empleados públicos solo los funcionarios de carrera y los funcionarios interinos que desempeñen funciones públicas"
+   ],
+   0,
+   "Art. 8.1 · RDLeg 5/2015 (TREBEP): Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+   "trebep 8.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-014",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Entre los derechos individuales ejercidos colectivamente se encuentra el ejercicio de la huelga, con la garantía del mantenimiento de la totalidad de los servicios",
+    "Entre los derechos individuales ejercidos colectivamente se encuentra el ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad",
+    "Entre los derechos individuales ejercidos colectivamente se encuentra el ejercicio de la huelga, con la garantía del cobro de las retribuciones durante la huelga"
+   ],
+   1,
+   "Art. 15 · RDLeg 5/2015 (TREBEP): Entre los derechos individuales ejercidos colectivamente se encuentra el ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad.",
+   "trebep 15",
+   "Opciones casi idénticas",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-111",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "El personal laboral al servicio de las Administraciones Públicas no se regirá, en materia de teletrabajo, por lo previsto en el presente Estatuto y por sus normas de desarrollo",
+    "Cumplirán con diligencia las tareas que les correspondan o se les encomienden y, en su caso, resolverán dentro de plazo los procedimientos o expedientes de su competencia",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo medio de 50 funcionarios"
+   ],
+   1,
+   "La correcta es «Cumplirán con diligencia las tareas que les correspondan o se les encomienden y, en su caso, resolverán dentro de plazo los procedimientos o expedientes de su competencia». Las otras dos son falsas: lo correcto es «El personal laboral al servicio de las Administraciones Públicas se regirá, en materia de teletrabajo, por lo previsto en el presente Estatuto y por sus normas de desarrollo» (la otra frase",
+   "trebep 53",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37.2.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Quedan excluidas de la obligatoriedad de negociación las decisiones que afecten a las potestades de organización de las Administraciones Públicas",
+    "Quedan excluidas de la obligatoriedad de negociación las decisiones que afecten a las retribuciones complementarias",
+    "Quedan excluidas de la obligatoriedad de negociación las decisiones que afecten a la jornada y horarios"
+   ],
+   0,
+   "Art. 37.2.a · RDLeg 5/2015 (TREBEP): Quedan excluidas de la obligatoriedad de negociación las decisiones que afecten a las potestades de organización de las Administraciones Públicas.",
+   "trebep 37.2.a",
+   "La afirmación, su negación y otro dato",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-133",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de transparencia, objetividad, imparcialidad y no discriminación",
+    "Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de mérito y capacidad, aplicándose a todos los empleados con carácter anual y obligatorio",
+    "Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de eficacia y jerarquía, aplicándose solo a los puestos de trabajo obtenidos por concurso"
+   ],
+   0,
+   "Art. 20.2 · RDLeg 5/2015 (TREBEP): Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de transparencia, objetividad, imparcialidad y no discriminación.",
+   "trebep 20.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-039",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.c de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a las pagas extraordinarias",
+    "Entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a la antigüedad del funcionario",
+    "Entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a los servicios extraordinarios prestados fuera de la jornada normal de trabajo"
+   ],
+   2,
+   "Art. 24.c · RDLeg 5/2015 (TREBEP): Entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
+   "trebep 24.c",
+   "La afirmación, su negación y otro dato",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-128",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Por negociación colectiva se entiende el derecho a negociar la determinación de la organización de los servicios",
+    "Por negociación colectiva se entiende el derecho a negociar la determinación de las retribuciones básicas únicamente",
+    "Por negociación colectiva se entiende el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública"
+   ],
+   2,
+   "Art. 31.2 · RDLeg 5/2015 (TREBEP): Por negociación colectiva se entiende el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+   "trebep 31.2",
+   "La afirmación, su negación y otro dato",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-130",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Entre los derechos individuales de los empleados públicos, la inamovilidad no se reconoce en la condición de funcionario de carrera",
+    "Entre los derechos individuales de los empleados públicos, la inamovilidad se reconoce en el puesto de trabajo desempeñado",
+    "Entre los derechos individuales de los empleados públicos, la inamovilidad se reconoce en la condición de funcionario de carrera"
+   ],
+   2,
+   "Art. 14.a · RDLeg 5/2015 (TREBEP): Entre los derechos individuales de los empleados públicos, la inamovilidad se reconoce en la condición de funcionario de carrera.",
+   "trebep 14.a",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-107",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Es personal laboral el que presta servicios retribuidos a las Administraciones en virtud de nombramiento de confianza",
+    "Es personal laboral el que presta servicios retribuidos a las Administraciones en virtud de contrato de trabajo formalizado por escrito",
+    "Es personal laboral el que presta servicios retribuidos a las Administraciones en virtud de nombramiento legal"
+   ],
+   1,
+   "Art. 11 · RDLeg 5/2015 (TREBEP): Es personal laboral el que presta servicios retribuidos a las Administraciones en virtud de contrato de trabajo formalizado por escrito.",
+   "trebep 11",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-007",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La carrera horizontal consiste en el acceso a cuerpos o escalas de un Subgrupo superior mediante procesos selectivos de promoción",
+    "La carrera horizontal consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos",
+    "La carrera horizontal consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo"
+   ],
+   2,
+   "Art. 16.3 · RDLeg 5/2015 (TREBEP): La carrera horizontal consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+   "trebep 16.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-033",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "El teletrabajo en las Administraciones es forzoso y reversible, salvo excepciones justificadas",
+    "El teletrabajo en las Administraciones es voluntario y reversible, salvo excepciones justificadas",
+    "El teletrabajo en las Administraciones es automático y reversible, salvo excepciones justificadas"
+   ],
+   1,
+   "Art. 47 bis · RDLeg 5/2015 (TREBEP): El teletrabajo en las Administraciones es voluntario y reversible, salvo excepciones justificadas. Las otras dos frases cambian «Voluntario» por «Forzoso» y «Automático».",
+   "trebep 47 bis",
+   "Una sola palabra cambia el sentido",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t17-082",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El nombramiento y cese del personal eventual no serán libres, y el cese tendrá lugar en todo caso cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento",
+    "El nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso al finalizar el ejercicio presupuestario en el que fue nombrado, por falta de consignación",
+    "El nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento"
+   ],
+   2,
+   "Art. 12.3 · RDLeg 5/2015 (TREBEP): El nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.",
+   "trebep 12.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-024",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La determinación de las condiciones de empleo del personal directivo se fija en el convenio colectivo aplicable, y si es laboral estará sometido a la relación laboral común",
+    "La determinación de las condiciones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva; si es personal laboral, estará sometido a la relación laboral especial de alta dirección",
+    "La determinación de las condiciones de empleo del personal directivo es materia objeto de negociación colectiva, fijándose en el acuerdo con las organizaciones sindicales"
+   ],
+   1,
+   "Art. 13.4 · RDLeg 5/2015 (TREBEP): La determinación de las condiciones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva; si es personal laboral, estará sometido a la relación laboral especial de alta dirección.",
+   "trebep 13.4",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-027",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Las dos semanas finales del permiso por nacimiento pueden disfrutarse hasta que el hijo cumpla ocho años",
+    "Las semanas obligatorias e ininterrumpidas tras el parto son seis",
+    "De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las cuatro semanas posteriores al parto"
+   ],
+   2,
+   "La incorrecta es «de las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las cuatro semanas posteriores al parto». Lo correcto: de las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las seis semanas inmediatamente posteriores al parto.",
+   "trebep 49.a",
+   "Proposición negativa",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante informe del superior jerárquico",
+    "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias",
+    "Los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual"
+   ],
+   0,
+   "La incorrecta es «la continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante informe del superior jerárquico». Lo correcto: la continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante resolución motivada.",
+   "trebep 20.4",
+   "Proposición negativa",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "De 31 a 49 funcionarios se elegirán Delegados de Personal en número de tres, que ejercerán su representación conjunta y mancomunadamente",
+    "En las unidades electorales con 31 a 49 funcionarios se elegirán una Junta de Personal",
+    "Una Junta de Personal en unidad de 101 a 250 funcionarios se compone de 9 representantes"
+   ],
+   1,
+   "La incorrecta es «en las unidades electorales con 31 a 49 funcionarios se elegirán una Junta de Personal». Lo correcto: en las unidades electorales con 31 a 49 funcionarios se elegirán tres Delegados de Personal, que ejercerán su representación conjunta y mancomunadamente.",
+   "trebep 39",
+   "Proposición negativa",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Las leyes de Función Pública que se dicten en desarrollo de este Estatuto determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal",
+    "El ceno se tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento",
+    "Las leyes de Función Pública que se dicten en desarrollo de este Estatuto establecerán los criterios para la determinación de los puestos de trabajo que pueden ser desempeñados por personal laboral, respetando en todo caso lo establecido en el artículo 9.2"
+   ],
+   1,
+   "La incorrecta es «El ceno se tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento»: niega lo que dice la ley. Lo correcto: «El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento».",
+   "trebep 12",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "El número máximo de personal eventual lo establecen las leyes de presupuestos de cada año",
+    "El personal eventual no puede alegar su condición como mérito para acceder a la función pública",
+    "Las retribuciones básicas están integradas única y exclusivamente por el sueldo y los trienios"
+   ],
+   0,
+   "La incorrecta es «el número máximo de personal eventual lo establecen las leyes de presupuestos de cada año». Lo correcto: el número máximo de personal eventual lo establecen los respectivos órganos de gobierno, siendo públicos ese número y las condiciones retributivas.",
+   "trebep 12.2",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "El personal laboral no tendrá derecho a la promoción profesional",
+    "Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario",
+    "Las Administraciones Públicas adoptarán medidas que incentiven la participación de su personal en los procesos selectivos de promoción interna y para la progresión en la carrera profesional"
+   ],
+   0,
+   "La incorrecta es «El personal laboral no tendrá derecho a la promoción profesional»: niega lo que dice la ley. Lo correcto: «El personal laboral tendrá derecho a la promoción profesional».",
+   "trebep 19",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores o en los convenios colectivos",
+    "Las Administraciones Públicas adoptarán medidas que incentiven la participación de su personal en los procesos selectivos de promoción interna y para la progresión en la carrera profesional",
+    "Los funcionarios de carrera no tendrán derecho a la promoción profesional"
+   ],
+   2,
+   "La incorrecta es «Los funcionarios de carrera no tendrán derecho a la promoción profesional»: niega lo que dice la ley. Lo correcto: «Los funcionarios de carrera tendrán derecho a la promoción profesional».",
+   "trebep 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Se podrá solicitar la sustitución del tiempo de lactancia por un permiso retribuido que acumule en jornadas completas el tiempo correspondiente",
+    "Permiso por adopción, por guarda con fines de adopción, o acogimiento, tanto temporal como permanente: tendrá una duración de diecinueve semanas para cada adoptante, guardador o acogedor",
+    "Los empleados públicos no tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo"
+   ],
+   2,
+   "La incorrecta es «Los empleados públicos no tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo»: niega lo que dice la ley. Lo correcto: «Los empleados públicos tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo».",
+   "trebep 31",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Por matrimonio o constitución formalizada de pareja de hecho corresponde un permiso de veinte días",
+    "El permiso por fallecimiento de un familiar de primer grado en la misma localidad es de tres días hábiles",
+    "Por accidente o enfermedad graves de un familiar de primer grado, el permiso es de cinco días hábiles"
+   ],
+   0,
+   "La incorrecta es «por matrimonio o constitución formalizada de pareja de hecho corresponde un permiso de veinte días». Lo correcto: por matrimonio o constitución formalizada de pareja de hecho corresponde un permiso de quince días.",
+   "trebep 48.l",
+   "Proposición negativa",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La inamovilidad en la condición se pierde, en un funcionario de carrera, por separación del servicio por falta muy grave",
+    "La existencia de plazas vacantes que no puedan ser cubiertas por funcionarios de carrera justifica el nombramiento de interinos por un máximo de tres años",
+    "En la carrera horizontal los ascensos de grado serán, con carácter general salteados por méritos"
+   ],
+   2,
+   "La incorrecta es «en la carrera horizontal los ascensos de grado serán, con carácter general salteados por méritos». Lo correcto: en la carrera horizontal los ascensos de grado serán, con carácter general consecutivos, salvo supuestos excepcionales.",
+   "trebep 17.a",
+   "Proposición negativa",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "De 1.001 funcionarios en adelante, las Juntas de Personal tienen dos representantes por cada 1.000 o fracción, con un máximo de 50",
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponde a los Delegados de Personal",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios"
+   ],
+   0,
+   "La incorrecta es «de 1.001 funcionarios en adelante, las Juntas de Personal tienen dos representantes por cada 1.000 o fracción, con un máximo de 50». Lo correcto: de 1.001 funcionarios en adelante, las Juntas de Personal tienen dos representantes por cada 1.000 o fracción, con un máximo de 75.",
+   "trebep 39.5",
+   "Proposición negativa",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "No podrá percibirse participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de cualquier servicio ni participación o premio en multas impuestas, aunque estuviesen normativamente atribuidas a los servicios",
+    "El personal directivo es el que desarrolla funciones directivas profesionales en las Administraciones Públicas, designado por mérito, capacidad e idoneidad con publicidad y concurrencia y sujeto a evaluación por eficacia, eficiencia y resultados",
+    "Los empleados públicos se clasifican en funcionarios, contratados administrativos y becarios"
+   ],
+   2,
+   "La incorrecta es «los empleados públicos se clasifican en funcionarios, contratados administrativos y becarios». Lo correcto: los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual.",
+   "trebep 8",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Por asuntos particulares, los funcionarios tienen derecho a seis días al año",
+    "Los empleados públicos deberán desempeñar con diligencia las tareas asignadas y velar por los intereses generales, actuando con arreglo a los principios de objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres",
+    "Las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deberán reflejarse para cada ejercicio presupuestario en la relación de puestos de trabajo"
+   ],
+   2,
+   "La incorrecta es «las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deberán reflejarse para cada ejercicio presupuestario en la relación de puestos de trabajo». Lo correcto: las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias de los funcionarios deberán reflejarse para cada ejercicio presupuestario en la corres",
+   "trebep 21.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Si el personal directivo tiene la condición de personal laboral, estará sometido al convenio colectivo de la Administración",
+    "La promoción interna exige una antigüedad de al menos dos años de servicio activo en el subgrupo inferior",
+    "La inamovilidad en la condición se pierde, en un funcionario de carrera, por separación del servicio por falta muy grave"
+   ],
+   0,
+   "La incorrecta es «si el personal directivo tiene la condición de personal laboral, estará sometido al convenio colectivo de la Administración». Lo correcto: si el personal directivo tiene la condición de personal laboral, estará sometido a la relación laboral de carácter especial de alta dirección.",
+   "trebep 13.4",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La promoción interna horizontal consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional",
+    "La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad",
+    "La carrera horizontal consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos"
+   ],
+   2,
+   "La incorrecta es «la carrera horizontal consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos». Lo correcto: la carrera horizontal consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+   "trebep 16.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La cuantía y estructura de las retribuciones complementarias se establecerán atendiendo, entre otros, a los factores de progresión en la carrera, especial dificultad técnica o responsabilidad, grado de interés e iniciativa o rendimiento y servicios extraordinarios fuera de la jornada normal",
+    "De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las seis semanas inmediatamente posteriores al parto",
+    "Son derechos individuales de los empleados públicos que se ejercen de forma colectiva la formación continua y la defensa jurídica y protección de la Administración Pública"
+   ],
+   2,
+   "La incorrecta es «son derechos individuales de los empleados públicos que se ejercen de forma colectiva la formación continua y la defensa jurídica y protección de la Administración Pública». Lo correcto: son derechos individuales de los empleados públicos que se ejercen de forma colectiva la libertad sindical, la negociación colectiva, el ejercicio de la huelga con mantenimiento de servicios esenciales, el planteami",
+   "trebep 15",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Cuando el personal directivo reúna la condición de personal laboral no estará sometido a la relación laboral de carácter especial de alta dirección",
+    "El número máximo se establecerá por los respectivos órganos de gobierno",
+    "La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad"
+   ],
+   0,
+   "La incorrecta es «Cuando el personal directivo reúna la condición de personal laboral no estará sometido a la relación laboral de carácter especial de alta dirección»: niega lo que dice la ley. Lo correcto: «Cuando el personal directivo reúna la condición de personal laboral estará sometido a la relación laboral de carácter especial de alta dirección».",
+   "trebep 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Pueden nombrarse funcionarios interinos por la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años",
+    "En el disfrute interrumpido del permiso por nacimiento se requiere para cada período un preaviso de al menos quince días, y se realizará por semanas completas",
+    "Entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a la antigüedad del funcionario"
+   ],
+   2,
+   "La incorrecta es «entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a la antigüedad del funcionario». Lo correcto: entre los factores de las retribuciones complementarias está el grado de interés, iniciativa o esfuerzo y el rendimiento o resultados, mientras que el apartado d) se refiere a los s",
+   "trebep 24.c",
+   "Proposición negativa",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Respecto de los regalos, se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía",
+    "Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses de su sindicato",
+    "Los empleados públicos observarán las normas sobre seguridad y salud laboral y mantendrán actualizada su formación y cualificación"
+   ],
+   1,
+   "La incorrecta es «los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses de su sindicato». Lo correcto: los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales, con sujeción a la Constitución y al resto del ordenamiento jurídico.",
+   "trebep 52",
+   "Proposición negativa",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados",
+    "El personal laboral tendrá derecho a la promoción profesional",
+    "Las retribuciones complementarias no son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario"
+   ],
+   2,
+   "La incorrecta es «Las retribuciones complementarias no son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario»: niega lo que dice la ley. Lo correcto: «Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o re",
+   "trebep 22",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Se realizará en los términos de las normas que se dicten en desarrollo de este Estatuto, que serán objeto de negociación colectiva en el ámbito correspondiente y contemplarán criterios objetivos en el acceso a esta modalidad de prestación de servicio",
+    "El teletrabajo no deberá contribuir a una mejor organización del trabajo a través de la identificación de objetivos y la evaluación de su cumplimiento",
+    "El período de vacaciones anuales retribuidas de los funcionarios públicos no puede ser sustituido por una cuantía económica"
+   ],
+   1,
+   "La incorrecta es «El teletrabajo no deberá contribuir a una mejor organización del trabajo a través de la identificación de objetivos y la evaluación de su cumplimiento»: cambia «deberá». Lo correcto: «El teletrabajo deberá contribuir a una mejor organización del trabajo a través de la identificación de objetivos y la evaluación de su cumplimiento».",
+   "trebep 47 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Quienes desempeñan potestades públicas en las Administraciones deben ser personal eventual",
+    "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias",
+    "Por fallecimiento de familiar dentro del segundo grado, el permiso es de dos días hábiles en la misma localidad y de cuatro días hábiles en distinta localidad"
+   ],
+   0,
+   "La incorrecta es «quienes desempeñan potestades públicas en las Administraciones deben ser personal eventual». Lo correcto: quienes desempeñan potestades públicas en las Administraciones deben ser funcionarios públicos.",
+   "trebep 9",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Las condiciones del personal directivo quedan excluidas de la negociación colectiva",
+    "Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por el sueldo asignado a cada Subgrupo o Grupo y los trienios",
+    "El permiso por matrimonio o pareja de hecho dura veinte días"
+   ],
+   2,
+   "La incorrecta es «el permiso por matrimonio o pareja de hecho dura veinte días». Lo correcto: el permiso por matrimonio o pareja de hecho dura quince días.",
+   "trebep 48",
+   "Proposición negativa",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La existencia de plazas vacantes que no puedan ser cubiertas por funcionarios de carrera justifica el nombramiento de interinos por un máximo de tres años",
+    "Es objeto de negociación la determinación y aplicación del procedimiento de formación de actos administrativos",
+    "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales corresponde exclusivamente a los funcionarios públicos"
+   ],
+   1,
+   "La incorrecta es «es objeto de negociación la determinación y aplicación del procedimiento de formación de actos administrativos». Lo correcto: es objeto de negociación la determinación y aplicación de las retribuciones complementarias de los funcionarios.",
+   "trebep 37.1.b",
+   "Proposición negativa",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 100 funcionarios",
+    "Los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración Pública en los procedimientos ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos",
+    "El permiso por fallecimiento de un familiar de primer grado en la misma localidad es de tres días hábiles"
+   ],
+   0,
+   "La incorrecta es «las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 100 funcionarios». Lo correcto: las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios.",
+   "trebep 39",
+   "Proposición negativa",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La cuantía y estructura de las retribuciones complementarias se establecerán atendiendo, entre otros, a los factores de solo el sueldo base asignado a cada Subgrupo, sin tener en cuenta los puestos de trabajo",
+    "Las retribuciones básicas están integradas única y exclusivamente por el sueldo y los trienios",
+    "El nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento"
+   ],
+   0,
+   "La incorrecta es «la cuantía y estructura de las retribuciones complementarias se establecerán atendiendo, entre otros, a los factores de solo el sueldo base asignado a cada Subgrupo, sin tener en cuenta los puestos de trabajo». Lo correcto: la cuantía y estructura de las retribuciones complementarias se establecerán atendiendo, entre otros, a los factores de progresión en la carrera, especial dificultad técnica o re",
+   "trebep 24",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna",
+    "El nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso al cumplirse un año desde su nombramiento, salvo que la autoridad acuerde su prórroga expresa",
+    "Es personal eventual el que, con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial"
+   ],
+   1,
+   "La incorrecta es «el nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso al cumplirse un año desde su nombramiento, salvo que la autoridad acuerde su prórroga expresa». Lo correcto: el nombramiento y cese del personal eventual serán libres, y el cese tendrá lugar en todo caso cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.",
+   "trebep 12.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los órganos específicos de representación de los funcionarios son los Delegados de Personal y las Juntas de Personal",
+    "Cumplirán con diligencia las tareas que les correspondan o se les encomienden y, en su caso, resolverán dentro de plazo los procedimientos o expedientes de su competencia",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo medio de 50 funcionarios"
+   ],
+   2,
+   "La incorrecta es «Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo medio de 50 funcionarios»: cambia «mínimo». Lo correcto: «Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios».",
+   "trebep 39",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Por representación se entiende la facultad de elegir representantes y constituir órganos unitarios que instrumenten la interlocución entre las Administraciones y sus empleados",
+    "En una unidad electoral de 40 funcionarios se eligen tres delegados de personal",
+    "Los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración Pública solo en el orden penal, cuando el empleado sea querellado por actuaciones de su cargo"
+   ],
+   2,
+   "La incorrecta es «los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración Pública solo en el orden penal, cuando el empleado sea querellado por actuaciones de su cargo». Lo correcto: los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración Pública en los procedimientos ante cualquier orden jurisdiccional como consecuencia del ejercicio legítim",
+   "trebep 14",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "En el caso del personal laboral temporal no se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia",
+    "Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera",
+    "Las leyes de Función Pública que se dicten en desarrollo de este Estatuto determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal"
+   ],
+   0,
+   "La incorrecta es «En el caso del personal laboral temporal no se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia»: niega lo que dice la ley. Lo correcto: «En el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y ur",
+   "trebep 11",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Entre los derechos individuales de los empleados públicos, la inamovilidad se reconoce en la condición de funcionario de carrera",
+    "Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses del órgano que los nombró",
+    "Los empleados públicos tienen derecho a la formación continua y a la actualización permanente de sus conocimientos preferentemente en horario laboral"
+   ],
+   1,
+   "La incorrecta es «los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses del órgano que los nombró». Lo correcto: los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales, con sujeción a la Constitución y al resto del ordenamiento jurídico.",
+   "trebep 52",
+   "Proposición negativa",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La determinación de condiciones de trabajo del personal directivo está excluida de la obligatoriedad de negociación",
+    "Las condiciones del personal directivo se pactan en convenio",
+    "Es objeto de negociación la determinación y aplicación de las retribuciones complementarias de los funcionarios"
+   ],
+   1,
+   "La incorrecta es «las condiciones del personal directivo se pactan en convenio». Lo correcto: las condiciones del personal directivo quedan excluidas de la negociación colectiva.",
+   "trebep 37",
+   "Proposición negativa",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Son funcionarios interinos los nombrados con carácter temporal por razones de necesidad y urgencia, entre otras circunstancias, para la cobertura de plazas vacantes cuando no sea posible por funcionarios de carrera, por un máximo de tres años",
+    "Por accidente o enfermedad graves de un familiar de primer grado, el permiso es de cinco días hábiles",
+    "Son empleados públicos quienes trabajan en cualquier empresa o entidad participada por la Administración con capital público"
+   ],
+   2,
+   "La incorrecta es «son empleados públicos quienes trabajan en cualquier empresa o entidad participada por la Administración con capital público». Lo correcto: son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+   "trebep 8.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La condición de personal eventual da derecho a consolidar una plaza de funcionario de carrera tras tres años de servicios",
+    "Las vacaciones no disfrutadas por una baja pueden tomarse después hasta dieciocho meses desde el final del año en que se originó la baja",
+    "El nombramiento de funcionario interino derivado de un procedimiento de selección en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera"
+   ],
+   0,
+   "La incorrecta es «la condición de personal eventual da derecho a consolidar una plaza de funcionario de carrera tras tres años de servicios». Lo correcto: la condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.",
+   "trebep 12.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "El desempeño de las tareas correspondientes a su puesto de trabajo se realizará de forma diligente y cumpliendo la jornada y el horario establecidos",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo máximo de 50 funcionarios",
+    "Hasta 30 funcionarios se elegirá un Delegado, y de 31 a 49 se elegirán tres, que ejercerán su representación conjunta y mancomunadamente"
+   ],
+   1,
+   "La incorrecta es «Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo máximo de 50 funcionarios»: cambia «mínimo». Lo correcto: «Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios».",
+   "trebep 39",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija: no tendrá una duración de diecinueve semanas",
+    "El desempeño de las tareas correspondientes a su puesto de trabajo se realizará de forma diligente y cumpliendo la jornada y el horario establecidos",
+    "Por lactancia de un hijo menor de doce meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones"
+   ],
+   0,
+   "La incorrecta es «Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija: no tendrá una duración de diecinueve semanas»: niega lo que dice la ley. Lo correcto: «Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija: tendrá una duración de diecin",
+   "trebep 49",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La reducción de hasta el cincuenta por ciento de la jornada, retribuida, para cuidado de un familiar de primer grado por enfermedad muy grave, tiene un plazo máximo de un mes",
+    "El permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en dos fracciones, transferible al otro progenitor",
+    "El permiso por matrimonio o pareja de hecho dura quince días"
+   ],
+   1,
+   "La incorrecta es «el permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en dos fracciones, transferible al otro progenitor». Lo correcto: el permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en dos fracciones, siendo un derecho individual no transferible al otro progenitor.",
+   "trebep 48.f",
+   "Proposición negativa",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los empleados públicos administrarán los recursos y bienes públicos con austeridad, sin utilizarlos en provecho propio o de personas allegadas, y velando por su conservación",
+    "El permiso por traslado de domicilio sin cambio de residencia es de un día",
+    "Los empleados públicos solo se formarán por iniciativa de la Administración, sin deber de mantener actualizada su cualificación"
+   ],
+   2,
+   "La incorrecta es «los empleados públicos solo se formarán por iniciativa de la Administración, sin deber de mantener actualizada su cualificación». Lo correcto: los empleados públicos observarán las normas sobre seguridad y salud laboral y mantendrán actualizada su formación y cualificación.",
+   "trebep 54.9",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los procedimientos de selección del personal funcionario interino no serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura inmediata del puesto",
+    "Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad",
+    "Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera"
+   ],
+   0,
+   "La incorrecta es «Los procedimientos de selección del personal funcionario interino no serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura inmediata del puesto»: niega lo que dice la ley. Lo correcto: «Los procedimientos de selección del personal funcionario interino serán públicos, rigiéndose en todo caso por los prin",
+   "trebep 10",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los procedimientos de selección del personal laboral no serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad",
+    "Su designación atenderá a principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia",
+    "Cuando el personal directivo reúna la condición de personal laboral estará sometido a la relación laboral de carácter especial de alta dirección"
+   ],
+   0,
+   "La incorrecta es «Los procedimientos de selección del personal laboral no serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad»: niega lo que dice la ley. Lo correcto: «Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad».",
+   "trebep 11",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Permiso por adopción, por guarda con fines de adopción, o acogimiento, tanto temporal como permanente: no tendrá una duración de diecinueve semanas para cada adoptante, guardador o acogedor",
+    "El período de vacaciones anuales retribuidas de los funcionarios públicos no puede ser sustituido por una cuantía económica",
+    "Las organizaciones sindicales más representativas en el ámbito de la Función Pública están legitimadas para la interposición de recursos en vía administrativa y jurisdiccional contra las resoluciones de los órganos de selección"
+   ],
+   0,
+   "La incorrecta es «Permiso por adopción, por guarda con fines de adopción, o acogimiento, tanto temporal como permanente: no tendrá una duración de diecinueve semanas para cada adoptante, guardador o acogedor»: niega lo que dice la ley. Lo correcto: «Permiso por adopción, por guarda con fines de adopción, o acogimiento, tanto temporal como permanente: tendrá una duración de diecinueve semanas para cada adoptante, guar",
+   "trebep 49",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La participación institucional es el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades que legalmente se determine",
+    "Pueden nombrarse funcionarios interinos por la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años",
+    "La carrera horizontal consiste en acceder a un cuerpo de otro subgrupo"
+   ],
+   2,
+   "La incorrecta es «la carrera horizontal consiste en acceder a un cuerpo de otro subgrupo». Lo correcto: la carrera horizontal consiste en progresar de grado o escalón sin cambiar de puesto de trabajo.",
+   "trebep 17",
+   "Proposición negativa",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La selección del personal laboral se rige en todo caso por los principios de libre designación y confianza",
+    "El permiso parental dura como máximo ocho semanas, no retribuido, hasta que el menor cumpla ocho años",
+    "Las vacaciones anuales retribuidas de los funcionarios son de veintidós días hábiles por año natural, sin considerar hábiles los sábados"
+   ],
+   0,
+   "La incorrecta es «la selección del personal laboral se rige en todo caso por los principios de libre designación y confianza». Lo correcto: la selección del personal laboral se rige en todo caso por los principios de igualdad, mérito y capacidad (y celeridad en el temporal).",
+   "trebep 11.3",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5 ejercerán sin limitación actividades privadas, con independencia del riesgo de conflicto de intereses",
+    "El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta y dos semanas",
+    "Es personal laboral el que en virtud de contrato de trabajo formalizado por escrito presta servicios retribuidos por las Administraciones Públicas; según su duración podrá ser fijo, por tiempo indefinido o temporal"
+   ],
+   0,
+   "La incorrecta es «los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5 ejercerán sin limitación actividades privadas, con independencia del riesgo de conflicto de intereses». Lo correcto: los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5 se abstendrán en aquellos asuntos en lo",
+   "trebep 53.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La carrera vertical consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión del capítulo III del título V",
+    "Al personal funcionario interino le será aplicable el régimen general de los funcionarios de carrera en cuanto sea adecuado a su naturaleza temporal, salvo los derechos de representación colectiva",
+    "El permiso por nacimiento de la madre biológica dura diecinueve semanas"
+   ],
+   1,
+   "La incorrecta es «al personal funcionario interino le será aplicable el régimen general de los funcionarios de carrera en cuanto sea adecuado a su naturaleza temporal, salvo los derechos de representación colectiva». Lo correcto: al personal funcionario interino le será aplicable el régimen general de los funcionarios de carrera en cuanto sea adecuado a su naturaleza temporal, salvo los derechos inherentes a la condi",
+   "trebep 10.5",
+   "Proposición negativa",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, mediante procedimientos que garanticen la antigüedad y el sorteo",
+    "Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de transparencia, objetividad, imparcialidad y no discriminación",
+    "Los procedimientos de selección del personal funcionario interino serán públicos, regidos por los principios de igualdad, mérito, capacidad, publicidad y celeridad; el nombramiento nunca dará lugar a la condición de funcionario de carrera"
+   ],
+   0,
+   "La incorrecta es «la designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, mediante procedimientos que garanticen la antigüedad y el sorteo». Lo correcto: la designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, mediante procedimientos que garanticen la publicidad y concurrencia.",
+   "trebep 13.2",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "El permiso parental dura como máximo ocho semanas, no retribuido, hasta que el menor cumpla ocho años",
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponderá a los Delegados de Personal (uno hasta 30 funcionarios y tres de 31 a 49)",
+    "La determinación de las condiciones de empleo del personal directivo es materia objeto de negociación colectiva, fijándose en el acuerdo con las organizaciones sindicales"
+   ],
+   2,
+   "La incorrecta es «la determinación de las condiciones de empleo del personal directivo es materia objeto de negociación colectiva, fijándose en el acuerdo con las organizaciones sindicales». Lo correcto: la determinación de las condiciones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva; si es personal laboral, estará sometido a la relación laboral especial de al",
+   "trebep 13.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad",
+    "Al personal eventual le no será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera",
+    "El número máximo se establecerá por los respectivos órganos de gobierno"
+   ],
+   1,
+   "La incorrecta es «Al personal eventual le no será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera»: niega lo que dice la ley. Lo correcto: «Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera».",
+   "trebep 12",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "El número máximo de personal eventual lo establecen los respectivos órganos de gobierno, siendo públicos ese número y las condiciones retributivas",
+    "Son funcionarios interinos los que son nombrados por el exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho",
+    "La continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante resolución discrecional"
+   ],
+   2,
+   "La incorrecta es «la continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante resolución discrecional». Lo correcto: la continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante resolución motivada.",
+   "trebep 20.4",
+   "Proposición negativa",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Las organizaciones sindicales más representativas en el ámbito de la Función Pública están legitimadas para la interposición de recursos en vía administrativa y jurisdiccional contra las resoluciones de los órganos de selección",
+    "Durante el disfrute de este permiso, una vez finalizado el período de descanso potestativo, se podrá participar en los cursos de formación que convoque la Administración",
+    "Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija: tendrá una duración de diecinueve semanas"
+   ],
+   1,
+   "La incorrecta es «Durante el disfrute de este permiso, una vez finalizado el período de descanso potestativo, se podrá participar en los cursos de formación que convoque la Administración»: cambia «obligatorio». Lo correcto: «Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración».",
+   "trebep 49",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Por fallecimiento de familiar dentro del segundo grado, el permiso es de dos días hábiles en la misma localidad y de tres días hábiles",
+    "Por fallecimiento de familiar dentro del segundo grado, el permiso es de dos días hábiles en la misma localidad y de cuatro días hábiles en distinta localidad",
+    "Por fallecimiento de familiar dentro del segundo grado, el permiso es de dos días hábiles en la misma localidad y de cinco días hábiles"
+   ],
+   1,
+   "Art. 48.a · RDLeg 5/2015 (TREBEP): Por fallecimiento de familiar dentro del segundo grado, el permiso es de dos días hábiles en la misma localidad y de cuatro días hábiles en distinta localidad.",
+   "trebep 48.a",
+   "Opciones casi idénticas",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-145",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Es personal eventual el que, con carácter no permanente, solo realiza funciones de dirección de programas",
+    "Es personal eventual el que, con carácter no permanente, solo realiza funciones de sustitución",
+    "Es personal eventual el que, con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial"
+   ],
+   2,
+   "Art. 12 · RDLeg 5/2015 (TREBEP): Es personal eventual el que, con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial.",
+   "trebep 12",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-006",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Si el personal directivo tiene la condición de personal laboral, estará sometido a la relación laboral de carácter especial de alta dirección",
+    "Si el personal directivo no tiene la condición de personal laboral, estará sometido a la relación laboral de carácter especial de alta dirección",
+    "Si el personal directivo tiene la condición de personal laboral, estará sometido al régimen funcionarial por analogía"
+   ],
+   0,
+   "Art. 13.4 · RDLeg 5/2015 (TREBEP): Si el personal directivo tiene la condición de personal laboral, estará sometido a la relación laboral de carácter especial de alta dirección.",
+   "trebep 13.4",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-106",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La inamovilidad en la condición se pierde, en un funcionario de carrera, por separación del servicio por falta muy grave",
+    "La inamovilidad en la condición se pierde, en un funcionario de carrera, por suspensión provisional",
+    "La inamovilidad en la condición se pierde, en un funcionario de carrera, por traslado forzoso"
+   ],
+   0,
+   "Art. 14 · RDLeg 5/2015 (TREBEP): La inamovilidad en la condición se pierde, en un funcionario de carrera, por separación del servicio por falta muy grave.",
+   "trebep 14",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-063",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La condición de funcionario interino cesa, entre otros casos, por la finalización del plazo autorizado expresamente en su nombramiento y por la finalización de la causa que dio lugar a su nombramiento, sin compensación alguna",
+    "La condición de funcionario interino cesa, entre otros casos, por la finalización del plazo autorizado expresamente en su nombramiento y por la amortización del puesto, con indemnización",
+    "La condición de funcionario interino cesa, entre otros casos, por la finalización del plazo autorizado expresamente en su nombramiento y por la cobertura del puesto por personal laboral"
+   ],
+   0,
+   "Art. 10.3 · RDLeg 5/2015 (TREBEP): La condición de funcionario interino cesa, entre otros casos, por la finalización del plazo autorizado expresamente en su nombramiento y por la finalización de la causa que dio lugar a su nombramiento, sin compensación alguna.",
+   "trebep 10.3",
+   "La afirmación, su negación y otro dato",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-094",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante resolución discrecional",
+    "La continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante informe del superior jerárquico",
+    "La continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante resolución motivada"
+   ],
+   2,
+   "Art. 20.4 · RDLeg 5/2015 (TREBEP): La continuidad en un puesto obtenido por concurso queda vinculada a la evaluación del desempeño, dándose audiencia al interesado y mediante resolución motivada.",
+   "trebep 20.4",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-121",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El permiso por nacimiento para la madre biológica no tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta y dos semanas",
+    "El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta semanas",
+    "El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta y dos semanas"
+   ],
+   2,
+   "Art. 49.a · RDLeg 5/2015 (TREBEP): El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta y dos semanas.",
+   "trebep 49.a",
+   "La afirmación, su negación y otro dato",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-154",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El mandato de los representantes de funcionarios es de cuatro años",
+    "El mandato de los representantes de funcionarios no es de cuatro años",
+    "El mandato de los representantes de funcionarios es de dos años"
+   ],
+   0,
+   "Art. 39 · RDLeg 5/2015 (TREBEP): El mandato de los representantes de funcionarios es de cuatro años.",
+   "trebep 39",
+   "La afirmación, su negación y otro dato",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-071",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a.2º de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las once semanas de libre distribución del permiso por nacimiento pueden ejercitarse hasta que el hijo cumpla seis meses",
+    "Las once semanas de libre distribución del permiso por nacimiento pueden ejercitarse hasta que el hijo cumpla doce meses",
+    "Las once semanas de libre distribución del permiso por nacimiento pueden ejercitarse hasta que el hijo cumpla ocho años"
+   ],
+   1,
+   "Art. 49.a.2º · RDLeg 5/2015 (TREBEP): Las once semanas de libre distribución del permiso por nacimiento pueden ejercitarse hasta que el hijo cumpla doce meses.",
+   "trebep 49.a.2º",
+   "La afirmación, su negación y otro dato",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-156",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "La ejecución de programas de carácter temporal por funcionarios interinos no podrá tener una duración superior a dos años, ampliable hasta doce meses más por las leyes de función pública",
+    "La ejecución de programas de carácter temporal por funcionarios interinos no podrá tener una duración superior a un año, ampliable hasta doce meses más por las leyes de función pública",
+    "La ejecución de programas de carácter temporal por funcionarios interinos no podrá tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de función pública"
+   ],
+   2,
+   "Art. 10 · RDLeg 5/2015 (TREBEP): La ejecución de programas de carácter temporal por funcionarios interinos no podrá tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de función pública. Las otras dos frases cambian «Tres años» por «Dos años» y «Un año».",
+   "trebep 10",
+   "Una sola palabra cambia el sentido",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t17-005",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.i de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La reducción de hasta el cincuenta por ciento de la jornada, retribuida, para cuidado de un familiar de primer grado por enfermedad muy grave, no tiene un plazo máximo de un mes",
+    "La reducción de hasta el cincuenta por ciento de la jornada, retribuida, para cuidado de un familiar de primer grado por enfermedad muy grave, tiene un plazo máximo de tres meses",
+    "La reducción de hasta el cincuenta por ciento de la jornada, retribuida, para cuidado de un familiar de primer grado por enfermedad muy grave, tiene un plazo máximo de un mes"
+   ],
+   2,
+   "Art. 48.i · RDLeg 5/2015 (TREBEP): La reducción de hasta el cincuenta por ciento de la jornada, retribuida, para cuidado de un familiar de primer grado por enfermedad muy grave, tiene un plazo máximo de un mes.",
+   "trebep 48.i",
+   "La afirmación, su negación y otro dato",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-151",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las retribuciones de los funcionarios de carrera se clasifican en fijas y variables",
+    "Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias",
+    "Las retribuciones de los funcionarios de carrera se clasifican en ordinarias y extraordinarias"
+   ],
+   1,
+   "Art. 22.1 · RDLeg 5/2015 (TREBEP): Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias.",
+   "trebep 22.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-041",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La promoción interna vertical consiste en el ascenso desde un cuerpo o escala de un Subgrupo o Grupo a otro superior",
+    "La promoción interna vertical consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional, mediante procesos selectivos",
+    "La promoción interna vertical consiste en la progresión de escalón o categoría sin necesidad de cambiar de puesto de trabajo"
+   ],
+   0,
+   "Art. 16.3 · RDLeg 5/2015 (TREBEP): La promoción interna vertical consiste en el ascenso desde un cuerpo o escala de un Subgrupo o Grupo a otro superior.",
+   "trebep 16.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-034",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "En la carrera horizontal los ascensos de grado no serán, con carácter general consecutivos, salvo supuestos excepcionales",
+    "En la carrera horizontal los ascensos de grado serán, con carácter general salteados por méritos",
+    "En la carrera horizontal los ascensos de grado serán, con carácter general consecutivos, salvo supuestos excepcionales"
+   ],
+   2,
+   "Art. 17.a · RDLeg 5/2015 (TREBEP): En la carrera horizontal los ascensos de grado serán, con carácter general consecutivos, salvo supuestos excepcionales.",
+   "trebep 17.a",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-116",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos y personal directivo, con exclusión del laboral",
+    "Los empleados públicos se clasifican en funcionarios y personal contratado, sin distinguir entre personal laboral y personal eventual",
+    "Los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos, personal laboral (fijo, indefinido o temporal) y personal eventual"
+   ],
+   2,
+   "Art. 8.2 · RDLeg 5/2015 (TREBEP): Los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos, personal laboral (fijo, indefinido o temporal) y personal eventual.",
+   "trebep 8.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-015",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.g de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "Por nacimiento de hijos prematuros u hospitalizados tras el parto, se tiene derecho a ausentarse del trabajo durante un máximo de una hora diarias con retribuciones íntegras",
+    "Por nacimiento de hijos prematuros u hospitalizados tras el parto, se tiene derecho a ausentarse del trabajo durante un máximo de dos horas diarias con retribuciones íntegras",
+    "Por nacimiento de hijos prematuros u hospitalizados tras el parto, se tiene derecho a ausentarse del trabajo durante un máximo de tres horas diarias con retribuciones íntegras"
+   ],
+   1,
+   "Art. 48.g · RDLeg 5/2015 (TREBEP): Por nacimiento de hijos prematuros u hospitalizados tras el parto, se tiene derecho a ausentarse del trabajo durante un máximo de dos horas diarias con retribuciones íntegras. Las otras dos frases cambian «Dos horas» por «Una hora» y «Tres horas».",
+   "trebep 48.g",
+   "Una sola palabra cambia el sentido",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t17-149",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los órganos específicos de representación de los funcionarios no son los Delegados de Personal y las Juntas de Personal",
+    "Hasta 30 funcionarios se elegirá un Delegado, y de 31 a 49 se elegirán tres, que ejercerán su representación conjunta y mancomunadamente",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo máximo de 50 funcionarios"
+   ],
+   1,
+   "La correcta es «Hasta 30 funcionarios se elegirá un Delegado, y de 31 a 49 se elegirán tres, que ejercerán su representación conjunta y mancomunadamente». Las otras dos son falsas: lo correcto es «Los órganos específicos de representación de los funcionarios son los Delegados de Personal y las Juntas de Personal» (la otra frase la niega) y «Las Juntas de Personal se constituirán en unidades electorales que cuenten co",
+   "trebep 39",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 bis.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El teletrabajo habrá de ser expresamente autorizado, será compatible con la modalidad presencial y tendrá carácter voluntario y reversible, salvo supuestos excepcionales debidamente justificados",
+    "El teletrabajo habrá de ser expresamente autorizado, no será compatible con la modalidad presencial y tendrá carácter voluntario y reversible, salvo supuestos excepcionales debidamente justificados",
+    "El teletrabajo habrá de ser expresamente autorizado, será compatible con la modalidad presencial y tendrá carácter voluntario e irreversible"
+   ],
+   0,
+   "Art. 47 bis.2 · RDLeg 5/2015 (TREBEP): El teletrabajo habrá de ser expresamente autorizado, será compatible con la modalidad presencial y tendrá carácter voluntario y reversible, salvo supuestos excepcionales debidamente justificados.",
+   "trebep 47 bis.2",
+   "La afirmación, su negación y otro dato",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-142",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5 se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada que pueda suponer riesgo de conflicto de intereses",
+    "Los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5 ejercerán sin limitación actividades privadas, con independencia del riesgo de conflicto de intereses",
+    "Los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5 intervendrán en todos los asuntos de su unidad aunque tengan en ellos un interés personal"
+   ],
+   0,
+   "Art. 53.1 · RDLeg 5/2015 (TREBEP): Los empleados públicos respetarán la Constitución y el resto de normas del ordenamiento jurídico, y según el artículo 53.5 se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada que pueda suponer riesgo de conflicto de intereses.",
+   "trebep 53.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-052",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponde a los Delegados de Personal",
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación no corresponde a los Delegados de Personal",
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponde a la Junta de Personal"
+   ],
+   0,
+   "Art. 39.2 · RDLeg 5/2015 (TREBEP): En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponde a los Delegados de Personal.",
+   "trebep 39.2",
+   "La afirmación, su negación y otro dato",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-137",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "De 1.001 funcionarios en adelante, las Juntas de Personal tienen dos representantes por cada 1.000 o fracción, con un máximo de 75",
+    "De 1.001 funcionarios en adelante, las Juntas de Personal no tienen dos representantes por cada 1.000 o fracción, con un máximo de 75",
+    "De 1.001 funcionarios en adelante, las Juntas de Personal tienen dos representantes por cada 1.000 o fracción, con un máximo de 50"
+   ],
+   0,
+   "Art. 39.5 · RDLeg 5/2015 (TREBEP): De 1.001 funcionarios en adelante, las Juntas de Personal tienen dos representantes por cada 1.000 o fracción, con un máximo de 75.",
+   "trebep 39.5",
+   "La afirmación, su negación y otro dato",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-141",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El personal directivo no es el que desarrolla funciones directivas profesionales en las Administraciones Públicas, designado por mérito, capacidad e idoneidad con publicidad y concurrencia y sujeto a evaluación por eficacia, eficiencia y resultados",
+    "El personal directivo es el que desarrolla funciones directivas profesionales en las Administraciones Públicas, designado por mérito, capacidad e idoneidad con publicidad y concurrencia y sujeto a evaluación por eficacia, eficiencia y resultados",
+    "El personal directivo es el que es siempre personal eventual, nombrado y cesado libremente por la autoridad de la que depende"
+   ],
+   1,
+   "Art. 13 · RDLeg 5/2015 (TREBEP): El personal directivo es el que desarrolla funciones directivas profesionales en las Administraciones Públicas, designado por mérito, capacidad e idoneidad con publicidad y concurrencia y sujeto a evaluación por eficacia, eficiencia y resultados.",
+   "trebep 13",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-026",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad",
+    "El personal laboral no tendrá derecho a la promoción profesional",
+    "El personal directivo no estará sujeto a evaluación con arreglo a los criterios de eficacia y eficiencia, responsabilidad por su gestión y control de resultados en relación con los objetivos que les hayan sido fijados"
+   ],
+   0,
+   "La correcta es «La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad». Las otras dos son falsas: lo correcto es «El personal laboral tendrá derecho a la promoción profesional» (la otra frase la niega) y «El personal directivo estará sujeto a evaluación con arreglo a los criterios de eficacia y eficie",
+   "trebep 16",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración por una relación estatutaria regulada por el Derecho Administrativo, para servicios profesionales retribuidos de carácter permanente",
+    "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración por un contrato de trabajo por escrito",
+    "Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración por un nombramiento temporal de confianza"
+   ],
+   0,
+   "Art. 9 · RDLeg 5/2015 (TREBEP): Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración por una relación estatutaria regulada por el Derecho Administrativo, para servicios profesionales retribuidos de carácter permanente.",
+   "trebep 9",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-002",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los empleados públicos no tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo",
+    "Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración",
+    "Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija: no tendrá una duración de diecinueve semanas"
+   ],
+   1,
+   "La correcta es «Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración». Las otras dos son falsas: lo correcto es «Los empleados públicos tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo» (la otra frase la niega) y",
+   "trebep 49",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las vacaciones anuales de los funcionarios no son de veintidós días hábiles",
+    "Las vacaciones anuales de los funcionarios son de veinticinco días hábiles",
+    "Las vacaciones anuales de los funcionarios son de veintidós días hábiles"
+   ],
+   2,
+   "Art. 50 · RDLeg 5/2015 (TREBEP): Las vacaciones anuales de los funcionarios son de veintidós días hábiles.",
+   "trebep 50",
+   "La afirmación, su negación y otro dato",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-080",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Son funcionarios interinos los que son nombrados por el exceso o acumulación de tareas por plazo máximo de seis meses, dentro de un periodo de doce",
+    "Son funcionarios interinos los que son nombrados por el exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho",
+    "Son funcionarios interinos los que son nombrados por el exceso o acumulación de tareas por plazo máximo de un año, dentro de un periodo de dos"
+   ],
+   1,
+   "Art. 10 · RDLeg 5/2015 (TREBEP): Son funcionarios interinos los que son nombrados por el exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho.",
+   "trebep 10",
+   "Opciones casi idénticas",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-003",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El permiso parental dura como máximo ocho semanas, no retribuido, hasta que el menor cumpla ocho años",
+    "El permiso parental dura como máximo doce semanas retribuidas",
+    "El permiso parental dura como máximo cuatro semanas hasta los tres años"
+   ],
+   0,
+   "Art. 49 · RDLeg 5/2015 (TREBEP): El permiso parental dura como máximo ocho semanas, no retribuido, hasta que el menor cumpla ocho años.",
+   "trebep 49",
+   "La afirmación, su negación y otro dato",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-079",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Para el Estatuto, un sindicato es más representativo a nivel autonómico en las Mesas si obtiene al menos el 15 % de los representantes",
+    "Para el Estatuto, un sindicato es más representativo a nivel autonómico en las Mesas si obtiene al menos el 12 % de los representantes",
+    "Para el Estatuto, un sindicato es más representativo a nivel autonómico en las Mesas si obtiene al menos el 18 % de los representantes"
+   ],
+   0,
+   "Para el Estatuto, un sindicato es más representativo a nivel autonómico en las Mesas si obtiene al menos el 15 % de los representantes. Las otras dos frases cambian «15» por «12» y «18».",
+   "Art. 33 TREBEP",
+   "Una sola palabra cambia el sentido",
+   "h-negociacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t17-084",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Cuando situaciones como la incapacidad temporal impidan iniciar las vacaciones dentro del año natural, podrán disfrutarse siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se originaron",
+    "Cuando situaciones como la incapacidad temporal impidan iniciar las vacaciones dentro del año natural, podrán disfrutarse siempre que no hayan transcurrido más de doce meses desde el final del año",
+    "Cuando situaciones como la incapacidad temporal impidan iniciar las vacaciones dentro del año natural, podrán disfrutarse siempre que no hayan transcurrido más de seis meses desde el inicio de la situación"
+   ],
+   0,
+   "Art. 50.2 · RDLeg 5/2015 (TREBEP): Cuando situaciones como la incapacidad temporal impidan iniciar las vacaciones dentro del año natural, podrán disfrutarse siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se originaron.",
+   "trebep 50.2",
+   "La afirmación, su negación y otro dato",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-162",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.j de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Entre los derechos individuales figura el derecho a la intimidad en el uso de dispositivos digitales y a la geolocalización voluntaria",
+    "Entre los derechos individuales figura el derecho a la intimidad en el uso de dispositivos digitales y a la desconexión digital",
+    "Entre los derechos individuales figura el derecho a la intimidad en el uso de dispositivos digitales y al teletrabajo permanente"
+   ],
+   1,
+   "Art. 14.j · RDLeg 5/2015 (TREBEP): Entre los derechos individuales figura el derecho a la intimidad en el uso de dispositivos digitales y a la desconexión digital.",
+   "trebep 14.j",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-110",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria dentro del plazo de los tres años desde su nombramiento y sea resuelta en los plazos del artículo 70",
+    "El funcionario interino no podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria dentro del plazo de los tres años desde su nombramiento y sea resuelta en los plazos del artículo 70",
+    "El funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria antes de los dos años y seis meses"
+   ],
+   0,
+   "Art. 10.4 · RDLeg 5/2015 (TREBEP): El funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria dentro del plazo de los tres años desde su nombramiento y sea resuelta en los plazos del artículo 70.",
+   "trebep 10.4",
+   "La afirmación, su negación y otro dato",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-096",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponderá a los Delegados de Personal (uno hasta 30 funcionarios y tres de 31 a 49)",
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponderá a la Junta de Personal, que se constituirá en las unidades con censo igual o superior a 6 funcionarios",
+    "En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponderá al Comité de Empresa, elegido por todos los empleados públicos de la unidad electoral"
+   ],
+   0,
+   "Art. 39.2 · RDLeg 5/2015 (TREBEP): En las unidades electorales con un número de funcionarios igual o superior a 6 e inferior a 50, la representación corresponderá a los Delegados de Personal (uno hasta 30 funcionarios y tres de 31 a 49).",
+   "trebep 39.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-048",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Una Junta de Personal en unidad de 101 a 250 funcionarios se compone de 5 representantes",
+    "Una Junta de Personal en unidad de 101 a 250 funcionarios se compone de 9 representantes",
+    "Una Junta de Personal en unidad de 101 a 250 funcionarios se compone de 13 representantes"
+   ],
+   1,
+   "Art. 39.5 · RDLeg 5/2015 (TREBEP): Una Junta de Personal en unidad de 101 a 250 funcionarios se compone de 9 representantes.",
+   "trebep 39.5",
+   "Opciones casi idénticas",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-140",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales corresponde exclusivamente a los funcionarios públicos",
+    "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales no corresponde exclusivamente a los funcionarios públicos",
+    "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales corresponde a funcionarios y personal laboral indistintamente"
+   ],
+   0,
+   "Art. 9.2 · RDLeg 5/2015 (TREBEP): El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales corresponde exclusivamente a los funcionarios públicos.",
+   "trebep 9.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-017",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Reglamentariamente se establecerán las condiciones y supuestos en los que esta reducción de jornada no se podrá acumular en jornadas completas",
+    "En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y una semana",
+    "Por lactancia de un hijo menor de doce meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones"
+   ],
+   2,
+   "La correcta es «Por lactancia de un hijo menor de doce meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones». Las otras dos son falsas: lo correcto es «Reglamentariamente se establecerán las condiciones y supuestos en los que esta reducción de jornada se podrá acumular en jornadas completas» (la otra frase la niega) y «En el supuesto de monoparentalidad, por existir una única p",
+   "trebep 48",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Una Junta de Personal de 120 funcionarios tiene nueve miembros",
+    "Una Junta de Personal de 120 funcionarios no tiene nueve miembros",
+    "Una Junta de Personal de 120 funcionarios tiene trece miembros"
+   ],
+   0,
+   "Art. 39 · RDLeg 5/2015 (TREBEP): Una Junta de Personal de 120 funcionarios tiene nueve miembros.",
+   "trebep 39",
+   "La afirmación, su negación y otro dato",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-070",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Para la promoción interna los funcionarios no deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de al menos dos años de servicio activo en el inferior Subgrupo o Grupo y superar las pruebas selectivas",
+    "Para la promoción interna los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de al menos dos años de servicio activo en el inferior Subgrupo o Grupo y superar las pruebas selectivas",
+    "Para la promoción interna los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de al menos un año de servicio activo en el inferior Subgrupo o Grupo y superar las correspondientes pruebas"
+   ],
+   1,
+   "Art. 18.2 · RDLeg 5/2015 (TREBEP): Para la promoción interna los funcionarios deberán poseer los requisitos exigidos para el ingreso, tener una antigüedad de al menos dos años de servicio activo en el inferior Subgrupo o Grupo y superar las pruebas selectivas.",
+   "trebep 18.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-036",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La carrera horizontal consiste en ascender en la estructura de puestos",
+    "La carrera horizontal consiste en progresar de grado o escalón sin cambiar de puesto de trabajo",
+    "La carrera horizontal consiste en acceder a un cuerpo de otro subgrupo"
+   ],
+   1,
+   "Art. 17 · RDLeg 5/2015 (TREBEP): La carrera horizontal consiste en progresar de grado o escalón sin cambiar de puesto de trabajo.",
+   "trebep 17",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-065",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El permiso por fallecimiento de un familiar de primer grado en la misma localidad no es de tres días hábiles",
+    "El permiso por fallecimiento de un familiar de primer grado en la misma localidad es de dos días hábiles",
+    "El permiso por fallecimiento de un familiar de primer grado en la misma localidad es de tres días hábiles"
+   ],
+   2,
+   "Art. 48 · RDLeg 5/2015 (TREBEP): El permiso por fallecimiento de un familiar de primer grado en la misma localidad es de tres días hábiles.",
+   "trebep 48",
+   "La afirmación, su negación y otro dato",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-072",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 bis de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "El teletrabajo podrá contribuir a una mejor organización del trabajo a través de la identificación de objetivos y la evaluación de su cumplimiento",
+    "El teletrabajo deberá contribuir a una mejor organización del trabajo a través de la identificación de objetivos y la evaluación de su cumplimiento",
+    "El teletrabajo no deberá contribuir a una mejor organización del trabajo a través de la identificación de objetivos y la evaluación de su cumplimiento"
+   ],
+   1,
+   "Art. 47 bis · RDLeg 5/2015 (TREBEP): El teletrabajo deberá contribuir a una mejor organización del trabajo a través de la identificación de objetivos y la evaluación de su cumplimiento. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "trebep 47 bis",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las retribuciones básicas están integradas única y exclusivamente por el sueldo y las pagas extraordinarias",
+    "Las retribuciones básicas están integradas única y exclusivamente por el sueldo, los trienios y el complemento de destino",
+    "Las retribuciones básicas están integradas única y exclusivamente por el sueldo y los trienios"
+   ],
+   2,
+   "Art. 23 · RDLeg 5/2015 (TREBEP): Las retribuciones básicas están integradas única y exclusivamente por el sueldo y los trienios.",
+   "trebep 23",
+   "La afirmación, su negación y otro dato",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-126",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La libertad sindical y la negociación colectiva no son, según el TREBEP derechos individuales ejercidos colectivamente",
+    "La libertad sindical y la negociación colectiva son, según el TREBEP derechos solo de los funcionarios interinos",
+    "La libertad sindical y la negociación colectiva son, según el TREBEP derechos individuales ejercidos colectivamente"
+   ],
+   2,
+   "Art. 15 · RDLeg 5/2015 (TREBEP): La libertad sindical y la negociación colectiva son, según el TREBEP derechos individuales ejercidos colectivamente.",
+   "trebep 15",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-009",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "El funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria dentro del plazo de los dos años desde su nombramiento y sea resuelta en los plazos del artículo 70",
+    "El funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria dentro del plazo de los un año desde su nombramiento y sea resuelta en los plazos del artículo 70",
+    "El funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria dentro del plazo de los tres años desde su nombramiento y sea resuelta en los plazos del artículo 70"
+   ],
+   2,
+   "Art. 10.4 · RDLeg 5/2015 (TREBEP): El funcionario interino podrá permanecer excepcionalmente en la plaza pasados los tres años, siempre que se haya publicado la convocatoria dentro del plazo de los tres años desde su nombramiento y sea resuelta en los plazos del artículo 70. Las otras dos frases cambian «tres años» por «dos años» y «un año».",
+   "trebep 10.4",
+   "Una sola palabra cambia el sentido",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t17-096",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad",
+    "La carrera profesional no es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad",
+    "La carrera profesional es el ascenso automático por antigüedad dentro de la estructura de puestos de trabajo"
+   ],
+   0,
+   "Art. 16.2 · RDLeg 5/2015 (TREBEP): La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad.",
+   "trebep 16.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-032",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los funcionarios públicos no tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor",
+    "Los empleados públicos tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo",
+    "Cuando la persona enferma contraiga matrimonio o constituya una pareja de hecho, no tendrá derecho al permiso quien sea su cónyuge o pareja de hecho, siempre que acredite las condiciones para ser beneficiario"
+   ],
+   1,
+   "La correcta es «Los empleados públicos tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo». Las otras dos son falsas: lo correcto es «Los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tie",
+   "trebep 31",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Tienen los empleados públicos derecho, entre otros, de carácter individual a la negociación colectiva y a la participación en la determinación de las condiciones de trabajo",
+    "Tienen los empleados públicos derecho, entre otros, de carácter individual a la huelga y a la libertad sindical, que se ejercen de forma individual por cada empleado",
+    "Tienen los empleados públicos derecho, entre otros, de carácter individual a la inamovilidad en la condición de funcionario de carrera y a la progresión en la carrera profesional y promoción interna"
+   ],
+   2,
+   "Art. 14 · RDLeg 5/2015 (TREBEP): Tienen los empleados públicos derecho, entre otros, de carácter individual a la inamovilidad en la condición de funcionario de carrera y a la progresión en la carrera profesional y promoción interna.",
+   "trebep 14",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-028",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "En jubilación por incapacidad permanente o fallecimiento, la compensación económica por vacaciones devengadas y no disfrutadas alcanza hasta un máximo de dieciocho meses",
+    "En jubilación por incapacidad permanente o fallecimiento, la compensación económica por vacaciones devengadas y no disfrutadas alcanza hasta un máximo de doce meses",
+    "En jubilación por incapacidad permanente o fallecimiento, la compensación económica por vacaciones devengadas y no disfrutadas alcanza hasta un máximo de veinticuatro meses"
+   ],
+   0,
+   "Art. 50.3 · RDLeg 5/2015 (TREBEP): En jubilación por incapacidad permanente o fallecimiento, la compensación económica por vacaciones devengadas y no disfrutadas alcanza hasta un máximo de dieciocho meses.",
+   "trebep 50.3",
+   "La afirmación, su negación y otro dato",
+   "h-vacaciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-164",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "De 50 a 100 funcionarios, la Junta de Personal estará compuesta por 9 representantes",
+    "De 50 a 100 funcionarios, la Junta de Personal estará compuesta por 5 representantes",
+    "De 50 a 100 funcionarios, la Junta de Personal estará compuesta por 3 representantes"
+   ],
+   1,
+   "Art. 39.5 · RDLeg 5/2015 (TREBEP): De 50 a 100 funcionarios, la Junta de Personal estará compuesta por 5 representantes.",
+   "trebep 39.5",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-050",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La compensación del funcionario interino por incumplimiento del plazo máximo equivale a 20 días de retribuciones fijas por año de servicio, con un máximo de doce mensualidades",
+    "La compensación del funcionario interino por incumplimiento del plazo máximo equivale a 30 días por año con máximo de 24 mensualidades",
+    "La compensación del funcionario interino por incumplimiento del plazo máximo equivale a 15 días por año sin máximo"
+   ],
+   0,
+   "Art. 10 · RDLeg 5/2015 (TREBEP): La compensación del funcionario interino por incumplimiento del plazo máximo equivale a 20 días de retribuciones fijas por año de servicio, con un máximo de doce mensualidades.",
+   "trebep 10",
+   "La afirmación, su negación y otro dato",
+   "h-interinos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-060",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.6 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Respecto de los regalos, se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía",
+    "Respecto de los regalos, se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos de la localidad",
+    "Respecto de los regalos, se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los cincuenta euros de valor"
+   ],
+   0,
+   "Art. 54.6 · RDLeg 5/2015 (TREBEP): Respecto de los regalos, se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía.",
+   "trebep 54.6",
+   "La afirmación, su negación y otro dato",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-168",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "De las diecinueve semanas del permiso por nacimiento, no son obligatorias e ininterrumpidas, a jornada completa, las seis semanas inmediatamente posteriores al parto",
+    "De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las seis semanas inmediatamente posteriores al parto",
+    "De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las cuatro semanas posteriores al parto"
+   ],
+   1,
+   "Art. 49.a · RDLeg 5/2015 (TREBEP): De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las seis semanas inmediatamente posteriores al parto.",
+   "trebep 49.a",
+   "La afirmación, su negación y otro dato",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-155",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "Por lactancia de un hijo menor de doce meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones",
+    "Por lactancia de un hijo menor de diez meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones",
+    "Por lactancia de un hijo menor de quince meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones"
+   ],
+   0,
+   "Art. 48 · RDLeg 5/2015 (TREBEP): Por lactancia de un hijo menor de doce meses tendrán derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones. Las otras dos frases cambian «doce meses» por «diez meses» y «quince meses».",
+   "trebep 48",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Una Junta de Personal de 120 funcionarios tiene nueve miembros",
+    "Una Junta de Personal de 120 funcionarios tiene cinco miembros",
+    "Una Junta de Personal de 120 funcionarios tiene trece miembros"
+   ],
+   0,
+   "Art. 39 · RDLeg 5/2015 (TREBEP): Una Junta de Personal de 120 funcionarios tiene nueve miembros.",
+   "trebep 39",
+   "Opciones casi idénticas",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-070",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y tres semanas",
+    "Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración",
+    "La prestación del servicio mediante teletrabajo habrá de ser expresamente autorizada y no será compatible con la modalidad presencial"
+   ],
+   1,
+   "La correcta es «Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración». Las otras dos son falsas: lo correcto es «En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas» (la otra frase cambia «dos semanas») y «La prestación del servicio me",
+   "trebep 49",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las retribuciones básicas de los funcionarios se componen de sueldo y trienios",
+    "Las retribuciones básicas de los funcionarios se componen de sueldo y productividad",
+    "Las retribuciones básicas de los funcionarios se componen de sueldo, destino y específico"
+   ],
+   0,
+   "Art. 23 · RDLeg 5/2015 (TREBEP): Las retribuciones básicas de los funcionarios se componen de sueldo y trienios.",
+   "trebep 23",
+   "La afirmación, su negación y otro dato",
+   "h-retribuciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-066",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas",
+    "Permiso por adopción, por guarda con fines de adopción, o acogimiento, tanto temporal como permanente: no tendrá una duración de diecinueve semanas para cada adoptante, guardador o acogedor",
+    "En el caso del disfrute interrumpido del permiso se requerirá, para cada período de disfrute, un preaviso de al menos doce días y se realizará por semanas completas"
+   ],
+   0,
+   "La correcta es «En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas». Las otras dos son falsas: lo correcto es «Permiso por adopción, por guarda con fines de adopción, o acogimiento, tanto temporal como permanente: tendrá una duración de diecinueve semanas para cada adoptante, guardador o acogedor» (la otra frase la niega) y «En el caso del disfrute ",
+   "trebep 49",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de veintiséis semanas",
+    "El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta semanas",
+    "El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta y dos semanas"
+   ],
+   2,
+   "Art. 49.a · RDLeg 5/2015 (TREBEP): El permiso por nacimiento para la madre biológica tiene una duración de diecinueve semanas y, en caso de monoparentalidad, de treinta y dos semanas.",
+   "trebep 49.a",
+   "Opciones casi idénticas",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-154",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.f de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en dos fracciones, transferible al otro progenitor",
+    "El permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en dos fracciones, siendo un derecho individual no transferible al otro progenitor",
+    "El permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en tres fracciones"
+   ],
+   1,
+   "Art. 48.f · RDLeg 5/2015 (TREBEP): El permiso por lactancia de un hijo menor de doce meses da derecho a una hora de ausencia, que podrá dividirse en dos fracciones, siendo un derecho individual no transferible al otro progenitor.",
+   "trebep 48.f",
+   "La afirmación, su negación y otro dato",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-148",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los procedimientos de selección del personal funcionario interino no serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura inmediata del puesto",
+    "Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera",
+    "Cuando el personal directivo reúna la condición de personal laboral no estará sometido a la relación laboral de carácter especial de alta dirección"
+   ],
+   1,
+   "La correcta es «Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera». Las otras dos son falsas: lo correcto es «Los procedimientos de selección del personal funcionario interino serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobert",
+   "trebep 12",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La evaluación del desempeño no es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados",
+    "La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados",
+    "La evaluación del desempeño es el procedimiento de selección del personal, mediante pruebas de conocimientos y valoración de méritos"
+   ],
+   1,
+   "Art. 20.1 · RDLeg 5/2015 (TREBEP): La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados.",
+   "trebep 20.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-038",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses de su sindicato",
+    "Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales, con sujeción a la Constitución y al resto del ordenamiento jurídico",
+    "Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses del órgano que los nombró"
+   ],
+   1,
+   "Art. 52 · RDLeg 5/2015 (TREBEP): Los empleados públicos deben desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales, con sujeción a la Constitución y al resto del ordenamiento jurídico.",
+   "trebep 52",
+   "La afirmación, su negación y otro dato",
+   "h-deberes",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-010",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "El número mínimo se establecerá por los respectivos órganos de gobierno",
+    "El número medio se establecerá por los respectivos órganos de gobierno",
+    "El número máximo se establecerá por los respectivos órganos de gobierno"
+   ],
+   2,
+   "Art. 12 · RDLeg 5/2015 (TREBEP): El número máximo se establecerá por los respectivos órganos de gobierno. Las otras dos frases cambian «máximo» por «mínimo» y «medio».",
+   "trebep 12",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Son funcionarios interinos los nombrados con carácter temporal por razones de necesidad y urgencia, entre otras circunstancias, para funciones de confianza o asesoramiento especial, por el tiempo que dure el mandato de la autoridad",
+    "Son funcionarios interinos los nombrados con carácter temporal por razones de necesidad y urgencia, entre otras circunstancias, para dirigir servicios públicos con carácter profesional, previa evaluación del desempeño de su gestión",
+    "Son funcionarios interinos los nombrados con carácter temporal por razones de necesidad y urgencia, entre otras circunstancias, para la cobertura de plazas vacantes cuando no sea posible por funcionarios de carrera, por un máximo de tres años"
+   ],
+   2,
+   "Art. 10.1 · RDLeg 5/2015 (TREBEP): Son funcionarios interinos los nombrados con carácter temporal por razones de necesidad y urgencia, entre otras circunstancias, para la cobertura de plazas vacantes cuando no sea posible por funcionarios de carrera, por un máximo de tres años.",
+   "trebep 10.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La promoción interna no exige una antigüedad de al menos dos años de servicio activo en el subgrupo inferior",
+    "La promoción interna exige una antigüedad de al menos dos años de servicio activo en el subgrupo inferior",
+    "La promoción interna exige una antigüedad de cinco años en el cuerpo"
+   ],
+   1,
+   "Art. 18 · RDLeg 5/2015 (TREBEP): La promoción interna exige una antigüedad de al menos dos años de servicio activo en el subgrupo inferior.",
+   "trebep 18",
+   "La afirmación, su negación y otro dato",
+   "h-derechos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-064",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.a de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las cuatro semanas posteriores al parto",
+    "De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las seis semanas inmediatamente posteriores al parto",
+    "De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las dos semanas anteriores y cuatro posteriores"
+   ],
+   1,
+   "Art. 49.a · RDLeg 5/2015 (TREBEP): De las diecinueve semanas del permiso por nacimiento, son obligatorias e ininterrumpidas, a jornada completa, las seis semanas inmediatamente posteriores al parto.",
+   "trebep 49.a",
+   "Opciones casi idénticas",
+   "h-nacimiento",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-155",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "De 31 a 49 funcionarios se elegirán Delegados de Personal en número de tres, que ejercerán su representación conjunta y mancomunadamente",
+    "De 31 a 49 funcionarios se elegirán Delegados de Personal en número de dos, de forma solidaria",
+    "De 31 a 49 funcionarios se elegirán Delegados de Personal en número de uno"
+   ],
+   0,
+   "Art. 39.2 · RDLeg 5/2015 (TREBEP): De 31 a 49 funcionarios se elegirán Delegados de Personal en número de tres, que ejercerán su representación conjunta y mancomunadamente.",
+   "trebep 39.2",
+   "La afirmación, su negación y otro dato",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-138",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Durante el disfrute de este permiso, una vez finalizado el período de descanso voluntario, se podrá participar en los cursos de formación que convoque la Administración",
+    "El desempeño de las tareas correspondientes a su puesto de trabajo se realizará de forma diligente y cumpliendo la jornada y el horario establecidos",
+    "En el caso del disfrute interrumpido del permiso se requerirá, para cada período de disfrute, un preaviso de al menos diez días y se realizará por semanas completas"
+   ],
+   1,
+   "La correcta es «El desempeño de las tareas correspondientes a su puesto de trabajo se realizará de forma diligente y cumpliendo la jornada y el horario establecidos». Las otras dos son falsas: lo correcto es «Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración» (la otra frase cambia «obligatorio») y «",
+   "trebep 54",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 25 funcionarios",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 100 funcionarios"
+   ],
+   1,
+   "Art. 39 · RDLeg 5/2015 (TREBEP): Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios.",
+   "trebep 39",
+   "Opciones casi idénticas",
+   "h-repres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-012",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los días de asuntos particulares al año son seis",
+    "Los días de asuntos particulares al año no son seis",
+    "Los días de asuntos particulares al año son tres"
+   ],
+   0,
+   "Art. 48 · RDLeg 5/2015 (TREBEP): Los días de asuntos particulares al año son seis.",
+   "trebep 48",
+   "La afirmación, su negación y otro dato",
+   "h-permisos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t17-075",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo máximo de 50 funcionarios",
+    "Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo medio de 50 funcionarios"
+   ],
+   0,
+   "Art. 39 · RDLeg 5/2015 (TREBEP): Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios. Las otras dos frases cambian «mínimo» por «máximo» y «medio».",
+   "trebep 39",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
    }
   ]
  ]

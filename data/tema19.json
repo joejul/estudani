@@ -1098,7 +1098,8 @@
    "h-grupos",
    [
     "título universitario de Grado"
-   ]
+   ],
+   {}
   ],
   [
    "Para el ingreso en los cuerpos y escalas del Grupo C2 se exige:",
@@ -1114,7 +1115,8 @@
    "h-grupos",
    [
     "Graduado en Educación Secundaria"
-   ]
+   ],
+   {}
   ],
   [
    "El personal al servicio de las entidades locales está integrado por (art. 89 LBRL):",
@@ -1130,7 +1132,8 @@
    "h-personal",
    [
     "personal eventual"
-   ]
+   ],
+   {}
   ],
   [
    "Corresponde a cada Corporación local aprobar anualmente la plantilla:",
@@ -1146,7 +1149,8 @@
    "h-personal",
    [
     "Presupuesto"
-   ]
+   ],
+   {}
   ],
   [
    "Corresponde exclusivamente a los funcionarios de carrera de la Administración local:",
@@ -1162,7 +1166,8 @@
    "h-regimen",
    [
     "potestades públicas"
-   ]
+   ],
+   {}
   ],
   [
    "La Escala de Administración General se divide en las subescalas:",
@@ -1198,7 +1203,8 @@
    "h-escalas",
    [
     "Servicios Especiales"
-   ]
+   ],
+   {}
   ],
   [
    "Pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de:",
@@ -1214,7 +1220,8 @@
    "h-escalas",
    [
     "Auxiliar"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con los arts. 167 y siguientes del RDLeg 781/1986, Personal de Oficios es una clase comprendida:",
@@ -1230,7 +1237,8 @@
    "h-escalas",
    [
     "Personal de Oficios"
-   ]
+   ],
+   {}
   ],
   [
    "Dentro de cada oficio, el Personal de Oficios se clasifica en:",
@@ -1246,7 +1254,8 @@
    "h-escalas",
    [
     "Encargado, Maestro, Oficial, Ayudante y Operario"
-   ]
+   ],
+   {}
   ],
   [
    "Son funciones públicas necesarias en todas las Corporaciones locales, reservadas a funcionarios con habilitación de carácter nacional:",
@@ -1262,7 +1271,8 @@
    "h-escalas",
    [
     "Secretaría"
-   ]
+   ],
+   {}
   ],
   [
    "Las retribuciones básicas de los funcionarios locales tendrán, según el art. 93 LBRL:",
@@ -1278,7 +1288,8 @@
    "h-regimen",
    [
     "misma estructura e idéntica cuantía"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 69.1 del Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, la planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo:",
@@ -1365,7 +1376,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1664,7 +1676,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 3"
+    "z": "Prueba oficial, pregunta 3",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1910,7 +1924,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2030,7 +2045,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2158,7 +2174,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2210,7 +2227,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 27"
+    "z": "Prueba oficial, pregunta 27",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2507,7 +2526,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2543,7 +2563,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2561,7 +2582,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2704,7 +2726,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2774,7 +2797,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2849,7 +2873,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4637,6 +4662,2880 @@
     "nuevo": 1,
     "neg": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por decreto del Gobierno de la Nación o del Consejo de Gobierno de la Comunidad Autónoma correspondiente",
+    "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por Ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas",
+    "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por acuerdo del Pleno de la Corporación, a propuesta del Alcalde y previa negociación con los sindicatos"
+   ],
+   1,
+   "Art. 75.2 · RDLeg 5/2015 (TREBEP): Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por Ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
+   "trebep 75.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-020",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "El personal laboral se clasificará de conformidad con el artículo 76 del Estatuto",
+    "El personal laboral se clasificará según lo que decida cada Administración libremente",
+    "El personal laboral se clasificará de conformidad con la legislación laboral"
+   ],
+   2,
+   "Art. 77 · RDLeg 5/2015 (TREBEP): El personal laboral se clasificará de conformidad con la legislación laboral.",
+   "trebep 77",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-025",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La jornada de trabajo de los funcionarios de la Administración local será en cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado",
+    "La jornada de trabajo de los funcionarios de la Administración local no será en cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado",
+    "La jornada de trabajo de los funcionarios de la Administración local será la que fije la Comunidad Autónoma, con equivalencia y reducción de jornada propias"
+   ],
+   0,
+   "Art. 94 · Ley 7/1985 (LBRL): La jornada de trabajo de los funcionarios de la Administración local será en cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado.",
+   "lbrl 94",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-050",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El Instituto de Estudios de Administración Local desarrollará la gestión del Padrón municipal y la formación de los registros de personal de las entidades locales",
+    "El Instituto de Estudios de Administración Local desarrollará las pruebas selectivas de todos los funcionarios locales, con sujeción a las bases de cada Corporación",
+    "El Instituto de Estudios de Administración Local desarrollará cursos de perfeccionamiento, especialización y promoción para los funcionarios al servicio de las entidades locales"
+   ],
+   2,
+   "Art. 96 · Ley 7/1985 (LBRL): El Instituto de Estudios de Administración Local desarrollará cursos de perfeccionamiento, especialización y promoción para los funcionarios al servicio de las entidades locales.",
+   "lbrl 96",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-052",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "En el marco de sus competencias de autoorganización, las Administraciones Públicas estructuran sus recursos humanos de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la distribución de funciones",
+    "En el marco de sus competencias de autoorganización, las Administraciones Públicas estructuran sus recursos humanos de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la evaluación del desempeño",
+    "En el marco de sus competencias de autoorganización, las Administraciones Públicas estructuran sus recursos humanos de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la negociación colectiva"
+   ],
+   0,
+   "Art. 72 · RDLeg 5/2015 (TREBEP): En el marco de sus competencias de autoorganización, las Administraciones Públicas estructuran sus recursos humanos de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la distribución de funciones.",
+   "trebep 72",
+   "La afirmación, su negación y otro dato",
+   "h-grupos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-197",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las relaciones de puestos de trabajo comprenderán al menos la denominación de los puestos, los grupos, los cuerpos o escalas, los sistemas de provisión y las funciones detalladas",
+    "Las relaciones de puestos de trabajo comprenderán al menos la denominación de los puestos, los grupos, los cuerpos o escalas, los sistemas de provisión y las retribuciones complementarias, siendo públicos",
+    "Las relaciones de puestos de trabajo comprenderán al menos la denominación de los puestos, los grupos, los cuerpos o escalas, los sistemas de provisión y la edad máxima de acceso"
+   ],
+   1,
+   "Art. 74 · RDLeg 5/2015 (TREBEP): Las relaciones de puestos de trabajo comprenderán al menos la denominación de los puestos, los grupos, los cuerpos o escalas, los sistemas de provisión y las retribuciones complementarias, siendo públicos.",
+   "trebep 74",
+   "La afirmación, su negación y otro dato",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-105",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "La provisión de puestos de trabajo reservados o que puedan ser desempeñados por funcionarios de carrera no se regirá por las normas que, en desarrollo de la legislación básica en materia de función pública local, dicte la Administración del Estado",
+    "La provisión de puestos de trabajo reservados o que puedan ser desempeñados por funcionarios de carrera se regirá por las normas que, en desarrollo de la legislación básica en materia de función pública local, dicte la Administración del Estado",
+    "La provisión de puestos de trabajo reservados o que puedan ser desempeñados por funcionarios de carrera se regirá por las normas que apruebe cada Corporación local en ejercicio de su potestad de autoorganización"
+   ],
+   1,
+   "Art. 168 · RDLeg 781/1986: La provisión de puestos de trabajo reservados o que puedan ser desempeñados por funcionarios de carrera se regirá por las normas que, en desarrollo de la legislación básica en materia de función pública local, dicte la Administración del Estado.",
+   "rdleg781 168",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-036",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "La Policía Local no ejercerá sus funciones de acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+    "La Policía Local ejercerá sus funciones de acuerdo con el reglamento de cada municipio exclusivamente, sin sujeción a la ley orgánica",
+    "La Policía Local ejercerá sus funciones de acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad"
+   ],
+   2,
+   "Art. 173 · RDLeg 781/1986: La Policía Local ejercerá sus funciones de acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad.",
+   "rdleg781 173",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-047",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo no será la establecida con carácter general para todas las Administraciones Públicas en el Estatuto básico de la función pública",
+    "La participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será la establecida con carácter general para todas las Administraciones Públicas en el Estatuto básico de la función pública",
+    "La participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será la que establezca cada ayuntamiento en su acuerdo regulador de las condiciones de empleo"
+   ],
+   1,
+   "Art. 95 · Ley 7/1985 (LBRL): La participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será la establecida con carácter general para todas las Administraciones Públicas en el Estatuto básico de la función pública.",
+   "lbrl 95",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-051",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Es competencia de cada Corporación local la selección de los funcionarios todos sin excepción, incluidos los funcionarios con habilitación de carácter nacional",
+    "Es competencia de cada Corporación local la selección de los funcionarios con la excepción de los funcionarios con habilitación de carácter nacional",
+    "Es competencia de cada Corporación local la selección de los funcionarios solo de los funcionarios de Administración General, quedando fuera los de Administración Especial"
+   ],
+   1,
+   "Art. 100.1 · Ley 7/1985 (LBRL): Es competencia de cada Corporación local la selección de los funcionarios con la excepción de los funcionarios con habilitación de carácter nacional.",
+   "lbrl 100.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-058",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los puestos vacantes reservados a funcionarios con habilitación nacional se proveen por concurso de méritos o Comisión de servicios",
+    "Los puestos vacantes reservados a funcionarios con habilitación nacional se proveen por concurso de méritos o libre designación, en convocatoria pública",
+    "Los puestos vacantes reservados a funcionarios con habilitación nacional se proveen por concurso de méritos o oposición libre"
+   ],
+   1,
+   "Art. 101 · Ley 7/1985 (LBRL): Los puestos vacantes reservados a funcionarios con habilitación nacional se proveen por concurso de méritos o libre designación, en convocatoria pública.",
+   "lbrl 101",
+   "La afirmación, su negación y otro dato",
+   "h-habilitacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-149",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "La Conferencia Sectorial de Administración Pública deberá aprobar los criterios generales a tener en cuenta para llevar a cabo las homologaciones necesarias para hacer posible la movilidad",
+    "La Conferencia Sectorial de Administración Pública no podrá aprobar los criterios generales a tener en cuenta para llevar a cabo las homologaciones necesarias para hacer posible la movilidad",
+    "La Conferencia Sectorial de Administración Pública podrá aprobar los criterios generales a tener en cuenta para llevar a cabo las homologaciones necesarias para hacer posible la movilidad"
+   ],
+   2,
+   "Art. 84 · RDLeg 5/2015 (TREBEP): La Conferencia Sectorial de Administración Pública podrá aprobar los criterios generales a tener en cuenta para llevar a cabo las homologaciones necesarias para hacer posible la movilidad. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "trebep 84",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La planificación de los recursos humanos tiene como objetivo contribuir a la eficacia en la prestación de los servicios y a la eficiencia en la utilización de los recursos económicos disponibles",
+    "La planificación de los recursos humanos no tiene como objetivo contribuir a la eficacia en la prestación de los servicios y a la eficiencia en la utilización de los recursos económicos disponibles",
+    "La planificación de los recursos humanos tiene como objetivo contribuir a la eficacia en la prestación de los servicios y a la estabilidad de los interinos"
+   ],
+   0,
+   "Art. 69.1 · RDLeg 5/2015 (TREBEP): La planificación de los recursos humanos tiene como objetivo contribuir a la eficacia en la prestación de los servicios y a la eficiencia en la utilización de los recursos económicos disponibles.",
+   "trebep 69.1",
+   "La afirmación, su negación y otro dato",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-095",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre, garantizando igualdad, mérito, capacidad y publicidad",
+    "La selección de todo el personal, sea funcionario o laboral, debe realizarse por concurso restringido a vecinos del municipio, con valoración de la antigüedad y el arraigo",
+    "La selección de todo el personal, sea funcionario o laboral, debe realizarse por libre designación del Alcalde, entre los candidatos que reúnan los requisitos de la convocatoria"
+   ],
+   0,
+   "Art. 91.2 · Ley 7/1985 (LBRL): La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre, garantizando igualdad, mérito, capacidad y publicidad.",
+   "lbrl 91.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-029",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la opción correcta:",
+   [
+    "Los puestos de trabajo a desempeñar por funcionarios de servicios especiales podrán existir en cualquier clase de Corporación",
+    "Los puestos de trabajo a desempeñar por funcionarios de servicios especiales deberán existir en cualquier clase de Corporación",
+    "Los puestos de trabajo a desempeñar por funcionarios de servicios especiales no podrán existir en cualquier clase de Corporación"
+   ],
+   0,
+   "Art. 170 · RDLeg 781/1986: Los puestos de trabajo a desempeñar por funcionarios de servicios especiales podrán existir en cualquier clase de Corporación. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "rdleg781 170",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública deberán ser cesados discrecionalmente",
+    "La Conferencia Sectorial de Administración Pública no podrá aprobar los criterios generales a tener en cuenta para llevar a cabo las homologaciones necesarias para hacer posible la movilidad",
+    "La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera"
+   ],
+   2,
+   "La correcta es «La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera». Las otras dos son falsas: lo correcto es «Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con conv",
+   "trebep 83",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El personal al servicio de las entidades locales está integrado por (art. 89 LBRL) funcionarios de carrera e interinos únicamente",
+    "El personal al servicio de las entidades locales está integrado por (art. 89 LBRL) solo funcionarios de carrera",
+    "El personal al servicio de las entidades locales está integrado por (art. 89 LBRL) funcionarios de carrera, contratados en régimen laboral y personal eventual"
+   ],
+   2,
+   "Art. 89 · Ley 7/1985 (LBRL): El personal al servicio de las entidades locales está integrado por (art. 89 LBRL) funcionarios de carrera, contratados en régimen laboral y personal eventual.",
+   "lbrl 89",
+   "La afirmación, su negación y otro dato",
+   "h-personal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-003",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Su cuantía global será fijada por el Alcalde de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado",
+    "Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario",
+    "Las plantillas no deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general"
+   ],
+   1,
+   "La correcta es «Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario». Las otras dos son falsas: lo correcto es «Su cuantía global será fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado» (la otra frase cambia «el Pleno») y «Las plantillas deberán responder a los principios",
+   "lbrl 92",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171.2 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "El ingreso en la Subescala Técnica de Administración Especial se hará solo por oposición libre, con exigencia del título académico o profesional de la clase correspondiente",
+    "El ingreso en la Subescala Técnica de Administración Especial se hará por oposición, concurso o concurso-oposición libre, según acuerde la Corporación, exigiéndose el título académico o profesional correspondiente",
+    "El ingreso en la Subescala Técnica de Administración Especial se hará por libre designación del Alcalde, con exigencia del título académico o profesional correspondiente"
+   ],
+   1,
+   "Art. 171.2 · RDLeg 781/1986: El ingreso en la Subescala Técnica de Administración Especial se hará por oposición, concurso o concurso-oposición libre, según acuerde la Corporación, exigiéndose el título académico o profesional correspondiente.",
+   "rdleg781 171.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-044",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Quienes obtengan la habilitación ingresarán en la Función Pública Local y no estarán legitimados para participar en los concursos de méritos para las plazas reservadas a estos funcionarios en cada entidad local",
+    "Quienes obtengan la habilitación ingresarán en la Función Pública Local y estarán legitimados para participar en cualquier proceso de libre designación",
+    "Quienes obtengan la habilitación ingresarán en la Función Pública Local y estarán legitimados para participar en los concursos de méritos para las plazas reservadas a estos funcionarios en cada entidad local"
+   ],
+   2,
+   "Art. 98.2 · Ley 7/1985 (LBRL): Quienes obtengan la habilitación ingresarán en la Función Pública Local y estarán legitimados para participar en los concursos de méritos para las plazas reservadas a estos funcionarios en cada entidad local.",
+   "lbrl 98.2",
+   "La afirmación, su negación y otro dato",
+   "h-habilitacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-143",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "Las leyes de Función Pública establecerán el plazo máximo de ocupación de los puestos obtenidos por concurso para poder participar en otros concursos",
+    "Las leyes de Función Pública establecerán el plazo mínimo de ocupación de los puestos obtenidos por concurso para poder participar en otros concursos",
+    "Las leyes de Función Pública establecerán el plazo medio de ocupación de los puestos obtenidos por concurso para poder participar en otros concursos"
+   ],
+   1,
+   "Art. 79.2 · RDLeg 5/2015 (TREBEP): Las leyes de Función Pública establecerán el plazo mínimo de ocupación de los puestos obtenidos por concurso para poder participar en otros concursos. Las otras dos frases cambian «mínimo» por «máximo» y «medio».",
+   "trebep 79.2",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t19-068",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las mujeres víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde prestaban servicios tendrán derecho al traslado a otro puesto propio de su cuerpo, escala o categoría, de análogas características, sin necesidad de que sea vacante de necesaria cobertura; tendrá la consideración de traslado forzoso",
+    "Las mujeres víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde prestaban servicios tendrán derecho a la excedencia obligatoria con reserva del puesto durante los tres primeros años",
+    "Las mujeres víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde prestaban servicios tendrán derecho a un permiso sin sueldo de hasta seis meses para hacer efectiva su protección y asistencia"
+   ],
+   0,
+   "Art. 82.1 · RDLeg 5/2015 (TREBEP): Las mujeres víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde prestaban servicios tendrán derecho al traslado a otro puesto propio de su cuerpo, escala o categoría, de análogas características, sin necesidad de que sea vacante de necesaria cobertura; tendrá la consideración de traslado forzoso.",
+   "trebep 82.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-073",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Su cuantía global será fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado",
+    "Su cuantía global será fijada por el Alcalde de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado",
+    "Su cuantía global será fijada por la Junta de Gobierno Local de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado"
+   ],
+   0,
+   "Art. 93 · Ley 7/1985 (LBRL): Su cuantía global será fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado. Las otras dos frases cambian «el Pleno» por «el Alcalde» y «la Junta de Gobierno Local».",
+   "lbrl 93",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Dentro de cada oficio, el Personal de Oficios se clasifica en jefe, Oficial y Peón",
+    "Dentro de cada oficio, el Personal de Oficios se clasifica en encargado, Maestro, Oficial, Ayudante y Operario",
+    "Dentro de cada oficio, el Personal de Oficios se clasifica en técnico, Gestor y Auxiliar"
+   ],
+   1,
+   "Art. 175 · RDLeg 781/1986: Dentro de cada oficio, el Personal de Oficios se clasifica en encargado, Maestro, Oficial, Ayudante y Operario.",
+   "rdleg781 175",
+   "La afirmación, su negación y otro dato",
+   "h-escalas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-010",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos",
+    "Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados voluntarios",
+    "Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados automáticos"
+   ],
+   0,
+   "Art. 81 · RDLeg 5/2015 (TREBEP): Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos. Las otras dos frases cambian «forzosos» por «voluntarios» y «automáticos».",
+   "trebep 81",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las del puesto que desempeñen en cualquier caso, a su libre criterio, aunque no resulten adecuadas a su clasificación, grado o categoría",
+    "Las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las del puesto que desempeñen siempre que resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen sin merma en las retribuciones",
+    "Las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las del puesto que desempeñen solo con el consentimiento del empleado y con una compensación económica adicional por las nuevas funciones"
+   ],
+   1,
+   "Art. 73.2 · RDLeg 5/2015 (TREBEP): Las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las del puesto que desempeñen siempre que resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen sin merma en las retribuciones.",
+   "trebep 73.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.1.d de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y vigilancia y custodia",
+    "Pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y manejo de máquinas, archivo de documentos y similares",
+    "Pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y estudio y propuesta"
+   ],
+   1,
+   "Art. 169.1.d · RDLeg 781/1986: Pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y manejo de máquinas, archivo de documentos y similares.",
+   "rdleg781 169.1.d",
+   "La afirmación, su negación y otro dato",
+   "h-escalas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-173",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Estado»",
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo podrán publicarse en el «Boletín Oficial del Estado»",
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo no deberán publicarse en el «Boletín Oficial del Estado»"
+   ],
+   0,
+   "Art. 97 · Ley 7/1985 (LBRL): Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Estado». Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "lbrl 97",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Los méritos generales serán de preceptiva valoración en todo caso, se determinarán por la Administración del Estado, y su puntuación alcanzará el 60 por 100 del total posible conforme al baremo correspondiente",
+    "Las pruebas de selección y los concursos para la provisión de puestos de trabajo, a que se refiere el presente Capítulo, se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria",
+    "El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el mínimo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos"
+   ],
+   1,
+   "La correcta es «Las pruebas de selección y los concursos para la provisión de puestos de trabajo, a que se refiere el presente Capítulo, se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria». Las otras dos son falsas: lo correcto es «Los méritos generales serán de preceptiva valoración en todo caso, se determinarán por la Administración del Estado, y su puntuació",
+   "lbrl 102",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.4 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "Los titulares de puestos provistos por libre designación con convocatoria pública deberán ser cesados discrecionalmente, debiendo asignárseles un puesto conforme al sistema de carrera profesional propio de cada Administración",
+    "Los titulares de puestos provistos por libre designación con convocatoria pública no podrán ser cesados discrecionalmente, debiendo asignárseles un puesto conforme al sistema de carrera profesional propio de cada Administración",
+    "Los titulares de puestos provistos por libre designación con convocatoria pública podrán ser cesados discrecionalmente, debiendo asignárseles un puesto conforme al sistema de carrera profesional propio de cada Administración"
+   ],
+   2,
+   "Art. 80.4 · RDLeg 5/2015 (TREBEP): Los titulares de puestos provistos por libre designación con convocatoria pública podrán ser cesados discrecionalmente, debiendo asignárseles un puesto conforme al sistema de carrera profesional propio de cada Administración. Las otras dos frases cambian «Podrán» por «Deberán» y «no podrán».",
+   "trebep 80.4",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t19-070",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Corresponde a cada Corporación local aprobar anualmente la plantilla por decreto del Gobierno de la Comunidad Autónoma",
+    "Corresponde a cada Corporación local aprobar anualmente la plantilla a través del Presupuesto",
+    "Corresponde a cada Corporación local aprobar anualmente la plantilla mediante ordenanza independiente"
+   ],
+   1,
+   "Art. 90 · Ley 7/1985 (LBRL): Corresponde a cada Corporación local aprobar anualmente la plantilla a través del Presupuesto.",
+   "lbrl 90",
+   "La afirmación, su negación y otro dato",
+   "h-personal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-004",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "La titulación exigida para el ingreso en los cuerpos o escalas del Grupo A es título universitario de Grado",
+    "La titulación exigida para el ingreso en los cuerpos o escalas del Grupo A no es título universitario de Grado",
+    "La titulación exigida para el ingreso en los cuerpos o escalas del Grupo A es título de Técnico Superior"
+   ],
+   0,
+   "Art. 76 · RDLeg 5/2015 (TREBEP): La titulación exigida para el ingreso en los cuerpos o escalas del Grupo A es título universitario de Grado.",
+   "trebep 76",
+   "La afirmación, su negación y otro dato",
+   "h-grupos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-001",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "El número, características y retribuciones del personal eventual será determinado por el Pleno de cada Corporación, al comienzo de su mandato",
+    "El número, características y retribuciones del personal eventual será determinado por el Alcalde de cada Corporación, al comienzo de su mandato",
+    "El número, características y retribuciones del personal eventual será determinado por la Junta de Gobierno Local de cada Corporación, al comienzo de su mandato"
+   ],
+   0,
+   "Art. 104 · Ley 7/1985 (LBRL): El número, características y retribuciones del personal eventual será determinado por el Pleno de cada Corporación, al comienzo de su mandato. Las otras dos frases cambian «el Pleno» por «el Alcalde» y «la Junta de Gobierno Local».",
+   "lbrl 104",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Su cuantía global será fijada por el Alcalde de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado",
+    "Corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto, la plantilla, que deberá comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual",
+    "Las Corporaciones locales constituirán Registros de personal, coordinados con los de las demás Administraciones públicas, según las normas aprobadas por el Gobierno"
+   ],
+   0,
+   "La incorrecta es «Su cuantía global será fijada por el Alcalde de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado»: cambia «el Pleno». Lo correcto: «Su cuantía global será fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que se señalen por el Estado».",
+   "lbrl 93",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Un Ayuntamiento de 8.000 habitantes puede incluir en su plantilla personal eventual en número máximo de dos",
+    "La selección de todo el personal, funcionario o laboral, se realiza mediante convocatoria pública y sistema de concurso, oposición o concurso-oposición libre garantizando los principios de igualdad, mérito y capacidad, así como el de publicidad",
+    "Las Corporaciones locales constituirán registros de personal, coordinados con los de las demás Administraciones públicas, cuyos datos determinarán las nóminas"
+   ],
+   0,
+   "La incorrecta es «un Ayuntamiento de 8.000 habitantes puede incluir en su plantilla personal eventual en número máximo de dos». Lo correcto: un Ayuntamiento de 8.000 habitantes puede incluir en su plantilla personal eventual en número máximo de uno.",
+   "lbrl 104 bis",
+   "Proposición negativa",
+   "h-eventual-limites",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública",
+    "Las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante personal de nuevo ingreso serán objeto de la Oferta de empleo público; su ejecución deberá desarrollarse dentro del plazo improrrogable de tres años",
+    "Las víctimas de violencia de género o sexual que deban abandonar el puesto de la localidad tienen derecho al traslado a otro puesto de su cuerpo, de análogas características solo si hay vacante de necesaria cobertura"
+   ],
+   2,
+   "La incorrecta es «las víctimas de violencia de género o sexual que deban abandonar el puesto de la localidad tienen derecho al traslado a otro puesto de su cuerpo, de análogas características solo si hay vacante de necesaria cobertura». Lo correcto: las víctimas de violencia de género o sexual que deban abandonar el puesto de la localidad tienen derecho al traslado a otro puesto de su cuerpo, de análogas característi",
+   "trebep 82.1",
+   "Proposición negativa",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Gobierno, mediante real decreto, regulará las especialidades correspondientes de la forma de provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional",
+    "Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado",
+    "El concurso unitario no será convocado por la Administración del Estado"
+   ],
+   2,
+   "La incorrecta es «El concurso unitario no será convocado por la Administración del Estado»: niega lo que dice la ley. Lo correcto: «El concurso unitario será convocado por la Administración del Estado».",
+   "lbrl 92 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En las pruebas selectivas locales, el tribunal u órgano similar elevará la relación de aprobados al Presidente de la Corporación para hacer el nombramiento",
+    "Corresponde al Estado establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo y las normas básicas de la carrera administrativa",
+    "Las Corporaciones locales formarán públicamente su oferta de empleo ajustándose a las directrices de la Diputación"
+   ],
+   2,
+   "La incorrecta es «las Corporaciones locales formarán públicamente su oferta de empleo ajustándose a las directrices de la Diputación». Lo correcto: las Corporaciones locales formarán públicamente su oferta de empleo ajustándose a los criterios fijados en la normativa básica estatal.",
+   "lbrl 91.1",
+   "Proposición negativa",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los municipios de más de 5.000 y hasta 10.000 habitantes podrán tener personal eventual en número que no exceda de uno",
+    "La selección, formación y habilitación de los funcionarios con habilitación de carácter nacional corresponde a cada Corporación local, que aprobará las bases y programas conforme a su plantilla",
+    "Las subescalas de la escala de funcionarios con habilitación nacional son Secretaría, Intervención-tesorería y Secretaría-intervención"
+   ],
+   1,
+   "La incorrecta es «la selección, formación y habilitación de los funcionarios con habilitación de carácter nacional corresponde a cada Corporación local, que aprobará las bases y programas conforme a su plantilla». Lo correcto: la selección, formación y habilitación de los funcionarios con habilitación de carácter nacional corresponde al Instituto de Estudios de Administración Local, conforme a las bases y programas a",
+   "lbrl 98.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto la plantilla, que deberá comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual",
+    "La cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por el Alcalde",
+    "Corresponde exclusivamente a los funcionarios de carrera de la Administración local el ejercicio de funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales"
+   ],
+   1,
+   "La incorrecta es «la cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por el Alcalde». Lo correcto: la cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que señale el Estado.",
+   "lbrl 93.2",
+   "Proposición negativa",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Existirán dos concursos anuales: el concurso ordinario y el concurso unitario, que tendrá naturaleza supletoria",
+    "El ámbito territorial de los concursos será de carácter estatal",
+    "La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de dos años para las faltas graves"
+   ],
+   2,
+   "La incorrecta es «La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de dos años para las faltas graves»: cambia «tres años». Lo correcto: «La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de tres años para las faltas graves».",
+   "lbrl 92 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Para el acceso a los cuerpos o escalas de este Grupo no se exigirá estar en posesión del título universitario de Grado",
+    "Los puestos de trabajo podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad",
+    "La clasificación de los cuerpos y escalas en cada Subgrupo estará en función del nivel de responsabilidad de las funciones a desempeñar y de las características de las pruebas de acceso"
+   ],
+   0,
+   "La incorrecta es «Para el acceso a los cuerpos o escalas de este Grupo no se exigirá estar en posesión del título universitario de Grado»: niega lo que dice la ley. Lo correcto: «Para el acceso a los cuerpos o escalas de este Grupo se exigirá estar en posesión del título universitario de Grado».",
+   "trebep 76",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente Estatuto",
+    "Para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de Técnico Superior",
+    "La clasificación de los cuerpos y escalas en cada Subgrupo no estará en función del nivel de responsabilidad de las funciones a desempeñar y de las características de las pruebas de acceso"
+   ],
+   2,
+   "La incorrecta es «La clasificación de los cuerpos y escalas en cada Subgrupo no estará en función del nivel de responsabilidad de las funciones a desempeñar y de las características de las pruebas de acceso»: niega lo que dice la ley. Lo correcto: «La clasificación de los cuerpos y escalas en cada Subgrupo estará en función del nivel de responsabilidad de las funciones a desempeñar y de las características de las pru",
+   "trebep 76",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por la Junta de Gobierno Local",
+    "Las Corporaciones locales formarán públicamente su oferta de empleo ajustándose a los criterios fijados en la normativa básica estatal",
+    "Los puestos vacantes reservados a funcionarios con habilitación nacional se proveen por concurso de méritos o libre designación, en convocatoria pública"
+   ],
+   0,
+   "La incorrecta es «la cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por la Junta de Gobierno Local». Lo correcto: la cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que señale el Estado.",
+   "lbrl 93.2",
+   "Proposición negativa",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo aumentar las retribuciones de los empleados públicos para incentivar su movilidad y promoción profesional",
+    "Los contenidos mínimos comunes de los Registros de personal se establecen mediante convenio de Conferencia Sectorial",
+    "Los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación de servicio en otras Administraciones Públicas"
+   ],
+   0,
+   "La incorrecta es «la planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo aumentar las retribuciones de los empleados públicos para incentivar su movilidad y promoción profesional». Lo correcto: la planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo contribuir a la eficacia en la prestación de los servicios y a la eficiencia en la utilizac",
+   "trebep 69.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, podrá ser publicada en el Diario oficial correspondiente",
+    "La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos",
+    "Los puestos de trabajo podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad"
+   ],
+   0,
+   "La incorrecta es «La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, podrá ser publicada en el Diario oficial correspondiente»: cambia «deberá». Lo correcto: «La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, deberá ser publicada en el Diari",
+   "trebep 70",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Para el acceso a los cuerpos del Grupo A se exigirá título universitario de Grado",
+    "La oferta de empleo público debe ejecutarse en un plazo improrrogable de tres años",
+    "La Oferta de empleo público comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un cinco por cien adicional"
+   ],
+   2,
+   "La incorrecta es «la Oferta de empleo público comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un cinco por cien adicional». Lo correcto: la Oferta de empleo público comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional.",
+   "trebep 70.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los nombramientos de personal eventual, su régimen retributivo y dedicación se publicarán en el «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación",
+    "El número, características y retribuciones del personal eventual será determinado por el Pleno de cada Corporación al comienzo de su mandato, y solo podrá modificarse con motivo de la aprobación de los presupuestos anuales",
+    "El nombramiento y cese del personal eventual local corresponde al Pleno"
+   ],
+   2,
+   "La incorrecta es «el nombramiento y cese del personal eventual local corresponde al Pleno». Lo correcto: el nombramiento y cese del personal eventual local corresponde al Alcalde o Presidente, siendo libre.",
+   "lbrl 104.2",
+   "Proposición negativa",
+   "h-eventual-limites",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La clasificación de los cuerpos en los Subgrupos A1 y A2 depende del nivel de responsabilidad de las funciones y de la antigüedad del cuerpo",
+    "La provisión de puestos se basa en los principios de igualdad, mérito, capacidad y publicidad",
+    "El concurso es el procedimiento normal de provisión de puestos de trabajo"
+   ],
+   0,
+   "La incorrecta es «la clasificación de los cuerpos en los Subgrupos A1 y A2 depende del nivel de responsabilidad de las funciones y de la antigüedad del cuerpo». Lo correcto: la clasificación de los cuerpos en los Subgrupos A1 y A2 depende del nivel de responsabilidad de las funciones y de las características de las pruebas de acceso.",
+   "trebep 76",
+   "Proposición negativa",
+   "h-grupos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial de Aragón o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual",
+    "Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado",
+    "Los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior"
+   ],
+   0,
+   "La incorrecta es «Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial de Aragón o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual»: cambia «Boletín Oficial de la Provincia». Lo correcto: «Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial de la Provincia",
+   "lbrl 104 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites de la correspondiente Ley de Presupuestos Generales del Estado",
+    "Las bases de las pruebas selectivas para obtener la habilitación de carácter nacional se publican en el Boletín Oficial de la Provincia",
+    "La jornada de trabajo de los funcionarios de la Administración local será en cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado"
+   ],
+   1,
+   "La incorrecta es «las bases de las pruebas selectivas para obtener la habilitación de carácter nacional se publican en el Boletín Oficial de la Provincia». Lo correcto: las bases de las pruebas selectivas para obtener la habilitación de carácter nacional se publican en el «Boletín Oficial del Estado».",
+   "lbrl 97",
+   "Proposición negativa",
+   "h-habilitacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado",
+    "El Gobierno, mediante real decreto, regulará las especialidades correspondientes de la forma de provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional",
+    "El ámbito territorial de los concursos no será de carácter estatal"
+   ],
+   2,
+   "La incorrecta es «El ámbito territorial de los concursos no será de carácter estatal»: niega lo que dice la ley. Lo correcto: «El ámbito territorial de los concursos será de carácter estatal».",
+   "lbrl 92 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La Oferta de empleo público se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá ser publicada en el Diario oficial correspondiente",
+    "Las Administraciones, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio respetando su cuerpo y destino definitivo",
+    "Las necesidades de personal de nuevo ingreso que deban proveerse serán objeto de la Oferta de empleo público siempre que cuenten con asignación presupuestaria"
+   ],
+   1,
+   "La incorrecta es «las Administraciones, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio respetando su cuerpo y destino definitivo». Lo correcto: las Administraciones, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio respetando sus retribuciones y condiciones esenciales de trabajo.",
+   "trebep 81.2",
+   "Proposición negativa",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de tres años para las faltas graves",
+    "La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 18 días",
+    "Existirán dos concursos anuales: el concurso ordinario y el concurso unitario, que tendrá naturaleza supletoria"
+   ],
+   1,
+   "La incorrecta es «La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 18 días»: cambia «20 días». Lo correcto: «La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprov",
+   "lbrl 103 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública deberán ser cesados discrecionalmente",
+    "Su funcionamiento se ajustará a las reglas de imparcialidad y objetividad",
+    "La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública"
+   ],
+   0,
+   "La incorrecta es «Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública deberán ser cesados discrecionalmente»: cambia «podrán». Lo correcto: «Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente».",
+   "trebep 80",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Para el acceso a los cuerpos o escalas de este Grupo se exigirá estar en posesión del título universitario de Grado",
+    "Para el acceso a los cuerpos o escalas del Grupo B no se exigirá estar en posesión del título de Técnico Superior",
+    "Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente Estatuto"
+   ],
+   1,
+   "La incorrecta es «Para el acceso a los cuerpos o escalas del Grupo B no se exigirá estar en posesión del título de Técnico Superior»: niega lo que dice la ley. Lo correcto: «Para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de Técnico Superior».",
+   "trebep 76",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En consecuencia, los puestos de trabajo predominantemente burocráticos habrán de ser desempeñados por funcionarios técnicos, de gestión, administrativos o auxiliares de Administración General",
+    "Tendrán la consideración de funcionarios de Administración Especial los que tengan atribuido el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio",
+    "Los puestos de trabajo a desempeñar por funcionarios de servicios especiales no podrán existir en cualquier clase de Corporación"
+   ],
+   2,
+   "La incorrecta es «Los puestos de trabajo a desempeñar por funcionarios de servicios especiales no podrán existir en cualquier clase de Corporación»: cambia «podrán». Lo correcto: «Los puestos de trabajo a desempeñar por funcionarios de servicios especiales podrán existir en cualquier clase de Corporación».",
+   "rdleg781 170",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los nombramientos de funcionarios de empleo, el régimen de sus retribuciones y su dedicación se publicarán en el «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación",
+    "El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos",
+    "El número, características y retribuciones del personal eventual será determinado por el Alcalde de cada Corporación, al comienzo de su mandato"
+   ],
+   2,
+   "La incorrecta es «El número, características y retribuciones del personal eventual será determinado por el Alcalde de cada Corporación, al comienzo de su mandato»: cambia «el Pleno». Lo correcto: «El número, características y retribuciones del personal eventual será determinado por el Pleno de cada Corporación, al comienzo de su mandato».",
+   "lbrl 104",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "El órgano competente para el nombramiento deberá recabar la intervención de especialistas que permitan apreciar la idoneidad de los candidatos",
+    "La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera",
+    "Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente"
+   ],
+   0,
+   "La incorrecta es «El órgano competente para el nombramiento deberá recabar la intervención de especialistas que permitan apreciar la idoneidad de los candidatos»: cambia «podrá». Lo correcto: «El órgano competente para el nombramiento podrá recabar la intervención de especialistas que permitan apreciar la idoneidad de los candidatos».",
+   "trebep 80",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La jornada de trabajo de los funcionarios de la Administración local será la que fije la Comunidad Autónoma, con equivalencia y reducción de jornada propias",
+    "La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre, garantizando igualdad, mérito, capacidad y publicidad",
+    "Los municipios de más de 5.000 y hasta 10.000 habitantes podrán tener personal eventual en número que no exceda de uno"
+   ],
+   0,
+   "La incorrecta es «la jornada de trabajo de los funcionarios de la Administración local será la que fije la Comunidad Autónoma, con equivalencia y reducción de jornada propias». Lo correcto: la jornada de trabajo de los funcionarios de la Administración local será en cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado.",
+   "lbrl 94",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los méritos generales serán de preceptiva valoración en todo caso, se determinarán por la Administración del Estado, y su puntuación alcanzará el 65 por 100 del total posible conforme al baremo correspondiente",
+    "Los méritos específicos se podrán determinar por cada Corporación local, y su puntuación alcanzará hasta un 20 por 100 del total posible",
+    "A los funcionarios cesados en los mismos se les garantizará un puesto de trabajo de su subescala y categoría en la Corporación, que deberá figurar en su relación de puestos de trabajo"
+   ],
+   1,
+   "La incorrecta es «Los méritos específicos se podrán determinar por cada Corporación local, y su puntuación alcanzará hasta un 20 por 100 del total posible»: cambia «25». Lo correcto: «Los méritos específicos se podrán determinar por cada Corporación local, y su puntuación alcanzará hasta un 25 por 100 del total posible».",
+   "lbrl 99",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el medio respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos",
+    "El nombramiento y cese de estos funcionarios es libre y corresponde al Alcalde o al Presidente de la entidad local correspondiente",
+    "Las pruebas de selección y los concursos para la provisión de puestos de trabajo, a que se refiere el presente Capítulo, se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria"
+   ],
+   0,
+   "La incorrecta es «El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el medio respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos»: cambia «máximo». Lo correcto: «El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el máxim",
+   "lbrl 103",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo podrán publicarse en el «Boletín Oficial del Estado»",
+    "Los méritos específicos se podrán determinar por cada Corporación local, y su puntuación alcanzará hasta un 25 por 100 del total posible",
+    "La participación de los funcionarios, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo, será la establecida con carácter general para todas las Administraciones Públicas en el Estatuto básico de la función publica"
+   ],
+   0,
+   "La incorrecta es «Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo podrán publicarse en el «Boletín Oficial del Estado»»: cambia «deberán». Lo correcto: «Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Est",
+   "lbrl 97",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Pertenecerán a la Subescala Administrativa de Administración General los funcionarios que realicen tareas administrativas, normalmente de trámite y colaboración",
+    "La Subescala de Servicios Especiales comprende las clases de Policía Local, Extinción de Incendios, Cometidos Especiales, Personal de Oficios y subalternos",
+    "Los funcionarios de carrera locales sin habilitación nacional se integran en las escalas de Administración General y Administración Especial"
+   ],
+   1,
+   "La incorrecta es «la Subescala de Servicios Especiales comprende las clases de Policía Local, Extinción de Incendios, Cometidos Especiales, Personal de Oficios y subalternos». Lo correcto: la Subescala de Servicios Especiales comprende las clases de Policía Local, Extinción de Incendios, Cometidos Especiales, Personal de Oficios y agentes forestales y medioambientales.",
+   "rdleg781 172.2",
+   "Proposición negativa",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado",
+    "Los funcionarios de las subescalas de Secretaría e Intervención-tesorería no estarán integrados en una de estas dos categorías: entrada o superior",
+    "El concurso unitario será convocado por la Administración del Estado"
+   ],
+   1,
+   "La incorrecta es «Los funcionarios de las subescalas de Secretaría e Intervención-tesorería no estarán integrados en una de estas dos categorías: entrada o superior»: niega lo que dice la ley. Lo correcto: «Los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior».",
+   "lbrl 92 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La Subescala Técnica de Administración Especial se divide, por el nivel de título, en Técnicos superiores, Medios y Subalternos",
+    "La Escala de Administración Especial se divide en las subescalas técnica y de Servicios Especiales",
+    "Pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y manejo de máquinas, archivo de documentos y similares"
+   ],
+   0,
+   "La incorrecta es «la Subescala Técnica de Administración Especial se divide, por el nivel de título, en Técnicos superiores, Medios y Subalternos». Lo correcto: la Subescala Técnica de Administración Especial se divide, por el nivel de título, en Técnicos superiores, Medios y Auxiliares.",
+   "rdleg781 171.1",
+   "Proposición negativa",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Pertenecerán a la Subescala de Servicios Especiales los funcionarios que desarrollen tareas que requieran una aptitud específica, y para cuyo ejercicio no se exija con carácter general la posesión de títulos académicos o profesionales determinados",
+    "Pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y vigilancia y custodia",
+    "Corresponde a los funcionarios de la Escala de Administración General el desempeño de funciones comunes al ejercicio de la actividad administrativa"
+   ],
+   1,
+   "La incorrecta es «pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y vigilancia y custodia». Lo correcto: pertenecen a la Subescala Auxiliar de Administración General quienes realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y manejo de máquinas, archivo de document",
+   "rdleg781 169.1.d",
+   "Proposición negativa",
+   "h-escalas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Pertenecen a la Subescala de Servicios Especiales los funcionarios que desarrollen tareas que requieran una aptitud específica y para las que no se exija, con carácter general, título académico o profesional determinado",
+    "El ingreso en la Subescala Técnica de Administración Especial se hará solo por oposición libre, con exigencia del título académico o profesional de la clase correspondiente",
+    "Se integrarán en la clase de Personal de Oficios los funcionarios que realicen tareas de carácter predominantemente manual referidas a un determinado oficio, industria o arte; se clasifican en Encargado, Maestro, Oficial, Ayudante y Operario"
+   ],
+   1,
+   "La incorrecta es «el ingreso en la Subescala Técnica de Administración Especial se hará solo por oposición libre, con exigencia del título académico o profesional de la clase correspondiente». Lo correcto: el ingreso en la Subescala Técnica de Administración Especial se hará por oposición, concurso o concurso-oposición libre, según acuerde la Corporación, exigiéndose el título académico o profesional correspondiente.",
+   "rdleg781 171.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será la establecida en la legislación laboral y en los convenios colectivos de cada sector",
+    "El concurso unitario de habilitación nacional tiene naturaleza supletoria y lo convoca el Estado",
+    "Las Corporaciones locales constituirán registros de personal, coordinados con los de las demás Administraciones públicas, cuyos datos determinarán las nóminas"
+   ],
+   0,
+   "La incorrecta es «la participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será la establecida en la legislación laboral y en los convenios colectivos de cada sector». Lo correcto: la participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será la establecida ",
+   "lbrl 95",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por decreto del Gobierno de la Nación o del Consejo de Gobierno de la Comunidad Autónoma correspondiente",
+    "El personal laboral se clasificará de conformidad con la legislación laboral",
+    "Las relaciones de puestos de trabajo comprenderán al menos la denominación de los puestos, los grupos, los cuerpos o escalas, los sistemas de provisión y las retribuciones complementarias, siendo públicos"
+   ],
+   0,
+   "La incorrecta es «los cuerpos y escalas de funcionarios se crean, modifican y suprimen por decreto del Gobierno de la Nación o del Consejo de Gobierno de la Comunidad Autónoma correspondiente». Lo correcto: los cuerpos y escalas de funcionarios se crean, modifican y suprimen por Ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
+   "trebep 75.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los méritos de la Comunidad Autónoma en el concurso de habilitación nacional pueden alcanzar hasta el 20 %",
+    "Corresponde al Estado establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo y las normas básicas de la carrera administrativa",
+    "El personal al servicio de las entidades locales está integrado por (art. 89 LBRL) funcionarios de carrera, contratados en régimen laboral y personal eventual"
+   ],
+   0,
+   "La incorrecta es «los méritos de la Comunidad Autónoma en el concurso de habilitación nacional pueden alcanzar hasta el 20 %». Lo correcto: los méritos de la Comunidad Autónoma en el concurso de habilitación nacional pueden alcanzar hasta el 15 % del total posible.",
+   "lbrl 92 bis",
+   "Proposición negativa",
+   "h-habilitacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "A los funcionarios cesados en los mismos se les garantizará un puesto de trabajo de su subescala y categoría en la Corporación, que deberá figurar en su relación de puestos de trabajo",
+    "Las bases se publicarán en el «Boletín Oficial de la Provincia», salvo las relativas a las convocatorias de pruebas selectivas para la obtención de la habilitación de carácter nacional, que se publicarán en el «Boletín Oficial del Estado»",
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo no deberán publicarse en el «Boletín Oficial del Estado»"
+   ],
+   2,
+   "La incorrecta es «Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo no deberán publicarse en el «Boletín Oficial del Estado»»: cambia «deberán». Lo correcto: «Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del",
+   "lbrl 97",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las bases de la convocatoria para cubrir estos puestos serán aprobadas por el Vicepresidente de la Corporación y contendrán la denominación y requisitos indispensables para desempeñarlos",
+    "Las bases se publicarán en el «Boletín Oficial de la Provincia», salvo las relativas a las convocatorias de pruebas selectivas para la obtención de la habilitación de carácter nacional, que se publicarán en el «Boletín Oficial del Estado»",
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Estado»"
+   ],
+   0,
+   "La incorrecta es «Las bases de la convocatoria para cubrir estos puestos serán aprobadas por el Vicepresidente de la Corporación y contendrán la denominación y requisitos indispensables para desempeñarlos»: cambia «el Presidente». Lo correcto: «Las bases de la convocatoria para cubrir estos puestos serán aprobadas por el Presidente de la Corporación y contendrán la denominación y requisitos indispensables para desemp",
+   "lbrl 99",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La clasificación de los cuerpos en los Subgrupos A1 y A2 depende del nivel de responsabilidad de las funciones y de las características de las pruebas de acceso",
+    "La provisión de puestos se basa en los principios de igualdad, mérito, capacidad y confianza",
+    "Entre las medidas de los Planes para la ordenación de recursos humanos figura la movilidad, que puede incluir la suspensión de incorporaciones de personal externo a un ámbito o concursos limitados a personal de ámbitos determinados"
+   ],
+   1,
+   "La incorrecta es «la provisión de puestos se basa en los principios de igualdad, mérito, capacidad y confianza». Lo correcto: la provisión de puestos se basa en los principios de igualdad, mérito, capacidad y publicidad.",
+   "trebep 78.1",
+   "Proposición negativa",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Estado», y las bases en el «Boletín Oficial de la Provincia»",
+    "Corresponde a cada Corporación local aprobar anualmente la plantilla a través del Presupuesto",
+    "El nombramiento y cese del personal eventual local es libre y corresponde al Secretario de la entidad, con cese cuando lo decida el Alcalde por razones de servicio"
+   ],
+   2,
+   "La incorrecta es «el nombramiento y cese del personal eventual local es libre y corresponde al Secretario de la entidad, con cese cuando lo decida el Alcalde por razones de servicio». Lo correcto: el nombramiento y cese del personal eventual local es libre y corresponde al Alcalde o Presidente de la entidad local, cesando automáticamente al cesar o expirar el mandato de la autoridad a la que presten su función.",
+   "lbrl 104.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La participación de los funcionarios, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo, no será la establecida con carácter general para todas las Administraciones Públicas en el Estatuto básico de la función publica",
+    "La selección, formación y habilitación de los funcionarios a que se refiere el número 3 del artículo 92 corresponde al Instituto de Estudios de Administración Local, conforme a las bases y programas aprobados reglamentariamente",
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Estado»"
+   ],
+   0,
+   "La incorrecta es «La participación de los funcionarios, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo, no será la establecida con carácter general para todas las Administraciones Públicas en el Estatuto básico de la función publica»: niega lo que dice la ley. Lo correcto: «La participación de los funcionarios, a través de sus organizaciones sindicales, en la determinación",
+   "lbrl 95",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Se comprenden en la clase de cometidos especiales el personal de las Bandas de Música y quienes realicen tareas predominantemente no manuales no comprendidas en el artículo 171.1",
+    "Pertenecerán a la Subescala de gestión de Administración General los funcionarios que realicen tareas de mecanografía y archivo",
+    "El ingreso en la Subescala Técnica de Administración Especial se hará por oposición, concurso o concurso-oposición libre, según acuerde la Corporación, exigiéndose el título académico o profesional correspondiente"
+   ],
+   1,
+   "La incorrecta es «pertenecerán a la Subescala de gestión de Administración General los funcionarios que realicen tareas de mecanografía y archivo». Lo correcto: pertenecerán a la Subescala de gestión de Administración General los funcionarios que realicen tareas de apoyo a las funciones de nivel superior.",
+   "rdleg781 169.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El número, características y retribuciones del personal eventual lo determina el Pleno, al comienzo de su mandato",
+    "En los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder de siete",
+    "Los municipios de población entre 2.000 y 5.000 habitantes podrán excepcionalmente contar con un puesto de personal eventual cuando no haya miembros de la corporación con dedicación exclusiva"
+   ],
+   1,
+   "La incorrecta es «en los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder de siete». Lo correcto: en los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder de la mitad de concejales de la Corporación.",
+   "lbrl 104 bis.1.e",
+   "Proposición negativa",
+   "h-eventual-limites",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera",
+    "Los titulares de los puestos de trabajo provistos por el procedimiento de libre designación con convocatoria pública podrán ser cesados discrecionalmente",
+    "Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados automáticos"
+   ],
+   2,
+   "La incorrecta es «Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados automáticos»: cambia «forzosos». Lo correcto: «Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos».",
+   "trebep 81",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Instituto de Estudios de Administración Local desarrollará cursos de perfeccionamiento, especialización y promoción para los funcionarios al servicio de las entidades locales",
+    "En los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder del número de concejales",
+    "La selección, formación y habilitación de los funcionarios con habilitación de carácter nacional corresponde al Instituto de Estudios de Administración Local, conforme a las bases y programas aprobados reglamentariamente"
+   ],
+   1,
+   "La incorrecta es «en los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder del número de concejales». Lo correcto: en los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder de la mitad de concejales de la Corporación.",
+   "lbrl 104 bis.1.e",
+   "Proposición negativa",
+   "h-eventual-limites",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de tres años para las faltas graves",
+    "El concurso unitario será convocado por la Administración del Estado",
+    "Existirán dos concursos anuales: el concurso excepcional y el concurso unitario, que tendrá naturaleza supletoria"
+   ],
+   2,
+   "La incorrecta es «Existirán dos concursos anuales: el concurso excepcional y el concurso unitario, que tendrá naturaleza supletoria»: cambia «ordinario». Lo correcto: «Existirán dos concursos anuales: el concurso ordinario y el concurso unitario, que tendrá naturaleza supletoria».",
+   "lbrl 92 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial del Estado o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual",
+    "El Gobierno, mediante real decreto, regulará las especialidades correspondientes de la forma de provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional",
+    "La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 20 días"
+   ],
+   0,
+   "La incorrecta es «Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial del Estado o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual»: cambia «Boletín Oficial de la Provincia». Lo correcto: «Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial de la Provinci",
+   "lbrl 104 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición INCORRECTA:",
+   [
+    "La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera",
+    "El órgano competente para el nombramiento podrá recabar la intervención de especialistas que permitan apreciar la idoneidad de los candidatos",
+    "Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados voluntarios"
+   ],
+   2,
+   "La incorrecta es «Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados voluntarios»: cambia «forzosos». Lo correcto: «Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos».",
+   "trebep 81",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175.2 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Dentro de cada oficio los Personales de Oficios se clasifican en Encargado, Maestro, Oficial, Ayudante y operario",
+    "Dentro de cada oficio los Personales de Oficios se clasifican en Encargado, Maestro, Oficial, Ayudante y peón",
+    "Dentro de cada oficio los Personales de Oficios se clasifican en Encargado, Maestro, Oficial, Ayudante y auxiliar"
+   ],
+   0,
+   "Art. 175.2 · RDLeg 781/1986: Dentro de cada oficio los Personales de Oficios se clasifican en Encargado, Maestro, Oficial, Ayudante y operario.",
+   "rdleg781 175.2",
+   "La afirmación, su negación y otro dato",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-181",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El concurso unitario de habilitación nacional tiene naturaleza supletoria y lo convoca el Estado",
+    "El concurso unitario de habilitación nacional no tiene naturaleza supletoria y lo convoca el Estado",
+    "El concurso unitario de habilitación nacional lo convoca cada Corporación"
+   ],
+   0,
+   "Art. 92 bis · Ley 7/1985 (LBRL): El concurso unitario de habilitación nacional tiene naturaleza supletoria y lo convoca el Estado.",
+   "lbrl 92 bis",
+   "La afirmación, su negación y otro dato",
+   "h-habilitacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-090",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados automáticos",
+    "La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública",
+    "El órgano competente para el nombramiento deberá recabar la intervención de especialistas que permitan apreciar la idoneidad de los candidatos"
+   ],
+   1,
+   "La correcta es «La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública». Las otras dos son falsas: lo correcto es «Los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos» (la otra frase cambia «forzosos») y «El órgano competente para el nombramient",
+   "trebep 78",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.4 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "La creación de escalas, subescalas y clases de funcionarios y su clasificación se hará por la Comunidad Autónoma",
+    "La creación de escalas, subescalas y clases de funcionarios y su clasificación se hará por el Estado",
+    "La creación de escalas, subescalas y clases de funcionarios y su clasificación se hará por cada Corporación, de acuerdo con la ley"
+   ],
+   2,
+   "Art. 167.4 · RDLeg 781/1986: La creación de escalas, subescalas y clases de funcionarios y su clasificación se hará por cada Corporación, de acuerdo con la ley.",
+   "rdleg781 167.4",
+   "La afirmación, su negación y otro dato",
+   "h-escalas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-168",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "Para el acceso a los cuerpos o escalas del Subgrupo C2 se exige título de Graduado en Educación Secundaria Obligatoria",
+    "Para el acceso a los cuerpos o escalas del Subgrupo C2 se exige título de Graduado en Educación Secundaria Potestativa",
+    "Para el acceso a los cuerpos o escalas del Subgrupo C2 se exige título de Graduado en Educación Secundaria Voluntaria"
+   ],
+   0,
+   "Art. 76 · RDLeg 5/2015 (TREBEP): Para el acceso a los cuerpos o escalas del Subgrupo C2 se exige título de Graduado en Educación Secundaria Obligatoria. Las otras dos frases cambian «Obligatoria» por «Potestativa» y «Voluntaria».",
+   "trebep 76",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t19-022",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Para el ingreso en los cuerpos y escalas del Grupo C2 se exige título de Graduado en Educación Secundaria Potestativa",
+    "Para el ingreso en los cuerpos y escalas del Grupo C2 se exige título de Graduado en Educación Secundaria Voluntaria",
+    "Para el ingreso en los cuerpos y escalas del Grupo C2 se exige título de Graduado en Educación Secundaria Obligatoria"
+   ],
+   2,
+   "Art. 76 · RDLeg 5/2015 (TREBEP): Para el ingreso en los cuerpos y escalas del Grupo C2 se exige título de Graduado en Educación Secundaria Obligatoria. Las otras dos frases cambian «Obligatoria» por «Potestativa» y «Voluntaria».",
+   "trebep 76",
+   "Una sola palabra cambia el sentido",
+   "h-grupos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t19-002",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos",
+    "La Oferta de empleo público o instrumento similar deberá contener medidas derivadas de la planificación de recursos humanos",
+    "La Oferta de empleo público o instrumento similar no podrá contener medidas derivadas de la planificación de recursos humanos"
+   ],
+   0,
+   "Art. 70 · RDLeg 5/2015 (TREBEP): La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "trebep 70",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.3 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los Registros de personal de las Corporaciones locales determinan las bases de selección",
+    "Los Registros de personal de las Corporaciones locales determinan las nóminas, a efectos de la justificación de todas las retribuciones",
+    "Los Registros de personal de las Corporaciones locales determinan los límites de las plantillas"
+   ],
+   1,
+   "Art. 90.3 · Ley 7/1985 (LBRL): Los Registros de personal de las Corporaciones locales determinan las nóminas, a efectos de la justificación de todas las retribuciones.",
+   "lbrl 90.3",
+   "La afirmación, su negación y otro dato",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-128",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La selección de todo el personal, funcionario o laboral, se realiza mediante convocatoria pública y sistema de concurso, oposición o concurso-oposición libre garantizando los principios de igualdad, mérito y capacidad, así como el de publicidad",
+    "La selección de todo el personal, funcionario o laboral, se realiza mediante convocatoria pública y sistema de concurso, oposición o concurso-oposición libre garantizando la libre designación en laborales",
+    "La selección de todo el personal, funcionario o laboral, se realiza mediante convocatoria pública y sistema de concurso, oposición o concurso-oposición libre garantizando la reserva a personal propio"
+   ],
+   0,
+   "Art. 91.2 · Ley 7/1985 (LBRL): La selección de todo el personal, funcionario o laboral, se realiza mediante convocatoria pública y sistema de concurso, oposición o concurso-oposición libre garantizando los principios de igualdad, mérito y capacidad, así como el de publicidad.",
+   "lbrl 91.2",
+   "La afirmación, su negación y otro dato",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-130",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 172.1 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Pertenecen a la Subescala de Servicios Especiales los funcionarios que desarrollen tareas que requieran una aptitud específica y para las que se exija siempre título universitario",
+    "Pertenecen a la Subescala de Servicios Especiales los funcionarios que desarrollen tareas que requieran una aptitud específica y para las que se exija habilitación nacional",
+    "Pertenecen a la Subescala de Servicios Especiales los funcionarios que desarrollen tareas que requieran una aptitud específica y para las que no se exija, con carácter general, título académico o profesional determinado"
+   ],
+   2,
+   "Art. 172.1 · RDLeg 781/1986: Pertenecen a la Subescala de Servicios Especiales los funcionarios que desarrollen tareas que requieran una aptitud específica y para las que no se exija, con carácter general, título académico o profesional determinado.",
+   "rdleg781 172.1",
+   "La afirmación, su negación y otro dato",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-176",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto la oferta de empleo público y las bases de las pruebas para la selección del personal",
+    "Corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto la plantilla, que deberá comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual",
+    "Corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto la relación de puestos de trabajo existentes, que se formará por las normas del Estado"
+   ],
+   1,
+   "Art. 90.1 · Ley 7/1985 (LBRL): Corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto la plantilla, que deberá comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual.",
+   "lbrl 90.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-027",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Se comprenderán en la clase de cometidos especiales el personal de las Bandas de Música y los restantes funcionarios que realicen tareas de carácter predominantemente no manual no comprendidas en el artículo 171.1",
+    "Se comprenderán en la clase de cometidos especiales los funcionarios que realicen tareas predominantemente manuales en los distintos sectores de la Corporación",
+    "Se comprenderán en la clase de cometidos especiales los agentes forestales y medioambientales, junto con el personal de oficios de la Corporación"
+   ],
+   0,
+   "Art. 174 · RDLeg 781/1986: Se comprenderán en la clase de cometidos especiales el personal de las Bandas de Música y los restantes funcionarios que realicen tareas de carácter predominantemente no manual no comprendidas en el artículo 171.1.",
+   "rdleg781 174",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-048",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Un Ayuntamiento de 8.000 habitantes puede incluir en su plantilla personal eventual en número máximo de dos",
+    "Un Ayuntamiento de 8.000 habitantes puede incluir en su plantilla personal eventual en número máximo de uno",
+    "Un Ayuntamiento de 8.000 habitantes puede incluir en su plantilla personal eventual en número máximo de siete"
+   ],
+   1,
+   "Art. 104 bis · Ley 7/1985 (LBRL): Un Ayuntamiento de 8.000 habitantes puede incluir en su plantilla personal eventual en número máximo de uno.",
+   "lbrl 104 bis",
+   "La afirmación, su negación y otro dato",
+   "h-eventual-limites",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-080",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El concurso será el sistema normal de provisión de puestos de trabajo; los méritos generales, de preceptiva valoración, se determinarán por la Administración del Estado y su puntuación alcanzará el 50 por 100 del total posible",
+    "El concurso será el sistema normal de provisión de puestos de trabajo; los méritos generales, de preceptiva valoración, se determinarán por la Administración del Estado y su puntuación alcanzará el 65 por 100 del total posible",
+    "El concurso será el sistema normal de provisión de puestos de trabajo; los méritos generales, de preceptiva valoración, se determinarán por la Administración del Estado y su puntuación alcanzará el 75 por 100 del total posible"
+   ],
+   1,
+   "Art. 99.1 · Ley 7/1985 (LBRL): El concurso será el sistema normal de provisión de puestos de trabajo; los méritos generales, de preceptiva valoración, se determinarán por la Administración del Estado y su puntuación alcanzará el 65 por 100 del total posible.",
+   "lbrl 99.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-055",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal contemplado en los artículos 2 y 5 del Estatuto",
+    "Cada Administración Pública constituirá un registro único estatal en el que se inscribirán todos los empleados públicos de todas las Administraciones",
+    "Cada Administración Pública constituirá un fichero de uso exclusivo de los sindicatos con los datos del personal al servicio de cada Administración"
+   ],
+   0,
+   "Art. 71.1 · RDLeg 5/2015 (TREBEP): Cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal contemplado en los artículos 2 y 5 del Estatuto.",
+   "trebep 71.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-017",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante personal de nuevo ingreso no serán objeto de la Oferta de empleo público; su ejecución deberá desarrollarse dentro del plazo improrrogable de tres años",
+    "Las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante personal de nuevo ingreso serán objeto de la Oferta de empleo público; su ejecución deberá desarrollarse dentro del plazo improrrogable de dos años",
+    "Las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante personal de nuevo ingreso serán objeto de la Oferta de empleo público; su ejecución deberá desarrollarse dentro del plazo improrrogable de tres años"
+   ],
+   2,
+   "Art. 70.1 · RDLeg 5/2015 (TREBEP): Las necesidades de recursos humanos con asignación presupuestaria que deban proveerse mediante personal de nuevo ingreso serán objeto de la Oferta de empleo público; su ejecución deberá desarrollarse dentro del plazo improrrogable de tres años.",
+   "trebep 70.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-014",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Se integrarán en la clase de Personal de Oficios los funcionarios que realicen tareas de carácter predominantemente manual referidas a un determinado oficio, industria o arte; se clasifican en Encargado, Maestro, Oficial, Ayudante y Operario",
+    "Se integrarán en la clase de Personal de Oficios los funcionarios que realicen tareas de carácter predominantemente no manual, referidas a las diversas ramas de actuación de la Corporación",
+    "Se integrarán en la clase de Personal de Oficios los funcionarios que realicen tareas de policía y seguridad en lugares públicos, que se clasifican en escalas de mando"
+   ],
+   0,
+   "Art. 175 · RDLeg 781/1986: Se integrarán en la clase de Personal de Oficios los funcionarios que realicen tareas de carácter predominantemente manual referidas a un determinado oficio, industria o arte; se clasifican en Encargado, Maestro, Oficial, Ayudante y Operario.",
+   "rdleg781 175",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-049",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En las pruebas selectivas locales, el tribunal u órgano similar elevará la relación de aprobados al Secretario de la Corporación, para que formalice el nombramiento y la toma de posesión",
+    "En las pruebas selectivas locales, el tribunal u órgano similar elevará la relación de aprobados al Pleno de la Corporación, para que haga el nombramiento de los funcionarios que corresponda",
+    "En las pruebas selectivas locales, el tribunal u órgano similar elevará la relación de aprobados al Presidente de la Corporación para hacer el nombramiento"
+   ],
+   2,
+   "Art. 102.2 · Ley 7/1985 (LBRL): En las pruebas selectivas locales, el tribunal u órgano similar elevará la relación de aprobados al Presidente de la Corporación para hacer el nombramiento.",
+   "lbrl 102.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-061",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Para el acceso a los cuerpos o escalas del Subgrupo C2 se exige título de Graduado en Educación Secundaria Obligatoria",
+    "Para el acceso a los cuerpos o escalas del Subgrupo C2 no se exige título de Graduado en Educación Secundaria Obligatoria",
+    "Para el acceso a los cuerpos o escalas del Subgrupo C2 se exige título de Técnico Superior, que se exige para el acceso a los cuerpos o escalas de este Subgrupo"
+   ],
+   0,
+   "Art. 76 · RDLeg 5/2015 (TREBEP): Para el acceso a los cuerpos o escalas del Subgrupo C2 se exige título de Graduado en Educación Secundaria Obligatoria.",
+   "trebep 76",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-022",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "La selección, formación y habilitación de los funcionarios a que se refiere el número 3 del artículo 92 corresponde al Instituto de Estudios de Administración Local, conforme a las bases y programas aprobados reglamentariamente",
+    "Las bases de la convocatoria para cubrir estos puestos serán aprobadas por el Vicepresidente de la Corporación y contendrán la denominación y requisitos indispensables para desempeñarlos",
+    "Los méritos específicos se podrán determinar por cada Corporación local, y su puntuación alcanzará hasta un 24 por 100 del total posible"
+   ],
+   0,
+   "La correcta es «La selección, formación y habilitación de los funcionarios a que se refiere el número 3 del artículo 92 corresponde al Instituto de Estudios de Administración Local, conforme a las bases y programas aprobados reglamentariamente». Las otras dos son falsas: lo correcto es «Las bases de la convocatoria para cubrir estos puestos serán aprobadas por el Presidente de la Corporación y contendrán la denominac",
+   "lbrl 98",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171.1 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Pertenecerán a la Subescala Técnica de Administración Especial los funcionarios que desarrollen tareas administrativas comunes de apoyo a las funciones de nivel superior de la Corporación",
+    "Pertenecerán a la Subescala Técnica de Administración Especial los funcionarios que desarrollen tareas objeto de una carrera para cuyo ejercicio exigen las leyes estar en posesión de determinados títulos académicos o profesionales; se dividen en Técnicos Superiores, Medios y Auxiliares",
+    "Pertenecerán a la Subescala Técnica de Administración Especial los funcionarios que desarrollen tareas manuales referidas a un determinado oficio, industria o arte, sin exigencia de titulación"
+   ],
+   1,
+   "Art. 171.1 · RDLeg 781/1986: Pertenecerán a la Subescala Técnica de Administración Especial los funcionarios que desarrollen tareas objeto de una carrera para cuyo ejercicio exigen las leyes estar en posesión de determinados títulos académicos o profesionales; se dividen en Técnicos Superiores, Medios y Auxiliares.",
+   "rdleg781 171.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-043",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que señale el Estado",
+    "La cuantía global de las retribuciones complementarias de los funcionarios locales no es fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que señale el Estado",
+    "La cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por la Junta de Gobierno Local"
+   ],
+   0,
+   "Art. 93.2 · Ley 7/1985 (LBRL): La cuantía global de las retribuciones complementarias de los funcionarios locales es fijada por el Pleno de la Corporación dentro de los límites máximos y mínimos que señale el Estado.",
+   "lbrl 93.2",
+   "La afirmación, su negación y otro dato",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-137",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario",
+    "Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos no serán desempeñados por personal funcionario",
+    "Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal laboral"
+   ],
+   0,
+   "Art. 92.2 · Ley 7/1985 (LBRL): Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario.",
+   "lbrl 92.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 bis.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Las subescalas de la escala de funcionarios con habilitación nacional no son Secretaría, Intervención-tesorería y Secretaría-intervención",
+    "Las subescalas de la escala de funcionarios con habilitación nacional son Secretaría, Intervención-tesorería y Secretaría-intervención",
+    "Las subescalas de la escala de funcionarios con habilitación nacional son Secretaría, Intervención-tesorería y Tesorería"
+   ],
+   1,
+   "Art. 92 bis.2 · Ley 7/1985 (LBRL): Las subescalas de la escala de funcionarios con habilitación nacional son Secretaría, Intervención-tesorería y Secretaría-intervención.",
+   "lbrl 92 bis.2",
+   "La afirmación, su negación y otro dato",
+   "h-habilitacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-134",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Las retribuciones básicas de los funcionarios locales no tendrán, según el art. 93 LBRL la misma estructura e idéntica cuantía que las de toda la función pública",
+    "Las retribuciones básicas de los funcionarios locales tendrán, según el art. 93 LBRL la cuantía que fije la Comunidad Autónoma",
+    "Las retribuciones básicas de los funcionarios locales tendrán, según el art. 93 LBRL la misma estructura e idéntica cuantía que las de toda la función pública"
+   ],
+   2,
+   "Art. 93 · Ley 7/1985 (LBRL): Las retribuciones básicas de los funcionarios locales tendrán, según el art. 93 LBRL la misma estructura e idéntica cuantía que las de toda la función pública.",
+   "lbrl 93",
+   "La afirmación, su negación y otro dato",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-012",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Existirán dos concursos anuales: el concurso extraordinario y el concurso unitario, que tendrá naturaleza supletoria",
+    "Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado",
+    "El ámbito territorial de los concursos no será de carácter estatal"
+   ],
+   1,
+   "La correcta es «Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado». Las otras dos son falsas: lo correcto es «Existirán dos concursos anuales: el concurso ordinario y el concurso unitario, que tendrá naturaleza suplet",
+   "lbrl 103 bis",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "Pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de vigilancia y custodia interior de oficinas",
+    "Pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas y archivo de documentos",
+    "Pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de tareas administrativas de nivel superior"
+   ],
+   1,
+   "Art. 169 · RDLeg 781/1986: Pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas y archivo de documentos.",
+   "rdleg781 169",
+   "La afirmación, su negación y otro dato",
+   "h-escalas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-008",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los méritos de la Comunidad Autónoma en el concurso de habilitación nacional pueden alcanzar hasta el 5 %",
+    "Los méritos de la Comunidad Autónoma en el concurso de habilitación nacional pueden alcanzar hasta el 20 %",
+    "Los méritos de la Comunidad Autónoma en el concurso de habilitación nacional pueden alcanzar hasta el 15 % del total posible"
+   ],
+   2,
+   "Art. 92 bis · Ley 7/1985 (LBRL): Los méritos de la Comunidad Autónoma en el concurso de habilitación nacional pueden alcanzar hasta el 15 % del total posible.",
+   "lbrl 92 bis",
+   "La afirmación, su negación y otro dato",
+   "h-habilitacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-089",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104 bis.1.e de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder del número de concejales",
+    "En los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder de siete",
+    "En los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder de la mitad de concejales de la Corporación"
+   ],
+   2,
+   "Art. 104 bis.1.e · Ley 7/1985 (LBRL): En los municipios de más de 50.000 y hasta 75.000 habitantes el personal eventual no podrá exceder de la mitad de concejales de la Corporación.",
+   "lbrl 104 bis.1.e",
+   "La afirmación, su negación y otro dato",
+   "h-eventual-limites",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-163",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "El Gobierno, mediante real decreto, regulará las especialidades correspondientes de la forma de provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional",
+    "La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de un año para las faltas graves",
+    "Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial del Estado o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual"
+   ],
+   0,
+   "La correcta es «El Gobierno, mediante real decreto, regulará las especialidades correspondientes de la forma de provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional». Las otras dos son falsas: lo correcto es «La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de tres años para las faltas graves» (la otra ",
+   "lbrl 92 bis",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la opción correcta:",
+   [
+    "En caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables",
+    "En caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse con carácter definitivo, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables",
+    "En caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse con carácter permanente, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables"
+   ],
+   0,
+   "Art. 81.3 · RDLeg 5/2015 (TREBEP): En caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables. Las otras dos frases cambian «provisional» por «definitivo» y «permanente».",
+   "trebep 81.3",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t19-072",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71.1 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Cada Administración Pública constituirá un Registro de personal en el que se inscribirán los datos relativos al personal de los artículos 8 a 13",
+    "Cada Administración Pública constituirá un Registro de personal en el que se inscribirán los datos relativos al personal de los artículos 2 y 5 del Estatuto",
+    "Cada Administración Pública constituirá un Registro de personal en el que se inscribirán los datos relativos al personal del artículo 76"
+   ],
+   1,
+   "Art. 71.1 · RDLeg 5/2015 (TREBEP): Cada Administración Pública constituirá un Registro de personal en el que se inscribirán los datos relativos al personal de los artículos 2 y 5 del Estatuto.",
+   "trebep 71.1",
+   "La afirmación, su negación y otro dato",
+   "h-oferta-empleo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-101",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 103 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 18 días",
+    "La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 24 días",
+    "La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 20 días"
+   ],
+   2,
+   "Art. 103 bis · Ley 7/1985 (LBRL): La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 20 días. Las otras dos frases cambian «20 días» por «18 días» y «24 días».",
+   "lbrl 103 bis",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "La Oferta de empleo público o instrumento similar no podrá contener medidas derivadas de la planificación de recursos humanos",
+    "Los puestos de trabajo no podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad",
+    "Los Registros podrán disponer también de la información agregada sobre los restantes recursos humanos de su respectivo sector público"
+   ],
+   2,
+   "La correcta es «Los Registros podrán disponer también de la información agregada sobre los restantes recursos humanos de su respectivo sector público». Las otras dos son falsas: lo correcto es «La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos» (la otra frase cambia «podrá») y «Los puestos de trabajo podrán agruparse en función de sus caracterís",
+   "trebep 71",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81.2 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Las Administraciones Públicas, de manera motivada, no podrán trasladar a sus funcionarios por necesidades de servicio o funcionales a unidades, departamentos u organismos distintos a los de su destino, respetando sus retribuciones y condiciones esenciales de trabajo",
+    "Las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio o funcionales con reducción de retribuciones y modificación de sus condiciones esenciales de trabajo",
+    "Las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio o funcionales a unidades, departamentos u organismos distintos a los de su destino, respetando sus retribuciones y condiciones esenciales de trabajo"
+   ],
+   2,
+   "Art. 81.2 · RDLeg 5/2015 (TREBEP): Las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio o funcionales a unidades, departamentos u organismos distintos a los de su destino, respetando sus retribuciones y condiciones esenciales de trabajo.",
+   "trebep 81.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-071",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Las plantillas podrán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general",
+    "Las plantillas no deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general",
+    "Las plantillas deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general"
+   ],
+   2,
+   "Art. 90 · Ley 7/1985 (LBRL): Las plantillas deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "lbrl 90",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Para el acceso a los cuerpos del Grupo A no se exigirá título universitario de Grado",
+    "Para el acceso a los cuerpos del Grupo A se exigirá título universitario de Grado",
+    "Para el acceso a los cuerpos del Grupo A se exigirá título de Técnico Superior"
+   ],
+   1,
+   "Art. 76 · RDLeg 5/2015 (TREBEP): Para el acceso a los cuerpos del Grupo A se exigirá título universitario de Grado.",
+   "trebep 76",
+   "La afirmación, su negación y otro dato",
+   "h-grupos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-107",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario",
+    "Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal laboral",
+    "Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal eventual"
+   ],
+   0,
+   "Art. 92.2 · Ley 7/1985 (LBRL): Con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario.",
+   "lbrl 92.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175.1 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "La clase de Personal de Oficios no comprende a los funcionarios que realicen tareas de carácter predominantemente manual referidas a un oficio, industria o arte",
+    "La clase de Personal de Oficios comprende a los funcionarios que realicen tareas predominantemente no manuales",
+    "La clase de Personal de Oficios comprende a los funcionarios que realicen tareas de carácter predominantemente manual referidas a un oficio, industria o arte"
+   ],
+   2,
+   "Art. 175.1 · RDLeg 781/1986: La clase de Personal de Oficios comprende a los funcionarios que realicen tareas de carácter predominantemente manual referidas a un oficio, industria o arte.",
+   "rdleg781 175.1",
+   "La afirmación, su negación y otro dato",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-180",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Las pruebas de selección y los concursos para la provisión de puestos de trabajo, a que se refiere el presente Capítulo, se regirán por las bases que apruebe el Secretario de la Corporación, a quien corresponderá su convocatoria",
+    "El nombramiento y cese de estos funcionarios no es libre y corresponde al Alcalde o al Presidente de la entidad local correspondiente",
+    "El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos"
+   ],
+   2,
+   "La correcta es «El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos». Las otras dos son falsas: lo correcto es «Las pruebas de selección y los concursos para la provisión de puestos de trabajo, a que se refiere el presente Capítulo, se regi",
+   "lbrl 103",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "El Personal de Oficios pertenece a Administración Especial, subescala Técnica",
+    "El Personal de Oficios pertenece a Administración General, subescala Subalterna",
+    "El Personal de Oficios pertenece a Administración Especial, subescala de Servicios Especiales"
+   ],
+   2,
+   "Art. 175 · RDLeg 781/1986: El Personal de Oficios pertenece a Administración Especial, subescala de Servicios Especiales.",
+   "rdleg781 175",
+   "La afirmación, su negación y otro dato",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-086",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 92 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Son funciones públicas necesarias en todas las Corporaciones locales, reservadas a funcionarios con habilitación de carácter nacional la Policía Local y la extinción de incendios",
+    "Son funciones públicas necesarias en todas las Corporaciones locales, reservadas a funcionarios con habilitación de carácter nacional la gestión de las licencias de obras",
+    "Son funciones públicas necesarias en todas las Corporaciones locales, reservadas a funcionarios con habilitación de carácter nacional la de Secretaría y el control y fiscalización interna de la gestión económico-financiera y presupuestaria"
+   ],
+   2,
+   "Art. 92 bis · Ley 7/1985 (LBRL): Son funciones públicas necesarias en todas las Corporaciones locales, reservadas a funcionarios con habilitación de carácter nacional la de Secretaría y el control y fiscalización interna de la gestión económico-financiera y presupuestaria.",
+   "lbrl 92 bis",
+   "La afirmación, su negación y otro dato",
+   "h-escalas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-011",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente Estatuto",
+    "La clasificación de los cuerpos y escalas en cada Subgrupo no estará en función del nivel de responsabilidad de las funciones a desempeñar y de las características de las pruebas de acceso",
+    "Para el acceso a los cuerpos o escalas del Grupo B no se exigirá estar en posesión del título de Técnico Superior"
+   ],
+   0,
+   "La correcta es «Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente Estatuto». Las otras dos son falsas: lo correcto es «La clasificación de los cuerpos y escalas en cada Subgrupo estará en función del nivel de responsabilidad de las funciones a desempeñar y de las características",
+   "trebep 73",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Para el acceso a los cuerpos o escalas del Subgrupo C1 se exige título de Bachiller o Técnico",
+    "Para el acceso a los cuerpos o escalas del Subgrupo C1 no se exige título de Bachiller o Técnico",
+    "Para el acceso a los cuerpos o escalas del Subgrupo C1 se exige título de Técnico Superior"
+   ],
+   0,
+   "Art. 76 · RDLeg 5/2015 (TREBEP): Para el acceso a los cuerpos o escalas del Subgrupo C1 se exige título de Bachiller o Técnico.",
+   "trebep 76",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-023",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Estado»",
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial de la Provincia»",
+    "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial de Aragón»"
+   ],
+   0,
+   "Art. 97 · Ley 7/1985 (LBRL): Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse en el «Boletín Oficial del Estado». Las otras dos frases cambian «Boletín Oficial del Estado» por «Boletín Oficial de la Provincia» y «Boletín Oficial de Aragón».",
+   "lbrl 97",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el medio respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos",
+    "El nombramiento y cese de estos funcionarios es libre y corresponde al Alcalde o al Presidente de la entidad local correspondiente",
+    "Las pruebas de selección y los concursos para la provisión de puestos de trabajo, a que se refiere el presente Capítulo, se regirán por las bases que apruebe el Vicepresidente de la Corporación, a quien corresponderá su convocatoria"
+   ],
+   1,
+   "La correcta es «El nombramiento y cese de estos funcionarios es libre y corresponde al Alcalde o al Presidente de la entidad local correspondiente». Las otras dos son falsas: lo correcto es «El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigid",
+   "lbrl 104",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición CORRECTA:",
+   [
+    "Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente Estatuto",
+    "La Oferta de empleo público o instrumento similar deberá contener medidas derivadas de la planificación de recursos humanos",
+    "La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, no deberá ser publicada en el Diario oficial correspondiente"
+   ],
+   0,
+   "La correcta es «Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente Estatuto». Las otras dos son falsas: lo correcto es «La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos» (la otra frase cambia «podrá») y «La",
+   "trebep 73",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.3 de Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público, señale la proposición correcta:",
+   [
+    "Los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación de servicio activo",
+    "Los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación de servicio en otras Administraciones Públicas",
+    "Los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación de excedencia voluntaria"
+   ],
+   1,
+   "Art. 84.3 · RDLeg 5/2015 (TREBEP): Los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación de servicio en otras Administraciones Públicas.",
+   "trebep 84.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-075",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Las pruebas de selección y los concursos para la provisión de puestos de trabajo se regirán por las bases que apruebe el Vicepresidente de la Corporación, a quien corresponderá su convocatoria",
+    "Las pruebas de selección y los concursos para la provisión de puestos de trabajo se regirán por las bases que apruebe el Secretario de la Corporación, a quien corresponderá su convocatoria",
+    "Las pruebas de selección y los concursos para la provisión de puestos de trabajo se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria"
+   ],
+   2,
+   "Art. 102.1 · Ley 7/1985 (LBRL): Las pruebas de selección y los concursos para la provisión de puestos de trabajo se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria. Las otras dos frases cambian «El Presidente» por «el Vicepresidente» y «el Secretario».",
+   "lbrl 102.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t19-060",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "El Personal de Oficios pertenece a Administración General, subescala Subalterna",
+    "El Personal de Oficios pertenece a Administración Especial, subescala Técnica",
+    "El Personal de Oficios pertenece a Administración Especial, subescala de Servicios Especiales"
+   ],
+   2,
+   "Art. 175 · RDLeg 781/1986: El Personal de Oficios pertenece a Administración Especial, subescala de Servicios Especiales.",
+   "rdleg781 175",
+   "Opciones casi idénticas",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-086",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los puestos de trabajo vacantes que deban ser cubiertos por funcionarios con habilitación nacional se proveerán en convocatoria pública por los procedimientos de Comisión de servicios",
+    "Los puestos de trabajo vacantes que deban ser cubiertos por funcionarios con habilitación nacional se proveerán en convocatoria pública por los procedimientos de concurso de méritos o de libre designación",
+    "Los puestos de trabajo vacantes que deban ser cubiertos por funcionarios con habilitación nacional se proveerán en convocatoria pública por los procedimientos de oposición libre"
+   ],
+   1,
+   "Art. 101 · Ley 7/1985 (LBRL): Los puestos de trabajo vacantes que deban ser cubiertos por funcionarios con habilitación nacional se proveerán en convocatoria pública por los procedimientos de concurso de méritos o de libre designación.",
+   "lbrl 101",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-059",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Pertenecerán a la Subescala Técnica de Administración Especial, los funcionarios que desarrollen tareas que son objeto de una carrera para cuyo ejercicio exigen las leyes estar en posesión de determinados títulos académicos o profesionales",
+    "La Policía Local no ejercerá sus funciones de acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+    "Los puestos de trabajo a desempeñar por funcionarios de servicios especiales no podrán existir en cualquier clase de Corporación"
+   ],
+   0,
+   "La correcta es «Pertenecerán a la Subescala Técnica de Administración Especial, los funcionarios que desarrollen tareas que son objeto de una carrera para cuyo ejercicio exigen las leyes estar en posesión de determinados títulos académicos o profesionales». Las otras dos son falsas: lo correcto es «La Policía Local ejercerá sus funciones de acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpo",
+   "rdleg781 171",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial de Aragón o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual",
+    "La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 20 días",
+    "Existirán dos concursos anuales: el concurso excepcional y el concurso unitario, que tendrá naturaleza supletoria"
+   ],
+   1,
+   "La correcta es «La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 20 días». Las otras dos son falsas: lo correcto es «Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma unipro",
+   "lbrl 103 bis",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171.1 de Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales vigentes en materia de Régimen Local, señale la proposición correcta:",
+   [
+    "La Subescala Técnica de Administración Especial se divide, por el nivel de título, en Técnicos superiores, Medios y Subalternos",
+    "La Subescala Técnica de Administración Especial se divide, por el nivel de título, en Técnicos superiores, Medios y Auxiliares",
+    "La Subescala Técnica de Administración Especial se divide, por el nivel de título, en Técnicos superiores y Medios únicamente"
+   ],
+   1,
+   "Art. 171.1 · RDLeg 781/1986: La Subescala Técnica de Administración Especial se divide, por el nivel de título, en Técnicos superiores, Medios y Auxiliares.",
+   "rdleg781 171.1",
+   "La afirmación, su negación y otro dato",
+   "h-admon-especial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-175",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Un municipio de más de 20.000 y no más de 50.000 habitantes puede tener personal eventual hasta dos puestos",
+    "Un municipio de más de 20.000 y no más de 50.000 habitantes puede tener personal eventual hasta la mitad de los concejales",
+    "Un municipio de más de 20.000 y no más de 50.000 habitantes puede tener personal eventual hasta siete puestos"
+   ],
+   2,
+   "Art. 104 bis · Ley 7/1985 (LBRL): Un municipio de más de 20.000 y no más de 50.000 habitantes puede tener personal eventual hasta siete puestos.",
+   "lbrl 104 bis",
+   "La afirmación, su negación y otro dato",
+   "h-eventual-limites",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t19-081",
+    "tc": 1
    }
   ]
  ]

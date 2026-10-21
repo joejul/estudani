@@ -3310,7 +3310,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3328,7 +3329,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3537,7 +3539,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3641,7 +3644,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3676,7 +3680,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3731,7 +3736,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3785,7 +3791,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3890,7 +3897,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4176,7 +4184,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4301,7 +4310,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4375,7 +4385,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4537,7 +4548,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5170,6 +5182,2866 @@
     "nuevo": 1,
     "neg": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de la Constitución Española, señale la opción correcta:",
+   [
+    "La Constitución reconoce y garantiza el derecho a la independencia de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "La Constitución reconoce y garantiza el derecho a la federación de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas"
+   ],
+   2,
+   "Art. 2 CE: reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre todas ellas. Las otras opciones cambian «autonomía» por «independencia» y «federación».",
+   "ce 2",
+   "Una sola palabra cambia el sentido",
+   "h-art1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de la Constitución Española, señale la opción correcta:",
+   [
+    "La capital del Estado es la ciudad de Madrid",
+    "La capital del Estado es la ciudad autónoma de Madrid",
+    "La capital del Estado es la villa de Madrid"
+   ],
+   2,
+   "Art. 5 CE: «La capital del Estado es la villa de Madrid». Las otras opciones cambian «villa» por «ciudad» y «ciudad autónoma».",
+   "ce 5",
+   "Una sola palabra cambia el sentido",
+   "h-art1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de la Constitución Española, señale la proposición INCORRECTA:",
+   [
+    "Los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, incluso en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos",
+    "Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican",
+    "Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, salvo en los casos de fuerza mayor"
+   ],
+   0,
+   "La incorrecta es la que incluye los casos de fuerza mayor: el art. 106.2 CE los excluye («salvo en los casos de fuerza mayor»).",
+   "ce 106",
+   "Proposición negativa",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 145 de la Constitución Española, señale la proposición INCORRECTA:",
+   [
+    "En ningún caso se admitirá la federación de Comunidades Autónomas",
+    "En los supuestos distintos de los convenios previstos en los Estatutos, los acuerdos de cooperación entre las Comunidades Autónomas necesitarán la autorización de las Cortes Generales",
+    "Las Comunidades Autónomas podrán federarse entre sí cuando así lo prevean sus Estatutos"
+   ],
+   2,
+   "La incorrecta es la que admite la federación: el art. 145.1 CE dice «En ningún caso se admitirá la federación de Comunidades Autónomas».",
+   "ce 145",
+   "Proposición negativa",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 146 de la Constitución Española, señale la opción correcta:",
+   [
+    "El proyecto de Estatuto será elevado al Congreso de los Diputados para su tramitación como ley",
+    "El proyecto de Estatuto será elevado a las Cortes Generales para su tramitación como ley",
+    "El proyecto de Estatuto será elevado al Senado para su tramitación como ley"
+   ],
+   1,
+   "Art. 146 CE: la asamblea elabora el proyecto de Estatuto y lo eleva a las Cortes Generales para su tramitación como ley.",
+   "ce 146",
+   "Una sola palabra cambia el sentido",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 154 de la Constitución Española, señale la opción correcta:",
+   [
+    "Un Delegado nombrado por la Comunidad Autónoma dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma",
+    "Un Delegado nombrado por las Cortes Generales dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma",
+    "Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma"
+   ],
+   2,
+   "Art. 154 CE: lo nombra el Gobierno y dirige la Administración del Estado en la Comunidad Autónoma, coordinándola con la propia de ésta.",
+   "ce 154",
+   "Una sola palabra cambia el sentido",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, no tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional",
+    "Ningún español de origen podrá ser privado de su nacionalidad",
+    "Su estructura interna y funcionamiento deberán ser democráticos"
+   ],
+   0,
+   "La incorrecta es «Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, no tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional»: niega lo que dice la ley. Lo correcto: «Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar",
+   "ce 8",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los órganos de la Administración del Estado no son creados, regidos y coordinados de acuerdo con la ley",
+    "Ningún español de origen podrá ser privado de su nacionalidad",
+    "Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley"
+   ],
+   0,
+   "La incorrecta es «Los órganos de la Administración del Estado no son creados, regidos y coordinados de acuerdo con la ley»: niega lo que dice la ley. Lo correcto: «Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley».",
+   "ce 103",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69.3 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera dejan de ir agrupadas: cada isla es circunscripción y elige su propio senador",
+    "Tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera dejan de ir agrupadas: cada isla no es circunscripción y elige su propio senador",
+    "Tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera siguen agrupadas y eligen conjuntamente tres senadores"
+   ],
+   0,
+   "Art. 69.3 · Constitución: Tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera dejan de ir agrupadas: cada isla es circunscripción y elige su propio senador.",
+   "ce 69.3",
+   "La afirmación, su negación y otro dato",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-171",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.3 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Entre otros, los principios de legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos",
+    "Entre otros, los principios de legalidad, equidad, proporcionalidad, seguridad jurídica y responsabilidad de los poderes públicos",
+    "Entre otros, los principios de jerarquía normativa, celeridad, eficacia, publicidad de las normas y retroactividad de las disposiciones favorables"
+   ],
+   0,
+   "Art. 9.3 · Constitución: Entre otros, los principios de legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos.",
+   "ce 9.3",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-056",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los Alcaldes no serán elegidos por los Concejales o por los vecinos",
+    "Los Concejales no serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley",
+    "Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses"
+   ],
+   2,
+   "La correcta es «Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses». Las otras dos son falsas: lo correcto es «Los Alcaldes serán elegidos por los Concejales o por los vecinos» (la otra frase la niega) y «Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley» (la otra frase la nieg",
+   "ce 137",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 138.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "El Estado no garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, atendiendo en particular a las circunstancias del hecho insular",
+    "El Estado garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de la igualdad económica estricta entre las Comunidades",
+    "El Estado garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, atendiendo en particular a las circunstancias del hecho insular"
+   ],
+   2,
+   "Art. 138.1 · Constitución: El Estado garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, atendiendo en particular a las circunstancias del hecho insular.",
+   "ce 138.1",
+   "La afirmación, su negación y otro dato",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-125",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Su estructura interna y funcionamiento deberán ser democráticos",
+    "Su estructura interna y funcionamiento podrán ser democráticos",
+    "Su estructura interna y funcionamiento no deberán ser democráticos"
+   ],
+   0,
+   "Art. 7 · Constitución: Su estructura interna y funcionamiento deberán ser democráticos. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "ce 7",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "El Tribunal Supremo es el supremo órgano consultivo del Gobierno",
+    "El Tribunal Constitucional es el supremo órgano consultivo del Gobierno",
+    "El Consejo de Estado es el supremo órgano consultivo del Gobierno"
+   ],
+   2,
+   "Art. 107 · Constitución: El Consejo de Estado es el supremo órgano consultivo del Gobierno. Las otras dos frases cambian «El Consejo de Estado» por «el Tribunal Supremo» y «el Tribunal Constitucional».",
+   "ce 107",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 142 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Las Haciendas locales podrán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "Las Haciendas locales no deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas"
+   ],
+   2,
+   "Art. 142 · Constitución: Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "ce 142",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político",
+    "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la unidad, la justicia, la paz y la igualdad",
+    "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la igualdad, la fraternidad y la solidaridad"
+   ],
+   0,
+   "Art. 1.1 · Constitución: España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+   "ce 1.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-041",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y no son instrumento fundamental para la participación política",
+    "La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección",
+    "Los Estatutos no podrán reconocer banderas y enseñas propias de las Comunidades Autónomas"
+   ],
+   1,
+   "La correcta es «La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección». Las otras dos son falsas: lo correcto es «Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política» (la otra frase la niega) y «Los Estatuto",
+   "ce 3",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley",
+    "La nacionalidad española se adquiere, se conserva y se pierde conforme a los tratados internacionales ratificados",
+    "La nacionalidad española se adquiere, se conserva y se pierde por decisión del Gobierno"
+   ],
+   0,
+   "Art. 11.1 · Constitución: La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley.",
+   "ce 11.1",
+   "La afirmación, su negación y otro dato",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-105",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 105 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Entre otras materias la audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten y el acceso a los archivos y registros administrativos, salvo seguridad y defensa del Estado, averiguación de delitos e intimidad de las personas",
+    "Entre otras materias la audiencia de los ciudadanos solo en los procedimientos sancionadores y el acceso a los archivos, salvo la intimidad",
+    "Entre otras materias el acceso ilimitado a los archivos y registros administrativos y la audiencia de los ciudadanos en las disposiciones que les afecten"
+   ],
+   0,
+   "Art. 105 · Constitución: Entre otras materias la audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten y el acceso a los archivos y registros administrativos, salvo seguridad y defensa del Estado, averiguación de delitos e intimidad de las personas.",
+   "ce 105",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-062",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 148 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149",
+    "Transcurridos seis años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149",
+    "Transcurridos tres años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149"
+   ],
+   0,
+   "Art. 148 · Constitución: Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149. Las otras dos frases cambian «cinco años» por «seis años» y «tres años».",
+   "ce 148",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 156.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Las Comunidades Autónomas no podrán actuar como delegados o colaboradores del Estado para la recaudación, la gestión y la liquidación de los recursos tributarios de aquél, de acuerdo con las leyes y los Estatutos",
+    "Las Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para la inspección de los tributos locales",
+    "Las Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para la recaudación, la gestión y la liquidación de los recursos tributarios de aquél, de acuerdo con las leyes y los Estatutos"
+   ],
+   2,
+   "Art. 156.2 · Constitución: Las Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para la recaudación, la gestión y la liquidación de los recursos tributarios de aquél, de acuerdo con las leyes y los Estatutos.",
+   "ce 156.2",
+   "La afirmación, su negación y otro dato",
+   "h-descentral",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-147",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Los Estatutos deberán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+    "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+    "Los Estatutos no podrán reconocer banderas y enseñas propias de las Comunidades Autónomas"
+   ],
+   1,
+   "Art. 4 · Constitución: Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "ce 4",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Las demás lenguas españolas no serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos",
+    "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política",
+    "Su creación y el ejercicio de su actividad no son libres dentro del respeto a la Constitución y a la ley"
+   ],
+   1,
+   "La correcta es «Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política». Las otras dos son falsas: lo correcto es «Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos» (la otra frase la niega) y «Su creación y el ejercicio d",
+   "ce 6",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Las normas relativas a los derechos fundamentales y libertades se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España",
+    "Las normas relativas a los derechos fundamentales y libertades se interpretarán de conformidad con las directrices del Tribunal Constitucional únicamente",
+    "Las normas relativas a los derechos fundamentales y libertades se interpretarán de conformidad con los convenios del Consejo de Europa exclusivamente"
+   ],
+   0,
+   "Art. 10.2 · Constitución: Las normas relativas a los derechos fundamentales y libertades se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+   "ce 10.2",
+   "La afirmación, su negación y otro dato",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-104",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 104.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+    "Bajo la dependencia del Gobierno, no tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+    "Bajo la dependencia del Gobierno, tendrán como misión defender la integridad territorial y proteger el libre ejercicio de los derechos y libertades"
+   ],
+   0,
+   "Art. 104.1 · Constitución: Bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.",
+   "ce 104.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-060",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "La provincia no es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+    "Su gobierno y administración no corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales",
+    "Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español"
+   ],
+   2,
+   "La correcta es «Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español». Las otras dos son falsas: lo correcto es «La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimient",
+   "ce 139",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.4 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Las islas tendrán además su administración propia en forma de Cabildos o Consejos",
+    "Las islas no tendrán además su administración propia en forma de Cabildos o Consejos",
+    "Las islas tendrán además su administración propia en forma de Diputaciones insulares"
+   ],
+   0,
+   "Art. 141.4 · Constitución: Las islas tendrán además su administración propia en forma de Cabildos o Consejos.",
+   "ce 141.4",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-073",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 158.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "El Fondo de Compensación se constituirá con destino a gastos de inversión, con recursos distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso",
+    "El Fondo de Compensación se constituirá con destino a gastos corrientes de las Comunidades más pobres",
+    "El Fondo de Compensación se constituirá con destino a gastos de personal autonómico"
+   ],
+   0,
+   "Art. 158.2 · Constitución: El Fondo de Compensación se constituirá con destino a gastos de inversión, con recursos distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.",
+   "ce 158.2",
+   "La afirmación, su negación y otro dato",
+   "h-descentral",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-148",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de tres quintos de ambas Cámaras",
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de un tercio de ambas Cámaras",
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras"
+   ],
+   2,
+   "Art. 168 · Constitución: Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras. Las otras dos frases cambian «dos tercios» por «tres quintos» y «un tercio».",
+   "ce 168",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de dos tercios de cada una de las Cámaras",
+    "Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas",
+    "La forma política del Estado español no es la Monarquía parlamentaria"
+   ],
+   1,
+   "La correcta es «Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas». Las otras dos son falsas: lo correcto es «Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras» (la otra frase cambia «tres quintos») y «La forma política del Estado español es la Monarquía parlamentar",
+   "ce 49",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por el Alcalde y la Junta de Gobierno; los Concejales serán elegidos por los vecinos y el Alcalde por el Pleno",
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por solo los Concejales elegidos por los vecinos, entre los cuales estos designan al Alcalde por sufragio",
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales serán elegidos por los vecinos y los Alcaldes por los Concejales o por los vecinos"
+   ],
+   2,
+   "Art. 140 · Constitución: Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales serán elegidos por los vecinos y los Alcaldes por los Concejales o por los vecinos.",
+   "ce 140",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-070",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "El derecho estatal no será, en todo caso, supletorio del derecho de las Comunidades Autónomas",
+    "Los Estatutos de autonomía podrán contener la denominación de la Comunidad que mejor corresponda a su identidad histórica",
+    "Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos"
+   ],
+   2,
+   "La correcta es «Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos». Las otras dos son falsas: lo correcto es «El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas» (la otra frase la niega) y «Los Estatutos de autonomía deberán contener la denominación de la Comunidad que ",
+   "ce 149",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Las Cortes Generales, en materias de competencia estatal, deberán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal",
+    "El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación",
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Supremo, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley"
+   ],
+   1,
+   "La correcta es «El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación». Las otras dos son falsas: lo correcto es «Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la faculta",
+   "ce 150",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Solamente los españoles serán titulares de los derechos del artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de acceso a funciones públicas",
+    "Solamente los españoles serán titulares de los derechos del artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales",
+    "Solamente los españoles serán titulares de los derechos del artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio en las elecciones autonómicas"
+   ],
+   1,
+   "Art. 13.2 · Constitución: Solamente los españoles serán titulares de los derechos del artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.",
+   "ce 13.2",
+   "Opciones casi idénticas",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-110",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "El Estado no podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación",
+    "Dentro de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico",
+    "La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y no requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica"
+   ],
+   1,
+   "La correcta es «Dentro de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico». Las otras dos son falsas: lo correcto es «El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad ",
+   "ce 147",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 153.c de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "La jurisdicción contencioso-administrativa controla las leyes autonómicas",
+    "La jurisdicción contencioso-administrativa controla la administración autónoma y sus normas reglamentarias",
+    "La jurisdicción contencioso-administrativa controla las funciones delegadas"
+   ],
+   1,
+   "Art. 153.c · Constitución: La jurisdicción contencioso-administrativa controla la administración autónoma y sus normas reglamentarias.",
+   "ce 153.c",
+   "La afirmación, su negación y otro dato",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-141",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales",
+    "Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales",
+    "Todos los españoles no tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado"
+   ],
+   2,
+   "La incorrecta es «Todos los españoles no tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado»: niega lo que dice la ley. Lo correcto: «Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado».",
+   "ce 139",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El gobierno y la administración autónoma de las provincias no estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo",
+    "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica",
+    "Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español"
+   ],
+   0,
+   "La incorrecta es «El gobierno y la administración autónoma de las provincias no estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo»: niega lo que dice la ley. Lo correcto: «El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo».",
+   "ce 141",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras",
+    "La iniciativa de reforma constitucional no se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87",
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras"
+   ],
+   1,
+   "La incorrecta es «La iniciativa de reforma constitucional no se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87»: niega lo que dice la ley. Lo correcto: «La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87».",
+   "ce 166",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español",
+    "Solamente los españoles serán titulares de los derechos del artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales",
+    "Entre otros, los principios de jerarquía normativa, celeridad, eficacia, publicidad de las normas y retroactividad de las disposiciones favorables"
+   ],
+   2,
+   "La incorrecta es «entre otros, los principios de jerarquía normativa, celeridad, eficacia, publicidad de las normas y retroactividad de las disposiciones favorables». Lo correcto: entre otros, los principios de legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los podere",
+   "ce 9.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Entre otros, por impuestos cedidos por el Estado, sus propios impuestos, tasas y contribuciones especiales, transferencias del Fondo de Compensación interterritorial y el producto de operaciones de crédito",
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales serán elegidos por los vecinos y los Alcaldes por los Concejales o por los vecinos",
+    "Las islas tendrán además su administración propia en forma de ayuntamientos insulares"
+   ],
+   2,
+   "La incorrecta es «las islas tendrán además su administración propia en forma de ayuntamientos insulares». Lo correcto: las islas tendrán además su administración propia en forma de Cabildos o Consejos.",
+   "ce 141.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo 143",
+    "Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos",
+    "La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y no requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica"
+   ],
+   2,
+   "La incorrecta es «La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y no requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica»: niega lo que dice la ley. Lo correcto: «La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica».",
+   "ce 147",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley",
+    "La jurisdicción contencioso-administrativa controla la administración autónoma y sus normas reglamentarias",
+    "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la unidad, la justicia, la paz y la igualdad"
+   ],
+   2,
+   "La incorrecta es «españa se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la unidad, la justicia, la paz y la igualdad». Lo correcto: españa se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+   "ce 1.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Entidades Locales deberán presentar equilibrio presupuestario",
+    "Entre otras materias la audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten y el acceso a los archivos y registros administrativos, salvo seguridad y defensa del Estado, averiguación de delitos e intimidad de las personas",
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por solo los Concejales elegidos por los vecinos, entre los cuales estos designan al Alcalde por sufragio"
+   ],
+   2,
+   "La incorrecta es «que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por solo los Concejales elegidos por los vecinos, entre los cuales estos designan al Alcalde por sufragio». Lo correcto: que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejal",
+   "ce 140",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Supremo, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley",
+    "Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles",
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal de Cuentas, el económico y presupuestario"
+   ],
+   0,
+   "La incorrecta es «El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Supremo, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley»: cambia «el Tribunal Constitucional». Lo correcto: «El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional, el relativo a la constitucionalidad de s",
+   "ce 153",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El Estado y las Comunidades Autónomas habrán de estar autorizados por ley para emitir deuda pública o contraer crédito",
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de tres quintos de ambas Cámaras",
+    "La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87"
+   ],
+   1,
+   "La incorrecta es «Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de tres quintos de ambas Cámaras»: cambia «dos tercios». Lo correcto: «Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras».",
+   "ce 168",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Cortes Generales, en materias de competencia estatal, no podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal",
+    "Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos",
+    "La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica"
+   ],
+   0,
+   "La incorrecta es «Las Cortes Generales, en materias de competencia estatal, no podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal»: cambia «podrán». Lo correcto: «Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comuni",
+   "ce 150",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El control del ejercicio de funciones delegadas del artículo 150.2 lo ejerce el Gobierno, previo dictamen del Consejo de Estado",
+    "El Estado garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, atendiendo en particular a las circunstancias del hecho insular",
+    "Bajo la dependencia del Gobierno, tendrán como misión defender la integridad territorial y proteger el libre ejercicio de los derechos y libertades"
+   ],
+   2,
+   "La incorrecta es «bajo la dependencia del Gobierno, tendrán como misión defender la integridad territorial y proteger el libre ejercicio de los derechos y libertades». Lo correcto: bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.",
+   "ce 104.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Gobierno, posterior dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150",
+    "El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea",
+    "Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias, que gozarán de plena personalidad jurídica"
+   ],
+   0,
+   "La incorrecta es «El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Gobierno, posterior dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150»: cambia «previo». Lo correcto: «El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Gobierno, previo dictamen del Consejo de Estado, ",
+   "ce 153",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección",
+    "Las demás lenguas españolas no serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos",
+    "Su estructura interna y funcionamiento deberán ser democráticos"
+   ],
+   1,
+   "La incorrecta es «Las demás lenguas españolas no serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos»: niega lo que dice la ley. Lo correcto: «Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos».",
+   "ce 3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma",
+    "El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea",
+    "El control de la actividad de los órganos de las Comunidades Autónomas no se ejercerá por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias"
+   ],
+   2,
+   "La incorrecta es «El control de la actividad de los órganos de las Comunidades Autónomas no se ejercerá por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias»: niega lo que dice la ley. Lo correcto: «El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por la jurisdicción contencioso-administrativa, el de la administración autónoma y",
+   "ce 153",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Son fundamento del orden político y de la paz social la libertad, la justicia, la igualdad y el pluralismo político",
+    "El déficit estructural máximo permitido al Estado y a las Comunidades Autónomas lo fija una ley orgánica, en relación con su producto interior bruto",
+    "Si el texto obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de dos tercios"
+   ],
+   0,
+   "La incorrecta es «son fundamento del orden político y de la paz social la libertad, la justicia, la igualdad y el pluralismo político». Lo correcto: son fundamento del orden político y de la paz social la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
+   "ce 10.1",
+   "Proposición negativa",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial",
+    "Los Estatutos de autonomía deberán contener la denominación, organización y sede de las instituciones autónomas propias",
+    "Las Cortes Generales, mediante ley orgánica, no podrán, por motivos de interés nacional sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo 143"
+   ],
+   2,
+   "La incorrecta es «Las Cortes Generales, mediante ley orgánica, no podrán, por motivos de interés nacional sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo 143»: cambia «podrán». Lo correcto: «Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artícul",
+   "ce 144",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+    "Su gobierno y administración no corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales",
+    "Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses"
+   ],
+   1,
+   "La incorrecta es «Su gobierno y administración no corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales»: niega lo que dice la ley. Lo correcto: «Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales».",
+   "ce 140",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de un tercio de cada una de las Cámaras",
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras",
+    "Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas"
+   ],
+   0,
+   "La incorrecta es «Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de un tercio de cada una de las Cámaras»: cambia «tres quintos». Lo correcto: «Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras».",
+   "ce 167",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los Estatutos de autonomía no deberán contener la denominación, organización y sede de las instituciones autónomas propias",
+    "La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica",
+    "El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas"
+   ],
+   0,
+   "La incorrecta es «Los Estatutos de autonomía no deberán contener la denominación, organización y sede de las instituciones autónomas propias»: cambia «deberán». Lo correcto: «Los Estatutos de autonomía deberán contener la denominación, organización y sede de las instituciones autónomas propias».",
+   "ce 147",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos",
+    "La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección",
+    "Su estructura interna y funcionamiento no deberán ser democráticos"
+   ],
+   2,
+   "La incorrecta es «Su estructura interna y funcionamiento no deberán ser democráticos»: cambia «deberán». Lo correcto: «Su estructura interna y funcionamiento deberán ser democráticos».",
+   "ce 6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "Los Alcaldes serán elegidos por los Concejales o por los vecinos",
+    "La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados tres años"
+   ],
+   2,
+   "La incorrecta es «La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados tres años»: cambia «cinco años». Lo correcto: «La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años».",
+   "ce 143",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las normas relativas a los derechos fundamentales y libertades se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España",
+    "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España",
+    "El control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal Constitucional"
+   ],
+   2,
+   "La incorrecta es «el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal Constitucional». Lo correcto: el control económico y presupuestario de las Comunidades Autónomas corresponde al Tribunal de Cuentas.",
+   "ce 153.d",
+   "Proposición negativa",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los Estatutos de autonomía deberán contener las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas",
+    "El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación",
+    "Los Estatutos de autonomía no deberán contener la denominación de la Comunidad que mejor corresponda a su identidad histórica"
+   ],
+   2,
+   "La incorrecta es «Los Estatutos de autonomía no deberán contener la denominación de la Comunidad que mejor corresponda a su identidad histórica»: cambia «deberán». Lo correcto: «Los Estatutos de autonomía deberán contener la denominación de la Comunidad que mejor corresponda a su identidad histórica».",
+   "ce 147",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "La provincia no es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+    "Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español",
+    "Se podrán crear agrupaciones de municipios diferentes de la provincia"
+   ],
+   0,
+   "La incorrecta es «La provincia no es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado»: niega lo que dice la ley. Lo correcto: «La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las activida",
+   "ce 141",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los Estatutos deberán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+    "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política",
+    "La forma política del Estado español es la Monarquía parlamentaria"
+   ],
+   0,
+   "La incorrecta es «Los Estatutos deberán reconocer banderas y enseñas propias de las Comunidades Autónomas»: cambia «podrán». Lo correcto: «Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas».",
+   "ce 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y no son instrumento fundamental para la participación política",
+    "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico",
+    "Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley"
+   ],
+   0,
+   "La incorrecta es «Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y no son instrumento fundamental para la participación política»: niega lo que dice la ley. Lo correcto: «Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación polí",
+   "ce 6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a su actividad económica y presupuestaria",
+    "Pueden acceder a su autogobierno y constituirse en Comunidades Autónomas las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica",
+    "Los extranjeros gozarán en España de las libertades públicas que garantiza el Título I en los términos que establezcan los tratados y la ley"
+   ],
+   0,
+   "La incorrecta es «el control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a su actividad económica y presupuestaria». Lo correcto: el control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.",
+   "ce 153",
+   "Proposición negativa",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras",
+    "Las personas con discapacidad no ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas",
+    "El volumen de deuda pública del conjunto de las Administraciones Públicas en relación con el producto interior bruto del Estado no podrá superar el valor de referencia establecido en el Tratado de Funcionamiento de la Unión Europea"
+   ],
+   1,
+   "La incorrecta es «Las personas con discapacidad no ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas»: niega lo que dice la ley. Lo correcto: «Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas».",
+   "ce 49",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Transcurridos tres años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149",
+    "Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal",
+    "Los Estatutos de autonomía deberán contener la delimitación de su territorio"
+   ],
+   0,
+   "La incorrecta es «Transcurridos tres años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149»: cambia «cinco años». Lo correcto: «Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artícul",
+   "ce 148",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 157 de Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los recursos de las Comunidades Autónomas estarán constituidos por rendimientos procedentes de su patrimonio e ingresos de derecho privado",
+    "Los recursos de las Comunidades Autónomas no estarán constituidos por sus propios impuestos, tasas y contribuciones especiales",
+    "Las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios"
+   ],
+   1,
+   "La incorrecta es «Los recursos de las Comunidades Autónomas no estarán constituidos por sus propios impuestos, tasas y contribuciones especiales»: niega lo que dice la ley. Lo correcto: «Los recursos de las Comunidades Autónomas estarán constituidos por sus propios impuestos, tasas y contribuciones especiales».",
+   "ce 157",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los recursos de las Comunidades Autónomas no estarán constituidos por rendimientos procedentes de su patrimonio e ingresos de derecho privado",
+    "Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles",
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal de Cuentas, el económico y presupuestario"
+   ],
+   0,
+   "La incorrecta es «Los recursos de las Comunidades Autónomas no estarán constituidos por rendimientos procedentes de su patrimonio e ingresos de derecho privado»: niega lo que dice la ley. Lo correcto: «Los recursos de las Comunidades Autónomas estarán constituidos por rendimientos procedentes de su patrimonio e ingresos de derecho privado».",
+   "ce 157",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87",
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de dos tercios de cada una de las Cámaras",
+    "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116"
+   ],
+   1,
+   "La incorrecta es «Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de dos tercios de cada una de las Cámaras»: cambia «tres quintos». Lo correcto: «Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras».",
+   "ce 167",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El derecho estatal no será, en todo caso, supletorio del derecho de las Comunidades Autónomas",
+    "Los Estatutos de autonomía deberán contener la delimitación de su territorio",
+    "El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación"
+   ],
+   0,
+   "La incorrecta es «El derecho estatal no será, en todo caso, supletorio del derecho de las Comunidades Autónomas»: niega lo que dice la ley. Lo correcto: «El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas».",
+   "ce 149",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España",
+    "La jurisdicción contencioso-administrativa controla la administración autónoma y sus normas reglamentarias",
+    "El Estado garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de la compensación de los territorios con menor renta"
+   ],
+   2,
+   "La incorrecta es «el Estado garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de la compensación de los territorios con menor renta». Lo correcto: el Estado garantiza la realización efectiva del principio de solidaridad velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, atendiendo en particular a las",
+   "ce 138.1",
+   "Proposición negativa",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El Consejo de Estado es el supremo órgano consultivo del Gobierno",
+    "La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad",
+    "Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, no tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana"
+   ],
+   2,
+   "La incorrecta es «Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, no tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana»: niega lo que dice la ley. Lo correcto: «Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad c",
+   "ce 104",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Gobierno, simultáneo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150",
+    "Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles",
+    "Los recursos de las Comunidades Autónomas estarán constituidos por transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado"
+   ],
+   0,
+   "La incorrecta es «El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Gobierno, simultáneo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150»: cambia «previo». Lo correcto: «El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Gobierno, previo dictamen del Consejo de Estado,",
+   "ce 153",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios",
+    "Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles",
+    "Los recursos de las Comunidades Autónomas no estarán constituidos por el producto de las operaciones de crédito"
+   ],
+   2,
+   "La incorrecta es «Los recursos de las Comunidades Autónomas no estarán constituidos por el producto de las operaciones de crédito»: niega lo que dice la ley. Lo correcto: «Los recursos de las Comunidades Autónomas estarán constituidos por el producto de las operaciones de crédito».",
+   "ce 157",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Entidades Locales deberán presentar equilibrio presupuestario",
+    "Ningún español de origen podrá ser privado de su nacionalidad",
+    "Una vez sancionados y promulgados los Estatutos, solamente podrán ser modificados por ley orgánica de las Cortes Generales"
+   ],
+   2,
+   "La incorrecta es «una vez sancionados y promulgados los Estatutos, solamente podrán ser modificados por ley orgánica de las Cortes Generales». Lo correcto: una vez sancionados y promulgados los Estatutos, solamente podrán ser modificados mediante los procedimientos en ellos establecidos y con referéndum entre los electores inscritos en los censos correspondientes.",
+   "ce 152.2",
+   "Proposición negativa",
+   "h-descentral",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los Estatutos de autonomía podrán contener la denominación, organización y sede de las instituciones autónomas propias",
+    "Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143",
+    "El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo"
+   ],
+   0,
+   "La incorrecta es «Los Estatutos de autonomía podrán contener la denominación, organización y sede de las instituciones autónomas propias»: cambia «deberán». Lo correcto: «Los Estatutos de autonomía deberán contener la denominación, organización y sede de las instituciones autónomas propias».",
+   "ce 147",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Entidades Locales podrán presentar equilibrio presupuestario",
+    "Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán siempre incluidos en el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta",
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras"
+   ],
+   0,
+   "La incorrecta es «Las Entidades Locales podrán presentar equilibrio presupuestario»: cambia «deberán». Lo correcto: «Las Entidades Locales deberán presentar equilibrio presupuestario».",
+   "ce 135",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Al Capítulo segundo, Sección primera del Título I, o al Título II, se aprobará el principio por mayoría de dos tercios de cada Cámara y se someterá al dictamen del Consejo de Estado antes de proceder a la disolución de las Cortes",
+    "Las Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para la recaudación, la gestión y la liquidación de los recursos tributarios de aquél, de acuerdo con las leyes y los Estatutos",
+    "El control del ejercicio de funciones delegadas del artículo 150.2 lo ejerce el Gobierno, previo dictamen del Consejo de Estado"
+   ],
+   0,
+   "La incorrecta es «al Capítulo segundo, Sección primera del Título I, o al Título II, se aprobará el principio por mayoría de dos tercios de cada Cámara y se someterá al dictamen del Consejo de Estado antes de proceder a la disolución de las Cortes». Lo correcto: al Capítulo segundo, Sección primera del Título I, o al Título II, se aprobará el principio por mayoría de dos tercios de cada Cámara y se procederá a la dis",
+   "ce 168.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados seis años",
+    "Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo 143"
+   ],
+   1,
+   "La incorrecta es «La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados seis años»: cambia «cinco años». Lo correcto: «La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años».",
+   "ce 143",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política",
+    "La riqueza de las distintas modalidades lingüísticas de España no es un patrimonio cultural que será objeto de especial respeto y protección",
+    "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas"
+   ],
+   1,
+   "La incorrecta es «La riqueza de las distintas modalidades lingüísticas de España no es un patrimonio cultural que será objeto de especial respeto y protección»: niega lo que dice la ley. Lo correcto: «La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección».",
+   "ce 3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica",
+    "Las Haciendas locales no deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales"
+   ],
+   1,
+   "La incorrecta es «Las Haciendas locales no deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas»: cambia «deberán». Lo correcto: «Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las func",
+   "ce 142",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Para ejecutar las medidas del artículo 155.1 el Gobierno podrá dar instrucciones a todas las autoridades de las Comunidades Autónomas",
+    "Tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera siguen agrupadas y eligen conjuntamente tres senadores",
+    "En materias de competencia estatal, podrán atribuir a las Comunidades Autónomas la facultad de dictar normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal (ley marco)"
+   ],
+   1,
+   "La incorrecta es «tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera siguen agrupadas y eligen conjuntamente tres senadores». Lo correcto: tras la reforma de 2026, en las elecciones al Senado las islas de Ibiza y Formentera dejan de ir agrupadas: cada isla es circunscripción y elige su propio senador.",
+   "ce 69.3",
+   "Proposición negativa",
+   "h-nace",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+    "La ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado",
+    "El Tribunal Constitucional es el supremo órgano consultivo del Gobierno"
+   ],
+   2,
+   "La incorrecta es «el Tribunal Constitucional es el supremo órgano consultivo del Gobierno»: cambia «El Consejo de Estado». Lo correcto: «El Consejo de Estado es el supremo órgano consultivo del Gobierno».",
+   "ce 107",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición INCORRECTA:",
+   [
+    "El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas",
+    "Transcurridos seis años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149",
+    "Los Estatutos de autonomía deberán contener las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas"
+   ],
+   1,
+   "La incorrecta es «Transcurridos seis años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149»: cambia «cinco años». Lo correcto: «Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artícul",
+   "ce 148",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 135.3 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "El Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por decreto",
+    "El Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por ley",
+    "El Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por acuerdo del Consejo de Política Fiscal y Financiera"
+   ],
+   1,
+   "Art. 135.3 · Constitución: El Estado y las Comunidades Autónomas habrán de estar autorizados para emitir deuda pública o contraer crédito por ley.",
+   "ce 135.3",
+   "La afirmación, su negación y otro dato",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-123",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+    "La riqueza de las distintas modalidades lingüísticas de España no es un patrimonio cultural que será objeto de especial respeto y protección",
+    "Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les no son propios"
+   ],
+   0,
+   "La correcta es «Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas». Las otras dos son falsas: lo correcto es «La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección» (la otra frase la niega) y «Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de lo",
+   "ce 4",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político",
+    "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la igualdad, la fraternidad y la solidaridad",
+    "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la unidad, la justicia, la paz y la igualdad"
+   ],
+   0,
+   "Art. 1.1 · Constitución: España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+   "ce 1.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-041",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Señale la opción correcta la Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "Señale la opción correcta la Constitución no reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "Señale la opción correcta la Constitución reconoce y garantiza el derecho a la federación de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas"
+   ],
+   0,
+   "Art. 2 · Constitución: Señale la opción correcta la Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+   "ce 2",
+   "La afirmación, su negación y otro dato",
+   "h-art1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-180",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 150 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Las Cortes Generales, en materias de competencia estatal, deberán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal",
+    "Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal",
+    "Las Cortes Generales, en materias de competencia estatal, no podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal"
+   ],
+   1,
+   "Art. 150 · Constitución: Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "ce 150",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Señale la opción correcta la Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "Señale la opción correcta la Constitución reconoce y garantiza el derecho a la independencia de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+    "Señale la opción correcta la Constitución reconoce y garantiza el derecho a la federación de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas"
+   ],
+   0,
+   "Art. 2 · Constitución: Señale la opción correcta la Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+   "ce 2",
+   "Opciones casi idénticas",
+   "h-art1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-180",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 146 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Señale la opción correcta el proyecto de Estatuto será elevado a las Cortes Generales para su tramitación como ley",
+    "Señale la opción correcta el proyecto de Estatuto será elevado al Congreso de los Diputados para su tramitación como ley",
+    "Señale la opción correcta el proyecto de Estatuto será elevado al Senado para su tramitación como ley"
+   ],
+   0,
+   "Art. 146 · Constitución: Señale la opción correcta el proyecto de Estatuto será elevado a las Cortes Generales para su tramitación como ley.",
+   "ce 146",
+   "Opciones casi idénticas",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-184",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Los extranjeros gozarán en España de las libertades públicas que garantiza el Título I en los mismos términos que los españoles",
+    "Los extranjeros gozarán en España de las libertades públicas que garantiza el Título I en los términos que establezcan los tratados y la ley",
+    "Los extranjeros gozarán en España de las libertades públicas que garantiza el Título I solo en los términos que fije el Gobierno"
+   ],
+   1,
+   "Art. 13.1 · Constitución: Los extranjeros gozarán en España de las libertades públicas que garantiza el Título I en los términos que establezcan los tratados y la ley.",
+   "ce 13.1",
+   "Opciones casi idénticas",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-109",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría absoluta de ambas Cámaras",
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría simple de ambas Cámaras",
+    "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras"
+   ],
+   2,
+   "Art. 168 · Constitución: Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras. Las otras dos frases cambian «mayoría de dos tercios» por «mayoría absoluta» y «mayoría simple».",
+   "ce 168",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras",
+    "Las personas con discapacidad no ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas",
+    "La iniciativa de reforma constitucional no se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87"
+   ],
+   0,
+   "La correcta es «Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras». Las otras dos son falsas: lo correcto es «Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas» (la otra frase la niega) y «La iniciativa de reforma constitucional se ejercerá en los términos previstos",
+   "ce 167",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "El gobierno y la administración autónoma de las provincias no estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo",
+    "Todos los españoles no tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado",
+    "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado"
+   ],
+   2,
+   "La correcta es «La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado». Las otras dos son falsas: lo correcto es «El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo» (la otra frase la niega) y «T",
+   "ce 141",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Las Haciendas locales podrán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+    "Los Estatutos de autonomía podrán contener la denominación, organización y sede de las instituciones autónomas propias",
+    "Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial"
+   ],
+   2,
+   "La correcta es «Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial». Las otras dos son falsas: lo correcto es «Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respec",
+   "ce 144",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Si el texto obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de dos tercios",
+    "Si el texto obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso no podrá aprobar la reforma por mayoría de dos tercios",
+    "Si el texto obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de mayoría absoluta"
+   ],
+   0,
+   "Art. 167.2 · Constitución: Si el texto obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de dos tercios.",
+   "ce 167.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-098",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 153 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley",
+    "El control de la actividad de los órganos de las Comunidades Autónomas no se ejercerá por el Tribunal Constitucional en lo relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley",
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a su actividad económica y presupuestaria"
+   ],
+   0,
+   "Art. 153 · Constitución: El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Tribunal Constitucional en lo relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.",
+   "ce 153",
+   "La afirmación, su negación y otro dato",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-139",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 157.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Entre otros, por solo transferencias del Estado y del Fondo de Compensación interterritorial, además del producto de operaciones de crédito",
+    "Entre otros, por solo sus propios tributos, tasas y contribuciones especiales, y el producto de las operaciones de crédito",
+    "Entre otros, por impuestos cedidos por el Estado, sus propios impuestos, tasas y contribuciones especiales, transferencias del Fondo de Compensación interterritorial y el producto de operaciones de crédito"
+   ],
+   2,
+   "Art. 157.1 · Constitución: Entre otros, por impuestos cedidos por el Estado, sus propios impuestos, tasas y contribuciones especiales, transferencias del Fondo de Compensación interterritorial y el producto de operaciones de crédito.",
+   "ce 157.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-093",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 135.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Las Entidades Locales no deberán presentar equilibrio presupuestario",
+    "Las Entidades Locales deberán presentar superávit presupuestario",
+    "Las Entidades Locales deberán presentar equilibrio presupuestario"
+   ],
+   2,
+   "Art. 135.2 · Constitución: Las Entidades Locales deberán presentar equilibrio presupuestario.",
+   "ce 135.2",
+   "La afirmación, su negación y otro dato",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-121",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración no corresponde a los Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales serán elegidos por los vecinos y los Alcaldes por los Concejales o por los vecinos",
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por el Alcalde y la Junta de Gobierno; los Concejales serán elegidos por los vecinos y el Alcalde por el Pleno",
+    "Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales serán elegidos por los vecinos y los Alcaldes por los Concejales o por los vecinos"
+   ],
+   2,
+   "Art. 140 · Constitución: Que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales serán elegidos por los vecinos y los Alcaldes por los Concejales o por los vecinos.",
+   "ce 140",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-070",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Las Cortes Generales, en materias de competencia estatal, no podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal",
+    "Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias, que gozarán de plena personalidad jurídica",
+    "El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por el Consejo de Estado, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley"
+   ],
+   1,
+   "La correcta es «Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias, que gozarán de plena personalidad jurídica». Las otras dos son falsas: lo correcto es «Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de",
+   "ce 152",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 155.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "El Gobierno podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por mayoría absoluta del Senado",
+    "El Gobierno podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por mayoría simple del Congreso",
+    "El Gobierno podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por dos tercios del Senado"
+   ],
+   0,
+   "Art. 155.1 · Constitución: El Gobierno podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por mayoría absoluta del Senado.",
+   "ce 155.1",
+   "Opciones casi idénticas",
+   "h-descentral",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-144",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Se dice que la Constitución de 1978 es «rígida» porque no puede reformarse por el procedimiento legislativo extraordinario, sino por el del Título X",
+    "Se dice que la Constitución de 1978 es «rígida» porque no puede reformarse por el procedimiento legislativo ordinario, sino por el del Título X",
+    "Se dice que la Constitución de 1978 es «rígida» porque no puede reformarse por el procedimiento legislativo excepcional, sino por el del Título X"
+   ],
+   1,
+   "Se dice que la Constitución de 1978 es «rígida» porque no puede reformarse por el procedimiento legislativo ordinario, sino por el del Título X. Las otras dos frases cambian «ordinario» por «extraordinario» y «excepcional».",
+   "Lección del tema: caracteres de la CE",
+   "Una sola palabra cambia el sentido",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t01-159",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los Estatutos deberán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+    "Su estructura interna y funcionamiento deberán ser democráticos",
+    "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, no tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional"
+   ],
+   1,
+   "La correcta es «Su estructura interna y funcionamiento deberán ser democráticos». Las otras dos son falsas: lo correcto es «Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas» (la otra frase cambia «podrán») y «Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender",
+   "ce 7",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 146 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Señale la opción correcta el proyecto de Estatuto será elevado a las Cortes Generales para su tramitación como ley",
+    "Señale la opción correcta el proyecto de Estatuto no será elevado a las Cortes Generales para su tramitación como ley",
+    "Señale la opción correcta el proyecto de Estatuto será elevado al Senado para su tramitación como ley"
+   ],
+   0,
+   "Art. 146 · Constitución: Señale la opción correcta el proyecto de Estatuto será elevado a las Cortes Generales para su tramitación como ley.",
+   "ce 146",
+   "La afirmación, su negación y otro dato",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-184",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.3 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes, una décima parte de los miembros de cualquiera de las Cámaras",
+    "Será sometida a referéndum para su ratificación cuando lo soliciten, dentro del mes siguiente, una quinta parte de los miembros de cualquiera de las Cámaras",
+    "Será sometida a referéndum para su ratificación siempre, dentro de los quince días siguientes a su aprobación por las Cortes Generales"
+   ],
+   0,
+   "Art. 167.3 · Constitución: Será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes, una décima parte de los miembros de cualquiera de las Cámaras.",
+   "ce 167.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-099",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167.3 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes, una décima parte de los miembros de cualquiera de las Cámaras",
+    "Será sometida a referéndum para su ratificación siempre, dentro de los quince días siguientes a su aprobación por las Cortes Generales",
+    "Será sometida a referéndum para su ratificación cuando lo soliciten, dentro del mes siguiente, una quinta parte de los miembros de cualquiera de las Cámaras"
+   ],
+   0,
+   "Art. 167.3 · Constitución: Será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes, una décima parte de los miembros de cualquiera de las Cámaras.",
+   "ce 167.3",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-099",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 151.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "En el procedimiento del artículo 151 el proyecto de Estatuto, aprobado por la Asamblea de Parlamentarios, se remitirá al Consejo de Estado",
+    "En el procedimiento del artículo 151 el proyecto de Estatuto, aprobado por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, que lo examinará en el plazo de dos meses con el concurso de una delegación de la Asamblea proponente",
+    "En el procedimiento del artículo 151 el proyecto de Estatuto, aprobado por la Asamblea de Parlamentarios, se remitirá al Senado en su comisión general"
+   ],
+   1,
+   "Art. 151.2 · Constitución: En el procedimiento del artículo 151 el proyecto de Estatuto, aprobado por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, que lo examinará en el plazo de dos meses con el concurso de una delegación de la Asamblea proponente.",
+   "ce 151.2",
+   "La afirmación, su negación y otro dato",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-135",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Los requisitos de iniciativa autonómica deberán cumplirse en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas",
+    "Los requisitos de iniciativa autonómica no deberán cumplirse en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas",
+    "Los requisitos de iniciativa autonómica deberán cumplirse en el plazo de tres meses"
+   ],
+   0,
+   "Art. 143.2 · Constitución: Los requisitos de iniciativa autonómica deberán cumplirse en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.",
+   "ce 143.2",
+   "La afirmación, su negación y otro dato",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-131",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Pueden acceder a su autogobierno y constituirse en Comunidades Autónomas las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica",
+    "Pueden acceder a su autogobierno y constituirse en Comunidades Autónomas solo las provincias con entidad regional histórica",
+    "Pueden acceder a su autogobierno y constituirse en Comunidades Autónomas los municipios con más de un millón de habitantes"
+   ],
+   0,
+   "Art. 143.1 · Constitución: Pueden acceder a su autogobierno y constituirse en Comunidades Autónomas las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica.",
+   "ce 143.1",
+   "La afirmación, su negación y otro dato",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-129",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.2 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad en entornos adaptados a cada discapacidad",
+    "Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad mediante servicios especializados",
+    "Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad en entornos universalmente accesibles, atendiendo particularmente a las mujeres y los menores con discapacidad"
+   ],
+   2,
+   "Art. 49.2 · Constitución: Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad en entornos universalmente accesibles, atendiendo particularmente a las mujeres y los menores con discapacidad.",
+   "ce 49.2",
+   "La afirmación, su negación y otro dato",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-114",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 144 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Mediante ley orgánica, podrán por motivos de interés nacional, entre otras cosas autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del art. 143.1",
+    "Mediante ley orgánica, podrán por motivos de interés nacional, entre otras cosas disolver una Comunidad Autónoma cuando su ámbito territorial no supere el de una provincia",
+    "Mediante ley orgánica, podrán por motivos de interés nacional, entre otras cosas federar Comunidades Autónomas cuando su ámbito territorial supere el de una provincia"
+   ],
+   0,
+   "Art. 144 · Constitución: Mediante ley orgánica, podrán por motivos de interés nacional, entre otras cosas autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del art. 143.1.",
+   "ce 144",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-076",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 152.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "La organización institucional autonómica se basará en una Asamblea Legislativa, un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente elegido por la Asamblea y nombrado por el Rey",
+    "La organización institucional autonómica se basará en un Parlamento, un Gobierno y un Presidente elegido por la Asamblea y nombrado por el Presidente del Gobierno de la Nación",
+    "La organización institucional autonómica se basará en una Asamblea Legislativa, un Delegado del Gobierno y un Presidente elegido por la Asamblea y nombrado por el Rey"
+   ],
+   0,
+   "Art. 152.1 · Constitución: La organización institucional autonómica se basará en una Asamblea Legislativa, un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente elegido por la Asamblea y nombrado por el Rey.",
+   "ce 152.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-088",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Señale la opción correcta la capital del Estado es la villa de Madrid",
+    "Señale la opción correcta la capital del Estado es la ciudad de Madrid",
+    "Señale la opción correcta la capital del Estado es la ciudad autónoma de Madrid"
+   ],
+   0,
+   "Art. 5 · Constitución: Señale la opción correcta la capital del Estado es la villa de Madrid.",
+   "ce 5",
+   "Opciones casi idénticas",
+   "h-art1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-181",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.3 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "La extradición solo se concederá en cumplimiento de un tratado o de la ley, quedando excluidos los delitos cometidos por menores",
+    "La extradición solo se concederá en cumplimiento de un tratado o de la ley, quedando excluidos los delitos económicos",
+    "La extradición solo se concederá en cumplimiento de un tratado o de la ley, quedando excluidos los delitos políticos, no considerándose como tales los actos de terrorismo"
+   ],
+   2,
+   "Art. 13.3 · Constitución: La extradición solo se concederá en cumplimiento de un tratado o de la ley, quedando excluidos los delitos políticos, no considerándose como tales los actos de terrorismo.",
+   "ce 13.3",
+   "La afirmación, su negación y otro dato",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-111",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "La diferencia fundamental entre decreto-ley y decreto legislativo es que el primero nace de la extraordinaria y urgente necesidad y el segundo de una delegación de las Cortes",
+    "La diferencia fundamental entre decreto-ley y decreto legislativo es que el primero nace de la ordinaria y urgente necesidad y el segundo de una delegación de las Cortes",
+    "La diferencia fundamental entre decreto-ley y decreto legislativo es que el primero nace de la permanente y urgente necesidad y el segundo de una delegación de las Cortes"
+   ],
+   0,
+   "La diferencia fundamental entre decreto-ley y decreto legislativo es que el primero nace de la extraordinaria y urgente necesidad y el segundo de una delegación de las Cortes. Las otras dos frases cambian «extraordinaria» por «ordinaria» y «permanente».",
+   "Lección del tema: normas con rango de ley",
+   "Una sola palabra cambia el sentido",
+   "h-decreto-leg",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t01-169",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 149.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Entre otras materias, sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles, nacionalidad, inmigración, extranjería, relaciones internacionales, defensa y Administración de Justicia",
+    "Entre otras materias, sobre urbanismo y vivienda, nacionalidad, inmigración, extranjería, relaciones internacionales y defensa",
+    "Entre otras materias, sobre ordenación del territorio, nacionalidad, inmigración, extranjería, relaciones internacionales y Administración de Justicia"
+   ],
+   0,
+   "Art. 149.1 · Constitución: Entre otras materias, sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles, nacionalidad, inmigración, extranjería, relaciones internacionales, defensa y Administración de Justicia.",
+   "ce 149.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-084",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los Alcaldes serán elegidos por los Concejales o por los vecinos",
+    "La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados tres años",
+    "La iniciativa del proceso autonómico no corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla"
+   ],
+   0,
+   "La correcta es «Los Alcaldes serán elegidos por los Concejales o por los vecinos». Las otras dos son falsas: lo correcto es «La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años» (la otra frase cambia «cinco años») y «La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municip",
+   "ce 140",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 152 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea",
+    "El Vicepresidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea",
+    "El Secretario y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea"
+   ],
+   0,
+   "Art. 152 · Constitución: El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea. Las otras dos frases cambian «El Presidente» por «el Vicepresidente» y «el Secretario».",
+   "ce 152",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de dos tercios de cada una de las Cámaras",
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de un tercio de cada una de las Cámaras",
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras"
+   ],
+   2,
+   "Art. 167 · Constitución: Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras. Las otras dos frases cambian «tres quintos» por «dos tercios» y «un tercio».",
+   "ce 167",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social",
+    "Su estructura interna y funcionamiento no deberán ser democráticos",
+    "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas deberán gozar del derecho de asilo en España"
+   ],
+   0,
+   "La correcta es «La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social». Las otras dos son falsas: lo correcto es «Su estructura interna y funcionamiento deberán ser democráticos» (la otra frase cambia «deberán») y «La ley establecerá los términos en que lo",
+   "ce 10",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Una ley orgánica requiere mayoría simple del Congreso en una votación final sobre el conjunto",
+    "Una ley orgánica requiere mayoría absoluta del Congreso en una votación final sobre el conjunto",
+    "Una ley orgánica requiere mayoría de tres quintos del Congreso en una votación final sobre el conjunto"
+   ],
+   1,
+   "Una ley orgánica requiere mayoría absoluta del Congreso en una votación final sobre el conjunto. Las otras dos frases cambian «Mayoría absoluta» por «mayoría simple» y «mayoría de tres quintos».",
+   "Lección del tema: mayorías",
+   "Una sola palabra cambia el sentido",
+   "h-mayorias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t01-166",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "El intérprete supremo de la Constitución es el Tribunal Supremo",
+    "El intérprete supremo de la Constitución es el Consejo de Estado",
+    "El intérprete supremo de la Constitución es el Tribunal Constitucional"
+   ],
+   2,
+   "El intérprete supremo de la Constitución es el Tribunal Constitucional. Las otras dos frases cambian «El Tribunal Constitucional» por «el Tribunal Supremo» y «el Consejo de Estado».",
+   "Lección del tema: caracteres de la CE",
+   "Una sola palabra cambia el sentido",
+   "h-caracteres",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t01-162",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.4 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas no podrán gozar del derecho de asilo en España",
+    "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de residencia permanente",
+    "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España"
+   ],
+   2,
+   "Art. 13.4 · Constitución: La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España.",
+   "ce 13.4",
+   "La afirmación, su negación y otro dato",
+   "h-titulo1",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-112",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.2 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Los requisitos de iniciativa autonómica deberán cumplirse en el plazo de cinco meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas",
+    "Los requisitos de iniciativa autonómica deberán cumplirse en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas",
+    "Los requisitos de iniciativa autonómica deberán cumplirse en el plazo de tres meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas"
+   ],
+   1,
+   "Art. 143.2 · Constitución: Los requisitos de iniciativa autonómica deberán cumplirse en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas. Las otras dos frases cambian «Seis meses» por «Cinco meses» y «Tres meses».",
+   "ce 143.2",
+   "Una sola palabra cambia el sentido",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t01-131",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+    "Su estructura interna y funcionamiento podrán ser democráticos",
+    "Todos los españoles no tienen el deber de conocerla y el derecho a usarla"
+   ],
+   0,
+   "La correcta es «Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas». Las otras dos son falsas: lo correcto es «Su estructura interna y funcionamiento deberán ser democráticos» (la otra frase cambia «deberán») y «Todos los españoles tienen el deber de conocerla y el derecho a usarla» (la otra frase la niega).",
+   "ce 4",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 147 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Los Estatutos de autonomía podrán contener las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas",
+    "Los Estatutos de autonomía deberán contener las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas",
+    "Los Estatutos de autonomía no deberán contener las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas"
+   ],
+   1,
+   "Art. 147 · Constitución: Los Estatutos de autonomía deberán contener las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "ce 147",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "El Tribunal Supremo es el supremo órgano consultivo del Gobierno",
+    "Solamente los españoles no serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales",
+    "La ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado"
+   ],
+   2,
+   "La correcta es «La ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado». Las otras dos son falsas: lo correcto es «El Consejo de Estado es el supremo órgano consultivo del Gobierno» (la otra frase cambia «El Consejo de Estado») y «Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salv",
+   "ce 105",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 150.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "En materias de competencia estatal, no podrán atribuir a las Comunidades Autónomas la facultad de dictar normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal (ley marco)",
+    "En materias de competencia estatal, podrán atribuir a las Comunidades Autónomas la facultad de dictar normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal (ley marco)",
+    "En materias de competencia estatal, podrán atribuir a las Comunidades Autónomas la facultad de dictar normas legislativas en el marco de una ley orgánica de armonización dictada por las Cortes Generales"
+   ],
+   1,
+   "Art. 150.1 · Constitución: En materias de competencia estatal, podrán atribuir a las Comunidades Autónomas la facultad de dictar normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal (ley marco).",
+   "ce 150.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-085",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 155.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "El Gobierno podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por mayoría absoluta del Senado",
+    "El Gobierno no podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por mayoría absoluta del Senado",
+    "El Gobierno podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por mayoría simple del Congreso"
+   ],
+   0,
+   "Art. 155.1 · Constitución: El Gobierno podrá adoptar medidas para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, previo requerimiento al Presidente de la Comunidad y con la aprobación por mayoría absoluta del Senado.",
+   "ce 155.1",
+   "La afirmación, su negación y otro dato",
+   "h-descentral",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-144",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 157.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Entre otros, por solo sus propios tributos, tasas y contribuciones especiales, y el producto de las operaciones de crédito",
+    "Entre otros, por solo transferencias del Estado y del Fondo de Compensación interterritorial, además del producto de operaciones de crédito",
+    "Entre otros, por impuestos cedidos por el Estado, sus propios impuestos, tasas y contribuciones especiales, transferencias del Fondo de Compensación interterritorial y el producto de operaciones de crédito"
+   ],
+   2,
+   "Art. 157.1 · Constitución: Entre otros, por impuestos cedidos por el Estado, sus propios impuestos, tasas y contribuciones especiales, transferencias del Fondo de Compensación interterritorial y el producto de operaciones de crédito.",
+   "ce 157.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-093",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado",
+    "Todos los españoles no tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado",
+    "Todos los españoles tienen los mismos derechos pero obligaciones diferentes"
+   ],
+   0,
+   "Art. 139.1 · Constitución: Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.",
+   "ce 139.1",
+   "La afirmación, su negación y otro dato",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-127",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 157 de Constitución Española de 1978, señale la proposición CORRECTA:",
+   [
+    "Los recursos de las Comunidades Autónomas no estarán constituidos por transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado",
+    "Los recursos de las Comunidades Autónomas estarán constituidos por rendimientos procedentes de su patrimonio e ingresos de derecho privado",
+    "Los recursos de las Comunidades Autónomas no estarán constituidos por sus propios impuestos, tasas y contribuciones especiales"
+   ],
+   1,
+   "La correcta es «Los recursos de las Comunidades Autónomas estarán constituidos por rendimientos procedentes de su patrimonio e ingresos de derecho privado». Las otras dos son falsas: lo correcto es «Los recursos de las Comunidades Autónomas estarán constituidos por transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado» (la otra frase la nieg",
+   "ce 157",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 147 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Los Estatutos de autonomía podrán contener la delimitación de su territorio",
+    "Los Estatutos de autonomía no deberán contener la delimitación de su territorio",
+    "Los Estatutos de autonomía deberán contener la delimitación de su territorio"
+   ],
+   2,
+   "Art. 147 · Constitución: Los Estatutos de autonomía deberán contener la delimitación de su territorio. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "ce 147",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 135.1 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Todas las Administraciones Públicas adecuarán sus actuaciones al principio de equilibrio territorial",
+    "Todas las Administraciones Públicas adecuarán sus actuaciones al principio de suficiencia financiera",
+    "Todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria"
+   ],
+   2,
+   "Art. 135.1 · Constitución: Todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria.",
+   "ce 135.1",
+   "La afirmación, su negación y otro dato",
+   "h-control",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-120",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 167 de Constitución Española de 1978, señale la opción correcta:",
+   [
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría absoluta de cada una de las Cámaras",
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría simple de cada una de las Cámaras",
+    "Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras"
+   ],
+   2,
+   "Art. 167 · Constitución: Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras. Las otras dos frases cambian «mayoría de tres quintos» por «mayoría absoluta» y «mayoría simple».",
+   "ce 167",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 154 de Constitución Española de 1978, señale la proposición correcta:",
+   [
+    "Señale la opción correcta un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma",
+    "Señale la opción correcta un Delegado nombrado por la Comunidad Autónoma dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma",
+    "Señale la opción correcta un Delegado nombrado por las Cortes Generales dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 154 · Constitución: Señale la opción correcta un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma.",
+   "ce 154",
+   "Opciones casi idénticas",
+   "h-territorio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t01-185",
+    "tc": 1
    }
   ]
  ]

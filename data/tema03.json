@@ -1667,7 +1667,8 @@
    "h-preliminar",
    [
     "Zaragoza"
-   ]
+   ],
+   {}
   ],
   [
    "El Día de Aragón es el:",
@@ -1683,7 +1684,8 @@
    "h-preliminar",
    [
     "23 de abril"
-   ]
+   ],
+   {}
   ],
   [
    "La bandera de Aragón es la tradicional de:",
@@ -1699,7 +1701,8 @@
    "h-preliminar",
    [
     "cuatro barras rojas"
-   ]
+   ],
+   {}
   ],
   [
    "Aragón estructura su organización territorial en:",
@@ -1715,7 +1718,8 @@
    "h-preliminar",
    [
     "municipios, comarcas y provincias"
-   ]
+   ],
+   {}
   ],
   [
    "El territorio de la Comunidad Autónoma comprende el de los municipios, comarcas y provincias de:",
@@ -1731,7 +1735,8 @@
    "h-preliminar",
    [
     "Huesca, Teruel y Zaragoza"
-   ]
+   ],
+   {}
   ],
   [
    "Según el art. 10 EAAr, para incorporar a Aragón otros territorios o municipios limítrofes o enclavados, uno de los requisitos es:",
@@ -1747,7 +1752,8 @@
    "h-preliminar",
    [
     "Cortes de Aragón"
-   ]
+   ],
+   {}
   ],
   [
    "Son instituciones de la Comunidad Autónoma de Aragón:",
@@ -1763,7 +1769,8 @@
    "h-instituciones",
    [
     "Justicia"
-   ]
+   ],
+   {}
   ],
   [
    "Las Cortes de Aragón estarán integradas por un número de escaños comprendido entre:",
@@ -1779,7 +1786,8 @@
    "h-instituciones",
    [
     "sesenta y cinco y ochenta"
-   ]
+   ],
+   {}
   ],
   [
    "Las Cortes de Aragón serán elegidas por un período de:",
@@ -1795,7 +1803,8 @@
    "h-instituciones",
    [
     "cuatro años"
-   ]
+   ],
+   {}
   ],
   [
    "El Presidente de Aragón es elegido por:",
@@ -1811,7 +1820,8 @@
    "h-instituciones",
    [
     "nombrado por el Rey"
-   ]
+   ],
+   {}
   ],
   [
    "Para ser elegido Presidente, el candidato deberá obtener en primera votación:",
@@ -1827,7 +1837,8 @@
    "h-instituciones",
    [
     "mayoría absoluta"
-   ]
+   ],
+   {}
   ],
   [
    "El Gobierno de Aragón ejerce:",
@@ -1843,7 +1854,8 @@
    "h-instituciones",
    [
     "función ejecutiva"
-   ]
+   ],
+   {}
   ],
   [
    "El supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma es:",
@@ -1859,7 +1871,8 @@
    "h-instituciones",
    [
     "supremo órgano consultivo"
-   ]
+   ],
+   {}
   ],
   [
    "En materia de «Urbanismo» (art. 71.9), la competencia de la Comunidad Autónoma de Aragón es:",
@@ -1875,7 +1888,8 @@
    "h-competencias",
    [
     "Urbanismo"
-   ]
+   ],
+   {}
   ],
   [
    "En las competencias compartidas, Aragón ejerce:",
@@ -1891,7 +1905,8 @@
    "h-competencias",
    [
     "desarrollo legislativo"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el art. 76.3 del Estatuto, corresponde a la Comunidad Autónoma:",
@@ -1907,7 +1922,8 @@
    "h-competencias",
    [
     "Policías locales"
-   ]
+   ],
+   {}
   ],
   [
    "Aragón, nacionalidad histórica, ejerce su autogobierno:",
@@ -2209,7 +2225,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2281,7 +2298,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2353,7 +2371,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2371,7 +2390,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2475,7 +2495,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2493,7 +2514,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2562,7 +2584,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2598,7 +2621,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2651,7 +2675,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2689,7 +2714,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2707,7 +2733,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2725,7 +2752,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2971,7 +2999,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, preguntas de reserva (R1)"
+    "z": "Prueba oficial, preguntas de reserva (R1)",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3162,7 +3192,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 5"
+    "z": "Prueba oficial, pregunta 5",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3321,7 +3353,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 10"
+    "z": "Prueba oficial, pregunta 10",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3597,7 +3631,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3615,7 +3650,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4065,7 +4101,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4764,7 +4801,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5030,6 +5068,2735 @@
    {
     "nuevo": 1,
     "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Aragón estructura su organización territorial en solo municipios y provincias",
+    "Aragón estructura su organización territorial en Municipios y comunidades",
+    "Aragón estructura su organización territorial en Municipios, comarcas y provincias"
+   ],
+   2,
+   "Art. 5 · Estatuto de Autonomía de Aragón: Aragón estructura su organización territorial en Municipios, comarcas y provincias.",
+   "eaar 5",
+   "Opciones casi idénticas",
+   "h-preliminar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-004",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Una ley de las Cortes de Aragón establecerá la oficialidad de las lenguas y modalidades propias de Aragón en todo el territorio de la Comunidad Autónoma",
+    "Una ley de las Cortes de Aragón establecerá las zonas de uso predominante de las lenguas y modalidades propias de Aragón, y regulará su régimen jurídico y los derechos de utilización de los hablantes",
+    "Una ley de las Cortes de Aragón establecerá la lengua oficial de la Comunidad Autónoma y las zonas de su uso obligatorio en la Administración"
+   ],
+   1,
+   "Art. 7 · Estatuto de Autonomía de Aragón: Una ley de las Cortes de Aragón establecerá las zonas de uso predominante de las lenguas y modalidades propias de Aragón, y regulará su régimen jurídico y los derechos de utilización de los hablantes.",
+   "eaar 7",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-029",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Para ser elegido Presidente, el candidato deberá obtener en primera votación mayoría de dos tercios",
+    "Para ser elegido Presidente, el candidato deberá obtener en primera votación mayoría absoluta; si no, nueva votación veinticuatro horas después con mayoría simple",
+    "Para ser elegido Presidente, el candidato deberá obtener en primera votación mayoría simple siempre"
+   ],
+   1,
+   "Art. 48 · Estatuto de Autonomía de Aragón: Para ser elegido Presidente, el candidato deberá obtener en primera votación mayoría absoluta; si no, nueva votación veinticuatro horas después con mayoría simple.",
+   "eaar 48",
+   "La afirmación, su negación y otro dato",
+   "h-instituciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-011",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 56 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Gobierno de Aragón cesa cuando lo hace su Presidente; el Gobierno cesante cesa de inmediato y sus funciones las asume el Presidente de las Cortes hasta la toma de posesión del nuevo",
+    "El Gobierno de Aragón cesa cuando lo hace su Presidente; el Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo",
+    "El Gobierno de Aragón cesa cuando lo hace su Presidente; el Gobierno cesante continuará en funciones durante un máximo de tres meses, transcurridos los cuales se disuelve"
+   ],
+   1,
+   "Art. 56 · Estatuto de Autonomía de Aragón: El Gobierno de Aragón cesa cuando lo hace su Presidente; el Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo.",
+   "eaar 56",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-069",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "El alcance de las funciones del Justicia, el procedimiento de su elección y su régimen de incompatibilidades se concretarán por una ley del Gobierno de Aragón",
+    "El alcance de las funciones del Justicia, el procedimiento de su elección y su régimen de incompatibilidades se concretarán por una ley del Justicia de Aragón",
+    "El alcance de las funciones del Justicia, el procedimiento de su elección y su régimen de incompatibilidades se concretarán por una ley de las Cortes de Aragón"
+   ],
+   2,
+   "Art. 60 · Estatuto de Autonomía de Aragón: El alcance de las funciones del Justicia, el procedimiento de su elección y su régimen de incompatibilidades se concretarán por una ley de las Cortes de Aragón. Las otras dos frases cambian «las Cortes de Aragón» por «el Gobierno de Aragón» y «el Justicia de Aragón».",
+   "eaar 60",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t03-074",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Corresponde a la Comunidad Autónoma determinar los límites de las demarcaciones territoriales de los órganos jurisdiccionales; la capitalidad de las demarcaciones judiciales se fijará por decreto del Gobierno de Aragón",
+    "Corresponde a la Comunidad Autónoma determinar los límites de las demarcaciones territoriales de los órganos jurisdiccionales; la capitalidad de las demarcaciones judiciales se fijará por ley de las Cortes de Aragón",
+    "Corresponde a la Comunidad Autónoma determinar los límites de las demarcaciones territoriales de los órganos jurisdiccionales; la capitalidad de las demarcaciones judiciales se fijará por el Consejo General del Poder Judicial"
+   ],
+   1,
+   "Art. 68.1 · Estatuto de Autonomía de Aragón: Corresponde a la Comunidad Autónoma determinar los límites de las demarcaciones territoriales de los órganos jurisdiccionales; la capitalidad de las demarcaciones judiciales se fijará por ley de las Cortes de Aragón.",
+   "eaar 68.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-083",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La cláusula subrogatoria del Estatuto establece que Aragón ejercerá todas las funciones y facultades que la LOPJ atribuya al Gobierno de España con relación a la Administración de Justicia en Aragón",
+    "La cláusula subrogatoria del Estatuto establece que Aragón no ejercerá todas las funciones y facultades que la LOPJ atribuya al Gobierno de España con relación a la Administración de Justicia en Aragón",
+    "La cláusula subrogatoria del Estatuto establece que Aragón ejercerá las funciones que la LOPJ atribuya al Consejo General del Poder Judicial en relación con Aragón"
+   ],
+   0,
+   "Art. 69 · Estatuto de Autonomía de Aragón: La cláusula subrogatoria del Estatuto establece que Aragón ejercerá todas las funciones y facultades que la LOPJ atribuya al Gobierno de España con relación a la Administración de Justicia en Aragón.",
+   "eaar 69",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-084",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La actividad de las entidades territoriales aragonesas se desarrollará bajo los principios de subsidiariedad, proporcionalidad, eficacia y coordinación entre los distintos niveles de gobierno local",
+    "La actividad de las entidades territoriales aragonesas se desarrollará bajo los principios de jerarquía, diferenciación y solidaridad entre las entidades territoriales aragonesas de la Comunidad",
+    "La actividad de las entidades territoriales aragonesas se desarrollará bajo los principios de subsidiariedad, proporcionalidad y diferenciación"
+   ],
+   2,
+   "Art. 85.1 · Estatuto de Autonomía de Aragón: La actividad de las entidades territoriales aragonesas se desarrollará bajo los principios de subsidiariedad, proporcionalidad y diferenciación.",
+   "eaar 85.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-107",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Corresponde a la Comunidad Autónoma la competencia compartida en enseñanza en toda su extensión, niveles y grados, modalidades y especialidades",
+    "Corresponde a la Comunidad Autónoma la competencia compartida en enseñanza universitaria únicamente, en todos sus niveles, grados y especialidades",
+    "Corresponde a la Comunidad Autónoma la competencia compartida en enseñanza no universitaria únicamente, en todos sus niveles, grados y especialidades"
+   ],
+   0,
+   "Art. 73 · Estatuto de Autonomía de Aragón: Corresponde a la Comunidad Autónoma la competencia compartida en enseñanza en toda su extensión, niveles y grados, modalidades y especialidades.",
+   "eaar 73",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-090",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Los notarios y registradores de la propiedad y mercantiles no serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado, siendo mérito preferente el conocimiento del Derecho propio de Aragón",
+    "Los notarios y registradores de la propiedad y mercantiles serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado, siendo mérito preferente el conocimiento del Derecho propio de Aragón",
+    "Los notarios y registradores de la propiedad y mercantiles serán nombrados por el Estado, de conformidad con las leyes, siendo mérito preferente el conocimiento del Derecho propio de Aragón"
+   ],
+   1,
+   "Art. 78.1 · Estatuto de Autonomía de Aragón: Los notarios y registradores de la propiedad y mercantiles serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado, siendo mérito preferente el conocimiento del Derecho propio de Aragón.",
+   "eaar 78.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-099",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "En las materias de competencia exclusiva de la Comunidad Autónoma el Derecho propio de Aragón no será aplicable en su territorio con preferencia a cualquier otro, en los términos previstos en el Estatuto",
+    "En las materias de competencia exclusiva de la Comunidad Autónoma el Derecho propio de Aragón es subsidiario del Derecho estatal en los términos previstos en el Estatuto",
+    "En las materias de competencia exclusiva de la Comunidad Autónoma el Derecho propio de Aragón será aplicable en su territorio con preferencia a cualquier otro, en los términos previstos en el Estatuto"
+   ],
+   2,
+   "Art. 80.2 · Estatuto de Autonomía de Aragón: En las materias de competencia exclusiva de la Comunidad Autónoma el Derecho propio de Aragón será aplicable en su territorio con preferencia a cualquier otro, en los términos previstos en el Estatuto.",
+   "eaar 80.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-101",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Gozan también de los derechos políticos del Estatuto, como aragoneses los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en Aragón y acrediten esta condición en el Consulado de España, y sus descendientes",
+    "Gozan también de los derechos políticos del Estatuto, como aragoneses los ciudadanos españoles residentes en el extranjero nacidos en Aragón y acrediten esta condición ante el Gobierno de Aragón, y sus hijos",
+    "Gozan también de los derechos políticos del Estatuto, como aragoneses los ciudadanos españoles residentes en otras Comunidades Autónomas que hayan nacido en Aragón, y sus descendientes hasta el segundo grado"
+   ],
+   0,
+   "Art. 4.2 · Estatuto de Autonomía de Aragón: Gozan también de los derechos políticos del Estatuto, como aragoneses los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en Aragón y acrediten esta condición en el Consulado de España, y sus descendientes.",
+   "eaar 4.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-025",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Los derechos y principios del Título I del Estatuto suponen una ampliación del régimen de distribución de competencias entre el Estado y la Comunidad Autónoma",
+    "Los derechos y principios del Título I del Estatuto no supondrán una alteración del régimen de distribución de competencias",
+    "Los derechos y principios del Título I del Estatuto alteran el régimen de distribución de competencias solo en las materias de competencia exclusiva de Aragón"
+   ],
+   1,
+   "Art. 6.3 · Estatuto de Autonomía de Aragón: Los derechos y principios del Título I del Estatuto no supondrán una alteración del régimen de distribución de competencias.",
+   "eaar 6.3",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-028",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Derecho foral de Aragón no tendrá eficacia personal y será de aplicación a todos los que ostenten la vecindad civil aragonesa, independientemente del lugar de su residencia",
+    "El Derecho foral de Aragón tendrá eficacia personal y será de aplicación a todos los que ostenten la vecindad civil aragonesa, independientemente del lugar de su residencia",
+    "El Derecho foral de Aragón tendrá eficacia personal y será de aplicación a todos los españoles que residan en Aragón, tengan o no vecindad aragonesa"
+   ],
+   1,
+   "Art. 9.2 · Estatuto de Autonomía de Aragón: El Derecho foral de Aragón tendrá eficacia personal y será de aplicación a todos los que ostenten la vecindad civil aragonesa, independientemente del lugar de su residencia.",
+   "eaar 9.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-032",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Son instituciones de la Comunidad Autónoma de Aragón las Cortes, el Presidente, el Gobierno o Diputación General y el Justicia",
+    "Son instituciones de la Comunidad Autónoma de Aragón las Cortes, el Vicepresidente, el Gobierno o Diputación General y el Justicia",
+    "Son instituciones de la Comunidad Autónoma de Aragón las Cortes, el Secretario, el Gobierno o Diputación General y el Justicia"
+   ],
+   0,
+   "Art. 32 · Estatuto de Autonomía de Aragón: Son instituciones de la Comunidad Autónoma de Aragón las Cortes, el Presidente, el Gobierno o Diputación General y el Justicia. Las otras dos frases cambian «el Presidente» por «el Vicepresidente» y «el Secretario».",
+   "eaar 32",
+   "Una sola palabra cambia el sentido",
+   "h-instituciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t03-007",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La delegación legislativa debe ser expresa, mediante acuerdo de las Cortes, para una materia concreta y con determinación de un plazo cierto",
+    "La delegación legislativa debe ser expresa, mediante ley, para una materia concreta y con determinación de un plazo cierto",
+    "La delegación legislativa debe ser expresa, mediante ley, para varias materias a la vez y con determinación de un plazo máximo de diez años"
+   ],
+   1,
+   "Art. 43.3 · Estatuto de Autonomía de Aragón: La delegación legislativa debe ser expresa, mediante ley, para una materia concreta y con determinación de un plazo cierto.",
+   "eaar 43.3",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-052",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "En las materias de su competencia, corresponde a la Comunidad Autónoma el ejercicio de la actividad de fomento, pudiendo otorgar subvenciones con cargo a fondos propios, regulando o desarrollando objetivos y requisitos y gestionando su tramitación y concesión",
+    "En las materias de su competencia, no corresponde a la Comunidad Autónoma el ejercicio de la actividad de fomento, pudiendo otorgar subvenciones con cargo a fondos propios, regulando o desarrollando objetivos y requisitos y gestionando su tramitación y concesión",
+    "En las materias de su competencia, corresponde a la Comunidad Autónoma el ejercicio de solo la gestión de las subvenciones estatales, regulando objetivos y requisitos y tramitando su concesión"
+   ],
+   0,
+   "Art. 79.1 · Estatuto de Autonomía de Aragón: En las materias de su competencia, corresponde a la Comunidad Autónoma el ejercicio de la actividad de fomento, pudiendo otorgar subvenciones con cargo a fondos propios, regulando o desarrollando objetivos y requisitos y gestionando su tramitación y concesión.",
+   "eaar 79.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-100",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "En el nombramiento de Magistrados, Jueces y Secretarios en Aragón no será mérito preferente el conocimiento acreditado del Derecho propio de Aragón",
+    "En el nombramiento de Magistrados, Jueces y Secretarios en Aragón será mérito preferente el conocimiento acreditado del Derecho propio de Aragón",
+    "En el nombramiento de Magistrados, Jueces y Secretarios en Aragón será mérito preferente el conocimiento acreditado de las lenguas y modalidades propias de Aragón"
+   ],
+   1,
+   "Art. 65 · Estatuto de Autonomía de Aragón: En el nombramiento de Magistrados, Jueces y Secretarios en Aragón será mérito preferente el conocimiento acreditado del Derecho propio de Aragón.",
+   "eaar 65",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-080",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Zaragoza, como capital de Aragón, dispondrá de un régimen especial establecido por decreto del Gobierno de Aragón",
+    "Zaragoza, como capital de Aragón, dispondrá de un estatuto aprobado por el Estado",
+    "Zaragoza, como capital de Aragón, dispondrá de un régimen especial establecido por ley de Cortes de Aragón"
+   ],
+   2,
+   "Art. 87 · Estatuto de Autonomía de Aragón: Zaragoza, como capital de Aragón, dispondrá de un régimen especial establecido por ley de Cortes de Aragón.",
+   "eaar 87",
+   "La afirmación, su negación y otro dato",
+   "h-singularizadas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-175",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Es competencia ejecutiva de la Comunidad Autónoma de Aragón, entre otras el urbanismo y la vivienda, el trabajo y relaciones laborales y el sistema penitenciario",
+    "Es competencia ejecutiva de la Comunidad Autónoma de Aragón, entre otras la organización territorial, la gestión de la asistencia sanitaria y el trabajo y relaciones laborales",
+    "Es competencia ejecutiva de la Comunidad Autónoma de Aragón, entre otras la gestión de la asistencia sanitaria de la Seguridad Social, el trabajo y relaciones laborales y el sistema penitenciario"
+   ],
+   2,
+   "Art. 77 · Estatuto de Autonomía de Aragón: Es competencia ejecutiva de la Comunidad Autónoma de Aragón, entre otras la gestión de la asistencia sanitaria de la Seguridad Social, el trabajo y relaciones laborales y el sistema penitenciario.",
+   "eaar 77",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-098",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El territorio de la Comunidad Autónoma comprende el de los municipios, comarcas y provincias de huesca, Teruel y Zaragoza",
+    "El territorio de la Comunidad Autónoma comprende el de los municipios, comarcas y provincias de huesca, Zaragoza y Lleida",
+    "El territorio de la Comunidad Autónoma comprende el de los municipios, comarcas y provincias de teruel y Zaragoza únicamente"
+   ],
+   0,
+   "Art. 2 · Estatuto de Autonomía de Aragón: El territorio de la Comunidad Autónoma comprende el de los municipios, comarcas y provincias de huesca, Teruel y Zaragoza.",
+   "eaar 2",
+   "Opciones casi idénticas",
+   "h-preliminar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-005",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa y reglamentaria y nombran a los Consejeros del Gobierno",
+    "Las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa y controlan solo la acción del Presidente de Aragón",
+    "Las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa, aprueban los presupuestos, e impulsan y controlan la acción del Gobierno de Aragón"
+   ],
+   2,
+   "Art. 33.1 · Estatuto de Autonomía de Aragón: Las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa, aprueban los presupuestos, e impulsan y controlan la acción del Gobierno de Aragón.",
+   "eaar 33.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-035",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de los Condes de Sástago, sin que puedan celebrar sesiones fuera de él",
+    "La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de poder celebrar sesiones en otros lugares dentro de Aragón",
+    "La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Edificio Pignatelli, sin perjuicio de celebrar sesiones en otros lugares de Aragón"
+   ],
+   1,
+   "Art. 35 · Estatuto de Autonomía de Aragón: La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de poder celebrar sesiones en otros lugares dentro de Aragón.",
+   "eaar 35",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-038",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma no es el Consejo Consultivo de Aragón",
+    "El supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma es el Consejo Consultivo de Aragón",
+    "El supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma es el Justicia de Aragón"
+   ],
+   1,
+   "Art. 58 · Estatuto de Autonomía de Aragón: El supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma es el Consejo Consultivo de Aragón.",
+   "eaar 58",
+   "La afirmación, su negación y otro dato",
+   "h-instituciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-013",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Justicia de Aragón tiene como misiones específicas dictar sentencias en materia civil foral y defender los derechos individuales y colectivos del Estatuto",
+    "El Justicia de Aragón tiene como misiones específicas controlar la constitucionalidad de las leyes aragonesas y la tutela del ordenamiento jurídico estatal",
+    "El Justicia de Aragón tiene como misiones específicas la protección y defensa de los derechos individuales y colectivos del Estatuto, la tutela del ordenamiento jurídico aragonés y la defensa del Estatuto"
+   ],
+   2,
+   "Art. 59.1 · Estatuto de Autonomía de Aragón: El Justicia de Aragón tiene como misiones específicas la protección y defensa de los derechos individuales y colectivos del Estatuto, la tutela del ordenamiento jurídico aragonés y la defensa del Estatuto.",
+   "eaar 59.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-072",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "El gobierno y la administración municipales corresponde al Ayuntamiento, formado por la Junta de Gobierno Local y los concejales",
+    "Las provincias, como entidades locales supramunicipales, con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo en todo caso a criterios de solidaridad y equilibrio territorial",
+    "Por ley del Justicia de Aragón podrá regularse la creación, organización y competencias de las áreas metropolitanas"
+   ],
+   1,
+   "La correcta es «Las provincias, como entidades locales supramunicipales, con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo en todo caso a criterios de solidaridad y equilibrio territorial». Las otras dos son falsas: lo correcto es «El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Alcalde",
+   "eaar 84",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "La Administración aragonesa ostenta la condición de Administración extraordinaria en el ejercicio de sus competencias",
+    "La memoria anual de la Fiscalía del Tribunal Superior de Justicia de Aragón será enviada por el Fiscal Jefe al Consejo de Justicia de Aragón y la deberá presentar ante las Cortes de Aragón y el Gobierno de Aragón",
+    "El Consejo de Justicia de Aragón tendrá la consideración, naturaleza, competencias y facultades que le atribuya la Ley Orgánica del Poder Judicial"
+   ],
+   2,
+   "La correcta es «El Consejo de Justicia de Aragón tendrá la consideración, naturaleza, competencias y facultades que le atribuya la Ley Orgánica del Poder Judicial». Las otras dos son falsas: lo correcto es «La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias» (la otra frase cambia «ordinaria») y «La memoria anual de la Fiscalía del Tribunal Superior de Just",
+   "eaar 64",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67.4 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Corresponde a la Comunidad Autónoma la ordenación y organización de los servicios de justicia gratuita y orientación jurídica gratuita",
+    "Corresponde a la Comunidad Autónoma la designación de los jueces de paz únicamente",
+    "Corresponde a la Comunidad Autónoma la gestión del Registro Civil"
+   ],
+   0,
+   "Art. 67.4 · Estatuto de Autonomía de Aragón: Corresponde a la Comunidad Autónoma la ordenación y organización de los servicios de justicia gratuita y orientación jurídica gratuita.",
+   "eaar 67.4",
+   "La afirmación, su negación y otro dato",
+   "h-admin-justicia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-155",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "La creación, modificación y supresión de las comarcas, así como la determinación de sus competencias, organización y régimen jurídico, se regulan por ley del Gobierno de Aragón",
+    "La creación, modificación y supresión de las comarcas, así como la determinación de sus competencias, organización y régimen jurídico, se regulan por ley de las Cortes de Aragón",
+    "La creación, modificación y supresión de las comarcas, así como la determinación de sus competencias, organización y régimen jurídico, se regulan por ley del Justicia de Aragón"
+   ],
+   1,
+   "Art. 83.3 · Estatuto de Autonomía de Aragón: La creación, modificación y supresión de las comarcas, así como la determinación de sus competencias, organización y régimen jurídico, se regulan por ley de las Cortes de Aragón. Las otras dos frases cambian «las Cortes de Aragón» por «el Gobierno de Aragón» y «el Justicia de Aragón».",
+   "eaar 83.3",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t03-105",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Corresponden a la Comunidad Autónoma de Aragón las competencias solo exclusivas y compartidas sobre las materias incluidas en el título correspondiente",
+    "Corresponden a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el título correspondiente",
+    "Corresponden a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas, ejecutivas y delegadas sobre las materias incluidas en el título correspondiente"
+   ],
+   1,
+   "Art. 70.1 · Estatuto de Autonomía de Aragón: Corresponden a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el título correspondiente.",
+   "eaar 70.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-085",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "En el ámbito de las competencias compartidas, la Comunidad Autónoma no ejercerá el desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas con rango de ley",
+    "En el ámbito de las competencias compartidas, la Comunidad Autónoma ejercerá el desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas con rango de ley",
+    "En el ámbito de las competencias compartidas, la Comunidad Autónoma ejercerá el desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas reglamentarias"
+   ],
+   1,
+   "Art. 75 · Estatuto de Autonomía de Aragón: En el ámbito de las competencias compartidas, la Comunidad Autónoma ejercerá el desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas con rango de ley.",
+   "eaar 75",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-092",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "La Comunidad Autónoma deberá crear una Policía autonómica en el marco del presente Estatuto y de la ley orgánica correspondiente",
+    "El Gobierno de España deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas",
+    "La Comunidad Autónoma no podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, cualquier medio de comunicación social para el cumplimiento de sus fines, respetando la autonomía local"
+   ],
+   1,
+   "La correcta es «El Gobierno de España deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas». Las otras dos son falsas: lo correcto es «La Comunidad Autónoma podrá crear una Policía autonómica en el marco del presente Estatuto y de la ley orgánica correspondiente» (la otra frase cambia «podrá») y «La Comunidad Autónoma podrá regular, crear y mantener su prop",
+   "eaar 72",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La Comunidad Autónoma de Aragón ostenta por su historia una identidad propia en virtud de sus instituciones tradicionales, su idioma propio y su territorio histórico",
+    "La Comunidad Autónoma de Aragón ostenta por su historia una identidad propia en virtud de sus instituciones tradicionales, el Derecho foral y su cultura",
+    "La Comunidad Autónoma de Aragón ostenta por su historia una identidad propia en virtud de su Derecho foral, su historia dinástica y su economía agraria"
+   ],
+   1,
+   "Art. 1.3 · Estatuto de Autonomía de Aragón: La Comunidad Autónoma de Aragón ostenta por su historia una identidad propia en virtud de sus instituciones tradicionales, el Derecho foral y su cultura.",
+   "eaar 1.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-019",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Los Diputados y Diputadas a Cortes de Aragón no estarán vinculados por mandato imperativo y serán inviolables, aun después de cesar, por los votos y opiniones emitidos en el ejercicio del cargo; durante su mandato no podrán ser detenidos sino en caso de flagrante delito",
+    "Los Diputados y Diputadas a Cortes de Aragón estarán vinculados por mandato de su grupo parlamentario y serán inviolables por los votos emitidos; no podrán ser detenidos sino en caso de flagrante delito",
+    "Los Diputados y Diputadas a Cortes de Aragón no estarán vinculados por mandato imperativo y serán inviolables solo mientras ejerzan el cargo; podrán ser detenidos con autorización de las Cortes"
+   ],
+   0,
+   "Art. 38 · Estatuto de Autonomía de Aragón: Los Diputados y Diputadas a Cortes de Aragón no estarán vinculados por mandato imperativo y serán inviolables, aun después de cesar, por los votos y opiniones emitidos en el ejercicio del cargo; durante su mandato no podrán ser detenidos sino en caso de flagrante delito.",
+   "eaar 38",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-043",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "El Presidente o la Presidenta y las demás personas miembros del Gobierno de Aragón, durante su mandato, no podrán ser detenidas ni retenidas sino en supuesto de flagrante delito",
+    "El Justicia de Aragón ejerce la función ejecutiva y la potestad reglamentaria",
+    "El Justicia de Aragón no podrán ser disueltas cuando esté en trámite una moción de censura"
+   ],
+   0,
+   "La correcta es «El Presidente o la Presidenta y las demás personas miembros del Gobierno de Aragón, durante su mandato, no podrán ser detenidas ni retenidas sino en supuesto de flagrante delito». Las otras dos son falsas: lo correcto es «El Gobierno de Aragón ejerce la función ejecutiva y la potestad reglamentaria» (la otra frase cambia «El Gobierno de Aragón») y «Las Cortes de Aragón no podrán ser disueltas cuando e",
+   "eaar 55",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "Las Cortes de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional",
+    "El Justicia de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional",
+    "El Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional"
+   ],
+   2,
+   "Art. 57 · Estatuto de Autonomía de Aragón: El Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional. Las otras dos frases cambian «El Gobierno de Aragón» por «las Cortes de Aragón» y «el Justicia de Aragón».",
+   "eaar 57",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Los poderes públicos aragoneses deben promover los vínculos económicos con las comunidades aragonesas del exterior y asumir su representación jurídica",
+    "Los poderes públicos aragoneses deben fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior y prestarles la ayuda necesaria",
+    "Los poderes públicos aragoneses deben fomentar los vínculos sociales con las comunidades aragonesas del exterior, que quedan sujetas a su tutela"
+   ],
+   1,
+   "Art. 8 · Estatuto de Autonomía de Aragón: Los poderes públicos aragoneses deben fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior y prestarles la ayuda necesaria.",
+   "eaar 8",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Consejo local de Aragón no es el órgano de colaboración y coordinación entre el Gobierno de Aragón y las asociaciones representativas de las entidades locales aragonesas, que debe ser oído en las iniciativas legislativas y reglamentarias que afecten específicamente a los gobiernos locales",
+    "El Consejo local de Aragón es el órgano de colaboración y coordinación entre el Gobierno de Aragón y las asociaciones representativas de las entidades locales aragonesas, que debe ser oído en las iniciativas legislativas y reglamentarias que afecten específicamente a los gobiernos locales",
+    "El Consejo local de Aragón es el órgano de gobierno de las comarcas, que debe ser oído en las iniciativas que afecten a los gobiernos locales"
+   ],
+   1,
+   "Art. 86 · Estatuto de Autonomía de Aragón: El Consejo local de Aragón es el órgano de colaboración y coordinación entre el Gobierno de Aragón y las asociaciones representativas de las entidades locales aragonesas, que debe ser oído en las iniciativas legislativas y reglamentarias que afecten específicamente a los gobiernos locales.",
+   "eaar 86",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-109",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias",
+    "Sus órganos e instituciones no podrán establecerse en diversas localidades de Aragón",
+    "El Consejo Consultivo de Aragón no es el supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma"
+   ],
+   0,
+   "La correcta es «La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias». Las otras dos son falsas: lo correcto es «Sus órganos e instituciones podrán establecerse en diversas localidades de Aragón» (la otra frase cambia «podrán») y «El Consejo Consultivo de Aragón es el supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma» (la ot",
+   "eaar 61",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia compartida",
+    "La competencia en medios de comunicación social y servicios de contenido audiovisual no corresponde a la Comunidad Autónoma como competencia compartida",
+    "La competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia ejecutiva"
+   ],
+   0,
+   "Art. 74.1 · Estatuto de Autonomía de Aragón: La competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia compartida.",
+   "eaar 74.1",
+   "La afirmación, su negación y otro dato",
+   "h-comp-materias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-162",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La capital de Aragón no es la ciudad de Zaragoza",
+    "La capital de Aragón es la ciudad de Zaragoza",
+    "La capital de Aragón es la ciudad de Huesca"
+   ],
+   1,
+   "Art. 3 · Estatuto de Autonomía de Aragón: La capital de Aragón es la ciudad de Zaragoza.",
+   "eaar 3",
+   "La afirmación, su negación y otro dato",
+   "h-preliminar",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-001",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "El Vicepresidente del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón",
+    "El Secretario del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón",
+    "El Presidente del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón"
+   ],
+   2,
+   "Art. 63 · Estatuto de Autonomía de Aragón: El Presidente del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón. Las otras dos frases cambian «El Presidente» por «el Vicepresidente» y «el Secretario».",
+   "eaar 63",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "La memoria anual de la Fiscalía del Tribunal Superior de Justicia de Aragón será enviada por el Fiscal Jefe al Consejo de Justicia de Aragón y la deberá presentar ante las Cortes de Aragón y el Gobierno de Aragón",
+    "La memoria anual de la Fiscalía del Tribunal Superior de Justicia de Aragón será enviada por el Fiscal Jefe al Consejo de Justicia de Aragón y la podrá presentar ante las Cortes de Aragón y el Gobierno de Aragón",
+    "La memoria anual de la Fiscalía del Tribunal Superior de Justicia de Aragón será enviada por el Fiscal Jefe al Consejo de Justicia de Aragón y la no podrá presentar ante las Cortes de Aragón y el Gobierno de Aragón"
+   ],
+   1,
+   "Art. 66 · Estatuto de Autonomía de Aragón: La memoria anual de la Fiscalía del Tribunal Superior de Justicia de Aragón será enviada por el Fiscal Jefe al Consejo de Justicia de Aragón y la podrá presentar ante las Cortes de Aragón y el Gobierno de Aragón. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "eaar 66",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Las Cortes de Aragón ejercen la potestad legislativa",
+    "Las Cortes de Aragón ejercen la potestad reglamentaria",
+    "Las Cortes de Aragón ejercen la potestad ejecutiva"
+   ],
+   0,
+   "Art. 42.1 · Estatuto de Autonomía de Aragón: Las Cortes de Aragón ejercen la potestad legislativa.",
+   "eaar 42.1",
+   "Opciones casi idénticas",
+   "h-cortes-funciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-126",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "Las Cortes de Aragón estará constituido por el Presidente, los Vicepresidentes, en su caso, y los Consejeros, a los que el Presidente nombra y separa libremente",
+    "La sede del Gobierno de Aragón es la ciudad de Zaragoza, sin perjuicio de que se puedan celebrar reuniones en otros lugares dentro del territorio de la Comunidad Autónoma",
+    "Por ley de Cortes de Aragón no podrá modificarse la sede del Gobierno de Aragón"
+   ],
+   1,
+   "La correcta es «La sede del Gobierno de Aragón es la ciudad de Zaragoza, sin perjuicio de que se puedan celebrar reuniones en otros lugares dentro del territorio de la Comunidad Autónoma». Las otras dos son falsas: lo correcto es «El Gobierno de Aragón estará constituido por el Presidente, los Vicepresidentes, en su caso, y los Consejeros, a los que el Presidente nombra y separa libremente» (la otra frase cambia «El ",
+   "eaar 54",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La organización territorial local de Aragón se estructura en Municipios, comarcas y provincias; por ley de las Cortes no podrán regularse las áreas metropolitanas y las entidades de ámbito inferior al municipio",
+    "La organización territorial local de Aragón se estructura en Municipios, comarcas y provincias; por ley de las Cortes podrán regularse las áreas metropolitanas y las entidades de ámbito inferior al municipio",
+    "La organización territorial local de Aragón se estructura en Municipios y provincias; por ley de las Cortes podrán regularse las comarcas y las entidades inferiores al municipio"
+   ],
+   1,
+   "Art. 81 · Estatuto de Autonomía de Aragón: La organización territorial local de Aragón se estructura en Municipios, comarcas y provincias; por ley de las Cortes podrán regularse las áreas metropolitanas y las entidades de ámbito inferior al municipio.",
+   "eaar 81",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-102",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Pleno y los concejales",
+    "El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Alcalde y los concejales",
+    "El gobierno y la administración municipales corresponde al Ayuntamiento, formado por la Junta de Gobierno Local y los concejales"
+   ],
+   1,
+   "Art. 82 · Estatuto de Autonomía de Aragón: El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Alcalde y los concejales. Las otras dos frases cambian «el Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "eaar 82",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Presidente puede acordar la disolución de las Cortes de Aragón previa deliberación del Gobierno y con autorización de las Cortes Generales, bajo su exclusiva responsabilidad",
+    "El Presidente puede acordar la disolución de las Cortes de Aragón previo informe del Justicia de Aragón y bajo la responsabilidad conjunta de la Mesa de las Cortes",
+    "El Presidente puede acordar la disolución de las Cortes de Aragón previa deliberación del Gobierno y bajo su exclusiva responsabilidad"
+   ],
+   2,
+   "Art. 52.1 · Estatuto de Autonomía de Aragón: El Presidente puede acordar la disolución de las Cortes de Aragón previa deliberación del Gobierno y bajo su exclusiva responsabilidad.",
+   "eaar 52.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-063",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "El Gobierno de Aragón no podrán ser disueltas cuando esté en trámite una moción de censura",
+    "Si el Gobierno de Aragón aprueban una moción de censura, cesarán el Presidente y, con él, su Gobierno",
+    "El Gobierno de Aragón estará constituido por el Presidente, los Vicepresidentes, en su caso, y los Consejeros, a los que el Presidente nombra y separa libremente"
+   ],
+   2,
+   "La correcta es «El Gobierno de Aragón estará constituido por el Presidente, los Vicepresidentes, en su caso, y los Consejeros, a los que el Presidente nombra y separa libremente». Las otras dos son falsas: lo correcto es «Las Cortes de Aragón no podrán ser disueltas cuando esté en trámite una moción de censura» (la otra frase cambia «Las Cortes de Aragón») y «Si las Cortes de Aragón aprueban una moción de censura, ce",
+   "eaar 53",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Las Cortes de Aragón funcionarán en Pleno y en Comisiones",
+    "Las Cortes de Aragón funcionarán en Pleno, Comisiones y Diputación General",
+    "Las Cortes de Aragón funcionarán en solo en Pleno"
+   ],
+   0,
+   "Art. 39.2 · Estatuto de Autonomía de Aragón: Las Cortes de Aragón funcionarán en Pleno y en Comisiones.",
+   "eaar 39.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-045",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Presidente del Gobierno",
+    "El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Presidente del Congreso",
+    "El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Rey"
+   ],
+   2,
+   "Art. 46 · Estatuto de Autonomía de Aragón: El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Rey. Las otras dos frases cambian «el Rey» por «el Presidente del Gobierno» y «el Presidente del Congreso».",
+   "eaar 46",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Por ley de Cortes de Aragón podrá modificarse la sede del Gobierno de Aragón",
+    "El Consejo Consultivo de Aragón es el supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma",
+    "El Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Supremo en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional"
+   ],
+   2,
+   "La incorrecta es «El Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Supremo en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional»: cambia «el Tribunal Constitucional». Lo correcto: «El Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de co",
+   "eaar 57",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Una ley del Justicia de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho, sin perjuicio de las competencias del Estado",
+    "Las normas y disposiciones de la Comunidad Autónoma de Aragón tendrán eficacia territorial, sin perjuicio de las excepciones que puedan establecerse en cada materia y de las situaciones que hayan de regirse por el estatuto personal u otras reglas de extraterritorialidad",
+    "Los poderes públicos aragoneses están vinculados por estos derechos y libertades y deben velar por su protección y respeto, así como promover su pleno ejercicio"
+   ],
+   0,
+   "La incorrecta es «Una ley del Justicia de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho, sin perjuicio de las competencias del Estado»: cambia «las Cortes de Aragón». Lo correcto: «Una ley de las Cortes de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho, sin perjuicio de las competencias del Estado».",
+   "eaar 8",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Derecho foral de Aragón tendrá eficacia personal y será de aplicación a todos los que ostenten la vecindad civil aragonesa, independientemente del lugar de su residencia",
+    "Las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán funciones legislativas delegadas y de tutela sobre municipios y comarcas, atendiendo a criterios de solidaridad",
+    "Las comarcas son Entidades territoriales constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes, fundamentales para la vertebración territorial aragonesa"
+   ],
+   1,
+   "La incorrecta es «las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán funciones legislativas delegadas y de tutela sobre municipios y comarcas, atendiendo a criterios de solidaridad». Lo correcto: las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios",
+   "eaar 84",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Estatuto, las atribuciones y las incompatibilidades de los miembros del Gobierno de Aragón se determinarán por una ley de Cortes de Aragón",
+    "La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de poder celebrar sesiones en otros lugares dentro de Aragón",
+    "Los poderes de la Comunidad Autónoma de Aragón emanan del pueblo aragonés y del Estatuto"
+   ],
+   2,
+   "La incorrecta es «los poderes de la Comunidad Autónoma de Aragón emanan del pueblo aragonés y del Estatuto». Lo correcto: los poderes de la Comunidad Autónoma de Aragón emanan del pueblo aragonés y de la Constitución.",
+   "eaar 1.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las provincias, como entidades locales supramunicipales, con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo en todo caso a criterios de solidaridad y equilibrio territorial",
+    "El Consejo local de Aragón es el órgano de colaboración y coordinación entre el Gobierno de Aragón y las asociaciones representativas de las entidades locales aragonesas",
+    "El presente Estatuto no garantiza a los municipios la autonomía para el ejercicio de sus competencias propias y la defensa de los intereses de la colectividad que representan"
+   ],
+   2,
+   "La incorrecta es «El presente Estatuto no garantiza a los municipios la autonomía para el ejercicio de sus competencias propias y la defensa de los intereses de la colectividad que representan»: niega lo que dice la ley. Lo correcto: «El presente Estatuto garantiza a los municipios la autonomía para el ejercicio de sus competencias propias y la defensa de los intereses de la colectividad que representan».",
+   "eaar 82",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La Comunidad Autónoma podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, cualquier medio de comunicación social para el cumplimiento de sus fines, respetando la autonomía local",
+    "La Comunidad Autónoma podrá crear una Policía autonómica en el marco del presente Estatuto y de la ley orgánica correspondiente",
+    "El Gobierno de España no deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas"
+   ],
+   2,
+   "La incorrecta es «El Gobierno de España no deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas»: cambia «deberá». Lo correcto: «El Gobierno de España deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas».",
+   "eaar 72",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Presidente, previa deliberación del Gobierno de Aragón y bajo su exclusiva responsabilidad, podrá acordar la disolución del Gobierno de Aragón con anticipación al término natural de la legislatura",
+    "Las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno de Aragón, mediante la adopción, por mayoría absoluta, de una moción de censura",
+    "Por ley de Cortes de Aragón podrá modificarse la sede del Gobierno de Aragón"
+   ],
+   0,
+   "La incorrecta es «El Presidente, previa deliberación del Gobierno de Aragón y bajo su exclusiva responsabilidad, podrá acordar la disolución del Gobierno de Aragón con anticipación al término natural de la legislatura»: cambia «las Cortes de Aragón». Lo correcto: «El Presidente, previa deliberación del Gobierno de Aragón y bajo su exclusiva responsabilidad, podrá acordar la disolución de las Cortes de Aragón con an",
+   "eaar 52",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La creación, organización y competencias de las áreas metropolitanas podrá regularse por ley de las Cortes de Aragón",
+    "El Presidente de Aragón responde políticamente ante las Cortes de Aragón",
+    "El supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma es las Cortes de Aragón"
+   ],
+   2,
+   "La incorrecta es «el supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma es las Cortes de Aragón». Lo correcto: el supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma es el Consejo Consultivo de Aragón.",
+   "eaar 58",
+   "Proposición negativa",
+   "h-instituciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las funciones del Fiscal Jefe del Tribunal Superior de Justicia de Aragón son las que establece el Estatuto orgánico del Ministerio Fiscal",
+    "El Presidente del Tribunal Superior de Justicia de Aragón podrá presentar ante el Gobierno de Aragón la memoria anual",
+    "La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias"
+   ],
+   1,
+   "La incorrecta es «El Presidente del Tribunal Superior de Justicia de Aragón podrá presentar ante el Gobierno de Aragón la memoria anual»: cambia «las Cortes de Aragón». Lo correcto: «El Presidente del Tribunal Superior de Justicia de Aragón podrá presentar ante las Cortes de Aragón la memoria anual».",
+   "eaar 63",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Vicepresidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+    "Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», en un plazo no superior a quince días desde su aprobación",
+    "La confianza se entenderá otorgada cuando el Presidente obtenga la mayoría simple de los votos emitidos"
+   ],
+   0,
+   "La incorrecta es «el Vicepresidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna»: cambia «El Presidente». Lo correcto: «El Presidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra fun",
+   "eaar 47",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La Comunidad Autónoma no podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, cualquier medio de comunicación social para el cumplimiento de sus fines, respetando la autonomía local",
+    "La Comunidad Autónoma podrá crear una Policía autonómica en el marco del presente Estatuto y de la ley orgánica correspondiente",
+    "El Gobierno de España deberá propiciar de forma efectiva el acuerdo entre todas las Comunidades Autónomas que puedan resultar afectadas"
+   ],
+   0,
+   "La incorrecta es «La Comunidad Autónoma no podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, cualquier medio de comunicación social para el cumplimiento de sus fines, respetando la autonomía local»: cambia «podrá». Lo correcto: «La Comunidad Autónoma podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, cualquier medio de comunicación social para el cump",
+   "eaar 74",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Consejo debe ser oído en las iniciativas legislativas y en la tramitación de planes y normas reglamentarias que afecten de forma específica a los gobiernos locales",
+    "Las comarcas no son entidades territoriales, constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes, fundamentales para la vertebración territorial aragonesa",
+    "El presente Estatuto garantiza a los municipios la autonomía para el ejercicio de sus competencias propias y la defensa de los intereses de la colectividad que representan"
+   ],
+   1,
+   "La incorrecta es «Las comarcas no son entidades territoriales, constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes, fundamentales para la vertebración territorial aragonesa»: niega lo que dice la ley. Lo correcto: «Las comarcas son entidades territoriales, constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes",
+   "eaar 83",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno de Aragón, mediante la adopción, por mayoría absoluta, de una moción de censura",
+    "Si la moción de censura no es aprobada por las Cortes, sus signatarios no podrán suscribir otra hasta transcurrido un año desde la fecha de la votación",
+    "El Justicia de Aragón no podrán ser disueltas cuando esté en trámite una moción de censura"
+   ],
+   2,
+   "La incorrecta es «el Justicia de Aragón no podrán ser disueltas cuando esté en trámite una moción de censura»: cambia «Las Cortes de Aragón». Lo correcto: «Las Cortes de Aragón no podrán ser disueltas cuando esté en trámite una moción de censura».",
+   "eaar 52",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Presidente, previa deliberación del Gobierno de Aragón y bajo su exclusiva responsabilidad, podrá acordar la disolución de las Cortes de Aragón con anticipación al término natural de la legislatura",
+    "El candidato a la Presidencia se entenderá investido del cargo y el Secretario de las Cortes lo comunicará al Rey para su nombramiento",
+    "El Gobierno de Aragón responde políticamente ante las Cortes de Aragón de forma solidaria, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión"
+   ],
+   1,
+   "La incorrecta es «El candidato a la Presidencia se entenderá investido del cargo y el Secretario de las Cortes lo comunicará al Rey para su nombramiento»: cambia «el Presidente». Lo correcto: «El candidato a la Presidencia se entenderá investido del cargo y el Presidente de las Cortes lo comunicará al Rey para su nombramiento».",
+   "eaar 50",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Durante su mandato no podrán ser detenidos ni retenidos sino en caso de flagrante delito",
+    "Los Diputados y Diputadas del Gobierno de Aragón se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara",
+    "Los Diputados y Diputadas a Cortes de Aragón no estarán vinculados por mandato imperativo y serán inviolables, aun después de haber cesado en su mandato, por los votos y opiniones que emitan en el ejercicio de su cargo"
+   ],
+   1,
+   "La incorrecta es «Los Diputados y Diputadas del Gobierno de Aragón se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara»: cambia «las Cortes de Aragón». Lo correcto: «Los Diputados y Diputadas de las Cortes de Aragón se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento d",
+   "eaar 39",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los notarios y registradores de la propiedad y mercantiles serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado, siendo mérito preferente el conocimiento del Derecho propio de Aragón",
+    "La Administración aragonesa actúa solo por delegación del Estado, aunque con carácter de Administración ordinaria en su territorio",
+    "Corresponde a las Cortes de Aragón la designación de los Senadores a que se refiere el artículo 69.5 de la Constitución en proporción al número de diputados de cada grupo parlamentario, en los términos que establezca una ley de Cortes de Aragón"
+   ],
+   1,
+   "La incorrecta es «la Administración aragonesa actúa solo por delegación del Estado, aunque con carácter de Administración ordinaria en su territorio». Lo correcto: la Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias.",
+   "eaar 61",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Secretario de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+    "La moción de censura deberá ser propuesta, al menos, por un quince por ciento de los Diputados y Diputadas, y deberá incluir un candidato a la Presidencia del Gobierno de Aragón",
+    "La confianza se entenderá otorgada cuando el Presidente obtenga la mayoría simple de los votos emitidos"
+   ],
+   0,
+   "La incorrecta es «el Secretario de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna»: cambia «El Presidente». Lo correcto: «El Presidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función",
+   "eaar 47",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Pleno y los concejales",
+    "Los municipios son las entidades territoriales básicas de Aragón, dotadas de personalidad jurídica y autonomía para la gestión de sus intereses respectivos, y medio esencial de participación de la comunidad vecinal en los asuntos públicos",
+    "Las comarcas tienen a su cargo la prestación de funciones y servicios y la gestión de actividades de ámbito supramunicipal, representando los intereses de la población y territorio comarcales en defensa de una mayor solidaridad y equilibrio territorial"
+   ],
+   0,
+   "La incorrecta es «El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Pleno y los concejales»: cambia «el Alcalde». Lo correcto: «El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Alcalde y los concejales».",
+   "eaar 82",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Secretario ostenta la suprema representación de Aragón y la ordinaria del Estado en este territorio",
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones reguladas en el título II, el régimen electoral, los tributos y el Presupuesto de la Comunidad Autónoma",
+    "El Presidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna"
+   ],
+   0,
+   "La incorrecta es «el Secretario ostenta la suprema representación de Aragón y la ordinaria del Estado en este territorio»: cambia «El Presidente». Lo correcto: «El Presidente ostenta la suprema representación de Aragón y la ordinaria del Estado en este territorio».",
+   "eaar 46",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional en que culmina la organización judicial en Aragón, sin perjuicio de las competencias del Tribunal Supremo",
+    "Los períodos ordinarios de sesiones de las Cortes de Aragón tendrán lugar entre octubre y diciembre, el primero, y entre marzo y junio, el segundo",
+    "Las comarcas son Entidades territoriales constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes, fundamentales para la vertebración territorial aragonesa"
+   ],
+   1,
+   "La incorrecta es «los períodos ordinarios de sesiones de las Cortes de Aragón tendrán lugar entre octubre y diciembre, el primero, y entre marzo y junio, el segundo». Lo correcto: los períodos ordinarios de sesiones de las Cortes de Aragón tendrán lugar entre septiembre y diciembre, el primero, y entre febrero y junio, el segundo.",
+   "eaar 40.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Gobierno de Aragón tendrán carácter unicameral y estarán constituidas por Diputados y Diputadas elegidos mediante sufragio universal, igual, libre, directo y secreto",
+    "Durante su mandato no podrán ser detenidos ni retenidos sino en caso de flagrante delito",
+    "Las Comisiones serán permanentes y, en su caso, especiales o de investigación"
+   ],
+   0,
+   "La incorrecta es «el Gobierno de Aragón tendrán carácter unicameral y estarán constituidas por Diputados y Diputadas elegidos mediante sufragio universal, igual, libre, directo y secreto»: cambia «Las Cortes de Aragón». Lo correcto: «Las Cortes de Aragón tendrán carácter unicameral y estarán constituidas por Diputados y Diputadas elegidos mediante sufragio universal, igual, libre, directo y secreto».",
+   "eaar 37",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Corresponde a la Comunidad Autónoma la designación de los jueces de paz únicamente",
+    "Las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo a criterios de solidaridad y equilibrio territorial",
+    "Son competencias compartidas de la Comunidad Autónoma de Aragón, entre otras seguridad Social (salvo su régimen económico), régimen minero, protección del medio ambiente, energía y protección de datos"
+   ],
+   0,
+   "La incorrecta es «corresponde a la Comunidad Autónoma la designación de los jueces de paz únicamente». Lo correcto: corresponde a la Comunidad Autónoma la ordenación y organización de los servicios de justicia gratuita y orientación jurídica gratuita.",
+   "eaar 67.4",
+   "Proposición negativa",
+   "h-admin-justicia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias",
+    "El Consejo de Justicia de Aragón tendrá la consideración, naturaleza, competencias y facultades que le atribuya la Ley Orgánica del Poder Judicial",
+    "El Secretario del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón"
+   ],
+   2,
+   "La incorrecta es «el Secretario del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón»: cambia «El Presidente». Lo correcto: «El Presidente del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón».",
+   "eaar 63",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las Cortes de Aragón estarán integradas por un número de escaños comprendido entre sesenta y cinco y ochenta",
+    "El Presidente de Aragón es elegido por sufragio universal directo y nombrado por el Rey; ostenta la suprema representación de Aragón",
+    "El Tribunal Superior de Justicia de Aragón conocerá en todo caso de los recursos de casación fundados en la infracción del Derecho propio de Aragón"
+   ],
+   1,
+   "La incorrecta es «el Presidente de Aragón es elegido por sufragio universal directo y nombrado por el Rey; ostenta la suprema representación de Aragón». Lo correcto: el Presidente de Aragón es elegido por las Cortes de Aragón de entre sus Diputados y nombrado por el Rey; ostenta la suprema representación de Aragón y la ordinaria del Estado en este territorio.",
+   "eaar 46",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Sus órganos e instituciones deberán establecerse en diversas localidades de Aragón",
+    "El Presidente del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón",
+    "El Presidente del Tribunal Superior de Justicia de Aragón podrá presentar ante las Cortes de Aragón la memoria anual"
+   ],
+   0,
+   "La incorrecta es «Sus órganos e instituciones deberán establecerse en diversas localidades de Aragón»: cambia «podrán». Lo correcto: «Sus órganos e instituciones podrán establecerse en diversas localidades de Aragón».",
+   "eaar 62",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las comarcas son entidades territoriales, constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes, fundamentales para la vertebración territorial aragonesa",
+    "El gobierno y la administración municipales corresponde al Ayuntamiento, formado por la Junta de Gobierno Local y los concejales",
+    "Las comarcas tienen a su cargo la prestación de funciones y servicios y la gestión de actividades de ámbito supramunicipal, representando los intereses de la población y territorio comarcales en defensa de una mayor solidaridad y equilibrio territorial"
+   ],
+   1,
+   "La incorrecta es «El gobierno y la administración municipales corresponde al Ayuntamiento, formado por la Junta de Gobierno Local y los concejales»: cambia «el Alcalde». Lo correcto: «El gobierno y la administración municipales corresponde al Ayuntamiento, formado por el Alcalde y los concejales».",
+   "eaar 82",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las provincias, como entidades locales supramunicipales, con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo en todo caso a criterios de solidaridad y equilibrio territorial",
+    "Aprobada la reforma por las Cortes de Aragón, el texto será presentado en el Congreso de los Diputados",
+    "El Consejo local de Aragón es el órgano de colaboración y coordinación entre las Cortes de Aragón y las asociaciones representativas de las entidades locales aragonesas"
+   ],
+   2,
+   "La incorrecta es «El Consejo local de Aragón es el órgano de colaboración y coordinación entre las Cortes de Aragón y las asociaciones representativas de las entidades locales aragonesas»: cambia «el Gobierno de Aragón». Lo correcto: «El Consejo local de Aragón es el órgano de colaboración y coordinación entre el Gobierno de Aragón y las asociaciones representativas de las entidades locales aragonesas».",
+   "eaar 86",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», en un plazo no superior a diez días desde su aprobación",
+    "La delegación debe ser expresa, mediante ley, para una materia concreta y con la determinación de un plazo cierto para ejercerla",
+    "No puede hacerse uso de la delegación cuando el Gobierno se encuentra en funciones por disolución de las Cortes"
+   ],
+   0,
+   "La incorrecta es «Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», en un plazo no superior a diez días desde su aprobación»: cambia «quince días». Lo correcto: «Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial d",
+   "eaar 45",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Zaragoza, como capital de Aragón, dispondrá de un régimen especial establecido por ley de Cortes de Aragón",
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos y libertades de los aragoneses, las medidas urgentes en vivienda y el Presupuesto",
+    "La Comunidad Autónoma ostenta la competencia compartida en medios de comunicación social y servicios de contenido audiovisual; podrá crear su propia televisión, radio y prensa"
+   ],
+   1,
+   "La incorrecta es «no pueden ser objeto de Decreto-ley el desarrollo de los derechos y libertades de los aragoneses, las medidas urgentes en vivienda y el Presupuesto». Lo correcto: no pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones del título II, el régimen electoral, los tributos y el Presupuesto.",
+   "eaar 44.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», en un plazo no superior a quince días desde su aprobación",
+    "El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Presidente del Gobierno",
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones reguladas en el título II, el régimen electoral, los tributos y el Presupuesto de la Comunidad Autónoma"
+   ],
+   1,
+   "La incorrecta es «El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Presidente del Gobierno»: cambia «el Rey». Lo correcto: «El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Rey».",
+   "eaar 46",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La confianza se entenderá otorgada cuando el Vicepresidente obtenga la mayoría simple de los votos emitidos",
+    "El candidato a la Presidencia se entenderá investido del cargo y el Presidente de las Cortes lo comunicará al Rey para su nombramiento",
+    "Si las Cortes de Aragón aprueban una moción de censura, cesarán el Presidente y, con él, su Gobierno"
+   ],
+   0,
+   "La incorrecta es «La confianza se entenderá otorgada cuando el Vicepresidente obtenga la mayoría simple de los votos emitidos»: cambia «el Presidente». Lo correcto: «La confianza se entenderá otorgada cuando el Presidente obtenga la mayoría simple de los votos emitidos».",
+   "eaar 49",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Presidente del Congreso",
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones reguladas en el título II, el régimen electoral, los tributos y el Presupuesto de la Comunidad Autónoma",
+    "La delegación debe ser expresa, mediante ley, para una materia concreta y con la determinación de un plazo cierto para ejercerla"
+   ],
+   0,
+   "La incorrecta es «El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Presidente del Congreso»: cambia «el Rey». Lo correcto: «El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Rey».",
+   "eaar 46",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las comarcas tienen a su cargo la prestación de funciones y servicios y la gestión de actividades de ámbito supramunicipal, representando los intereses de la población y territorio comarcales en defensa de una mayor solidaridad y equilibrio territorial",
+    "Los municipios no son las entidades territoriales básicas de Aragón, dotadas de personalidad jurídica y autonomía para la gestión de sus intereses respectivos, y medio esencial de participación de la comunidad vecinal en los asuntos públicos",
+    "Por ley de las Cortes de Aragón podrá regularse la creación, organización y competencias de las áreas metropolitanas"
+   ],
+   1,
+   "La incorrecta es «Los municipios no son las entidades territoriales básicas de Aragón, dotadas de personalidad jurídica y autonomía para la gestión de sus intereses respectivos, y medio esencial de participación de la comunidad vecinal en los asuntos públicos»: niega lo que dice la ley. Lo correcto: «Los municipios son las entidades territoriales básicas de Aragón, dotadas de personalidad jurídica y autonomía para la",
+   "eaar 82",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los municipios son las entidades territoriales básicas de Aragón, dotadas de personalidad jurídica y autonomía para la gestión de sus intereses respectivos, y medio esencial de participación de la comunidad vecinal en los asuntos públicos",
+    "La Comunidad Autónoma podrá, de acuerdo con el Estado, participar en la gestión de las cuentas de depósitos y consignaciones judiciales y de sus rendimientos",
+    "Por ley del Gobierno de Aragón podrá regularse la creación, organización y competencias de las áreas metropolitanas"
+   ],
+   2,
+   "La incorrecta es «Por ley del Gobierno de Aragón podrá regularse la creación, organización y competencias de las áreas metropolitanas»: cambia «las Cortes de Aragón». Lo correcto: «Por ley de las Cortes de Aragón podrá regularse la creación, organización y competencias de las áreas metropolitanas».",
+   "eaar 81",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La organización territorial local de Aragón se estructura en Municipios, comarcas, provincias y áreas metropolitanas, que serán obligatorias en las capitales de provincia",
+    "Los poderes públicos aragoneses deben fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior; una ley de las Cortes de Aragón regulará el alcance, contenido y forma de ejercicio de su derecho a participar, colaborar y compartir la vida social y cultural del pueblo aragonés",
+    "Si la moción de censura no es aprobada, sus signatarios no podrán suscribir otra hasta transcurrido un año desde la fecha de la votación"
+   ],
+   0,
+   "La incorrecta es «la organización territorial local de Aragón se estructura en Municipios, comarcas, provincias y áreas metropolitanas, que serán obligatorias en las capitales de provincia». Lo correcto: la organización territorial local de Aragón se estructura en Municipios, comarcas y provincias; por ley de las Cortes podrán regularse las áreas metropolitanas y las entidades de ámbito inferior al municipio.",
+   "eaar 81",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Cada provincia estará representada, en todo caso, por un mínimo de 14 escaños",
+    "La sede permanente del Gobierno de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de que se puedan celebrar sesiones en otros lugares dentro del territorio de Aragón",
+    "Las Cortes de Aragón, según se establezca en la ley electoral, estarán integradas por un número de escaños comprendido entre sesenta y cinco y ochenta"
+   ],
+   1,
+   "La incorrecta es «La sede permanente del Gobierno de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de que se puedan celebrar sesiones en otros lugares dentro del territorio de Aragón»: cambia «las Cortes de Aragón». Lo correcto: «La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de que se puedan celebrar sesiones en otro",
+   "eaar 35",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las Cortes de Aragón, según se establezca en la ley electoral, estarán integradas por un número de escaños comprendido entre sesenta y cinco y ochenta",
+    "Las Cortes de Aragón tendrán carácter unicameral y estarán constituidas por Diputados y Diputadas elegidos mediante sufragio universal, igual, libre, directo y secreto",
+    "El reglamento se aprueba por mayoría de tres quintos de sus miembros"
+   ],
+   2,
+   "La incorrecta es «El reglamento se aprueba por mayoría de tres quintos de sus miembros»: cambia «mayoría absoluta». Lo correcto: «El reglamento se aprueba por mayoría absoluta de sus miembros».",
+   "eaar 34",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las Cortes de Aragón elegirán, de entre sus miembros un Presidente, una Mesa y una Diputación Permanente",
+    "En el ámbito de las competencias ejecutivas, la Comunidad Autónoma podrá fijar la legislación básica y dictar reglamentos para la organización de los servicios necesarios",
+    "El Justicia de Aragón tiene como misiones específicas la protección y defensa de los derechos individuales y colectivos del Estatuto, la tutela del ordenamiento jurídico aragonés y la defensa del Estatuto"
+   ],
+   1,
+   "La incorrecta es «en el ámbito de las competencias ejecutivas, la Comunidad Autónoma podrá fijar la legislación básica y dictar reglamentos para la organización de los servicios necesarios». Lo correcto: en el ámbito de las competencias ejecutivas, la Comunidad Autónoma podrá dictar reglamentos para la regulación de su propia competencia funcional y la organización de los servicios necesarios, y ejercer las funciones",
+   "eaar 77",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Si la moción de censura no es aprobada por las Cortes, sus signatarios no podrán suscribir otra hasta transcurrido tres años desde la fecha de la votación",
+    "El Gobierno de Aragón estará constituido por el Presidente, los Vicepresidentes, en su caso, y los Consejeros, a los que el Presidente nombra y separa libremente",
+    "Las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno de Aragón, mediante la adopción, por mayoría absoluta, de una moción de censura"
+   ],
+   0,
+   "La incorrecta es «Si la moción de censura no es aprobada por las Cortes, sus signatarios no podrán suscribir otra hasta transcurrido tres años desde la fecha de la votación»: cambia «un año». Lo correcto: «Si la moción de censura no es aprobada por las Cortes, sus signatarios no podrán suscribir otra hasta transcurrido un año desde la fecha de la votación».",
+   "eaar 50",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Si las Cortes aprueban una moción de censura cesan el Presidente y su Gobierno, y el candidato se entiende investido, comunicándolo el Presidente de las Cortes al Rey para su nombramiento",
+    "Las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno mediante una moción de censura adoptada por mayoría absoluta",
+    "El Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional que controla la legalidad de la actuación de la Administración autonómica"
+   ],
+   2,
+   "La incorrecta es «el Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional que controla la legalidad de la actuación de la Administración autonómica». Lo correcto: el Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional en que culmina la organización judicial en Aragón, sin perjuicio de las competencias del Tribunal Supremo.",
+   "eaar 63.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "En las competencias compartidas, Aragón ejerce solo la potestad reglamentaria",
+    "Los requisitos para la aplicación del régimen de Concejo abierto se establecerán por ley de la Comunidad Autónoma",
+    "Corresponde a las Cortes de Aragón la designación de los Senadores a que se refiere el artículo 69.5 de la Constitución en proporción al número de diputados de cada grupo parlamentario, en los términos que establezca una ley de Cortes de Aragón"
+   ],
+   0,
+   "La incorrecta es «en las competencias compartidas, Aragón ejerce solo la potestad reglamentaria». Lo correcto: en las competencias compartidas, Aragón ejerce el desarrollo legislativo y la ejecución de la legislación básica del Estado.",
+   "eaar 75",
+   "Proposición negativa",
+   "h-competencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La moción de censura no deberá ser propuesta, al menos, por un quince por ciento de los Diputados y Diputadas, y deberá incluir un candidato a la Presidencia del Gobierno de Aragón",
+    "El Presidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+    "El Gobierno de Aragón responde políticamente ante las Cortes de Aragón de forma solidaria, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión"
+   ],
+   0,
+   "La incorrecta es «La moción de censura no deberá ser propuesta, al menos, por un quince por ciento de los Diputados y Diputadas, y deberá incluir un candidato a la Presidencia del Gobierno de Aragón»: niega lo que dice la ley. Lo correcto: «La moción de censura deberá ser propuesta, al menos, por un quince por ciento de los Diputados y Diputadas, y deberá incluir un candidato a la Presidencia del Gobierno de Aragón».",
+   "eaar 50",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Gobierno de Aragón podrá formalizar acuerdos de cooperación con instituciones de los territorios con comunidades aragonesas del exterior y solicitar del Estado la celebración de los correspondientes tratados o convenios internacionales",
+    "Durante su mandato, los Diputados a Cortes de Aragón no podrán ser detenidos ni retenidos sino en caso de flagrante delito",
+    "Las Cortes de Aragón serán elegidas por un período de cinco años"
+   ],
+   2,
+   "La incorrecta es «las Cortes de Aragón serán elegidas por un período de cinco años». Lo correcto: las Cortes de Aragón serán elegidas por un período de cuatro años.",
+   "eaar 37",
+   "Proposición negativa",
+   "h-instituciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Consejo local de Aragón debe ser oído solo en las normas con rango de ley",
+    "A efectos de su vigencia de las leyes aragonesas regirá la fecha de publicación en el «Boletín Oficial de Aragón»",
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones del título II, el régimen electoral, los tributos y el Presupuesto"
+   ],
+   0,
+   "La incorrecta es «el Consejo local de Aragón debe ser oído solo en las normas con rango de ley». Lo correcto: el Consejo local de Aragón debe ser oído en las iniciativas legislativas y en la tramitación de planes y normas reglamentarias que afecten de forma específica a los gobiernos locales.",
+   "eaar 86",
+   "Proposición negativa",
+   "h-singularizadas",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia ejecutiva",
+    "Corresponde a los órganos jurisdiccionales de la Comunidad Autónoma el conocimiento de los recursos contra la calificación de documentos que deban acceder a un Registro público de Aragón y estén fundados en el Derecho foral aragonés",
+    "La Comunidad Autónoma ostenta la competencia compartida en medios de comunicación social y servicios de contenido audiovisual; podrá crear su propia televisión, radio y prensa"
+   ],
+   0,
+   "La incorrecta es «la competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia ejecutiva». Lo correcto: la competencia en medios de comunicación social y servicios de contenido audiovisual corresponde a la Comunidad Autónoma como competencia compartida.",
+   "eaar 74.1",
+   "Proposición negativa",
+   "h-comp-materias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados, y nombrado por el Rey",
+    "Gozan de la condición política de aragoneses los ciudadanos españoles que tengan vecindad administrativa en cualquiera de los municipios de Aragón o cumplan los requisitos que establezca la legislación aplicable",
+    "La Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme al reglamento de las Cortes"
+   ],
+   2,
+   "La incorrecta es «la Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme al reglamento de las Cortes». Lo correcto: la Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a la ley.",
+   "eaar 61.1",
+   "Proposición negativa",
+   "h-admin-justicia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las comarcas son entidades territoriales, constituidas por la agrupación de municipios limítrofes, vinculados por características e intereses comunes, fundamentales para la vertebración territorial aragonesa",
+    "El presente Estatuto garantiza a los municipios la autonomía para el ejercicio de sus competencias propias y la defensa de los intereses de la colectividad que representan",
+    "Las comarcas no tienen a su cargo la prestación de funciones y servicios y la gestión de actividades de ámbito supramunicipal, representando los intereses de la población y territorio comarcales en defensa de una mayor solidaridad y equilibrio territorial"
+   ],
+   2,
+   "La incorrecta es «Las comarcas no tienen a su cargo la prestación de funciones y servicios y la gestión de actividades de ámbito supramunicipal, representando los intereses de la población y territorio comarcales en defensa de una mayor solidaridad y equilibrio territorial»: niega lo que dice la ley. Lo correcto: «Las comarcas tienen a su cargo la prestación de funciones y servicios y la gestión de actividades de ámb",
+   "eaar 83",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La moción de censura deberá ser propuesta, al menos, por un quince por ciento de los Diputados e incluir un candidato a la Presidencia",
+    "El Presidente puede acordar la disolución de las Cortes de Aragón previa deliberación del Gobierno y con autorización de las Cortes Generales, bajo su exclusiva responsabilidad",
+    "La actividad de las entidades territoriales aragonesas se desarrollará bajo los principios de subsidiariedad, proporcionalidad y diferenciación"
+   ],
+   1,
+   "La incorrecta es «el Presidente puede acordar la disolución de las Cortes de Aragón previa deliberación del Gobierno y con autorización de las Cortes Generales, bajo su exclusiva responsabilidad». Lo correcto: el Presidente puede acordar la disolución de las Cortes de Aragón previa deliberación del Gobierno y bajo su exclusiva responsabilidad.",
+   "eaar 52.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las lenguas y modalidades lingüísticas propias de Aragón constituyen una de las manifestaciones más destacadas del patrimonio histórico y cultural aragonés y un valor social de respeto, convivencia y entendimiento",
+    "Los poderes públicos aragoneses están vinculados por estos derechos y libertades y deben velar por su protección y respeto, así como promover su pleno ejercicio",
+    "Una ley del Gobierno de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho, sin perjuicio de las competencias del Estado"
+   ],
+   2,
+   "La incorrecta es «Una ley del Gobierno de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho, sin perjuicio de las competencias del Estado»: cambia «las Cortes de Aragón». Lo correcto: «Una ley de las Cortes de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho, sin perjuicio de las competencias del Estado».",
+   "eaar 8",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La delegación legislativa debe ser expresa, mediante ley, para una materia concreta y con determinación de un plazo cierto",
+    "Aragón, nacionalidad histórica, ejerce su autogobierno al margen de la Constitución, en virtud de los derechos históricos del Reino de Aragón anteriores a ella",
+    "El nombramiento de Magistrados, Jueces y Secretarios en Aragón se realizará en la forma prevista por la Ley Orgánica del Poder Judicial, siendo mérito preferente el conocimiento acreditado del Derecho propio de Aragón"
+   ],
+   1,
+   "La incorrecta es «aragón, nacionalidad histórica, ejerce su autogobierno al margen de la Constitución, en virtud de los derechos históricos del Reino de Aragón anteriores a ella». Lo correcto: aragón, nacionalidad histórica, ejerce su autogobierno de acuerdo con el Estatuto, en el ejercicio del derecho a la autonomía que la Constitución reconoce y garantiza a toda nacionalidad.",
+   "eaar 1.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Gobierno de Aragón ejerce la función ejecutiva y la potestad reglamentaria, y está constituido por el Presidente, los Vicepresidentes en su caso y los Consejeros, a los que el Presidente nombra y separa libremente",
+    "El Gobierno de Aragón no ejerce la función ejecutiva y la potestad reglamentaria, y está constituido por el Presidente, los Vicepresidentes en su caso y los Consejeros, a los que el Presidente nombra y separa libremente",
+    "El Gobierno de Aragón ejerce la función ejecutiva y la potestad reglamentaria, y está constituido por el Presidente y los Consejeros que nombran las Cortes"
+   ],
+   0,
+   "Art. 53 · Estatuto de Autonomía de Aragón: El Gobierno de Aragón ejerce la función ejecutiva y la potestad reglamentaria, y está constituido por el Presidente, los Vicepresidentes en su caso y los Consejeros, a los que el Presidente nombra y separa libremente.",
+   "eaar 53",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-065",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones reguladas en el título II, el régimen electoral, los tributos y el Presupuesto de la Comunidad Autónoma",
+    "Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», en un plazo no superior a diez días desde su aprobación",
+    "El Secretario ostenta la suprema representación de Aragón y la ordinaria del Estado en este territorio"
+   ],
+   0,
+   "La correcta es «No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones reguladas en el título II, el régimen electoral, los tributos y el Presupuesto de la Comunidad Autónoma». Las otras dos son falsas: lo correcto es «Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficia",
+   "eaar 44",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Edificio Pignatelli, sin perjuicio de celebrar sesiones en otros lugares de Aragón",
+    "La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de poder celebrar sesiones en otros lugares dentro de Aragón",
+    "La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de los Condes de Sástago, sin que puedan celebrar sesiones fuera de él"
+   ],
+   1,
+   "Art. 35 · Estatuto de Autonomía de Aragón: La sede permanente de las Cortes de Aragón es la ciudad de Zaragoza, en el Palacio de la Aljafería, sin perjuicio de poder celebrar sesiones en otros lugares dentro de Aragón.",
+   "eaar 35",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-038",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "Aprobada la reforma por las Cortes de Aragón, el texto será presentado en el Congreso de los Diputados",
+    "Aprobada la reforma por las Cortes de Aragón, el texto será presentado en el Senado",
+    "Aprobada la reforma por las Cortes de Aragón, el texto será presentado en el Gobierno"
+   ],
+   0,
+   "Art. 115 · Estatuto de Autonomía de Aragón: Aprobada la reforma por las Cortes de Aragón, el texto será presentado en el Congreso de los Diputados. Las otras dos frases cambian «el Congreso de los Diputados» por «el Senado» y «el Gobierno».",
+   "eaar 115",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Las sesiones extraordinarias de las Cortes serán convocadas por el Presidente de las Cortes, a petición, entre otros, de la Diputación Permanente, una décima parte de los diputados o el Gobierno de Aragón",
+    "Las sesiones extraordinarias de las Cortes serán convocadas por el Presidente de las Cortes, a petición, entre otros, de los grupos parlamentarios, un tercio de los diputados o el Justicia de Aragón",
+    "Las sesiones extraordinarias de las Cortes serán convocadas por el Presidente de las Cortes, a petición, entre otros, de la Diputación Permanente, una quinta parte de los diputados o el Gobierno de Aragón"
+   ],
+   2,
+   "Art. 40.3 · Estatuto de Autonomía de Aragón: Las sesiones extraordinarias de las Cortes serán convocadas por el Presidente de las Cortes, a petición, entre otros, de la Diputación Permanente, una quinta parte de los diputados o el Gobierno de Aragón.",
+   "eaar 40.3",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-048",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "Las funciones del Fiscal Jefe del Tribunal Superior de Justicia de Aragón no son las que establece el Estatuto orgánico del Ministerio Fiscal",
+    "El Presidente del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón",
+    "Sus órganos e instituciones deberán establecerse en diversas localidades de Aragón"
+   ],
+   1,
+   "La correcta es «El Presidente del Tribunal Superior de Justicia de Aragón es el representante del Poder Judicial en Aragón». Las otras dos son falsas: lo correcto es «Las funciones del Fiscal Jefe del Tribunal Superior de Justicia de Aragón son las que establece el Estatuto orgánico del Ministerio Fiscal» (la otra frase la niega) y «Sus órganos e instituciones podrán establecerse en diversas localidades de Aragón» (l",
+   "eaar 63",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos y libertades de los aragoneses, las medidas urgentes en vivienda y el Presupuesto",
+    "No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones del título II, el régimen electoral, los tributos y el Presupuesto",
+    "No pueden ser objeto de Decreto-ley la organización de los servicios públicos, el régimen electoral, los tributos y el Presupuesto de la Comunidad"
+   ],
+   1,
+   "Art. 44.1 · Estatuto de Autonomía de Aragón: No pueden ser objeto de Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones del título II, el régimen electoral, los tributos y el Presupuesto.",
+   "eaar 44.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-054",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Zaragoza, como capital de Aragón, dispondrá de un régimen especial establecido por ley orgánica estatal",
+    "Zaragoza, como capital de Aragón, dispondrá del régimen común de municipios de gran población",
+    "Zaragoza, como capital de Aragón, dispondrá de un régimen especial establecido por ley de Cortes de Aragón"
+   ],
+   2,
+   "Art. 87 · Estatuto de Autonomía de Aragón: Zaragoza, como capital de Aragón, dispondrá de un régimen especial establecido por ley de Cortes de Aragón.",
+   "eaar 87",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-110",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "En materia de «Urbanismo» (art. 71.9), la competencia de la Comunidad Autónoma de Aragón es la competencia compartida",
+    "En materia de «Urbanismo» (art. 71.9), la competencia de la Comunidad Autónoma de Aragón es la competencia exclusiva",
+    "En materia de «Urbanismo» (art. 71.9), la competencia de la Comunidad Autónoma de Aragón es la competencia ejecutiva"
+   ],
+   1,
+   "Art. 71 · Estatuto de Autonomía de Aragón: En materia de «Urbanismo» (art. 71.9), la competencia de la Comunidad Autónoma de Aragón es la competencia exclusiva.",
+   "eaar 71",
+   "Opciones casi idénticas",
+   "h-competencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-014",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La capital de Aragón es la ciudad de Zaragoza",
+    "La capital de Aragón es la ciudad de Huesca",
+    "La capital de Aragón es la ciudad de Teruel"
+   ],
+   0,
+   "Art. 3.3 · Estatuto de Autonomía de Aragón: La capital de Aragón es la ciudad de Zaragoza.",
+   "eaar 3.3",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-023",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Tribunal Superior de Justicia de Aragón es el órgano de gobierno del Poder Judicial en Aragón, sin perjuicio de las competencias del Tribunal Supremo",
+    "El Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional que controla la legalidad de la actuación de la Administración autonómica",
+    "El Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional en que culmina la organización judicial en Aragón, sin perjuicio de las competencias del Tribunal Supremo"
+   ],
+   2,
+   "Art. 63.1 · Estatuto de Autonomía de Aragón: El Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional en que culmina la organización judicial en Aragón, sin perjuicio de las competencias del Tribunal Supremo.",
+   "eaar 63.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-078",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.4 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Si las Cortes aprueban una moción de censura cesan el Presidente y su Gobierno, y el candidato se entiende investido, comunicándolo el Presidente de las Cortes al Rey para su nombramiento",
+    "Si las Cortes aprueban una moción de censura las Cortes deben votar al candidato de nuevo",
+    "Si las Cortes aprueban una moción de censura se convocan nuevas elecciones"
+   ],
+   0,
+   "Art. 50.4 · Estatuto de Autonomía de Aragón: Si las Cortes aprueban una moción de censura cesan el Presidente y su Gobierno, y el candidato se entiende investido, comunicándolo el Presidente de las Cortes al Rey para su nombramiento.",
+   "eaar 50.4",
+   "La afirmación, su negación y otro dato",
+   "h-presidente",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-137",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Las Cortes de Aragón representan al pueblo aragonés, no ejercen la potestad legislativa, aprueban los presupuestos, e impulsan y controlan la acción del Gobierno de Aragón",
+    "Las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa y controlan solo la acción del Presidente de Aragón",
+    "Las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa, aprueban los presupuestos, e impulsan y controlan la acción del Gobierno de Aragón"
+   ],
+   2,
+   "Art. 33.1 · Estatuto de Autonomía de Aragón: Las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa, aprueban los presupuestos, e impulsan y controlan la acción del Gobierno de Aragón.",
+   "eaar 33.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-035",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "La Comunidad Autónoma podrá, de acuerdo con el Estado, participar en la gestión de las cuentas de depósitos y consignaciones judiciales y de sus rendimientos",
+    "La Comunidad Autónoma deberá, de acuerdo con el Estado, participar en la gestión de las cuentas de depósitos y consignaciones judiciales y de sus rendimientos",
+    "La Comunidad Autónoma no podrá, de acuerdo con el Estado, participar en la gestión de las cuentas de depósitos y consignaciones judiciales y de sus rendimientos"
+   ],
+   0,
+   "Art. 67 · Estatuto de Autonomía de Aragón: La Comunidad Autónoma podrá, de acuerdo con el Estado, participar en la gestión de las cuentas de depósitos y consignaciones judiciales y de sus rendimientos. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "eaar 67",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Si las Cortes niegan la confianza el Presidente continúa en funciones indefinidamente",
+    "Si las Cortes niegan la confianza el Presidente cesa junto con su Gobierno y debe elegirse un nuevo Presidente",
+    "Si las Cortes niegan la confianza se disuelven las Cortes"
+   ],
+   1,
+   "Art. 49.3 · Estatuto de Autonomía de Aragón: Si las Cortes niegan la confianza el Presidente cesa junto con su Gobierno y debe elegirse un nuevo Presidente.",
+   "eaar 49.3",
+   "La afirmación, su negación y otro dato",
+   "h-presidente",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-133",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "Sus órganos e instituciones deberán establecerse en diversas localidades de Aragón",
+    "Sus órganos e instituciones podrán establecerse en diversas localidades de Aragón",
+    "Sus órganos e instituciones no podrán establecerse en diversas localidades de Aragón"
+   ],
+   1,
+   "Art. 62 · Estatuto de Autonomía de Aragón: Sus órganos e instituciones podrán establecerse en diversas localidades de Aragón. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "eaar 62",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán funciones legislativas delegadas y de tutela sobre municipios y comarcas, atendiendo a criterios de solidaridad",
+    "Las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo a criterios de solidaridad y equilibrio territorial",
+    "Las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán competencias exclusivas en urbanismo y prestación de servicios a municipios, atendiendo a criterios de equilibrio"
+   ],
+   1,
+   "Art. 84 · Estatuto de Autonomía de Aragón: Las provincias, como entidades locales supramunicipales con personalidad jurídica propia, ejercerán funciones de cooperación, asistencia y prestación de servicios a municipios y comarcas, atendiendo a criterios de solidaridad y equilibrio territorial.",
+   "eaar 84",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-106",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "Los Diputados y Diputadas del Gobierno de Aragón se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara",
+    "Los Diputados y Diputadas del Justicia de Aragón se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara",
+    "Los Diputados y Diputadas de las Cortes de Aragón se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara"
+   ],
+   2,
+   "Art. 39 · Estatuto de Autonomía de Aragón: Los Diputados y Diputadas de las Cortes de Aragón se constituirán en grupos parlamentarios, cuyas condiciones de formación, organización y funciones regula el Reglamento de la Cámara. Las otras dos frases cambian «las Cortes de Aragón» por «el Gobierno de Aragón» y «el Justicia de Aragón».",
+   "eaar 39",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "El Tribunal Superior de Justicia de Aragón conocerá en todo caso de los recursos de casación fundados en la infracción del Derecho civil estatal",
+    "El Tribunal Superior de Justicia de Aragón conocerá en todo caso de los recursos de casación fundados en la infracción del Derecho propio de Aragón",
+    "El Tribunal Superior de Justicia de Aragón conocerá en todo caso de los recursos de casación fundados en la infracción de la Constitución"
+   ],
+   1,
+   "Art. 63.2 · Estatuto de Autonomía de Aragón: El Tribunal Superior de Justicia de Aragón conocerá en todo caso de los recursos de casación fundados en la infracción del Derecho propio de Aragón.",
+   "eaar 63.2",
+   "Opciones casi idénticas",
+   "h-admin-justicia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-149",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Los poderes públicos aragoneses deben fomentar los vínculos sociales con las comunidades aragonesas del exterior, que quedan sujetas a su tutela",
+    "Los poderes públicos aragoneses deben fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior y prestarles la ayuda necesaria",
+    "Los poderes públicos aragoneses deben promover los vínculos económicos con las comunidades aragonesas del exterior y asumir su representación jurídica"
+   ],
+   1,
+   "Art. 8 · Estatuto de Autonomía de Aragón: Los poderes públicos aragoneses deben fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior y prestarles la ayuda necesaria.",
+   "eaar 8",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 59.3 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "El Justicia de Aragón rendirá cuentas de su gestión ante el Gobierno de Aragón",
+    "El Justicia de Aragón rendirá cuentas de su gestión ante las Cortes de Aragón",
+    "El Justicia de Aragón rendirá cuentas de su gestión ante el Justicia de Aragón"
+   ],
+   1,
+   "Art. 59.3 · Estatuto de Autonomía de Aragón: El Justicia de Aragón rendirá cuentas de su gestión ante las Cortes de Aragón. Las otras dos frases cambian «las Cortes de Aragón» por «el Gobierno de Aragón» y «el Justicia de Aragón».",
+   "eaar 59.3",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t03-073",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Durante su mandato, los Diputados a Cortes de Aragón no podrán ser detenidos ni retenidos sino en caso de flagrante delito",
+    "Durante su mandato, los Diputados a Cortes de Aragón no podrán ser detenidos ni retenidos sin autorización de las Cortes",
+    "Durante su mandato, los Diputados a Cortes de Aragón no podrán ser detenidos ni retenidos sin orden judicial"
+   ],
+   0,
+   "Art. 38.2 · Estatuto de Autonomía de Aragón: Durante su mandato, los Diputados a Cortes de Aragón no podrán ser detenidos ni retenidos sino en caso de flagrante delito.",
+   "eaar 38.2",
+   "La afirmación, su negación y otro dato",
+   "h-cortes-funciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-121",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "La iniciativa legislativa corresponde a los miembros del Gobierno de Aragón y al Gobierno de Aragón; la iniciativa legislativa popular se regulará por ley",
+    "La iniciativa legislativa corresponde a los miembros de las Cortes de Aragón y al Gobierno de Aragón; la iniciativa legislativa popular se regulará por ley",
+    "La iniciativa legislativa corresponde a los miembros del Justicia de Aragón y al Gobierno de Aragón; la iniciativa legislativa popular se regulará por ley"
+   ],
+   1,
+   "Art. 42.2 · Estatuto de Autonomía de Aragón: La iniciativa legislativa corresponde a los miembros de las Cortes de Aragón y al Gobierno de Aragón; la iniciativa legislativa popular se regulará por ley. Las otras dos frases cambian «las Cortes de Aragón» por «el Gobierno de Aragón» y «el Justicia de Aragón».",
+   "eaar 42.2",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t03-050",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "Las Comisiones permanentes tendrán como función fundamental, entre otras, dictaminar los proyectos y proposiciones de ley, para su posterior debate y aprobación en el Alcalde",
+    "El Gobierno de Aragón, según se establezca en la ley electoral, estarán integradas por un número de escaños comprendido entre sesenta y cinco y ochenta",
+    "Durante su mandato no podrán ser detenidos ni retenidos sino en caso de flagrante delito"
+   ],
+   2,
+   "La correcta es «Durante su mandato no podrán ser detenidos ni retenidos sino en caso de flagrante delito». Las otras dos son falsas: lo correcto es «Las Comisiones permanentes tendrán como función fundamental, entre otras, dictaminar los proyectos y proposiciones de ley, para su posterior debate y aprobación en el Pleno» (la otra frase cambia «el Pleno») y «Las Cortes de Aragón, según se establezca en la ley electora",
+   "eaar 38",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70.1 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Corresponden a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas, ejecutivas y delegadas sobre las materias incluidas en el título correspondiente",
+    "Corresponden a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el título correspondiente",
+    "Corresponden a la Comunidad Autónoma de Aragón las competencias solo exclusivas y compartidas sobre las materias incluidas en el título correspondiente"
+   ],
+   1,
+   "Art. 70.1 · Estatuto de Autonomía de Aragón: Corresponden a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el título correspondiente.",
+   "eaar 70.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-085",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "La memoria anual de la Fiscalía del Tribunal Superior de Justicia de Aragón será enviada por el Fiscal Jefe al Consejo de Justicia de Aragón y la no podrá presentar ante las Cortes de Aragón y el Gobierno de Aragón",
+    "La Comunidad Autónoma deberá, de acuerdo con el Estado, participar en la gestión de las cuentas de depósitos y consignaciones judiciales y de sus rendimientos",
+    "Las funciones del Fiscal Jefe del Tribunal Superior de Justicia de Aragón son las que establece el Estatuto orgánico del Ministerio Fiscal"
+   ],
+   2,
+   "La correcta es «Las funciones del Fiscal Jefe del Tribunal Superior de Justicia de Aragón son las que establece el Estatuto orgánico del Ministerio Fiscal». Las otras dos son falsas: lo correcto es «La memoria anual de la Fiscalía del Tribunal Superior de Justicia de Aragón será enviada por el Fiscal Jefe al Consejo de Justicia de Aragón y la podrá presentar ante las Cortes de Aragón y el Gobierno de Aragón» (la otra",
+   "eaar 66",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado» en un plazo no superior a quince días desde su aprobación",
+    "Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado» en el plazo de diez días hábiles",
+    "Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado» en un plazo de un mes"
+   ],
+   0,
+   "Art. 45 · Estatuto de Autonomía de Aragón: Las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente, que ordenará su publicación en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado» en un plazo no superior a quince días desde su aprobación.",
+   "eaar 45",
+   "La afirmación, su negación y otro dato",
+   "h-cortes-funciones",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-128",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición CORRECTA:",
+   [
+    "La confianza se entenderá otorgada cuando el Presidente obtenga la mayoría simple de los votos emitidos",
+    "Si la moción de censura no es aprobada por las Cortes, sus signatarios no podrán suscribir otra hasta transcurrido dos años desde la fecha de la votación",
+    "El Vicepresidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna"
+   ],
+   0,
+   "La correcta es «La confianza se entenderá otorgada cuando el Presidente obtenga la mayoría simple de los votos emitidos». Las otras dos son falsas: lo correcto es «Si la moción de censura no es aprobada por las Cortes, sus signatarios no podrán suscribir otra hasta transcurrido un año desde la fecha de la votación» (la otra frase cambia «un año») y «El Presidente de Aragón no podrá ejercer otras funciones representat",
+   "eaar 49",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 62.5 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la proposición correcta:",
+   [
+    "La Administración de la Comunidad Autónoma gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico no reconoce a la Administración del Estado",
+    "La Administración de la Comunidad Autónoma gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico reconoce a la Administración del Estado",
+    "La Administración de la Comunidad Autónoma gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico reconoce a las Administraciones de las demás Comunidades Autónomas"
+   ],
+   1,
+   "Art. 62.5 · Estatuto de Autonomía de Aragón: La Administración de la Comunidad Autónoma gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico reconoce a la Administración del Estado.",
+   "eaar 62.5",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t03-076",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 de Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón, señale la opción correcta:",
+   [
+    "Las Cortes de Aragón serán elegidas por un período de cuatro años",
+    "El Gobierno de Aragón serán elegidas por un período de cuatro años",
+    "El Justicia de Aragón serán elegidas por un período de cuatro años"
+   ],
+   0,
+   "Art. 37 · Estatuto de Autonomía de Aragón: Las Cortes de Aragón serán elegidas por un período de cuatro años. Las otras dos frases cambian «Las Cortes de Aragón» por «el Gobierno de Aragón» y «el Justicia de Aragón».",
+   "eaar 37",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
    }
   ]
  ]

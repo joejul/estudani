@@ -2034,7 +2034,8 @@
    "h-clases",
    [
     "dominio público o patrimoniales"
-   ]
+   ],
+   {}
   ],
   [
    "Tienen la consideración de comunales los bienes de dominio público:",
@@ -2050,7 +2051,8 @@
    "h-clases",
    [
     "común de los vecinos"
-   ]
+   ],
+   {}
   ],
   [
    "Son bienes de servicio público local:",
@@ -2100,7 +2102,8 @@
    "h-regimen",
    [
     "inalienables"
-   ]
+   ],
+   {}
   ],
   [
    "Los bienes patrimoniales se rigen por:",
@@ -2116,7 +2119,8 @@
    "h-regimen",
    [
     "Derecho privado"
-   ]
+   ],
+   {}
   ],
   [
    "Las entidades locales pueden recuperar por sí mismas su posesión: en cualquier momento los de dominio público y en el plazo de ______ los patrimoniales.",
@@ -2132,7 +2136,8 @@
    "h-regimen",
    [
     "un año"
-   ]
+   ],
+   {}
   ],
   [
    "Las entidades locales están obligadas a formar un inventario valorado de todos sus bienes y derechos, que se rectificará:",
@@ -2148,7 +2153,8 @@
    "h-regimen",
    [
     "Anualmente"
-   ]
+   ],
+   {}
   ],
   [
    "La alteración de la calificación jurídica de los bienes de las entidades locales requiere:",
@@ -2164,7 +2170,8 @@
    "h-alteracion",
    [
     "oportunidad y legalidad"
-   ]
+   ],
+   {}
   ],
   [
    "La alteración de la calificación jurídica se produce automáticamente en el caso de:",
@@ -2180,7 +2187,8 @@
    "h-alteracion",
    [
     "veinticinco años"
-   ]
+   ],
+   {}
   ],
   [
    "La alteración expresa de bienes de dominio público requiere, tras información pública de un mes, el acuerdo del Pleno adoptado por:",
@@ -2196,7 +2204,8 @@
    "h-alteracion",
    [
     "mayoría absoluta"
-   ]
+   ],
+   {}
   ],
   [
    "Los bienes comunales podrán ser desprovistos de su carácter comunal y calificados como patrimoniales cuando no hubieren sido objeto de disfrute durante más de:",
@@ -2212,7 +2221,8 @@
    "h-alteracion",
    [
     "diez años"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el art. 99.1 del Decreto 347/2002 de Aragón, corresponde a las entidades locales regular la utilización de sus bienes patrimoniales de acuerdo con criterios de:",
@@ -2228,7 +2238,8 @@
    "h-uso",
    [
     "rentabilidad económica o social"
-   ]
+   ],
+   {}
   ],
   [
    "Para el uso privativo de un bien de dominio público con instalaciones fijas y permanentes se precisa:",
@@ -2394,7 +2405,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2676,7 +2688,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2711,7 +2724,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2766,7 +2780,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3045,7 +3060,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3063,7 +3079,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3099,7 +3116,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3256,7 +3274,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3311,7 +3330,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3744,7 +3764,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3838,7 +3859,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3856,7 +3878,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4401,7 +4424,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4507,7 +4531,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4682,7 +4707,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4875,7 +4901,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4979,7 +5006,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5031,7 +5059,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5083,7 +5112,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5101,7 +5131,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5119,7 +5150,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5190,7 +5222,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5673,6 +5706,2676 @@
    [],
    {
     "nuevo": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "La Comunidad Autónoma asignará a los bienes y derechos del patrimonio de las Entidades locales la calificación jurídica que les corresponda",
+    "El Estado asignará a los bienes y derechos del patrimonio de las Entidades locales la calificación jurídica que les corresponda",
+    "Las Entidades locales asignarán a los bienes y derechos de su patrimonio la calificación jurídica que les corresponda"
+   ],
+   2,
+   "Art. 7 RBASO: son las propias Entidades locales las que asignan la calificación jurídica a sus bienes y derechos.",
+   "rbaso 7",
+   "Una sola palabra cambia el sentido",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El uso común de los bienes de dominio y uso público puede ser general o especial",
+    "El uso privativo es una de las modalidades de utilización de los bienes de dominio y uso público",
+    "Una de las modalidades de utilización de los bienes de dominio y uso público es el uso patrimonial"
+   ],
+   2,
+   "Art. 72 RBASO: las modalidades son el uso común (general o especial) y el uso privativo; no existe un «uso patrimonial».",
+   "rbaso 72",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82.b de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La prerrogativa de deslinde de las entidades locales se ajustará a la legislación del Patrimonio del Estado y, en su caso, la de montes",
+    "La prerrogativa de deslinde de las entidades locales se ajustará a la legislación hipotecaria",
+    "La prerrogativa de deslinde de las entidades locales se ajustará a la normativa urbanística autonómica"
+   ],
+   0,
+   "Art. 82.b · Ley 7/1985 (LBRL): La prerrogativa de deslinde de las entidades locales se ajustará a la legislación del Patrimonio del Estado y, en su caso, la de montes.",
+   "lbrl 82.b",
+   "La afirmación, su negación y otro dato",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-080",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las facultades y prerrogativas de las Administraciones para la defensa de su patrimonio incluyen investigar, deslindar en vía administrativa, recuperar de oficio la posesión y desahuciar en vía administrativa a poseedores de inmuebles demaniales",
+    "Las facultades y prerrogativas de las Administraciones para la defensa de su patrimonio incluyen embargar bienes de terceros",
+    "Las facultades y prerrogativas de las Administraciones para la defensa de su patrimonio incluyen expropiar bienes colindantes"
+   ],
+   0,
+   "Art. 41.1 · Ley 33/2003: Las facultades y prerrogativas de las Administraciones para la defensa de su patrimonio incluyen investigar, deslindar en vía administrativa, recuperar de oficio la posesión y desahuciar en vía administrativa a poseedores de inmuebles demaniales.",
+   "l33-2003 41.1",
+   "La afirmación, su negación y otro dato",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-130",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "En casos extraordinarios, previo acuerdo por mayoría absoluta, no podrá fijarse a los vecinos una cuota anual por los lotes adjudicados para compensar estrictamente los gastos de custodia, conservación y administración de los bienes",
+    "En casos extraordinarios, previo acuerdo por mayoría absoluta, podrá fijarse a los vecinos una cuota anual por los lotes adjudicados para compensar la renta de los bienes",
+    "En casos extraordinarios, previo acuerdo por mayoría absoluta, podrá fijarse a los vecinos una cuota anual por los lotes adjudicados para compensar estrictamente los gastos de custodia, conservación y administración de los bienes"
+   ],
+   2,
+   "Art. 99 · RD 1372/1986: En casos extraordinarios, previo acuerdo por mayoría absoluta, podrá fijarse a los vecinos una cuota anual por los lotes adjudicados para compensar estrictamente los gastos de custodia, conservación y administración de los bienes.",
+   "rb 99",
+   "La afirmación, su negación y otro dato",
+   "h-comunales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-168",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.3 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como casas Consistoriales, mataderos, mercados, lonjas, hospitales, escuelas, museos, instalaciones deportivas y cementerios",
+    "Son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como calles, plazas, paseos y parques, destinados a ser utilizados directamente por los particulares",
+    "Son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como los bienes comunales, cuyo aprovechamiento corresponde al común de los vecinos del municipio"
+   ],
+   0,
+   "Art. 3.3 · Decreto 347/2002 (RBASO): Son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como casas Consistoriales, mataderos, mercados, lonjas, hospitales, escuelas, museos, instalaciones deportivas y cementerios.",
+   "rbaso 3.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-050",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son bienes y derechos de dominio privado o patrimoniales los de titularidad de las Administraciones públicas que no tengan el carácter de demaniales",
+    "Son bienes y derechos de dominio privado o patrimoniales los afectados al servicio público",
+    "Son bienes y derechos de dominio privado o patrimoniales los afectados al uso general"
+   ],
+   0,
+   "Art. 7.1 · Ley 33/2003: Son bienes y derechos de dominio privado o patrimoniales los de titularidad de las Administraciones públicas que no tengan el carácter de demaniales.",
+   "l33-2003 7.1",
+   "La afirmación, su negación y otro dato",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-183",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Son bienes de servicio público local las calles y plazas",
+    "Son bienes de servicio público local los destinados directamente al cumplimiento de fines públicos de responsabilidad de la entidad, como casas consistoriales, mercados o escuelas",
+    "Son bienes de servicio público local los solares sin uso"
+   ],
+   1,
+   "Art. 4 · RD 1372/1986: Son bienes de servicio público local los destinados directamente al cumplimiento de fines públicos de responsabilidad de la entidad, como casas consistoriales, mercados o escuelas.",
+   "rb 4",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-003",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Son bienes patrimoniales o de propios los que, siendo propiedad de la Entidad Local estén destinados al uso público",
+    "Son bienes patrimoniales o de propios los que, siendo propiedad de la Entidad Local sean de aprovechamiento vecinal",
+    "Son bienes patrimoniales o de propios los que, siendo propiedad de la Entidad Local no estén destinados a uso público ni afectados a servicio público y puedan constituir fuentes de ingresos"
+   ],
+   2,
+   "Art. 6.1 · RD 1372/1986: Son bienes patrimoniales o de propios los que, siendo propiedad de la Entidad Local no estén destinados a uso público ni afectados a servicio público y puedan constituir fuentes de ingresos.",
+   "rb 6.1",
+   "La afirmación, su negación y otro dato",
+   "h-patrimoniales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-139",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición CORRECTA:",
+   [
+    "Las adquisiciones de bienes derivadas de expropiaciones automáticas se regirán por su normativa específica",
+    "Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "La adquisición de bienes a título oneroso no exigirá el cumplimiento de los requisitos contemplados en la normativa reguladora de la contratación de las Corporaciones locales"
+   ],
+   1,
+   "La correcta es «Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno». Las otras dos son falsas: lo correcto es «Las adquisiciones de bienes derivadas de expropiaciones forzosas se regirán por su normativa específica» (la otra frase cambia «forzosas») y «La adquisición de bienes a título oneroso exigirá el cumplimiento de los req",
+   "rb 5",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.2 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Una vez iniciado el procedimiento administrativo de deslinde y mientras dure su tramitación no podrá instarse procedimiento judicial con igual pretensión",
+    "Una vez iniciado el procedimiento administrativo de deslinde y mientras dure su tramitación podrá solicitarse la suspensión judicial",
+    "Una vez iniciado el procedimiento administrativo de deslinde y mientras dure su tramitación se interrumpe el procedimiento administrativo"
+   ],
+   0,
+   "Art. 50.2 · Ley 33/2003: Una vez iniciado el procedimiento administrativo de deslinde y mientras dure su tramitación no podrá instarse procedimiento judicial con igual pretensión.",
+   "l33-2003 50.2",
+   "La afirmación, su negación y otro dato",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-132",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La facultad de investigación permite a las Administraciones inspeccionar a los particulares",
+    "La facultad de investigación permite a las Administraciones averiguar la situación de los bienes que presumiblemente formen parte de su patrimonio para determinar su titularidad cuando no les conste de modo cierto",
+    "La facultad de investigación permite a las Administraciones reclamar los tributos pendientes"
+   ],
+   1,
+   "Art. 45 · Ley 33/2003: La facultad de investigación permite a las Administraciones averiguar la situación de los bienes que presumiblemente formen parte de su patrimonio para determinar su titularidad cuando no les conste de modo cierto.",
+   "l33-2003 45",
+   "La afirmación, su negación y otro dato",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-131",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "La adjudicación por lotes o suertes se hará a los vecinos en proporción directa a su patrimonio",
+    "La adjudicación por lotes o suertes se hará a los vecinos por sorteo entre todos los vecinos",
+    "La adjudicación por lotes o suertes se hará a los vecinos en proporción directa al número de personas que tengan a su cargo e inversa de su situación económica"
+   ],
+   2,
+   "Art. 97 · RD 1372/1986: La adjudicación por lotes o suertes se hará a los vecinos en proporción directa al número de personas que tengan a su cargo e inversa de su situación económica.",
+   "rb 97",
+   "La afirmación, su negación y otro dato",
+   "h-comunales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-165",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Los comunales no disfrutados durante más de diez años podrán perder su carácter con acuerdo que requiere información pública, mayoría absoluta y aprobación del Ministerio de Hacienda",
+    "Los comunales no disfrutados durante más de diez años podrán perder su carácter con acuerdo que requiere información pública, mayoría absoluta y informe de la Diputación Provincial",
+    "Los comunales no disfrutados durante más de diez años podrán perder su carácter con acuerdo que requiere información pública, mayoría absoluta y posterior aprobación por la Comunidad Autónoma"
+   ],
+   2,
+   "Art. 100.1 · RD 1372/1986: Los comunales no disfrutados durante más de diez años podrán perder su carácter con acuerdo que requiere información pública, mayoría absoluta y posterior aprobación por la Comunidad Autónoma.",
+   "rb 100.1",
+   "La afirmación, su negación y otro dato",
+   "h-comunales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-169",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los montes vecinales en mano común se regulan por la legislación del Patrimonio del Estado",
+    "Los montes vecinales en mano común se regulan por el Código Civil",
+    "Los montes vecinales en mano común se regulan por su legislación específica"
+   ],
+   2,
+   "Art. 83 · Ley 7/1985 (LBRL): Los montes vecinales en mano común se regulan por su legislación específica.",
+   "lbrl 83",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-024",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 171 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Las parcelas sobrantes no susceptibles por sí de un uso adecuado y los bienes no utilizables tienen la consideración de bienes patrimoniales",
+    "Las parcelas sobrantes no susceptibles por sí de un uso adecuado y los bienes no utilizables tienen la consideración de bienes comunales",
+    "Las parcelas sobrantes no susceptibles por sí de un uso adecuado y los bienes no utilizables tienen la consideración de bienes de dominio público"
+   ],
+   0,
+   "Art. 171 · Ley 7/1999 (Aragón): Las parcelas sobrantes no susceptibles por sí de un uso adecuado y los bienes no utilizables tienen la consideración de bienes patrimoniales.",
+   "l7-1999 171",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-029",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1.2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Las Entidades locales no tienen plena capacidad jurídica para adquirir y poseer bienes de todas las clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio",
+    "Las Entidades locales tienen plena capacidad jurídica para adquirir solo bienes inmuebles, y ejercitar las acciones en defensa del patrimonio con autorización del Pleno",
+    "Las Entidades locales tienen plena capacidad jurídica para adquirir y poseer bienes de todas las clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio"
+   ],
+   2,
+   "Art. 1.2 · Decreto 347/2002 (RBASO): Las Entidades locales tienen plena capacidad jurídica para adquirir y poseer bienes de todas las clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio.",
+   "rbaso 1.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-049",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Los bienes de las Entidades locales de Aragón se clasifican en bienes de uso público, de servicio público y comunales",
+    "Los bienes de las Entidades locales de Aragón se clasifican en bienes de dominio público, patrimoniales y comunales",
+    "Los bienes de las Entidades locales de Aragón se clasifican en bienes de dominio público y bienes patrimoniales o de propios"
+   ],
+   2,
+   "Art. 2 · Decreto 347/2002 (RBASO): Los bienes de las Entidades locales de Aragón se clasifican en bienes de dominio público y bienes patrimoniales o de propios.",
+   "rbaso 2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-048",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.3 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal, se presume su carácter comunal",
+    "Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal, se presume su carácter de dominio público",
+    "Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal, se presume su carácter patrimonial"
+   ],
+   2,
+   "Art. 4.3 · Decreto 347/2002 (RBASO): Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal, se presume su carácter patrimonial.",
+   "rbaso 4.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-051",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "El uso común general no es aquel que puede ejercer libremente cualquier ciudadano utilizando el bien de acuerdo con su naturaleza y con las disposiciones que lo reglamenten",
+    "El uso común general es aquel que puede ejercer libremente cualquier ciudadano utilizando el bien de acuerdo con su naturaleza y con las disposiciones que lo reglamenten",
+    "El uso común general es aquel que excluye la utilización por otros interesados al ocuparse una porción del dominio público"
+   ],
+   1,
+   "Art. 73 · Decreto 347/2002 (RBASO): El uso común general es aquel que puede ejercer libremente cualquier ciudadano utilizando el bien de acuerdo con su naturaleza y con las disposiciones que lo reglamenten.",
+   "rbaso 73",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-064",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "El uso común especial no es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares",
+    "El uso común especial es aquel en que concurren instalaciones fijas y permanentes que dan lugar a un uso privativo agravado del bien",
+    "El uso común especial es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares"
+   ],
+   2,
+   "Art. 74 · Decreto 347/2002 (RBASO): El uso común especial es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares.",
+   "rbaso 74",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-065",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El patrimonio de las Administraciones públicas está constituido por el conjunto de sus bienes inmuebles y los derechos reales sobre ellos",
+    "El patrimonio de las Administraciones públicas está constituido por el conjunto de sus bienes y derechos, cualquiera que sea su naturaleza y el título de su adquisición",
+    "El patrimonio de las Administraciones públicas está constituido por el conjunto de sus bienes y derechos y de sus recursos financieros"
+   ],
+   1,
+   "Art. 3.1 · Ley 33/2003: El patrimonio de las Administraciones públicas está constituido por el conjunto de sus bienes y derechos, cualquiera que sea su naturaleza y el título de su adquisición.",
+   "l33-2003 3.1",
+   "Opciones casi idénticas",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-180",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Se conceptúan parcelas sobrantes los terrenos desafectados por acuerdo del Pleno",
+    "Se conceptúan parcelas sobrantes los terrenos que no estén inscritos en el Registro de la Propiedad",
+    "Se conceptúan parcelas sobrantes las porciones de terreno propiedad de las Entidades locales que por su reducida extensión, forma irregular o emplazamiento no sean susceptibles de uso adecuado"
+   ],
+   2,
+   "Art. 7.2 · RD 1372/1986: Se conceptúan parcelas sobrantes las porciones de terreno propiedad de las Entidades locales que por su reducida extensión, forma irregular o emplazamiento no sean susceptibles de uso adecuado.",
+   "rb 7.2",
+   "La afirmación, su negación y otro dato",
+   "h-marco-estatal",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-189",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Entre los principios de gestión de los bienes demaniales figura dedicación preferente al uso privativo",
+    "Entre los principios de gestión de los bienes demaniales figura rentabilidad en la explotación",
+    "Entre los principios de gestión de los bienes demaniales figura dedicación preferente al uso común frente a su uso privativo"
+   ],
+   2,
+   "Art. 6 · Ley 33/2003: Entre los principios de gestión de los bienes demaniales figura dedicación preferente al uso común frente a su uso privativo.",
+   "l33-2003 6",
+   "La afirmación, su negación y otro dato",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-128",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 84.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Nadie puede ocupar bienes de dominio público o utilizarlos más allá del uso general sin informe del Registro de la Propiedad",
+    "Nadie puede ocupar bienes de dominio público o utilizarlos más allá del uso general sin título que lo autorice otorgado por la autoridad competente",
+    "Nadie puede ocupar bienes de dominio público o utilizarlos más allá del uso general sin comunicación previa"
+   ],
+   1,
+   "Art. 84.1 · Ley 33/2003: Nadie puede ocupar bienes de dominio público o utilizarlos más allá del uso general sin título que lo autorice otorgado por la autoridad competente.",
+   "l33-2003 84.1",
+   "La afirmación, su negación y otro dato",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-136",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "El uso común especial normal de los bienes de dominio público se sujetará a concesión administrativa",
+    "El uso común especial normal de los bienes de dominio público se sujetará a licencia, ajustada a la naturaleza del dominio",
+    "El uso común especial normal de los bienes de dominio público se sujetará a comunicación previa"
+   ],
+   1,
+   "Art. 77.1 · RD 1372/1986: El uso común especial normal de los bienes de dominio público se sujetará a licencia, ajustada a la naturaleza del dominio.",
+   "rb 77.1",
+   "La afirmación, su negación y otro dato",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-155",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición CORRECTA:",
+   [
+    "Las Corporaciones locales no deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria",
+    "Las Entidades locales no tendrán capacidad jurídica plena para adquirir y poseer bienes de todas las clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio",
+    "Las Corporaciones locales están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición"
+   ],
+   2,
+   "La correcta es «Las Corporaciones locales están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición». Las otras dos son falsas: lo correcto es «Las Corporaciones locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria» (la otra frase cambia «deberán») y «L",
+   "rb 17",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición CORRECTA:",
+   [
+    "Los extranjeros domiciliados en el termino municipal gozarán también de estos derechos",
+    "El arrendamiento y cualquier otra forma de cesión de uso de bienes patrimoniales de las Entidades locales no se regirá, en todo caso, en cuanto a su preparación y adjudicación por la normativa reguladora de contratación de las Entidades locales",
+    "La cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por el Pleno de la Corporación, requiriéndose el voto favorable de la mayoría simple del número legal de miembros"
+   ],
+   0,
+   "La correcta es «Los extranjeros domiciliados en el termino municipal gozarán también de estos derechos». Las otras dos son falsas: lo correcto es «El arrendamiento y cualquier otra forma de cesión de uso de bienes patrimoniales de las Entidades locales se regirá, en todo caso, en cuanto a su preparación y adjudicación por la normativa reguladora de contratación de las Entidades locales» (la otra frase la niega) y «La",
+   "rb 103",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.1 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Entre los principios de gestión de los bienes patrimoniales figura publicidad, transparencia, concurrencia y objetividad en la adquisición, explotación y enajenación",
+    "Entre los principios de gestión de los bienes patrimoniales figura inalienabilidad e imprescriptibilidad",
+    "Entre los principios de gestión de los bienes patrimoniales figura dedicación preferente al uso común"
+   ],
+   0,
+   "Art. 8.1 · Ley 33/2003: Entre los principios de gestión de los bienes patrimoniales figura publicidad, transparencia, concurrencia y objetividad en la adquisición, explotación y enajenación.",
+   "l33-2003 8.1",
+   "La afirmación, su negación y otro dato",
+   "h-patrimoniales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-129",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Son bienes de uso público local las Casas Consistoriales, mataderos y mercados cuya conservación y policía sean competencia de la entidad local",
+    "Son bienes de uso público local los caminos y carreteras, plazas, calles, paseos, parques, fuentes, canales, puentes y obras públicas de aprovechamiento o utilización generales cuya conservación y policía sean de competencia de la entidad local",
+    "Son bienes de uso público local los terrenos y edificios arrendados a particulares destinados al uso general de los vecinos"
+   ],
+   1,
+   "Art. 170.2 · Ley 7/1999 (Aragón): Son bienes de uso público local los caminos y carreteras, plazas, calles, paseos, parques, fuentes, canales, puentes y obras públicas de aprovechamiento o utilización generales cuya conservación y policía sean de competencia de la entidad local.",
+   "l7-1999 170.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-025",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición CORRECTA:",
+   [
+    "La utilización del dominio público se considera normal o anormal según sea o no conforme con el destino principal del bien de que se trate",
+    "El uso común especial no es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares",
+    "La utilización no podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato"
+   ],
+   0,
+   "La correcta es «La utilización del dominio público se considera normal o anormal según sea o no conforme con el destino principal del bien de que se trate». Las otras dos son falsas: lo correcto es «El uso común especial es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares» (la otra frase la niega) y «La utilización podrá realizarse directamente por la Entidad local o cede",
+   "rbaso 76",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.3 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán en todo caso, bienes de dominio público",
+    "Los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán bienes de uso común",
+    "Los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán bienes patrimoniales"
+   ],
+   0,
+   "Art. 5.3 · Ley 33/2003: Los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán en todo caso, bienes de dominio público.",
+   "l33-2003 5.3",
+   "La afirmación, su negación y otro dato",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-127",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2.4 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Los bienes comunales solo podrán pertenecer a cualquier Entidad local",
+    "Los bienes comunales solo podrán pertenecer a las provincias y las comarcas",
+    "Los bienes comunales solo podrán pertenecer a los Municipios y a las Entidades locales menores"
+   ],
+   2,
+   "Art. 2.4 · RD 1372/1986: Los bienes comunales solo podrán pertenecer a los Municipios y a las Entidades locales menores.",
+   "rb 2.4",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-202",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "La afectación de los inmuebles al uso público no se producirá, en todo caso en el momento de la cesión de derecho a la administración actuante conforme a la legislación urbanística",
+    "La afectación de los inmuebles al uso público se producirá, en todo caso en el momento de la aprobación definitiva del plan",
+    "La afectación de los inmuebles al uso público se producirá, en todo caso en el momento de la cesión de derecho a la administración actuante conforme a la legislación urbanística"
+   ],
+   2,
+   "Art. 3.2 · RD 1372/1986: La afectación de los inmuebles al uso público se producirá, en todo caso en el momento de la cesión de derecho a la administración actuante conforme a la legislación urbanística.",
+   "rb 3.2",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-204",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.2 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Las concesiones sobre bienes de dominio público se otorgarán por adjudicación directa",
+    "Las concesiones sobre bienes de dominio público se otorgarán previa licitación",
+    "Las concesiones sobre bienes de dominio público se otorgarán por sorteo"
+   ],
+   1,
+   "Art. 78.2 · RD 1372/1986: Las concesiones sobre bienes de dominio público se otorgarán previa licitación.",
+   "rb 78.2",
+   "La afirmación, su negación y otro dato",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-159",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de adjudicación mediante precio",
+    "El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de explotación común o cultivo colectivo",
+    "El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de adjudicación por lotes"
+   ],
+   1,
+   "Art. 94.1 · RD 1372/1986: El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de explotación común o cultivo colectivo.",
+   "rb 94.1",
+   "La afirmación, su negación y otro dato",
+   "h-comunales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-162",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Tienen la consideración de comunales los bienes de dominio público cuyo aprovechamiento corresponde al común de los vecinos",
+    "Tienen la consideración de comunales los bienes de dominio público que son propiedad de varias entidades",
+    "Tienen la consideración de comunales los bienes de dominio público que producen ingresos al ayuntamiento"
+   ],
+   0,
+   "Art. 79 · Ley 7/1985 (LBRL): Tienen la consideración de comunales los bienes de dominio público cuyo aprovechamiento corresponde al común de los vecinos.",
+   "lbrl 79",
+   "La afirmación, su negación y otro dato",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-002",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 169.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Los bienes de las entidades locales aragonesas no son de dominio público o patrimoniales",
+    "Los bienes de las entidades locales aragonesas son de dominio público o patrimoniales",
+    "Los bienes de las entidades locales aragonesas son de dominio público, patrimoniales o comunales"
+   ],
+   1,
+   "Art. 169.2 · Ley 7/1999 (Aragón): Los bienes de las entidades locales aragonesas son de dominio público o patrimoniales.",
+   "l7-1999 169.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 172.1 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Los bienes de dominio público, mientras conserven este carácter, son imprescriptibles pero sujetos a tributo",
+    "Los bienes de dominio público, mientras conserven este carácter, son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Los bienes de dominio público, mientras conserven este carácter, son alienables previa autorización"
+   ],
+   1,
+   "Art. 172.1 · Ley 7/1999 (Aragón): Los bienes de dominio público, mientras conserven este carácter, son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.",
+   "l7-1999 172.1",
+   "La afirmación, su negación y otro dato",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-085",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101.1 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Será necesaria la realización de subasta pública siempre que la duración de la cesión sea superior a cinco años o su precio exceda del cinco por ciento de los recursos ordinarios del presupuesto de la Entidad local",
+    "Será necesaria la realización de subasta pública siempre que la duración de la cesión sea superior a cinco años o su precio exceda del diez por ciento de los recursos ordinarios del presupuesto de la Entidad local",
+    "Será necesaria la realización de subasta pública siempre que la duración de la cesión sea superior a cinco años o su precio exceda del uno por ciento de los recursos ordinarios del presupuesto de la Entidad local"
+   ],
+   0,
+   "Art. 101.1 · Decreto 347/2002 (RBASO): Será necesaria la realización de subasta pública siempre que la duración de la cesión sea superior a cinco años o su precio exceda del cinco por ciento de los recursos ordinarios del presupuesto de la Entidad local.",
+   "rbaso 101.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-075",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 de Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Las Administraciones públicas deberán recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros",
+    "Las Administraciones públicas podrán recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros",
+    "Las Administraciones públicas no podrán recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros"
+   ],
+   1,
+   "Art. 58 · Ley 33/2003: Las Administraciones públicas podrán recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "l33-2003 58",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los bienes patrimoniales se rigen por exclusivamente el Derecho administrativo",
+    "Los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado",
+    "Los bienes patrimoniales se rigen por el Código Penal"
+   ],
+   1,
+   "Art. 80 · Ley 7/1985 (LBRL): Los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado.",
+   "lbrl 80",
+   "La afirmación, su negación y otro dato",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-006",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 175 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Las entidades locales están obligadas a formar un inventario valorado de todos sus bienes y derechos, que se rectificará solo cuando se vende un bien",
+    "Las entidades locales están obligadas a formar un inventario valorado de todos sus bienes y derechos, que se rectificará anualmente, comprobándose siempre que se renueve la Corporación",
+    "Las entidades locales están obligadas a formar un inventario valorado de todos sus bienes y derechos, que se rectificará cada cinco años"
+   ],
+   1,
+   "Art. 175 · Ley 7/1999 (Aragón): Las entidades locales están obligadas a formar un inventario valorado de todos sus bienes y derechos, que se rectificará anualmente, comprobándose siempre que se renueve la Corporación.",
+   "l7-1999 175",
+   "La afirmación, su negación y otro dato",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-008",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6.3 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Los bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública no serán inembargables",
+    "Los bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública serán inembargables",
+    "Los bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública serán embargables"
+   ],
+   1,
+   "Art. 6.3 · Decreto 347/2002 (RBASO): Los bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública serán inembargables.",
+   "rbaso 6.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-054",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102.1 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Las Corporaciones podrán hacer prevalecer criterios de rentabilidad social sobre los de rentabilidad económica cuando el uso del bien se destine a servicios sociales, iniciativas locales de empleo, actividades culturales y deportivas y otras análogas en beneficio de los vecinos",
+    "Las Corporaciones no podrán hacer prevalecer criterios de rentabilidad social sobre los de rentabilidad económica cuando el uso del bien se destine a servicios sociales, iniciativas locales de empleo, actividades culturales y deportivas y otras análogas en beneficio de los vecinos",
+    "Las Corporaciones podrán hacer prevalecer criterios de rentabilidad social sobre los de rentabilidad económica cuando el uso del bien se destine a actividades comerciales de especial interés"
+   ],
+   0,
+   "Art. 102.1 · Decreto 347/2002 (RBASO): Las Corporaciones podrán hacer prevalecer criterios de rentabilidad social sobre los de rentabilidad económica cuando el uso del bien se destine a servicios sociales, iniciativas locales de empleo, actividades culturales y deportivas y otras análogas en beneficio de los vecinos.",
+   "rbaso 102.1",
+   "La afirmación, su negación y otro dato",
+   "h-patrimoniales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-124",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12.3 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "La aceptación de herencias se entenderá a beneficio de inventario",
+    "La aceptación de herencias se entenderá sujeta a autorización autonómica",
+    "La aceptación de herencias se entenderá pura y simple"
+   ],
+   0,
+   "Art. 12.3 · RD 1372/1986: La aceptación de herencias se entenderá a beneficio de inventario.",
+   "rb 12.3",
+   "La afirmación, su negación y otro dato",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-149",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Los particulares no podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes",
+    "Los particulares podrán prescribir a su favor los bienes comunales",
+    "Los particulares podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes"
+   ],
+   2,
+   "Art. 14.1 · RD 1372/1986: Los particulares podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes.",
+   "rb 14.1",
+   "La afirmación, su negación y otro dato",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-151",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición CORRECTA:",
+   [
+    "Los bienes inmuebles patrimoniales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma, cuando su valor exceda del 24 por 100 de los recursos ordinarios del presupuesto anual de la Corporación",
+    "Cuando el Pleno de la Corporación lo acordare, el deposito de valores mobiliarios podrá efectuarse en establecimientos bancarios en los que tuviere intervención el Estado",
+    "La cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por el Pleno de la Corporación, requiriéndose el voto favorable de la mayoría de tres quintos del número legal de miembros"
+   ],
+   1,
+   "La correcta es «Cuando el Pleno de la Corporación lo acordare, el deposito de valores mobiliarios podrá efectuarse en establecimientos bancarios en los que tuviere intervención el Estado». Las otras dos son falsas: lo correcto es «Los bienes inmuebles patrimoniales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma, cuando su valor exceda del 25 por 100 de los",
+   "rb 37",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la opción correcta:",
+   [
+    "La adquisición de bienes inmuebles a título oneroso exige, además de los requisitos de contratación informe previo pericial",
+    "La adquisición de bienes inmuebles a título oneroso exige, además de los requisitos de contratación informe posterior pericial",
+    "La adquisición de bienes inmuebles a título oneroso exige, además de los requisitos de contratación informe simultáneo pericial"
+   ],
+   0,
+   "Art. 11.1 · RD 1372/1986: La adquisición de bienes inmuebles a título oneroso exige, además de los requisitos de contratación informe previo pericial. Las otras dos frases cambian «previo» por «posterior» y «simultáneo».",
+   "rb 11.1",
+   "Una sola palabra cambia el sentido",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t10-146",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.5 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Los honorarios de los Registradores por la inmatriculación o inscripción de bienes de las Entidades locales se reducirán en un tercio",
+    "Los honorarios de los Registradores por la inmatriculación o inscripción de bienes de las Entidades locales se reducirán a la mitad",
+    "Los honorarios de los Registradores por la inmatriculación o inscripción de bienes de las Entidades locales quedan exentos"
+   ],
+   1,
+   "Art. 36.5 · RD 1372/1986: Los honorarios de los Registradores por la inmatriculación o inscripción de bienes de las Entidades locales se reducirán a la mitad.",
+   "rb 36.5",
+   "La afirmación, su negación y otro dato",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-153",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Pueden solicitar el deslinde solo el Registrador de la Propiedad",
+    "Pueden solicitar el deslinde los dueños de los terrenos colindantes con fincas de las Entidades locales o enclavadas en ellas",
+    "Pueden solicitar el deslinde cualquier vecino del municipio"
+   ],
+   1,
+   "Art. 54.2 · Decreto 347/2002 (RBASO): Pueden solicitar el deslinde los dueños de los terrenos colindantes con fincas de las Entidades locales o enclavadas en ellas.",
+   "rbaso 54.2",
+   "La afirmación, su negación y otro dato",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-113",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición CORRECTA:",
+   [
+    "El uso privativo es aquel por el que se ocupa una porción del dominio público de modo que se limita o excluye la utilización por parte de otros interesados",
+    "No podrán otorgarse licencias por plazo superior a seis años",
+    "El uso privativo reviste mayor intensidad cuando no requiere la implantación de instalaciones fijas y permanentes, en cuyo caso se considerará como uso privativo agravado"
+   ],
+   0,
+   "La correcta es «El uso privativo es aquel por el que se ocupa una porción del dominio público de modo que se limita o excluye la utilización por parte de otros interesados». Las otras dos son falsas: lo correcto es «No podrán otorgarse licencias por plazo superior a diez años» (la otra frase cambia «diez años») y «El uso privativo reviste mayor intensidad cuando requiere la implantación de instalaciones fijas y perma",
+   "rbaso 75",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 99 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "La utilización deberá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato",
+    "La utilización podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato",
+    "La utilización no podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato"
+   ],
+   1,
+   "Art. 99 · Decreto 347/2002 (RBASO): La utilización podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "rbaso 99",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la opción correcta:",
+   [
+    "Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación deberá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente",
+    "Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación no podrá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente",
+    "Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación podrá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente"
+   ],
+   2,
+   "Art. 115 · RD 1372/1986: Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación podrá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "rb 115",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la opción correcta:",
+   [
+    "Las Corporaciones Locales pueden adquirir bienes y derechos por caducidad",
+    "Las Corporaciones Locales pueden adquirir bienes y derechos por revocación",
+    "Las Corporaciones Locales pueden adquirir bienes y derechos por prescripción"
+   ],
+   2,
+   "Art. 10 · RD 1372/1986: Las Corporaciones Locales pueden adquirir bienes y derechos por prescripción. Las otras dos frases cambian «prescripción» por «caducidad» y «revocación».",
+   "rb 10",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.1 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Las entidades locales no podrán recuperar por sí mismas la posesión de los bienes patrimoniales en el plazo de un año",
+    "Las entidades locales podrán recuperar por sí mismas la posesión de los bienes patrimoniales en el plazo de un año",
+    "Las entidades locales podrán recuperar por sí mismas la posesión de los bienes patrimoniales en el plazo de cinco años"
+   ],
+   1,
+   "Art. 173.1 · Ley 7/1999 (Aragón): Las entidades locales podrán recuperar por sí mismas la posesión de los bienes patrimoniales en el plazo de un año.",
+   "l7-1999 173.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-033",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición CORRECTA:",
+   [
+    "Cualquier ciudadano no podrá requerir ese ejercicio a la entidad local interesada",
+    "De las rectificaciones anuales del Inventario podrá remitirse copia a la Diputación General de Aragón",
+    "Las entidades locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria"
+   ],
+   2,
+   "La correcta es «Las entidades locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria». Las otras dos son falsas: lo correcto es «Cualquier ciudadano podrá requerir ese ejercicio a la entidad local interesada» (la otra frase cambia «podrá») y «De las rectificaciones anuales del Inventario deberá remitirse copia a la Diputac",
+   "l7-1999 176",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la opción correcta:",
+   [
+    "Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales podrán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado",
+    "Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado",
+    "Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales no deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado"
+   ],
+   1,
+   "Art. 9 · RD 1372/1986: Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "rb 9",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174.3 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la opción correcta:",
+   [
+    "Tratándose de adquisición de bienes inmuebles a título oneroso se exigirá, en todo caso informe posterior pericial de su valor",
+    "Tratándose de adquisición de bienes inmuebles a título oneroso se exigirá, en todo caso informe previo pericial de su valor",
+    "Tratándose de adquisición de bienes inmuebles a título oneroso se exigirá, en todo caso informe simultáneo pericial de su valor"
+   ],
+   1,
+   "Art. 174.3 · Ley 7/1999 (Aragón): Tratándose de adquisición de bienes inmuebles a título oneroso se exigirá, en todo caso informe previo pericial de su valor. Las otras dos frases cambian «previo» por «posterior» y «simultáneo».",
+   "l7-1999 174.3",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t10-046",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los bienes de dominio público, mientras conserven este carácter, son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Cualquier ciudadano deberá requerir ese ejercicio a la entidad local interesada",
+    "Las entidades locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria"
+   ],
+   1,
+   "La incorrecta es «Cualquier ciudadano deberá requerir ese ejercicio a la entidad local interesada»: cambia «podrá». Lo correcto: «Cualquier ciudadano podrá requerir ese ejercicio a la entidad local interesada».",
+   "l7-1999 173",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Corresponde a las Entidades locales regular la forma de utilización de sus bienes patrimoniales, de acuerdo con criterios de rentabilidad económica o social",
+    "El uso privativo es aquel por el que se ocupa una porción del dominio público de modo que se limita o excluye la utilización por parte de otros interesados",
+    "El uso privativo reviste mayor intensidad cuando no requiere la implantación de instalaciones fijas y permanentes, en cuyo caso se considerará como uso privativo agravado"
+   ],
+   2,
+   "La incorrecta es «El uso privativo reviste mayor intensidad cuando no requiere la implantación de instalaciones fijas y permanentes, en cuyo caso se considerará como uso privativo agravado»: niega lo que dice la ley. Lo correcto: «El uso privativo reviste mayor intensidad cuando requiere la implantación de instalaciones fijas y permanentes, en cuyo caso se considerará como uso privativo agravado».",
+   "rbaso 75",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Cualquier ciudadano podrá requerir ese ejercicio a la entidad local interesada",
+    "Las entidades locales están obligadas a formar inventario valorado de todos los bienes y derechos que les pertenecen, que será objeto de actualización continua y se rectificará anualmente, comprobándose siempre que se renueve la Corporación",
+    "De las rectificaciones anuales del Inventario podrá remitirse copia a la Diputación General de Aragón"
+   ],
+   2,
+   "La incorrecta es «De las rectificaciones anuales del Inventario podrá remitirse copia a la Diputación General de Aragón»: cambia «deberá». Lo correcto: «De las rectificaciones anuales del Inventario deberá remitirse copia a la Diputación General de Aragón».",
+   "l7-1999 175",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones Locales pueden adquirir bienes y derechos por cualquier otro modo legítimo conforme al ordenamiento jurídico",
+    "Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Las adquisiciones de bienes derivadas de expropiaciones voluntarias se regirán por su normativa específica"
+   ],
+   2,
+   "La incorrecta es «Las adquisiciones de bienes derivadas de expropiaciones voluntarias se regirán por su normativa específica»: cambia «forzosas». Lo correcto: «Las adquisiciones de bienes derivadas de expropiaciones forzosas se regirán por su normativa específica».",
+   "rb 11",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación deberá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente",
+    "Los bienes inmuebles patrimoniales no podrán cederse gratuitamente sino a Entidades o Instituciones publicas para fines que redunden en beneficio de los habitantes del término municipal, así como a las Instituciones privadas de interés público sin animo de lucro",
+    "Las enajenaciones de bienes patrimoniales se regirán en cuanto su preparación y adjudicación por la normativa reguladora de la contratación de las Corporaciones locales"
+   ],
+   0,
+   "La incorrecta es «Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación deberá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente»: cambia «podrá». Lo correcto: «Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación podrá expropiarle su terreno del ",
+   "rb 115",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las Entidades locales promoverán y ejecutarán el deslinde entre los bienes de su pertenencia y los de terceros cuando sus límites fueren imprecisos o existan indicios de usurpación o indebida ocupación",
+    "Los dueños de los terrenos colindantes con fincas pertenecientes a las Entidades locales o enclavadas dentro de aquéllas podrán solicitar su deslinde",
+    "El procedimiento de adjudicación de la utilización onerosa de los bienes patrimoniales de las Entidades locales podrá ser solo adjudicación directa, sin publicidad ni concurrencia, por razones de rentabilidad social"
+   ],
+   2,
+   "La incorrecta es «el procedimiento de adjudicación de la utilización onerosa de los bienes patrimoniales de las Entidades locales podrá ser solo adjudicación directa, sin publicidad ni concurrencia, por razones de rentabilidad social». Lo correcto: el procedimiento de adjudicación de la utilización onerosa de los bienes patrimoniales de las Entidades locales podrá ser subasta, concurso o procedimiento negociado sin p",
+   "rbaso 100.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La utilización del dominio público se considera normal o anormal según sea o no conforme con el destino principal del bien de que se trate",
+    "Se considerarán parcelas sobrantes aquellas porciones de terreno propiedad de las Entidades locales que por su reducida extensión, forma irregular o emplazamiento no fueren susceptibles de uso adecuado",
+    "La utilización de los bienes de dominio y uso público podrá adoptar las modalidades de uso general, uso especial y uso compartido, según la intensidad de la utilización del bien"
+   ],
+   2,
+   "La incorrecta es «la utilización de los bienes de dominio y uso público podrá adoptar las modalidades de uso general, uso especial y uso compartido, según la intensidad de la utilización del bien». Lo correcto: la utilización de los bienes de dominio y uso público podrá adoptar las modalidades de uso común (general o especial) y uso privativo.",
+   "rbaso 72",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los bienes de dominio público, mientras conserven este carácter, son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Las entidades locales no tienen la obligación de ejercitar todos los medios, acciones y recursos en defensa de sus bienes y derechos",
+    "De las rectificaciones anuales del Inventario deberá remitirse copia a la Diputación General de Aragón"
+   ],
+   1,
+   "La incorrecta es «Las entidades locales no tienen la obligación de ejercitar todos los medios, acciones y recursos en defensa de sus bienes y derechos»: niega lo que dice la ley. Lo correcto: «Las entidades locales tienen la obligación de ejercitar todos los medios, acciones y recursos en defensa de sus bienes y derechos».",
+   "l7-1999 173",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La adquisición no podrá tener lugar a título oneroso, a través de contrato y por expropiación",
+    "Tratándose de bienes inmuebles se exigirá, en todo caso, informe previo pericial de su valor",
+    "La adquisición podrá tener lugar por herencia, legado o donación"
+   ],
+   0,
+   "La incorrecta es «La adquisición no podrá tener lugar a título oneroso, a través de contrato y por expropiación»: cambia «podrá». Lo correcto: «La adquisición podrá tener lugar a título oneroso, a través de contrato y por expropiación».",
+   "l7-1999 174",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "El arrendamiento de bienes patrimoniales exige subasta siempre que la duración sea superior a cinco años o el precio exceda del diez por ciento de los ingresos",
+    "El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de explotación común o cultivo colectivo",
+    "Las Entidades locales tienen capacidad jurídica plena para adquirir y poseer bienes de todas las clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio"
+   ],
+   0,
+   "La incorrecta es «el arrendamiento de bienes patrimoniales exige subasta siempre que la duración sea superior a cinco años o el precio exceda del diez por ciento de los ingresos». Lo correcto: el arrendamiento de bienes patrimoniales exige subasta siempre que la duración sea superior a cinco años o el precio exceda del cinco por ciento de los recursos ordinarios del presupuesto.",
+   "rb 92.1",
+   "Proposición negativa",
+   "h-patrimoniales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones locales están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición",
+    "Las Entidades locales tienen la obligación de ejercer las acciones necesarias para la defensa de sus bienes y derechos",
+    "Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales no deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado"
+   ],
+   2,
+   "La incorrecta es «Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales no deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado»: cambia «deberán». Lo correcto: «Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locale",
+   "rb 9",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Corresponde a las Entidades locales regular la forma de utilización de sus bienes patrimoniales, de acuerdo con criterios de rentabilidad económica o social",
+    "La utilización del dominio público se considera normal o anormal según sea o no conforme con el destino principal del bien de que se trate",
+    "La utilización deberá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato"
+   ],
+   2,
+   "La incorrecta es «La utilización deberá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato»: cambia «podrá». Lo correcto: «La utilización podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato».",
+   "rbaso 99",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Una vez iniciado el procedimiento administrativo de deslinde y mientras dure su tramitación se interrumpe el procedimiento administrativo",
+    "Las concesiones y autorizaciones sobre bienes de dominio público se regirán en primer término por la legislación especial reguladora de aquéllas y, a falta de normas especiales, por la Ley 33/2003",
+    "No se entienden incluidos en el patrimonio de las Administraciones públicas el dinero, los valores, los créditos y los demás recursos financieros de su hacienda"
+   ],
+   0,
+   "La incorrecta es «una vez iniciado el procedimiento administrativo de deslinde y mientras dure su tramitación se interrumpe el procedimiento administrativo». Lo correcto: una vez iniciado el procedimiento administrativo de deslinde y mientras dure su tramitación no podrá instarse procedimiento judicial con igual pretensión.",
+   "l33-2003 50.2",
+   "Proposición negativa",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La adquisición podrá tener lugar por cualquier otro modo legítimo conforme al ordenamiento jurídico",
+    "Tratándose de bienes inmuebles se exigirá, en todo caso, informe simultáneo pericial de su valor",
+    "Cuando la adquisición de bienes a título gratuito llevare aneja alguna condición o carga, sólo podrá aceptarse previo expediente en que se acredite que el valor del gravamen impuesto no excede del valor de lo que se adquiera"
+   ],
+   1,
+   "La incorrecta es «Tratándose de bienes inmuebles se exigirá, en todo caso, informe simultáneo pericial de su valor»: cambia «previo». Lo correcto: «Tratándose de bienes inmuebles se exigirá, en todo caso, informe previo pericial de su valor».",
+   "l7-1999 174",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Si la alteración de la calificación jurídica se refiere a bienes de dominio público, el acuerdo habrá de adoptarse por mayoría de tres quintos del número legal de miembros de la Corporación",
+    "La afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando la entidad local adquiera por usucapión bienes destinados al uso o servicio público o al aprovechamiento comunal",
+    "El expediente habrá de ser resuelto por el Pleno de la Corporación, previa información pública por plazo de un mes"
+   ],
+   0,
+   "La incorrecta es «Si la alteración de la calificación jurídica se refiere a bienes de dominio público, el acuerdo habrá de adoptarse por mayoría de tres quintos del número legal de miembros de la Corporación»: cambia «mayoría absoluta». Lo correcto: «Si la alteración de la calificación jurídica se refiere a bienes de dominio público, el acuerdo habrá de adoptarse por mayoría absoluta del número legal de miembros de l",
+   "l7-1999 177",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son bienes y derechos de dominio privado o patrimoniales los de titularidad de las Administraciones públicas que no tengan el carácter de demaniales",
+    "Los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán en todo caso, bienes de dominio público",
+    "La facultad de investigación permite a las Administraciones inspeccionar a los particulares"
+   ],
+   2,
+   "La incorrecta es «la facultad de investigación permite a las Administraciones inspeccionar a los particulares». Lo correcto: la facultad de investigación permite a las Administraciones averiguar la situación de los bienes que presumiblemente formen parte de su patrimonio para determinar su titularidad cuando no les conste de modo cierto.",
+   "l33-2003 45",
+   "Proposición negativa",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "No podrán otorgarse licencias por plazo superior a seis años",
+    "Como regla general, el usuario habrá de satisfacer un precio que no podrá ser inferior al seis por ciento del valor en venta de los bienes",
+    "En ningún caso serán transmisibles las licencias concedidas en atención a las cualidades personales del sujeto o cuyo número estuviese limitado"
+   ],
+   0,
+   "La incorrecta es «No podrán otorgarse licencias por plazo superior a seis años»: cambia «diez años». Lo correcto: «No podrán otorgarse licencias por plazo superior a diez años».",
+   "rbaso 80",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si los bienes y derechos cuya posesión se trata de recuperar tienen la condición de demaniales, la potestad de recuperación podrá ejercitarse en cualquier tiempo",
+    "Las Administraciones públicas podrán recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros",
+    "Las Administraciones públicas deberán recuperar por sí mismas la posesión indebidamente perdida sobre los bienes y derechos de su patrimonio"
+   ],
+   2,
+   "La incorrecta es «Las Administraciones públicas deberán recuperar por sí mismas la posesión indebidamente perdida sobre los bienes y derechos de su patrimonio»: cambia «podrán». Lo correcto: «Las Administraciones públicas podrán recuperar por sí mismas la posesión indebidamente perdida sobre los bienes y derechos de su patrimonio».",
+   "l33-2003 55",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La utilización no podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato",
+    "La utilización del dominio público se considera normal o anormal según sea o no conforme con el destino principal del bien de que se trate",
+    "Corresponde a las Entidades locales regular la forma de utilización de sus bienes patrimoniales, de acuerdo con criterios de rentabilidad económica o social"
+   ],
+   0,
+   "La incorrecta es «La utilización no podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato»: cambia «podrá». Lo correcto: «La utilización podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato».",
+   "rbaso 99",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las parcelas sobrantes no susceptibles por sí de un uso adecuado y los bienes no utilizables tienen la consideración de bienes patrimoniales",
+    "Los bienes de dominio público, mientras conserven este carácter, son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "La afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando se publique en el boletín oficial el acuerdo de afectación aprobado por el Pleno de la Corporación"
+   ],
+   2,
+   "La incorrecta es «la afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando se publique en el boletín oficial el acuerdo de afectación aprobado por el Pleno de la Corporación». Lo correcto: la afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando la entidad local adquiera por usucapión bi",
+   "l7-1999 178.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "A los bienes comunales les será aplicable el régimen jurídico de los bienes de dominio público, sin perjuicio de las normas específicas que regulen su aprovechamiento",
+    "Los bienes de dominio público, mientras conserven este carácter, son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Los dueños de los terrenos colindantes con fincas pertenecientes a las Entidades locales o que estuvieren enclavadas dentro de aquéllas no podrán solicitar su deslinde"
+   ],
+   2,
+   "La incorrecta es «Los dueños de los terrenos colindantes con fincas pertenecientes a las Entidades locales o que estuvieren enclavadas dentro de aquéllas no podrán solicitar su deslinde»: cambia «podrán». Lo correcto: «Los dueños de los terrenos colindantes con fincas pertenecientes a las Entidades locales o que estuvieren enclavadas dentro de aquéllas podrán solicitar su deslinde».",
+   "rbaso 54",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "La alteración de la calificación jurídica de los bienes de las Entidades locales no requiere expediente en el que se acrediten su oportunidad y legalidad",
+    "Las licencias se otorgarán directamente, salvo si por cualquier circunstancia se limitare el número de las mismas, en cuyo caso lo serán por licitación y, si no fuere posible, porque todos los autorizados hubieren de reunir las mismas condiciones, mediante sorteo",
+    "Los particulares podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes"
+   ],
+   0,
+   "La incorrecta es «La alteración de la calificación jurídica de los bienes de las Entidades locales no requiere expediente en el que se acrediten su oportunidad y legalidad»: niega lo que dice la ley. Lo correcto: «La alteración de la calificación jurídica de los bienes de las Entidades locales requiere expediente en el que se acrediten su oportunidad y legalidad».",
+   "rb 8",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "El uso común especial normal de los bienes de dominio público se sujetará a licencia, ajustada a la naturaleza del dominio",
+    "Las Corporaciones locales están obligadas a formar inventario de solo sus bienes patrimoniales",
+    "Los valores mobiliarios se custodiarán en la caja de caudales bajo la responsabilidad de los tres claveros"
+   ],
+   1,
+   "La incorrecta es «las Corporaciones locales están obligadas a formar inventario de solo sus bienes patrimoniales». Lo correcto: las Corporaciones locales están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición.",
+   "rb 17.1",
+   "Proposición negativa",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Las enajenaciones de bienes patrimoniales se regirán en cuanto su preparación y adjudicación por la normativa reguladora de la contratación de las Corporaciones locales",
+    "Los bienes inmuebles patrimoniales no podrán cederse gratuitamente sino a Entidades o Instituciones publicas para fines que redunden en beneficio de los habitantes del término municipal, así como a las Instituciones privadas de interés público sin animo de lucro",
+    "El arrendamiento y cualquier otra forma de cesión de uso de bienes patrimoniales de las Entidades locales no se regirá, en todo caso, en cuanto a su preparación y adjudicación por la normativa reguladora de contratación de las Entidades locales"
+   ],
+   2,
+   "La incorrecta es «El arrendamiento y cualquier otra forma de cesión de uso de bienes patrimoniales de las Entidades locales no se regirá, en todo caso, en cuanto a su preparación y adjudicación por la normativa reguladora de contratación de las Entidades locales»: niega lo que dice la ley. Lo correcto: «El arrendamiento y cualquier otra forma de cesión de uso de bienes patrimoniales de las Entidades locales se regirá",
+   "rb 92",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Por motivos sociales, las Corporaciones podrán ceder el uso de bienes patrimoniales directamente o por concurso, de forma gratuita o con la contraprestación convenida, a otras Administraciones y Entidades públicas o privadas sin ánimo de lucro para fines de utilidad pública o interés social",
+    "La utilización de los bienes patrimoniales podrá realizarse solo mediante concesión administrativa",
+    "Tras la desafectación, si los bienes fueran susceptibles de aprovechamiento agrícola o de pastos, su destino preferente será su arrendamiento a los vecinos del municipio, individualmente o agrupados en cooperativas o sociedades"
+   ],
+   1,
+   "La incorrecta es «la utilización de los bienes patrimoniales podrá realizarse solo mediante concesión administrativa». Lo correcto: la utilización de los bienes patrimoniales podrá realizarse directamente por la Entidad local o cederse a particulares mediante contrato.",
+   "rbaso 99.2",
+   "Proposición negativa",
+   "h-patrimoniales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones Locales pueden adquirir bienes y derechos por caducidad",
+    "Las Corporaciones Locales pueden adquirir bienes y derechos por cualquier otro modo legítimo conforme al ordenamiento jurídico",
+    "La adquisición de bienes a título gratuito no estará sujeta a restricción alguna"
+   ],
+   0,
+   "La incorrecta es «Las Corporaciones Locales pueden adquirir bienes y derechos por caducidad»: cambia «prescripción». Lo correcto: «Las Corporaciones Locales pueden adquirir bienes y derechos por prescripción».",
+   "rb 10",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Si un propietario colindante se negara a adquirir la parcela que le corresponde la Corporación podrá expropiarle su terreno",
+    "Son bienes de servicio público local los solares sin uso",
+    "Los honorarios de los Registradores por la inmatriculación o inscripción de bienes de las Entidades locales se reducirán a la mitad"
+   ],
+   1,
+   "La incorrecta es «son bienes de servicio público local los solares sin uso». Lo correcto: son bienes de servicio público local los destinados directamente al cumplimiento de fines públicos de responsabilidad de la entidad, como casas consistoriales, mercados o escuelas.",
+   "rb 4",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Los bienes de las Entidades locales se clasificarán en bienes de uso público, de servicio público y comunales",
+    "Son bienes de uso público local los caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento o utilización generales cuya conservación y policía sean de la competencia de la Entidad local",
+    "Las Corporaciones locales están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición"
+   ],
+   0,
+   "La incorrecta es «los bienes de las Entidades locales se clasificarán en bienes de uso público, de servicio público y comunales». Lo correcto: los bienes de las Entidades locales se clasificarán en bienes de dominio público y bienes patrimoniales.",
+   "rb 2.1",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como calles, plazas, paseos y parques, destinados a ser utilizados directamente por los particulares",
+    "Se entenderán por instalaciones desmontables aquellas que, entre otros requisitos precisen a lo sumo obras puntuales de cimentación que no sobresalgan del terreno y estén constituidas por elementos de serie prefabricados, sin soldaduras ni elaboración de materiales en obra",
+    "Por motivos sociales, las Corporaciones podrán ceder el uso de bienes patrimoniales directamente o por concurso, de forma gratuita o con la contraprestación convenida, a otras Administraciones y Entidades públicas o privadas sin ánimo de lucro para fines de utilidad pública o interés social"
+   ],
+   0,
+   "La incorrecta es «son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como calles, plazas, paseos y parques, destinados a ser utilizados directamente por los particulares». Lo correcto: son bienes de servicio público los destinados directamente al cumplimiento de fines públicos de competencia de las Entidades locales, tales como c",
+   "rbaso 3.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La alteración de la calificación jurídica se produce automáticamente en el caso de adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio públicos",
+    "Los bienes patrimoniales se rigen por exclusivamente el Derecho administrativo",
+    "Los bienes patrimoniales de las entidades locales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado"
+   ],
+   1,
+   "La incorrecta es «los bienes patrimoniales se rigen por exclusivamente el Derecho administrativo». Lo correcto: los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado.",
+   "lbrl 80",
+   "Proposición negativa",
+   "h-regimen",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La utilización del dominio público se considera normal o anormal según sea o no conforme con el destino principal del bien de que se trate",
+    "El uso común especial no es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares",
+    "El uso privativo es aquel por el que se ocupa una porción del dominio público de modo que se limita o excluye la utilización por parte de otros interesados"
+   ],
+   1,
+   "La incorrecta es «El uso común especial no es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares»: niega lo que dice la ley. Lo correcto: «El uso común especial es aquel en que concurren circunstancias singulares de intensidad, peligrosidad u otras similares».",
+   "rbaso 74",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La adquisición de bienes a título oneroso no exigirá el cumplimiento de las normas sobre contratación",
+    "Tratándose de bienes inmuebles se exigirá, en todo caso, informe previo pericial de su valor",
+    "La adquisición podrá tener lugar por herencia, legado o donación"
+   ],
+   0,
+   "La incorrecta es «La adquisición de bienes a título oneroso no exigirá el cumplimiento de las normas sobre contratación»: niega lo que dice la ley. Lo correcto: «La adquisición de bienes a título oneroso exigirá el cumplimiento de las normas sobre contratación».",
+   "l7-1999 174",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán bienes patrimoniales",
+    "El patrimonio de las Administraciones públicas está constituido por el conjunto de sus bienes y derechos, cualquiera que sea su naturaleza y el título de su adquisición",
+    "Las facultades y prerrogativas de las Administraciones para la defensa de su patrimonio incluyen investigar, deslindar en vía administrativa, recuperar de oficio la posesión y desahuciar en vía administrativa a poseedores de inmuebles demaniales"
+   ],
+   0,
+   "La incorrecta es «los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán bienes patrimoniales». Lo correcto: los inmuebles de la AGE en que se alojen servicios, oficinas o dependencias de sus órganos se considerarán en todo caso, bienes de dominio público.",
+   "l33-2003 5.3",
+   "Proposición negativa",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Los particulares deberán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes",
+    "La aceptación de herencias se entenderá a beneficio de inventario",
+    "La adquisición de bienes a título oneroso exigirá el cumplimiento de los requisitos contemplados en la normativa reguladora de la contratación de las Corporaciones locales"
+   ],
+   0,
+   "La incorrecta es «Los particulares deberán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes»: cambia «podrán». Lo correcto: «Los particulares podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes».",
+   "rb 14",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La prerrogativa de deslinde de las entidades locales se ajustará a la legislación del Patrimonio del Estado y, en su caso, la de montes",
+    "Tienen la consideración de comunales los bienes de dominio público que son propiedad de varias entidades",
+    "Los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado"
+   ],
+   1,
+   "La incorrecta es «tienen la consideración de comunales los bienes de dominio público que son propiedad de varias entidades». Lo correcto: tienen la consideración de comunales los bienes de dominio público cuyo aprovechamiento corresponde al común de los vecinos.",
+   "lbrl 79",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Entre las prerrogativas de las entidades locales respecto de sus bienes se encuentra la de enajenar sus bienes sin necesidad de acuerdo del Pleno ni de información pública",
+    "Las entidades locales están obligadas a formar un inventario valorado de todos sus bienes y derechos, que se rectificará anualmente, comprobándose siempre que se renueve la Corporación",
+    "La adquisición de bienes por las entidades locales podrá tener lugar, entre otras formas por atribución legal, a título oneroso, por herencia, legado o donación, por prescripción y por ocupación"
+   ],
+   0,
+   "La incorrecta es «entre las prerrogativas de las entidades locales respecto de sus bienes se encuentra la de enajenar sus bienes sin necesidad de acuerdo del Pleno ni de información pública». Lo correcto: entre las prerrogativas de las entidades locales respecto de sus bienes se encuentra la de investigar la situación de los que se presuman de su propiedad, deslindar, recuperar su posesión, ejercer la potestad sancio",
+   "l7-1999 173.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "La incorporación al patrimonio de los bienes desafectados no se entiende efectuada hasta el acuerdo de desafectación",
+    "La afectación de los inmuebles al uso público se producirá, en todo caso en el momento de la cesión de derecho a la administración actuante conforme a la legislación urbanística",
+    "Los bienes inmuebles patrimoniales no podrán enajenarse, gravarse ni permutarse sin autorización autonómica cuando su valor exceda del veinticinco por ciento de los recursos ordinarios del presupuesto anual"
+   ],
+   0,
+   "La incorrecta es «la incorporación al patrimonio de los bienes desafectados no se entiende efectuada hasta el acuerdo de desafectación». Lo correcto: la incorporación al patrimonio de los bienes desafectados no se entiende efectuada hasta la recepción formal por el órgano competente de la Corporación, manteniendo hasta entonces el carácter de dominio público.",
+   "rb 8.3",
+   "Proposición negativa",
+   "h-alteracion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Los particulares podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes",
+    "La aceptación de herencias se entenderá a beneficio de inventario",
+    "Las adquisiciones de bienes derivadas de expropiaciones automáticas se regirán por su normativa específica"
+   ],
+   2,
+   "La incorrecta es «Las adquisiciones de bienes derivadas de expropiaciones automáticas se regirán por su normativa específica»: cambia «forzosas». Lo correcto: «Las adquisiciones de bienes derivadas de expropiaciones forzosas se regirán por su normativa específica».",
+   "rb 11",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Las Corporaciones locales podrán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria",
+    "Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado",
+    "A falta de licitadores la adjudicación se podrá hacer de forma directa"
+   ],
+   0,
+   "La incorrecta es «Las Corporaciones locales podrán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria»: cambia «deberán». Lo correcto: «Las Corporaciones locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria».",
+   "rb 36",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las entidades locales no tienen capacidad jurídica plena para adquirir y poseer bienes de todas clases",
+    "Cuando la adquisición de bienes a título gratuito llevare aneja alguna condición o carga, sólo podrá aceptarse previo expediente en que se acredite que el valor del gravamen impuesto no excede del valor de lo que se adquiera",
+    "La adquisición podrá tener lugar a título oneroso, a través de contrato y por expropiación"
+   ],
+   0,
+   "La incorrecta es «Las entidades locales no tienen capacidad jurídica plena para adquirir y poseer bienes de todas clases»: niega lo que dice la ley. Lo correcto: «Las entidades locales tienen capacidad jurídica plena para adquirir y poseer bienes de todas clases».",
+   "l7-1999 174",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La utilización de los bienes de dominio y uso público podrá adoptar las modalidades de uso normal y uso anormal únicamente, según sea conforme o no con el destino principal del bien",
+    "Los bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal, se presume su carácter patrimonial"
+   ],
+   0,
+   "La incorrecta es «la utilización de los bienes de dominio y uso público podrá adoptar las modalidades de uso normal y uso anormal únicamente, según sea conforme o no con el destino principal del bien». Lo correcto: la utilización de los bienes de dominio y uso público podrá adoptar las modalidades de uso común (general o especial) y uso privativo.",
+   "rbaso 72",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación no podrá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente",
+    "Las parcelas sobrantes a que alude el artículo séptimo serán enajenadas por venta directa al propietario o propietarios colindantes o permutadas con terrenos de los mismos",
+    "Los bienes inmuebles patrimoniales no podrán cederse gratuitamente sino a Entidades o Instituciones publicas para fines que redunden en beneficio de los habitantes del término municipal, así como a las Instituciones privadas de interés público sin animo de lucro"
+   ],
+   0,
+   "La incorrecta es «Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación no podrá expropiarle su terreno del modo dispuesto para la regulación de solares a cuyo efecto será preceptivo, en cada caso, al dictamen técnico pertinente»: cambia «podrá». Lo correcto: «Si algún propietario se negara a adquirir la parcela que le correspondiere, la Corporación podrá expropiarle su terreno de",
+   "rb 115",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La adquisición no podrá tener lugar por herencia, legado o donación",
+    "La adquisición de bienes a título oneroso exigirá el cumplimiento de las normas sobre contratación",
+    "Las entidades locales tienen capacidad jurídica plena para adquirir y poseer bienes de todas clases"
+   ],
+   0,
+   "La incorrecta es «La adquisición no podrá tener lugar por herencia, legado o donación»: cambia «podrá». Lo correcto: «La adquisición podrá tener lugar por herencia, legado o donación».",
+   "l7-1999 174",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "Los comunales no disfrutados durante más de diez años podrán perder su carácter con acuerdo que requiere información pública, mayoría absoluta y posterior aprobación por la Comunidad Autónoma",
+    "La incorporación al patrimonio de los bienes desafectados no se entiende efectuada hasta la recepción formal por el órgano competente de la Corporación, manteniendo hasta entonces el carácter de dominio público",
+    "Si la adquisición gratuita lleva aneja una condición onerosa, solo podrán aceptarse previo expediente que acredite que existe informe favorable de la Diputación"
+   ],
+   2,
+   "La incorrecta es «si la adquisición gratuita lleva aneja una condición onerosa, solo podrán aceptarse previo expediente que acredite que existe informe favorable de la Diputación». Lo correcto: si la adquisición gratuita lleva aneja una condición onerosa, solo podrán aceptarse previo expediente que acredite que el valor del gravamen impuesto no excede del valor de lo que se adquiere.",
+   "rb 12.2",
+   "Proposición negativa",
+   "h-adquisicion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La adquisición podrá tener lugar a título oneroso, a través de contrato y por expropiación",
+    "Tratándose de bienes inmuebles se exigirá, en todo caso, informe posterior pericial de su valor",
+    "La adquisición podrá tener lugar por cualquier otro modo legítimo conforme al ordenamiento jurídico"
+   ],
+   1,
+   "La incorrecta es «Tratándose de bienes inmuebles se exigirá, en todo caso, informe posterior pericial de su valor»: cambia «previo». Lo correcto: «Tratándose de bienes inmuebles se exigirá, en todo caso, informe previo pericial de su valor».",
+   "l7-1999 174",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 178 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La alteración de la calificación jurídica y la afectación al dominio público se producen automáticamente, entre otros supuestos, por aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios",
+    "La afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando el Alcalde lo ordene verbalmente, sin necesidad de acto formal escrito de afectación",
+    "Se produce la alteración tácita por adscripción de bienes patrimoniales a un uso o servicio público o al aprovechamiento comunal durante más de veinticinco años"
+   ],
+   1,
+   "La incorrecta es «la afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando el Alcalde lo ordene verbalmente, sin necesidad de acto formal escrito de afectación». Lo correcto: la afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando la entidad local adquiera por usucapión bienes destinado",
+   "l7-1999 178.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de derecho privado",
+    "Las entidades locales están obligadas a formar inventario valorado de todos los bienes y derechos que les pertenecen, que será objeto de actualización continua y se rectificará anualmente, comprobándose siempre que se renueve la Corporación",
+    "Cualquier ciudadano no podrá requerir ese ejercicio a la entidad local interesada"
+   ],
+   2,
+   "La incorrecta es «Cualquier ciudadano no podrá requerir ese ejercicio a la entidad local interesada»: cambia «podrá». Lo correcto: «Cualquier ciudadano podrá requerir ese ejercicio a la entidad local interesada».",
+   "l7-1999 173",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición INCORRECTA:",
+   [
+    "La afectación de los inmuebles al uso público se producirá, en todo caso en el momento de la aprobación definitiva del plan",
+    "Los particulares podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes",
+    "Si la adquisición gratuita lleva aneja una condición onerosa, solo podrán aceptarse previo expediente que acredite que el valor del gravamen impuesto no excede del valor de lo que se adquiere"
+   ],
+   0,
+   "La incorrecta es «la afectación de los inmuebles al uso público se producirá, en todo caso en el momento de la aprobación definitiva del plan». Lo correcto: la afectación de los inmuebles al uso público se producirá, en todo caso en el momento de la cesión de derecho a la administración actuante conforme a la legislación urbanística.",
+   "rb 3.2",
+   "Proposición negativa",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las entidades locales podrán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria",
+    "Las entidades locales tienen la obligación de ejercitar todos los medios, acciones y recursos en defensa de sus bienes y derechos",
+    "De las rectificaciones anuales del Inventario deberá remitirse copia a la Diputación General de Aragón"
+   ],
+   0,
+   "La incorrecta es «Las entidades locales podrán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria»: cambia «deberán». Lo correcto: «Las entidades locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria».",
+   "l7-1999 176",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son bienes de dominio público los de titularidad pública que se encuentren destinados a la explotación económica",
+    "La potestad de recuperación de bienes demaniales puede ejercitarse en cualquier tiempo",
+    "La gestión de los bienes demaniales se ajustará, entre otros, al principio de inalienabilidad, inembargabilidad e imprescriptibilidad"
+   ],
+   0,
+   "La incorrecta es «son bienes de dominio público los de titularidad pública que se encuentren destinados a la explotación económica». Lo correcto: son bienes de dominio público los de titularidad pública que se encuentren afectados al uso general o al servicio público, así como aquellos a los que una ley otorgue expresamente el carácter de demaniales.",
+   "l33-2003 5.1",
+   "Proposición negativa",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Las Administraciones públicas podrán recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros",
+    "Las Administraciones públicas deberán recuperar por sí mismas la posesión indebidamente perdida sobre los bienes y derechos de su patrimonio",
+    "Si los bienes y derechos cuya posesión se trata de recuperar tienen la condición de demaniales, la potestad de recuperación deberá ejercitarse en cualquier tiempo"
+   ],
+   0,
+   "La correcta es «Las Administraciones públicas podrán recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros». Las otras dos son falsas: lo correcto es «Las Administraciones públicas podrán recuperar por sí mismas la posesión indebidamente perdida sobre los bienes y derechos de su patr",
+   "l33-2003 58",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "No podrán otorgarse licencias por plazo superior a diez años",
+    "No podrán otorgarse licencias por plazo superior a doce años",
+    "No podrán otorgarse licencias por plazo superior a seis años"
+   ],
+   0,
+   "Art. 80 · Decreto 347/2002 (RBASO): No podrán otorgarse licencias por plazo superior a diez años. Las otras dos frases cambian «diez años» por «doce años» y «seis años».",
+   "rbaso 80",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Los bienes comunales y demás bienes de dominio público no están sujetos a las normas del Derecho administrativo",
+    "Los bienes comunales y demás bienes de dominio público no están sujetos al control de la Intervención",
+    "Los bienes comunales y demás bienes de dominio público no están sujetos a tributo alguno"
+   ],
+   2,
+   "Art. 5 · RD 1372/1986: Los bienes comunales y demás bienes de dominio público no están sujetos a tributo alguno.",
+   "rb 5",
+   "La afirmación, su negación y otro dato",
+   "h-dominio-publico",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-205",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5.1 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Para declarar un terreno parcela sobrante no se requiere procedimiento de calificación jurídica, salvo que resulte de la aprobación de planes o proyectos de obras y servicios",
+    "Para declarar un terreno parcela sobrante se requiere procedimiento de calificación jurídica, salvo que resulte de la aprobación de planes o proyectos de obras y servicios",
+    "Para declarar un terreno parcela sobrante se requiere informe de la Comunidad Autónoma"
+   ],
+   1,
+   "Art. 5.1 · Decreto 347/2002 (RBASO): Para declarar un terreno parcela sobrante se requiere procedimiento de calificación jurídica, salvo que resulte de la aprobación de planes o proyectos de obras y servicios.",
+   "rbaso 5.1",
+   "La afirmación, su negación y otro dato",
+   "h-patrimoniales",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-097",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "El acuerdo podrá determinar la finalidad concreta a que habrán de destinarse los bienes, el plazo de duración, o su carácter de cesión en precario",
+    "El acuerdo no deberá determinar la finalidad concreta a que habrán de destinarse los bienes, el plazo de duración, o su carácter de cesión en precario",
+    "El acuerdo deberá determinar la finalidad concreta a que habrán de destinarse los bienes, el plazo de duración, o su carácter de cesión en precario"
+   ],
+   2,
+   "Art. 102 · Decreto 347/2002 (RBASO): El acuerdo deberá determinar la finalidad concreta a que habrán de destinarse los bienes, el plazo de duración, o su carácter de cesión en precario. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "rbaso 102",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 176 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la opción correcta:",
+   [
+    "Las entidades locales podrán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria",
+    "Las entidades locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria",
+    "Las entidades locales no deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria"
+   ],
+   1,
+   "Art. 176 · Ley 7/1999 (Aragón): Las entidades locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, conforme a lo dispuesto en la legislación hipotecaria. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "l7-1999 176",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 176.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la opción correcta:",
+   [
+    "Para la inmatriculación de sus bienes en el Registro de la Propiedad será suficiente la certificación que expida el Interventor, con el visto bueno del Alcalde o Presidente, con relación al inventario aprobado",
+    "Para la inmatriculación de sus bienes en el Registro de la Propiedad será suficiente la certificación que expida el Presidente, con el visto bueno del Alcalde o Presidente, con relación al inventario aprobado",
+    "Para la inmatriculación de sus bienes en el Registro de la Propiedad será suficiente la certificación que expida el Secretario, con el visto bueno del Alcalde o Presidente, con relación al inventario aprobado"
+   ],
+   2,
+   "Art. 176.2 · Ley 7/1999 (Aragón): Para la inmatriculación de sus bienes en el Registro de la Propiedad será suficiente la certificación que expida el Secretario, con el visto bueno del Alcalde o Presidente, con relación al inventario aprobado. Las otras dos frases cambian «El Secretario» por «el Interventor» y «el Presidente».",
+   "l7-1999 176.2",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t10-036",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 170.4 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Tienen la consideración de comunales aquellos bienes cuya utilización, aprovechamiento y disfrute corresponde al común de los vecinos",
+    "Tienen la consideración de comunales aquellos bienes cuya titularidad corresponde a los vecinos y su aprovechamiento a la entidad local, en régimen de propiedad comunal",
+    "Tienen la consideración de comunales aquellos bienes que no están afectados a ningún uso o servicio público y pertenecen a la entidad local"
+   ],
+   0,
+   "Art. 170.4 · Ley 7/1999 (Aragón): Tienen la consideración de comunales aquellos bienes cuya utilización, aprovechamiento y disfrute corresponde al común de los vecinos.",
+   "l7-1999 170.4",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-027",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54.1 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Las Entidades locales promoverán y ejecutarán el deslinde entre los bienes de su pertenencia y los de terceros cuando lo solicite un vecino",
+    "Las Entidades locales promoverán y ejecutarán el deslinde entre los bienes de su pertenencia y los de terceros cuando lo ordene la Comunidad Autónoma",
+    "Las Entidades locales promoverán y ejecutarán el deslinde entre los bienes de su pertenencia y los de terceros cuando sus límites fueren imprecisos o existan indicios de usurpación o indebida ocupación"
+   ],
+   2,
+   "Art. 54.1 · Decreto 347/2002 (RBASO): Las Entidades locales promoverán y ejecutarán el deslinde entre los bienes de su pertenencia y los de terceros cuando sus límites fueren imprecisos o existan indicios de usurpación o indebida ocupación.",
+   "rbaso 54.1",
+   "La afirmación, su negación y otro dato",
+   "h-defensa-patrimonio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-112",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 179.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Si los bienes comunales desafectados fueran susceptibles de aprovechamiento agrícola, de pastos o de otro tipo, su destino preferente no será su arrendamiento a los vecinos del municipio, individualmente o agrupados en cooperativas o sociedades",
+    "Si los bienes comunales desafectados fueran susceptibles de aprovechamiento agrícola, de pastos o de otro tipo, su destino preferente será su venta en subasta pública, para destinar el producto a financiar gastos corrientes de la entidad",
+    "Si los bienes comunales desafectados fueran susceptibles de aprovechamiento agrícola, de pastos o de otro tipo, su destino preferente será su arrendamiento a los vecinos del municipio, individualmente o agrupados en cooperativas o sociedades"
+   ],
+   2,
+   "Art. 179.2 · Ley 7/1999 (Aragón): Si los bienes comunales desafectados fueran susceptibles de aprovechamiento agrícola, de pastos o de otro tipo, su destino preferente será su arrendamiento a los vecinos del municipio, individualmente o agrupados en cooperativas o sociedades.",
+   "l7-1999 179.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-044",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Señale la opción correcta la Comunidad Autónoma asignará a los bienes y derechos del patrimonio de las Entidades locales la calificación jurídica que les corresponda",
+    "Señale la opción correcta las Entidades locales asignarán a los bienes y derechos de su patrimonio la calificación jurídica que les corresponda",
+    "Señale la opción correcta el Estado asignará a los bienes y derechos del patrimonio de las Entidades locales la calificación jurídica que les corresponda"
+   ],
+   1,
+   "Art. 7 · Decreto 347/2002 (RBASO): Señale la opción correcta las Entidades locales asignarán a los bienes y derechos de su patrimonio la calificación jurídica que les corresponda.",
+   "rbaso 7",
+   "Opciones casi idénticas",
+   "h-clases",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-206",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 78.1 de Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales, señale la proposición correcta:",
+   [
+    "Estarán sujetos a concesión administrativa el uso común especial normal",
+    "Estarán sujetos a concesión administrativa el uso privativo de bienes de dominio público y su uso anormal",
+    "Estarán sujetos a concesión administrativa el uso común general"
+   ],
+   1,
+   "Art. 78.1 · RD 1372/1986: Estarán sujetos a concesión administrativa el uso privativo de bienes de dominio público y su uso anormal.",
+   "rb 78.1",
+   "La afirmación, su negación y otro dato",
+   "h-uso-demanial",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-158",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "La mutación demanial consistente en el cambio de destino de un bien de dominio público sin alteración de su calificación jurídica requerirá acuerdo del Pleno adoptado por mayoría absoluta del número legal de miembros, acreditando la utilidad pública del cambio de destino",
+    "La mutación demanial consistente en el cambio de destino de un bien de dominio público sin alteración de su calificación jurídica requerirá acuerdo del Pleno adoptado por dos tercios del número legal de miembros, acreditando la utilidad pública del cambio de destino",
+    "La mutación demanial consistente en el cambio de destino de un bien de dominio público sin alteración de su calificación jurídica requerirá acuerdo del Pleno adoptado por mayoría simple, acreditando la utilidad pública del cambio de destino"
+   ],
+   2,
+   "Art. 14.1 · Decreto 347/2002 (RBASO): La mutación demanial consistente en el cambio de destino de un bien de dominio público sin alteración de su calificación jurídica requerirá acuerdo del Pleno adoptado por mayoría simple, acreditando la utilidad pública del cambio de destino.",
+   "rbaso 14.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-061",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 178.1.b de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Se produce la alteración tácita por adscripción de bienes patrimoniales a un uso o servicio público o al aprovechamiento comunal durante más de veinticinco años",
+    "Se produce la alteración tácita por adscripción de bienes patrimoniales a un uso o servicio público o al aprovechamiento comunal durante más de quince años",
+    "Se produce la alteración tácita por adscripción de bienes patrimoniales a un uso o servicio público o al aprovechamiento comunal durante más de diez años"
+   ],
+   0,
+   "Art. 178.1.b · Ley 7/1999 (Aragón): Se produce la alteración tácita por adscripción de bienes patrimoniales a un uso o servicio público o al aprovechamiento comunal durante más de veinticinco años.",
+   "l7-1999 178.1.b",
+   "La afirmación, su negación y otro dato",
+   "h-alteracion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-093",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "La mutación demanial consistente en la cesión de la titularidad de un bien a otra Administración Pública, manteniendo su afección al uso o servicio público, requerirá acuerdo del Pleno con el voto favorable de la mayoría absoluta del número legal de sus miembros",
+    "La mutación demanial consistente en la cesión de la titularidad de un bien a otra Administración Pública, manteniendo su afección al uso o servicio público, no requerirá acuerdo del Pleno con el voto favorable de la mayoría absoluta del número legal de sus miembros",
+    "La mutación demanial consistente en la cesión de la titularidad de un bien a otra Administración Pública, manteniendo su afección al uso o servicio público, requerirá acuerdo del Pleno con el voto favorable de los dos tercios del número legal de miembros, manteniéndose la afección del bien al servicio público"
+   ],
+   0,
+   "Art. 14.2 · Decreto 347/2002 (RBASO): La mutación demanial consistente en la cesión de la titularidad de un bien a otra Administración Pública, manteniendo su afección al uso o servicio público, requerirá acuerdo del Pleno con el voto favorable de la mayoría absoluta del número legal de sus miembros.",
+   "rbaso 14.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-062",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Si la alteración afecta a bienes de dominio público, el acuerdo se adoptará por mayoría de dos tercios",
+    "Si la alteración afecta a bienes de dominio público, el acuerdo se adoptará por mayoría absoluta del número legal de miembros de la Corporación",
+    "Si la alteración afecta a bienes de dominio público, el acuerdo se adoptará por mayoría simple"
+   ],
+   1,
+   "Art. 10 · Decreto 347/2002 (RBASO): Si la alteración afecta a bienes de dominio público, el acuerdo se adoptará por mayoría absoluta del número legal de miembros de la Corporación.",
+   "rbaso 10",
+   "La afirmación, su negación y otro dato",
+   "h-alteracion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-103",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Los bienes de las Entidades locales de Aragón se clasifican en bienes de dominio público, patrimoniales y comunales",
+    "Los bienes de las Entidades locales de Aragón se clasifican en bienes de uso público, de servicio público y comunales",
+    "Los bienes de las Entidades locales de Aragón se clasifican en bienes de dominio público y bienes patrimoniales o de propios"
+   ],
+   2,
+   "Art. 2 · Decreto 347/2002 (RBASO): Los bienes de las Entidades locales de Aragón se clasifican en bienes de dominio público y bienes patrimoniales o de propios.",
+   "rbaso 2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-048",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "La desafectación de bienes comunales para la posterior transmisión del dominio o su permuta no requiere aprobación provisional por el Pleno por mayoría de los dos tercios del número legal de miembros de la Corporación, y aprobación del Gobierno de Aragón con declaración de utilidad pública o social",
+    "La desafectación de bienes comunales para la posterior transmisión del dominio o su permuta requiere aprobación provisional por el Pleno por mayoría de los dos tercios del número legal de miembros de la Corporación, y aprobación del Gobierno de Aragón con declaración de utilidad pública o social",
+    "La desafectación de bienes comunales para la posterior transmisión del dominio o su permuta requiere aprobación provisional por el Pleno por mayoría de la mayoría simple, con aprobación del Gobierno de Aragón y declaración de utilidad pública o social"
+   ],
+   1,
+   "Art. 13 · Decreto 347/2002 (RBASO): La desafectación de bienes comunales para la posterior transmisión del dominio o su permuta requiere aprobación provisional por el Pleno por mayoría de los dos tercios del número legal de miembros de la Corporación, y aprobación del Gobierno de Aragón con declaración de utilidad pública o social.",
+   "rbaso 13",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-060",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75.2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "El uso privativo que requiere la implantación de instalaciones fijas y permanentes se considerará uso privativo agravado",
+    "El uso privativo que requiere la implantación de instalaciones fijas y permanentes se considerará uso normal",
+    "El uso privativo que requiere la implantación de instalaciones fijas y permanentes se considerará uso común especial"
+   ],
+   0,
+   "Art. 75.2 · Decreto 347/2002 (RBASO): El uso privativo que requiere la implantación de instalaciones fijas y permanentes se considerará uso privativo agravado.",
+   "rbaso 75.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t10-067",
+    "tc": 1
    }
   ]
  ]

@@ -35,19 +35,20 @@ def main():
                 if re.search(r'\S  \S| ,|[^.]\.\.[^.]|\bde el\b|\ba el\b', txt): flag('errata', 'espacio doble, coma suelta o «de el»: ' + txt[:50]); break
             if not e or len(e) < 25 or re.match(r'^Art\. [\w.ºª ]+\.$', e): flag('formato', 'explicación vacía o demasiado corta')
             # (3) distractores casi idénticos a la correcta
+            generada = bool(ex.get('hard') or ex.get('neg'))   # las del test completo cambian una sola palabra a propósito
             for k, x in enumerate(o):
-                if k != c and difflib.SequenceMatcher(None, norm(x), norm(o[c])).ratio() > 0.93 and nums(x) == nums(o[c]):
+                if not generada and k != c and difflib.SequenceMatcher(None, norm(x), norm(o[c])).ratio() > 0.93 and nums(x) == nums(o[c]):
                     flag('distractor_igual', f'«{x[:60]}» ≈ correcta'); break
             m = re.match(r'^([a-z0-9-]+) ((?:D[ATFD])?\d+(?: bis| ter)?)', ref)
             if not m: continue
             art = L.get(m.group(1), {}).get('arts', {}).get(m.group(2), '')
             if not art: flag('sin_texto', 'el artículo no está en leyes.json'); continue
             A = pal(art); NA = nums(art)
-            if ex.get('neg'):
+            if ex.get('neg') and not ex.get('hard'):
                 # frases verdaderas: 2 opciones; la falsa: la correcta. La falsa no debe estar literalmente en el artículo
                 f = o[c]; w = pal(f)
                 if w and len(w & A) / len(w) >= 0.97 and nums(f) <= NA and len(w) >= 6: flag('neg_falsa_sospechosa', 'la «falsa» coincide casi del todo con el artículo')
-            else:
+            elif not ex.get('hard'):
                 w = pal(o[c]) | pal(enun.split(',', 1)[-1]); wc = pal(o[c])
                 if wc and len(wc & A) / len(wc) < 0.45: flag('correcta_poco_apoyada', f'solo {round(100*len(wc & A)/len(wc))} % de las palabras de la correcta están en el artículo')
                 nc = nums(o[c]) - nums(ref) - nums(enun)

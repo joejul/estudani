@@ -1453,7 +1453,8 @@
    "h-municipio",
    [
     "territorio, la población y la organización"
-   ]
+   ],
+   {}
   ],
   [
    "Cada municipio pertenecerá a:",
@@ -1469,7 +1470,8 @@
    "h-municipio",
    [
     "una sola provincia"
-   ]
+   ],
+   {}
   ],
   [
    "Toda persona que viva en varios municipios deberá inscribirse en el padrón únicamente en:",
@@ -1485,7 +1487,8 @@
    "h-municipio",
    [
     "más tiempo al año"
-   ]
+   ],
+   {}
   ],
   [
    "Las certificaciones de los datos del Padrón municipal tendrán carácter de:",
@@ -1501,7 +1504,8 @@
    "h-municipio",
    [
     "documento público y fehaciente"
-   ]
+   ],
+   {}
   ],
   [
    "La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde:",
@@ -1517,7 +1521,8 @@
    "h-municipio",
    [
     "Ayuntamiento"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el art. 26.1 LBRL, la biblioteca pública es un servicio que deberá prestarse:",
@@ -1533,7 +1538,8 @@
    "h-servicios",
    [
     "superior a 5.000"
-   ]
+   ],
+   {}
   ],
   [
    "La protección civil y la prevención y extinción de incendios son servicios obligatorios en los municipios con población superior a:",
@@ -1549,7 +1555,8 @@
    "h-servicios",
    [
     "20.000"
-   ]
+   ],
+   {}
   ],
   [
    "El transporte colectivo urbano de viajeros es servicio obligatorio en los municipios con población superior a:",
@@ -1565,7 +1572,8 @@
    "h-servicios",
    [
     "50.000"
-   ]
+   ],
+   {}
   ],
   [
    "En los municipios con población inferior a 20.000 habitantes, la coordinación de la prestación de determinados servicios (agua, residuos, limpieza viaria…) corresponde a:",
@@ -1581,7 +1589,8 @@
    "h-servicios",
    [
     "Diputación provincial"
-   ]
+   ],
+   {}
   ],
   [
    "Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación:",
@@ -1597,7 +1606,8 @@
    "h-servicios",
    [
     "cinco años"
-   ]
+   ],
+   {}
   ],
   [
    "El régimen de organización de los municipios de gran población se aplica a un municipio capital de provincia, capital autonómica o sede de las instituciones autonómicas:",
@@ -1613,7 +1623,8 @@
    "h-gran",
    [
     "Asamblea Legislativa"
-   ]
+   ],
+   {}
   ],
   [
    "En los municipios de gran población, el órgano de máxima representación política de los ciudadanos en el gobierno municipal es:",
@@ -1649,7 +1660,8 @@
    "h-gran",
    [
     "un tercio"
-   ]
+   ],
+   {}
   ],
   [
    "En los municipios de gran población, la aprobación del proyecto de presupuesto corresponde:",
@@ -1665,7 +1677,8 @@
    "h-gran",
    [
     "proyecto de presupuesto"
-   ]
+   ],
+   {}
   ],
   [
    "Los Tenientes de Alcalde en los municipios de gran población se nombran entre:",
@@ -1681,7 +1694,8 @@
    "h-gran",
    [
     "Junta de Gobierno Local"
-   ]
+   ],
+   {}
   ],
   [
    "Contra las resoluciones del órgano para la resolución de las reclamaciones económico-administrativas en municipios de gran población:",
@@ -1697,7 +1711,8 @@
    "h-gran",
    [
     "contencioso-administrativo"
-   ]
+   ],
+   {}
   ],
   [
    "En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es:",
@@ -1713,7 +1728,8 @@
    "h-zaragoza",
    [
     "Gobierno de Zaragoza"
-   ]
+   ],
+   {}
   ],
   [
    "El Consejo Bilateral de Capitalidad se reunirá como mínimo:",
@@ -1729,7 +1745,8 @@
    "h-zaragoza",
    [
     "cada semestre"
-   ]
+   ],
+   {}
   ],
   [
    "El Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrá una vigencia mínima de:",
@@ -1745,7 +1762,8 @@
    "h-zaragoza",
    [
     "cuatro años"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 11 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el municipio es:",
@@ -1850,7 +1868,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 11",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1938,7 +1957,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2076,7 +2096,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2111,7 +2132,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2183,7 +2205,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 25",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2218,7 +2241,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2356,7 +2380,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 22",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2444,7 +2469,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 36"
+    "z": "Prueba oficial, pregunta 36",
+    "tc": 1,
+    "dif": 3
    }
   ],
   [
@@ -2480,7 +2507,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 34"
+    "z": "Prueba oficial, pregunta 34",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2532,7 +2561,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2567,7 +2597,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2585,7 +2616,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 10"
+    "z": "Prueba oficial, pregunta 10",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2694,7 +2727,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 6"
+    "z": "Prueba oficial, pregunta 6",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3007,7 +3042,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3042,7 +3078,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 4"
+    "z": "Prueba oficial, pregunta 4",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3111,7 +3149,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3318,7 +3357,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3456,7 +3496,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3509,7 +3550,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4048,7 +4090,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4157,6 +4200,2710 @@
    {
     "nuevo": 1,
     "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 131 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En los municipios de gran población existirá un Consejo Social de la Ciudad, integrado por representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas",
+    "En los municipios de gran población existirá un Consejo Social de la Ciudad, integrado por concejales de todos los grupos políticos, en proporción al número de miembros que tengan en el Pleno",
+    "En los municipios de gran población existirá un Consejo Social de la Ciudad, integrado por funcionarios municipales designados por el Alcalde para asesorar sobre planificación estratégica"
+   ],
+   0,
+   "Art. 131 · Ley 7/1985 (LBRL): En los municipios de gran población existirá un Consejo Social de la Ciudad, integrado por representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas.",
+   "lbrl 131",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-087",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La gestión económico-financiera en los municipios de gran población se ajustará, entre otros, al criterio de separación de las funciones de contabilidad y de fiscalización de la gestión económico-financiera",
+    "La gestión económico-financiera en los municipios de gran población se ajustará, entre otros, al criterio de unificación de las funciones de contabilidad y de fiscalización en un mismo órgano de la entidad",
+    "La gestión económico-financiera en los municipios de gran población se ajustará, entre otros, al criterio de prioridad del gasto corriente sobre la inversión en la asignación de recursos presupuestarios"
+   ],
+   0,
+   "Art. 133 · Ley 7/1985 (LBRL): La gestión económico-financiera en los municipios de gran población se ajustará, entre otros, al criterio de separación de las funciones de contabilidad y de fiscalización de la gestión económico-financiera.",
+   "lbrl 133",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-090",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El Ayuntamiento de Zaragoza y el Gobierno de Aragón promoverán actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con Entidades financieras públicas",
+    "El Ayuntamiento de Zaragoza y el Gobierno de Aragón promoverán actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con instituciones internacionales, en el ámbito de sus competencias",
+    "El Ayuntamiento de Zaragoza y el Gobierno de Aragón promoverán actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con las Cortes Generales"
+   ],
+   1,
+   "Art. 5 · Ley 10/2017 (Zaragoza): El Ayuntamiento de Zaragoza y el Gobierno de Aragón promoverán actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con instituciones internacionales, en el ámbito de sus competencias.",
+   "l10-2017 5",
+   "La afirmación, su negación y otro dato",
+   "h-ley10",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-154",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "La Administración de la Comunidad Autónoma de Aragón y el Ayuntamiento de Zaragoza ajustarán sus relaciones a los criterios de información mutua, colaboración, coordinación y control previo de la Comunidad Autónoma",
+    "La Administración de la Comunidad Autónoma de Aragón y el Ayuntamiento de Zaragoza ajustarán sus relaciones a los criterios de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos",
+    "La Administración de la Comunidad Autónoma de Aragón y el Ayuntamiento de Zaragoza ajustarán sus relaciones a los criterios de información mutua, colaboración, coordinación y subordinación jerárquica del Ayuntamiento"
+   ],
+   1,
+   "Art. 19 · Ley 10/2017 (Zaragoza): La Administración de la Comunidad Autónoma de Aragón y el Ayuntamiento de Zaragoza ajustarán sus relaciones a los criterios de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.",
+   "l10-2017 19",
+   "La afirmación, su negación y otro dato",
+   "h-ley10",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-156",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "Corresponde al Consejo Bilateral de Capitalidad, entre otras funciones la determinación de los ámbitos de interés concurrente entre Aragón y Zaragoza y el diseño de los mecanismos de colaboración, y la preparación de acuerdos de transferencia o delegación de competencias al municipio",
+    "Corresponde al Consejo Bilateral de Capitalidad, entre otras funciones la aprobación del presupuesto de la Comunidad Autónoma y del presupuesto del Ayuntamiento",
+    "Corresponde al Consejo Bilateral de Capitalidad, entre otras funciones la aprobación de las ordenanzas municipales y de los reglamentos orgánicos del Ayuntamiento de Zaragoza"
+   ],
+   0,
+   "Art. 22 · Ley 10/2017 (Zaragoza): Corresponde al Consejo Bilateral de Capitalidad, entre otras funciones la determinación de los ámbitos de interés concurrente entre Aragón y Zaragoza y el diseño de los mecanismos de colaboración, y la preparación de acuerdos de transferencia o delegación de competencias al municipio.",
+   "l10-2017 22",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-121",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los municipios podrán establecer órganos territoriales de gestión desconcentrada con personalidad jurídica propia, para gestionar los asuntos de cada barrio con autonomía",
+    "Los municipios podrán establecer órganos territoriales de gestión desconcentrada con autonomía respecto del Pleno, y competencias que no puede alterar el Ayuntamiento",
+    "Los municipios podrán establecer órganos territoriales de gestión desconcentrada para facilitar la participación ciudadana en la gestión de los asuntos locales, con la organización, funciones y competencias que cada ayuntamiento les confiera, sin perjuicio de la unidad de gobierno y gestión del municipio"
+   ],
+   2,
+   "Art. 24.1 · Ley 7/1985 (LBRL): Los municipios podrán establecer órganos territoriales de gestión desconcentrada para facilitar la participación ciudadana en la gestión de los asuntos locales, con la organización, funciones y competencias que cada ayuntamiento les confiera, sin perjuicio de la unidad de gobierno y gestión del municipio.",
+   "lbrl 24.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-049",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 1 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El municipio de Zaragoza, capital de la Comunidad Autónoma de Aragón, goza del régimen especial establecido en la Ley 10/2017",
+    "El municipio de Zaragoza, capital de la Comunidad Autónoma de Aragón, no goza del régimen especial establecido en la Ley 10/2017",
+    "El municipio de Zaragoza, capital de la Comunidad Autónoma de Aragón, goza del régimen de Concejo Abierto, por su condición de capital de la Comunidad Autónoma"
+   ],
+   0,
+   "Art. 1 · Ley 10/2017 (Zaragoza): El municipio de Zaragoza, capital de la Comunidad Autónoma de Aragón, goza del régimen especial establecido en la Ley 10/2017.",
+   "l10-2017 1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-099",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 2 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El municipio de Zaragoza no goza, de acuerdo con la autonomía garantizada constitucionalmente, de personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público que afecten a sus ciudadanos",
+    "El municipio de Zaragoza goza, de acuerdo con la autonomía garantizada constitucionalmente, de personalidad jurídica propia y capacidad de obrar limitada a los asuntos de su competencia",
+    "El municipio de Zaragoza goza, de acuerdo con la autonomía garantizada constitucionalmente, de personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público que afecten a sus ciudadanos"
+   ],
+   2,
+   "Art. 2 · Ley 10/2017 (Zaragoza): El municipio de Zaragoza goza, de acuerdo con la autonomía garantizada constitucionalmente, de personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público que afecten a sus ciudadanos.",
+   "l10-2017 2",
+   "La afirmación, su negación y otro dato",
+   "h-ley10",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-153",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El municipio de Zaragoza tiene legitimación para plantear conflictos en defensa de la autonomía local contra disposiciones con rango de ley del Estado y de la Comunidad Autónoma que la lesionen, y defender su autonomía ante instituciones europeas e internacionales",
+    "El municipio de Zaragoza no tiene legitimación para plantear conflictos en defensa de la autonomía local contra disposiciones con rango de ley del Estado y de la Comunidad Autónoma que la lesionen, y defender su autonomía ante instituciones europeas e internacionales",
+    "El municipio de Zaragoza tiene legitimación para interponer recurso de inconstitucionalidad en nombre propio contra leyes que lesionen su autonomía"
+   ],
+   0,
+   "Art. 4 · Ley 10/2017 (Zaragoza): El municipio de Zaragoza tiene legitimación para plantear conflictos en defensa de la autonomía local contra disposiciones con rango de ley del Estado y de la Comunidad Autónoma que la lesionen, y defender su autonomía ante instituciones europeas e internacionales.",
+   "l10-2017 4",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-101",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "Corresponde al Gobierno de Zaragoza la aprobación de los proyectos de ordenanzas y de los Reglamentos (incluidos los orgánicos, salvo las normas reguladoras del Pleno y sus Comisiones), la aprobación del proyecto de presupuesto y el otorgamiento de cualquier tipo de licencia salvo atribución sectorial a otro órgano",
+    "Corresponde al Gobierno de Zaragoza la aprobación de los reglamentos reguladores del Pleno y sus Comisiones, y de los orgánicos",
+    "Corresponde al Gobierno de Zaragoza la aprobación definitiva de las ordenanzas fiscales y el control y fiscalización del Alcalde"
+   ],
+   0,
+   "Art. 14 · Ley 10/2017 (Zaragoza): Corresponde al Gobierno de Zaragoza la aprobación de los proyectos de ordenanzas y de los Reglamentos (incluidos los orgánicos, salvo las normas reguladoras del Pleno y sus Comisiones), la aprobación del proyecto de presupuesto y el otorgamiento de cualquier tipo de licencia salvo atribución sectorial a otro órgano.",
+   "l10-2017 14",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-112",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "Cada grupo municipal designará un portavoz que lo represente en sus relaciones con el resto de grupos municipales",
+    "Cada grupo municipal designará un secretario que levante acta de las reuniones del grupo y las remita a la Secretaría General",
+    "Cada grupo municipal designará un representante en el Gobierno de Zaragoza, nombrado por el Alcalde a propuesta del grupo"
+   ],
+   0,
+   "Art. 15 · Ley 10/2017 (Zaragoza): Cada grupo municipal designará un portavoz que lo represente en sus relaciones con el resto de grupos municipales.",
+   "l10-2017 15",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-113",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 129.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El titular de la asesoría jurídica en los municipios de gran población no será nombrado y separado por la Junta de Gobierno Local, entre personas con título de licenciado en derecho y funcionarios de administración local con habilitación nacional u otros funcionarios de carrera con titulación equivalente",
+    "El titular de la asesoría jurídica en los municipios de gran población será nombrado y separado por el Alcalde, entre personas con título de licenciado en derecho y funcionarios con habilitación nacional",
+    "El titular de la asesoría jurídica en los municipios de gran población será nombrado y separado por la Junta de Gobierno Local, entre personas con título de licenciado en derecho y funcionarios de administración local con habilitación nacional u otros funcionarios de carrera con titulación equivalente"
+   ],
+   2,
+   "Art. 129.2 · Ley 7/1985 (LBRL): El titular de la asesoría jurídica en los municipios de gran población será nombrado y separado por la Junta de Gobierno Local, entre personas con título de licenciado en derecho y funcionarios de administración local con habilitación nacional u otros funcionarios de carrera con titulación equivalente.",
+   "lbrl 129.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-084",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 138 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La Conferencia de ciudades, en el seno de la Conferencia sectorial para asuntos locales, estará formada por la Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios del ámbito de aplicación del título X",
+    "La Conferencia de ciudades, en el seno de la Conferencia sectorial para asuntos locales, no estará formada por la Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios del ámbito de aplicación del título X",
+    "La Conferencia de ciudades, en el seno de la Conferencia sectorial para asuntos locales, estará formada por los presidentes de las diputaciones provinciales y los alcaldes de los municipios de gran población"
+   ],
+   0,
+   "Art. 138 · Ley 7/1985 (LBRL): La Conferencia de ciudades, en el seno de la Conferencia sectorial para asuntos locales, estará formada por la Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios del ámbito de aplicación del título X.",
+   "lbrl 138",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-098",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la opción correcta:",
+   [
+    "La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, podrán ser objeto de delegación en un Concejal",
+    "La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, deberán ser objeto de delegación en un Concejal",
+    "La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, no podrán ser objeto de delegación en un Concejal"
+   ],
+   0,
+   "Art. 12 · Ley 10/2017 (Zaragoza): La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, podrán ser objeto de delegación en un Concejal. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "l10-2017 12",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "El Gobierno de Zaragoza podrá crear un Consejo Jurídico Municipal para emitir informes y dictámenes de carácter no vinculante sobre cualesquiera asuntos de interés municipal",
+    "La Secretaría del Consejo Bilateral de Capitalidad no será ejercida alternativamente por un funcionario del Gobierno de Aragón, cuando presida un representante municipal, y del Ayuntamiento de Zaragoza, cuando presida un representante del Gobierno de Aragón",
+    "Los portavoces de los grupos municipales constituyen la Junta de Portavoces, que está presidida por el Pleno o Teniente de Alcalde en quien delegue"
+   ],
+   0,
+   "La correcta es «El Gobierno de Zaragoza podrá crear un Consejo Jurídico Municipal para emitir informes y dictámenes de carácter no vinculante sobre cualesquiera asuntos de interés municipal». Las otras dos son falsas: lo correcto es «La Secretaría del Consejo Bilateral de Capitalidad será ejercida alternativamente por un funcionario del Gobierno de Aragón, cuando presida un representante municipal, y del Ayuntamiento",
+   "l10-2017 17",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El término municipal no es el territorio en que el ayuntamiento ejerce sus competencias; cada municipio pertenecerá a una sola provincia",
+    "El término municipal es el territorio en que el ayuntamiento ejerce sus competencias; cada municipio pertenecerá a una sola provincia",
+    "El término municipal es el conjunto de núcleos de población del municipio en que el ayuntamiento presta servicios"
+   ],
+   1,
+   "Art. 12 · Ley 7/1985 (LBRL): El término municipal es el territorio en que el ayuntamiento ejerce sus competencias; cada municipio pertenecerá a una sola provincia.",
+   "lbrl 12",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-022",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La iniciativa para crear entes de ámbito inferior al municipio corresponderá solo a la Comunidad Autónoma, a propuesta de la Diputación Provincial correspondiente",
+    "La iniciativa para crear entes de ámbito inferior al municipio corresponderá solo al Ayuntamiento, que lo decidirá por mayoría absoluta del Pleno, oída la población interesada",
+    "La iniciativa para crear entes de ámbito inferior al municipio corresponderá indistintamente a la población interesada o al Ayuntamiento correspondiente, que debe ser oído en todo caso"
+   ],
+   2,
+   "Art. 24 bis · Ley 7/1985 (LBRL): La iniciativa para crear entes de ámbito inferior al municipio corresponderá indistintamente a la población interesada o al Ayuntamiento correspondiente, que debe ser oído en todo caso.",
+   "lbrl 24 bis",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-051",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 128.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En los municipios de gran población los ayuntamientos deberán crear Distritos, como divisiones territoriales propias, dotadas de órganos de gestión desconcentrada",
+    "En los municipios de gran población los ayuntamientos no deberán crear Distritos, como divisiones territoriales propias, dotadas de órganos de gestión desconcentrada",
+    "En los municipios de gran población los ayuntamientos deberán crear Barrios con personalidad jurídica, dotados de órganos de gobierno propios y elegidos por sus vecinos"
+   ],
+   0,
+   "Art. 128.1 · Ley 7/1985 (LBRL): En los municipios de gran población los ayuntamientos deberán crear Distritos, como divisiones territoriales propias, dotadas de órganos de gestión desconcentrada.",
+   "lbrl 128.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-082",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "Con carácter general los acuerdos se adoptarán por mayoría absoluta de votos",
+    "La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, deberán ser objeto de delegación en un Concejal",
+    "Las competencias del Pleno, del Gobierno de Zaragoza, del Alcalde y de los restantes órganos ejecutivos de dirección política y administrativa serán las establecidas en la regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación"
+   ],
+   2,
+   "La correcta es «Las competencias del Pleno, del Gobierno de Zaragoza, del Alcalde y de los restantes órganos ejecutivos de dirección política y administrativa serán las establecidas en la regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación». Las otras dos son falsas: lo correcto es «Con carácter general los acuerdos se adoptarán por mayoría simple de votos» (la otra frase cambia",
+   "l10-2017 9",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la opción correcta:",
+   [
+    "Con carácter general los acuerdos se adoptarán por mayoría absoluta de votos",
+    "Con carácter general los acuerdos se adoptarán por mayoría simple de votos",
+    "Con carácter general los acuerdos se adoptarán por mayoría de dos tercios de votos"
+   ],
+   1,
+   "Art. 11 · Ley 10/2017 (Zaragoza): Con carácter general los acuerdos se adoptarán por mayoría simple de votos. Las otras dos frases cambian «mayoría simple» por «mayoría absoluta» y «mayoría de dos tercios».",
+   "l10-2017 11",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "El gobierno y la administración municipal, salvo en los municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al ayuntamiento, integrado por el Pleno y los Concejales",
+    "El gobierno y la administración municipal, salvo en los municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al ayuntamiento, integrado por la Junta de Gobierno Local y los Concejales",
+    "El gobierno y la administración municipal, salvo en los municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al ayuntamiento, integrado por el Alcalde y los Concejales"
+   ],
+   2,
+   "Art. 19.1 · Ley 7/1985 (LBRL): El gobierno y la administración municipal, salvo en los municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al ayuntamiento, integrado por el Alcalde y los Concejales. Las otras dos frases cambian «el Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "lbrl 19.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t14-035",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Entre las competencias propias del municipio se encuentran la enseñanza universitaria y la formación profesional, en los términos de la legislación educativa",
+    "Entre las competencias propias del municipio se encuentran cementerios y actividades funerarias, ferias, abastos, mercados y lonjas, y promoción del deporte e instalaciones deportivas",
+    "Entre las competencias propias del municipio se encuentran la gestión de hospitales y centros de salud, en los términos de la legislación sanitaria"
+   ],
+   1,
+   "Art. 25.2 · Ley 7/1985 (LBRL): Entre las competencias propias del municipio se encuentran cementerios y actividades funerarias, ferias, abastos, mercados y lonjas, y promoción del deporte e instalaciones deportivas.",
+   "lbrl 25.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-053",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Podrán establecerse sistemas de gestión colaborativa en municipios de menos de 20.000 habitantes, cuya aplicación requerirá decisión del Estado, con la conformidad previa del municipio afectado y el informe de las entidades locales",
+    "Podrán establecerse sistemas de gestión colaborativa en municipios de menos de 20.000 habitantes, cuya aplicación requerirá decisión de la Comunidad Autónoma, con la conformidad previa del municipio afectado y el informe de las entidades locales afectadas",
+    "Podrán establecerse sistemas de gestión colaborativa en municipios de menos de 20.000 habitantes, cuya aplicación requerirá decisión de la Diputación Provincial únicamente, sin necesidad de conformidad del municipio afectado"
+   ],
+   1,
+   "Art. 28 · Ley 7/1985 (LBRL): Podrán establecerse sistemas de gestión colaborativa en municipios de menos de 20.000 habitantes, cuya aplicación requerirá decisión de la Comunidad Autónoma, con la conformidad previa del municipio afectado y el informe de las entidades locales afectadas.",
+   "lbrl 28",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-063",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea el Alcalde y estará formada por representantes de todos los grupos de forma proporcional a su número de miembros",
+    "La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea la Junta de Gobierno Local y estará formada por representantes de todos los grupos de forma proporcional a su número de miembros",
+    "La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea el Pleno y estará formada por representantes de todos los grupos de forma proporcional a su número de miembros"
+   ],
+   2,
+   "Art. 132 · Ley 7/1985 (LBRL): La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea el Pleno y estará formada por representantes de todos los grupos de forma proporcional a su número de miembros. Las otras dos frases cambian «el Pleno» por «el Alcalde» y «la Junta de Gobierno Local».",
+   "lbrl 132",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t14-088",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "La ciudad de Zaragoza ostenta, entre otros, los títulos honoríficos de muy Noble y Muy Leal únicamente, utilizándose habitualmente el título de Leal",
+    "La ciudad de Zaragoza ostenta, entre otros, los títulos honoríficos de muy Noble, Muy Leal e Invicta, utilizándose habitualmente el título de Invicta",
+    "La ciudad de Zaragoza ostenta, entre otros, los títulos honoríficos de muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal; habitualmente se utiliza el título de Inmortal"
+   ],
+   2,
+   "Art. 6 · Ley 10/2017 (Zaragoza): La ciudad de Zaragoza ostenta, entre otros, los títulos honoríficos de muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal; habitualmente se utiliza el título de Inmortal.",
+   "l10-2017 6",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-102",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la opción correcta:",
+   [
+    "Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza el Alcalde, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que se determinen en el Reglamento orgánico",
+    "Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza el Pleno, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que se determinen en el Reglamento orgánico",
+    "Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza la Junta de Gobierno Local, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que se determinen en el Reglamento orgánico"
+   ],
+   0,
+   "Art. 8 · Ley 10/2017 (Zaragoza): Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza el Alcalde, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que se determinen en el Reglamento orgánico. Las otras dos frases cambian «El Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "l10-2017 8",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t14-105",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "El Pleno será presidido por el Alcalde, excepto en los supuestos regulados por la legislación de régimen electoral general y en el caso de delegación en un concejal",
+    "Corresponde al Alcalde nombrar y separar libremente a los miembros del Gobierno de Zaragoza, cuyo número no podrá exceder de dos tercios del número legal de miembros del Pleno, además del Alcalde",
+    "El Gobierno de Zaragoza, bajo la dirección y presidencia del Alcalde, no es el órgano colegiado ejecutivo de dirección política y administrativa"
+   ],
+   0,
+   "La correcta es «El Pleno será presidido por el Alcalde, excepto en los supuestos regulados por la legislación de régimen electoral general y en el caso de delegación en un concejal». Las otras dos son falsas: lo correcto es «Corresponde al Alcalde nombrar y separar libremente a los miembros del Gobierno de Zaragoza, cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde» ",
+   "l10-2017 10",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "Las asignaciones a las que se refiere el apartado 1 tendrán la consideración de fondos incondicionados",
+    "El Consejo Bilateral de Capitalidad no podrá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cuando se vayan a tratar asuntos o temas de su competencia específica",
+    "Las certificaciones no serán emitidas por el funcionario que haya ejercido como Secretario en la última reunión"
+   ],
+   0,
+   "La correcta es «Las asignaciones a las que se refiere el apartado 1 tendrán la consideración de fondos incondicionados». Las otras dos son falsas: lo correcto es «El Consejo Bilateral de Capitalidad podrá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cuando se vayan a tratar asuntos o temas de su competencia específica» (la otra frase cambia «podrá») y «Las certific",
+   "l10-2017 57",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Son órganos directivos municipales en los municipios de gran población el Alcalde y los miembros de la Junta de Gobierno Local, que dirigen la política municipal",
+    "Son órganos directivos municipales en los municipios de gran población los miembros de la Junta de Gobierno Local y los Presidentes de los Distritos municipales",
+    "Son órganos directivos municipales en los municipios de gran población los coordinadores generales, los directores generales, el titular de la asesoría jurídica, el Secretario general del Pleno y el interventor general municipal"
+   ],
+   2,
+   "Art. 130.1 · Ley 7/1985 (LBRL): Son órganos directivos municipales en los municipios de gran población los coordinadores generales, los directores generales, el titular de la asesoría jurídica, el Secretario general del Pleno y el interventor general municipal.",
+   "lbrl 130.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-086",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "El Consejo Bilateral de Capitalidad deberá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cuando se vayan a tratar asuntos o temas de su competencia específica",
+    "La Presidencia del Consejo Bilateral de Capitalidad no se ejercerá de modo alternativo por un representante del Gobierno de Aragón y del Gobierno de Zaragoza",
+    "Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación"
+   ],
+   2,
+   "La correcta es «Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación». Las otras dos son falsas: lo correcto es «El Consejo Bilateral de Capitalidad podrá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cu",
+   "l10-2017 18",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El municipio no es la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad para el cumplimiento de sus fines",
+    "El municipio es la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad para el cumplimiento de sus fines",
+    "El municipio es una entidad local de ámbito supramunicipal, con personalidad jurídica y capacidad limitada"
+   ],
+   1,
+   "Art. 11 · Ley 7/1985 (LBRL): El municipio es la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad para el cumplimiento de sus fines.",
+   "lbrl 11",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-020",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Los vecinos tienen derecho a exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público en el supuesto de constituir una competencia municipal propia de carácter obligatorio",
+    "Los vecinos tienen derecho a exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público en el supuesto de constituir una competencia municipal propia de carácter potestativo",
+    "Los vecinos tienen derecho a exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público en el supuesto de constituir una competencia municipal propia de carácter voluntario"
+   ],
+   0,
+   "Art. 18.1 · Ley 7/1985 (LBRL): Los vecinos tienen derecho a exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público en el supuesto de constituir una competencia municipal propia de carácter obligatorio. Las otras dos frases cambian «obligatorio» por «potestativo» y «voluntario».",
+   "lbrl 18.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t14-034",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 136 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La función de control y fiscalización interna de la gestión económico-financiera y presupuestaria corresponderá a un órgano con la denominación de Intervención general municipal, cuyo titular será nombrado entre funcionarios de Administración local con habilitación de carácter nacional",
+    "La función de control y fiscalización interna de la gestión económico-financiera y presupuestaria corresponderá a un órgano con la denominación de Tesorería municipal, cuyo titular será nombrado entre funcionarios con habilitación de carácter nacional",
+    "La función de control y fiscalización interna de la gestión económico-financiera y presupuestaria corresponderá a un órgano con la denominación de Secretaría general del Pleno, cuyo titular será nombrado libremente por el Alcalde"
+   ],
+   0,
+   "Art. 136 · Ley 7/1985 (LBRL): La función de control y fiscalización interna de la gestión económico-financiera y presupuestaria corresponderá a un órgano con la denominación de Intervención general municipal, cuyo titular será nombrado entre funcionarios de Administración local con habilitación de carácter nacional.",
+   "lbrl 136",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-094",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "El Alcalde es responsable de su gestión política ante el Pleno",
+    "Su presidente no podrá ser nombrado entre los miembros de la Corporación o entre el personal al servicio de las Administraciones públicas",
+    "La Junta de Gobierno Local se dotará de su propio reglamento, que tendrá la naturaleza de orgánico"
+   ],
+   0,
+   "La correcta es «El Alcalde es responsable de su gestión política ante el Pleno». Las otras dos son falsas: lo correcto es «Su presidente podrá ser nombrado entre los miembros de la Corporación o entre el personal al servicio de las Administraciones públicas» (la otra frase cambia «podrá») y «El Pleno se dotará de su propio reglamento, que tendrá la naturaleza de orgánico» (la otra frase cambia «El Pleno»).",
+   "lbrl 124",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "El Instituto Nacional de Estadística no podrá ceder los datos de su base padronal a otras Administraciones Públicas en las mismas condiciones señaladas en el artículo 16.3",
+    "La denominación de los Municipios podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas",
+    "El convenio de fusión deberá ser aprobado por mayoría absoluta de cada uno de los plenos de los municipios fusionados"
+   ],
+   1,
+   "La correcta es «La denominación de los Municipios podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas». Las otras dos son falsas: lo correcto es «El Instituto Nacional de Estadística podrá ceder los datos de su base padronal a otras Administraciones Públicas en las mismas condiciones señaladas en el artículo 16.3» (la otra frase camb",
+   "lbrl 14",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año",
+    "La formación, mantenimiento, revisión y custodia del Padrón municipal no corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado",
+    "El término municipal no es el territorio en que el ayuntamiento ejerce sus competencias"
+   ],
+   0,
+   "La correcta es «Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año». Las otras dos son falsas: lo correcto es «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado» (la otra frase la niega) y «El término municipal es el territorio en que el ayuntamiento ejerce ",
+   "lbrl 15",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "En el régimen de Concejo Abierto, el gobierno y la administración municipales no corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores",
+    "Los actos del Municipio deberán ser recurridos ante los órganos competentes de la Administración delegante",
+    "Si así lo hicieren deberán someterse obligatoriamente al criterio de la Asamblea vecinal constituida al efecto"
+   ],
+   2,
+   "La correcta es «Si así lo hicieren deberán someterse obligatoriamente al criterio de la Asamblea vecinal constituida al efecto». Las otras dos son falsas: lo correcto es «En el régimen de Concejo Abierto, el gobierno y la administración municipales corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores» (la otra frase la niega) y «Los actos del Municipio podrán ser recurridos ante",
+   "lbrl 29",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El gobierno y la administración del municipio de Zaragoza no corresponden a su Ayuntamiento, integrado por el Alcalde y los Concejales",
+    "El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por el Alcalde y los Concejales",
+    "El gobierno y la administración del municipio de Zaragoza corresponden al Pleno únicamente, integrado por el Alcalde, los Tenientes de Alcalde y los Concejales"
+   ],
+   1,
+   "Art. 7 · Ley 10/2017 (Zaragoza): El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por el Alcalde y los Concejales.",
+   "l10-2017 7",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-103",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la opción correcta:",
+   [
+    "La Junta de Portavoces de Zaragoza está constituida por los portavoces de los grupos municipales y presidida por el Pleno o Teniente de Alcalde en quien delegue",
+    "La Junta de Portavoces de Zaragoza está constituida por los portavoces de los grupos municipales y presidida por el Alcalde o Teniente de Alcalde en quien delegue",
+    "La Junta de Portavoces de Zaragoza está constituida por los portavoces de los grupos municipales y presidida por la Junta de Gobierno Local o Teniente de Alcalde en quien delegue"
+   ],
+   1,
+   "Art. 16 · Ley 10/2017 (Zaragoza): La Junta de Portavoces de Zaragoza está constituida por los portavoces de los grupos municipales y presidida por el Alcalde o Teniente de Alcalde en quien delegue. Las otras dos frases cambian «El Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "l10-2017 16",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t14-114",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "El Alcalde no es responsable de su gestión política ante el Pleno",
+    "La composición de los tribunales de oposiciones será predominantemente técnica, debiendo poseer todos sus miembros un nivel de titulación igual o superior al exigido para el ingreso en las plazas convocadas",
+    "Los Tenientes de Alcalde no tendrán el tratamiento de Ilustrísima"
+   ],
+   1,
+   "La correcta es «La composición de los tribunales de oposiciones será predominantemente técnica, debiendo poseer todos sus miembros un nivel de titulación igual o superior al exigido para el ingreso en las plazas convocadas». Las otras dos son falsas: lo correcto es «El Alcalde es responsable de su gestión política ante el Pleno» (la otra frase la niega) y «Los Tenientes de Alcalde tendrán el tratamiento de Ilustrísim",
+   "lbrl 127",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "A sus sesiones podrán asistir los concejales no pertenecientes a la Junta y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por la Junta de Gobierno Local",
+    "Las deliberaciones de la Junta de Gobierno Local no son secretas",
+    "Los Tenientes de Alcalde tendrán el tratamiento de Ilustrísima"
+   ],
+   2,
+   "La correcta es «Los Tenientes de Alcalde tendrán el tratamiento de Ilustrísima». Las otras dos son falsas: lo correcto es «A sus sesiones podrán asistir los concejales no pertenecientes a la Junta y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por el Alcalde» (la otra frase cambia «el Alcalde») y «Las deliberaciones de la Junta de Gobierno Local son secretas» (la otr",
+   "lbrl 125",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "A sus sesiones podrán asistir los concejales no pertenecientes a la Junta y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por el Pleno",
+    "El Alcalde podrá nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición de concejales, siempre que su número no supere dos tercios de sus miembros, excluido el Alcalde",
+    "Corresponde al Alcalde nombrar y separar libremente a los miembros de la Junta de Gobierno Local, cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde"
+   ],
+   2,
+   "La correcta es «Corresponde al Alcalde nombrar y separar libremente a los miembros de la Junta de Gobierno Local, cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde». Las otras dos son falsas: lo correcto es «A sus sesiones podrán asistir los concejales no pertenecientes a la Junta y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados ex",
+   "lbrl 126",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El Consejo de Empadronamiento está presidido por el Presidente del Instituto Nacional de Estadística",
+    "El Consejo de Empadronamiento está presidido por el Presidente de la FEMP",
+    "El Consejo de Empadronamiento está presidido por el Ministro de Hacienda"
+   ],
+   0,
+   "Art. 17 · Ley 7/1985 (LBRL): El Consejo de Empadronamiento está presidido por el Presidente del Instituto Nacional de Estadística.",
+   "lbrl 17",
+   "La afirmación, su negación y otro dato",
+   "h-padron",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-130",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación estatal y autonómica, entre otras materias sanidad hospitalaria y educación universitaria, en los términos de la legislación autonómica",
+    "Las alteraciones de términos municipales se resuelven definitivamente mediante decreto del Consejo de Gobierno de la Comunidad Autónoma",
+    "La inscripción en el Padrón de un extranjero no constituye prueba de su residencia legal en España"
+   ],
+   0,
+   "La incorrecta es «el Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación estatal y autonómica, entre otras materias sanidad hospitalaria y educación universitaria, en los términos de la legislación autonómica». Lo correcto: el Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación estatal y autonómica, entre otras materias urbanismo, medio",
+   "lbrl 25.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La gestión del Padrón municipal se llevará por los Ayuntamientos con medios informáticos",
+    "Quien viva en varios municipios no deberá inscribirse únicamente en el que habite durante más tiempo al año",
+    "La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado"
+   ],
+   1,
+   "La incorrecta es «Quien viva en varios municipios no deberá inscribirse únicamente en el que habite durante más tiempo al año»: cambia «deberá». Lo correcto: «Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año».",
+   "lbrl 15",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La Conferencia de ciudades, en el seno de la Conferencia sectorial para asuntos locales, estará formada por solo los alcaldes de los municipios que sean capitales de provincia, junto con el Estado",
+    "En los municipios de gran población tendrán en todo caso naturaleza orgánica, entre otras materias la regulación del Pleno, de la Comisión Especial de Sugerencias y Reclamaciones, de los órganos complementarios y procedimientos de participación ciudadana y la división del municipio en distritos",
+    "Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación no podrá ser inferior a cinco años"
+   ],
+   0,
+   "La incorrecta es «la Conferencia de ciudades, en el seno de la Conferencia sectorial para asuntos locales, estará formada por solo los alcaldes de los municipios que sean capitales de provincia, junto con el Estado». Lo correcto: la Conferencia de ciudades, en el seno de la Conferencia sectorial para asuntos locales, estará formada por la Administración General del Estado, las comunidades autónomas y los alcaldes de ",
+   "lbrl 138",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Solamente el Alcalde podrá acordar la incoación y la resolución del correspondiente expediente disciplinario, que se regirá, en todos sus aspectos, por la normativa aplicable en materia de régimen disciplinario a los funcionarios del ayuntamiento",
+    "La resolución que se dicte pone fin a la vía administrativa y contra ella sólo cabrá la interposición del recurso contencioso-administrativo",
+    "Su titular será nombrado entre funcionarios de Administración local con habilitación de carácter nacional"
+   ],
+   0,
+   "La incorrecta es «Solamente el Alcalde podrá acordar la incoación y la resolución del correspondiente expediente disciplinario, que se regirá, en todos sus aspectos, por la normativa aplicable en materia de régimen disciplinario a los funcionarios del ayuntamiento»: cambia «el Pleno». Lo correcto: «Solamente el Pleno podrá acordar la incoación y la resolución del correspondiente expediente disciplinario, que se regir",
+   "lbrl 137",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La Ley debe prever la dotación de los recursos necesarios para asegurar la suficiencia financiera de las Entidades Locales sin que ello pueda conllevar, en ningún caso, un mayor gasto de las Administraciones Públicas",
+    "El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, deberán delegar en los Municipios el ejercicio de sus competencias",
+    "En el régimen de Concejo Abierto, el gobierno y la administración municipales corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores"
+   ],
+   1,
+   "La incorrecta es «El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, deberán delegar en los Municipios el ejercicio de sus competencias»: cambia «podrán». Lo correcto: «El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, podrán delegar en los Municipios el ejercicio de sus competencias».",
+   "lbrl 27",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las competencias delegadas se ejercen con arreglo a la legislación del Estado o de las Comunidades Autónomas",
+    "El Alcalde podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales",
+    "El Alcalde se dotará de su propio reglamento, que tendrá la naturaleza de orgánico"
+   ],
+   2,
+   "La incorrecta es «el Alcalde se dotará de su propio reglamento, que tendrá la naturaleza de orgánico»: cambia «El Pleno». Lo correcto: «El Pleno se dotará de su propio reglamento, que tendrá la naturaleza de orgánico».",
+   "lbrl 122",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La Ley debe prever la dotación de los recursos necesarios para asegurar la suficiencia financiera de las Entidades Locales sin que ello pueda conllevar, en ningún caso, un mayor gasto de las Administraciones Públicas",
+    "El acuerdo de renuncia se adoptará por el Alcalde de la respectiva Entidad Local",
+    "El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal"
+   ],
+   1,
+   "La incorrecta es «El acuerdo de renuncia se adoptará por el Alcalde de la respectiva Entidad Local»: cambia «el Pleno». Lo correcto: «El acuerdo de renuncia se adoptará por el Pleno de la respectiva Entidad Local».",
+   "lbrl 27",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Alcalde podrá nombrar entre los concejales que formen parte de la Junta de Gobierno Local a los Tenientes de Alcalde, que le sustituirán, por el orden de su nombramiento, en los casos de vacante, ausencia o enfermedad",
+    "El Alcalde es responsable de su gestión política ante el Pleno",
+    "La Junta de Gobierno Local podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales"
+   ],
+   2,
+   "La incorrecta es «la Junta de Gobierno Local podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales»: cambia «El Alcalde». Lo correcto: «El Alcalde podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales».",
+   "lbrl 122",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La denominación de los Municipios podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas",
+    "El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos doce años desde la adopción del convenio de fusión",
+    "El Municipio es la entidad local básica de la organización territorial del Estado"
+   ],
+   1,
+   "La incorrecta es «El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos doce años desde la adopción del convenio de fusión»: cambia «diez años». Lo correcto: «El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión».",
+   "lbrl 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La Secretaría del Consejo Bilateral de Capitalidad no será ejercida alternativamente por un funcionario del Gobierno de Aragón, cuando presida un representante municipal, y del Ayuntamiento de Zaragoza, cuando presida un representante del Gobierno de Aragón",
+    "El Gobierno de Zaragoza podrá crear un Consejo Jurídico Municipal para emitir informes y dictámenes de carácter no vinculante sobre cualesquiera asuntos de interés municipal",
+    "Los portavoces de los grupos municipales constituyen la Junta de Portavoces, que está presidida por el Alcalde o Teniente de Alcalde en quien delegue"
+   ],
+   0,
+   "La incorrecta es «La Secretaría del Consejo Bilateral de Capitalidad no será ejercida alternativamente por un funcionario del Gobierno de Aragón, cuando presida un representante municipal, y del Ayuntamiento de Zaragoza, cuando presida un representante del Gobierno de Aragón»: niega lo que dice la ley. Lo correcto: «La Secretaría del Consejo Bilateral de Capitalidad será ejercida alternativamente por un funcionario d",
+   "l10-2017 20",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Corresponde al Alcalde nombrar y separar libremente a los miembros del Gobierno de Zaragoza, cuyo número no podrá exceder de dos tercios del número legal de miembros del Pleno, además del Alcalde",
+    "El Gobierno de Zaragoza responde políticamente ante el Pleno de su gestión de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión",
+    "Con carácter general los acuerdos se adoptarán por mayoría simple de votos"
+   ],
+   0,
+   "La incorrecta es «Corresponde al Alcalde nombrar y separar libremente a los miembros del Gobierno de Zaragoza, cuyo número no podrá exceder de dos tercios del número legal de miembros del Pleno, además del Alcalde»: cambia «un tercio». Lo correcto: «Corresponde al Alcalde nombrar y separar libremente a los miembros del Gobierno de Zaragoza, cuyo número no podrá exceder de un tercio del número legal de miembros del Pl",
+   "l10-2017 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Gobierno de Zaragoza, bajo la dirección y presidencia del Alcalde, es el órgano colegiado ejecutivo de dirección política y administrativa",
+    "A sus sesiones podrán asistir los Concejales no pertenecientes al Gobierno de Zaragoza y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por la Junta de Gobierno Local",
+    "Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Pleno"
+   ],
+   1,
+   "La incorrecta es «A sus sesiones podrán asistir los Concejales no pertenecientes al Gobierno de Zaragoza y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por la Junta de Gobierno Local»: cambia «el Alcalde». Lo correcto: «A sus sesiones podrán asistir los Concejales no pertenecientes al Gobierno de Zaragoza y los titulares de los órganos directivos, en ambos supuestos ",
+   "l10-2017 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Consejo será presidido por el Secretario del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales",
+    "Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio en el que resida habitualmente",
+    "Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año"
+   ],
+   0,
+   "La incorrecta es «El Consejo será presidido por el Secretario del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales»: cambia «el Presidente». Lo correcto: «El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales»",
+   "lbrl 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Corresponde en todo caso al Pleno municipal el control y la fiscalización de los órganos de gobierno, la aprobación del reglamento orgánico y de las ordenanzas, la aprobación y modificación de los presupuestos y la plantilla de personal",
+    "En los municipios de gran población, el Pleno contará con un secretario general y dispondrá de Comisiones formadas por los miembros que designen los grupos políticos en proporción al número de concejales que tengan en el Pleno",
+    "Los Tenientes de Alcalde en gran población se nombran entre los directores generales"
+   ],
+   2,
+   "La incorrecta es «los Tenientes de Alcalde en gran población se nombran entre los directores generales». Lo correcto: los Tenientes de Alcalde en gran población se nombran entre los miembros de la Junta de Gobierno Local.",
+   "lbrl 125",
+   "Proposición negativa",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Gobierno de Zaragoza podrá crear un Consejo Jurídico Municipal para emitir informes y dictámenes de carácter no vinculante sobre cualesquiera asuntos de interés municipal",
+    "El Consejo Bilateral de Capitalidad deberá crear grupos de trabajo y preparación de asuntos con representantes de ambas administraciones",
+    "Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación"
+   ],
+   1,
+   "La incorrecta es «El Consejo Bilateral de Capitalidad deberá crear grupos de trabajo y preparación de asuntos con representantes de ambas administraciones»: cambia «podrá». Lo correcto: «El Consejo Bilateral de Capitalidad podrá crear grupos de trabajo y preparación de asuntos con representantes de ambas administraciones».",
+   "l10-2017 20",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los extranjeros no comunitarios sin autorización de residencia permanente deben renovar su inscripción padronal cada dos años",
+    "El órgano para resolver reclamaciones económico-administrativas en gran población está formado por un número impar de miembros, con un mínimo de tres",
+    "Las normas del título X son de aplicación a los municipios que sean capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas por decisión del Gobierno de la Nación, a propuesta de los ayuntamientos interesados"
+   ],
+   2,
+   "La incorrecta es «las normas del título X son de aplicación a los municipios que sean capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas por decisión del Gobierno de la Nación, a propuesta de los ayuntamientos interesados». Lo correcto: las normas del título X son de aplicación a los municipios que sean capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas ",
+   "lbrl 121.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En los municipios de gran población el Alcalde podrá delegar exclusivamente la convocatoria y la presidencia del Pleno en uno de los concejales",
+    "La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento",
+    "Los Tenientes de Alcalde sustituyen al Alcalde, por el orden de su nombramiento, en los casos de cese definitivo del Alcalde únicamente, siendo designados por el Pleno entre los Concejales"
+   ],
+   2,
+   "La incorrecta es «los Tenientes de Alcalde sustituyen al Alcalde, por el orden de su nombramiento, en los casos de cese definitivo del Alcalde únicamente, siendo designados por el Pleno entre los Concejales». Lo correcto: los Tenientes de Alcalde sustituyen al Alcalde, por el orden de su nombramiento, en los casos de vacante, ausencia o enfermedad, siendo libremente designados y removidos por éste entre los miembros ",
+   "lbrl 23.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Son elementos del Municipio la población, el alcalde y el pleno",
+    "La delegación de competencias del Estado o de las CCAA en los municipios deberá determinar el alcance, contenido, condiciones y duración, que no podrá ser inferior a cinco años",
+    "El convenio de fusión de municipios se aprueba por mayoría simple de cada pleno"
+   ],
+   0,
+   "La incorrecta es «son elementos del Municipio la población, el alcalde y el pleno». Lo correcto: son elementos del Municipio el territorio, la población y la organización.",
+   "lbrl 11",
+   "Proposición negativa",
+   "h-municipio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En los municipios de gran población el Alcalde podrá delegar exclusivamente la convocatoria y la presidencia del Pleno en uno de los concejales",
+    "Las funciones del secretario general del Pleno, y la titularidad de la Intervención general, en los municipios de gran población quedan reservadas a funcionarios de Administración local con habilitación de carácter nacional: ambas respuestas son correctas",
+    "En los municipios de gran población, el Pleno contará con un interventor y una única comisión formada por los miembros del equipo de gobierno"
+   ],
+   2,
+   "La incorrecta es «en los municipios de gran población, el Pleno contará con un interventor y una única comisión formada por los miembros del equipo de gobierno». Lo correcto: en los municipios de gran población, el Pleno contará con un secretario general y dispondrá de Comisiones formadas por los miembros que designen los grupos políticos en proporción al número de concejales que tengan en el Pleno.",
+   "lbrl 122.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "A sus sesiones podrán asistir los concejales no pertenecientes a la Junta y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por la Junta de Gobierno Local",
+    "Los miembros de la Junta de Gobierno Local podrán asistir a las sesiones del Pleno e intervenir en los debates, sin perjuicio de las facultades que corresponden a su Presidente",
+    "Las deliberaciones de la Junta de Gobierno Local son secretas"
+   ],
+   0,
+   "La incorrecta es «A sus sesiones podrán asistir los concejales no pertenecientes a la Junta y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por la Junta de Gobierno Local»: cambia «el Alcalde». Lo correcto: «A sus sesiones podrán asistir los concejales no pertenecientes a la Junta y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados exp",
+   "lbrl 126",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La composición de los tribunales de oposiciones será predominantemente técnica, debiendo poseer todos sus miembros un nivel de titulación igual o superior al exigido para el ingreso en las plazas convocadas",
+    "Corresponde al Alcalde nombrar y separar libremente a los miembros de la Junta de Gobierno Local, cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde",
+    "El Alcalde podrá nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición de concejales, siempre que su número no supere la mitad de sus miembros, excluido el Alcalde"
+   ],
+   2,
+   "La incorrecta es «El Alcalde podrá nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición de concejales, siempre que su número no supere la mitad de sus miembros, excluido el Alcalde»: cambia «un tercio». Lo correcto: «El Alcalde podrá nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición de concejales, siempre que su número no supere un terci",
+   "lbrl 126",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Son órganos directivos municipales en los municipios de gran población los miembros de la Junta de Gobierno Local y los Presidentes de los Distritos municipales",
+    "Los datos del Padrón de aportación voluntaria no son susceptibles de cesión en ningún caso",
+    "En los municipios de gran población, el número de miembros de la Junta de Gobierno Local no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde"
+   ],
+   0,
+   "La incorrecta es «son órganos directivos municipales en los municipios de gran población los miembros de la Junta de Gobierno Local y los Presidentes de los Distritos municipales». Lo correcto: son órganos directivos municipales en los municipios de gran población los coordinadores generales, los directores generales, el titular de la asesoría jurídica, el Secretario general del Pleno y el interventor general municip",
+   "lbrl 130.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación no podrá ser inferior a cinco años",
+    "En los municipios de gran población, el Alcalde ostenta la máxima representación del municipio y es responsable de su gestión política ante el Pleno",
+    "Los españoles inscritos en el Padrón de residentes en el extranjero son vecinos del municipio español a ningún efecto"
+   ],
+   2,
+   "La incorrecta es «los españoles inscritos en el Padrón de residentes en el extranjero son vecinos del municipio español a ningún efecto». Lo correcto: los españoles inscritos en el Padrón de residentes en el extranjero son vecinos del municipio español únicamente a efectos del derecho de sufragio.",
+   "lbrl 17",
+   "Proposición negativa",
+   "h-padron",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los datos de aportación voluntaria no serán susceptibles de cesión en ningún caso",
+    "El convenio de fusión deberá ser aprobado por mayoría simple de cada uno de los plenos de los municipios fusionados",
+    "La adopción de los acuerdos previstos en el artículo 47.2, siempre que traigan causa de una fusión, será por mayoría de dos tercios de los miembros de la corporación"
+   ],
+   2,
+   "La incorrecta es «La adopción de los acuerdos previstos en el artículo 47.2, siempre que traigan causa de una fusión, será por mayoría de dos tercios de los miembros de la corporación»: cambia «mayoría simple». Lo correcto: «La adopción de los acuerdos previstos en el artículo 47.2, siempre que traigan causa de una fusión, será por mayoría simple de los miembros de la corporación».",
+   "lbrl 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada año, y en el plazo de seis meses desde el inicio de cada legislatura o mandato",
+    "Corresponde al Pleno de Zaragoza la votación de la moción de censura al Alcalde y de la cuestión de confianza, y la aprobación y modificación de los Reglamentos de naturaleza orgánica",
+    "El municipio de Zaragoza, capital de la Comunidad Autónoma de Aragón, goza del régimen especial establecido en la Ley 10/2017"
+   ],
+   0,
+   "La incorrecta es «el Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada año, y en el plazo de seis meses desde el inicio de cada legislatura o mandato». Lo correcto: el Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada semestre, y en el plazo de dos meses desde el inicio de cada legislatura, mandato corporativo o cambio de Gobierno.",
+   "l10-2017 21",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio en el que resida habitualmente",
+    "La denominación de los Municipios no podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas",
+    "Los datos de aportación voluntaria no serán susceptibles de cesión en ningún caso"
+   ],
+   1,
+   "La incorrecta es «La denominación de los Municipios no podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas»: cambia «podrá». Lo correcto: «La denominación de los Municipios podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas».",
+   "lbrl 14",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Podrán establecerse sistemas de gestión colaborativa en municipios de menos de 20.000 habitantes, cuya aplicación requerirá decisión de la Comunidad Autónoma, con la conformidad previa del municipio afectado y el informe de las entidades locales afectadas",
+    "El régimen de organización de los municipios de gran población se aplica a un municipio capital de provincia, capital autonómica o sede de las instituciones autonómicas solo si supera los 250.000 habitantes",
+    "Los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto y el Alcalde es elegido por los Concejales o por los vecinos, en los términos de la legislación electoral general"
+   ],
+   1,
+   "La incorrecta es «el régimen de organización de los municipios de gran población se aplica a un municipio capital de provincia, capital autonómica o sede de las instituciones autonómicas solo si supera los 250.000 habitantes». Lo correcto: el régimen de organización de los municipios de gran población se aplica a un municipio capital de provincia, capital autonómica o sede de las instituciones autonómicas si así lo d",
+   "lbrl 121",
+   "Proposición negativa",
+   "h-gran",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Cada municipio pertenecerá a la provincia que decida el Pleno",
+    "En los municipios de gran población corresponde a la Junta de Gobierno Local la concesión de cualquier tipo de licencia, salvo que la legislación sectorial la atribuya a otro órgano",
+    "Los Tenientes de Alcalde en los municipios de gran población se nombran entre los concejales que formen parte de la Junta de Gobierno Local"
+   ],
+   0,
+   "La incorrecta es «cada municipio pertenecerá a la provincia que decida el Pleno». Lo correcto: cada municipio pertenecerá a una sola provincia.",
+   "lbrl 12",
+   "Proposición negativa",
+   "h-municipio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las asignaciones a las que se refiere el apartado 1 no tendrán la consideración de fondos incondicionados",
+    "La Presidencia del Consejo Bilateral de Capitalidad se ejercerá de modo alternativo por un representante del Gobierno de Aragón y del Gobierno de Zaragoza",
+    "El Consejo Bilateral de Capitalidad podrá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cuando se vayan a tratar asuntos o temas de su competencia específica"
+   ],
+   0,
+   "La incorrecta es «Las asignaciones a las que se refiere el apartado 1 no tendrán la consideración de fondos incondicionados»: niega lo que dice la ley. Lo correcto: «Las asignaciones a las que se refiere el apartado 1 tendrán la consideración de fondos incondicionados».",
+   "l10-2017 57",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En los municipios con población superior a 20.000 habitantes los municipios deberán prestar, además parque público, biblioteca pública y tratamiento de residuos, que son propios de los de más de 5.000",
+    "Las Diputaciones Provinciales asumirán la gestión informatizada de los Padrones de los municipios que, por su insuficiente capacidad económica y de gestión, no puedan mantener los datos de forma automatizada",
+    "Entre las competencias propias del municipio se encuentran cementerios y actividades funerarias, ferias, abastos, mercados y lonjas, y promoción del deporte e instalaciones deportivas"
+   ],
+   0,
+   "La incorrecta es «en los municipios con población superior a 20.000 habitantes los municipios deberán prestar, además parque público, biblioteca pública y tratamiento de residuos, que son propios de los de más de 5.000». Lo correcto: en los municipios con población superior a 20.000 habitantes los municipios deberán prestar, además protección civil, evaluación e información de situaciones de necesidad social, prevenc",
+   "lbrl 26.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los municipios podrán establecer órganos territoriales de gestión desconcentrada con personalidad jurídica propia, para gestionar los asuntos de cada barrio con autonomía",
+    "Las certificaciones de los datos del Padrón municipal tendrán carácter de documento público y fehaciente para todos los efectos administrativos",
+    "Los Tenientes de Alcalde en gran población se nombran entre los miembros de la Junta de Gobierno Local"
+   ],
+   0,
+   "La incorrecta es «los municipios podrán establecer órganos territoriales de gestión desconcentrada con personalidad jurídica propia, para gestionar los asuntos de cada barrio con autonomía». Lo correcto: los municipios podrán establecer órganos territoriales de gestión desconcentrada para facilitar la participación ciudadana en la gestión de los asuntos locales, con la organización, funciones y competencias que cada ",
+   "lbrl 24.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los portavoces de los grupos municipales constituyen la Junta de Portavoces, que está presidida por el Pleno o Teniente de Alcalde en quien delegue",
+    "El Gobierno de Zaragoza responde políticamente ante el Pleno de su gestión de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión",
+    "Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación"
+   ],
+   0,
+   "La incorrecta es «Los portavoces de los grupos municipales constituyen la Junta de Portavoces, que está presidida por el Pleno o Teniente de Alcalde en quien delegue»: cambia «el Alcalde». Lo correcto: «Los portavoces de los grupos municipales constituyen la Junta de Portavoces, que está presidida por el Alcalde o Teniente de Alcalde en quien delegue».",
+   "l10-2017 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La Junta de Gobierno Local responde políticamente ante el Pleno de su gestión de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión",
+    "El Alcalde no es responsable de su gestión política ante el Pleno",
+    "Las normas previstas en este título serán de aplicación a los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas"
+   ],
+   1,
+   "La incorrecta es «El Alcalde no es responsable de su gestión política ante el Pleno»: niega lo que dice la ley. Lo correcto: «El Alcalde es responsable de su gestión política ante el Pleno».",
+   "lbrl 124",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación estatal y autonómica, entre otras materias urbanismo, medio ambiente urbano, abastecimiento de agua potable y tratamiento de aguas residuales, infraestructura viaria, policía local, protección civil, prevención y extinción de incendios, tráfico y transporte colectivo urbano",
+    "El Alcalde es el Presidente de la Corporación y ostenta, entre otras, las atribuciones de aprobar el reglamento orgánico y las ordenanzas municipales, y aprobar los presupuestos del ayuntamiento",
+    "El Estado y las CCAA podrán delegar en los municipios, entre otras, las competencias de promoción y gestión turística, y gestión de oficinas unificadas de información y tramitación administrativa"
+   ],
+   1,
+   "La incorrecta es «el Alcalde es el Presidente de la Corporación y ostenta, entre otras, las atribuciones de aprobar el reglamento orgánico y las ordenanzas municipales, y aprobar los presupuestos del ayuntamiento». Lo correcto: el Alcalde es el Presidente de la Corporación y ostenta, entre otras, las atribuciones de dirigir el gobierno y la administración municipal, representar al ayuntamiento, convocar y presidir la",
+   "lbrl 21.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Corresponde a la Junta de Gobierno Local la asistencia al Alcalde en el ejercicio de sus atribuciones y las atribuciones que el Alcalde u otro órgano le delegue o le atribuyan las leyes",
+    "En los municipios de gran población corresponde al Alcalde nombrar y cesar al Interventor general y a los coordinadores generales, previa propuesta de la Junta de Gobierno",
+    "Toda persona que viva en varios municipios deberá inscribirse en el padrón únicamente en el que habite durante más tiempo al año"
+   ],
+   1,
+   "La incorrecta es «en los municipios de gran población corresponde al Alcalde nombrar y cesar al Interventor general y a los coordinadores generales, previa propuesta de la Junta de Gobierno». Lo correcto: en los municipios de gran población corresponde al Alcalde nombrar y cesar a los Tenientes de Alcalde y a los Presidentes de los Distritos.",
+   "lbrl 124.4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos seis años desde la adopción del convenio de fusión",
+    "La fusión conllevará el órgano del gobierno del nuevo municipio resultante estará constituido transitoriamente por la suma de los concejales de los municipios fusionados en los términos previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+    "El conjunto de personas inscritas en el Padrón municipal constituye la población del municipio"
+   ],
+   0,
+   "La incorrecta es «El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos seis años desde la adopción del convenio de fusión»: cambia «diez años». Lo correcto: «El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión».",
+   "lbrl 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los miembros de la Junta de Gobierno Local no podrán asistir a las sesiones del Pleno e intervenir en los debates, sin perjuicio de las facultades que corresponden a su Presidente",
+    "Sus derechos económicos y prestaciones sociales serán los de los miembros electivos",
+    "Los Tenientes de Alcalde tendrán el tratamiento de Ilustrísima"
+   ],
+   0,
+   "La incorrecta es «Los miembros de la Junta de Gobierno Local no podrán asistir a las sesiones del Pleno e intervenir en los debates, sin perjuicio de las facultades que corresponden a su Presidente»: cambia «podrán». Lo correcto: «Los miembros de la Junta de Gobierno Local podrán asistir a las sesiones del Pleno e intervenir en los debates, sin perjuicio de las facultades que corresponden a su Presidente».",
+   "lbrl 126",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las certificaciones serán emitidas por el funcionario que haya ejercido como Secretario en la última reunión",
+    "La Presidencia del Consejo Bilateral de Capitalidad no se ejercerá de modo alternativo por un representante del Gobierno de Aragón y del Gobierno de Zaragoza",
+    "El Consejo Bilateral de Capitalidad podrá crear grupos de trabajo y preparación de asuntos con representantes de ambas administraciones"
+   ],
+   1,
+   "La incorrecta es «La Presidencia del Consejo Bilateral de Capitalidad no se ejercerá de modo alternativo por un representante del Gobierno de Aragón y del Gobierno de Zaragoza»: niega lo que dice la ley. Lo correcto: «La Presidencia del Consejo Bilateral de Capitalidad se ejercerá de modo alternativo por un representante del Gobierno de Aragón y del Gobierno de Zaragoza».",
+   "l10-2017 20",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Pleno será presidido por el Alcalde, excepto en los supuestos regulados por la legislación de régimen electoral general y en el caso de delegación en un concejal",
+    "El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por la Junta de Gobierno Local y los Concejales",
+    "La ciudad de Zaragoza ostenta los títulos de Muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal"
+   ],
+   1,
+   "La incorrecta es «El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por la Junta de Gobierno Local y los Concejales»: cambia «el Alcalde». Lo correcto: «El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por el Alcalde y los Concejales».",
+   "l10-2017 7",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La Secretaría del Consejo Bilateral de Capitalidad será ejercida alternativamente por un funcionario del Gobierno de Aragón, cuando presida un representante municipal, y del Ayuntamiento de Zaragoza, cuando presida un representante del Gobierno de Aragón",
+    "El Consejo Bilateral de Capitalidad podrá crear grupos de trabajo y preparación de asuntos con representantes de ambas administraciones",
+    "Deberán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación"
+   ],
+   2,
+   "La incorrecta es «Deberán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación»: cambia «Podrán». Lo correcto: «Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se",
+   "l10-2017 18",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Consejo Jurídico Municipal, que podrá crear el Gobierno de Zaragoza, emite informes y dictámenes de carácter vinculante sobre los asuntos de interés municipal que se le sometan",
+    "En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es el Gobierno de Zaragoza",
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada semestre, y en el plazo de dos meses desde el inicio de cada legislatura, mandato corporativo o cambio de Gobierno"
+   ],
+   0,
+   "La incorrecta es «el Consejo Jurídico Municipal, que podrá crear el Gobierno de Zaragoza, emite informes y dictámenes de carácter vinculante sobre los asuntos de interés municipal que se le sometan». Lo correcto: el Consejo Jurídico Municipal, que podrá crear el Gobierno de Zaragoza, emite informes y dictámenes de carácter no vinculante sobre cualesquiera asuntos de interés municipal.",
+   "l10-2017 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, podrán ser objeto de delegación en un Concejal",
+    "El Pleno será presidido por el Alcalde, excepto en los supuestos regulados por la legislación de régimen electoral general y en el caso de delegación en un concejal",
+    "Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Alcalde"
+   ],
+   2,
+   "La incorrecta es «Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Alcalde»: cambia «el Pleno». Lo correcto: «Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Pleno».",
+   "l10-2017 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es el Consejo Bilateral de Capitalidad",
+    "El Ayuntamiento de Zaragoza y el Gobierno de Aragón promoverán actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con instituciones internacionales, en el ámbito de sus competencias",
+    "El órgano de máxima representación política de los ciudadanos de Zaragoza es el Pleno, integrado por el Alcalde y los Concejales"
+   ],
+   0,
+   "La incorrecta es «en el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es el Consejo Bilateral de Capitalidad». Lo correcto: en el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es el Gobierno de Zaragoza.",
+   "l10-2017 13",
+   "Proposición negativa",
+   "h-zaragoza",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El conjunto de personas inscritas en el Padrón municipal constituye la población del municipio",
+    "Adscrito al Ministerio de Economía y Hacienda se crea el Consejo de Empadronamiento como órgano colegiado de colaboración entre la Administración de la Comunidad Autónoma y los Entes Locales en materia padronal, de acuerdo con lo que reglamentariamente se establezca",
+    "La fusión conllevará el órgano del gobierno del nuevo municipio resultante estará constituido transitoriamente por la suma de los concejales de los municipios fusionados en los términos previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General"
+   ],
+   1,
+   "La incorrecta es «Adscrito al Ministerio de Economía y Hacienda se crea el Consejo de Empadronamiento como órgano colegiado de colaboración entre la Administración de la Comunidad Autónoma y los Entes Locales en materia padronal, de acuerdo con lo que reglamentariamente se establezca»: cambia «Administración General del Estado». Lo correcto: «Adscrito al Ministerio de Economía y Hacienda se crea el Consejo de Empadro",
+   "lbrl 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las asignaciones a las que se refiere el apartado 1 tendrán la consideración de fondos incondicionados",
+    "La Secretaría del Consejo Bilateral de Capitalidad será ejercida alternativamente por un funcionario del Gobierno de Aragón, cuando presida un representante municipal, y del Ayuntamiento de Zaragoza, cuando presida un representante del Gobierno de Aragón",
+    "El Consejo Bilateral de Capitalidad deberá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cuando se vayan a tratar asuntos o temas de su competencia específica"
+   ],
+   2,
+   "La incorrecta es «El Consejo Bilateral de Capitalidad deberá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cuando se vayan a tratar asuntos o temas de su competencia específica»: cambia «podrá». Lo correcto: «El Consejo Bilateral de Capitalidad podrá invitar a participar en sus sesiones a cualquier miembro de los Gobiernos de Aragón y de Zaragoza cuando se vayan a t",
+   "l10-2017 20",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El convenio de fusión deberá ser aprobado por mayoría simple de cada uno de los plenos de los municipios fusionados",
+    "El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión",
+    "La fusión conllevará el órgano del gobierno del nuevo municipio resultante no estará constituido transitoriamente por la suma de los concejales de los municipios fusionados en los términos previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General"
+   ],
+   2,
+   "La incorrecta es «La fusión conllevará el órgano del gobierno del nuevo municipio resultante no estará constituido transitoriamente por la suma de los concejales de los municipios fusionados en los términos previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General»: niega lo que dice la ley. Lo correcto: «La fusión conllevará el órgano del gobierno del nuevo municipio resultante estará consti",
+   "lbrl 13",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión",
+    "La denominación de los Municipios deberá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas",
+    "Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año"
+   ],
+   1,
+   "La incorrecta es «La denominación de los Municipios deberá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas»: cambia «podrá». Lo correcto: «La denominación de los Municipios podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas».",
+   "lbrl 14",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Pleno será presidido por el Alcalde, excepto en los supuestos regulados por la legislación de régimen electoral general y en el caso de delegación en un concejal",
+    "Las competencias del Pleno, del Gobierno de Zaragoza, del Alcalde y de los restantes órganos ejecutivos de dirección política y administrativa serán las establecidas en la regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación",
+    "La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, no podrán ser objeto de delegación en un Concejal"
+   ],
+   2,
+   "La incorrecta es «La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, no podrán ser objeto de delegación en un Concejal»: cambia «podrán». Lo correcto: «La dirección y otras funciones relativas a la Policía Local, salvo la superior Jefatura, podrán ser objeto de delegación en un Concejal».",
+   "l10-2017 12",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Pleno se dotará de su propio reglamento, que tendrá la naturaleza de orgánico",
+    "Las normas previstas en este título serán de aplicación a los municipios cuya población supere los 250.000 habitantes",
+    "El Pleno podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales"
+   ],
+   2,
+   "La incorrecta es «el Pleno podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales»: cambia «El Alcalde». Lo correcto: «El Alcalde podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales».",
+   "lbrl 122",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal",
+    "Las normas previstas en este título serán de aplicación a los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas",
+    "Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 60 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales"
+   ],
+   2,
+   "La incorrecta es «Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 60 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales»: cambia «75.000». Lo correcto: «Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 75.000 habitantes, que presenten circunstancias ec",
+   "lbrl 121",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 124.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En los municipios de gran población, el Alcalde ostenta la máxima representación del municipio y no es responsable de su gestión política ante el Pleno",
+    "En los municipios de gran población, el Alcalde ostenta la presidencia de la Comunidad Autónoma, y el tratamiento de Excelencia, siendo responsable ante el Pleno",
+    "En los municipios de gran población, el Alcalde ostenta la máxima representación del municipio y es responsable de su gestión política ante el Pleno"
+   ],
+   2,
+   "Art. 124.1 · Ley 7/1985 (LBRL): En los municipios de gran población, el Alcalde ostenta la máxima representación del municipio y es responsable de su gestión política ante el Pleno.",
+   "lbrl 124.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-075",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación será de cuatro años exactos",
+    "Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación no podrá ser inferior a cinco años",
+    "Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación será siempre de un año prorrogable"
+   ],
+   1,
+   "Art. 27 · Ley 7/1985 (LBRL): Si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias, la duración de la delegación no podrá ser inferior a cinco años.",
+   "lbrl 27",
+   "La afirmación, su negación y otro dato",
+   "h-servicios",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-010",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la opción correcta:",
+   [
+    "El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por el Pleno y los Concejales",
+    "El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por el Alcalde y los Concejales",
+    "El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por la Junta de Gobierno Local y los Concejales"
+   ],
+   1,
+   "Art. 7 · Ley 10/2017 (Zaragoza): El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por el Alcalde y los Concejales. Las otras dos frases cambian «el Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "l10-2017 7",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 137 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "El órgano para resolver reclamaciones económico-administrativas en gran población está formado por un número par de miembros, mínimo cuatro",
+    "El órgano para resolver reclamaciones económico-administrativas en gran población está formado por un número de cinco miembros exactamente",
+    "El órgano para resolver reclamaciones económico-administrativas en gran población está formado por un número impar de miembros, con un mínimo de tres"
+   ],
+   2,
+   "Art. 137 · Ley 7/1985 (LBRL): El órgano para resolver reclamaciones económico-administrativas en gran población está formado por un número impar de miembros, con un mínimo de tres.",
+   "lbrl 137",
+   "La afirmación, su negación y otro dato",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-144",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "No podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de creación",
+    "Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por la Junta de Gobierno Local",
+    "Los portavoces de los grupos municipales constituyen la Junta de Portavoces, que está presidida por el Alcalde o Teniente de Alcalde en quien delegue"
+   ],
+   2,
+   "La correcta es «Los portavoces de los grupos municipales constituyen la Junta de Portavoces, que está presidida por el Alcalde o Teniente de Alcalde en quien delegue». Las otras dos son falsas: lo correcto es «Podrán constituirse Comisiones específicas de asesoramiento para dictaminar recursos administrativos, cuyas funciones, composición y funcionamiento se establecerán por el Gobierno de Zaragoza en el acuerdo de c",
+   "l10-2017 16",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Cada municipio pertenecerá a una sola provincia",
+    "Cada municipio pertenecerá a una o varias provincias según su extensión",
+    "Cada municipio pertenecerá a la provincia que decida el Pleno"
+   ],
+   0,
+   "Art. 12 · Ley 7/1985 (LBRL): Cada municipio pertenecerá a una sola provincia.",
+   "lbrl 12",
+   "La afirmación, su negación y otro dato",
+   "h-municipio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-002",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza el Alcalde y el Consejo Territorial de Alcaldes de Barrio, junto con las Juntas Municipales",
+    "Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza solo el Alcalde y el Pleno, que ejercen conjuntamente la dirección política y administrativa del Ayuntamiento",
+    "Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza el Alcalde, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que se determinen en el Reglamento orgánico"
+   ],
+   2,
+   "Art. 8 · Ley 10/2017 (Zaragoza): Son órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza el Alcalde, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que se determinen en el Reglamento orgánico.",
+   "l10-2017 8",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-105",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "La Junta de Gobierno Local existe obligatoriamente en municipios de población superior a 90 habitantes",
+    "La Junta de Gobierno Local existe obligatoriamente en municipios de población superior a 60 habitantes",
+    "La Junta de Gobierno Local existe obligatoriamente en municipios de población superior a 5.000 habitantes"
+   ],
+   2,
+   "Art. 20 · Ley 7/1985 (LBRL): La Junta de Gobierno Local existe obligatoriamente en municipios de población superior a 5.000 habitantes. Las otras dos frases cambian «5.000» por «90» y «60».",
+   "lbrl 20",
+   "Una sola palabra cambia el sentido",
+   "h-organizacion-comun",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t14-132",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la opción correcta:",
+   [
+    "Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Alcalde",
+    "Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por la Junta de Gobierno Local",
+    "Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Pleno"
+   ],
+   2,
+   "Art. 13 · Ley 10/2017 (Zaragoza): Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Pleno. Las otras dos frases cambian «el Pleno» por «el Alcalde» y «la Junta de Gobierno Local».",
+   "l10-2017 13",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En los municipios con población superior a 5.000 habitantes los municipios no deberán prestar, además parque público, biblioteca pública y tratamiento de residuos",
+    "En los municipios con población superior a 5.000 habitantes los municipios deberán prestar, además parque público, biblioteca pública y tratamiento de residuos",
+    "En los municipios con población superior a 5.000 habitantes los municipios deberán prestar, además protección civil y prevención y extinción de incendios"
+   ],
+   1,
+   "Art. 26.1 · Ley 7/1985 (LBRL): En los municipios con población superior a 5.000 habitantes los municipios deberán prestar, además parque público, biblioteca pública y tratamiento de residuos.",
+   "lbrl 26.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-055",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Corresponde al Pleno, entre otras atribuciones la declaración de lesividad de los actos del Ayuntamiento y la alteración de la calificación jurídica de los bienes de dominio público",
+    "Corresponde al Pleno, entre otras atribuciones la concesión de licencias y la jefatura superior de todo el personal de la Corporación",
+    "Corresponde al Pleno, entre otras atribuciones la aprobación de la oferta de empleo público y de las bases de selección del personal"
+   ],
+   0,
+   "Art. 22.2 · Ley 7/1985 (LBRL): Corresponde al Pleno, entre otras atribuciones la declaración de lesividad de los actos del Ayuntamiento y la alteración de la calificación jurídica de los bienes de dominio público.",
+   "lbrl 22.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-045",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa no es el Gobierno de Zaragoza",
+    "En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es el Gobierno de Zaragoza",
+    "En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es el Consejo Bilateral de Capitalidad"
+   ],
+   1,
+   "Art. 13 · Ley 10/2017 (Zaragoza): En el régimen especial de Zaragoza (Ley 10/2017), el órgano colegiado ejecutivo de dirección política y administrativa es el Gobierno de Zaragoza.",
+   "l10-2017 13",
+   "La afirmación, su negación y otro dato",
+   "h-zaragoza",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-017",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Existen en todos los ayuntamientos el Alcalde y la Junta de Gobierno Local",
+    "Existen en todos los ayuntamientos el Alcalde, el Pleno y la Junta de Gobierno Local",
+    "Existen en todos los ayuntamientos el Alcalde, los Tenientes de Alcalde y el Pleno"
+   ],
+   2,
+   "Art. 20.1 · Ley 7/1985 (LBRL): Existen en todos los ayuntamientos el Alcalde, los Tenientes de Alcalde y el Pleno.",
+   "lbrl 20.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-037",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El Consejo Bilateral de Capitalidad es un órgano colegiado de carácter permanente que tiene por objeto la coordinación y colaboración entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza en lo que afecta a sus respectivas competencias derivadas de la capitalidad autonómica",
+    "El Consejo Bilateral de Capitalidad no es un órgano colegiado de carácter permanente que tiene por objeto la coordinación y colaboración entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza en lo que afecta a sus respectivas competencias derivadas de la capitalidad autonómica",
+    "El Consejo Bilateral de Capitalidad es un órgano consultivo del Pleno de carácter temporal, para asesorar sobre las competencias de capitalidad"
+   ],
+   0,
+   "Art. 20 · Ley 10/2017 (Zaragoza): El Consejo Bilateral de Capitalidad es un órgano colegiado de carácter permanente que tiene por objeto la coordinación y colaboración entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza en lo que afecta a sus respectivas competencias derivadas de la capitalidad autonómica.",
+   "l10-2017 20",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-117",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Los actos del Municipio no podrán ser recurridos ante los órganos competentes de la Administración delegante",
+    "Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 60 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales",
+    "El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal"
+   ],
+   2,
+   "La correcta es «El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal». Las otras dos son falsas: lo correcto es «Los actos del Municipio podrán ser recurridos ante los órganos competentes de la Administración delegante» (la otra frase cambia «podrán») y «Las normas previstas en este título serán de aplicación asimismo, a los munic",
+   "lbrl 122",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada semestre",
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez al año",
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez al mes"
+   ],
+   0,
+   "Art. 21 · Ley 10/2017 (Zaragoza): El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada semestre.",
+   "l10-2017 21",
+   "Opciones casi idénticas",
+   "h-zaragoza",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "Para ejercer competencias distintas de las propias o delegadas se exigen informes previos y vinculantes sobre el interés de los vecinos",
+    "Para ejercer competencias distintas de las propias o delegadas se exigen informes previos y vinculantes sobre la opinión del Consejo de Estado",
+    "Para ejercer competencias distintas de las propias o delegadas se exigen informes previos y vinculantes sobre la inexistencia de duplicidades y la sostenibilidad financiera"
+   ],
+   2,
+   "Art. 7 · Ley 10/2017 (Zaragoza): Para ejercer competencias distintas de las propias o delegadas se exigen informes previos y vinculantes sobre la inexistencia de duplicidades y la sostenibilidad financiera.",
+   "l10-2017 7",
+   "La afirmación, su negación y otro dato",
+   "h-competencias-art7",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-147",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los Tenientes de Alcalde en los municipios de gran población son nombrados por el Alcalde entre los concejales que formen parte de la Junta de Gobierno Local y tendrán el tratamiento de Ilustrísima",
+    "Los Tenientes de Alcalde en los municipios de gran población son elegidos por el Pleno entre los concejales y tienen el tratamiento de Excelencia",
+    "Los Tenientes de Alcalde en los municipios de gran población son nombrados por el Alcalde entre los concejales del Pleno y tienen el tratamiento de Excelencia"
+   ],
+   0,
+   "Art. 125 · Ley 7/1985 (LBRL): Los Tenientes de Alcalde en los municipios de gran población son nombrados por el Alcalde entre los concejales que formen parte de la Junta de Gobierno Local y tendrán el tratamiento de Ilustrísima.",
+   "lbrl 125",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-077",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales",
+    "El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración Local y de los Entes Locales",
+    "El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración de la Comunidad Autónoma y de los Entes Locales"
+   ],
+   0,
+   "Art. 17 · Ley 7/1985 (LBRL): El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales. Las otras dos frases cambian «Administración General del Estado» por «Administración Local» y «Administración de la Comunidad Autónoma».",
+   "lbrl 17",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El Consejo Bilateral de Capitalidad adoptará sus acuerdos por mayoría simple de sus miembros presentes, con voto de calidad del Presidente de turno",
+    "El Consejo Bilateral de Capitalidad adoptará sus acuerdos mediante el voto favorable de la mayoría absoluta de sus miembros",
+    "El Consejo Bilateral de Capitalidad adoptará sus acuerdos por unanimidad de sus miembros, al tratarse de un órgano de composición paritaria"
+   ],
+   1,
+   "Art. 21 · Ley 10/2017 (Zaragoza): El Consejo Bilateral de Capitalidad adoptará sus acuerdos mediante el voto favorable de la mayoría absoluta de sus miembros.",
+   "l10-2017 21",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-120",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13.4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los municipios colindantes dentro de la misma provincia podrán acordar su fusión mediante convenio. El nuevo municipio resultante no podrá segregarse hasta transcurridos cinco años desde la adopción del convenio de fusión de los municipios colindantes",
+    "Los municipios colindantes dentro de la misma provincia podrán acordar su fusión mediante convenio. El nuevo municipio resultante no podrá segregarse hasta transcurrido un año desde la adopción del convenio de fusión de los municipios colindantes",
+    "Los municipios colindantes dentro de la misma provincia podrán acordar su fusión mediante convenio. El nuevo municipio resultante no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión"
+   ],
+   2,
+   "Art. 13.4 · Ley 7/1985 (LBRL): Los municipios colindantes dentro de la misma provincia podrán acordar su fusión mediante convenio. El nuevo municipio resultante no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión.",
+   "lbrl 13.4",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-025",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "El acuerdo de renuncia se adoptará por la Junta de Gobierno Local de la respectiva Entidad Local",
+    "Las competencias delegadas no se ejercen con arreglo a la legislación del Estado o de las Comunidades Autónomas",
+    "En el régimen de Concejo Abierto, el gobierno y la administración municipales corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores"
+   ],
+   2,
+   "La correcta es «En el régimen de Concejo Abierto, el gobierno y la administración municipales corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores». Las otras dos son falsas: lo correcto es «El acuerdo de renuncia se adoptará por el Pleno de la respectiva Entidad Local» (la otra frase cambia «el Pleno») y «Las competencias delegadas se ejercen con arreglo a la legislación del Es",
+   "lbrl 29",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Las normas previstas en este título serán de aplicación a los municipios capitales de provincia cuya población sea superior a los 60 habitantes",
+    "El Pleno podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales",
+    "El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal"
+   ],
+   2,
+   "La correcta es «El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal». Las otras dos son falsas: lo correcto es «Las normas previstas en este título serán de aplicación a los municipios capitales de provincia cuya población sea superior a los 175.000 habitantes» (la otra frase cambia «175.000») y «El Alcalde podrá delegar exclusiv",
+   "lbrl 122",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrá una vigencia mínima de cuatro años",
+    "El Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza no tendrá una vigencia mínima de cuatro años",
+    "El Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrá una vigencia mínima de un año"
+   ],
+   0,
+   "Art. 57 · Ley 10/2017 (Zaragoza): El Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrá una vigencia mínima de cuatro años.",
+   "l10-2017 57",
+   "La afirmación, su negación y otro dato",
+   "h-zaragoza",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-019",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Toda persona que viva en varios municipios no deberá inscribirse en el padrón únicamente en el que habite durante más tiempo al año",
+    "Toda persona que viva en varios municipios deberá inscribirse en el padrón únicamente en el de nacimiento",
+    "Toda persona que viva en varios municipios deberá inscribirse en el padrón únicamente en el que habite durante más tiempo al año"
+   ],
+   2,
+   "Art. 15 · Ley 7/1985 (LBRL): Toda persona que viva en varios municipios deberá inscribirse en el padrón únicamente en el que habite durante más tiempo al año.",
+   "lbrl 15",
+   "La afirmación, su negación y otro dato",
+   "h-municipio",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-003",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada semestre",
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez al mes",
+    "El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez al año"
+   ],
+   0,
+   "Art. 21 · Ley 10/2017 (Zaragoza): El Consejo Bilateral de Capitalidad se reunirá como mínimo una vez cada semestre.",
+   "l10-2017 21",
+   "La afirmación, su negación y otro dato",
+   "h-zaragoza",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea el Pleno y estará formada por representantes de todos los grupos de forma proporcional a su número de miembros",
+    "La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea el Pleno y no estará formada por representantes de todos los grupos de forma proporcional a su número de miembros",
+    "La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea el Alcalde y estará formada por representantes de todos los grupos políticos municipales"
+   ],
+   0,
+   "Art. 132 · Ley 7/1985 (LBRL): La Comisión especial de Sugerencias y Reclamaciones, para la defensa de los derechos de los vecinos la crea el Pleno y estará formada por representantes de todos los grupos de forma proporcional a su número de miembros.",
+   "lbrl 132",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-088",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales",
+    "Los datos de aportación forzosa no serán susceptibles de cesión en ningún caso",
+    "Quien viva en varios municipios no deberá inscribirse únicamente en el que habite durante más tiempo al año"
+   ],
+   0,
+   "La correcta es «El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales». Las otras dos son falsas: lo correcto es «Los datos de aportación voluntaria no serán susceptibles de cesión en ningún caso» (la otra frase cambia «voluntaria») y «Quien viva en varios municipios deberá inscribirse únicam",
+   "lbrl 17",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto y el Alcalde es elegido por los Concejales o por los vecinos, en los términos de la legislación electoral general",
+    "Los Concejales no son elegidos mediante sufragio universal, igual, libre, directo y secreto y el Alcalde es elegido por los Concejales o por los vecinos, en los términos de la legislación electoral general",
+    "Los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto y el Alcalde es elegido solo por los Concejales, en los términos que establezca la legislación electoral general"
+   ],
+   0,
+   "Art. 19.2 · Ley 7/1985 (LBRL): Los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto y el Alcalde es elegido por los Concejales o por los vecinos, en los términos de la legislación electoral general.",
+   "lbrl 19.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-036",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Corresponde a la Junta de Gobierno Local el control y la fiscalización del Alcalde y de los demás órganos de gobierno del municipio",
+    "Corresponde a la Junta de Gobierno Local la asistencia al Alcalde en el ejercicio de sus atribuciones y las atribuciones que el Alcalde u otro órgano le delegue o le atribuyan las leyes",
+    "Corresponde a la Junta de Gobierno Local la aprobación del presupuesto municipal y de las ordenanzas fiscales, previo dictamen de la Comisión"
+   ],
+   1,
+   "Art. 23.2 · Ley 7/1985 (LBRL): Corresponde a la Junta de Gobierno Local la asistencia al Alcalde en el ejercicio de sus atribuciones y las atribuciones que el Alcalde u otro órgano le delegue o le atribuyan las leyes.",
+   "lbrl 23.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-047",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "La Ley debe prever la dotación de los recursos necesarios para asegurar la suficiencia financiera de las Entidades Locales sin que ello pueda conllevar, en ningún caso, un mayor gasto de las Administraciones Públicas",
+    "El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, no podrán delegar en los Municipios el ejercicio de sus competencias",
+    "El acuerdo de renuncia se adoptará por el Alcalde de la respectiva Entidad Local"
+   ],
+   0,
+   "La correcta es «La Ley debe prever la dotación de los recursos necesarios para asegurar la suficiencia financiera de las Entidades Locales sin que ello pueda conllevar, en ningún caso, un mayor gasto de las Administraciones Públicas». Las otras dos son falsas: lo correcto es «El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, podrán delegar en los Municipios el ejercicio de sus co",
+   "lbrl 25",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La Comisión especial de Sugerencias y Reclamaciones deberá dar cuenta al Pleno mediante informe trimestral de las quejas presentadas y de las deficiencias observadas en los servicios",
+    "La Comisión especial de Sugerencias y Reclamaciones deberá dar cuenta al Pleno mediante un informe anual de las quejas presentadas y de las deficiencias observadas, sin perjuicio de informes extraordinarios si la gravedad o urgencia lo aconsejan",
+    "La Comisión especial de Sugerencias y Reclamaciones deberá dar cuenta al Pleno mediante informe a petición del Alcalde, que decidirá su presentación al Pleno"
+   ],
+   1,
+   "Art. 132 · Ley 7/1985 (LBRL): La Comisión especial de Sugerencias y Reclamaciones deberá dar cuenta al Pleno mediante un informe anual de las quejas presentadas y de las deficiencias observadas, sin perjuicio de informes extraordinarios si la gravedad o urgencia lo aconsejan.",
+   "lbrl 132",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-089",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los Tenientes de Alcalde en gran población se nombran entre los miembros de la Junta de Gobierno Local",
+    "Los Tenientes de Alcalde en gran población se nombran entre los directores generales",
+    "Los Tenientes de Alcalde en gran población los elige el Pleno"
+   ],
+   0,
+   "Art. 125 · Ley 7/1985 (LBRL): Los Tenientes de Alcalde en gran población se nombran entre los miembros de la Junta de Gobierno Local.",
+   "lbrl 125",
+   "La afirmación, su negación y otro dato",
+   "h-gran-pob-organos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-141",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "Los datos de aportación automática no serán susceptibles de cesión en ningún caso",
+    "La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado",
+    "El Consejo será presidido por el Vicepresidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales"
+   ],
+   1,
+   "La correcta es «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado». Las otras dos son falsas: lo correcto es «Los datos de aportación voluntaria no serán susceptibles de cesión en ningún caso» (la otra frase cambia «voluntaria») y «El Consejo será presidido por el Presidente del Instituto Nacional de Estadístic",
+   "lbrl 17",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "Las competencias del Pleno, del Gobierno de Zaragoza, del Alcalde y de los restantes órganos ejecutivos de dirección política y administrativa no serán las establecidas en la regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación",
+    "La ciudad de Zaragoza ostenta los títulos de Muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal",
+    "El gobierno y la administración del municipio de Zaragoza corresponden a su Ayuntamiento, integrado por el Pleno y los Concejales"
+   ],
+   1,
+   "La correcta es «La ciudad de Zaragoza ostenta los títulos de Muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal». Las otras dos son falsas: lo correcto es «Las competencias del Pleno, del Gobierno de Zaragoza, del Alcalde y de los restantes órganos ejecutivos de dirección política y administrativa serán las establecidas en la regulación básica de régimen local y demás disposiciones normativas ",
+   "l10-2017 6",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 75.000 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales",
+    "Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 90 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales",
+    "Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 60 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales"
+   ],
+   0,
+   "Art. 121 · Ley 7/1985 (LBRL): Las normas previstas en este título serán de aplicación asimismo, a los municipios cuya población supere los 75.000 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales. Las otras dos frases cambian «75.000» por «90» y «60».",
+   "lbrl 121",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 137 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Contra las resoluciones del órgano para la resolución de las reclamaciones económico-administrativas en municipios de gran población cabe recurso de reposición obligatorio",
+    "Contra las resoluciones del órgano para la resolución de las reclamaciones económico-administrativas en municipios de gran población cabe recurso de alzada ante el Pleno",
+    "Contra las resoluciones del órgano para la resolución de las reclamaciones económico-administrativas en municipios de gran población sólo cabrá la interposición del recurso contencioso-administrativo"
+   ],
+   2,
+   "Art. 137 · Ley 7/1985 (LBRL): Contra las resoluciones del órgano para la resolución de las reclamaciones económico-administrativas en municipios de gran población sólo cabrá la interposición del recurso contencioso-administrativo.",
+   "lbrl 137",
+   "La afirmación, su negación y otro dato",
+   "h-gran",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t14-016",
+    "tc": 1
    }
   ]
  ]

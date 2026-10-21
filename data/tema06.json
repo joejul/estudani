@@ -1055,7 +1055,8 @@
    "h-requisitos",
    [
     "se separen del criterio"
-   ]
+   ],
+   {}
   ],
   [
    "¿Cuál de los siguientes actos debe ser motivado según el art. 35?",
@@ -1071,7 +1072,8 @@
    "h-requisitos",
    [
     "rechacen pruebas"
-   ]
+   ],
+   {}
   ],
   [
    "Según el art. 36, los actos administrativos se producirán:",
@@ -1087,7 +1089,8 @@
    "h-requisitos",
    [
     "medios electrónicos"
-   ]
+   ],
+   {}
   ],
   [
    "Según el art. 37.1, las resoluciones administrativas de carácter particular:",
@@ -1103,7 +1106,8 @@
    "h-requisitos",
    [
     "disposición de carácter general"
-   ]
+   ],
+   {}
   ],
   [
    "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos:",
@@ -1119,7 +1123,8 @@
    "h-eficacia",
    [
     "presumirán válidos"
-   ]
+   ],
+   {}
   ],
   [
    "Toda notificación deberá ser cursada dentro del plazo de:",
@@ -1135,7 +1140,8 @@
    "h-eficacia",
    [
     "diez días"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el art. 40.2, toda notificación deberá contener:",
@@ -1151,7 +1157,8 @@
    "h-eficacia",
    [
     "texto íntegro"
-   ]
+   ],
+   {}
   ],
   [
    "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido:",
@@ -1167,7 +1174,8 @@
    "h-eficacia",
    [
     "diez días naturales"
-   ]
+   ],
+   {}
   ],
   [
    "En la notificación en papel en el domicilio, si nadie se hace cargo, el intento:",
@@ -1183,7 +1191,8 @@
    "h-eficacia",
    [
     "una sola vez"
-   ]
+   ],
+   {}
   ],
   [
    "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por:",
@@ -1199,7 +1208,8 @@
    "h-eficacia",
    [
     "Boletín Oficial del Estado"
-   ]
+   ],
+   {}
   ],
   [
    "Son nulos de pleno derecho los actos dictados por órgano:",
@@ -1215,7 +1225,8 @@
    "h-invalidez",
    [
     "manifiestamente incompetente"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con los arts. 47 y 48, son nulos de pleno derecho los actos que:",
@@ -1231,7 +1242,8 @@
    "h-invalidez",
    [
     "amparo constitucional"
-   ]
+   ],
+   {}
   ],
   [
    "Son anulables los actos de la Administración que incurran en:",
@@ -1247,7 +1259,8 @@
    "h-invalidez",
    [
     "desviación de poder"
-   ]
+   ],
+   {}
   ],
   [
    "¿Qué actos puede convalidar la Administración subsanando sus vicios?",
@@ -1263,7 +1276,8 @@
    "h-invalidez",
    [
     "actos anulables"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 35.1 de la Ley 39/2015, de 1 de octubre, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
@@ -1630,7 +1644,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1701,7 +1716,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1739,7 +1755,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2672,7 +2689,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2941,7 +2959,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4115,7 +4134,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4152,7 +4172,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4189,7 +4210,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4207,7 +4229,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4225,7 +4248,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4243,7 +4267,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4261,7 +4286,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4336,7 +4362,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4413,6 +4440,3037 @@
     "nuevo": 1,
     "neg": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos de las Administraciones sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en la Ley",
+    "Los actos de las Administraciones sujetos al Derecho Administrativo no serán ejecutivos con arreglo a lo dispuesto en la Ley",
+    "Los actos de las Administraciones sujetos al Derecho Administrativo serán ejecutivos solo cuando sean firmes en vía administrativa"
+   ],
+   0,
+   "Art. 38 · Ley 39/2015: Los actos de las Administraciones sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en la Ley.",
+   "lpac 38",
+   "La afirmación, su negación y otro dato",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-086",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 108 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Iniciado el procedimiento de revisión de oficio, el órgano competente no podrá suspender la ejecución del acto cuando ésta pudiera causar perjuicios de imposible o difícil reparación",
+    "Iniciado el procedimiento de revisión de oficio, el órgano competente podrá suspender la ejecución del acto cuando ésta pudiera causar perjuicios de imposible o difícil reparación",
+    "Iniciado el procedimiento de revisión de oficio, el órgano competente podrá suspender la ejecución del acto cuando el acto sea nulo manifiestamente"
+   ],
+   1,
+   "Art. 108 · Ley 39/2015: Iniciado el procedimiento de revisión de oficio, el órgano competente podrá suspender la ejecución del acto cuando ésta pudiera causar perjuicios de imposible o difícil reparación.",
+   "lpac 108",
+   "La afirmación, su negación y otro dato",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-143",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero",
+    "La nulidad o anulabilidad de un acto no implicará la de ninguno de los posteriores, que quedan siempre sin efecto aunque sean independientes del primero",
+    "La nulidad o anulabilidad de un acto no implicará la de todos los posteriores, incluso los que sean independientes del acto declarado nulo o anulable"
+   ],
+   0,
+   "Art. 49.1 · Ley 39/2015: La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.",
+   "lpac 49.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-055",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de ninguno de los trámites realizados, que deberán repetirse íntegramente desde el inicio del procedimiento",
+    "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción",
+    "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de solo los actos de trámite cualificado, que se mantendrán aunque el vicio afecte a su contenido"
+   ],
+   1,
+   "Art. 51 · Ley 39/2015: El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+   "lpac 51",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-058",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste nunca, pues deben ser anulados íntegramente y sin posibilidad de producir los efectos de otro acto distinto",
+    "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste solo si el interesado lo solicita expresamente y el órgano competente lo acuerda de forma motivada",
+    "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste si se dan los requisitos de efectos de este último (conversión de actos viciados)"
+   ],
+   2,
+   "Art. 50 · Ley 39/2015: Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste si se dan los requisitos de efectos de este último (conversión de actos viciados).",
+   "lpac 50",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-057",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía",
+    "Las resoluciones administrativas de carácter particular prevalecen siempre sobre las disposiciones generales",
+    "Las resoluciones administrativas de carácter particular pueden derogar un reglamento si las dicta un órgano superior"
+   ],
+   0,
+   "Art. 37 · Ley 39/2015: Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía.",
+   "lpac 37",
+   "La afirmación, su negación y otro dato",
+   "h-requisitos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-004",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+    "El defecto de forma sólo determinará la anulabilidad cuando exista cualquier irregularidad formal, aunque el acto alcance su fin y no cause indefensión a los interesados",
+    "El defecto de forma sólo determinará la anulabilidad cuando el interesado lo alegue en el plazo de diez días desde la notificación, aunque no cause indefensión"
+   ],
+   0,
+   "Art. 48.2 · Ley 39/2015: El defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+   "lpac 48.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-053",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos administrativos se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecidos",
+    "Los actos administrativos se producirán por el superior jerárquico del órgano competente",
+    "Los actos administrativos se producirán por cualquier órgano de la Administración con facultades suficientes"
+   ],
+   0,
+   "Art. 34.1 · Ley 39/2015: Los actos administrativos se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecidos.",
+   "lpac 34.1",
+   "La afirmación, su negación y otro dato",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-068",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de publicación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial",
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial",
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de comunicación verbal complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial"
+   ],
+   1,
+   "Art. 46 · Ley 39/2015: Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial. Las otras dos frases cambian «notificación» por «publicación» y «comunicación verbal».",
+   "lpac 46",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias podrán refundirse en un único acto acordado por el órgano competente, que especificará las personas u otras circunstancias que individualicen los efectos para cada interesado",
+    "Cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias no podrán refundirse en un único acto acordado por el órgano competente, que especificará las personas u otras circunstancias que individualicen los efectos para cada interesado",
+    "Cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias se dictarán por el superior jerárquico del órgano competente, que especificará las circunstancias de cada interesado"
+   ],
+   0,
+   "Art. 36.3 · Ley 39/2015: Cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias podrán refundirse en un único acto acordado por el órgano competente, que especificará las personas u otras circunstancias que individualicen los efectos para cada interesado.",
+   "lpac 36.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-023",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por anuncio publicado en el «Boletín Oficial del Estado»",
+    "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por anuncio publicado en el «Boletín Oficial de la Provincia»",
+    "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por anuncio publicado en el «Boletín Oficial de Aragón»"
+   ],
+   0,
+   "Art. 44 · Ley 39/2015: Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por anuncio publicado en el «Boletín Oficial del Estado». Las otras dos frases cambian «Boletín Oficial del Estado» por «Boletín Oficial de la Provincia» y «Boletín Oficial de Aragón».",
+   "lpac 44",
+   "Una sola palabra cambia el sentido",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t06-010",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La interposición de cualquier recurso, salvo disposición en contrario suspende la ejecución durante un mes",
+    "La interposición de cualquier recurso, salvo disposición en contrario suspende automáticamente la ejecución",
+    "La interposición de cualquier recurso, salvo disposición en contrario no suspenderá la ejecución del acto impugnado"
+   ],
+   2,
+   "Art. 117.1 · Ley 39/2015: La interposición de cualquier recurso, salvo disposición en contrario no suspenderá la ejecución del acto impugnado.",
+   "lpac 117.1",
+   "La afirmación, su negación y otro dato",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-144",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Todas las notificaciones que se practiquen en papel no deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria",
+    "La publicación de un acto no deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones",
+    "Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente"
+   ],
+   2,
+   "La correcta es «Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente». Las otras dos son falsas: lo correcto es «Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Org",
+   "lpac 45",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.d de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son nulos los actos que sean constitutivos de infracción penal o se dicten como consecuencia de ésta",
+    "Son nulos los actos que se dicten tras una infracción administrativa",
+    "Son nulos los actos que contravengan una circular interna"
+   ],
+   0,
+   "Art. 47.1.d · Ley 39/2015: Son nulos los actos que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.",
+   "lpac 47.1.d",
+   "La afirmación, su negación y otro dato",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-127",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El acto de convalidación no producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad",
+    "El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad",
+    "El acto de convalidación producirá efecto desde su notificación al interesado, sin posibilidad de otorgar eficacia retroactiva en ningún caso"
+   ],
+   1,
+   "Art. 52.2 · Ley 39/2015: El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad.",
+   "lpac 52.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-061",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que lo acepte el interesado",
+    "Podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que los supuestos de hecho existieran ya en la fecha a que se retrotraiga y no lesione derechos o intereses legítimos de otras personas",
+    "Podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que así lo decida el órgano superior"
+   ],
+   1,
+   "Art. 39.3 · Ley 39/2015: Podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que los supuestos de hecho existieran ya en la fecha a que se retrotraiga y no lesione derechos o intereses legítimos de otras personas.",
+   "lpac 39.3",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-089",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho solo los actos sancionadores",
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho todos los actos de trámite",
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que se separen del criterio seguido en actuaciones precedentes"
+   ],
+   2,
+   "Art. 35 · Ley 39/2015: Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que se separen del criterio seguido en actuaciones precedentes.",
+   "lpac 35",
+   "La afirmación, su negación y otro dato",
+   "h-requisitos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-001",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el interesado destinatario del acto, que redactará y firmará la constancia escrita de lo comunicado oralmente",
+    "Si el segundo intento también resulta infructuoso se procederá en la forma prevista en el artículo 44",
+    "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado"
+   ],
+   0,
+   "La incorrecta es «cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el interesado destinatario del acto, que redactará y firmará la constancia escrita de lo comunicado oralmente». Lo correcto: cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará p",
+   "lpac 36.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son nulas las resoluciones administrativas que se dicten fuera de plazo",
+    "A los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo del procedimiento, será suficiente la notificación que contenga cuando menos, el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado",
+    "Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza solo producirá efectos previa prestación de caución o garantía suficiente"
+   ],
+   0,
+   "La incorrecta es «son nulas las resoluciones administrativas que se dicten fuera de plazo». Lo correcto: son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria o incurran en alguna de las causas del artículo 47.",
+   "lpac 37.2",
+   "Proposición negativa",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de la Provincia»",
+    "Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria",
+    "Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento"
+   ],
+   0,
+   "La incorrecta es «Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de la Provincia»»: cambia «Boletín Oficial del Estado». Lo correcto: «Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a travé",
+   "lpac 44",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Han de motivarse los actos que rechacen pruebas propuestas por los interesados",
+    "Si el segundo intento también resulta infructuoso se archivará el procedimiento",
+    "Serán motivados, entre otros los actos que se dicten en el ejercicio de potestades discrecionales"
+   ],
+   1,
+   "La incorrecta es «si el segundo intento también resulta infructuoso se archivará el procedimiento». Lo correcto: si el segundo intento también resulta infructuoso se procederá en la forma prevista en el artículo 44.",
+   "lpac 42.2",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que se separen del criterio seguido en actuaciones precedentes",
+    "El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado, aunque no necesariamente adecuado a su fin",
+    "Las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado cuando estas tengan por destinatarios a más de un interesado"
+   ],
+   1,
+   "La incorrecta es «el contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado, aunque no necesariamente adecuado a su fin». Lo correcto: el contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos.",
+   "lpac 34.2",
+   "Proposición negativa",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+    "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan",
+    "El acto de convalidación no producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos"
+   ],
+   2,
+   "La incorrecta es «El acto de convalidación no producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos»: niega lo que dice la ley. Lo correcto: «El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos».",
+   "lpac 52",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son nulos los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las reglas esenciales para la formación de la voluntad de los órganos colegiados",
+    "La presunción de validez de los actos administrativos supone que producen efectos hasta que el interesado los impugne",
+    "Podrá otorgarse eficacia retroactiva excepcionalmente a los actos dictados en sustitución de actos anulados y a los que produzcan efectos favorables siempre que los supuestos de hecho existieran ya en la fecha a que se retrotraiga y no lesione derechos o intereses legítimos de otras personas"
+   ],
+   1,
+   "La incorrecta es «la presunción de validez de los actos administrativos supone que producen efectos hasta que el interesado los impugne». Lo correcto: la presunción de validez de los actos administrativos supone que producen efectos mientras no se declare su invalidez.",
+   "lpac 39.1",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, podrá requerirla previamente para que lo anule o revise y, si rechaza el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "Las normas y actos dictados por un órgano en el ejercicio de su propia competencia deberán ser observados únicamente por la propia Administración",
+    "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa"
+   ],
+   1,
+   "La incorrecta es «las normas y actos dictados por un órgano en el ejercicio de su propia competencia deberán ser observados únicamente por la propia Administración». Lo correcto: las normas y actos dictados por un órgano en el ejercicio de su propia competencia deberán ser observados por el resto de órganos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración.",
+   "lpac 39.4",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Serán motivados, entre otros los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por cualquier órgano de la Administración con competencia por razón de la materia, aunque no sea superior jerárquico",
+    "Con carácter facultativo y previo, las Administraciones podrán publicar un anuncio en el boletín de la Comunidad Autónoma o Provincia, el tablón de edictos del último domicilio o el Consulado correspondiente"
+   ],
+   1,
+   "La incorrecta es «si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por cualquier órgano de la Administración con competencia por razón de la materia, aunque no sea superior jerárquico». Lo correcto: si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que ",
+   "lpac 52.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Serán motivados, entre otros, los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos",
+    "Cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias se dictarán por el superior jerárquico del órgano competente, que especificará las circunstancias de cada interesado",
+    "Si el primer intento se hizo antes de las quince horas, el segundo deberá realizarse después de las quince horas, con al menos tres horas de diferencia entre ambos"
+   ],
+   1,
+   "La incorrecta es «cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias se dictarán por el superior jerárquico del órgano competente, que especificará las circunstancias de cada interesado». Lo correcto: cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias podrán refundirse en un único acto acordado por el órg",
+   "lpac 36.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son nulos los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición",
+    "Son nulas las resoluciones administrativas que sean anulables por defecto de forma",
+    "Si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, podrá requerirla previamente para que lo anule o revise y, si rechaza el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento"
+   ],
+   1,
+   "La incorrecta es «son nulas las resoluciones administrativas que sean anulables por defecto de forma». Lo correcto: son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria o incurran en alguna de las causas del artículo 47.",
+   "lpac 37.2",
+   "Proposición negativa",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos",
+    "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea Pleno del que dictó el acto viciado"
+   ],
+   2,
+   "La incorrecta es «Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea Pleno del que dictó el acto viciado»: cambia «superior jerárquico». Lo correcto: «Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto ",
+   "lpac 52",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son nulos los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las reglas esenciales para la formación de la voluntad de los órganos colegiados",
+    "Todas las notificaciones en papel deberán ponerse a disposición del interesado en el tablón de anuncios municipal",
+    "Los actos de las Administraciones sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en la Ley"
+   ],
+   1,
+   "La incorrecta es «todas las notificaciones en papel deberán ponerse a disposición del interesado en el tablón de anuncios municipal». Lo correcto: todas las notificaciones en papel deberán ponerse a disposición del interesado en la sede electrónica de la Administración para que pueda acceder a su contenido de forma voluntaria.",
+   "lpac 42.1",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel, siendo electrónica cuando exista obligación de relacionarse así",
+    "Han de ser motivados los actos dictados en el ejercicio de potestades discrecionales y los que deban serlo por disposición legal o reglamentaria expresa",
+    "Si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una nota en el tablón de edictos"
+   ],
+   2,
+   "La incorrecta es «si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una nota en el tablón de edictos». Lo correcto: si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer para conocer ",
+   "lpac 46",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste nunca, pues deben ser anulados íntegramente y sin posibilidad de producir los efectos de otro acto distinto",
+    "Si la notificación electrónica es obligatoria o elegida, se entenderá rechazada transcurridos diez días naturales desde la puesta a disposición sin acceso",
+    "Cuando el interesado o su representante rechace la notificación de una actuación administrativa se hará constar en el expediente, especificándose las circunstancias del intento, dando por efectuado el trámite y siguiéndose el procedimiento"
+   ],
+   0,
+   "La incorrecta es «los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste nunca, pues deben ser anulados íntegramente y sin posibilidad de producir los efectos de otro acto distinto». Lo correcto: los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste si se dan los r",
+   "lpac 50",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado cuando estas tengan por destinatarios a más de un interesado",
+    "Toda notificación deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, los recursos que procedan, el órgano y el plazo",
+    "La falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación obliga a repetir la notificación en papel, sin que produzca efectos la practicada electrónicamente"
+   ],
+   2,
+   "La incorrecta es «la falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación obliga a repetir la notificación en papel, sin que produzca efectos la practicada electrónicamente». Lo correcto: la falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación no imped",
+   "lpac 41.6",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La interposición de cualquier recurso, salvo disposición en contrario suspende automáticamente la ejecución",
+    "El órgano que resuelva el recurso podrá suspender la ejecución, previa ponderación razonada, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o la impugnación se fundamente en alguna causa de nulidad de pleno derecho del artículo 47.1",
+    "Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza solo producirá efectos previa prestación de caución o garantía suficiente"
+   ],
+   0,
+   "La incorrecta es «la interposición de cualquier recurso, salvo disposición en contrario suspende automáticamente la ejecución». Lo correcto: la interposición de cualquier recurso, salvo disposición en contrario no suspenderá la ejecución del acto impugnado.",
+   "lpac 117.1",
+   "Proposición negativa",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero",
+    "El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos",
+    "Las notificaciones electrónicas se practican mediante comparecencia solo en la dirección de correo del interesado"
+   ],
+   2,
+   "La incorrecta es «las notificaciones electrónicas se practican mediante comparecencia solo en la dirección de correo del interesado». Lo correcto: las notificaciones electrónicas se practican mediante comparecencia en la sede electrónica, a través de la dirección electrónica habilitada única o ambos sistemas según disponga cada Administración.",
+   "lpac 43.1",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento",
+    "Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observadas por el resto de los órganos administrativos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración",
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de Aragón»"
+   ],
+   2,
+   "La incorrecta es «Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de Aragón»»: cambia «Boletín Oficial del Estado». Lo correcto: «Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de l",
+   "lpac 44",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación no impedirá que la notificación sea considerada plenamente válida",
+    "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de ninguno de los trámites realizados, que deberán repetirse íntegramente desde el inicio del procedimiento",
+    "Los actos de las Administraciones sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo disposición en contrario"
+   ],
+   1,
+   "La incorrecta es «el órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de ninguno de los trámites realizados, que deberán repetirse íntegramente desde el inicio del procedimiento». Lo correcto: el órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infra",
+   "lpac 51",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El órgano que dicte las resoluciones y actos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos",
+    "Toda notificación debe cursarse dentro del plazo de diez días desde que el acto haya sido dictado",
+    "Excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando el órgano que los dicta lo decida libremente, aunque se lesionen derechos o intereses de otras personas"
+   ],
+   2,
+   "La incorrecta es «excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando el órgano que los dicta lo decida libremente, aunque se lesionen derechos o intereses de otras personas». Lo correcto: excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, o produzcan efectos favorables al interesado, si los supuestos de hecho existían ya y no se l",
+   "lpac 39.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El acto de convalidación produce efecto desde su notificación al Boletín",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+    "El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad"
+   ],
+   0,
+   "La incorrecta es «el acto de convalidación produce efecto desde su notificación al Boletín». Lo correcto: el acto de convalidación produce efecto desde su fecha, salvo lo previsto para la retroactividad.",
+   "lpac 52",
+   "Proposición negativa",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de carácter sancionador o de responsabilidad patrimonial",
+    "Los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto afecte a un solo interesado cuyo domicilio se desconozca, sin necesidad de intentar la notificación",
+    "La notificación debe indicar si la resolución pone fin o no a la vía administrativa"
+   ],
+   1,
+   "La incorrecta es «los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto afecte a un solo interesado cuyo domicilio se desconozca, sin necesidad de intentar la notificación». Lo correcto: los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto tenga por destinatario a un",
+   "lpac 45.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si se trata de resoluciones dictadas verbalmente, el titular de la competencia deberá autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido",
+    "Cuando deba dictarse una serie de actos de la misma naturaleza, como nombramientos, concesiones o licencias podrán refundirse en un único acto acordado por el órgano competente, que especificará las personas u otras circunstancias que individualicen los efectos para cada interesado",
+    "El órgano que resuelva el recurso podrá suspender la ejecución, previa ponderación razonada, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o el recurrente sea una persona jurídica"
+   ],
+   2,
+   "La incorrecta es «el órgano que resuelva el recurso podrá suspender la ejecución, previa ponderación razonada, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o el recurrente sea una persona jurídica». Lo correcto: el órgano que resuelva el recurso podrá suspender la ejecución, previa ponderación razonada, cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación ",
+   "lpac 117.2",
+   "Proposición negativa",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Deben motivarse los actos que resuelvan procedimientos de revisión de oficio, recursos administrativos y arbitraje, y los que declaren su inadmisión",
+    "Deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden el desistimiento del interesado",
+    "Serán motivados, entre otros las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan procedimientos sancionadores o de responsabilidad patrimonial"
+   ],
+   1,
+   "La incorrecta es «deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden el desistimiento del interesado». Lo correcto: deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden el desistimiento por la Administración en procedimientos iniciados de oficio.",
+   "lpac 35.1.g",
+   "Proposición negativa",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Iniciado el procedimiento de revisión de oficio, el órgano competente podrá suspender la ejecución del acto cuando ésta pudiera causar perjuicios de imposible o difícil reparación",
+    "Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada",
+    "En la notificación en papel en el domicilio, si nadie se hace cargo, el intento se repite hasta tres veces en la misma semana"
+   ],
+   2,
+   "La incorrecta es «en la notificación en papel en el domicilio, si nadie se hace cargo, el intento se repite hasta tres veces en la misma semana». Lo correcto: en la notificación en papel en el domicilio, si nadie se hace cargo, el intento se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes.",
+   "lpac 42",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario",
+    "Cuando el interesado o su representante rechace la notificación de una actuación administrativa se repetirá la notificación en el domicilio hasta que sea aceptada, suspendiéndose el procedimiento mientras tanto",
+    "En los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones podrán recabar el domicilio del interesado en las bases de datos del INE sobre el Padrón Municipal"
+   ],
+   1,
+   "La incorrecta es «cuando el interesado o su representante rechace la notificación de una actuación administrativa se repetirá la notificación en el domicilio hasta que sea aceptada, suspendiéndose el procedimiento mientras tanto». Lo correcto: cuando el interesado o su representante rechace la notificación de una actuación administrativa se hará constar en el expediente, especificándose las circunstancias del intento",
+   "lpac 41.5",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Al dictar el acuerdo de suspensión no podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado",
+    "Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente",
+    "La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones"
+   ],
+   0,
+   "La incorrecta es «Al dictar el acuerdo de suspensión no podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado»: cambia «podrán». Lo correcto: «Al dictar el acuerdo de suspensión podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y",
+   "lpac 117",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+    "La Administración deberá convalidar los actos anulables, subsanando los vicios de que adolezcan"
+   ],
+   2,
+   "La incorrecta es «La Administración deberá convalidar los actos anulables, subsanando los vicios de que adolezcan»: cambia «podrá». Lo correcto: «La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan».",
+   "lpac 52",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las resoluciones administrativas de carácter particular pueden derogar un reglamento si las dicta un órgano superior",
+    "La notificación debe expresar, además del texto íntegro los recursos que procedan, el órgano ante el que presentarse y el plazo para interponerlos",
+    "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido"
+   ],
+   0,
+   "La incorrecta es «las resoluciones administrativas de carácter particular pueden derogar un reglamento si las dicta un órgano superior». Lo correcto: las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía.",
+   "lpac 37",
+   "Proposición negativa",
+   "h-requisitos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado»",
+    "Todas las notificaciones que se practiquen en papel podrán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria",
+    "La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar"
+   ],
+   1,
+   "La incorrecta es «Todas las notificaciones que se practiquen en papel podrán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria»: cambia «deberán». Lo correcto: «Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Adm",
+   "lpac 42",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Son nulos los actos que contravengan una circular interna",
+    "Son nulos de pleno derecho los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
+    "En los actos integrantes de un procedimiento selectivo o de concurrencia competitiva, la convocatoria deberá indicar el medio donde se efectuarán las sucesivas publicaciones careciendo de validez las que se lleven a cabo en lugares distintos"
+   ],
+   0,
+   "La incorrecta es «son nulos los actos que contravengan una circular interna». Lo correcto: son nulos los actos que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.",
+   "lpac 47.1.d",
+   "Proposición negativa",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar",
+    "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido",
+    "Los interesados no podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso"
+   ],
+   2,
+   "La incorrecta es «Los interesados no podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso»: cambia «podrán». Lo correcto: «Los interesados podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso».",
+   "lpac 43",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido",
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado»",
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de comunicación verbal complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial"
+   ],
+   2,
+   "La incorrecta es «Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de comunicación verbal complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial»: cambia «notificación». Lo correcto: «Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación",
+   "lpac 46",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+    "El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos",
+    "La Administración no podrá convalidar los actos anulables, subsanando los vicios de que adolezcan"
+   ],
+   2,
+   "La incorrecta es «La Administración no podrá convalidar los actos anulables, subsanando los vicios de que adolezcan»: cambia «podrá». Lo correcto: «La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan».",
+   "lpac 52",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La publicación de un acto no deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones",
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial",
+    "Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44"
+   ],
+   0,
+   "La incorrecta es «La publicación de un acto no deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones»: cambia «deberá». Lo correcto: «La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones».",
+   "lpac 45",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los actos administrativos se producirán verbalmente a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido",
+    "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general"
+   ],
+   0,
+   "La incorrecta es «Los actos administrativos se producirán verbalmente a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia»: cambia «por escrito». Lo correcto: «Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia».",
+   "lpac 36",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial",
+    "La publicación de un acto podrá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones",
+    "La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar"
+   ],
+   1,
+   "La incorrecta es «La publicación de un acto podrá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones»: cambia «deberá». Lo correcto: «La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones».",
+   "lpac 45",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste solo si el interesado lo solicita expresamente y el órgano competente lo acuerda de forma motivada",
+    "La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto",
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que se separen del criterio seguido en actuaciones precedentes"
+   ],
+   0,
+   "La incorrecta es «los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste solo si el interesado lo solicita expresamente y el órgano competente lo acuerda de forma motivada». Lo correcto: los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste si se dan los requisitos",
+   "lpac 50",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, quedando acreditados los fundamentos de la resolución",
+    "Deben motivarse los actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo y los que acuerden el desistimiento por la Administración en procedimientos iniciados de oficio",
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos de mero trámite sin efectos en los derechos"
+   ],
+   2,
+   "La incorrecta es «serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos de mero trámite sin efectos en los derechos». Lo correcto: serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que limiten derechos subjetivos o intereses legítimos.",
+   "lpac 35.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de éste",
+    "La notificación deberá contener el texto íntegro de la resolución, si pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+    "Los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando lo decida discrecionalmente el instructor del procedimiento atendiendo a las circunstancias del caso"
+   ],
+   2,
+   "La incorrecta es «los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando lo decida discrecionalmente el instructor del procedimiento atendiendo a las circunstancias del caso». Lo correcto: los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto tenga por destinatario a una plura",
+   "lpac 45.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su exposición durante quince días",
+    "La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto",
+    "Los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando tengan por destinatario a una pluralidad indeterminada de personas o formen parte de un procedimiento selectivo o de concurrencia competitiva"
+   ],
+   0,
+   "La incorrecta es «la publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su exposición durante quince días». Lo correcto: la publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su publicación en el Diario oficial correspondiente.",
+   "lpac 45.4",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+    "En ningún caso se efectuarán por medios electrónicos las notificaciones las que contengan sanciones o resoluciones que pongan fin a la vía administrativa",
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que limiten derechos subjetivos o intereses legítimos"
+   ],
+   1,
+   "La incorrecta es «en ningún caso se efectuarán por medios electrónicos las notificaciones las que contengan sanciones o resoluciones que pongan fin a la vía administrativa». Lo correcto: en ningún caso se efectuarán por medios electrónicos las notificaciones aquellas en las que el acto vaya acompañado de elementos no susceptibles de conversión a formato electrónico y las que contengan medios de pago a favor de los ob",
+   "lpac 41.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido",
+    "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general",
+    "Los actos administrativos se producirán de forma tácita a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia"
+   ],
+   2,
+   "La incorrecta es «Los actos administrativos se producirán de forma tácita a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia»: cambia «por escrito». Lo correcto: «Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia».",
+   "lpac 36",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La eficacia del acto quedará demorada cuando el interesado lo solicite expresamente en el escrito de iniciación o en cualquier momento anterior a la resolución",
+    "Las normas y actos dictados por un órgano en el ejercicio de su propia competencia deberán ser observados por el resto de órganos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración",
+    "Excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, o produzcan efectos favorables al interesado, si los supuestos de hecho existían ya y no se lesionan derechos de otras personas"
+   ],
+   0,
+   "La incorrecta es «la eficacia del acto quedará demorada cuando el interesado lo solicite expresamente en el escrito de iniciación o en cualquier momento anterior a la resolución». Lo correcto: la eficacia del acto quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+   "lpac 39.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observadas por el resto de los órganos administrativos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración",
+    "Todas las notificaciones que se practiquen en papel no deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria",
+    "Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44"
+   ],
+   1,
+   "La incorrecta es «Todas las notificaciones que se practiquen en papel no deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria»: cambia «deberán». Lo correcto: «Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la",
+   "lpac 42",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de carácter sancionador o de responsabilidad patrimonial",
+    "Serán motivados, entre otros, los actos que concedan una autorización solicitada por el interesado, sin que perjudiquen derechos de terceros",
+    "La motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, quedando acreditados los fundamentos de la resolución"
+   ],
+   1,
+   "La incorrecta es «serán motivados, entre otros, los actos que concedan una autorización solicitada por el interesado, sin que perjudiquen derechos de terceros». Lo correcto: serán motivados, entre otros, los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+   "lpac 35.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La interposición de cualquier recurso, salvo disposición en contrario no suspenderá la ejecución del acto impugnado",
+    "La notificación debe expresar, además del texto íntegro los recursos que procedan, el órgano ante el que presentarse y el plazo para interponerlos",
+    "Si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar el contenido íntegro en el boletín"
+   ],
+   2,
+   "La incorrecta es «si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar el contenido íntegro en el boletín». Lo correcto: si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer para conoce",
+   "lpac 46",
+   "Proposición negativa",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si el interesado rechaza la notificación se hará constar en el expediente, dando por efectuado el trámite y siguiendo el procedimiento",
+    "Las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario",
+    "Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de la notificación practicada en papel, aunque se hubiera producido antes otra por medios electrónicos"
+   ],
+   2,
+   "La incorrecta es «cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de la notificación practicada en papel, aunque se hubiera producido antes otra por medios electrónicos». Lo correcto: cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar.",
+   "lpac 41.7",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los actos administrativos se producirán por cualquier órgano de la Administración con facultades suficientes",
+    "La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo",
+    "Con independencia del medio de notificación, las Administraciones enviarán un aviso al dispositivo electrónico o correo electrónico que el interesado haya comunicado, sin que su falta afecte a la validez de la notificación"
+   ],
+   0,
+   "La incorrecta es «los actos administrativos se producirán por cualquier órgano de la Administración con facultades suficientes». Lo correcto: los actos administrativos se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecidos.",
+   "lpac 34.1",
+   "Proposición negativa",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si el segundo intento también resulta infructuoso se procederá en la forma prevista en el artículo 44",
+    "Si el segundo intento también resulta infructuoso se considerará practicada la notificación",
+    "Si el segundo intento también resulta infructuoso se archivará el procedimiento"
+   ],
+   0,
+   "Art. 42.2 · Ley 39/2015: Si el segundo intento también resulta infructuoso se procederá en la forma prevista en el artículo 44.",
+   "lpac 42.2",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-111",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante edicto en el tablón del Ayuntamiento únicamente",
+    "Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante llamada telefónica",
+    "Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante anuncio publicado en el Boletín Oficial del Estado"
+   ],
+   2,
+   "Art. 44 · Ley 39/2015: Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante anuncio publicado en el Boletín Oficial del Estado.",
+   "lpac 44",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-117",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Si un órgano inferior invade la competencia jerárquica de un superior, el acto es anulable y puede convalidarse por el órgano superior (art. 52.3)",
+    "Si un órgano inferior invade la competencia jerárquica de un superior, el acto es nulo de pleno derecho y puede convalidarse por el órgano superior (art. 52.3)",
+    "Si un órgano inferior invade la competencia jerárquica de un superior, el acto es irregular y puede convalidarse por el órgano superior (art. 52.3)"
+   ],
+   0,
+   "Si un órgano inferior invade la competencia jerárquica de un superior, el acto es anulable y puede convalidarse por el órgano superior (art. 52.3). Las otras dos frases cambian «Anulable» por «nulo de pleno derecho» y «Irregular».",
+   "Lección del tema: elementos subjetivos",
+   "Una sola palabra cambia el sentido",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t06-165",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Los actos con contenido imposible o que constituyan infracción penal son anulables de pleno derecho (art. 47.1.c y d)",
+    "Los actos con contenido imposible o que constituyan infracción penal son irregulares de pleno derecho (art. 47.1.c y d)",
+    "Los actos con contenido imposible o que constituyan infracción penal son nulos de pleno derecho (art. 47.1.c y d)"
+   ],
+   2,
+   "Los actos con contenido imposible o que constituyan infracción penal son nulos de pleno derecho (art. 47.1.c y d). Las otras dos frases cambian «Nulos» por «Anulables» y «Irregulares».",
+   "Lección del tema: elementos objetivos",
+   "Una sola palabra cambia el sentido",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t06-171",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria",
+    "Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma forzosa",
+    "Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma automática"
+   ],
+   0,
+   "Art. 42 · Ley 39/2015: Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria. Las otras dos frases cambian «voluntaria» por «forzosa» y «automática».",
+   "lpac 42",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las notificaciones no son válidas, con independencia del medio, siempre que permitan tener constancia de su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario",
+    "Las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario",
+    "Las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de solo de la recepción por el interesado"
+   ],
+   1,
+   "Art. 41.1 · Ley 39/2015: Las notificaciones son válidas, con independencia del medio, siempre que permitan tener constancia de su envío o puesta a disposición, recepción o acceso, fechas y horas, contenido íntegro e identidad fidedigna del remitente y destinatario.",
+   "lpac 41.1",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-101",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son nulos los actos dictados por órgano incompetente por razón de la jerarquía",
+    "Son nulos los actos dictados por órgano competente pero sin motivación",
+    "Son nulos los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio"
+   ],
+   2,
+   "Art. 47.1.b · Ley 39/2015: Son nulos los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+   "lpac 47.1.b",
+   "La afirmación, su negación y otro dato",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-125",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.c de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son nulos los actos que tengan un contenido discrecional",
+    "Son nulos los actos que tengan un contenido imposible",
+    "Son nulos los actos que carezcan de motivación"
+   ],
+   1,
+   "Art. 47.1.c · Ley 39/2015: Son nulos los actos que tengan un contenido imposible.",
+   "lpac 47.1.c",
+   "La afirmación, su negación y otro dato",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-126",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Al dictar el acuerdo de suspensión deberán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado",
+    "Al dictar el acuerdo de suspensión podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado",
+    "Al dictar el acuerdo de suspensión no podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado"
+   ],
+   1,
+   "Art. 117 · Ley 39/2015: Al dictar el acuerdo de suspensión podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lpac 117",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La ejecución se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico el órgano no ha resuelto el recurso",
+    "La ejecución se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico el órgano competente no ha dictado y notificado resolución expresa sobre ella",
+    "La ejecución se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico el recurrente no haya prestado garantía"
+   ],
+   1,
+   "Art. 117.3 · Ley 39/2015: La ejecución se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico el órgano competente no ha dictado y notificado resolución expresa sobre ella.",
+   "lpac 117.3",
+   "La afirmación, su negación y otro dato",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-146",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "La publicación de un acto podrá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones",
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de comunicación verbal complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial",
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado»"
+   ],
+   2,
+   "La correcta es «Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado»». Las otras dos son falsas: lo correcto es «La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaci",
+   "lpac 44",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos administrativos no serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto tenga por destinatario a una pluralidad indeterminada de personas",
+    "Los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto afecte a un solo interesado cuyo domicilio se desconozca, sin necesidad de intentar la notificación",
+    "Los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto tenga por destinatario a una pluralidad indeterminada de personas"
+   ],
+   2,
+   "Art. 45.1 · Ley 39/2015: Los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en todo caso cuando el acto tenga por destinatario a una pluralidad indeterminada de personas.",
+   "lpac 45.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-044",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Los actos administrativos se producirán verbalmente a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Los actos administrativos se producirán de forma tácita a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia"
+   ],
+   1,
+   "Art. 36 · Ley 39/2015: Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia. Las otras dos frases cambian «por escrito» por «verbalmente» y «de forma tácita».",
+   "lpac 36",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido un mes natural",
+    "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido diez días naturales desde la puesta a disposición",
+    "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido tres días hábiles"
+   ],
+   1,
+   "Art. 43 · Ley 39/2015: Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido diez días naturales desde la puesta a disposición.",
+   "lpac 43",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-008",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Deben motivarse los actos que resuelvan solo los recursos de alzada",
+    "Deben motivarse los actos que resuelvan las solicitudes de certificados",
+    "Deben motivarse los actos que resuelvan procedimientos de revisión de oficio, recursos administrativos y arbitraje, y los que declaren su inadmisión"
+   ],
+   2,
+   "Art. 35.1.b · Ley 39/2015: Deben motivarse los actos que resuelvan procedimientos de revisión de oficio, recursos administrativos y arbitraje, y los que declaren su inadmisión.",
+   "lpac 35.1.b",
+   "La afirmación, su negación y otro dato",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-071",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer para conocer el contenido íntegro",
+    "Si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una somera indicación del contenido del acto y del lugar donde los interesados no podrán comparecer para conocer el contenido íntegro",
+    "Si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una nota en el tablón de edictos"
+   ],
+   0,
+   "Art. 46 · Ley 39/2015: Si la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, el órgano se limitará a publicar una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer para conocer el contenido íntegro.",
+   "lpac 46",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-123",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La notificación deberá contener el texto íntegro de la resolución, sin necesidad de indicar si pone fin a la vía administrativa ni los recursos",
+    "La notificación deberá contener el texto íntegro de la resolución, si pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+    "La notificación deberá contener solo la parte dispositiva de la resolución y el plazo para interponer recurso, sin indicar el órgano ante el que presentarlo"
+   ],
+   1,
+   "Art. 40.2 · Ley 39/2015: La notificación deberá contener el texto íntegro de la resolución, si pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos.",
+   "lpac 40.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, podrá requerirla previamente para que lo anule o revise y, si rechaza el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "Si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, no podrá requerirla previamente para que lo anule o revise y, si rechaza el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "Si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, podrá ignorarlo y dictar su acto"
+   ],
+   0,
+   "Art. 39.5 · Ley 39/2015: Si una Administración entiende ilegal el acto de otra en que ha de basar el suyo, podrá requerirla previamente para que lo anule o revise y, si rechaza el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento.",
+   "lpac 39.5",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-091",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "La Administración no podrá convalidar los actos anulables, subsanando los vicios de que adolezcan",
+    "El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea órgano que lo dictó del que dictó el acto viciado"
+   ],
+   1,
+   "La correcta es «El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos». Las otras dos son falsas: lo correcto es «La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan» (la otra frase cambia «podrá») y «Si el vicio consistiera en incompetencia no determinante de nulidad, la convalida",
+   "lpac 52",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado»",
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de la Provincia»",
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de Aragón»"
+   ],
+   0,
+   "Art. 44 · Ley 39/2015: Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado». Las otras dos frases cambian «Boletín Oficial del Estado» por «Boletín Oficial de la Provincia» y «Boletín Oficial de Aragón».",
+   "lpac 44",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin que se acceda a su contenido",
+    "La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días hábiles desde su puesta a disposición sin que se acceda a su contenido",
+    "La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido tres días naturales desde su puesta a disposición sin que se acceda a su contenido"
+   ],
+   0,
+   "Art. 43.2 · Ley 39/2015: La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin que se acceda a su contenido.",
+   "lpac 43.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-041",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Serán motivados, entre otros los actos de trámite cualificado únicamente, y no los dictados en ejercicio de potestades discrecionales",
+    "Serán motivados, entre otros los actos que se dicten en el ejercicio de potestades discrecionales",
+    "Serán motivados, entre otros los actos reglados que no limiten derechos subjetivos ni intereses legítimos de los interesados"
+   ],
+   1,
+   "Art. 35.1 · Ley 39/2015: Serán motivados, entre otros los actos que se dicten en el ejercicio de potestades discrecionales.",
+   "lpac 35.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos administrativos no serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando tengan por destinatario a una pluralidad indeterminada de personas o formen parte de un procedimiento selectivo o de concurrencia competitiva",
+    "Los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando tengan por destinatario a una pluralidad indeterminada de personas o formen parte de un procedimiento selectivo o de concurrencia competitiva",
+    "Los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando afecten a un solo interesado"
+   ],
+   1,
+   "Art. 45.1 · Ley 39/2015: Los actos administrativos serán objeto de publicación en todo caso, surtiendo los efectos de la notificación, cuando tengan por destinatario a una pluralidad indeterminada de personas o formen parte de un procedimiento selectivo o de concurrencia competitiva.",
+   "lpac 45.1",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-119",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Toda notificación deberá cursarse en el plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+    "Toda notificación no deberá cursarse en el plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+    "Toda notificación deberá cursarse en el plazo de cinco días desde su firma"
+   ],
+   0,
+   "Art. 40.2 · Ley 39/2015: Toda notificación deberá cursarse en el plazo de diez días a partir de la fecha en que el acto haya sido dictado.",
+   "lpac 40.2",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-093",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si el interesado no está presente en el domicilio, podrá hacerse cargo de la notificación cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad",
+    "Si el interesado no está presente en el domicilio, podrá hacerse cargo de la notificación cualquier persona, incluso menores sin límite de edad",
+    "Si el interesado no está presente en el domicilio, podrá hacerse cargo de la notificación solo un familiar mayor de edad"
+   ],
+   0,
+   "Art. 42.2 · Ley 39/2015: Si el interesado no está presente en el domicilio, podrá hacerse cargo de la notificación cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.",
+   "lpac 42.2",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-108",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En ningún caso se efectuarán por medios electrónicos las notificaciones las dirigidas a personas jurídicas y las que se dirijan a quienes ejerzan una actividad profesional colegiada",
+    "En ningún caso se efectuarán por medios electrónicos las notificaciones las que contengan sanciones o resoluciones que pongan fin a la vía administrativa",
+    "En ningún caso se efectuarán por medios electrónicos las notificaciones aquellas en las que el acto vaya acompañado de elementos no susceptibles de conversión a formato electrónico y las que contengan medios de pago a favor de los obligados, como cheques"
+   ],
+   2,
+   "Art. 41.2 · Ley 39/2015: En ningún caso se efectuarán por medios electrónicos las notificaciones aquellas en las que el acto vaya acompañado de elementos no susceptibles de conversión a formato electrónico y las que contengan medios de pago a favor de los obligados, como cheques.",
+   "lpac 41.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-034",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante anuncio publicado en el Boletín Oficial de la Provincia",
+    "Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante anuncio publicado en el Boletín Oficial del Estado",
+    "Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante anuncio publicado en el Boletín Oficial de Aragón"
+   ],
+   1,
+   "Art. 44 · Ley 39/2015: Cuando los interesados sean desconocidos o no pueda practicarse la notificación, esta se hará mediante anuncio publicado en el Boletín Oficial del Estado. Las otras dos frases cambian «Boletín Oficial del Estado» por «Boletín Oficial de la Provincia» y «Boletín Oficial de Aragón».",
+   "lpac 44",
+   "Una sola palabra cambia el sentido",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t06-117",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación obliga a repetir la notificación en papel, sin que produzca efectos la practicada electrónicamente",
+    "La falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación anula la notificación, que deberá repetirse en todo caso por medios no electrónicos en el domicilio del interesado",
+    "La falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación no impedirá que la notificación sea considerada plenamente válida"
+   ],
+   2,
+   "Art. 41.6 · Ley 39/2015: La falta de práctica del aviso al dispositivo electrónico o correo del interesado informando de la puesta a disposición de una notificación no impedirá que la notificación sea considerada plenamente válida.",
+   "lpac 41.6",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-037",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada",
+    "Los actos administrativos se producirán siempre de forma verbal",
+    "Los actos administrativos se producirán en papel necesariamente"
+   ],
+   0,
+   "Art. 36 · Ley 39/2015: Los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada.",
+   "lpac 36",
+   "La afirmación, su negación y otro dato",
+   "h-requisitos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-003",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Administraciones no podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado cuando estas tengan por destinatarios a más de un interesado",
+    "Las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado cuando estas tengan por destinatarios a más de un interesado",
+    "Las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado solo en procedimientos sancionadores"
+   ],
+   1,
+   "Art. 40.5 · Ley 39/2015: Las Administraciones podrán adoptar medidas para la protección de datos personales en resoluciones con más de un interesado cuando estas tengan por destinatarios a más de un interesado.",
+   "lpac 40.5",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-097",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto quedarán sin efecto alguno",
+    "Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto se convalidarán automáticamente",
+    "Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de éste"
+   ],
+   2,
+   "Art. 50 · Ley 39/2015: Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de éste.",
+   "lpac 50",
+   "La afirmación, su negación y otro dato",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-137",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido doce días naturales desde la puesta a disposición",
+    "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido diez días naturales desde la puesta a disposición",
+    "Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido seis días naturales desde la puesta a disposición"
+   ],
+   1,
+   "Art. 43 · Ley 39/2015: Una notificación electrónica de carácter obligatorio se entenderá rechazada cuando hayan transcurrido sin acceder a su contenido diez días naturales desde la puesta a disposición. Las otras dos frases cambian «Diez días naturales» por «Doce días naturales» y «Seis días naturales».",
+   "lpac 43",
+   "Una sola palabra cambia el sentido",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t06-008",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "En Derecho Administrativo la forma de los actos es, por regla general por escrito y por medios electrónicos, salvo que su naturaleza exija o permita otra más adecuada (art. 36.1)",
+    "En Derecho Administrativo la forma de los actos es, por regla general verbalmente y por medios electrónicos, salvo que su naturaleza exija o permita otra más adecuada (art. 36.1)",
+    "En Derecho Administrativo la forma de los actos es, por regla general de forma tácita y por medios electrónicos, salvo que su naturaleza exija o permita otra más adecuada (art. 36.1)"
+   ],
+   0,
+   "En Derecho Administrativo la forma de los actos es, por regla general por escrito y por medios electrónicos, salvo que su naturaleza exija o permita otra más adecuada (art. 36.1). Las otras dos frases cambian «Por escrito» por «verbalmente» y «de forma tácita».",
+   "Lección del tema: elementos formales",
+   "Una sola palabra cambia el sentido",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t06-172",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos de las Administraciones sujetos al Derecho Administrativo se presumirán nulos hasta que se notifiquen y produzcan efectos desde la fecha de su notificación al interesado",
+    "Los actos de las Administraciones sujetos al Derecho Administrativo solo serán válidos y eficaces si los confirma un tribunal contencioso-administrativo en vía de recurso",
+    "Los actos de las Administraciones sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo disposición en contrario"
+   ],
+   2,
+   "Art. 39.1 · Ley 39/2015: Los actos de las Administraciones sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo disposición en contrario.",
+   "lpac 39.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-025",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza no podrá acordarse",
+    "Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza solo producirá efectos previa prestación de caución o garantía suficiente",
+    "Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza se acordará sin condiciones"
+   ],
+   1,
+   "Art. 117.4 · Ley 39/2015: Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza solo producirá efectos previa prestación de caución o garantía suficiente.",
+   "lpac 117.4",
+   "La afirmación, su negación y otro dato",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-147",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones no podrán recabar el domicilio del interesado en las bases de datos del INE sobre el Padrón Municipal",
+    "En los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones podrán recabar el domicilio del interesado en el catastro inmobiliario",
+    "En los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones podrán recabar el domicilio del interesado en las bases de datos del INE sobre el Padrón Municipal"
+   ],
+   2,
+   "Art. 41.4 · Ley 39/2015: En los procedimientos iniciados de oficio, a los solos efectos de iniciación, las Administraciones podrán recabar el domicilio del interesado en las bases de datos del INE sobre el Padrón Municipal.",
+   "lpac 41.4",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-104",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La notificación deberá contener solo la parte dispositiva de la resolución y el plazo para interponer recurso, sin indicar el órgano ante el que presentarlo",
+    "La notificación deberá contener el texto íntegro de la resolución, si pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+    "La notificación deberá contener el texto íntegro de la resolución, sin necesidad de indicar si pone fin a la vía administrativa ni los recursos"
+   ],
+   1,
+   "Art. 40.2 · Ley 39/2015: La notificación deberá contener el texto íntegro de la resolución, si pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos.",
+   "lpac 40.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos surtirán efecto desde la fecha en que se dictó el acto, aunque el interesado no haya tenido conocimiento de su contenido",
+    "Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan conocimiento del contenido y alcance de la resolución, o interponga cualquier recurso procedente",
+    "Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos surtirán efecto nunca, pues serán nulas de pleno derecho y habrá de practicarse de nuevo la notificación completa"
+   ],
+   1,
+   "Art. 40.3 · Ley 39/2015: Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan conocimiento del contenido y alcance de la resolución, o interponga cualquier recurso procedente.",
+   "lpac 40.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-031",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si se trata de resoluciones dictadas verbalmente, el titular de la competencia deberá autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido",
+    "Si se trata de resoluciones dictadas verbalmente, el titular de la competencia no deberá autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido",
+    "Si se trata de resoluciones dictadas verbalmente, el titular de la competencia deberá publicarlas en el diario oficial"
+   ],
+   0,
+   "Art. 36.2 · Ley 39/2015: Si se trata de resoluciones dictadas verbalmente, el titular de la competencia deberá autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido.",
+   "lpac 36.2",
+   "La afirmación, su negación y otro dato",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-082",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará mediante simple remisión al acta del tribunal",
+    "La motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará no es necesaria",
+    "La motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, quedando acreditados los fundamentos de la resolución"
+   ],
+   2,
+   "Art. 35.2 · Ley 39/2015: La motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, quedando acreditados los fundamentos de la resolución.",
+   "lpac 35.2",
+   "La afirmación, su negación y otro dato",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-079",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos de mero trámite sin efectos en los derechos",
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que limiten derechos subjetivos o intereses legítimos",
+    "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho solo las resoluciones que pongan fin a la vía administrativa"
+   ],
+   1,
+   "Art. 35.1 · Ley 39/2015: Serán motivados, con sucinta referencia de hechos y fundamentos de derecho los actos que limiten derechos subjetivos o intereses legítimos.",
+   "lpac 35.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-015",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano inferior jerárquico del que dictó el acto viciado, previa autorización del órgano competente",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por cualquier órgano de la Administración con competencia por razón de la materia, aunque no sea superior jerárquico"
+   ],
+   0,
+   "Art. 52.3 · Ley 39/2015: Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.",
+   "lpac 52.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-060",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 36.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular de la competencia exclusivamente, que deberá firmar cada constancia escrita del acto verbal",
+    "Cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el interesado destinatario del acto, que redactará y firmará la constancia escrita de lo comunicado oralmente",
+    "Cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente, expresando la autoridad de la que procede"
+   ],
+   2,
+   "Art. 36.2 · Ley 39/2015: Cuando los órganos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente, expresando la autoridad de la que procede.",
+   "lpac 36.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-022",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si el recurso impugna un acto que afecta a una pluralidad indeterminada de personas, la suspensión habrá de comunicarse solo a los recurrentes",
+    "Si el recurso impugna un acto que afecta a una pluralidad indeterminada de personas, la suspensión habrá de notificarse individualmente",
+    "Si el recurso impugna un acto que afecta a una pluralidad indeterminada de personas, la suspensión habrá de publicarse en el periódico oficial en que se insertó el acto"
+   ],
+   2,
+   "Art. 117.5 · Ley 39/2015: Si el recurso impugna un acto que afecta a una pluralidad indeterminada de personas, la suspensión habrá de publicarse en el periódico oficial en que se insertó el acto.",
+   "lpac 117.5",
+   "La afirmación, su negación y otro dato",
+   "h-concepto-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-148",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La publicación de un acto no deberá contener los mismos elementos que el artículo 40.2 exige para las notificaciones",
+    "La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige para las notificaciones",
+    "La publicación de un acto deberá contener solo el texto íntegro"
+   ],
+   1,
+   "Art. 45.2 · Ley 39/2015: La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige para las notificaciones.",
+   "lpac 45.2",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-121",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Serán motivados, entre otros las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan procedimientos sancionadores o de responsabilidad patrimonial",
+    "Serán motivados, entre otros los actos que resuelvan procedimientos de responsabilidad patrimonial, pero no los de carácter sancionador",
+    "Serán motivados, entre otros las resoluciones sancionadoras definitivas, pero no las propuestas de resolución ni las de responsabilidad patrimonial"
+   ],
+   0,
+   "Art. 35.1 · Ley 39/2015: Serán motivados, entre otros las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan procedimientos sancionadores o de responsabilidad patrimonial.",
+   "lpac 35.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-019",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+    "Toda notificación no deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado",
+    "Toda notificación deberá ser cursada dentro del plazo de cinco días hábiles"
+   ],
+   0,
+   "Art. 40 · Ley 39/2015: Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado.",
+   "lpac 40",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-006",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial",
+    "Los interesados no podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso",
+    "Al dictar el acuerdo de suspensión no podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado"
+   ],
+   0,
+   "La correcta es «Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial». Las otras dos son falsas: lo correcto es «Los interesados podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administ",
+   "lpac 46",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su exposición durante quince días",
+    "La publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su publicación en el Diario oficial correspondiente",
+    "La publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por el anuncio en sede electrónica"
+   ],
+   1,
+   "Art. 45.4 · Ley 39/2015: La publicación que por disposición deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su publicación en el Diario oficial correspondiente.",
+   "lpac 45.4",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-122",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Con carácter facultativo y previo, las Administraciones no podrán publicar un anuncio en el boletín de la Comunidad Autónoma o Provincia, el tablón de edictos del último domicilio o el Consulado correspondiente",
+    "Con carácter facultativo y previo, las Administraciones podrán publicar un anuncio en el portal de transparencia",
+    "Con carácter facultativo y previo, las Administraciones podrán publicar un anuncio en el boletín de la Comunidad Autónoma o Provincia, el tablón de edictos del último domicilio o el Consulado correspondiente"
+   ],
+   2,
+   "Art. 44 · Ley 39/2015: Con carácter facultativo y previo, las Administraciones podrán publicar un anuncio en el boletín de la Comunidad Autónoma o Provincia, el tablón de edictos del último domicilio o el Consulado correspondiente.",
+   "lpac 44",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-118",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son nulos de pleno derecho los actos dictados por órgano incompetente por razón de la jerarquía, siempre",
+    "Son nulos de pleno derecho los actos dictados por órgano con cualquier defecto formal",
+    "Son nulos de pleno derecho los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio"
+   ],
+   2,
+   "Art. 47 · Ley 39/2015: Son nulos de pleno derecho los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+   "lpac 47",
+   "La afirmación, su negación y otro dato",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-011",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La notificación debe contener el texto íntegro de la resolución e indicar únicamente el órgano competente",
+    "La notificación debe contener el texto íntegro de la resolución e indicar si pone fin a la vía administrativa, los recursos procedentes, el órgano y el plazo",
+    "La notificación debe contener el texto íntegro de la resolución e indicar solo el plazo para recurrir"
+   ],
+   1,
+   "Art. 40 · Ley 39/2015: La notificación debe contener el texto íntegro de la resolución e indicar si pone fin a la vía administrativa, los recursos procedentes, el órgano y el plazo.",
+   "lpac 40",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-063",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel, siendo electrónica cuando exista obligación de relacionarse así",
+    "En los procedimientos iniciados a solicitud del interesado, la notificación se practicará siempre por el medio que elija la Administración",
+    "En los procedimientos iniciados a solicitud del interesado, la notificación se practicará siempre en papel"
+   ],
+   0,
+   "Art. 41.3 · Ley 39/2015: En los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel, siendo electrónica cuando exista obligación de relacionarse así.",
+   "lpac 41.3",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-103",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y no será determinado y adecuado a los fines de aquéllos",
+    "El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos",
+    "El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado, aunque no necesariamente adecuado a su fin"
+   ],
+   1,
+   "Art. 34.2 · Ley 39/2015: El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos.",
+   "lpac 34.2",
+   "La afirmación, su negación y otro dato",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-069",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por correo electrónico ordinario",
+    "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por anuncio publicado en el «Boletín Oficial del Estado»",
+    "Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por llamada telefónica"
+   ],
+   1,
+   "Art. 44 · Ley 39/2015: Cuando los interesados sean desconocidos, se ignore el lugar de la notificación o no se haya podido practicar, la notificación se hará por anuncio publicado en el «Boletín Oficial del Estado».",
+   "lpac 44",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-010",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Serán motivados, entre otros los acuerdos de apertura del trámite de audiencia y de información pública del procedimiento",
+    "Serán motivados, entre otros los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias",
+    "Serán motivados, entre otros los actos de comunicación y de mero trámite entre las unidades administrativas del mismo órgano"
+   ],
+   1,
+   "Art. 35.1 · Ley 39/2015: Serán motivados, entre otros los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.",
+   "lpac 35.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-017",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido",
+    "Las notificaciones por medios electrónicos se entenderán practicadas en el momento de su puesta a disposición en la sede electrónica, haya accedido o no el interesado a su contenido",
+    "Las notificaciones por medios electrónicos se entenderán practicadas al día siguiente de su envío al dispositivo o a la dirección de correo electrónico del interesado"
+   ],
+   0,
+   "Art. 43.2 · Ley 39/2015: Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.",
+   "lpac 43.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-042",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Todas las notificaciones en papel deberán ponerse a disposición del interesado en la sede electrónica de la Administración para que pueda acceder a su contenido de forma voluntaria",
+    "Todas las notificaciones en papel no deberán ponerse a disposición del interesado en la sede electrónica de la Administración para que pueda acceder a su contenido de forma voluntaria",
+    "Todas las notificaciones en papel deberán ponerse a disposición del interesado en el tablón de anuncios municipal"
+   ],
+   0,
+   "Art. 42.1 · Ley 39/2015: Todas las notificaciones en papel deberán ponerse a disposición del interesado en la sede electrónica de la Administración para que pueda acceder a su contenido de forma voluntaria.",
+   "lpac 42.1",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-107",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Cuando una Administración tenga que dictar un acto que tenga por base otro dictado por una Administración distinta y entienda que es ilegal deberá requerir a ésta para que lo anule o revise y, de rechazar el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "Cuando una Administración tenga que dictar un acto que tenga por base otro dictado por una Administración distinta y entienda que es ilegal no podrá requerir a ésta para que lo anule o revise y, de rechazar el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento",
+    "Cuando una Administración tenga que dictar un acto que tenga por base otro dictado por una Administración distinta y entienda que es ilegal podrá requerir a ésta para que lo anule o revise y, de rechazar el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento"
+   ],
+   2,
+   "Art. 39.5 · Ley 39/2015: Cuando una Administración tenga que dictar un acto que tenga por base otro dictado por una Administración distinta y entienda que es ilegal podrá requerir a ésta para que lo anule o revise y, de rechazar el requerimiento, interponer recurso contencioso-administrativo, quedando suspendido el procedimiento. Las otras dos frases cambian «Podrá» por «Deberá» y «no podrá».",
+   "lpac 39.5",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t06-028",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial",
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de Aragón»",
+    "Los interesados deberán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso"
+   ],
+   0,
+   "La correcta es «Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial». Las otras dos son falsas: lo correcto es «Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los re",
+   "lpac 46",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las Administraciones podrán practicar notificaciones por medios no electrónicos, entre otros supuestos siempre que lo prefiera el órgano notificante, aunque el interesado esté obligado a relacionarse electrónicamente",
+    "Las Administraciones podrán practicar notificaciones por medios no electrónicos, entre otros supuestos cuando el interesado sea una persona jurídica que haya comparecido espontáneamente en las oficinas de registro",
+    "Las Administraciones podrán practicar notificaciones por medios no electrónicos, entre otros supuestos cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado en las oficinas de asistencia en materia de registro y solicite la notificación personal en ese momento"
+   ],
+   2,
+   "Art. 41.1 · Ley 39/2015: Las Administraciones podrán practicar notificaciones por medios no electrónicos, entre otros supuestos cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado en las oficinas de asistencia en materia de registro y solicite la notificación personal en ese momento.",
+   "lpac 41.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-035",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.g de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son también nulos cualquier otro acto que se establezca expresamente en una disposición con rango de ley",
+    "Son también nulos los que señale una circular",
+    "Son también nulos los que determine un reglamento"
+   ],
+   0,
+   "Art. 47.1.g · Ley 39/2015: Son también nulos cualquier otro acto que se establezca expresamente en una disposición con rango de ley.",
+   "lpac 47.1.g",
+   "La afirmación, su negación y otro dato",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-130",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con la puesta a disposición de la notificación en la sede electrónica o en la dirección electrónica habilitada única",
+    "Se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con la recepción efectiva por el interesado",
+    "Se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con el acceso del interesado al contenido"
+   ],
+   0,
+   "Art. 43.3 · Ley 39/2015: Se entiende cumplida la obligación de notificar en plazo (artículo 40.4) con la puesta a disposición de la notificación en la sede electrónica o en la dirección electrónica habilitada única.",
+   "lpac 43.3",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-115",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin que se acceda a su contenido",
+    "La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido tres días naturales desde su puesta a disposición sin que se acceda a su contenido",
+    "La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días hábiles desde su puesta a disposición sin que se acceda a su contenido"
+   ],
+   0,
+   "Art. 43.2 · Ley 39/2015: La notificación por medios electrónicos de carácter obligatorio, o elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin que se acceda a su contenido.",
+   "lpac 43.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-041",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "El acto de convalidación no producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos",
+    "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan",
+    "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea Pleno del que dictó el acto viciado"
+   ],
+   1,
+   "La correcta es «La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan». Las otras dos son falsas: lo correcto es «El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos» (la otra frase la niega) y «Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación p",
+   "lpac 52",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si el vicio consiste en la falta de alguna autorización, el acto no podrá convalidarse mediante el otorgamiento de la misma por el órgano competente",
+    "Si el vicio consiste en la falta de alguna autorización, el acto podrá convalidarse mediante el otorgamiento de la misma por el órgano competente",
+    "Si el vicio consiste en la falta de alguna autorización, el acto podrá convalidarse con informe favorable del Consejo de Estado"
+   ],
+   1,
+   "Art. 52.4 · Ley 39/2015: Si el vicio consiste en la falta de alguna autorización, el acto podrá convalidarse mediante el otorgamiento de la misma por el órgano competente.",
+   "lpac 52.4",
+   "La afirmación, su negación y otro dato",
+   "h-invalidez",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-142",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47.1.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Son nulos los actos dictados con defectos formales no esenciales",
+    "Son nulos los actos dictados fuera de plazo",
+    "Son nulos los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las reglas esenciales para la formación de la voluntad de los órganos colegiados"
+   ],
+   2,
+   "Art. 47.1.e · Ley 39/2015: Son nulos los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+   "lpac 47.1.e",
+   "La afirmación, su negación y otro dato",
+   "h-nulidad-anulabilidad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-128",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "La Administración podrá convalidar los actos nulos de pleno derecho, subsanando los vicios de que adolezcan",
+    "La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan",
+    "La Administración podrá convalidar los actos irregulares, subsanando los vicios de que adolezcan"
+   ],
+   1,
+   "Art. 52 · Ley 39/2015: La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan. Las otras dos frases cambian «anulables» por «nulos de pleno derecho» y «irregulares».",
+   "lpac 52",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La presunción de validez de los actos administrativos supone que producen efectos mientras no se declare su invalidez",
+    "La presunción de validez de los actos administrativos supone que producen efectos solo tras ser confirmados por un tribunal",
+    "La presunción de validez de los actos administrativos supone que producen efectos hasta que el interesado los impugne"
+   ],
+   0,
+   "Art. 39.1 · Ley 39/2015: La presunción de validez de los actos administrativos supone que producen efectos mientras no se declare su invalidez.",
+   "lpac 39.1",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-149",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44",
+    "Todas las notificaciones que se practiquen en papel podrán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria",
+    "Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial de la Provincia»"
+   ],
+   0,
+   "La correcta es «Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44». Las otras dos son falsas: lo correcto es «Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria» (la otra frase cam",
+   "lpac 42",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1.h de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de expropiación forzosa",
+    "Deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de contratación pública",
+    "Deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de carácter sancionador o de responsabilidad patrimonial"
+   ],
+   2,
+   "Art. 35.1.h · Ley 39/2015: Deben motivarse las propuestas de resolución en los procedimientos sancionadores y los actos que resuelvan los de carácter sancionador o de responsabilidad patrimonial.",
+   "lpac 35.1.h",
+   "La afirmación, su negación y otro dato",
+   "h-elementos-acto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-077",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Serán motivados, entre otros, los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos",
+    "Serán motivados, entre otros, los actos que admitan las pruebas propuestas por los interesados y acuerden su práctica en el procedimiento",
+    "Serán motivados, entre otros, los actos que concedan una autorización solicitada por el interesado, sin que perjudiquen derechos de terceros"
+   ],
+   0,
+   "Art. 35.1 · Ley 39/2015: Serán motivados, entre otros, los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+   "lpac 35.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-016",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 41.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando el interesado o su representante rechace la notificación de una actuación administrativa se repetirá la notificación en el domicilio hasta que sea aceptada, suspendiéndose el procedimiento mientras tanto",
+    "Cuando el interesado o su representante rechace la notificación de una actuación administrativa se hará constar en el expediente, especificándose las circunstancias del intento, dando por efectuado el trámite y siguiéndose el procedimiento",
+    "Cuando el interesado o su representante rechace la notificación de una actuación administrativa se archivará el procedimiento sin más trámite, al entenderse que el interesado desiste de su solicitud"
+   ],
+   1,
+   "Art. 41.5 · Ley 39/2015: Cuando el interesado o su representante rechace la notificación de una actuación administrativa se hará constar en el expediente, especificándose las circunstancias del intento, dando por efectuado el trámite y siguiéndose el procedimiento.",
+   "lpac 41.5",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-036",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si la notificación electrónica es obligatoria o elegida, se entenderá rechazada transcurridos diez días naturales desde la puesta a disposición sin acceso",
+    "Si la notificación electrónica es obligatoria o elegida, se entenderá rechazada transcurridos cinco días naturales",
+    "Si la notificación electrónica es obligatoria o elegida, se entenderá rechazada transcurridos diez días hábiles"
+   ],
+   0,
+   "Art. 43.2 · Ley 39/2015: Si la notificación electrónica es obligatoria o elegida, se entenderá rechazada transcurridos diez días naturales desde la puesta a disposición sin acceso.",
+   "lpac 43.2",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-114",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "La publicación de un acto podrá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones",
+    "La publicación de un acto no deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones",
+    "La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones"
+   ],
+   2,
+   "Art. 45 · Ley 39/2015: La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "lpac 45",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En las notificaciones en papel practicadas en el domicilio, de no hallarse presente el interesado, podrá hacerse cargo de la misma cualquier persona mayor de dieciséis años, aunque no resida en el domicilio y no haga constar su identidad",
+    "En las notificaciones en papel practicadas en el domicilio, de no hallarse presente el interesado, podrá hacerse cargo de la misma cualquier persona mayor de edad vinculada familiarmente con el interesado y que acredite su relación de parentesco",
+    "En las notificaciones en papel practicadas en el domicilio, de no hallarse presente el interesado, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad"
+   ],
+   2,
+   "Art. 42.2 · Ley 39/2015: En las notificaciones en papel practicadas en el domicilio, de no hallarse presente el interesado, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.",
+   "lpac 42.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-039",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Toda notificación debe cursarse dentro del plazo de cinco días",
+    "Toda notificación debe cursarse dentro del plazo de diez días desde que el acto haya sido dictado",
+    "Toda notificación debe cursarse dentro del plazo de treinta días"
+   ],
+   1,
+   "Art. 40 · Ley 39/2015: Toda notificación debe cursarse dentro del plazo de diez días desde que el acto haya sido dictado.",
+   "lpac 40",
+   "La afirmación, su negación y otro dato",
+   "h-eficacia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-062",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, o produzcan efectos favorables al interesado, si los supuestos de hecho existían ya y no se lesionan derechos de otras personas",
+    "Excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando se dicten por razones de urgencia, aunque los supuestos de hecho no existieran en la fecha de retroacción",
+    "Excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando el órgano que los dicta lo decida libremente, aunque se lesionen derechos o intereses de otras personas"
+   ],
+   0,
+   "Art. 39.3 · Ley 39/2015: Excepcionalmente podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, o produzcan efectos favorables al interesado, si los supuestos de hecho existían ya y no se lesionan derechos de otras personas.",
+   "lpac 39.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t06-027",
+    "tc": 1
    }
   ]
  ]

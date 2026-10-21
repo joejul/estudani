@@ -737,7 +737,8 @@
    "h-concepto",
    [
     "reglamentos"
-   ]
+   ],
+   {}
   ],
   [
    "Se denominan reglamentos las disposiciones generales locales que tengan por objeto:",
@@ -753,7 +754,8 @@
    "h-concepto",
    [
     "organización y funcionamiento"
-   ]
+   ],
+   {}
   ],
   [
    "Lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda:",
@@ -769,7 +771,8 @@
    "h-concepto",
    [
     "dispensar individualmente"
-   ]
+   ],
+   {}
   ],
   [
    "Según el art. 4.1 LBRL, corresponde en todo caso a los municipios, las provincias y las islas:",
@@ -785,7 +788,8 @@
    "h-concepto",
    [
     "potestades reglamentaria"
-   ]
+   ],
+   {}
   ],
   [
    "La aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de:",
@@ -801,7 +805,8 @@
    "h-aprobacion",
    [
     "treinta días"
-   ]
+   ],
+   {}
   ],
   [
    "Si no se hubiera presentado ninguna reclamación o sugerencia durante la información pública de una ordenanza:",
@@ -817,7 +822,8 @@
    "h-aprobacion",
    [
     "definitivamente adoptado"
-   ]
+   ],
+   {}
   ],
   [
    "Para la modificación de las ordenanzas y reglamentos locales deberán seguirse:",
@@ -833,7 +839,8 @@
    "h-aprobacion",
    [
     "mismos trámites"
-   ]
+   ],
+   {}
   ],
   [
    "En Zaragoza, la aprobación del proyecto de ordenanza o reglamento (salvo normas del Pleno y sus Comisiones) corresponde a:",
@@ -849,7 +856,8 @@
    "h-aprobacion",
    [
     "Gobierno de Zaragoza"
-   ]
+   ],
+   {}
   ],
   [
    "En Zaragoza, la información pública de los proyectos de ordenanzas y reglamentos tendrá un plazo mínimo de:",
@@ -865,7 +873,8 @@
    "h-aprobacion",
    [
     "treinta días naturales"
-   ]
+   ],
+   {}
   ],
   [
    "En Zaragoza, tras la información pública, el Pleno aprueba el reglamento u ordenanza:",
@@ -881,7 +890,8 @@
    "h-aprobacion",
    [
     "acto único"
-   ]
+   ],
+   {}
   ],
   [
    "Los acuerdos provisionales de establecimiento de tributos y de aprobación de ordenanzas fiscales se expondrán en el tablón de anuncios durante:",
@@ -897,7 +907,8 @@
    "h-vigencia",
    [
     "treinta días"
-   ]
+   ],
+   {}
   ],
   [
    "Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido, desde el día siguiente a la publicación de su texto íntegro en el boletín de la provincia:",
@@ -913,7 +924,8 @@
    "h-vigencia",
    [
     "quince días"
-   ]
+   ],
+   {}
   ],
   [
    "Las ordenanzas fiscales entrarán en vigor:",
@@ -929,7 +941,8 @@
    "h-vigencia",
    [
     "publicado íntegramente"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el art. 142.1 de la Ley 7/1999, los bandos dictados por los Alcaldes se publicarán:",
@@ -945,7 +958,8 @@
    "h-vigencia",
    [
     "usos y costumbre"
-   ]
+   ],
+   {}
   ],
   [
    "En caso de catástrofe o infortunio públicos o grave riesgo, los Alcaldes podrán adoptar las medidas necesarias y adecuadas, dando:",
@@ -961,7 +975,8 @@
    "h-vigencia",
    [
     "cuenta inmediata"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 4.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, corresponden en todo caso a los municipios, las provincias y las islas, dentro de la esfera de sus competencias:",
@@ -1030,7 +1045,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 29"
+    "z": "Prueba oficial, pregunta 29",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1140,7 +1157,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1177,7 +1195,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1319,7 +1338,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1493,7 +1513,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1614,7 +1635,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1810,7 +1832,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2082,7 +2105,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2419,7 +2443,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2509,7 +2534,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2670,7 +2696,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2871,7 +2898,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3030,7 +3058,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3808,7 +3837,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4138,7 +4168,8 @@
    [],
    {
     "nuevo": 1,
-    "neg": 1
+    "neg": 1,
+    "dif": 3
    }
   ],
   [
@@ -4215,6 +4246,2862 @@
     "nuevo": 1,
     "neg": 1,
     "dif": 3
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Los municipios no podrán aprobar, entre otras, una ordenanza general para el buen gobierno de la localidad, que recoja las normas que regulen la actividad y la convivencia de los ciudadanos en el medio urbano y rural y, en su caso, la costumbre local",
+    "Los municipios podrán aprobar, entre otras, una ordenanza general para el buen gobierno de la localidad, que recoja las normas que regulen la actividad y la convivencia de los ciudadanos en el medio urbano y rural y, en su caso, la costumbre local",
+    "Los municipios podrán aprobar, entre otras, una ordenanza general para fijar los impuestos municipales y las tasas por la prestación de los servicios locales"
+   ],
+   1,
+   "Art. 126 · Decreto 347/2002 (RBASO): Los municipios podrán aprobar, entre otras, una ordenanza general para el buen gobierno de la localidad, que recoja las normas que regulen la actividad y la convivencia de los ciudadanos en el medio urbano y rural y, en su caso, la costumbre local.",
+   "rbaso 126",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-024",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "A efectos de reclamar contra los acuerdos provisionales tendrán la consideración de interesados quienes tuvieran un interés directo o resulten afectados y los colegios, cámaras, asociaciones y entidades que velen por intereses profesionales, económicos o vecinales",
+    "A efectos de reclamar contra los acuerdos provisionales no tendrán la consideración de interesados quienes tuvieran un interés directo o resulten afectados y los colegios, cámaras, asociaciones y entidades que velen por intereses profesionales, económicos o vecinales",
+    "A efectos de reclamar contra los acuerdos provisionales tendrán la consideración de interesados solo los contribuyentes empadronados"
+   ],
+   0,
+   "Art. 18 · RDLeg 2/2004 (TRLRHL): A efectos de reclamar contra los acuerdos provisionales tendrán la consideración de interesados quienes tuvieran un interés directo o resulten afectados y los colegios, cámaras, asociaciones y entidades que velen por intereses profesionales, económicos o vecinales.",
+   "trlrhl 18",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-125",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición CORRECTA:",
+   [
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde al Alcalde de la Corporación",
+    "Las Entidades locales no podrán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas",
+    "Las reclamaciones, reparos u observaciones que se presenten serán estudiados, en su caso, por la comisión informativa que corresponda o que se constituya a este efecto"
+   ],
+   2,
+   "La correcta es «Las reclamaciones, reparos u observaciones que se presenten serán estudiados, en su caso, por la comisión informativa que corresponda o que se constituya a este efecto». Las otras dos son falsas: lo correcto es «La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación» (la otra frase cambia «al Pleno») y «Las Entidades locales podrán solicitar la colaboración téc",
+   "rbaso 131",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 127 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "En un municipio de gran población, el proyecto de ordenanza lo aprueba el Alcalde",
+    "En un municipio de gran población, el proyecto de ordenanza lo aprueba el Pleno en aprobación inicial directa",
+    "En un municipio de gran población, el proyecto de ordenanza lo aprueba la Junta de Gobierno Local"
+   ],
+   2,
+   "Art. 127 · Decreto 347/2002 (RBASO): En un municipio de gran población, el proyecto de ordenanza lo aprueba la Junta de Gobierno Local.",
+   "rbaso 127",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-069",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 128 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "La iniciativa para la formación o modificación de reglamentos y ordenanzas no corresponde a los órganos de las Entidades locales, pudiendo los vecinos instarla individualmente o a través de entidades o asociaciones legalmente constituidas",
+    "La iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde solo a los vecinos, que podrán instarla individualmente, sin intervención de los órganos de la entidad",
+    "La iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde a los órganos de las Entidades locales, pudiendo los vecinos instarla individualmente o a través de entidades o asociaciones legalmente constituidas"
+   ],
+   2,
+   "Art. 128 · Decreto 347/2002 (RBASO): La iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde a los órganos de las Entidades locales, pudiendo los vecinos instarla individualmente o a través de entidades o asociaciones legalmente constituidas.",
+   "rbaso 128",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-039",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición CORRECTA:",
+   [
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde a la Junta de Gobierno Local de la Corporación",
+    "Las Entidades locales podrán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas",
+    "Las reclamaciones, reparos u observaciones que se presenten no serán estudiados, en su caso, por la comisión informativa que corresponda o que se constituya a este efecto"
+   ],
+   1,
+   "La correcta es «Las Entidades locales podrán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas». Las otras dos son falsas: lo correcto es «La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación» (la otra frase cambia «al Pleno») y «Las reclamaciones, repa",
+   "rbaso 129",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   [
+    "Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo, a partir de su publicación en el Boletín Oficial del Estado o comunidad autónoma uniprovincial",
+    "Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo, a partir de su publicación en el Boletín Oficial de Aragón o comunidad autónoma uniprovincial",
+    "Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia o comunidad autónoma uniprovincial"
+   ],
+   2,
+   "Art. 19.1 · RDLeg 2/2004 (TRLRHL): Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia o comunidad autónoma uniprovincial. Las otras dos frases cambian «boletín oficial de la provincia» por «Boletín Oficial del Estado» y «Boletín Oficial d",
+   "trlrhl 19.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t16-050",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.2 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas no deberán acordar el ejercicio de tales facultades y aprobar las oportunas ordenanzas fiscales",
+    "Respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán acordar el ejercicio de tales facultades y aprobar las oportunas ordenanzas fiscales",
+    "Respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán aplicar la tarifa legal supletoria"
+   ],
+   1,
+   "Art. 15.2 · RDLeg 2/2004 (TRLRHL): Respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán acordar el ejercicio de tales facultades y aprobar las oportunas ordenanzas fiscales.",
+   "trlrhl 15.2",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-118",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 142 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Los bandos dictados por los Alcaldes se publicarán conforme a los usos y costumbre de la localidad",
+    "Los bandos dictados por los Alcaldes se publicarán en el Boletín Oficial de Aragón obligatoriamente",
+    "Los bandos dictados por los Alcaldes se publicarán en el Boletín Oficial del Estado"
+   ],
+   0,
+   "Art. 142 · Ley 7/1999 (Aragón): Los bandos dictados por los Alcaldes se publicarán conforme a los usos y costumbre de la localidad.",
+   "l7-1999 142",
+   "La afirmación, su negación y otro dato",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-014",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan bandos",
+    "Las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan ordenanzas",
+    "Las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan reglamentos"
+   ],
+   2,
+   "Art. 125.1 · Decreto 347/2002 (RBASO): Las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan reglamentos.",
+   "rbaso 125.1",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-140",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   [
+    "Los acuerdos de aprobación de estas ordenanzas fiscales podrán adoptarse simultáneamente a los de imposición de los respectivos tributos",
+    "Los acuerdos de aprobación de estas ordenanzas fiscales no deberán adoptarse simultáneamente a los de imposición de los respectivos tributos",
+    "Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos"
+   ],
+   2,
+   "Art. 16 · RDLeg 2/2004 (TRLRHL): Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "trlrhl 16",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado por el Defensor del Pueblo",
+    "Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado por el Tribunal Constitucional",
+    "Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado previa audiencia de las Comunidades Autónomas afectadas, según pertenezcan a la misma o a distinta Comunidad, sin perjuicio de impugnar la resolución en vía contencioso-administrativa"
+   ],
+   2,
+   "Art. 50.2 · Ley 7/1985 (LBRL): Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado previa audiencia de las Comunidades Autónomas afectadas, según pertenezcan a la misma o a distinta Comunidad, sin perjuicio de impugnar la resolución en vía contencioso-administrativa.",
+   "lbrl 50.2",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-083",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133.2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "La remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse dentro del mes siguiente a su publicación",
+    "La remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse dentro de los quince días siguientes a su aprobación",
+    "La remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse antes de su aprobación inicial"
+   ],
+   1,
+   "Art. 133.2 · Decreto 347/2002 (RBASO): La remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse dentro de los quince días siguientes a su aprobación.",
+   "rbaso 133.2",
+   "La afirmación, su negación y otro dato",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-139",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas la potestad de programación o planificación",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas la presunción de legitimidad y la ejecutividad de sus actos",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas la potestad de revisión de oficio de sus actos y acuerdos"
+   ],
+   2,
+   "La incorrecta es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas la potestad de revisión de oficio de sus actos y acuerdos»: niega lo que dice la ley. Lo correcto: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corres",
+   "lbrl 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los bandos dictados por los Alcaldes se publicarán conforme a los usos y costumbre de la localidad",
+    "Las ordenanzas fiscales entrarán en vigor a los quince días de su publicación íntegra del acuerdo definitivo y del texto en el boletín",
+    "En conflicto de atribuciones, el plazo de ocho días del órgano requerido se cuenta para decidir acerca de su competencia"
+   ],
+   1,
+   "La incorrecta es «las ordenanzas fiscales entrarán en vigor a los quince días de su publicación íntegra del acuerdo definitivo y del texto en el boletín». Lo correcto: las ordenanzas fiscales entrarán en vigor una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en el boletín, a no ser que se demore su aplicación a una fecha posterior.",
+   "l7-1999 141.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Los acuerdos de aprobación de las ordenanzas fiscales de tributos con imposición voluntaria deberán adoptarse con posterioridad a los de imposición, en un plazo no superior a tres meses",
+    "Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales salvo en los supuestos del artículo 59.1 (impuestos obligatorios: IBI, IAE e IVTM)",
+    "Si no se presentan reclamaciones durante la exposición de la ordenanza fiscal se entenderá definitivamente adoptado el acuerdo provisional, sin necesidad de acuerdo plenario"
+   ],
+   0,
+   "La incorrecta es «los acuerdos de aprobación de las ordenanzas fiscales de tributos con imposición voluntaria deberán adoptarse con posterioridad a los de imposición, en un plazo no superior a tres meses». Lo correcto: los acuerdos de aprobación de las ordenanzas fiscales de tributos con imposición voluntaria deberán adoptarse simultáneamente a los de imposición de los respectivos tributos.",
+   "trlrhl 16.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La aprobación y modificación de los reglamentos y ordenanzas se realizará de conformidad con lo dispuesto en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en la legislación sectorial que resulte aplicable y en este Reglamento",
+    "El acuerdo de aprobación, así como el proyecto de norma se someterán a información pública mediante anuncio que se publicará en el «Boletín Oficial de la Provincia» y en el tablón de anuncios de la Entidad local",
+    "La iniciativa para la formación o modificación de los reglamentos y ordenanzas corresponde a los órganos de las Entidades locales"
+   ],
+   1,
+   "La incorrecta es «El acuerdo de aprobación, así como el proyecto de norma se someterán a información pública mediante anuncio que se publicará en el «Boletín Oficial de la Provincia» y en el tablón de anuncios de la Entidad local»: cambia «Boletín Oficial de Aragón». Lo correcto: «El acuerdo de aprobación, así como el proyecto de norma se someterán a información pública mediante anuncio que se publicará en el «Boletí",
+   "rbaso 130",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Los acuerdos provisionales de establecimiento de tributos y de aprobación de ordenanzas fiscales se expondrán en el tablón de anuncios durante seis meses",
+    "Si por resolución judicial firme se anulan o modifican las ordenanzas fiscales, la entidad local deberá adecuar a la sentencia todas las actuaciones posteriores a la notificación, manteniéndose los actos firmes o consentidos salvo prohibición expresa de la sentencia",
+    "Las ordenanzas fiscales, en cuanto a su vigencia, regirán desde su entrada en vigor, hasta su modificación o derogación expresas, y podrá fijarse una vigencia temporal"
+   ],
+   0,
+   "La incorrecta es «los acuerdos provisionales de establecimiento de tributos y de aprobación de ordenanzas fiscales se expondrán en el tablón de anuncios durante seis meses». Lo correcto: los acuerdos provisionales de establecimiento de tributos y de aprobación de ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días, como mínimo.",
+   "trlrhl 17",
+   "Proposición negativa",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas la potestad de revisión de oficio de sus actos y acuerdos",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades de ejecución voluntaria y sancionadora",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas la potestad de programación o planificación"
+   ],
+   1,
+   "La incorrecta es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades de ejecución voluntaria y sancionadora»: cambia «forzosa». Lo correcto: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo ",
+   "lbrl 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las reclamaciones, reparos u observaciones que se presenten serán estudiados, en su caso, por la comisión informativa que corresponda o que se constituya a este efecto",
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde al Alcalde de la Corporación",
+    "Las Entidades locales podrán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas"
+   ],
+   1,
+   "La incorrecta es «La aprobación definitiva de los reglamentos y ordenanzas corresponde al Alcalde de la Corporación»: cambia «al Pleno». Lo correcto: «La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación».",
+   "rbaso 132",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "El plazo durante el que los interesados pueden examinar el expediente y presentar reclamaciones contra el acuerdo provisional es el de exposición pública, de treinta días como mínimo",
+    "Finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones debe remitirse al Ministerio de Hacienda para que autorice su entrada en vigor",
+    "Las entidades locales con población superior a 20.000 habitantes editarán el texto íntegro de sus ordenanzas fiscales dentro del primer cuatrimestre del ejercicio económico correspondiente"
+   ],
+   1,
+   "La incorrecta es «finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones debe remitirse al Ministerio de Hacienda para que autorice su entrada en vigor». Lo correcto: finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones se entenderá definitivamente adoptado el acuerdo hasta entonces provisio",
+   "trlrhl 17.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario",
+    "Las entidades locales publicarán, en todo caso, los anuncios de exposición en el boletín oficial de la provincia, o, en su caso, en el de la comunidad autónoma uniprovincial",
+    "Los acuerdos de aprobación de ordenanzas fiscales no deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas"
+   ],
+   2,
+   "La incorrecta es «Los acuerdos de aprobación de ordenanzas fiscales no deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas»: cambia «deberán». Lo correcto: «Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas».",
+   "trlrhl 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las Diputaciones provinciales y, en su caso, las comarcas, prestarán la ayuda técnica y económica necesaria para el cumplimiento de este mandato",
+    "Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial del Estado» en que se haya publicado íntegramente el texto",
+    "Ambas colecciones normativas podrán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información"
+   ],
+   1,
+   "La incorrecta es «Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial del Estado» en que se haya publicado íntegramente el texto»: cambia «Boletín Oficial de Aragón». Lo correcto: «Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Ofici",
+   "rbaso 133",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Se concederá audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios del ámbito territorial inscritas en el Registro correspondiente y cuyos fines guarden relación directa con el objeto de la disposición",
+    "Corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la Entidad local",
+    "Las ordenanzas fiscales entran en vigor a los quince días de su publicación"
+   ],
+   2,
+   "La incorrecta es «las ordenanzas fiscales entran en vigor a los quince días de su publicación». Lo correcto: las ordenanzas fiscales entran en vigor una vez publicados íntegramente el acuerdo definitivo y el texto, salvo que se demore su aplicación a una fecha posterior.",
+   "rbaso 133.1",
+   "Proposición negativa",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las ordenanzas y reglamentos de las Entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia",
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde a la Comunidad Autónoma",
+    "Corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la Entidad local, con información pública de treinta días como mínimo mediante anuncio en el BOA y en el tablón de anuncios"
+   ],
+   1,
+   "La incorrecta es «la aprobación definitiva de los reglamentos y ordenanzas corresponde a la Comunidad Autónoma». Lo correcto: la aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación, resolviéndose de forma razonada las reclamaciones, con respuesta posiblemente común para las sustancialmente iguales.",
+   "rbaso 132.1",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las reclamaciones, reparos u observaciones presentadas al proyecto de reglamento u ordenanza serán estudiadas por la Intervención, que informará sobre su incidencia en el presupuesto antes de la aprobación",
+    "Las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes para su consulta por todos los ciudadanos, con texto íntegro actualizado, y llevarán un registro cronológico de los aprobados y sus modificaciones",
+    "Si no se ha presentado ninguna reclamación contra el proyecto de reglamento u ordenanza, el acuerdo de aprobación inicial se elevará a definitivo, debidamente acreditado por el Secretario de la Corporación"
+   ],
+   0,
+   "La incorrecta es «las reclamaciones, reparos u observaciones presentadas al proyecto de reglamento u ordenanza serán estudiadas por la Intervención, que informará sobre su incidencia en el presupuesto antes de la aprobación». Lo correcto: las reclamaciones, reparos u observaciones presentadas al proyecto de reglamento u ordenanza serán estudiadas por la comisión informativa que corresponda o la que se constituya a es",
+   "rbaso 131",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Las entidades locales publicarán, en todo caso, los anuncios de exposición en el Boletín Oficial del Estado, o, en su caso, en el de la comunidad autónoma uniprovincial",
+    "Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos",
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario"
+   ],
+   0,
+   "La incorrecta es «Las entidades locales publicarán, en todo caso, los anuncios de exposición en el Boletín Oficial del Estado, o, en su caso, en el de la comunidad autónoma uniprovincial»: cambia «boletín oficial de la provincia». Lo correcto: «Las entidades locales publicarán, en todo caso, los anuncios de exposición en el boletín oficial de la provincia, o, en su caso, en el de la comunidad autónoma uniprovincial».",
+   "trlrhl 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Las iniciativas populares locales deberán ser sometidas a debate y votación en el Pleno, requiriéndose en todo caso el informe del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
+    "Los conflictos de atribuciones que no afecten a órganos colegiados se resolverán por el Alcalde o Presidente de la Corporación",
+    "Corresponde en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización"
+   ],
+   0,
+   "La incorrecta es «las iniciativas populares locales deberán ser sometidas a debate y votación en el Pleno, requiriéndose en todo caso el informe del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma». Lo correcto: las iniciativas populares locales deberán ser sometidas a debate y votación en el Pleno, requiriéndose en todo caso el previo informe de legalidad del secretario del ayuntamiento, y",
+   "lbrl 70 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria adoptarán la denominación de reglamentos u ordenanzas, según cual sea su objeto",
+    "Las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia",
+    "Para la modificación de las ordenanzas y reglamentos locales deberán seguirse solo el acuerdo del Alcalde"
+   ],
+   2,
+   "La incorrecta es «para la modificación de las ordenanzas y reglamentos locales deberán seguirse solo el acuerdo del Alcalde». Lo correcto: para la modificación de las ordenanzas y reglamentos locales deberán seguirse los mismos trámites que para su aprobación.",
+   "l7-1999 140",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "En Zaragoza, si no se hubieran presentado reclamaciones contra la ordenanza fiscal la ordenanza fiscal se entenderá definitivamente aprobada",
+    "En Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de treinta días hábiles",
+    "La exposición pública de la ordenanza fiscal en Zaragoza se realiza mediante anuncio en el boletín oficial, el tablón de anuncios y la sede electrónica municipal, por el plazo mínimo de treinta días"
+   ],
+   1,
+   "La incorrecta es «en Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de treinta días hábiles». Lo correcto: en Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de treinta días naturales.",
+   "l10-2017 48",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Para la modificación de las ordenanzas y reglamentos locales deberán seguirse los mismos trámites que para su aprobación",
+    "Cuando un órgano o entidad se considere incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días; si se considerase incompetente remitirá de inmediato el expediente, con su informe, al que corresponda decidir el conflicto",
+    "La entrada en vigor de las ordenanzas y reglamentos se produce transcurridos quince días desde el de la aprobación definitiva"
+   ],
+   2,
+   "La incorrecta es «la entrada en vigor de las ordenanzas y reglamentos se produce transcurridos quince días desde el de la aprobación definitiva». Lo correcto: la entrada en vigor de las ordenanzas y reglamentos se produce transcurridos quince días desde el siguiente al de la publicación de su texto íntegro.",
+   "l7-1999 141.2",
+   "Proposición negativa",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los vecinos deberán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos",
+    "La aprobación y modificación de los reglamentos y ordenanzas se realizará de conformidad con lo dispuesto en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en la legislación sectorial que resulte aplicable y en este Reglamento",
+    "El acuerdo de aprobación, así como el proyecto de norma se someterán a información pública mediante anuncio que se publicará en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la Entidad local"
+   ],
+   0,
+   "La incorrecta es «Los vecinos deberán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos»: cambia «podrán». Lo correcto: «Los vecinos podrán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos».",
+   "rbaso 128",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial de Aragón» en que se haya publicado íntegramente el texto",
+    "Las Diputaciones provinciales y, en su caso, las comarcas, no prestarán la ayuda técnica y económica necesaria para el cumplimiento de este mandato",
+    "Las Entidades locales editarán el texto de sus reglamentos y ordenanzas en la forma que les permita su capacidad económica"
+   ],
+   1,
+   "La incorrecta es «Las Diputaciones provinciales y, en su caso, las comarcas, no prestarán la ayuda técnica y económica necesaria para el cumplimiento de este mandato»: niega lo que dice la ley. Lo correcto: «Las Diputaciones provinciales y, en su caso, las comarcas, prestarán la ayuda técnica y económica necesaria para el cumplimiento de este mandato».",
+   "rbaso 133",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan reglamentos",
+    "La iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde a los órganos de las Entidades locales, pudiendo los vecinos instarla individualmente o a través de entidades o asociaciones legalmente constituidas",
+    "Las Entidades locales podrán solicitar la colaboración técnica y económica, para la formación o modificación de reglamentos y ordenanzas, del Gobierno de Aragón exclusivamente, a través del departamento competente en administración local"
+   ],
+   2,
+   "La incorrecta es «las Entidades locales podrán solicitar la colaboración técnica y económica, para la formación o modificación de reglamentos y ordenanzas, del Gobierno de Aragón exclusivamente, a través del departamento competente en administración local». Lo correcto: las Entidades locales podrán solicitar la colaboración técnica y económica, para la formación o modificación de reglamentos y ordenanzas, de las Dipu",
+   "rbaso 129",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación",
+    "El acuerdo de aprobación, así como el proyecto de norma se someterán a información pública mediante anuncio que se publicará en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la Entidad local",
+    "Las Entidades locales deberán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas"
+   ],
+   2,
+   "La incorrecta es «Las Entidades locales deberán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas»: cambia «podrán». Lo correcto: «Las Entidades locales podrán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modific",
+   "rbaso 129",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son ordenanzas",
+    "La aprobación inicial de un reglamento u ordenanza se somete a información pública por plazo mínimo de treinta días",
+    "Corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Alcalde, con información pública de treinta días mediante anuncio en el tablón de anuncios"
+   ],
+   2,
+   "La incorrecta es «corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Alcalde, con información pública de treinta días mediante anuncio en el tablón de anuncios». Lo correcto: corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la Entidad local, con información pública de treinta días como mínimo mediante anuncio en el BOA y en el tablón de anuncios.",
+   "rbaso 130",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales salvo en los supuestos del artículo 59.1 (impuestos obligatorios: IBI, IAE e IVTM)",
+    "Respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán aplicar la tarifa legal supletoria",
+    "A efectos de reclamar contra los acuerdos provisionales tendrán la consideración de interesados quienes tuvieran un interés directo o resulten afectados y los colegios, cámaras, asociaciones y entidades que velen por intereses profesionales, económicos o vecinales"
+   ],
+   1,
+   "La incorrecta es «respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán aplicar la tarifa legal supletoria». Lo correcto: respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán acordar el ejercicio de tales facultades y aprobar l",
+   "trlrhl 15.2",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria adoptarán la denominación de reglamentos u ordenanzas, según cual sea su objeto",
+    "Los bandos dictados por los Alcaldes tendrán como finalidad regular la organización del ayuntamiento y la distribución de competencias entre sus órganos",
+    "Los conflictos de atribuciones, positivos o negativos, entre órganos de una misma Corporación local se resolverán por el Pleno u órgano supremo si afectan a órganos colegiados, miembros de éstos o entidades dependientes del municipio"
+   ],
+   1,
+   "La incorrecta es «los bandos dictados por los Alcaldes tendrán como finalidad regular la organización del ayuntamiento y la distribución de competencias entre sus órganos». Lo correcto: los bandos dictados por los Alcaldes tendrán como finalidad exhortar a los ciudadanos a la observancia de las obligaciones establecidas en leyes, ordenanzas y reglamentos, recordarles su contenido y plazos, y efectuar convocatorias po",
+   "l7-1999 142.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "En Zaragoza, si no se hubieran presentado reclamaciones contra la ordenanza fiscal debe aprobarse por el Pleno en acto único, previa propuesta de la Comisión plenaria competente",
+    "La exposición pública de la ordenanza fiscal en Zaragoza se realiza mediante anuncio en el boletín oficial, el tablón de anuncios y la sede electrónica municipal, por el plazo mínimo de treinta días",
+    "En Zaragoza, la aprobación del proyecto de ordenanza o reglamento (salvo normas del Pleno y sus Comisiones) corresponde al Gobierno de Zaragoza"
+   ],
+   0,
+   "La incorrecta es «en Zaragoza, si no se hubieran presentado reclamaciones contra la ordenanza fiscal debe aprobarse por el Pleno en acto único, previa propuesta de la Comisión plenaria competente». Lo correcto: en Zaragoza, si no se hubieran presentado reclamaciones contra la ordenanza fiscal la ordenanza fiscal se entenderá definitivamente aprobada.",
+   "l10-2017 49",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Contra las ordenanzas fiscales una vez publicadas solo cabe el recurso contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia",
+    "Las ordenanzas fiscales del artículo 15.1 contendrán, al menos la memoria económica y el informe de Intervención",
+    "Respecto de los impuestos del artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades de fijación de elementos de las cuotas deberán acordar el ejercicio de tales facultades y aprobar las oportunas ordenanzas fiscales"
+   ],
+   1,
+   "La incorrecta es «las ordenanzas fiscales del artículo 15.1 contendrán, al menos la memoria económica y el informe de Intervención». Lo correcto: las ordenanzas fiscales del artículo 15.1 contendrán, al menos hecho imponible, sujeto pasivo, responsables, exenciones, bonificaciones, base, tipo o cuota, período impositivo, devengo, regímenes de declaración e ingreso y fechas de aprobación y aplicación.",
+   "trlrhl 16.1",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La aprobación y modificación de los reglamentos y ordenanzas se realizará de conformidad con lo dispuesto en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, en la legislación sectorial que resulte aplicable y en este Reglamento",
+    "Las Entidades locales podrán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas",
+    "En el plazo mínimo de quince días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones"
+   ],
+   2,
+   "La incorrecta es «En el plazo mínimo de quince días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones»: cambia «treinta días». Lo correcto: «En el plazo mínimo de treinta días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones».",
+   "rbaso 130",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades tributaria y financiera",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades de ejecución automática y sancionadora"
+   ],
+   2,
+   "La incorrecta es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades de ejecución automática y sancionadora»: cambia «forzosa». Lo correcto: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo ",
+   "lbrl 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "En el plazo mínimo de treinta días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones",
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación",
+    "Las reclamaciones, reparos u observaciones que se presenten no serán estudiados, en su caso, por la comisión informativa que corresponda o que se constituya a este efecto"
+   ],
+   2,
+   "La incorrecta es «Las reclamaciones, reparos u observaciones que se presenten no serán estudiados, en su caso, por la comisión informativa que corresponda o que se constituya a este efecto»: niega lo que dice la ley. Lo correcto: «Las reclamaciones, reparos u observaciones que se presenten serán estudiados, en su caso, por la comisión informativa que corresponda o que se constituya a este efecto».",
+   "rbaso 131",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Entre las potestades de municipios, provincias e islas se encuentra la presunción de legitimidad y la ejecutividad de sus actos",
+    "Los vecinos con derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal, suscritas, en municipios de más de 20.000 habitantes, por el 10 por ciento de los vecinos",
+    "Corresponde en todo caso a los municipios, las provincias y las islas ninguna potestad propia"
+   ],
+   2,
+   "La incorrecta es «corresponde en todo caso a los municipios, las provincias y las islas ninguna potestad propia». Lo correcto: corresponde en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización.",
+   "lbrl 4",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Ambas colecciones normativas no podrán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información",
+    "Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial de Aragón» en que se haya publicado íntegramente el texto",
+    "Las Diputaciones provinciales y, en su caso, las comarcas, prestarán la ayuda técnica y económica necesaria para el cumplimiento de este mandato"
+   ],
+   0,
+   "La incorrecta es «Ambas colecciones normativas no podrán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información»: cambia «podrán». Lo correcto: «Ambas colecciones normativas podrán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información».",
+   "rbaso 133",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial de Aragón»",
+    "Los municipios podrán aprobar, entre otras, una ordenanza general para organizar el funcionamiento del Pleno y de las comisiones informativas de la corporación",
+    "Con carácter general, los reglamentos y ordenanzas locales aragoneses se aprobarán por mayoría simple, requiriéndose mayoría absoluta para los instrumentos de planeamiento general, las ordenanzas fiscales, el reglamento orgánico y las ordenanzas de aprovechamientos comunales"
+   ],
+   1,
+   "La incorrecta es «los municipios podrán aprobar, entre otras, una ordenanza general para organizar el funcionamiento del Pleno y de las comisiones informativas de la corporación». Lo correcto: los municipios podrán aprobar, entre otras, una ordenanza general para el buen gobierno de la localidad, que recoja las normas que regulen la actividad y la convivencia de los ciudadanos en el medio urbano y rural y, en su caso",
+   "rbaso 126",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Si no se ha presentado ninguna reclamación contra el proyecto de reglamento u ordenanza, el acuerdo de aprobación inicial se elevará a definitivo, debidamente acreditado por el Secretario de la Corporación",
+    "Requerirá mayoría absoluta, entre otros supuestos el planeamiento general, las ordenanzas fiscales, el reglamento orgánico y las ordenanzas de aprovechamientos de bienes comunales",
+    "Las disposiciones generales aprobadas por las Entidades locales adoptarán la denominación de reglamentos cuando tengan por objeto regular la actividad económica"
+   ],
+   2,
+   "La incorrecta es «las disposiciones generales aprobadas por las Entidades locales adoptarán la denominación de reglamentos cuando tengan por objeto regular la actividad económica». Lo correcto: las disposiciones generales aprobadas por las Entidades locales adoptarán la denominación de reglamentos cuando tengan por objeto regular su organización y funcionamiento, y la de ordenanzas en los demás casos.",
+   "rbaso 125.1",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de quince días",
+    "Las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia",
+    "Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido, desde el día siguiente a la publicación de su texto íntegro en el boletín de la provincia quince días"
+   ],
+   0,
+   "La incorrecta es «si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de quince días». Lo correcto: si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días.",
+   "l7-1999 143.2.b",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La presentación de enmiendas por parte de los Concejales, así como su tramitación en Comisión y Pleno, se ajustará a lo que disponga el Reglamento orgánico",
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación en acto único del Reglamento u ordenanza por el Pleno, con resolución de las reclamaciones y sugerencias presentadas",
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá al Alcalde"
+   ],
+   2,
+   "La incorrecta es «En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá al Alcalde»: cambia «al Pleno». Lo correcto: «En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprob",
+   "l10-2017 48",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los ayuntamientos regularán la participación vecinal en normas de carácter orgánico",
+    "Los conflictos de atribuciones que no afecten a órganos colegiados se resolverán por el Alcalde o Presidente de la Corporación",
+    "Las potestades reglamentaria y de autoorganización corresponden a los municipios solo los de más de 20.000 habitantes"
+   ],
+   2,
+   "La incorrecta es «las potestades reglamentaria y de autoorganización corresponden a los municipios solo los de más de 20.000 habitantes». Lo correcto: las potestades reglamentaria y de autoorganización corresponden a los municipios en todo caso, como Administración pública territorial.",
+   "lbrl 4.1.a",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Los acuerdos provisionales de establecimiento de tributos y de aprobación de ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días, como mínimo",
+    "El acuerdo definitivo de ordenanzas fiscales, incluidos los provisionales elevados automáticamente a tales, deberá publicarse en solo el tablón de anuncios",
+    "Los anuncios de exposición de ordenanzas fiscales se publicarán en el boletín oficial de la provincia y, además, en un diario de los de mayor difusión de la provincia cuando se trate de Diputaciones, órganos de gobierno de entidades supramunicipales y ayuntamientos de población superior a 10.000 habitantes"
+   ],
+   1,
+   "La incorrecta es «el acuerdo definitivo de ordenanzas fiscales, incluidos los provisionales elevados automáticamente a tales, deberá publicarse en solo el tablón de anuncios». Lo correcto: el acuerdo definitivo de ordenanzas fiscales, incluidos los provisionales elevados automáticamente a tales, deberá publicarse en el boletín oficial de la provincia o, en su caso, de la Comunidad Autónoma uniprovincial, sin que entr",
+   "trlrhl 17.4",
+   "Proposición negativa",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las Entidades locales dispondrán para consulta de los ciudadanos de una recopilación ordenada y actualizada de todos sus reglamentos y ordenanzas vigentes y un registro cronológico de los aprobados, modificados o derogados",
+    "La iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde solo a los vecinos, que podrán instarla individualmente, sin intervención de los órganos de la entidad",
+    "La remisión de reglamentos y ordenanzas a la Administración del Estado y a la Comunidad Autónoma debe producirse dentro de los quince días siguientes a su aprobación"
+   ],
+   1,
+   "La incorrecta es «la iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde solo a los vecinos, que podrán instarla individualmente, sin intervención de los órganos de la entidad». Lo correcto: la iniciativa para la formación o modificación de reglamentos y ordenanzas corresponde a los órganos de las Entidades locales, pudiendo los vecinos instarla individualmente o a través de entidades ",
+   "rbaso 128",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El acuerdo de aprobación, así como el proyecto de norma se someterán a información pública mediante anuncio que se publicará en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la Entidad local",
+    "En el plazo mínimo de veinte días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones",
+    "Las Entidades locales podrán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas"
+   ],
+   1,
+   "La incorrecta es «En el plazo mínimo de veinte días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones»: cambia «treinta días». Lo correcto: «En el plazo mínimo de treinta días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones».",
+   "rbaso 130",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Las entidades locales con población superior a 20.000 habitantes editarán el texto íntegro de sus ordenanzas fiscales dentro del primer cuatrimestre del ejercicio económico correspondiente",
+    "A efectos de reclamar contra los acuerdos provisionales tendrán la consideración de interesados solo los sindicatos",
+    "El plazo durante el que los interesados pueden examinar el expediente y presentar reclamaciones contra el acuerdo provisional es el de exposición pública, de treinta días como mínimo"
+   ],
+   1,
+   "La incorrecta es «a efectos de reclamar contra los acuerdos provisionales tendrán la consideración de interesados solo los sindicatos». Lo correcto: a efectos de reclamar contra los acuerdos provisionales tendrán la consideración de interesados quienes tuvieran un interés directo o resulten afectados y los colegios, cámaras, asociaciones y entidades que velen por intereses profesionales, económicos o vecinales.",
+   "trlrhl 18",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición INCORRECTA:",
+   [
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación en acto único del Reglamento u ordenanza por el Pleno, con resolución de las reclamaciones y sugerencias presentadas",
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá a la Junta de Gobierno Local",
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación remisión del proyecto a la Comisión plenaria competente, acompañado de todas las reclamaciones y sugerencias recibidas, para la emisión del oportuno dictamen"
+   ],
+   1,
+   "La incorrecta es «En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá a la Junta de Gobierno Local»: cambia «al Pleno». Lo correcto: «En el caso de los proyectos normativos, se aplicará el procedimiento descrito a ",
+   "l10-2017 48",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades de ejecución forzosa y sancionadora",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades tributaria y financiera",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas la presunción de legitimidad y la ejecutividad de sus actos"
+   ],
+   2,
+   "La incorrecta es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas la presunción de legitimidad y la ejecutividad de sus actos»: niega lo que dice la ley. Lo correcto: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corr",
+   "lbrl 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Los ayuntamientos deberán establecer y regular en normas de carácter orgánico los órganos de gobierno del municipio y la composición de las comisiones informativas del Pleno",
+    "Las cuestiones entre municipios de distintas Comunidades Autónomas sobre deslinde de sus términos municipales se resolverán por la Administración del Estado, previo informe del Instituto Geográfico Nacional, audiencia de los municipios y CCAA afectados y dictamen del Consejo de Estado",
+    "Si no se hubiera presentado ninguna reclamación o sugerencia durante la información pública de una ordenanza se entenderá definitivamente adoptado el acuerdo hasta entonces provisional"
+   ],
+   0,
+   "La incorrecta es «los ayuntamientos deberán establecer y regular en normas de carácter orgánico los órganos de gobierno del municipio y la composición de las comisiones informativas del Pleno». Lo correcto: los ayuntamientos deberán establecer y regular en normas de carácter orgánico procedimientos y órganos adecuados para la efectiva participación de los vecinos en los asuntos de la vida pública local, en el ámbito ",
+   "lbrl 70 bis",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan bandos",
+    "Las ordenanzas fiscales entran en vigor una vez publicados íntegramente el acuerdo definitivo y el texto, salvo que se demore su aplicación a una fecha posterior",
+    "La aprobación inicial de un reglamento u ordenanza se somete a información pública por plazo mínimo de treinta días"
+   ],
+   0,
+   "La incorrecta es «las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan bandos». Lo correcto: las disposiciones generales de las Entidades locales que regulan su organización y funcionamiento se denominan reglamentos.",
+   "rbaso 125.1",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas la presunción de legitimidad y la ejecutividad de sus actos",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas las potestades tributaria y financiera"
+   ],
+   2,
+   "La incorrecta es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas las potestades tributaria y financiera»: niega lo que dice la ley. Lo correcto: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso",
+   "lbrl 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "Entre las potestades de municipios, provincias e islas se encuentra la potestad legislativa, en las materias de competencia propia de cada entidad local",
+    "En el régimen general, la información pública de una ordenanza dura como mínimo treinta días",
+    "Los conflictos de competencias planteados entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o del Estado, previa audiencia de las Comunidades afectadas, según sean de la misma o distinta Comunidad"
+   ],
+   0,
+   "La incorrecta es «entre las potestades de municipios, provincias e islas se encuentra la potestad legislativa, en las materias de competencia propia de cada entidad local». Lo correcto: entre las potestades de municipios, provincias e islas se encuentra la presunción de legitimidad y la ejecutividad de sus actos.",
+   "lbrl 4.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "En el régimen general, la información pública de una ordenanza dura como mínimo treinta días",
+    "Los ayuntamientos deberán establecer y regular en normas de carácter orgánico procedimientos y órganos adecuados para la efectiva participación de los vecinos en los asuntos de la vida pública local, en el ámbito del municipio y de los distritos",
+    "Las potestades reglamentaria y de autoorganización corresponden a los municipios solo si la Comunidad Autónoma las delega"
+   ],
+   2,
+   "La incorrecta es «las potestades reglamentaria y de autoorganización corresponden a los municipios solo si la Comunidad Autónoma las delega». Lo correcto: las potestades reglamentaria y de autoorganización corresponden a los municipios en todo caso, como Administración pública territorial.",
+   "lbrl 4.1.a",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición INCORRECTA:",
+   [
+    "La aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de diez días",
+    "Las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades",
+    "Los vecinos con derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal, suscritas, en municipios de más de 20.000 habitantes, por el 10 por ciento de los vecinos"
+   ],
+   0,
+   "La incorrecta es «la aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de diez días». Lo correcto: la aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de",
+   "lbrl 49",
+   "Proposición negativa",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda publicarlos en el boletín",
+    "Las ordenanzas fiscales entrarán en vigor una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en el boletín, a no ser que se demore su aplicación a una fecha posterior",
+    "En conflicto de atribuciones, el plazo de ocho días del órgano requerido se cuenta para decidir acerca de su competencia"
+   ],
+   0,
+   "La incorrecta es «lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda publicarlos en el boletín». Lo correcto: lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda dispensar individualmente de su observancia.",
+   "l7-1999 139",
+   "Proposición negativa",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Si no se ha presentado ninguna reclamación contra el proyecto de reglamento u ordenanza, el acuerdo de aprobación inicial debe ser aprobado de nuevo por el Pleno, tras informe del Secretario de la Corporación",
+    "Si no se ha presentado ninguna reclamación contra el proyecto de reglamento u ordenanza, el acuerdo de aprobación inicial se elevará a definitivo, debidamente acreditado por el Secretario de la Corporación",
+    "Si no se ha presentado ninguna reclamación contra el proyecto de reglamento u ordenanza, el acuerdo de aprobación inicial requiere informe previo de la Intervención y remisión al Gobierno de Aragón para su ratificación"
+   ],
+   1,
+   "Art. 132 · Decreto 347/2002 (RBASO): Si no se ha presentado ninguna reclamación contra el proyecto de reglamento u ordenanza, el acuerdo de aprobación inicial se elevará a definitivo, debidamente acreditado por el Secretario de la Corporación.",
+   "rbaso 132",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-044",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras de estos",
+    "Las entidades locales no deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras de estos",
+    "Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar un reglamento de gestión tributaria"
+   ],
+   0,
+   "Art. 15.1 · RDLeg 2/2004 (TRLRHL): Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras de estos.",
+   "trlrhl 15.1",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-117",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado posterior audiencia de las Comunidades Autónomas afectadas, según pertenezcan a la misma o a distinta Comunidad, sin perjuicio de impugnar la resolución en vía contencioso-administrativa",
+    "Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado simultánea audiencia de las Comunidades Autónomas afectadas, según pertenezcan a la misma o a distinta Comunidad, sin perjuicio de impugnar la resolución en vía contencioso-administrativa",
+    "Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado previa audiencia de las Comunidades Autónomas afectadas, según pertenezcan a la misma o a distinta Comunidad, sin perjuicio de impugnar la resolución en vía contencioso-administrativa"
+   ],
+   2,
+   "Art. 50.2 · Ley 7/1985 (LBRL): Los conflictos de competencias entre diferentes entidades locales serán resueltos por la Administración de la Comunidad Autónoma o por la del Estado previa audiencia de las Comunidades Autónomas afectadas, según pertenezcan a la misma o a distinta Comunidad, sin perjuicio de impugnar la resolución en vía contencioso-administrativa. Las otras dos frases cambian «Previa» por «Posterior» y",
+   "lbrl 50.2",
+   "Una sola palabra cambia el sentido",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t16-083",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de quince días",
+    "La aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de diez días",
+    "La aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de treinta días"
+   ],
+   2,
+   "Art. 49 · Ley 7/1985 (LBRL): La aprobación de las ordenanzas locales se ajustará, según el art. 49 LBRL, al siguiente procedimiento: aprobación inicial por el Pleno; información pública y audiencia por plazo mínimo de treinta días.",
+   "lbrl 49",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-005",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas las potestades tributaria y financiera",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas la presunción de legitimidad y la ejecutividad de sus actos"
+   ],
+   1,
+   "La correcta es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización». Las otras dos son falsas: lo correcto es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en ",
+   "lbrl 4",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de quince días naturales",
+    "En Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de treinta días hábiles",
+    "En Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de treinta días naturales"
+   ],
+   2,
+   "Art. 48 · Ley 10/2017 (Zaragoza): En Zaragoza, la información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y reglamentos será por el plazo mínimo de treinta días naturales.",
+   "l10-2017 48",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-032",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial de Aragón» en que se haya publicado íntegramente el texto",
+    "Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial del Estado» en que se haya publicado íntegramente el texto",
+    "Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial de la Provincia» en que se haya publicado íntegramente el texto"
+   ],
+   0,
+   "Art. 133 · Decreto 347/2002 (RBASO): Se publicarán, además, en el boletín informativo, cuando exista, y en el tablón de anuncios de la Entidad local la referencia del «Boletín Oficial de Aragón» en que se haya publicado íntegramente el texto. Las otras dos frases cambian «Boletín Oficial de Aragón» por «Boletín Oficial del Estado» y «Boletín Oficial de la Provincia».",
+   "rbaso 133",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, la ordenanza fiscal aprobada inicialmente por la Comisión plenaria se expondrá al público por el plazo mínimo de veinte días, previo anuncio en el boletín oficial, en el tablón de anuncios y en la sede electrónica",
+    "En Zaragoza, la ordenanza fiscal aprobada inicialmente por la Comisión plenaria se expondrá al público por el plazo mínimo de treinta días, previo anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal",
+    "En Zaragoza, la ordenanza fiscal aprobada inicialmente por la Comisión plenaria se expondrá al público por el plazo mínimo de quince días, previo anuncio en el boletín oficial, en el tablón de anuncios y en la sede electrónica"
+   ],
+   1,
+   "Art. 49 · Ley 10/2017 (Zaragoza): En Zaragoza, la ordenanza fiscal aprobada inicialmente por la Comisión plenaria se expondrá al público por el plazo mínimo de treinta días, previo anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal.",
+   "l10-2017 49",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-052",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132.3 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Con carácter general, los reglamentos y ordenanzas se aprueban por mayoría absoluta",
+    "Con carácter general, los reglamentos y ordenanzas se aprueban por mayoría simple, incluso las ordenanzas urbanísticas",
+    "Con carácter general, los reglamentos y ordenanzas se aprueban por dos tercios"
+   ],
+   1,
+   "Art. 132.3 · Decreto 347/2002 (RBASO): Con carácter general, los reglamentos y ordenanzas se aprueban por mayoría simple, incluso las ordenanzas urbanísticas.",
+   "rbaso 132.3",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-101",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 128 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "Los vecinos deberán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos",
+    "Los vecinos podrán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos",
+    "Los vecinos no podrán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos"
+   ],
+   1,
+   "Art. 128 · Decreto 347/2002 (RBASO): Los vecinos podrán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "rbaso 128",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.2 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Las potestades del apartado 1 del artículo 4 no podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades",
+    "Las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales automáticamente todas ellas, sin necesidad de que las leyes de las comunidades autónomas las concreten",
+    "Las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades"
+   ],
+   2,
+   "Art. 4.2 · Ley 7/1985 (LBRL): Las potestades del apartado 1 del artículo 4 podrán ser de aplicación a las entidades territoriales de ámbito inferior al municipal, comarcas, áreas metropolitanas y demás entidades locales debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación, excepto las mancomunidades.",
+   "lbrl 4.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Las ordenanzas y reglamentos de las Entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía y temporalidad",
+    "Las ordenanzas y reglamentos de las Entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de legalidad y eficacia",
+    "Las ordenanzas y reglamentos de las Entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia"
+   ],
+   2,
+   "Art. 125.2 · Decreto 347/2002 (RBASO): Las ordenanzas y reglamentos de las Entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia.",
+   "rbaso 125.2",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-089",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.6 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso no requiere la conformidad del Gobierno de Zaragoza para su tramitación",
+    "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso requiere la conformidad del Gobierno de Zaragoza para su tramitación",
+    "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso requiere la aprobación del Pleno por mayoría absoluta"
+   ],
+   1,
+   "Art. 48.6 · Ley 10/2017 (Zaragoza): Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos del ejercicio en curso requiere la conformidad del Gobierno de Zaragoza para su tramitación.",
+   "l10-2017 48.6",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-133",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Los bandos de urgencia se apoyan en la atribución del Alcalde de adoptar personalmente, bajo su responsabilidad, medidas en caso de catástrofe o grave riesgo, dando cuenta al Pleno (art. 21.1.m LBRL)",
+    "Los bandos de urgencia se apoyan en la atribución del Alcalde de adoptar personalmente, bajo su responsabilidad, medidas en caso de catástrofe o grave riesgo, dando cuenta al Alcalde (art. 21.1.m LBRL)",
+    "Los bandos de urgencia se apoyan en la atribución del Alcalde de adoptar personalmente, bajo su responsabilidad, medidas en caso de catástrofe o grave riesgo, dando cuenta a la Junta de Gobierno Local (art. 21.1.m LBRL)"
+   ],
+   0,
+   "Los bandos de urgencia se apoyan en la atribución del Alcalde de adoptar personalmente, bajo su responsabilidad, medidas en caso de catástrofe o grave riesgo, dando cuenta al Pleno (art. 21.1.m LBRL). Las otras dos frases cambian «al Pleno» por «al Alcalde» y «a la Junta de Gobierno Local».",
+   "Lección del tema: bandos",
+   "Una sola palabra cambia el sentido",
+   "h-bandos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t16-154",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Corresponde en todo caso a los municipios, las provincias y las islas solo la potestad tributaria",
+    "Corresponde en todo caso a los municipios, las provincias y las islas ninguna potestad propia",
+    "Corresponde en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización"
+   ],
+   2,
+   "Art. 4 · Ley 7/1985 (LBRL): Corresponde en todo caso a los municipios, las provincias y las islas las potestades reglamentaria y de autoorganización.",
+   "lbrl 4",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-004",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, la información pública de los proyectos de ordenanzas y reglamentos no tendrá un plazo mínimo de treinta días naturales",
+    "En Zaragoza, la información pública de los proyectos de ordenanzas y reglamentos tendrá un plazo mínimo de quince días hábiles",
+    "En Zaragoza, la información pública de los proyectos de ordenanzas y reglamentos tendrá un plazo mínimo de treinta días naturales"
+   ],
+   2,
+   "Art. 48 · Ley 10/2017 (Zaragoza): En Zaragoza, la información pública de los proyectos de ordenanzas y reglamentos tendrá un plazo mínimo de treinta días naturales.",
+   "l10-2017 48",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-009",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición CORRECTA:",
+   [
+    "En el plazo mínimo de veinte días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones",
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación",
+    "Las Entidades locales deberán solicitar la colaboración técnica y económica de las Diputaciones Provinciales y, en su caso, de la Comarca, para la formación o modificación de los reglamentos y ordenanzas"
+   ],
+   1,
+   "La correcta es «La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación». Las otras dos son falsas: lo correcto es «En el plazo mínimo de treinta días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones» (la otra frase cambia «treinta días») y «Las Entidades locales podrán solicitar la colaboración técnica y econó",
+   "rbaso 132",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia",
+    "Las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía y desconcentración",
+    "Las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de legalidad y proporcionalidad"
+   ],
+   0,
+   "Art. 139.2 · Ley 7/1999 (Aragón): Las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia.",
+   "l7-1999 139.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-021",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Los acuerdos provisionales para el establecimiento o modificación de tributos y ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días como mínimo; los ayuntamientos de población superior a 10.000 habitantes no deberán publicarlos, además en un diario de los de mayor difusión de la provincia o comunidad autónoma uniprovincial",
+    "Los acuerdos provisionales para el establecimiento o modificación de tributos y ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días como mínimo; los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además en el Boletín Oficial del Estado, junto con el boletín oficial de la provincia o de la comunidad",
+    "Los acuerdos provisionales para el establecimiento o modificación de tributos y ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días como mínimo; los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además en un diario de los de mayor difusión de la provincia o comunidad autónoma uniprovincial"
+   ],
+   2,
+   "Art. 17 · RDLeg 2/2004 (TRLRHL): Los acuerdos provisionales para el establecimiento o modificación de tributos y ordenanzas fiscales se expondrán en el tablón de anuncios durante treinta días como mínimo; los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además en un diario de los de mayor difusión de la provincia o comunidad autónoma uniprovincial.",
+   "trlrhl 17",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-048",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los vecinos con derecho de sufragio activo en las elecciones municipales no podrán ejercer la iniciativa popular, presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal, suscritas, en municipios de más de 20.000 habitantes, por el 10 por ciento de los vecinos",
+    "Los vecinos con derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal, suscritas, en municipios de más de 20.000 habitantes, por el 20 por ciento de los vecinos",
+    "Los vecinos con derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal, suscritas, en municipios de más de 20.000 habitantes, por el 10 por ciento de los vecinos"
+   ],
+   2,
+   "Art. 70 bis · Ley 7/1985 (LBRL): Los vecinos con derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal, suscritas, en municipios de más de 20.000 habitantes, por el 10 por ciento de los vecinos.",
+   "lbrl 70 bis",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-034",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, las ordenanzas fiscales se aprueban inicialmente por la Comisión plenaria correspondiente, tras la aprobación del proyecto por el Gobierno de Zaragoza",
+    "En Zaragoza, las ordenanzas fiscales se aprueban inicialmente por el Pleno",
+    "En Zaragoza, las ordenanzas fiscales se aprueban inicialmente por el Alcalde"
+   ],
+   0,
+   "Art. 49 · Ley 10/2017 (Zaragoza): En Zaragoza, las ordenanzas fiscales se aprueban inicialmente por la Comisión plenaria correspondiente, tras la aprobación del proyecto por el Gobierno de Zaragoza.",
+   "l10-2017 49",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-134",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda dispensar individualmente de su observancia",
+    "Lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda modificarlos por el procedimiento legal",
+    "Lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda publicarlos en el boletín"
+   ],
+   0,
+   "Art. 139 · Ley 7/1999 (Aragón): Lo dispuesto en las ordenanzas y reglamentos vinculará por igual a los ciudadanos y a la entidad local, sin que esta pueda dispensar individualmente de su observancia.",
+   "l7-1999 139",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-003",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento no son reglamentos, y las demás son ordenanzas",
+    "Las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son bandos",
+    "Las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son ordenanzas"
+   ],
+   2,
+   "Art. 125 · Decreto 347/2002 (RBASO): Las disposiciones generales aprobadas por las Entidades locales para regular su organización y funcionamiento son reglamentos, y las demás son ordenanzas.",
+   "rbaso 125",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-023",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "Los acuerdos de aprobación de ordenanzas fiscales podrán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas",
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces definitivo, sin necesidad de acuerdo plenario",
+    "Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos"
+   ],
+   2,
+   "La correcta es «Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos». Las otras dos son falsas: lo correcto es «Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas» (la otra frase cambia «deberán») y «En el caso de que no se hubieran presentado ",
+   "trlrhl 16",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "La aprobación provisional de los reglamentos y ordenanzas corresponde al Pleno de la Corporación",
+    "La aprobación condicional de los reglamentos y ordenanzas corresponde al Pleno de la Corporación",
+    "La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación"
+   ],
+   2,
+   "Art. 132 · Decreto 347/2002 (RBASO): La aprobación definitiva de los reglamentos y ordenanzas corresponde al Pleno de la Corporación. Las otras dos frases cambian «definitiva» por «provisional» y «condicional».",
+   "rbaso 132",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1.a de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Las potestades reglamentaria y de autoorganización corresponden a los municipios en todo caso, como Administración pública territorial",
+    "Las potestades reglamentaria y de autoorganización no corresponden a los municipios en todo caso, como Administración pública territorial",
+    "Las potestades reglamentaria y de autoorganización corresponden a los municipios solo si la Comunidad Autónoma las delega"
+   ],
+   0,
+   "Art. 4.1.a · Ley 7/1985 (LBRL): Las potestades reglamentaria y de autoorganización corresponden a los municipios en todo caso, como Administración pública territorial.",
+   "lbrl 4.1.a",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-147",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes exclusivamente en formato papel, sin obligación de llevar registro de sus modificaciones",
+    "Las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes solo para uso interno de la entidad, y no para consulta de los ciudadanos, en formato digital",
+    "Las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes para su consulta por todos los ciudadanos, con texto íntegro actualizado, y llevarán un registro cronológico de los aprobados y sus modificaciones"
+   ],
+   2,
+   "Art. 133 · Decreto 347/2002 (RBASO): Las Entidades locales dispondrán de una recopilación ordenada e integrada de todos sus reglamentos y ordenanzas vigentes para su consulta por todos los ciudadanos, con texto íntegro actualizado, y llevarán un registro cronológico de los aprobados y sus modificaciones.",
+   "rbaso 133",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-056",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, la aprobación del proyecto de ordenanza o reglamento (salvo normas del Pleno y sus Comisiones) corresponde al Gobierno de Zaragoza",
+    "En Zaragoza, la aprobación del proyecto de ordenanza o reglamento (salvo normas del Pleno y sus Comisiones) no corresponde al Gobierno de Zaragoza",
+    "En Zaragoza, la aprobación del proyecto de ordenanza o reglamento (salvo normas del Pleno y sus Comisiones) corresponde al Alcalde en solitario"
+   ],
+   0,
+   "Art. 48 · Ley 10/2017 (Zaragoza): En Zaragoza, la aprobación del proyecto de ordenanza o reglamento (salvo normas del Pleno y sus Comisiones) corresponde al Gobierno de Zaragoza.",
+   "l10-2017 48",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-008",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición CORRECTA:",
+   [
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación en acto único del Reglamento u ordenanza por la Junta de Gobierno Local, con resolución de las reclamaciones y sugerencias presentadas",
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá a la Junta de Gobierno Local",
+    "La presentación de enmiendas por parte de los Concejales, así como su tramitación en Comisión y Pleno, se ajustará a lo que disponga el Reglamento orgánico"
+   ],
+   2,
+   "La correcta es «La presentación de enmiendas por parte de los Concejales, así como su tramitación en Comisión y Pleno, se ajustará a lo que disponga el Reglamento orgánico». Las otras dos son falsas: lo correcto es «En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación en acto único del Reglamento u ordenanza por el Pleno, con resolución de las reclamaciones y sugeren",
+   "l10-2017 48",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132.3 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Requerirá mayoría absoluta, entre otros supuestos las ordenanzas de tráfico",
+    "Requerirá mayoría absoluta, entre otros supuestos los bandos del Alcalde",
+    "Requerirá mayoría absoluta, entre otros supuestos el planeamiento general, las ordenanzas fiscales, el reglamento orgánico y las ordenanzas de aprovechamientos de bienes comunales"
+   ],
+   2,
+   "Art. 132.3 · Decreto 347/2002 (RBASO): Requerirá mayoría absoluta, entre otros supuestos el planeamiento general, las ordenanzas fiscales, el reglamento orgánico y las ordenanzas de aprovechamientos de bienes comunales.",
+   "rbaso 132.3",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-102",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En la iniciativa popular local, en los municipios de hasta 5.000 habitantes, la iniciativa no deberá ir suscrita al menos por el 20 por ciento de los vecinos",
+    "En la iniciativa popular local, en los municipios de hasta 5.000 habitantes, la iniciativa deberá ir suscrita al menos por el 20 por ciento de los vecinos",
+    "En la iniciativa popular local, en los municipios de hasta 5.000 habitantes, la iniciativa deberá ir suscrita al menos por el 10 por ciento de los vecinos"
+   ],
+   1,
+   "Art. 70 bis · Ley 7/1985 (LBRL): En la iniciativa popular local, en los municipios de hasta 5.000 habitantes, la iniciativa deberá ir suscrita al menos por el 20 por ciento de los vecinos.",
+   "lbrl 70 bis",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-035",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1.c de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "La ley aragonesa no exige, además, audiencia previa a las asociaciones vecinales y de consumidores y usuarios inscritas en el registro correspondiente y cuyos fines guarden relación directa con la disposición",
+    "La ley aragonesa exige, además, audiencia previa a las organizaciones sindicales",
+    "La ley aragonesa exige, además, audiencia previa a las asociaciones vecinales y de consumidores y usuarios inscritas en el registro correspondiente y cuyos fines guarden relación directa con la disposición"
+   ],
+   2,
+   "Art. 140.1.c · Ley 7/1999 (Aragón): La ley aragonesa exige, además, audiencia previa a las asociaciones vecinales y de consumidores y usuarios inscritas en el registro correspondiente y cuyos fines guarden relación directa con la disposición.",
+   "l7-1999 140.1.c",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-108",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición CORRECTA:",
+   [
+    "La iniciativa para la formación o modificación de los reglamentos y ordenanzas no corresponde a los órganos de las Entidades locales",
+    "Los vecinos no podrán instarla, bien individualmente o integrados en las entidades o asociaciones legalmente constituidas para la defensa y protección de los derechos de los ciudadanos",
+    "En el plazo mínimo de treinta días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones"
+   ],
+   2,
+   "La correcta es «En el plazo mínimo de treinta días, los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones». Las otras dos son falsas: lo correcto es «La iniciativa para la formación o modificación de los reglamentos y ordenanzas corresponde a los órganos de las Entidades locales» (la otra frase la niega) y «Los vecinos podrán instarla, bien individualmente",
+   "rbaso 130",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   [
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces definitivo, sin necesidad de acuerdo plenario",
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces permanente, sin necesidad de acuerdo plenario",
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario"
+   ],
+   2,
+   "Art. 17 · RDLeg 2/2004 (TRLRHL): En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario. Las otras dos frases cambian «provisional» por «definitivo» y «permanente».",
+   "trlrhl 17",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria adoptarán la denominación de reglamentos u ordenanzas, según cual sea su objeto",
+    "Las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria adoptarán la denominación de siempre ordenanzas",
+    "Las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria adoptarán la denominación de siempre reglamentos"
+   ],
+   0,
+   "Art. 139 · Ley 7/1999 (Aragón): Las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria adoptarán la denominación de reglamentos u ordenanzas, según cual sea su objeto.",
+   "l7-1999 139",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-001",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1.b de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "En el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de treinta días",
+    "En el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de quince días",
+    "En el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de dos meses"
+   ],
+   0,
+   "Art. 140.1.b · Ley 7/1999 (Aragón): En el régimen aragonés, la información pública del acuerdo de aprobación inicial se hace previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios por el plazo mínimo de treinta días.",
+   "l7-1999 140.1.b",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-107",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los ayuntamientos no deberán establecer y regular en normas de carácter orgánico procedimientos y órganos adecuados para la efectiva participación de los vecinos en los asuntos de la vida pública local, en el ámbito del municipio y de los distritos",
+    "Los ayuntamientos deberán establecer y regular en normas de carácter orgánico solo el procedimiento de iniciativa popular, sin regular órganos de participación en los distritos",
+    "Los ayuntamientos deberán establecer y regular en normas de carácter orgánico procedimientos y órganos adecuados para la efectiva participación de los vecinos en los asuntos de la vida pública local, en el ámbito del municipio y de los distritos"
+   ],
+   2,
+   "Art. 70 bis · Ley 7/1985 (LBRL): Los ayuntamientos deberán establecer y regular en normas de carácter orgánico procedimientos y órganos adecuados para la efectiva participación de los vecinos en los asuntos de la vida pública local, en el ámbito del municipio y de los distritos.",
+   "lbrl 70 bis",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-037",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130.2 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "El acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el «Boletín Oficial de Aragón» y el tablón de anuncios, por el plazo mínimo de treinta días",
+    "El acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en solo el tablón de anuncios, quince días",
+    "El acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el diario oficial de la provincia, un mes"
+   ],
+   0,
+   "Art. 130.2 · Decreto 347/2002 (RBASO): El acuerdo de aprobación y el proyecto se someten a información pública mediante anuncio en el «Boletín Oficial de Aragón» y el tablón de anuncios, por el plazo mínimo de treinta días.",
+   "rbaso 130.2",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-096",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Contra las ordenanzas fiscales una vez publicadas solo cabe el recurso de reposición",
+    "Contra las ordenanzas fiscales una vez publicadas solo cabe el recurso de alzada",
+    "Contra las ordenanzas fiscales una vez publicadas solo cabe el recurso contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia"
+   ],
+   2,
+   "Art. 19.1 · RDLeg 2/2004 (TRLRHL): Contra las ordenanzas fiscales una vez publicadas solo cabe el recurso contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia.",
+   "trlrhl 19.1",
+   "La afirmación, su negación y otro dato",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-126",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Alcalde, con información pública de treinta días mediante anuncio en el tablón de anuncios",
+    "Corresponde la aprobación inicial del proyecto de reglamento u ordenanza a la Junta de Gobierno Local, con información pública de quince días mediante anuncio en el BOP",
+    "Corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la Entidad local, con información pública de treinta días como mínimo mediante anuncio en el BOA y en el tablón de anuncios"
+   ],
+   2,
+   "Art. 130 · Decreto 347/2002 (RBASO): Corresponde la aprobación inicial del proyecto de reglamento u ordenanza al Pleno de la Entidad local, con información pública de treinta días como mínimo mediante anuncio en el BOA y en el tablón de anuncios.",
+   "rbaso 130",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-041",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133.1 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial de la Provincia»",
+    "Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial de Aragón»",
+    "Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el tablón de anuncios"
+   ],
+   1,
+   "Art. 133.1 · Decreto 347/2002 (RBASO): Los reglamentos y ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial de Aragón».",
+   "rbaso 133.1",
+   "La afirmación, su negación y otro dato",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-104",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.2 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las ordenanzas fiscales, en cuanto a su vigencia, regirán desde su entrada en vigor, hasta su modificación o derogación expresas, y no podrá fijarse una vigencia temporal",
+    "Las ordenanzas fiscales, en cuanto a su vigencia, regirán hasta el fin del mandato corporativo",
+    "Las ordenanzas fiscales, en cuanto a su vigencia, regirán desde su entrada en vigor, hasta su modificación o derogación expresas, y podrá fijarse una vigencia temporal"
+   ],
+   2,
+   "Art. 16.2 · RDLeg 2/2004 (TRLRHL): Las ordenanzas fiscales, en cuanto a su vigencia, regirán desde su entrada en vigor, hasta su modificación o derogación expresas, y podrá fijarse una vigencia temporal.",
+   "trlrhl 16.2",
+   "La afirmación, su negación y otro dato",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-146",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 50.1.b de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los conflictos de atribuciones que no afecten a órganos colegiados se resolverán por la Junta de Gobierno Local",
+    "Los conflictos de atribuciones que no afecten a órganos colegiados se resolverán por el Alcalde o Presidente de la Corporación",
+    "Los conflictos de atribuciones que no afecten a órganos colegiados se resolverán por el Pleno"
+   ],
+   1,
+   "Art. 50.1.b · Ley 7/1985 (LBRL): Los conflictos de atribuciones que no afecten a órganos colegiados se resolverán por el Alcalde o Presidente de la Corporación.",
+   "lbrl 50.1.b",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-082",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.2 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Los anuncios de exposición de ordenanzas fiscales se publicarán en el boletín oficial de la provincia y, además, en un diario de los de mayor difusión de la provincia cuando se trate de Diputaciones, órganos de gobierno de entidades supramunicipales y ayuntamientos de población superior a 10.000 habitantes",
+    "Los anuncios de exposición de ordenanzas fiscales se publicarán en el boletín oficial de la provincia y, además, en un diario de los de mayor difusión de la provincia cuando se trate de los municipios de más de 50.000 habitantes",
+    "Los anuncios de exposición de ordenanzas fiscales se publicarán en el boletín oficial de la provincia y, además, en un diario de los de mayor difusión de la provincia cuando se trate de todos los ayuntamientos"
+   ],
+   0,
+   "Art. 17.2 · RDLeg 2/2004 (TRLRHL): Los anuncios de exposición de ordenanzas fiscales se publicarán en el boletín oficial de la provincia y, además, en un diario de los de mayor difusión de la provincia cuando se trate de Diputaciones, órganos de gobierno de entidades supramunicipales y ayuntamientos de población superior a 10.000 habitantes.",
+   "trlrhl 17.2",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-122",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas, el plazo mínimo de información pública es de quince días, previo anuncio en el BOA y en el tablón de anuncios de la entidad",
+    "En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas, el plazo mínimo de información pública es de veinte días, previo anuncio en el boletín de la provincia y en el tablón de anuncios",
+    "En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas, el plazo mínimo de información pública es de treinta días, previo anuncio en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad"
+   ],
+   2,
+   "Art. 140.1 · Ley 7/1999 (Aragón): En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas, el plazo mínimo de información pública es de treinta días, previo anuncio en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad.",
+   "l7-1999 140.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-027",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas debe concederse, además, audiencia previa a todos los vecinos del municipio, mediante anuncio en el tablón de edictos de la entidad",
+    "En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas debe concederse, además, audiencia previa a las cámaras de comercio y a los colegios profesionales con sede en el ámbito territorial",
+    "En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas debe concederse, además, audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios inscritas en el Registro correspondiente, cuyos fines guarden relación directa con el objeto de la disposición"
+   ],
+   2,
+   "Art. 140.1 · Ley 7/1999 (Aragón): En el procedimiento de elaboración de reglamentos y ordenanzas locales aragonesas debe concederse, además, audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios inscritas en el Registro correspondiente, cuyos fines guarden relación directa con el objeto de la disposición.",
+   "l7-1999 140.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-028",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Las ordenanzas fiscales entrarán en vigor a los quince días de su publicación íntegra del acuerdo definitivo y del texto en el boletín",
+    "Las ordenanzas fiscales entrarán en vigor una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en el boletín, a no ser que se demore su aplicación a una fecha posterior",
+    "Las ordenanzas fiscales entrarán en vigor al día siguiente de su aprobación definitiva por el Pleno, sin esperar a su publicación"
+   ],
+   1,
+   "Art. 141.2 · Ley 7/1999 (Aragón): Las ordenanzas fiscales entrarán en vigor una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en el boletín, a no ser que se demore su aplicación a una fecha posterior.",
+   "l7-1999 141.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-055",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132.3 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "Salvo los supuestos legalmente previstos de mayoría absoluta, la aprobación de ordenanzas y reglamentos requiere mayoría absoluta",
+    "Salvo los supuestos legalmente previstos de mayoría absoluta, la aprobación de ordenanzas y reglamentos requiere mayoría de dos tercios",
+    "Salvo los supuestos legalmente previstos de mayoría absoluta, la aprobación de ordenanzas y reglamentos requiere mayoría simple"
+   ],
+   2,
+   "Art. 132.3 · Decreto 347/2002 (RBASO): Salvo los supuestos legalmente previstos de mayoría absoluta, la aprobación de ordenanzas y reglamentos requiere mayoría simple. Las otras dos frases cambian «Mayoría simple» por «mayoría absoluta» y «mayoría de dos tercios».",
+   "rbaso 132.3",
+   "Una sola palabra cambia el sentido",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t16-138",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "En un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla archivará el expediente y comunicará el hecho al órgano que conozca del asunto para su tramitación",
+    "En un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla suspenderá las actuaciones y las remitirá inmediatamente, con el requerimiento y su informe, al órgano a que corresponda resolver el conflicto",
+    "En un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla continuará las actuaciones por sí mismo, hasta que se resuelva por el órgano que se considere competente"
+   ],
+   1,
+   "Art. 143.2 · Ley 7/1999 (Aragón): En un conflicto de atribuciones, el órgano que se considere competente requerirá de inhibición al que conozca del asunto; en caso de no aceptarla suspenderá las actuaciones y las remitirá inmediatamente, con el requerimiento y su informe, al órgano a que corresponda resolver el conflicto.",
+   "l7-1999 143.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-063",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento aprobación inicial por el Alcalde, información pública de diez días y aprobación definitiva por la Junta de Gobierno",
+    "La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento aprobación inicial por el Pleno, información pública y audiencia por un plazo mínimo de treinta días, y resolución de reclamaciones con aprobación definitiva por el Pleno",
+    "La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento aprobación inicial por la Junta de Gobierno, información pública de quince días y aprobación por el Pleno"
+   ],
+   1,
+   "Art. 49 · Ley 7/1985 (LBRL): La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento aprobación inicial por el Pleno, información pública y audiencia por un plazo mínimo de treinta días, y resolución de reclamaciones con aprobación definitiva por el Pleno.",
+   "lbrl 49",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-025",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "Los vecinos que gocen del derecho de sufragio activo en las elecciones municipales deberán ejercer la iniciativa popular, presentando propuestas de acuerdos o actuaciones o proyectos de reglamentos en materias de la competencia municipal",
+    "Los vecinos que gocen del derecho de sufragio activo en las elecciones municipales no podrán ejercer la iniciativa popular, presentando propuestas de acuerdos o actuaciones o proyectos de reglamentos en materias de la competencia municipal",
+    "Los vecinos que gocen del derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos o actuaciones o proyectos de reglamentos en materias de la competencia municipal"
+   ],
+   2,
+   "Art. 70 bis · Ley 7/1985 (LBRL): Los vecinos que gocen del derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos o actuaciones o proyectos de reglamentos en materias de la competencia municipal. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lbrl 70 bis",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las entidades locales no deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales salvo en los supuestos del artículo 59.1 (impuestos obligatorios: IBI, IAE e IVTM)",
+    "Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales salvo en los supuestos del artículo 59.1 (impuestos obligatorios: IBI, IAE e IVTM)",
+    "Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales sin excepciones, pues todos los impuestos locales exigen acuerdo de imposición y ordenanza fiscal"
+   ],
+   1,
+   "Art. 15 · RDLeg 2/2004 (TRLRHL): Las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales salvo en los supuestos del artículo 59.1 (impuestos obligatorios: IBI, IAE e IVTM).",
+   "trlrhl 15",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-046",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición CORRECTA:",
+   [
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas la presunción de legitimidad y la ejecutividad de sus actos",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, no corresponden en todo caso a los municipios, las provincias y las islas la potestad de programación o planificación",
+    "En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas las potestades de ejecución automática y sancionadora"
+   ],
+   0,
+   "La correcta es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas la presunción de legitimidad y la ejecutividad de sus actos». Las otras dos son falsas: lo correcto es «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresp",
+   "lbrl 4",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la opción correcta:",
+   [
+    "Para la modificación de las ordenanzas y reglamentos podrán seguirse los mismos trámites que para su aprobación",
+    "Para la modificación de las ordenanzas y reglamentos deberán seguirse los mismos trámites que para su aprobación",
+    "Para la modificación de las ordenanzas y reglamentos no deberán seguirse los mismos trámites que para su aprobación"
+   ],
+   1,
+   "Art. 140 · Ley 7/1999 (Aragón): Para la modificación de las ordenanzas y reglamentos deberán seguirse los mismos trámites que para su aprobación. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "l7-1999 140",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "Los acuerdos de aprobación de estas ordenanzas fiscales no deberán adoptarse simultáneamente a los de imposición de los respectivos tributos",
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario",
+    "Las entidades locales publicarán, en todo caso, los anuncios de exposición en el Boletín Oficial del Estado, o, en su caso, en el de la comunidad autónoma uniprovincial"
+   ],
+   1,
+   "La correcta es «En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario». Las otras dos son falsas: lo correcto es «Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos» (la otra frase cambia «deberán») y «Las entidades ",
+   "trlrhl 17",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 130.3 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "Se concederá audiencia previa a las asociaciones cualquier asociación del municipio",
+    "Se concederá audiencia previa a las asociaciones solo a las asociaciones de vecinos",
+    "Se concederá audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios del ámbito territorial inscritas en el Registro correspondiente y cuyos fines guarden relación directa con el objeto de la disposición"
+   ],
+   2,
+   "Art. 130.3 · Decreto 347/2002 (RBASO): Se concederá audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios del ámbito territorial inscritas en el Registro correspondiente y cuyos fines guarden relación directa con el objeto de la disposición.",
+   "rbaso 130.3",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-097",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces permanente, sin necesidad de acuerdo plenario",
+    "Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas",
+    "Las entidades locales publicarán, en todo caso, los anuncios de exposición en el Boletín Oficial de Aragón, o, en su caso, en el de la comunidad autónoma uniprovincial"
+   ],
+   1,
+   "La correcta es «Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas». Las otras dos son falsas: lo correcto es «En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario» (la otra frase cambia «provisional») y «Las ent",
+   "trlrhl 16",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la opción correcta:",
+   [
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá al Alcalde",
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá a la Junta de Gobierno Local",
+    "En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá al Pleno"
+   ],
+   2,
+   "Art. 48 · Ley 10/2017 (Zaragoza): En el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación aprobación del proyecto por el Gobierno de Zaragoza, excepto en el caso de proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponderá al Pleno. Las otras dos frases cambian «al Pleno» por «al Alcalde» y «a la Junta de Gobierno Local».",
+   "l10-2017 48",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 bis.1 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Los ayuntamientos regularán la participación vecinal en normas de carácter orgánico",
+    "Los ayuntamientos regularán la participación vecinal en normas de carácter fiscal",
+    "Los ayuntamientos regularán la participación vecinal en normas de carácter singular"
+   ],
+   0,
+   "Art. 70 bis.1 · Ley 7/1985 (LBRL): Los ayuntamientos regularán la participación vecinal en normas de carácter orgánico.",
+   "lbrl 70 bis.1",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-148",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.3 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones debe adoptarse un nuevo acuerdo del Pleno que apruebe definitivamente la ordenanza fiscal",
+    "Finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones se entenderá definitivamente adoptado el acuerdo hasta entonces provisional",
+    "Finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones debe remitirse al Ministerio de Hacienda para que autorice su entrada en vigor"
+   ],
+   1,
+   "Art. 17.3 · RDLeg 2/2004 (TRLRHL): Finalizado el período de exposición pública de los acuerdos provisionales, si no se hubieran presentado reclamaciones se entenderá definitivamente adoptado el acuerdo hasta entonces provisional.",
+   "trlrhl 17.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-049",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.3.b de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, el plazo mínimo de información pública y audiencia no es de treinta días naturales",
+    "En Zaragoza, el plazo mínimo de información pública y audiencia es de treinta días naturales",
+    "En Zaragoza, el plazo mínimo de información pública y audiencia es de quince días naturales"
+   ],
+   1,
+   "Art. 48.3.b · Ley 10/2017 (Zaragoza): En Zaragoza, el plazo mínimo de información pública y audiencia es de treinta días naturales.",
+   "l10-2017 48.3.b",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-130",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, la iniciativa para la aprobación de ordenanzas y reglamentos de competencia del Pleno corresponderá a solo el Gobierno de Zaragoza, mediante la remisión del correspondiente proyecto normativo",
+    "En Zaragoza, la iniciativa para la aprobación de ordenanzas y reglamentos de competencia del Pleno corresponderá a solo el Alcalde, mediante decreto, y la iniciativa popular en los términos de la normativa básica",
+    "En Zaragoza, la iniciativa para la aprobación de ordenanzas y reglamentos de competencia del Pleno corresponderá al Gobierno de Zaragoza (mediante proyecto normativo), los grupos políticos (mediante proposición) y la iniciativa popular"
+   ],
+   2,
+   "Art. 48 · Ley 10/2017 (Zaragoza): En Zaragoza, la iniciativa para la aprobación de ordenanzas y reglamentos de competencia del Pleno corresponderá al Gobierno de Zaragoza (mediante proyecto normativo), los grupos políticos (mediante proposición) y la iniciativa popular.",
+   "l10-2017 48",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Para la modificación de las ordenanzas y reglamentos locales no deberán seguirse los mismos trámites que para su aprobación",
+    "Para la modificación de las ordenanzas y reglamentos locales deberán seguirse solo el acuerdo del Alcalde",
+    "Para la modificación de las ordenanzas y reglamentos locales deberán seguirse los mismos trámites que para su aprobación"
+   ],
+   2,
+   "Art. 140 · Ley 7/1999 (Aragón): Para la modificación de las ordenanzas y reglamentos locales deberán seguirse los mismos trámites que para su aprobación.",
+   "l7-1999 140",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-007",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 127 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la proposición correcta:",
+   [
+    "En la aprobación y modificación de las ordenanzas fiscales y las urbanísticas se seguirá el procedimiento de las ordenanzas de buen gobierno, con información pública de quince días",
+    "En la aprobación y modificación de las ordenanzas fiscales y las urbanísticas se seguirá el procedimiento general de reglamentos y ordenanzas, sin especialidades por razón de la materia",
+    "En la aprobación y modificación de las ordenanzas fiscales y las urbanísticas se seguirá el procedimiento establecido en la legislación específica que resulte aplicable"
+   ],
+   2,
+   "Art. 127 · Decreto 347/2002 (RBASO): En la aprobación y modificación de las ordenanzas fiscales y las urbanísticas se seguirá el procedimiento establecido en la legislación específica que resulte aplicable.",
+   "rbaso 127",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-038",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 133 de Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, señale la opción correcta:",
+   [
+    "Ambas colecciones normativas deberán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información",
+    "Ambas colecciones normativas no podrán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información",
+    "Ambas colecciones normativas podrán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información"
+   ],
+   2,
+   "Art. 133 · Decreto 347/2002 (RBASO): Ambas colecciones normativas podrán ofrecerse, cuando se disponga de los medios económicos y técnicos necesarios, a través de servidores telemáticos de información. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "rbaso 133",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, señale la proposición correcta:",
+   [
+    "En Zaragoza, tras la información pública, el proyecto se remitirá a la Junta de Portavoces, para que emita informe antes de la aprobación en el Pleno",
+    "En Zaragoza, tras la información pública, el proyecto se remitirá a la Comisión plenaria competente, con todas las reclamaciones y sugerencias recibidas, para la emisión del dictamen",
+    "En Zaragoza, tras la información pública, el proyecto se remitirá directamente al Pleno, para su aprobación en acto único, sin dictamen de comisión"
+   ],
+   1,
+   "Art. 48 · Ley 10/2017 (Zaragoza): En Zaragoza, tras la información pública, el proyecto se remitirá a la Comisión plenaria competente, con todas las reclamaciones y sugerencias recibidas, para la emisión del dictamen.",
+   "l10-2017 48",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-033",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 143.2.b de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "Si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de cinco días",
+    "Si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de quince días",
+    "Si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días"
+   ],
+   2,
+   "Art. 143.2.b · Ley 7/1999 (Aragón): Si un órgano se considera incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días.",
+   "l7-1999 143.2.b",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-116",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4.1.h de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "Corresponden a los municipios, provincias e islas las prelaciones y preferencias de la Hacienda Pública para sus créditos, así como la exención de todos los tributos estatales",
+    "Corresponden a los municipios, provincias e islas las prelaciones y preferencias de la Hacienda Pública para sus créditos, así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes",
+    "Corresponden a los municipios, provincias e islas las prelaciones y preferencias de la Hacienda Pública para sus créditos, así como el privilegio de ejecución sin intervención judicial"
+   ],
+   1,
+   "Art. 4.1.h · Ley 7/1985 (LBRL): Corresponden a los municipios, provincias e islas las prelaciones y preferencias de la Hacienda Pública para sus créditos, así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes.",
+   "lbrl 4.1.h",
+   "La afirmación, su negación y otro dato",
+   "h-concepto",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-076",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la opción correcta:",
+   [
+    "En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces provisional",
+    "En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces definitivo",
+    "En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces permanente"
+   ],
+   0,
+   "Art. 49 · Ley 7/1985 (LBRL): En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces provisional. Las otras dos frases cambian «provisional» por «definitivo» y «permanente».",
+   "lbrl 49",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia o comunidad autónoma uniprovincial",
+    "Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el recurso de alzada ante el órgano superior, a partir de la publicación en el boletín oficial",
+    "Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el recurso de reposición ante el Pleno, a partir de la publicación en el boletín oficial"
+   ],
+   0,
+   "Art. 19.1 · RDLeg 2/2004 (TRLRHL): Las ordenanzas fiscales regirán durante el plazo determinado o indefinido previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo, a partir de su publicación en el boletín oficial de la provincia o comunidad autónoma uniprovincial.",
+   "trlrhl 19.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-050",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.2 de Ley 7/1999, de 9 de abril, de Administración Local de Aragón, señale la proposición correcta:",
+   [
+    "La entrada en vigor de las ordenanzas y reglamentos no se produce transcurridos quince días desde el siguiente al de la publicación de su texto íntegro",
+    "La entrada en vigor de las ordenanzas y reglamentos se produce transcurridos quince días desde el siguiente al de la publicación de su texto íntegro",
+    "La entrada en vigor de las ordenanzas y reglamentos se produce transcurridos quince días desde el de la publicación del anuncio de información pública"
+   ],
+   1,
+   "Art. 141.2 · Ley 7/1999 (Aragón): La entrada en vigor de las ordenanzas y reglamentos se produce transcurridos quince días desde el siguiente al de la publicación de su texto íntegro.",
+   "l7-1999 141.2",
+   "La afirmación, su negación y otro dato",
+   "h-vigencia",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-141",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "La aprobación inicial de una ordenanza por el Pleno no puede delegarse en la Junta de Gobierno ni en el Pleno",
+    "La aprobación inicial de una ordenanza por el Pleno no puede delegarse en la Junta de Gobierno ni en el Alcalde",
+    "La aprobación inicial de una ordenanza por el Pleno no puede delegarse en la Junta de Gobierno ni en la Junta de Gobierno Local"
+   ],
+   1,
+   "La aprobación inicial de una ordenanza por el Pleno no puede delegarse en la Junta de Gobierno ni en el Alcalde. Las otras dos frases cambian «el Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "Art. 22 LBRL",
+   "Una sola palabra cambia el sentido",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t16-070",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "Los acuerdos de aprobación de estas ordenanzas fiscales podrán adoptarse simultáneamente a los de imposición de los respectivos tributos",
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario",
+    "Los acuerdos de aprobación de ordenanzas fiscales no deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas"
+   ],
+   1,
+   "La correcta es «En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario». Las otras dos son falsas: lo correcto es «Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos» (la otra frase cambia «deberán») y «Los acuerdos d",
+   "trlrhl 17",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49 de Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, señale la proposición correcta:",
+   [
+    "En el régimen general, la información pública de una ordenanza dura como mínimo treinta días",
+    "En el régimen general, la información pública de una ordenanza dura como mínimo quince días",
+    "En el régimen general, la información pública de una ordenanza dura como mínimo dos meses"
+   ],
+   0,
+   "Art. 49 · Ley 7/1985 (LBRL): En el régimen general, la información pública de una ordenanza dura como mínimo treinta días.",
+   "lbrl 49",
+   "La afirmación, su negación y otro dato",
+   "h-aprobacion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t16-072",
+    "tc": 1
    }
   ]
  ]

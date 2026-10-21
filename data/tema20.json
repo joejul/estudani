@@ -2254,7 +2254,8 @@
    "h-suelo",
    [
     "municipios"
-   ]
+   ],
+   {}
   ],
   [
    "Corresponde al plan general la clasificación de todo el suelo del término municipal en:",
@@ -2270,7 +2271,8 @@
    "h-suelo",
    [
     "suelo urbano"
-   ]
+   ],
+   {}
   ],
   [
    "Tendrán la condición de suelo urbano no consolidado los terrenos de suelo urbano que:",
@@ -2286,7 +2288,8 @@
    "h-suelo",
    [
     "actuaciones urbanísticas integradas"
-   ]
+   ],
+   {}
   ],
   [
    "El suelo urbano que el plan general no defina como no consolidado tendrá la consideración de:",
@@ -2302,7 +2305,8 @@
    "h-suelo",
    [
     "consolidado"
-   ]
+   ],
+   {}
   ],
   [
    "El suelo no urbanizable genérico es:",
@@ -2318,7 +2322,8 @@
    "h-suelo",
    [
     "residual"
-   ]
+   ],
+   {}
   ],
   [
    "Tendrán la consideración de suelo no urbanizable especial, en todo caso, los terrenos:",
@@ -2334,7 +2339,8 @@
    "h-suelo",
    [
     "preservados"
-   ]
+   ],
+   {}
   ],
   [
    "Tienen la consideración de solares las superficies de suelo urbano:",
@@ -2350,7 +2356,8 @@
    "h-suelo",
    [
     "uso inmediato"
-   ]
+   ],
+   {}
   ],
   [
    "El plan general de ordenación urbana:",
@@ -2366,7 +2373,8 @@
    "h-plan",
    [
     "Clasifica el suelo"
-   ]
+   ],
+   {}
   ],
   [
    "La aprobación definitiva del plan general corresponde, con carácter general, a:",
@@ -2382,7 +2390,8 @@
    "h-plan",
    [
     "Consejo Provincial de Urbanismo"
-   ]
+   ],
+   {}
   ],
   [
    "Los planes parciales tienen por objeto establecer, en desarrollo del plan general:",
@@ -2398,7 +2407,8 @@
    "h-plan",
    [
     "ordenación pormenorizada"
-   ]
+   ],
+   {}
   ],
   [
    "Los estudios de detalle podrán formularse cuando fuere preciso:",
@@ -2414,7 +2424,8 @@
    "h-plan",
    [
     "completar o"
-   ]
+   ],
+   {}
   ],
   [
    "Los planes especiales de reforma interior solo podrán formularse en desarrollo del plan general:",
@@ -2430,7 +2441,8 @@
    "h-plan",
    [
     "suelo urbano no consolidado"
-   ]
+   ],
+   {}
   ],
   [
    "Se entiende por reparcelación:",
@@ -2446,7 +2458,8 @@
    "h-gestion",
    [
     "agrupación de fincas"
-   ]
+   ],
+   {}
   ],
   [
    "En la gestión directa por cooperación:",
@@ -2462,7 +2475,8 @@
    "h-gestion",
    [
     "Administración ejecuta las obras"
-   ]
+   ],
+   {}
   ],
   [
    "En la gestión indirecta por compensación, los propietarios se constituyen en:",
@@ -2478,7 +2492,8 @@
    "h-gestion",
    [
     "junta de compensación"
-   ]
+   ],
+   {}
   ],
   [
    "Los actos de transformación, construcción, edificación y uso del suelo y el subsuelo requerirán para su lícito ejercicio:",
@@ -2514,7 +2529,8 @@
    "h-disciplina",
    [
     "día de su presentación"
-   ]
+   ],
+   {}
   ],
   [
    "En los supuestos de sujeción a licencia urbanística, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender:",
@@ -2530,7 +2546,8 @@
    "h-disciplina",
    [
     "desestimada"
-   ]
+   ],
+   {}
   ],
   [
    "Cuando una construcción amenace con derruirse de modo inminente, con peligro para la seguridad pública, la autoridad habilitada para disponer todas las medidas necesarias es:",
@@ -2546,7 +2563,8 @@
    "h-disciplina",
    [
     "Alcalde"
-   ]
+   ],
+   {}
   ],
   [
    "El plazo de prescripción para las infracciones urbanísticas leves, graves y muy graves es, respectivamente, de:",
@@ -2562,7 +2580,8 @@
    "h-disciplina",
    [
     "diez años"
-   ]
+   ],
+   {}
   ],
   [
    "Corresponde sancionar al Alcalde por las infracciones leves y al Ayuntamiento Pleno por:",
@@ -2578,7 +2597,8 @@
    "h-disciplina",
    [
     "infracciones graves y muy graves"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 8.1 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, con carácter general, la actividad urbanística pública corresponde:",
@@ -2681,7 +2701,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 4",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2750,7 +2771,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2838,7 +2860,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2873,7 +2896,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2943,7 +2967,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2961,7 +2986,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3030,7 +3056,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3048,7 +3075,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3101,7 +3129,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 47",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3136,7 +3165,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3205,7 +3235,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3432,7 +3463,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3450,7 +3482,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3693,7 +3726,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3763,7 +3797,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3970,7 +4005,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4090,7 +4126,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4247,7 +4284,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4301,7 +4339,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4336,7 +4375,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4354,7 +4394,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4372,7 +4413,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4577,7 +4619,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4595,7 +4638,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4664,7 +4708,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 8"
+    "z": "Prueba oficial, pregunta 8",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4835,7 +4881,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4853,7 +4900,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4941,7 +4989,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4959,7 +5008,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5096,7 +5146,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5148,7 +5199,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 44"
+    "z": "Prueba oficial, pregunta 44",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5407,7 +5460,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5480,7 +5534,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5745,7 +5800,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5798,7 +5854,2396 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31 del Decreto Legislativo 1/2014, de 8 de julio, texto refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El derecho de propiedad comprende, cualquiera que sea la situación de los terrenos, el deber de conservarlos en las condiciones legales para servir de soporte a usos compatibles con la ordenación territorial y urbanística",
+    "El derecho de propiedad comprende el deber de realizar los trabajos de mejora y rehabilitación hasta donde alcance el deber legal de conservación",
+    "El deber de conservar los terrenos en las condiciones legales solo existe cuando estén edificados"
+   ],
+   2,
+   "Art. 31.1 TRLUA: los deberes de conservación se aplican «cualquiera que sea la situación en que se encuentren» los terrenos, no solo si están edificados.",
+   "urb 31",
+   "Proposición negativa",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 132.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las actuaciones aisladas pueden ejecutarse por los propietarios de suelo urbano consolidado sobre sus propias parcelas o solares sin más requisito que la obtención de la licencia correspondiente, con previa o simultánea realización de las obras de urbanización pendientes",
+    "Las actuaciones aisladas pueden ejecutarse por los propietarios de suelo urbano consolidado sobre sus propias parcelas o solares previa constitución de una junta de compensación y aprobación de los estatutos y bases de actuación",
+    "Las actuaciones aisladas pueden ejecutarse por los propietarios de suelo urbano consolidado sobre sus propias parcelas o solares previa delimitación de una unidad de ejecución completa y aprobación del instrumento de gestión"
+   ],
+   0,
+   "Art. 132.1 · Urbanismo de Aragón: Las actuaciones aisladas pueden ejecutarse por los propietarios de suelo urbano consolidado sobre sus propias parcelas o solares sin más requisito que la obtención de la licencia correspondiente, con previa o simultánea realización de las obras de urbanización pendientes.",
+   "urb 132.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-107",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 219 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El incumplimiento del deber de edificar habilitará al municipio para decretar, previa audiencia del obligado la expropiación por incumplimiento de la función social de la propiedad o proceder a la ejecución del planeamiento mediante sustitución del propietario",
+    "El incumplimiento del deber de edificar habilitará al municipio para decretar, previa audiencia del obligado la demolición de la finca y la imposición de una multa coercitiva al propietario incumplidor",
+    "El incumplimiento del deber de edificar habilitará al municipio para decretar, previa audiencia del obligado la suspensión del otorgamiento de licencias en todo el municipio mientras dure el procedimiento"
+   ],
+   0,
+   "Art. 219 · Urbanismo de Aragón: El incumplimiento del deber de edificar habilitará al municipio para decretar, previa audiencia del obligado la expropiación por incumplimiento de la función social de la propiedad o proceder a la ejecución del planeamiento mediante sustitución del propietario.",
+   "urb 219",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-139",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 231.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Cuando un mismo acto requiera licencia urbanística y autorización municipal relativa a la adecuación de las obras al ejercicio de una actividad se resolverán por separado en cada caso, sin formar piezas separadas para cada intervención",
+    "Cuando un mismo acto requiera licencia urbanística y autorización municipal relativa a la adecuación de las obras al ejercicio de una actividad se tramitará solo la licencia de actividad, quedando absorbida la licencia urbanística en ésta",
+    "Cuando un mismo acto requiera licencia urbanística y autorización municipal relativa a la adecuación de las obras al ejercicio de una actividad serán objeto de resolución única, sin perjuicio de la formación de piezas separadas para cada intervención administrativa"
+   ],
+   2,
+   "Art. 231.1 · Urbanismo de Aragón: Cuando un mismo acto requiera licencia urbanística y autorización municipal relativa a la adecuación de las obras al ejercicio de una actividad serán objeto de resolución única, sin perjuicio de la formación de piezas separadas para cada intervención administrativa.",
+   "urb 231.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-148",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La previsión de edificabilidad por la ordenación territorial y urbanística por sí misma no la integra en el contenido del derecho de propiedad del suelo; su patrimonialización se produce únicamente con su realización efectiva y condicionada al cumplimiento de deberes y cargas",
+    "La previsión de edificabilidad por la ordenación territorial y urbanística se patrimonializa con la aprobación del planeamiento, con independencia del cumplimiento de deberes y cargas",
+    "La previsión de edificabilidad por la ordenación territorial y urbanística se integra automáticamente en el derecho de propiedad del suelo desde la aprobación del plan general"
+   ],
+   0,
+   "Art. 10.2 · Urbanismo de Aragón: La previsión de edificabilidad por la ordenación territorial y urbanística por sí misma no la integra en el contenido del derecho de propiedad del suelo; su patrimonialización se produce únicamente con su realización efectiva y condicionada al cumplimiento de deberes y cargas.",
+   "urb 10.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-026",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.3 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Tendrán la consideración de suelo urbanizable delimitado los sectores con proyecto de urbanización aprobado y con unidad de ejecución delimitada",
+    "Tendrán la consideración de suelo urbanizable delimitado todo el suelo urbanizable previsto en el plan general, sin distinguir entre sectores prioritarios y resto",
+    "Tendrán la consideración de suelo urbanizable delimitado los sectores de urbanización prioritaria previstos por el plan general; el resto del suelo urbanizable tendrá la consideración de no delimitado"
+   ],
+   2,
+   "Art. 15.3 · Urbanismo de Aragón: Tendrán la consideración de suelo urbanizable delimitado los sectores de urbanización prioritaria previstos por el plan general; el resto del suelo urbanizable tendrá la consideración de no delimitado.",
+   "urb 15.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-035",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las Administraciones públicas orientarán su actuación urbanística promoviendo, entre otros derechos de los ciudadanos el derecho a la propiedad privada ilimitada, que prevalece sobre las políticas públicas de vivienda",
+    "Las Administraciones públicas orientarán su actuación urbanística promoviendo, entre otros derechos de los ciudadanos el derecho a edificar en cualquier clase de suelo, siempre que se disponga de licencia municipal",
+    "Las Administraciones públicas orientarán su actuación urbanística promoviendo, entre otros derechos de los ciudadanos el desarrollo del derecho constitucional a una vivienda digna y adecuada, mediante programación pública de vivienda y viviendas protegidas"
+   ],
+   2,
+   "Art. 19 · Urbanismo de Aragón: Las Administraciones públicas orientarán su actuación urbanística promoviendo, entre otros derechos de los ciudadanos el desarrollo del derecho constitucional a una vivienda digna y adecuada, mediante programación pública de vivienda y viviendas protegidas.",
+   "urb 19",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-039",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Son deberes de los ciudadanos en relación con la actividad urbanística, entre otros colaborar en la actividad urbanística solo si son propietarios de terrenos incluidos en una actuación",
+    "Son deberes de los ciudadanos en relación con la actividad urbanística, entre otros preservar y contribuir a mejorar el medio ambiente natural y urbano, preservar el patrimonio cultural aragonés y hacer uso adecuado de los bienes de dominio público y mobiliario urbano",
+    "Son deberes de los ciudadanos en relación con la actividad urbanística, entre otros abonar la totalidad de los costes de urbanización de su ciudad, con independencia de su propiedad"
+   ],
+   1,
+   "Art. 20 · Urbanismo de Aragón: Son deberes de los ciudadanos en relación con la actividad urbanística, entre otros preservar y contribuir a mejorar el medio ambiente natural y urbano, preservar el patrimonio cultural aragonés y hacer uso adecuado de los bienes de dominio público y mobiliario urbano.",
+   "urb 20",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-040",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En suelo urbanizable delimitado, en tanto no se haya aprobado la correspondiente ordenación pormenorizada que permita la urbanización no se podrán edificar ni levantar cualesquiera otras instalaciones",
+    "En suelo urbanizable delimitado, en tanto no se haya aprobado la correspondiente ordenación pormenorizada que permita la urbanización se podrá edificar con licencia del Alcalde, aunque no se haya aprobado la ordenación pormenorizada",
+    "En suelo urbanizable delimitado, en tanto no se haya aprobado la correspondiente ordenación pormenorizada que permita la urbanización se podrá edificar libremente, siempre que el propietario asuma el coste de la urbanización"
+   ],
+   0,
+   "Art. 32.1 · Urbanismo de Aragón: En suelo urbanizable delimitado, en tanto no se haya aprobado la correspondiente ordenación pormenorizada que permita la urbanización no se podrán edificar ni levantar cualesquiera otras instalaciones.",
+   "urb 32.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-045",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En los planes especiales en desarrollo de directrices territoriales, la aprobación definitiva corresponderá al Ayuntamiento Pleno",
+    "En los planes especiales en desarrollo de directrices territoriales, la aprobación definitiva corresponderá al Gobierno de Aragón",
+    "En los planes especiales en desarrollo de directrices territoriales, la aprobación definitiva corresponderá al Consejo Provincial de Urbanismo"
+   ],
+   0,
+   "Art. 63.2 · Urbanismo de Aragón: En los planes especiales en desarrollo de directrices territoriales, la aprobación definitiva corresponderá al Ayuntamiento Pleno.",
+   "urb 63.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-073",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La declaración de un conjunto de interés cultural determinará la obligación del municipio de redactar uno o varios planes especiales para la protección y, en su caso, saneamiento y renovación del área afectada",
+    "La declaración de un conjunto de interés cultural determinará la aprobación automática de un plan parcial que ordene el entorno del conjunto",
+    "La declaración de un conjunto de interés cultural determinará la suspensión de licencias en toda la ciudad hasta que se apruebe un plan especial"
+   ],
+   0,
+   "Art. 66.1 · Urbanismo de Aragón: La declaración de un conjunto de interés cultural determinará la obligación del municipio de redactar uno o varios planes especiales para la protección y, en su caso, saneamiento y renovación del área afectada.",
+   "urb 66.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-076",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 70 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La delimitación del suelo urbano se configura como el instrumento urbanístico de los municipios que carecen de plan general de ordenación urbana, sin tener la consideración de instrumento de planeamiento urbanístico",
+    "La delimitación del suelo urbano se configura como el instrumento de desarrollo del plan general en suelo urbano no consolidado",
+    "La delimitación del suelo urbano se configura como un tipo de plan especial que se tramita por el procedimiento de los planes parciales"
+   ],
+   0,
+   "Art. 70 · Urbanismo de Aragón: La delimitación del suelo urbano se configura como el instrumento urbanístico de los municipios que carecen de plan general de ordenación urbana, sin tener la consideración de instrumento de planeamiento urbanístico.",
+   "urb 70",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-081",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 76.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El Consejo Provincial de Urbanismo podrá denegar la modificación de la delimitación del suelo urbano, además de por motivos de legalidad, por la falta de pago de las tasas urbanísticas o los cambios de gobierno en el municipio",
+    "El Consejo Provincial de Urbanismo podrá denegar la modificación de la delimitación del suelo urbano, además de por motivos de legalidad, por la falta de acuerdo de los propietarios afectados o la oposición de los municipios colindantes",
+    "El Consejo Provincial de Urbanismo podrá denegar la modificación de la delimitación del suelo urbano, además de por motivos de legalidad, por exceder del contenido de la delimitación, responder a una evolución de servicios no adecuada al modelo urbanístico o valorar la necesidad de recogerlo en un plan general"
+   ],
+   2,
+   "Art. 76.2 · Urbanismo de Aragón: El Consejo Provincial de Urbanismo podrá denegar la modificación de la delimitación del suelo urbano, además de por motivos de legalidad, por exceder del contenido de la delimitación, responder a una evolución de servicios no adecuada al modelo urbanístico o valorar la necesidad de recogerlo en un plan general.",
+   "urb 76.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-082",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Serán nulas de pleno derecho las ordenanzas urbanísticas aprobadas por mayoría simple por el Pleno de la entidad local",
+    "Serán nulas de pleno derecho las reservas de dispensación contenidas en los planes, normas y ordenanzas urbanísticos, así como las que se concedieren con independencia de ellos",
+    "Serán nulas de pleno derecho las licencias de obras menores, si se otorgan sin el informe técnico municipal correspondiente"
+   ],
+   1,
+   "Art. 79.2 · Urbanismo de Aragón: Serán nulas de pleno derecho las reservas de dispensación contenidas en los planes, normas y ordenanzas urbanísticos, así como las que se concedieren con independencia de ellos.",
+   "urb 79.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-086",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las modificaciones aisladas de las determinaciones de los planes deberán contener la justificación de su necesidad o conveniencia y el estudio de sus efectos sobre el territorio, y la definición del nuevo contenido con un grado de precisión similar al modificado",
+    "Las modificaciones aisladas de las determinaciones de los planes no deberán contener la justificación de su necesidad o conveniencia y el estudio de sus efectos sobre el territorio, y la definición del nuevo contenido con un grado de precisión similar al modificado",
+    "Las modificaciones aisladas de las determinaciones de los planes deberán contener solo un informe técnico que justifique el nuevo contenido del plan que se modifica"
+   ],
+   0,
+   "Art. 85.1 · Urbanismo de Aragón: Las modificaciones aisladas de las determinaciones de los planes deberán contener la justificación de su necesidad o conveniencia y el estudio de sus efectos sobre el territorio, y la definición del nuevo contenido con un grado de precisión similar al modificado.",
+   "urb 85.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-093",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 120 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Para la gestión de la actividad de ejecución, la Administración de la Comunidad Autónoma y los municipios no podrán utilizar todas las formas admitidas por la legislación de régimen jurídico, contratación y régimen local: entes de derecho público, organismos autónomos, consorcios y sociedades urbanísticas",
+    "Para la gestión de la actividad de ejecución, la Administración de la Comunidad Autónoma y los municipios podrán utilizar todas las formas admitidas por la legislación de régimen jurídico, contratación y régimen local: entes de derecho público, organismos autónomos, consorcios y sociedades urbanísticas",
+    "Para la gestión de la actividad de ejecución, la Administración de la Comunidad Autónoma y los municipios podrán utilizar solo sociedades mercantiles privadas, quedando excluidos los organismos autónomos y consorcios"
+   ],
+   1,
+   "Art. 120 · Urbanismo de Aragón: Para la gestión de la actividad de ejecución, la Administración de la Comunidad Autónoma y los municipios podrán utilizar todas las formas admitidas por la legislación de régimen jurídico, contratación y régimen local: entes de derecho público, organismos autónomos, consorcios y sociedades urbanísticas.",
+   "urb 120",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-097",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Se considerará uso característico el de menor edificabilidad de los existentes en la unidad de ejecución o sector considerados",
+    "Se considerará uso característico el de mayor edificabilidad de los existentes en la unidad de ejecución o sector considerados",
+    "Se considerará uso característico el de mayor valor catastral de los existentes en la unidad de ejecución o sector considerados"
+   ],
+   1,
+   "Art. 126.2 · Urbanismo de Aragón: Se considerará uso característico el de mayor edificabilidad de los existentes en la unidad de ejecución o sector considerados.",
+   "urb 126.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-105",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 131.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las actuaciones aisladas no podrán tener, entre otras, la finalidad de completar la urbanización de las parcelas de suelo urbano consolidado para que alcancen la condición de solar, ejecutar obras aisladas y de remodelación de la urbanización y obtener terrenos para urbanización",
+    "Las actuaciones aisladas podrán tener, entre otras, la finalidad de ejecutar la urbanización de un sector entero mediante unidades de ejecución completas",
+    "Las actuaciones aisladas podrán tener, entre otras, la finalidad de completar la urbanización de las parcelas de suelo urbano consolidado para que alcancen la condición de solar, ejecutar obras aisladas y de remodelación de la urbanización y obtener terrenos para urbanización"
+   ],
+   2,
+   "Art. 131.1 · Urbanismo de Aragón: Las actuaciones aisladas podrán tener, entre otras, la finalidad de completar la urbanización de las parcelas de suelo urbano consolidado para que alcancen la condición de solar, ejecutar obras aisladas y de remodelación de la urbanización y obtener terrenos para urbanización.",
+   "urb 131.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-106",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 134.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las actuaciones integradas no podrán tener, entre otras, la finalidad de la ejecución de obras de urbanización, actuaciones de rehabilitación urbana e intervención en suelos consolidados total o parcialmente por la edificación",
+    "Las actuaciones integradas podrán tener, entre otras, la finalidad de la ejecución de obras de urbanización, actuaciones de rehabilitación urbana e intervención en suelos consolidados total o parcialmente por la edificación",
+    "Las actuaciones integradas podrán tener, entre otras, la finalidad de completar la urbanización de parcelas sueltas de suelo urbano consolidado para que alcancen la condición de solar"
+   ],
+   1,
+   "Art. 134.1 · Urbanismo de Aragón: Las actuaciones integradas podrán tener, entre otras, la finalidad de la ejecución de obras de urbanización, actuaciones de rehabilitación urbana e intervención en suelos consolidados total o parcialmente por la edificación.",
+   "urb 134.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-110",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 141.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Será voluntaria la propuesta de reparcelación, entre otros supuestos la impuesta por el municipio",
+    "Será voluntaria la propuesta de reparcelación, entre otros supuestos la presentada por el Consejo Provincial de Urbanismo",
+    "Será voluntaria la propuesta de reparcelación, entre otros supuestos la presentada por la junta de compensación"
+   ],
+   2,
+   "Art. 141.2 · Urbanismo de Aragón: Será voluntaria la propuesta de reparcelación, entre otros supuestos la presentada por la junta de compensación.",
+   "urb 141.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-116",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 149.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La gestión directa por expropiación se aplicará por parcelas individuales, comprendiendo solo los bienes y derechos que decida el Ayuntamiento",
+    "La gestión directa por expropiación se aplicará por unidades de ejecución completas, comprendiendo todos los bienes y derechos incluidos en las mismas",
+    "La gestión directa por expropiación se aplicará solo en suelo no urbanizable, comprendiendo los bienes y derechos de los propietarios que no se adhieran"
+   ],
+   1,
+   "Art. 149.1 · Urbanismo de Aragón: La gestión directa por expropiación se aplicará por unidades de ejecución completas, comprendiendo todos los bienes y derechos incluidos en las mismas.",
+   "urb 149.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-118",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 154.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Presentada una iniciativa en el Ayuntamiento y admitida a trámite por contener la documentación requerida, se procederá a la aprobación de los estatutos y bases de actuación conforme al procedimiento establecido para los estudios de detalle, con las particularidades del artículo",
+    "Presentada una iniciativa en el Ayuntamiento y admitida a trámite por contener la documentación requerida, se procederá a la aprobación de los estatutos y bases de actuación conforme al procedimiento establecido para los planes parciales, sin particularidad alguna",
+    "Presentada una iniciativa en el Ayuntamiento y admitida a trámite por contener la documentación requerida, se procederá a la aprobación de los estatutos y bases de actuación conforme al procedimiento establecido para los proyectos de urbanización, por vía de urgencia"
+   ],
+   0,
+   "Art. 154.1 · Urbanismo de Aragón: Presentada una iniciativa en el Ayuntamiento y admitida a trámite por contener la documentación requerida, se procederá a la aprobación de los estatutos y bases de actuación conforme al procedimiento establecido para los estudios de detalle, con las particularidades del artículo.",
+   "urb 154.1",
+   "La afirmación, su negación y otro dato",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-202",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 159 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En la gestión indirecta por urbanizador el Ayuntamiento ejecuta directamente las obras, repercutiendo su coste a los propietarios afectados",
+    "En la gestión indirecta por urbanizador los propietarios constituyen una junta que ejecuta la urbanización a su costa",
+    "En la gestión indirecta por urbanizador el urbanizador gestiona la ejecución del planeamiento, obteniendo su retribución de los propietarios afectados conforme al programa de urbanización"
+   ],
+   2,
+   "Art. 159 · Urbanismo de Aragón: En la gestión indirecta por urbanizador el urbanizador gestiona la ejecución del planeamiento, obteniendo su retribución de los propietarios afectados conforme al programa de urbanización.",
+   "urb 159",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-126",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 166 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "El urbanizador puede ejercer, entre otras prerrogativas y facultades redactar y someter a aprobación los instrumentos urbanísticos necesarios, someter proyectos de urbanización y de reparcelación voluntaria y oponerse a la parcelación y edificación en el ámbito hasta el cumplimiento del programa",
+    "El urbanizador puede ejercer, entre otras prerrogativas y facultades redactar y someter a aprobación los instrumentos urbanísticos necesarios, someter proyectos de urbanización y de reparcelación automática y oponerse a la parcelación y edificación en el ámbito hasta el cumplimiento del programa",
+    "El urbanizador puede ejercer, entre otras prerrogativas y facultades redactar y someter a aprobación los instrumentos urbanísticos necesarios, someter proyectos de urbanización y de reparcelación forzosa y oponerse a la parcelación y edificación en el ámbito hasta el cumplimiento del programa"
+   ],
+   2,
+   "Art. 166 · Urbanismo de Aragón: El urbanizador puede ejercer, entre otras prerrogativas y facultades redactar y someter a aprobación los instrumentos urbanísticos necesarios, someter proyectos de urbanización y de reparcelación forzosa y oponerse a la parcelación y edificación en el ámbito hasta el cumplimiento del programa. Las otras dos frases cambian «forzosa» por «voluntaria» y «automática».",
+   "urb 166",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-132",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 173.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Podrán redactar y promover programas de urbanización solo los municipios y los organismos o entidades de ellos dependientes, para su planeamiento",
+    "Podrán redactar y promover programas de urbanización solo los propietarios de los terrenos afectados, constituidos en agrupación de interés urbanístico",
+    "Podrán redactar y promover programas de urbanización los municipios y sus entidades, las restantes Administraciones públicas para el ejercicio de sus competencias y los particulares, sean o no propietarios de los terrenos"
+   ],
+   2,
+   "Art. 173.1 · Urbanismo de Aragón: Podrán redactar y promover programas de urbanización los municipios y sus entidades, las restantes Administraciones públicas para el ejercicio de sus competencias y los particulares, sean o no propietarios de los terrenos.",
+   "urb 173.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-134",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 174.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Los municipios, mediante Ordenanza, aprobarán los estatutos de las juntas de compensación y los modelos de convenios de gestión urbanística",
+    "Los municipios, mediante Ordenanza, aprobarán bases generales para la adjudicación de programas de urbanización, fijando el valor ponderado de los criterios que establezcan",
+    "Los municipios, mediante Ordenanza, aprobarán el plan general, que establece la clasificación del suelo y el modelo de evolución urbana del municipio"
+   ],
+   1,
+   "Art. 174.1 · Urbanismo de Aragón: Los municipios, mediante Ordenanza, aprobarán bases generales para la adjudicación de programas de urbanización, fijando el valor ponderado de los criterios que establezcan.",
+   "urb 174.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-135",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 218 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La edificación de parcelas y solares requerirá el establecimiento de la ordenación pormenorizada, el cumplimiento de los deberes legales de la propiedad y la previa ejecución de las obras de urbanización aún pendientes o el cumplimiento de los requisitos para simultanearlas con las de edificación",
+    "La edificación de parcelas y solares no requerirá el establecimiento de la ordenación pormenorizada, el cumplimiento de los deberes legales de la propiedad y la previa ejecución de las obras de urbanización aún pendientes o el cumplimiento de los requisitos para simultanearlas con las de edificación",
+    "La edificación de parcelas y solares requerirá el establecimiento de la ordenación pormenorizada, el cumplimiento de los deberes legales de la propiedad y la previa aprobación del proyecto de reparcelación"
+   ],
+   0,
+   "Art. 218 · Urbanismo de Aragón: La edificación de parcelas y solares requerirá el establecimiento de la ordenación pormenorizada, el cumplimiento de los deberes legales de la propiedad y la previa ejecución de las obras de urbanización aún pendientes o el cumplimiento de los requisitos para simultanearlas con las de edificación.",
+   "urb 218",
+   "La afirmación, su negación y otro dato",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-200",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 230.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El municipio podrá inspeccionar la ejecución de los actos de transformación, construcción, edificación y uso del suelo en cualquier momento, para comprobar que se realizan conforme a la licencia o declaración responsable y a la legalidad y planeamiento",
+    "El municipio no podrá inspeccionar la ejecución de los actos de transformación, construcción, edificación y uso del suelo en cualquier momento, para comprobar que se realizan conforme a la licencia o declaración responsable y a la legalidad y planeamiento",
+    "El municipio podrá inspeccionar la ejecución de los actos de transformación, construcción, edificación y uso del suelo solo a petición del interesado, para comprobar que las obras se ajustan a lo declarado"
+   ],
+   0,
+   "Art. 230.1 · Urbanismo de Aragón: El municipio podrá inspeccionar la ejecución de los actos de transformación, construcción, edificación y uso del suelo en cualquier momento, para comprobar que se realizan conforme a la licencia o declaración responsable y a la legalidad y planeamiento.",
+   "urb 230.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-147",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 233.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Cuando una licencia de edificación obtenida resulte incompatible con un nuevo plan, si la edificación ya está iniciada el municipio no podrá revocar la licencia o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación",
+    "Cuando una licencia de edificación obtenida resulte incompatible con un nuevo plan, si la edificación ya está iniciada el municipio debe permitir en todo caso la terminación de las obras, sin posibilidad de revocar la licencia",
+    "Cuando una licencia de edificación obtenida resulte incompatible con un nuevo plan, si la edificación ya está iniciada el municipio podrá revocar la licencia o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación"
+   ],
+   2,
+   "Art. 233.1 · Urbanismo de Aragón: Cuando una licencia de edificación obtenida resulte incompatible con un nuevo plan, si la edificación ya está iniciada el municipio podrá revocar la licencia o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación.",
+   "urb 233.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-150",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 239 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En los supuestos de sujeción a licencia urbanística, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender estimada su petición",
+    "En los supuestos de sujeción a licencia urbanística, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender caducado el procedimiento",
+    "En los supuestos de sujeción a licencia urbanística, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender desestimada su petición por silencio administrativo"
+   ],
+   2,
+   "Art. 239 · Urbanismo de Aragón: En los supuestos de sujeción a licencia urbanística, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender desestimada su petición por silencio administrativo.",
+   "urb 239",
+   "La afirmación, su negación y otro dato",
+   "h-disciplina",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 241 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Se considera parcelación urbanística toda división de terrenos con finalidad exclusivamente vinculada a la explotación agraria de la tierra",
+    "Se considera parcelación urbanística toda división o segregación simultánea o sucesiva de terrenos en dos o más lotes, cuando tenga por finalidad permitir o facilitar actos de edificación o uso del suelo sometidos a licencia urbanística",
+    "Se considera parcelación urbanística la normalización de fincas que define nuevos linderos conforme al planeamiento urbanístico"
+   ],
+   1,
+   "Art. 241 · Urbanismo de Aragón: Se considera parcelación urbanística toda división o segregación simultánea o sucesiva de terrenos en dos o más lotes, cuando tenga por finalidad permitir o facilitar actos de edificación o uso del suelo sometidos a licencia urbanística.",
+   "urb 241",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-154",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 242.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En defecto de caracterización más estricta en el planeamiento, se considera núcleo de población cualquier edificación aislada de uso residencial, con independencia de su relación con otras",
+    "En defecto de caracterización más estricta en el planeamiento, se considera núcleo de población un conjunto de más de diez parcelas con acceso común a una vía de uso público",
+    "En defecto de caracterización más estricta en el planeamiento, se considera núcleo de población la agrupación de edificaciones residenciales susceptibles de necesitar servicios urbanísticos y dotaciones comunes"
+   ],
+   2,
+   "Art. 242.2 · Urbanismo de Aragón: En defecto de caracterización más estricta en el planeamiento, se considera núcleo de población la agrupación de edificaciones residenciales susceptibles de necesitar servicios urbanísticos y dotaciones comunes.",
+   "urb 242.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-156",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "Los municipios, las comarcas y la Comunidad Autónoma ejercerán la actividad de inspección dentro de su ámbito de competencias y de forma coordinada, con el fin de comprobar e investigar el cumplimiento del ordenamiento urbanístico",
+    "Las indemnizaciones que satisfaga el municipio no serán repercutibles al propietario hasta el límite del deber normal de conservación",
+    "Las actas y diligencias extendidas por los inspectores urbanísticos no tienen la naturaleza de documentos públicos y constituyen prueba de los hechos que motiven su formalización, salvo que se acredite lo contrario"
+   ],
+   0,
+   "La correcta es «Los municipios, las comarcas y la Comunidad Autónoma ejercerán la actividad de inspección dentro de su ámbito de competencias y de forma coordinada, con el fin de comprobar e investigar el cumplimiento del ordenamiento urbanístico». Las otras dos son falsas: lo correcto es «Las indemnizaciones que satisfaga el municipio serán repercutibles al propietario hasta el límite del deber normal de conservació",
+   "urb 264",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 273.3 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las licencias u órdenes de ejecución otorgadas con infracción de la zonificación o uso urbanístico de los terrenos destinados a sistemas generales, zonas verdes o espacios libres previstos en los planes no serán nulas de pleno derecho",
+    "Las licencias u órdenes de ejecución otorgadas con infracción de la zonificación o uso urbanístico de los terrenos destinados a sistemas generales, zonas verdes o espacios libres previstos en los planes serán anulables",
+    "Las licencias u órdenes de ejecución otorgadas con infracción de la zonificación o uso urbanístico de los terrenos destinados a sistemas generales, zonas verdes o espacios libres previstos en los planes serán nulas de pleno derecho"
+   ],
+   2,
+   "Art. 273.3 · Urbanismo de Aragón: Las licencias u órdenes de ejecución otorgadas con infracción de la zonificación o uso urbanístico de los terrenos destinados a sistemas generales, zonas verdes o espacios libres previstos en los planes serán nulas de pleno derecho.",
+   "urb 273.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-173",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 274.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las órdenes de suspensión, paralización o demolición de obras, usos o edificaciones no podrán ordenar la suspensión de suministros de energía, agua, gas y telefonía, notificándolo a las empresas suministradoras",
+    "Las órdenes de suspensión, paralización o demolición de obras, usos o edificaciones podrán ordenar la suspensión de suministros de energía, agua, gas y telefonía, notificándolo a las empresas suministradoras",
+    "Las órdenes de suspensión, paralización o demolición de obras, usos o edificaciones podrán ordenar solo la paralización de las obras, sin afectar a los suministros de las empresas suministradoras"
+   ],
+   1,
+   "Art. 274.1 · Urbanismo de Aragón: Las órdenes de suspensión, paralización o demolición de obras, usos o edificaciones podrán ordenar la suspensión de suministros de energía, agua, gas y telefonía, notificándolo a las empresas suministradoras.",
+   "urb 274.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-174",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 277 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Constituyen infracciones administrativas leves en materia urbanística, sancionadas con multa de sesenta mil euros y un céntimo a trescientos mil euros",
+    "Constituyen infracciones administrativas leves en materia urbanística, sancionadas con multa de seiscientos a seis mil euros",
+    "Constituyen infracciones administrativas leves en materia urbanística, sancionadas con multa de seis mil euros y un céntimo a sesenta mil euros"
+   ],
+   1,
+   "Art. 277 · Urbanismo de Aragón: Constituyen infracciones administrativas leves en materia urbanística, sancionadas con multa de seiscientos a seis mil euros.",
+   "urb 277",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-175",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "Las entidades públicas serán sancionadas por las infracciones cometidas por sus órganos o agentes y asumirán el coste de las medidas de reparación del orden urbanístico vulnerado y del beneficio derivado de la comisión de la infracción",
+    "Constituyen infracciones administrativas graves y serán sancionadas con multa de seis mil euros y un céntimo a sesenta mil euros los actos de división que incumplan las normas materiales sobre parcelaciones, siempre que no estén tipificados como infracción muy grave",
+    "Constituyen infracciones administrativas leves y no serán sancionadas con multa de seiscientos a seis mil euros las acciones u omisiones que retrasen o impidan el ejercicio de las funciones de vigilancia del cumplimiento de la legalidad urbanística"
+   ],
+   1,
+   "La correcta es «Constituyen infracciones administrativas graves y serán sancionadas con multa de seis mil euros y un céntimo a sesenta mil euros los actos de división que incumplan las normas materiales sobre parcelaciones, siempre que no estén tipificados como infracción muy grave». Las otras dos son falsas: lo correcto es «Las personas jurídicas serán sancionadas por las infracciones cometidas por sus órganos o age",
+   "urb 278",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Tendrán la condición de suelo urbano, entre otros, los terrenos que no cuenten con ningún servicio urbanístico, pero estén incluidos en un sector de urbanización prioritaria",
+    "Tendrán la condición de suelo urbano, entre otros, los terrenos que cuenten con servicios urbanísticos suficientes (red viaria con conectividad, abastecimiento y evacuación de agua, energía eléctrica, telecomunicaciones y gestión de residuos)",
+    "Tendrán la condición de suelo urbano, entre otros, los terrenos que estén clasificados como urbanizables delimitados por el plan general y cuenten con proyecto de urbanización"
+   ],
+   1,
+   "Art. 12 · Urbanismo de Aragón: Tendrán la condición de suelo urbano, entre otros, los terrenos que cuenten con servicios urbanísticos suficientes (red viaria con conectividad, abastecimiento y evacuación de agua, energía eléctrica, telecomunicaciones y gestión de residuos).",
+   "urb 12",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-029",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El suelo no urbanizable genérico es el destinado a sistemas generales",
+    "El suelo no urbanizable genérico es el preservado por protección ambiental",
+    "El suelo no urbanizable genérico es la clase y categoría residual"
+   ],
+   2,
+   "Art. 17 · Urbanismo de Aragón: El suelo no urbanizable genérico es la clase y categoría residual.",
+   "urb 17",
+   "La afirmación, su negación y otro dato",
+   "h-suelo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-005",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En el suelo urbanizable no delimitado, en tanto no se haya aprobado el plan parcial se aplicará el régimen del suelo no urbanizable especial, con prohibición de toda construcción",
+    "En el suelo urbanizable no delimitado, en tanto no se haya aprobado el plan parcial se aplicará el régimen establecido para el suelo no urbanizable genérico",
+    "En el suelo urbanizable no delimitado, en tanto no se haya aprobado el plan parcial se aplicará el régimen del suelo urbano no consolidado, con los derechos y deberes de éste"
+   ],
+   1,
+   "Art. 33 · Urbanismo de Aragón: En el suelo urbanizable no delimitado, en tanto no se haya aprobado el plan parcial se aplicará el régimen establecido para el suelo no urbanizable genérico.",
+   "urb 33",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-046",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 52.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Los planes parciales contendrán, además de las determinaciones del artículo 42.1, entre otras la delimitación del suelo urbano y la clasificación del suelo en el sector",
+    "Los planes parciales contendrán, además de las determinaciones del artículo 42.1, entre otras solo el proyecto de reparcelación y los estatutos de la junta de compensación del sector",
+    "Los planes parciales contendrán, además de las determinaciones del artículo 42.1, entre otras la evaluación económica de la implantación de servicios y obras de urbanización, el plan de etapas y los sistemas generales incluidos o adscritos"
+   ],
+   2,
+   "Art. 52.1 · Urbanismo de Aragón: Los planes parciales contendrán, además de las determinaciones del artículo 42.1, entre otras la evaluación económica de la implantación de servicios y obras de urbanización, el plan de etapas y los sistemas generales incluidos o adscritos.",
+   "urb 52.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-064",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61.3 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En ningún caso los planes especiales podrán establecer limitaciones de uso en el ámbito de su aplicación, sin clasificar suelo",
+    "En ningún caso los planes especiales podrán proteger el patrimonio edificado y los conjuntos históricos declarados conforme a la normativa",
+    "En ningún caso los planes especiales podrán sustituir al plan general en su función de instrumento de ordenación integral del territorio, por lo que no podrán clasificar suelo"
+   ],
+   2,
+   "Art. 61.3 · Urbanismo de Aragón: En ningún caso los planes especiales podrán sustituir al plan general en su función de instrumento de ordenación integral del territorio, por lo que no podrán clasificar suelo.",
+   "urb 61.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-072",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En desarrollo del plan general podrán formularse planes especiales para finalidades como el desarrollo de los sistemas generales, la protección del medio ambiente y paisaje, la mejora de condiciones de salubridad, la protección del patrimonio edificado y la reforma interior en suelo urbano",
+    "En desarrollo del plan general no podrán formularse planes especiales para finalidades como el desarrollo de los sistemas generales, la protección del medio ambiente y paisaje, la mejora de condiciones de salubridad, la protección del patrimonio edificado y la reforma interior en suelo urbano",
+    "En desarrollo del plan general podrán formularse planes especiales para finalidades como la clasificación del suelo y la aprobación del presupuesto de gestión de las actuaciones"
+   ],
+   0,
+   "Art. 64.1 · Urbanismo de Aragón: En desarrollo del plan general podrán formularse planes especiales para finalidades como el desarrollo de los sistemas generales, la protección del medio ambiente y paisaje, la mejora de condiciones de salubridad, la protección del patrimonio edificado y la reforma interior en suelo urbano.",
+   "urb 64.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-074",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Los planes especiales de reforma interior solo podrán formularse en desarrollo del plan general en suelo urbano no consolidado",
+    "Los planes especiales de reforma interior solo podrán formularse en desarrollo del plan general en suelo no urbanizable",
+    "Los planes especiales de reforma interior solo podrán formularse en desarrollo del plan general en cualquier clase de suelo"
+   ],
+   0,
+   "Art. 65 · Urbanismo de Aragón: Los planes especiales de reforma interior solo podrán formularse en desarrollo del plan general en suelo urbano no consolidado.",
+   "urb 65",
+   "La afirmación, su negación y otro dato",
+   "h-plan",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-012",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "En el acuerdo, el Gobierno podrá concretar el ámbito y efectos de la suspensión y, en su caso, atribución al Departamento competente en materia de urbanismo, garantizando en todo caso la participación en los procedimientos de que se trate al municipio",
+    "La alteración del contenido de los planes y demás instrumentos de ordenación urbanística deberá llevarse a cabo mediante la revisión de los mismos o la modificación de alguno de sus elementos",
+    "La revisión del contenido de los planes y demás instrumentos de ordenación urbanística se llevará a cabo conforme a las mismas reglas sobre documentación, procedimiento y competencia establecidas para su aprobación"
+   ],
+   2,
+   "La correcta es «La revisión del contenido de los planes y demás instrumentos de ordenación urbanística se llevará a cabo conforme a las mismas reglas sobre documentación, procedimiento y competencia establecidas para su aprobación». Las otras dos son falsas: lo correcto es «En el acuerdo, el Gobierno deberá concretar el ámbito y efectos de la suspensión y, en su caso, atribución al Departamento competente en materia ",
+   "urb 84",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 226.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La licencia urbanística no es el acto administrativo por el que el Alcalde autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o subsuelo, expresando el objeto, condiciones y plazos de ejercicio",
+    "La licencia urbanística es el acto administrativo por el que el Alcalde autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o subsuelo, expresando el objeto, condiciones y plazos de ejercicio",
+    "La licencia urbanística es el acto del Pleno por el que se aprueba un plan o un instrumento de gestión urbanística"
+   ],
+   1,
+   "Art. 226.1 · Urbanismo de Aragón: La licencia urbanística es el acto administrativo por el que el Alcalde autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o subsuelo, expresando el objeto, condiciones y plazos de ejercicio.",
+   "urb 226.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-142",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 266.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Las actas y diligencias extendidas por los inspectores urbanísticos no tienen la naturaleza de documentos públicos y constituyen prueba de los hechos que motiven su formalización, salvo que se acredite lo contrario",
+    "Las actas y diligencias extendidas por los inspectores urbanísticos tienen la naturaleza de documentos públicos y constituyen prueba de los hechos que motiven su formalización, salvo que se acredite lo contrario",
+    "Las actas y diligencias extendidas por los inspectores urbanísticos hacen prueba plena e irrefutable de los hechos que motiven su formalización"
+   ],
+   1,
+   "Art. 266.1 · Urbanismo de Aragón: Las actas y diligencias extendidas por los inspectores urbanísticos tienen la naturaleza de documentos públicos y constituyen prueba de los hechos que motiven su formalización, salvo que se acredite lo contrario.",
+   "urb 266.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-164",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 275 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Los actos dictados en materia de disciplina urbanística no serán inscribibles en el Registro de la Propiedad en los supuestos establecidos en la normativa estatal de aplicación",
+    "Los actos dictados en materia de disciplina urbanística serán inscribibles en el Registro de la Propiedad en todo caso, de oficio por el Ayuntamiento",
+    "Los actos dictados en materia de disciplina urbanística serán inscribibles en el Registro de la Propiedad en los supuestos establecidos en la normativa estatal de aplicación"
+   ],
+   2,
+   "Art. 275 · Urbanismo de Aragón: Los actos dictados en materia de disciplina urbanística serán inscribibles en el Registro de la Propiedad en los supuestos establecidos en la normativa estatal de aplicación.",
+   "urb 275",
+   "La afirmación, su negación y otro dato",
+   "h-fuentes-lua",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-201",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 281.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Si las actividades constitutivas de infracción urbanística se hacen al amparo de un título habilitante y de acuerdo con sus determinaciones se sanciona con la mitad de la multa, al haber actuado el infractor al amparo de un título habilitante",
+    "Si las actividades constitutivas de infracción urbanística se hacen al amparo de un título habilitante y de acuerdo con sus determinaciones se sanciona igualmente, aunque la actividad se haya realizado conforme a las determinaciones del título",
+    "Si las actividades constitutivas de infracción urbanística se hacen al amparo de un título habilitante y de acuerdo con sus determinaciones no se puede imponer ninguna sanción mientras no se anule el acto administrativo que las autoriza; el procedimiento de anulación interrumpe el plazo de prescripción"
+   ],
+   2,
+   "Art. 281.1 · Urbanismo de Aragón: Si las actividades constitutivas de infracción urbanística se hacen al amparo de un título habilitante y de acuerdo con sus determinaciones no se puede imponer ninguna sanción mientras no se anule el acto administrativo que las autoriza; el procedimiento de anulación interrumpe el plazo de prescripción.",
+   "urb 281.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-181",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Tendrán la consideración de solares las superficies de suelo urbano aptas para su uso inmediato que reúnan, entre otros, el requisito de estar urbanizados conforme al planeamiento o, en su defecto, disponer de los servicios básicos, alumbrado público y confrontar con una vía pavimentada y adecuada para peatones y vehículos",
+    "Tendrán la consideración de solares las superficies de suelo urbano aptas para su uso inmediato que reúnan, entre otros, el requisito de estar clasificados como suelo urbanizable delimitado y contar con el plan parcial definitivamente aprobado",
+    "Tendrán la consideración de solares las superficies de suelo urbano aptas para su uso inmediato que reúnan, entre otros, el requisito de carecer de alineaciones y rasantes señaladas, aunque el planeamiento las defina para el suelo urbano"
+   ],
+   0,
+   "Art. 14.1 · Urbanismo de Aragón: Tendrán la consideración de solares las superficies de suelo urbano aptas para su uso inmediato que reúnan, entre otros, el requisito de estar urbanizados conforme al planeamiento o, en su defecto, disponer de los servicios básicos, alumbrado público y confrontar con una vía pavimentada y adecuada para peatones y vehículos.",
+   "urb 14.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-033",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 38 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El plan general de ordenación urbana clasifica el suelo y define los elementos fundamentales de la estructura general de la ordenación urbanística",
+    "El plan general de ordenación urbana es un instrumento de gestión de la propiedad",
+    "El plan general de ordenación urbana solo regula la edificación de una parcela"
+   ],
+   0,
+   "Art. 38 · Urbanismo de Aragón: El plan general de ordenación urbana clasifica el suelo y define los elementos fundamentales de la estructura general de la ordenación urbanística.",
+   "urb 38",
+   "La afirmación, su negación y otro dato",
+   "h-plan",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-008",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En suelo urbanizable delimitado, el plan general contendrá, entre otras determinaciones solo la clasificación del suelo, sin determinar el desarrollo de los sistemas generales",
+    "En suelo urbanizable delimitado, el plan general contendrá, entre otras determinaciones la ordenación pormenorizada completa de cada sector, de modo que no sea necesario plan parcial",
+    "En suelo urbanizable delimitado, el plan general contendrá, entre otras determinaciones el desarrollo de los sistemas generales con precisión suficiente para permitir planes parciales, el trazado de las redes fundamentales y bases orientativas para la ejecución"
+   ],
+   2,
+   "Art. 43.1 · Urbanismo de Aragón: En suelo urbanizable delimitado, el plan general contendrá, entre otras determinaciones el desarrollo de los sistemas generales con precisión suficiente para permitir planes parciales, el trazado de las redes fundamentales y bases orientativas para la ejecución.",
+   "urb 43.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-054",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 44 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En suelo urbanizable no delimitado, el plan general podrá establecer como ordenación pormenorizada normativa complementaria, especialmente de protección, en tanto no se proceda a su delimitación y desarrollo",
+    "En suelo urbanizable no delimitado, el plan general podrá establecer como ordenación pormenorizada la ordenación completa del sector, que permita ejecutarlo sin planeamiento de desarrollo",
+    "En suelo urbanizable no delimitado, el plan general podrá establecer como ordenación pormenorizada los sistemas de gestión de cada unidad de ejecución y los plazos máximos de su ejecución"
+   ],
+   0,
+   "Art. 44 · Urbanismo de Aragón: En suelo urbanizable no delimitado, el plan general podrá establecer como ordenación pormenorizada normativa complementaria, especialmente de protección, en tanto no se proceda a su delimitación y desarrollo.",
+   "urb 44",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-055",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 67 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Los estudios de detalle no podrán formularse cuando fuere preciso completar o, en su caso, adaptar determinaciones establecidas en el plan general para el suelo urbano, en los planes parciales y especiales",
+    "Los estudios de detalle podrán formularse cuando fuere preciso completar o, en su caso, adaptar determinaciones establecidas en el plan general para el suelo urbano, en los planes parciales y especiales",
+    "Los estudios de detalle podrán formularse cuando fuere preciso clasificar suelo urbanizable"
+   ],
+   1,
+   "Art. 67 · Urbanismo de Aragón: Los estudios de detalle podrán formularse cuando fuere preciso completar o, en su caso, adaptar determinaciones establecidas en el plan general para el suelo urbano, en los planes parciales y especiales.",
+   "urb 67",
+   "La afirmación, su negación y otro dato",
+   "h-plan",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-011",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 119 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La ejecución del planeamiento urbanístico no corresponde a los municipios; la de los planes y proyectos de interés general de Aragón corresponde a la Administración de la Comunidad Autónoma",
+    "La ejecución del planeamiento urbanístico corresponde a los municipios; la de los planes y proyectos de interés general de Aragón corresponde a la Administración de la Comunidad Autónoma",
+    "La ejecución del planeamiento urbanístico corresponde a las comarcas, que ejecutan el planeamiento de los municipios de su ámbito territorial"
+   ],
+   1,
+   "Art. 119 · Urbanismo de Aragón: La ejecución del planeamiento urbanístico corresponde a los municipios; la de los planes y proyectos de interés general de Aragón corresponde a la Administración de la Comunidad Autónoma.",
+   "urb 119",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-096",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 121.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La ejecución del planeamiento mediante actuaciones aisladas requiere la obtención de la correspondiente licencia y, cuando proceda, la aprobación de la normalización de fincas o del proyecto de obras ordinarias",
+    "La ejecución del planeamiento mediante actuaciones aisladas no requiere la obtención de la correspondiente licencia y, cuando proceda, la aprobación de la normalización de fincas o del proyecto de obras ordinarias",
+    "La ejecución del planeamiento mediante actuaciones aisladas requiere la constitución de una junta de compensación y la aprobación del proyecto de reparcelación"
+   ],
+   0,
+   "Art. 121.1 · Urbanismo de Aragón: La ejecución del planeamiento mediante actuaciones aisladas requiere la obtención de la correspondiente licencia y, cuando proceda, la aprobación de la normalización de fincas o del proyecto de obras ordinarias.",
+   "urb 121.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-098",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 124.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "El índice de edificabilidad bruta indica el límite mínimo de edificabilidad para cada uso, en metros cuadrados de techo por metro cuadrado de suelo, aplicable en una parcela, unidad de ejecución o sector",
+    "El índice de edificabilidad bruta indica el límite máximo de edificabilidad para cada uso, en metros cuadrados de techo por metro cuadrado de suelo, aplicable en una parcela, unidad de ejecución o sector",
+    "El índice de edificabilidad bruta indica el límite medio de edificabilidad para cada uso, en metros cuadrados de techo por metro cuadrado de suelo, aplicable en una parcela, unidad de ejecución o sector"
+   ],
+   1,
+   "Art. 124.1 · Urbanismo de Aragón: El índice de edificabilidad bruta indica el límite máximo de edificabilidad para cada uso, en metros cuadrados de techo por metro cuadrado de suelo, aplicable en una parcela, unidad de ejecución o sector. Las otras dos frases cambian «máximo» por «mínimo» y «medio».",
+   "urb 124.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-102",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 160.3 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "El transcurso del plazo total de ejecución del programa de urbanización determinará su prescripción y la resolución de su adjudicación, sin perjuicio de penalizaciones y otras medidas",
+    "El transcurso del plazo total de ejecución del programa de urbanización determinará su caducidad y la resolución de su adjudicación, sin perjuicio de penalizaciones y otras medidas",
+    "El transcurso del plazo total de ejecución del programa de urbanización determinará su revocación y la resolución de su adjudicación, sin perjuicio de penalizaciones y otras medidas"
+   ],
+   1,
+   "Art. 160.3 · Urbanismo de Aragón: El transcurso del plazo total de ejecución del programa de urbanización determinará su caducidad y la resolución de su adjudicación, sin perjuicio de penalizaciones y otras medidas. Las otras dos frases cambian «caducidad» por «prescripción» y «revocación».",
+   "urb 160.3",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-128",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "La deuda será declarada mediante resolución del municipio previa audiencia del interesado, y, en caso de impago, deberá ser recaudada por vía de apremio",
+    "El urbanizador es el agente público responsable de ejecutar la urbanización en la gestión indirecta por urbanizador",
+    "El procedimiento para declarar la nulidad de la adjudicación no será el previsto en la normativa de contratación del sector público, y sus efectos, los establecidos en el artículo 182 para el supuesto de resolución del programa"
+   ],
+   1,
+   "La correcta es «El urbanizador es el agente público responsable de ejecutar la urbanización en la gestión indirecta por urbanizador». Las otras dos son falsas: lo correcto es «La deuda será declarada mediante resolución del municipio previa audiencia del interesado, y, en caso de impago, podrá ser recaudada por vía de apremio» (la otra frase cambia «podrá») y «El procedimiento para declarar la nulidad de la adjudicac",
+   "urb 165",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "El documento de declaración responsable habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la enumeración de los requisitos administrativos aplicables",
+    "El municipio deberá convocar, de oficio o a instancia de cualquier persona, el concurso para la sustitución del propietario incumplidor dentro del plazo máximo de dos años desde la notificación de la declaración de ejecución por sustitución",
+    "El documento de comunicación simultánea habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la identificación y ubicación de su objeto"
+   ],
+   0,
+   "La correcta es «El documento de declaración responsable habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la enumeración de los requisitos administrativos aplicables». Las otras dos son falsas: lo correcto es «El municipio deberá convocar, de oficio o a instancia de cualquier persona, el concurso para la sustitución del propietario incumplidor dentro del plaz",
+   "urb 227",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 229 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La licencia legitima para la realización de su objeto desde la fecha en que sea formalmente adoptada por el Alcalde; la declaración responsable y la comunicación previa legitiman desde el día de su presentación en el registro general del municipio",
+    "La licencia legitima para la realización de su objeto desde la fecha en que sea formalmente adoptada por el Alcalde; la declaración responsable y la comunicación previa legitiman desde que transcurra un mes desde su presentación sin que el Ayuntamiento formule objeción",
+    "La licencia legitima para la realización de su objeto desde la fecha en que sea formalmente adoptada por el Alcalde; la declaración responsable y la comunicación previa legitiman desde que el Alcalde las admita expresamente, mediante resolución notificada al interesado"
+   ],
+   0,
+   "Art. 229 · Urbanismo de Aragón: La licencia legitima para la realización de su objeto desde la fecha en que sea formalmente adoptada por el Alcalde; la declaración responsable y la comunicación previa legitiman desde el día de su presentación en el registro general del municipio.",
+   "urb 229",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-146",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "Los inspectores urbanísticos no deberán acreditar su condición mediante la correspondiente credencial",
+    "Los inspectores urbanísticos deberán recabar la exhibición de la documentación relevante para el adecuado ejercicio de la función inspectora obrante en poder del interesado o de cualquier organismo público o privado",
+    "Se podrá utilizar cualquier medio de prueba para acreditar la terminación de las obras en fecha determinada y, en todo caso, los medios establecidos en la legislación estatal sobre inscripción en el Registro de la Propiedad de Actos de Naturaleza Urbanística"
+   ],
+   2,
+   "La correcta es «Se podrá utilizar cualquier medio de prueba para acreditar la terminación de las obras en fecha determinada y, en todo caso, los medios establecidos en la legislación estatal sobre inscripción en el Registro de la Propiedad de Actos de Naturaleza Urbanística». Las otras dos son falsas: lo correcto es «Los inspectores urbanísticos deberán acreditar su condición mediante la correspondiente credencial» (",
+   "urb 269",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 279 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Constituyen infracciones administrativas muy graves en materia urbanística, sancionadas con multa de sesenta mil euros y un céntimo a trescientos mil euros",
+    "Constituyen infracciones administrativas muy graves en materia urbanística, sancionadas con multa de seis mil euros y un céntimo a sesenta mil euros",
+    "Constituyen infracciones administrativas muy graves en materia urbanística, sancionadas con multa de trescientos mil euros y un céntimo a seiscientos mil euros"
+   ],
+   0,
+   "Art. 279 · Urbanismo de Aragón: Constituyen infracciones administrativas muy graves en materia urbanística, sancionadas con multa de sesenta mil euros y un céntimo a trescientos mil euros.",
+   "urb 279",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-177",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "La extensión y el nivel de precisión y concreción de los documentos podrán ser los adecuados para satisfacer la función que cada documento cumple",
+    "La declaración ambiental estratégica deberá ser remitida al municipio en el plazo máximo de un mes desde su solicitud",
+    "El sector es el ámbito de ordenación propio de un plan parcial o de un plan especial de reforma interior"
+   ],
+   2,
+   "La correcta es «El sector es el ámbito de ordenación propio de un plan parcial o de un plan especial de reforma interior». Las otras dos son falsas: lo correcto es «La extensión y el nivel de precisión y concreción de los documentos deberán ser los adecuados para satisfacer la función que cada documento cumple» (la otra frase cambia «deberán») y «La declaración ambiental estratégica deberá ser remitida al municipio e",
+   "urb 45",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 137 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Tampoco podrán modificar las previsiones del planeamiento que desarrollan, sin perjuicio de que puedan efectuar las adaptaciones exigidas por la ejecución material de las obras",
+    "Tampoco deberán modificar las previsiones del planeamiento que desarrollan, sin perjuicio de que puedan efectuar las adaptaciones exigidas por la ejecución material de las obras",
+    "Tampoco no podrán modificar las previsiones del planeamiento que desarrollan, sin perjuicio de que puedan efectuar las adaptaciones exigidas por la ejecución material de las obras"
+   ],
+   0,
+   "Art. 137 · Urbanismo de Aragón: Tampoco podrán modificar las previsiones del planeamiento que desarrollan, sin perjuicio de que puedan efectuar las adaptaciones exigidas por la ejecución material de las obras. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "urb 137",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 139 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Las obras de urbanización de las superficies destinadas a dotaciones públicas de carácter educativo, sanitario o asistencial, deberán responder a las características requeridas por la legislación sectorial correspondiente",
+    "Las obras de urbanización de las superficies destinadas a dotaciones públicas de carácter educativo, sanitario o asistencial, podrán responder a las características requeridas por la legislación sectorial correspondiente",
+    "Las obras de urbanización de las superficies destinadas a dotaciones públicas de carácter educativo, sanitario o asistencial, no deberán responder a las características requeridas por la legislación sectorial correspondiente"
+   ],
+   0,
+   "Art. 139 · Urbanismo de Aragón: Las obras de urbanización de las superficies destinadas a dotaciones públicas de carácter educativo, sanitario o asistencial, deberán responder a las características requeridas por la legislación sectorial correspondiente. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "urb 139",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 228 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "El documento de comunicación previa habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la identificación y ubicación de su objeto",
+    "El documento de comunicación posterior habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la identificación y ubicación de su objeto",
+    "El documento de comunicación simultánea habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la identificación y ubicación de su objeto"
+   ],
+   0,
+   "Art. 228 · Urbanismo de Aragón: El documento de comunicación previa habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la identificación y ubicación de su objeto. Las otras dos frases cambian «previa» por «posterior» y «simultánea».",
+   "urb 228",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "El modelo de evolución urbana y ocupación del territorio podrá ser específicamente evaluado en el procedimiento de evaluación ambiental del plan general",
+    "En defecto de previsión en el planeamiento, el plazo máximo para el suelo urbanizable será de doce años y de doce para el suelo urbano no consolidado",
+    "En el caso de que el plan general incorpore un programa de rehabilitación urbana, deberán identificarse las actuaciones a realizar en suelo urbano consolidado"
+   ],
+   2,
+   "La correcta es «En el caso de que el plan general incorpore un programa de rehabilitación urbana, deberán identificarse las actuaciones a realizar en suelo urbano consolidado». Las otras dos son falsas: lo correcto es «El modelo de evolución urbana y ocupación del territorio deberá ser específicamente evaluado en el procedimiento de evaluación ambiental del plan general» (la otra frase cambia «deberá») y «En defecto ",
+   "urb 41",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Los planes urbanísticos serán inmediatamente ejecutivos una vez publicada su aprobación provisional y el texto íntegro de las normas que contengan",
+    "Los planes urbanísticos serán inmediatamente ejecutivos una vez publicada su aprobación condicional y el texto íntegro de las normas que contengan",
+    "Los planes urbanísticos serán inmediatamente ejecutivos una vez publicada su aprobación definitiva y el texto íntegro de las normas que contengan"
+   ],
+   2,
+   "Art. 80.1 · Urbanismo de Aragón: Los planes urbanísticos serán inmediatamente ejecutivos una vez publicada su aprobación definitiva y el texto íntegro de las normas que contengan. Las otras dos frases cambian «definitiva» por «provisional» y «condicional».",
+   "urb 80.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-087",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "La suspensión no podrá ser superior a tres años ni la atribución a cinco, contados desde la adopción del acuerdo correspondiente",
+    "Comprende tanto las actuaciones urbanísticas que pueden llevarse a cabo sobre el suelo y, en su caso, sobre la edificación, como los sistemas que pueden adoptarse para la ejecución de las actuaciones urbanísticas",
+    "La modificación del planeamiento de desarrollo deberá instarla cualquier persona"
+   ],
+   1,
+   "La correcta es «Comprende tanto las actuaciones urbanísticas que pueden llevarse a cabo sobre el suelo y, en su caso, sobre la edificación, como los sistemas que pueden adoptarse para la ejecución de las actuaciones urbanísticas». Las otras dos son falsas: lo correcto es «La suspensión no podrá ser superior a un año ni la atribución a cinco, contados desde la adopción del acuerdo correspondiente» (la otra frase cambi",
+   "urb 118",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El aprovechamiento medio es el resultado de calcular el promedio de los aprovechamientos urbanísticos objetivos establecidos por el planeamiento en un determinado ámbito, para hacer posible la distribución equitativa de aprovechamientos y cargas",
+    "El aprovechamiento medio no es el resultado de calcular el promedio de los aprovechamientos urbanísticos objetivos establecidos por el planeamiento en un determinado ámbito, para hacer posible la distribución equitativa de aprovechamientos y cargas",
+    "El aprovechamiento medio es el diez por ciento del aprovechamiento que se cede al municipio en cada unidad de ejecución"
+   ],
+   0,
+   "Art. 125.1 · Urbanismo de Aragón: El aprovechamiento medio es el resultado de calcular el promedio de los aprovechamientos urbanísticos objetivos establecidos por el planeamiento en un determinado ámbito, para hacer posible la distribución equitativa de aprovechamientos y cargas.",
+   "urb 125.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-104",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 140.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Se entiende por reparcelación la agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus derechos y de los terrenos de cesión potestativa a la Administración",
+    "Se entiende por reparcelación la agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus derechos y de los terrenos de cesión obligatoria a la Administración",
+    "Se entiende por reparcelación la agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus derechos y de los terrenos de cesión voluntaria a la Administración"
+   ],
+   1,
+   "Art. 140.1 · Urbanismo de Aragón: Se entiende por reparcelación la agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus derechos y de los terrenos de cesión obligatoria a la Administración. Las otras dos frases cambian «obligatoria» por «potestativa» y «voluntaria».",
+   "urb 140.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-115",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "Se otorgarán dejando a salvo el derecho de propiedad y sin perjuicio de tercero, aunque podrán denegarse si se pretende llevar a cabo una ocupación ilegal del dominio público",
+    "Las licencias urbanísticas habrán de otorgarse en el plazo máximo de un mes",
+    "Las comunicaciones posteriores y declaraciones responsables conformes con el planeamiento y la normativa urbanística surtirán plenos efectos desde el momento de la presentación de la totalidad de la documentación requerida en el registro del órgano competente"
+   ],
+   0,
+   "La correcta es «Se otorgarán dejando a salvo el derecho de propiedad y sin perjuicio de tercero, aunque podrán denegarse si se pretende llevar a cabo una ocupación ilegal del dominio público». Las otras dos son falsas: lo correcto es «Las licencias urbanísticas habrán de otorgarse en el plazo máximo de tres meses» (la otra frase cambia «tres meses») y «Las comunicaciones previas y declaraciones responsables conformes",
+   "urb 232",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 280 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Las personas físicas serán sancionadas por las infracciones cometidas por sus órganos o agentes y asumirán el coste de las medidas de reparación del orden urbanístico vulnerado y del beneficio derivado de la comisión de la infracción",
+    "Las personas jurídicas serán sancionadas por las infracciones cometidas por sus órganos o agentes y asumirán el coste de las medidas de reparación del orden urbanístico vulnerado y del beneficio derivado de la comisión de la infracción",
+    "Las entidades públicas serán sancionadas por las infracciones cometidas por sus órganos o agentes y asumirán el coste de las medidas de reparación del orden urbanístico vulnerado y del beneficio derivado de la comisión de la infracción"
+   ],
+   1,
+   "Art. 280 · Urbanismo de Aragón: Las personas jurídicas serán sancionadas por las infracciones cometidas por sus órganos o agentes y asumirán el coste de las medidas de reparación del orden urbanístico vulnerado y del beneficio derivado de la comisión de la infracción. Las otras dos frases cambian «personas jurídicas» por «personas físicas» y «entidades públicas».",
+   "urb 280",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 284.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El plazo de prescripción de las infracciones urbanísticas se computará desde la terminación de las obras, siempre, aunque fuera conocida la fecha de los hechos",
+    "El plazo de prescripción de las infracciones urbanísticas se computará desde la fecha en que se hubieran cometido los hechos o, si fuere desconocida, desde la fecha en que hubiera podido incoarse el procedimiento sancionador",
+    "El plazo de prescripción de las infracciones urbanísticas se computará desde la notificación de la sanción al infractor, con independencia de la fecha de comisión"
+   ],
+   1,
+   "Art. 284.2 · Urbanismo de Aragón: El plazo de prescripción de las infracciones urbanísticas se computará desde la fecha en que se hubieran cometido los hechos o, si fuere desconocida, desde la fecha en que hubiera podido incoarse el procedimiento sancionador.",
+   "urb 284.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-186",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El plan general será formulado por el Ayuntamiento; los trabajos comenzarán por un avance con los criterios, objetivos y soluciones generales, que se expondrá al público durante un plazo mínimo de un mes, para que cualquier persona formule sugerencias y alternativas",
+    "El plan general no será formulado por el Ayuntamiento; los trabajos comenzarán por un avance con los criterios, objetivos y soluciones generales, que se expondrá al público durante un plazo mínimo de un mes, para que cualquier persona formule sugerencias y alternativas",
+    "El plan general será formulado por el Ayuntamiento; los trabajos comenzarán por un avance con los criterios, objetivos y soluciones generales, que se expondrá al público durante un plazo mínimo de quince días, para que cualquier persona formule sugerencias y alternativas"
+   ],
+   0,
+   "Art. 48.1 · Urbanismo de Aragón: El plan general será formulado por el Ayuntamiento; los trabajos comenzarán por un avance con los criterios, objetivos y soluciones generales, que se expondrá al público durante un plazo mínimo de un mes, para que cualquier persona formule sugerencias y alternativas.",
+   "urb 48.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-059",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "El Ayuntamiento Pleno, a la vista del resultado de las actuaciones obrantes en el expediente, no podrá aprobar definitivamente el plan con las modificaciones que procedieren, pronunciándose expresamente sobre las alegaciones y observaciones formuladas",
+    "Los municipios podrán formular planes parciales en cualquier momento, de oficio o a instancia de parte, e introducir modificaciones en las propuestas presentadas a instancia de los particulares",
+    "El plazo para emitir y comunicar al municipio el informe del órgano autonómico será de dos meses, transcurridos los cuales se entenderá emitido en sentido favorable"
+   ],
+   1,
+   "La correcta es «Los municipios podrán formular planes parciales en cualquier momento, de oficio o a instancia de parte, e introducir modificaciones en las propuestas presentadas a instancia de los particulares». Las otras dos son falsas: lo correcto es «El Ayuntamiento Pleno, a la vista del resultado de las actuaciones obrantes en el expediente, podrá aprobar definitivamente el plan con las modificaciones que procedi",
+   "urb 56",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "La ejecución del planeamiento no exige la reparcelación de los terrenos comprendidos en la unidad de ejecución, salvo que resulte suficientemente equitativa la distribución de beneficios y cargas para todos los propietarios",
+    "Sin embargo, podrán dividirse, agruparse, modificarse o suprimirse por el procedimiento de aprobación de los estudios de detalle",
+    "Tampoco no podrán modificar las previsiones del planeamiento que desarrollan, sin perjuicio de que puedan efectuar las adaptaciones exigidas por la ejecución material de las obras"
+   ],
+   1,
+   "La correcta es «Sin embargo, podrán dividirse, agruparse, modificarse o suprimirse por el procedimiento de aprobación de los estudios de detalle». Las otras dos son falsas: lo correcto es «La ejecución del planeamiento exige la reparcelación de los terrenos comprendidos en la unidad de ejecución, salvo que resulte suficientemente equitativa la distribución de beneficios y cargas para todos los propietarios» (la otra ",
+   "urb 138",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 168.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "El urbanizador que incumpla sus obligaciones adeudará al municipio, en caso de resolución del programa el valor de las retribuciones ya percibidas, previo descuento del de las obras realizadas",
+    "El urbanizador que incumpla sus obligaciones adeudará al municipio, en caso de resolución del programa el valor de las retribuciones ya percibidas, posterior descuento del de las obras realizadas",
+    "El urbanizador que incumpla sus obligaciones adeudará al municipio, en caso de resolución del programa el valor de las retribuciones ya percibidas, simultáneo descuento del de las obras realizadas"
+   ],
+   0,
+   "Art. 168.1 · Urbanismo de Aragón: El urbanizador que incumpla sus obligaciones adeudará al municipio, en caso de resolución del programa el valor de las retribuciones ya percibidas, previo descuento del de las obras realizadas. Las otras dos frases cambian «previo» por «posterior» y «simultáneo».",
+   "urb 168.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-133",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Cuando una construcción amenace con derruirse de modo inminente, con peligro para la seguridad pública, la autoridad habilitada para disponer todas las medidas necesarias es el Alcalde",
+    "Cuando una construcción amenace con derruirse de modo inminente, con peligro para la seguridad pública, la autoridad habilitada para disponer todas las medidas necesarias es el Pleno",
+    "Cuando una construcción amenace con derruirse de modo inminente, con peligro para la seguridad pública, la autoridad habilitada para disponer todas las medidas necesarias es la Junta de Gobierno Local"
+   ],
+   0,
+   "Art. 262 · Urbanismo de Aragón: Cuando una construcción amenace con derruirse de modo inminente, con peligro para la seguridad pública, la autoridad habilitada para disponer todas las medidas necesarias es el Alcalde. Las otras dos frases cambian «El Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "urb 262",
+   "Una sola palabra cambia el sentido",
+   "h-disciplina",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-019",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 265.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Los inspectores urbanísticos no tienen la condición de agentes de la autoridad, pudiendo solicitar apoyo de las Fuerzas y Cuerpos de Seguridad; para entrar en un domicilio necesitan autorización judicial salvo consentimiento del afectado",
+    "Los inspectores urbanísticos tienen la condición de funcionarios sin carácter de autoridad, que no pueden solicitar apoyo de otras autoridades",
+    "Los inspectores urbanísticos tienen la condición de agentes de la autoridad, pudiendo solicitar apoyo de las Fuerzas y Cuerpos de Seguridad; para entrar en un domicilio necesitan autorización judicial salvo consentimiento del afectado"
+   ],
+   2,
+   "Art. 265.1 · Urbanismo de Aragón: Los inspectores urbanísticos tienen la condición de agentes de la autoridad, pudiendo solicitar apoyo de las Fuerzas y Cuerpos de Seguridad; para entrar en un domicilio necesitan autorización judicial salvo consentimiento del afectado.",
+   "urb 265.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-163",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Los planes parciales tienen por objeto establecer, en desarrollo del plan general la ordenación pormenorizada precisa para la ejecución de sectores enteros en suelo urbano no consolidado y en suelo urbanizable",
+    "Los planes parciales tienen por objeto establecer, en desarrollo del plan general la clasificación del suelo",
+    "Los planes parciales tienen por objeto establecer, en desarrollo del plan general el régimen de sanciones"
+   ],
+   0,
+   "Art. 51 · Urbanismo de Aragón: Los planes parciales tienen por objeto establecer, en desarrollo del plan general la ordenación pormenorizada precisa para la ejecución de sectores enteros en suelo urbano no consolidado y en suelo urbanizable.",
+   "urb 51",
+   "La afirmación, su negación y otro dato",
+   "h-plan",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-010",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Cualquier persona podrá formular a su costa estudios de detalle, cuya aprobación inicial corresponde al Alcalde, y la definitiva, al Ayuntamiento Pleno, previo sometimiento a información pública y audiencia de los interesados por plazo común de un mes como mínimo",
+    "Cualquier persona deberá formular a su costa estudios de detalle, cuya aprobación inicial corresponde al Alcalde, y la definitiva, al Ayuntamiento Pleno, previo sometimiento a información pública y audiencia de los interesados por plazo común de un mes como mínimo",
+    "Cualquier persona no podrá formular a su costa estudios de detalle, cuya aprobación inicial corresponde al Alcalde, y la definitiva, al Ayuntamiento Pleno, previo sometimiento a información pública y audiencia de los interesados por plazo común de un mes como mínimo"
+   ],
+   0,
+   "Art. 68 · Urbanismo de Aragón: Cualquier persona podrá formular a su costa estudios de detalle, cuya aprobación inicial corresponde al Alcalde, y la definitiva, al Ayuntamiento Pleno, previo sometimiento a información pública y audiencia de los interesados por plazo común de un mes como mínimo. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "urb 68",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "El Ayuntamiento Pleno podrá acordar la suspensión del otorgamiento de licencias de parcelación, edificación y demolición para áreas o usos determinados con el fin de estudiar la formación o reforma de los planes urbanísticos o estudios de detalle",
+    "El Ayuntamiento Pleno podrá acordar la revocación del otorgamiento de licencias de parcelación, edificación y demolición para áreas o usos determinados con el fin de estudiar la formación o reforma de los planes urbanísticos o estudios de detalle",
+    "El Ayuntamiento Pleno podrá acordar la anulación del otorgamiento de licencias de parcelación, edificación y demolición para áreas o usos determinados con el fin de estudiar la formación o reforma de los planes urbanísticos o estudios de detalle"
+   ],
+   0,
+   "Art. 77 · Urbanismo de Aragón: El Ayuntamiento Pleno podrá acordar la suspensión del otorgamiento de licencias de parcelación, edificación y demolición para áreas o usos determinados con el fin de estudiar la formación o reforma de los planes urbanísticos o estudios de detalle. Las otras dos frases cambian «suspensión» por «revocación» y «anulación».",
+   "urb 77",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "En la escritura de constitución no deberá constar estatutos y bases de la junta",
+    "La alternativa técnica podrá ir acompañada de otros instrumentos de gestión urbanística",
+    "En la escritura de constitución podrá constar personas que hayan sido designadas para ocupar los cargos del órgano rector, que habrán de recaer necesariamente en personas físicas"
+   ],
+   1,
+   "La correcta es «La alternativa técnica podrá ir acompañada de otros instrumentos de gestión urbanística». Las otras dos son falsas: lo correcto es «En la escritura de constitución deberá constar estatutos y bases de la junta» (la otra frase cambia «deberá») y «En la escritura de constitución deberá constar personas que hayan sido designadas para ocupar los cargos del órgano rector, que habrán de recaer necesariamente",
+   "urb 163",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 164 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La proposición jurídico-económica del programa tendrá, como mínimo, entre otro contenido la identificación de la alternativa técnica por la que se licita, las cargas de urbanización y la regulación de las relaciones entre el urbanizador y los propietarios",
+    "La proposición jurídico-económica del programa no tendrá, como mínimo, entre otro contenido la identificación de la alternativa técnica por la que se licita, las cargas de urbanización y la regulación de las relaciones entre el urbanizador y los propietarios",
+    "La proposición jurídico-económica del programa tendrá, como mínimo, entre otro contenido el anteproyecto de urbanización y la memoria de calidades de las obras que se han de ejecutar"
+   ],
+   0,
+   "Art. 164 · Urbanismo de Aragón: La proposición jurídico-económica del programa tendrá, como mínimo, entre otro contenido la identificación de la alternativa técnica por la que se licita, las cargas de urbanización y la regulación de las relaciones entre el urbanizador y los propietarios.",
+   "urb 164",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-130",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 261.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Cuando alguna construcción o parte de ella estuviere en estado ruinoso, el municipio, de oficio o a instancia de cualquier interesado declarará esta situación y acordará la total o parcial demolición, posterior audiencia del propietario y de los moradores, salvo inminente peligro que lo impidiera",
+    "Cuando alguna construcción o parte de ella estuviere en estado ruinoso, el municipio, de oficio o a instancia de cualquier interesado declarará esta situación y acordará la total o parcial demolición, simultánea audiencia del propietario y de los moradores, salvo inminente peligro que lo impidiera",
+    "Cuando alguna construcción o parte de ella estuviere en estado ruinoso, el municipio, de oficio o a instancia de cualquier interesado declarará esta situación y acordará la total o parcial demolición, previa audiencia del propietario y de los moradores, salvo inminente peligro que lo impidiera"
+   ],
+   2,
+   "Art. 261.1 · Urbanismo de Aragón: Cuando alguna construcción o parte de ella estuviere en estado ruinoso, el municipio, de oficio o a instancia de cualquier interesado declarará esta situación y acordará la total o parcial demolición, previa audiencia del propietario y de los moradores, salvo inminente peligro que lo impidiera. Las otras dos frases cambian «previa» por «posterior» y «simultánea».",
+   "urb 261.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-159",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8.3 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "Corresponden al Alcalde, entre otras atribuciones, en materia urbanística la aprobación de los instrumentos de planeamiento de desarrollo del planeamiento general no atribuidos al Pleno, de los instrumentos de gestión urbanística y de los proyectos de urbanización",
+    "Corresponden al Alcalde, entre otras atribuciones, en materia urbanística la aprobación de los instrumentos de planeamiento general y de las normas reguladoras del Pleno",
+    "Corresponden al Alcalde, entre otras atribuciones, en materia urbanística la aprobación definitiva del plan general y de las ordenanzas fiscales de contenido urbanístico"
+   ],
+   0,
+   "Art. 8.3 · Urbanismo de Aragón: Corresponden al Alcalde, entre otras atribuciones, en materia urbanística la aprobación de los instrumentos de planeamiento de desarrollo del planeamiento general no atribuidos al Pleno, de los instrumentos de gestión urbanística y de los proyectos de urbanización.",
+   "urb 8.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-024",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "Las sociedades urbanísticas podrán tener por objeto la gestión de las expropiaciones para la ejecución de planes y proyectos de interés general de Aragón o planeamiento urbanístico u otras actuaciones determinadas",
+    "Con carácter general y para la gestión de los intereses de la comunidad local, no corresponde a los municipios la actividad urbanística pública",
+    "Las sociedades urbanísticas deberán tener por objeto la conservación y explotación de la urbanización, a costa de los propietarios y bajo la dependencia de la Administración, con los derechos y deberes de las entidades urbanísticas de conservación"
+   ],
+   0,
+   "La correcta es «Las sociedades urbanísticas podrán tener por objeto la gestión de las expropiaciones para la ejecución de planes y proyectos de interés general de Aragón o planeamiento urbanístico u otras actuaciones determinadas». Las otras dos son falsas: lo correcto es «Con carácter general y para la gestión de los intereses de la comunidad local, corresponde a los municipios la actividad urbanística pública» (la ",
+   "urb 9",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "La delimitación de sectores no deberá garantizar el desarrollo urbano racional de la ciudad y ser coherente con el modelo de evolución urbana y ocupación del territorio resultante de la ordenación estructural establecida en el plan general",
+    "En el caso de un plan conjunto de varios municipios de distintas provincias, la aprobación corresponde al Director General competente en materia de urbanismo, simultáneo informe propuesta de los Consejos Provinciales de Urbanismo correspondientes",
+    "La extensión y el nivel de precisión y concreción de los documentos deberán ser los adecuados para satisfacer la función que cada documento cumple"
+   ],
+   2,
+   "La correcta es «La extensión y el nivel de precisión y concreción de los documentos deberán ser los adecuados para satisfacer la función que cada documento cumple». Las otras dos son falsas: lo correcto es «La delimitación de sectores deberá garantizar el desarrollo urbano racional de la ciudad y ser coherente con el modelo de evolución urbana y ocupación del territorio resultante de la ordenación estructural estable",
+   "urb 47",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "En defecto de previsión, en sectores de uso característico industrial o terciario la edificabilidad máxima será de un metro cuadrado de techo por metro cuadrado de suelo",
+    "En defecto de previsión, en sectores de uso característico industrial o terciario la edificabilidad máxima será de dos metros cuadrados de techo por metro cuadrado de suelo",
+    "En defecto de previsión, en sectores de uso característico industrial o terciario la edificabilidad máxima será de medio metro cuadrado de techo por metro cuadrado de suelo"
+   ],
+   2,
+   "Art. 53.2 · Urbanismo de Aragón: En defecto de previsión, en sectores de uso característico industrial o terciario la edificabilidad máxima será de medio metro cuadrado de techo por metro cuadrado de suelo.",
+   "urb 53.2",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-066",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 122.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Para que la propuesta del sistema de compensación vincule a la Administración respecto a una unidad de ejecución, el proyecto de planeamiento deberá estar suscrito por propietarios que sumen más de un tercio de la superficie de esa unidad",
+    "Para que la propuesta del sistema de compensación vincule a la Administración respecto a una unidad de ejecución, el proyecto de planeamiento deberá estar suscrito por propietarios que sumen más de dos tercios de la superficie de esa unidad",
+    "Para que la propuesta del sistema de compensación vincule a la Administración respecto a una unidad de ejecución, el proyecto de planeamiento deberá estar suscrito por propietarios que sumen más de la mitad de la superficie de esa unidad"
+   ],
+   2,
+   "Art. 122.2 · Urbanismo de Aragón: Para que la propuesta del sistema de compensación vincule a la Administración respecto a una unidad de ejecución, el proyecto de planeamiento deberá estar suscrito por propietarios que sumen más de la mitad de la superficie de esa unidad. Las otras dos frases cambian «la mitad» por «un tercio» y «dos tercios».",
+   "urb 122.2",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t20-100",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 272.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "El órgano comarcal competente no podrá subrogarse en el ejercicio de las competencias de protección de la legalidad urbanística del Alcalde, previo requerimiento, en caso de inactividad municipal por plazo de un mes",
+    "El órgano comarcal competente podrá subrogarse en el ejercicio de las competencias de protección de la legalidad urbanística del Alcalde, previo requerimiento, en caso de inactividad municipal por plazo de un mes",
+    "El órgano comarcal competente podrá subrogarse en el ejercicio de las competencias de protección de la legalidad urbanística del Alcalde, previo requerimiento, en caso de inactividad municipal por plazo de tres meses"
+   ],
+   1,
+   "Art. 272.1 · Urbanismo de Aragón: El órgano comarcal competente podrá subrogarse en el ejercicio de las competencias de protección de la legalidad urbanística del Alcalde, previo requerimiento, en caso de inactividad municipal por plazo de un mes.",
+   "urb 272.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-171",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición CORRECTA:",
+   [
+    "Los equipamientos que tengan carácter complementario entre sí, y especialmente los educativos, culturales y deportivos, si es posible, deberán ubicarse en parcelas próximas con objeto de facilitar su utilización conjunta",
+    "La densidad y edificabilidad no serán adecuadas y acordes con el modelo de ordenación adoptado, y, por tanto, proporcionadas a las características del municipio y ajustadas al uso dominante del sector correspondiente",
+    "Cualesquiera personas físicas o jurídicas, públicas o privadas, no podrán formular planes parciales"
+   ],
+   0,
+   "La correcta es «Los equipamientos que tengan carácter complementario entre sí, y especialmente los educativos, culturales y deportivos, si es posible, deberán ubicarse en parcelas próximas con objeto de facilitar su utilización conjunta». Las otras dos son falsas: lo correcto es «La densidad y edificabilidad serán adecuadas y acordes con el modelo de ordenación adoptado, y, por tanto, proporcionadas a las característ",
+   "urb 54",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; una vez aprobados inicialmente se someterán a información pública por plazo mínimo de quince días, simultáneamente al informe de los órganos competentes",
+    "La aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; una vez aprobados inicialmente se someterán a información pública por plazo mínimo de dos meses, simultáneamente al informe de los órganos competentes",
+    "La aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; una vez aprobados inicialmente se someterán a información pública por plazo mínimo de un mes, simultáneamente al informe de los órganos competentes"
+   ],
+   2,
+   "Art. 57.1 · Urbanismo de Aragón: La aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; una vez aprobados inicialmente se someterán a información pública por plazo mínimo de un mes, simultáneamente al informe de los órganos competentes.",
+   "urb 57.1",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-069",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 270.1 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La resolución que ponga fin al procedimiento de restablecimiento de la legalidad urbanística otorgará un plazo para el cumplimiento voluntario, advirtiéndose que, en caso de incumplimiento se impondrá solo una sanción, sin posibilidad de ejecución forzosa ni multas coercitivas",
+    "La resolución que ponga fin al procedimiento de restablecimiento de la legalidad urbanística otorgará un plazo para el cumplimiento voluntario, advirtiéndose que, en caso de incumplimiento se archivará el expediente al tratarse de una actuación sin título habilitante ya finalizada",
+    "La resolución que ponga fin al procedimiento de restablecimiento de la legalidad urbanística otorgará un plazo para el cumplimiento voluntario, advirtiéndose que, en caso de incumplimiento la Administración procederá a la ejecución forzosa mediante ejecución subsidiaria y la imposición de multas coercitivas"
+   ],
+   2,
+   "Art. 270.1 · Urbanismo de Aragón: La resolución que ponga fin al procedimiento de restablecimiento de la legalidad urbanística otorgará un plazo para el cumplimiento voluntario, advirtiéndose que, en caso de incumplimiento la Administración procederá a la ejecución forzosa mediante ejecución subsidiaria y la imposición de multas coercitivas.",
+   "urb 270.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-168",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 49.2 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición correcta:",
+   [
+    "La aprobación definitiva del plan general sólo podrá denegarse por motivos de alcance supralocal o de legalidad",
+    "La aprobación definitiva del plan general sólo podrá denegarse por razones de oportunidad, atendiendo a la conveniencia de la ordenación propuesta",
+    "La aprobación definitiva del plan general sólo podrá denegarse por cualquier motivo discrecional apreciado por el Consejo Provincial de Urbanismo"
+   ],
+   0,
+   "Art. 49.2 · Urbanismo de Aragón: La aprobación definitiva del plan general sólo podrá denegarse por motivos de alcance supralocal o de legalidad.",
+   "urb 49.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t20-061",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 282 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Las cantidades que pudiera ingresar la Administración como consecuencia de sanciones podrán afectarse a actividades urbanísticas",
+    "Las cantidades que pudiera ingresar la Administración como consecuencia de sanciones no deberán afectarse a actividades urbanísticas",
+    "Las cantidades que pudiera ingresar la Administración como consecuencia de sanciones deberán afectarse a actividades urbanísticas"
+   ],
+   2,
+   "Art. 282 · Urbanismo de Aragón: Las cantidades que pudiera ingresar la Administración como consecuencia de sanciones deberán afectarse a actividades urbanísticas. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "urb 282",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 220 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "Transcurrido el plazo de un mes sin que se haya notificado resolución expresa, el interesado podrá entender desestimada su solicitud en sede municipal, sin perjuicio de lo establecido en el apartado séptimo",
+    "Transcurrido el plazo de dos meses sin que se haya notificado resolución expresa, el interesado podrá entender desestimada su solicitud en sede municipal, sin perjuicio de lo establecido en el apartado séptimo",
+    "Transcurrido el plazo de tres meses sin que se haya notificado resolución expresa, el interesado podrá entender desestimada su solicitud en sede municipal, sin perjuicio de lo establecido en el apartado séptimo"
+   ],
+   1,
+   "Art. 220 · Urbanismo de Aragón: Transcurrido el plazo de dos meses sin que se haya notificado resolución expresa, el interesado podrá entender desestimada su solicitud en sede municipal, sin perjuicio de lo establecido en el apartado séptimo. Las otras dos frases cambian «dos meses» por «un mes» y «tres meses».",
+   "urb 220",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 83 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "En el acuerdo, el Gobierno deberá concretar el ámbito y efectos de la suspensión y, en su caso, atribución al Departamento competente en materia de urbanismo, garantizando en todo caso la participación en los procedimientos de que se trate al municipio",
+    "En el acuerdo, el Gobierno deberá concretar el ámbito y efectos de la revocación y, en su caso, atribución al Departamento competente en materia de urbanismo, garantizando en todo caso la participación en los procedimientos de que se trate al municipio",
+    "En el acuerdo, el Gobierno deberá concretar el ámbito y efectos de la anulación y, en su caso, atribución al Departamento competente en materia de urbanismo, garantizando en todo caso la participación en los procedimientos de que se trate al municipio"
+   ],
+   0,
+   "Art. 83 · Urbanismo de Aragón: En el acuerdo, el Gobierno deberá concretar el ámbito y efectos de la suspensión y, en su caso, atribución al Departamento competente en materia de urbanismo, garantizando en todo caso la participación en los procedimientos de que se trate al municipio. Las otras dos frases cambian «suspensión» por «revocación» y «anulación».",
+   "urb 83",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 155 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la opción correcta:",
+   [
+    "En la escritura de constitución podrá constar relación de los propietarios y, en su caso, empresas urbanizadoras",
+    "En la escritura de constitución no deberá constar relación de los propietarios y, en su caso, empresas urbanizadoras",
+    "En la escritura de constitución deberá constar relación de los propietarios y, en su caso, empresas urbanizadoras"
+   ],
+   2,
+   "Art. 155 · Urbanismo de Aragón: En la escritura de constitución deberá constar relación de los propietarios y, en su caso, empresas urbanizadoras. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "urb 155",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Tienen la consideración de solares las superficies de suelo urbano aptas para su uso inmediato que estén urbanizadas conforme al planeamiento",
+    "La delimitación de unidades de ejecución se contiene en el planeamiento urbanístico, pero podrán dividirse, agruparse, modificarse o suprimirse por el procedimiento de aprobación de los estudios de detalle",
+    "La alternativa técnica del programa de urbanización tendrá, como mínimo, entre otro contenido solo el proyecto de reparcelación y la identificación de los propietarios afectados por la actuación"
+   ],
+   2,
+   "La incorrecta es «la alternativa técnica del programa de urbanización tendrá, como mínimo, entre otro contenido solo el proyecto de reparcelación y la identificación de los propietarios afectados por la actuación». Lo correcto: la alternativa técnica del programa de urbanización tendrá, como mínimo, entre otro contenido memoria descriptiva, identificación del ámbito, bases técnicas y económicas para gestionar la ejec",
+   "urb 163",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El planeamiento urbanístico no podrá ordenar el cómputo de los aprovechamientos objetivos del subsuelo para calcular el aprovechamiento medio del ámbito correspondiente",
+    "La recepción de las obras de urbanización corresponde al municipio, de oficio o a instancia del urbanizador o del responsable de su conservación y entrega",
+    "Si el planeamiento general lo permite, la Administración deberá tener en cuenta el sistema o sistemas de actuación que puedan proponerse por los particulares en el proyecto de planeamiento de desarrollo de iniciativa privada"
+   ],
+   0,
+   "La incorrecta es «El planeamiento urbanístico no podrá ordenar el cómputo de los aprovechamientos objetivos del subsuelo para calcular el aprovechamiento medio del ámbito correspondiente»: cambia «podrá». Lo correcto: «El planeamiento urbanístico podrá ordenar el cómputo de los aprovechamientos objetivos del subsuelo para calcular el aprovechamiento medio del ámbito correspondiente».",
+   "urb 125",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los planes y demás instrumentos de ordenación urbanística tendrán vigencia indefinida",
+    "El suelo no urbanizable genérico el especialmente protegido por legislación sectorial, medioambiental o de patrimonio cultural",
+    "El aprovechamiento medio es el resultado de calcular el promedio de los aprovechamientos urbanísticos objetivos establecidos por el planeamiento en un determinado ámbito, para hacer posible la distribución equitativa de aprovechamientos y cargas"
+   ],
+   1,
+   "La incorrecta es «el suelo no urbanizable genérico el especialmente protegido por legislación sectorial, medioambiental o de patrimonio cultural». Lo correcto: el suelo no urbanizable genérico será la clase y categoría residual, constituyendo el clasificado y calificado como tal por el plan general.",
+   "urb 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las actas y diligencias extendidas por los inspectores urbanísticos tienen la naturaleza de documentos públicos y constituyen prueba de los hechos que motiven su formalización, salvo que se acredite lo contrario",
+    "La cuantía de cada multa no podrá alcanzar hasta el diez por ciento del coste estimado de las obras ordenadas",
+    "El órgano comarcal competente podrá subrogarse en el ejercicio de las competencias de protección de la legalidad urbanística del Alcalde, previo requerimiento para su ejercicio y en caso de inactividad municipal por plazo de un mes"
+   ],
+   1,
+   "La incorrecta es «La cuantía de cada multa no podrá alcanzar hasta el diez por ciento del coste estimado de las obras ordenadas»: cambia «podrá». Lo correcto: «La cuantía de cada multa podrá alcanzar hasta el diez por ciento del coste estimado de las obras ordenadas».",
+   "urb 270",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "En la escritura de constitución deberá constar estatutos y bases de la junta",
+    "La iniciativa no deberá abarcar una o varias unidades de ejecución completas",
+    "En la escritura de constitución deberá constar personas que hayan sido designadas para ocupar los cargos del órgano rector, que habrán de recaer necesariamente en personas físicas"
+   ],
+   1,
+   "La incorrecta es «La iniciativa no deberá abarcar una o varias unidades de ejecución completas»: cambia «deberá». Lo correcto: «La iniciativa deberá abarcar una o varias unidades de ejecución completas».",
+   "urb 153",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La solicitud para la iniciación del procedimiento de declaración de incumplimiento del deber de edificar no deberá contener la fundamentación del incumplimiento del deber de edificar por el propietario de la parcela o del solar",
+    "El documento de declaración responsable habrá de contener, además de los datos establecidos en la legislación del procedimiento administrativo común la identificación y ubicación de su objeto",
+    "Transcurrido el plazo de dos meses sin que se haya notificado resolución expresa, el interesado podrá entender desestimada su solicitud en sede municipal, sin perjuicio de lo establecido en el apartado séptimo"
+   ],
+   0,
+   "La incorrecta es «La solicitud para la iniciación del procedimiento de declaración de incumplimiento del deber de edificar no deberá contener la fundamentación del incumplimiento del deber de edificar por el propietario de la parcela o del solar»: cambia «deberá». Lo correcto: «La solicitud para la iniciación del procedimiento de declaración de incumplimiento del deber de edificar deberá contener la fundamentación de",
+   "urb 220",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La recepción de las obras de urbanización corresponde al municipio, de oficio o a instancia del urbanizador o del responsable de su conservación y entrega",
+    "El planeamiento urbanístico deberá ordenar el cómputo de los aprovechamientos objetivos del subsuelo para calcular el aprovechamiento medio del ámbito correspondiente",
+    "El sistema de actuación podrá ser sustituido, de forma justificada, de oficio o a instancia de parte y conforme al procedimiento de aprobación de los estudios de detalle"
+   ],
+   1,
+   "La incorrecta es «El planeamiento urbanístico deberá ordenar el cómputo de los aprovechamientos objetivos del subsuelo para calcular el aprovechamiento medio del ámbito correspondiente»: cambia «podrá». Lo correcto: «El planeamiento urbanístico podrá ordenar el cómputo de los aprovechamientos objetivos del subsuelo para calcular el aprovechamiento medio del ámbito correspondiente».",
+   "urb 125",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "El Consejo Provincial de Urbanismo podrá denegar la modificación de la delimitación del suelo urbano, además de por motivos de legalidad, por exceder del contenido de la delimitación, responder a una evolución de servicios no adecuada al modelo urbanístico o valorar la necesidad de recogerlo en un plan general",
+    "En suelo urbanizable delimitado, en tanto no se haya aprobado la correspondiente ordenación pormenorizada que permita la urbanización no se podrán edificar ni levantar cualesquiera otras instalaciones",
+    "La aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; una vez aprobados inicialmente se someterán a información pública por plazo mínimo de quince días, simultáneamente al informe de los órganos competentes"
+   ],
+   2,
+   "La incorrecta es «la aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; una vez aprobados inicialmente se someterán a información pública por plazo mínimo de quince días, simultáneamente al informe de los órganos competentes». Lo correcto: la aprobación inicial de los planes parciales de iniciativa municipal corresponde al Alcalde, dando cuenta al Pleno; ",
+   "urb 57.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Las sociedades urbanísticas no podrán tener por objeto la gestión de las expropiaciones para la ejecución de planes y proyectos de interés general de Aragón o planeamiento urbanístico u otras actuaciones determinadas",
+    "El suelo que no sea clasificado como suelo urbano o urbanizable tendrá la clasificación de suelo no urbanizable",
+    "La aprobación de proyectos de obras se regirá por lo establecido en la legislación de régimen local"
+   ],
+   0,
+   "La incorrecta es «Las sociedades urbanísticas no podrán tener por objeto la gestión de las expropiaciones para la ejecución de planes y proyectos de interés general de Aragón o planeamiento urbanístico u otras actuaciones determinadas»: cambia «podrán». Lo correcto: «Las sociedades urbanísticas podrán tener por objeto la gestión de las expropiaciones para la ejecución de planes y proyectos de interés general de Aragó",
+   "urb 9",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La ejecución del planeamiento urbanístico corresponde a la Comunidad Autónoma, que ejecuta el planeamiento municipal por subrogación de los municipios",
+    "Con carácter general, la actividad urbanística pública corresponde, según el art. 8 de la Ley de Urbanismo de Aragón a los municipios",
+    "El incumplimiento del deber de edificar habilitará al municipio para decretar, previa audiencia del obligado la expropiación por incumplimiento de la función social de la propiedad o proceder a la ejecución del planeamiento mediante sustitución del propietario"
+   ],
+   0,
+   "La incorrecta es «la ejecución del planeamiento urbanístico corresponde a la Comunidad Autónoma, que ejecuta el planeamiento municipal por subrogación de los municipios». Lo correcto: la ejecución del planeamiento urbanístico corresponde a los municipios; la de los planes y proyectos de interés general de Aragón corresponde a la Administración de la Comunidad Autónoma.",
+   "urb 119",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Corresponde al plan general la clasificación de todo el suelo del término municipal en suelo urbano, urbanizable y no urbanizable",
+    "Se entiende por reparcelación la venta de solares",
+    "El plan general de ordenación urbana clasifica el suelo y define los elementos fundamentales de la estructura general de la ordenación urbanística"
+   ],
+   1,
+   "La incorrecta es «se entiende por reparcelación la venta de solares». Lo correcto: se entiende por reparcelación la agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento.",
+   "urb 140",
+   "Proposición negativa",
+   "h-gestion",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "Los equipamientos que tengan carácter complementario entre sí, y especialmente los educativos, culturales y deportivos, si es posible, deberán ubicarse en parcelas próximas con objeto de facilitar su utilización conjunta",
+    "Cuando la propuesta de planeamiento de iniciativa no municipal establezca la gestión indirecta por urbanizador en el periodo de información pública, podrán presentarse propuestas alternativas de ordenación en competencia",
+    "Los municipios no podrán formular planes parciales en cualquier momento, de oficio o a instancia de parte, e introducir modificaciones en las propuestas presentadas a instancia de los particulares"
+   ],
+   2,
+   "La incorrecta es «Los municipios no podrán formular planes parciales en cualquier momento, de oficio o a instancia de parte, e introducir modificaciones en las propuestas presentadas a instancia de los particulares»: cambia «podrán». Lo correcto: «Los municipios podrán formular planes parciales en cualquier momento, de oficio o a instancia de parte, e introducir modificaciones en las propuestas presentadas a instanci",
+   "urb 56",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La ejecución del planeamiento urbanístico corresponde a los municipios; la de los planes y proyectos de interés general de Aragón corresponde a la Administración de la Comunidad Autónoma",
+    "Los propietarios del suelo no urbanizable tendrán derecho a usar, disfrutar y disponer de los terrenos para parcelarlos libremente, aunque ello dé lugar a la formación de núcleos de población",
+    "El plan general respetará las determinaciones vinculantes de las directrices de ordenación del territorio y de los planes de ordenación de los recursos naturales, y en su memoria se motivará toda eventual falta de seguimiento de las determinaciones indicativas de tales instrumentos"
+   ],
+   1,
+   "La incorrecta es «los propietarios del suelo no urbanizable tendrán derecho a usar, disfrutar y disponer de los terrenos para parcelarlos libremente, aunque ello dé lugar a la formación de núcleos de población». Lo correcto: los propietarios del suelo no urbanizable tendrán derecho a usar, disfrutar y disponer de los terrenos de conformidad con su naturaleza, destinándolos a fines agrícolas, forestales, ganaderos, ci",
+   "urb 28.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 155 de Decreto Legislativo 1/2014, de 8 de julio, Texto Refundido de la Ley de Urbanismo de Aragón, señale la proposición INCORRECTA:",
+   [
+    "La inscripción en el Registro de Entidades del Gobierno de Aragón no tendrá efectos de publicidad",
+    "En la escritura de constitución deberá constar copia de la publicación o, en su caso, certificación del acuerdo de aprobación definitiva de los estatutos y bases de la junta",
+    "En la escritura de constitución deberá constar relación de las fincas de las que son titulares"
+   ],
+   0,
+   "La incorrecta es «La inscripción en el Registro de Entidades del Gobierno de Aragón no tendrá efectos de publicidad»: niega lo que dice la ley. Lo correcto: «La inscripción en el Registro de Entidades del Gobierno de Aragón tendrá efectos de publicidad».",
+   "urb 155",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
    }
   ]
  ]

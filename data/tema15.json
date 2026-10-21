@@ -1859,7 +1859,8 @@
    "h-zaragoza",
    [
     "dieciséis distritos"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el art. 2 del Reglamento, los Distritos se rigen por:",
@@ -1875,7 +1876,8 @@
    "h-zaragoza",
    [
     "Juntas Municipales"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el art. 51 del Reglamento, se reconoce la iniciativa para proponer reglamentos y ordenanzas cuando la promueva un número de ciudadanos mayores de edad empadronados que represente:",
@@ -1891,7 +1893,8 @@
    "h-zaragoza",
    [
     "10 % del padrón"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 2 del Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza los Distritos del término municipal de Zaragoza son:",
@@ -1961,7 +1964,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 7"
+    "z": "Prueba oficial, pregunta 7",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2187,7 +2192,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2205,7 +2211,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2328,7 +2335,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2415,7 +2423,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2587,7 +2596,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2707,7 +2717,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2793,7 +2804,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2811,7 +2823,9 @@
    [],
    {
     "nuevo": 1,
-    "z": "Prueba oficial, pregunta 20"
+    "z": "Prueba oficial, pregunta 20",
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2967,7 +2981,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3054,7 +3069,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3140,7 +3156,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3192,7 +3209,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3503,7 +3521,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3624,7 +3643,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3642,7 +3662,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3660,7 +3681,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3696,7 +3718,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3714,7 +3737,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3784,7 +3808,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3820,7 +3845,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 12",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3873,7 +3899,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 27",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3961,7 +3988,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4086,7 +4114,8 @@
    {
     "nuevo": 1,
     "z": "Prueba oficial, pregunta 21",
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4316,7 +4345,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4388,7 +4418,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4443,7 +4474,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4516,7 +4548,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4551,7 +4584,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -5299,6 +5333,2528 @@
    {
     "nuevo": 1,
     "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 77 del Reglamento de Órganos Territoriales y de Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "El Ayuntamiento deberá solicitar la opinión de las entidades inscritas en el Censo Municipal de Entidades Ciudadanas sobre los asuntos más relevantes o sobre la calidad de los servicios públicos",
+    "El Ayuntamiento no podrá solicitar la opinión de las entidades inscritas en el Censo Municipal de Entidades Ciudadanas sobre los asuntos más relevantes o sobre la calidad de los servicios públicos",
+    "El Ayuntamiento podrá solicitar la opinión de las entidades inscritas en el Censo Municipal de Entidades Ciudadanas sobre los asuntos más relevantes o sobre la calidad de los servicios públicos"
+   ],
+   2,
+   "Art. 77 ROT: el Ayuntamiento, a través del Consejo de la Ciudad, del Observatorio Urbano o de la Comisión de Sugerencias, «podrá solicitar» la opinión de las entidades inscritas.",
+   "rot 77",
+   "Una sola palabra cambia el sentido",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 117 del Reglamento de Órganos Territoriales y de Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA sobre las funciones de los Consejos Sectoriales:",
+   [
+    "Presentar iniciativas, sugerencias y propuestas para ser debatidas en los Órganos Municipales correspondientes",
+    "Coordinarse con el Consejo de la Ciudad en todo cuanto afecte a ambos órganos de participación",
+    "Aprobar definitivamente los proyectos y disposiciones generales del sector"
+   ],
+   2,
+   "Los Consejos Sectoriales colaboran en los estudios y elaboración de programas, proyectos y disposiciones del sector, pero no los aprueban (art. 117).",
+   "rot 117",
+   "Proposición negativa",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 88 del Reglamento de Órganos Territoriales y de Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "El Alcalde podrá crear comisiones de estudio, grupos de trabajo o consejos sectoriales",
+    "El Pleno del Consejo de la Ciudad podrá crear comisiones de estudio, grupos de trabajo o consejos sectoriales",
+    "La Comisión Especial de Sugerencias y Reclamaciones podrá crear comisiones de estudio, grupos de trabajo o consejos sectoriales"
+   ],
+   1,
+   "Art. 88 ROT: el Pleno del Consejo de la Ciudad puede crearlos; tendrán finalidad concreta, composición determinada y duración prefijada.",
+   "rot 88",
+   "Una sola palabra cambia el sentido",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 10 del Reglamento de Órganos Territoriales y de Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Los actos que den lugar a reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico deberán ser fiscalizados e intervenidos por la Secretaría General del Pleno",
+    "Los actos que den lugar a reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico deberán ser fiscalizados e intervenidos por la Intervención Municipal",
+    "Los actos que den lugar a reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico deberán ser fiscalizados e intervenidos por el Tribunal de Cuentas"
+   ],
+   1,
+   "Art. 10 ROT: los actos con contenido económico deben ser fiscalizados e intervenidos por la Intervención Municipal (arts. 213 y ss. TRLRHL).",
+   "rot 10",
+   "Una sola palabra cambia el sentido",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "man",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 47 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Para regular las formas de promoción de la radio y televisión locales se elaborará un reglamento interno, garantizando la representación de todos los grupos políticos municipales y del Consejo de la Ciudad en los planes de difusión",
+    "Para regular las formas de promoción de la radio y televisión locales se elaborará un convenio con la Comunidad Autónoma",
+    "Para regular las formas de promoción de la radio y televisión locales se elaborará una ordenanza fiscal reguladora de la comunicación"
+   ],
+   0,
+   "Art. 47 · Reglamento de Órganos Territoriales: Para regular las formas de promoción de la radio y televisión locales se elaborará un reglamento interno, garantizando la representación de todos los grupos políticos municipales y del Consejo de la Ciudad en los planes de difusión.",
+   "rot 47",
+   "La afirmación, su negación y otro dato",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-193",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 61 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Para solicitar la inscripción en el Censo Municipal de Entidades Ciudadanas, las entidades presentarán, entre otros documentos solo los estatutos de la entidad, sin necesidad de aportar el CIF ni la certificación del número de socios",
+    "Para solicitar la inscripción en el Censo Municipal de Entidades Ciudadanas, las entidades presentarán, entre otros documentos instancia dirigida a la Alcaldía, copia de los estatutos, número de inscripción en el Registro de Asociaciones, acta de la última asamblea, sede social o delegación, CIF y certificación del número de socios",
+    "Para solicitar la inscripción en el Censo Municipal de Entidades Ciudadanas, las entidades presentarán, entre otros documentos solo el CIF y el acta de constitución, sin copia de los estatutos ni número de registro"
+   ],
+   1,
+   "Art. 61 · Reglamento de Órganos Territoriales: Para solicitar la inscripción en el Censo Municipal de Entidades Ciudadanas, las entidades presentarán, entre otros documentos instancia dirigida a la Alcaldía, copia de los estatutos, número de inscripción en el Registro de Asociaciones, acta de la última asamblea, sede social o delegación, CIF y certificación del número de socios.",
+   "rot 61",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-043",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 79 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento promoverá la participación de las entidades de la sociedad civil en los entes supramunicipales que complementen el fin público municipal sin limitación presupuestaria alguna",
+    "El Ayuntamiento promoverá la participación de las entidades de la sociedad civil en los entes supramunicipales que complementen el fin público municipal mediante convenio obligatorio con la Diputación",
+    "El Ayuntamiento promoverá la participación de las entidades de la sociedad civil en los entes supramunicipales que complementen el fin público municipal con arreglo a sus disponibilidades presupuestarias"
+   ],
+   2,
+   "Art. 79 · Reglamento de Órganos Territoriales: El Ayuntamiento promoverá la participación de las entidades de la sociedad civil en los entes supramunicipales que complementen el fin público municipal con arreglo a sus disponibilidades presupuestarias.",
+   "rot 79",
+   "La afirmación, su negación y otro dato",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-197",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 86 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El ámbito de actuación del Consejo de la Ciudad coincidirá con el de la provincia",
+    "El ámbito de actuación del Consejo de la Ciudad será el de cada distrito",
+    "El ámbito de actuación del Consejo de la Ciudad coincidirá con el del municipio"
+   ],
+   2,
+   "Art. 86 · Reglamento de Órganos Territoriales: El ámbito de actuación del Consejo de la Ciudad coincidirá con el del municipio.",
+   "rot 86",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-064",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 89 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Corresponde la Presidencia del Consejo de la Ciudad al Teniente de Alcalde de Participación Ciudadana, que podrá delegarla en cualquier miembro",
+    "Corresponde la Presidencia del Consejo de la Ciudad al Secretario general del Pleno, que ejercerá la presidencia por delegación del Alcalde",
+    "Corresponde la Presidencia del Consejo de la Ciudad al Alcalde de la Corporación, que podrá delegar el cargo en cualquier miembro del Consejo si así lo estima"
+   ],
+   2,
+   "Art. 89 · Reglamento de Órganos Territoriales: Corresponde la Presidencia del Consejo de la Ciudad al Alcalde de la Corporación, que podrá delegar el cargo en cualquier miembro del Consejo si así lo estima.",
+   "rot 89",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-067",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Son deberes de los miembros de los órganos del Consejo asistir a las reuniones, abstenerse cuando los asuntos afecten a intereses particulares de las entidades que representan y guardar la confidencialidad precisa",
+    "Son deberes de los miembros de los órganos del Consejo asistir solo a las sesiones plenarias y abstenerse de participar en las comisiones de estudio",
+    "Son deberes de los miembros de los órganos del Consejo votar siempre en bloque con la entidad que representan y comunicar sus acuerdos a la prensa"
+   ],
+   0,
+   "Art. 100 · Reglamento de Órganos Territoriales: Son deberes de los miembros de los órganos del Consejo asistir a las reuniones, abstenerse cuando los asuntos afecten a intereses particulares de las entidades que representan y guardar la confidencialidad precisa.",
+   "rot 100",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-077",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 107 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las sesiones de la Comisión Especial de Sugerencias y Reclamaciones serán públicas",
+    "Las sesiones de la Comisión Especial de Sugerencias y Reclamaciones serán públicas salvo decisión del Presidente",
+    "Las sesiones de la Comisión Especial de Sugerencias y Reclamaciones no serán públicas"
+   ],
+   2,
+   "Art. 107 · Reglamento de Órganos Territoriales: Las sesiones de la Comisión Especial de Sugerencias y Reclamaciones no serán públicas.",
+   "rot 107",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-085",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 109 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Podrá dirigirse a la Comisión para presentar quejas o reclamaciones solo las entidades inscritas en el Censo, y las autoridades administrativas en asuntos de su competencia",
+    "Podrá dirigirse a la Comisión para presentar quejas o reclamaciones solo las personas empadronadas en el municipio, siempre que acrediten una relación directa con el asunto",
+    "Podrá dirigirse a la Comisión para presentar quejas o reclamaciones toda persona, natural o jurídica, con capacidad de obrar, que invoque un interés legítimo; ninguna autoridad administrativa podrá presentar quejas en asuntos de su competencia"
+   ],
+   2,
+   "Art. 109 · Reglamento de Órganos Territoriales: Podrá dirigirse a la Comisión para presentar quejas o reclamaciones toda persona, natural o jurídica, con capacidad de obrar, que invoque un interés legítimo; ninguna autoridad administrativa podrá presentar quejas en asuntos de su competencia.",
+   "rot 109",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-086",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 112 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "La tramitación de las quejas, reclamaciones y sugerencias seguirá un tratamiento uniforme que garantice su resolución por el Pleno",
+    "La tramitación de las quejas, reclamaciones y sugerencias seguirá un tratamiento uniforme que garantice su rápida contestación o su conocimiento",
+    "La tramitación de las quejas, reclamaciones y sugerencias seguirá un tratamiento uniforme que garantice su archivo en el plazo de un mes"
+   ],
+   1,
+   "Art. 112 · Reglamento de Órganos Territoriales: La tramitación de las quejas, reclamaciones y sugerencias seguirá un tratamiento uniforme que garantice su rápida contestación o su conocimiento.",
+   "rot 112",
+   "La afirmación, su negación y otro dato",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-201",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 11 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "La actividad de las Juntas Municipales se basa, entre otros fines y objetivos en lograr la eficacia en la prestación de servicios, la desconcentración y proximidad de la gestión a los vecinos, la coordinación con los órganos centrales y la máxima participación de los vecinos",
+    "La actividad de las Juntas Municipales se basa, entre otros fines y objetivos garantizar la jerarquía y la uniformidad de los servicios, sin atender al equilibrio entre distritos",
+    "La actividad de las Juntas Municipales se basa, entre otros fines y objetivos sustituir al Pleno del Ayuntamiento en la gestión de los asuntos de su territorio y recaudar tributos propios"
+   ],
+   0,
+   "Art. 11 · Reglamento de Órganos Territoriales: La actividad de las Juntas Municipales se basa, entre otros fines y objetivos en lograr la eficacia en la prestación de servicios, la desconcentración y proximidad de la gestión a los vecinos, la coordinación con los órganos centrales y la máxima participación de los vecinos.",
+   "rot 11",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-094",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 34 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Consejo Rector de la Junta Vecinal se reunirá, como mínimo una vez al trimestre",
+    "El Consejo Rector de la Junta Vecinal se reunirá, como mínimo una vez al año",
+    "El Consejo Rector de la Junta Vecinal se reunirá, como mínimo una vez al mes"
+   ],
+   2,
+   "Art. 34 · Reglamento de Órganos Territoriales: El Consejo Rector de la Junta Vecinal se reunirá, como mínimo una vez al mes.",
+   "rot 34",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-127",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 43 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las Juntas Municipales y Vecinales no estarán asistidas, para su funcionamiento, por oficinas administrativas suficientemente dotadas, coordinadas a través del Consejo de Distrito al que pertenecen",
+    "Las Juntas Municipales y Vecinales estarán asistidas, para su funcionamiento, por oficinas administrativas suficientemente dotadas, coordinadas a través del Consejo de Distrito al que pertenecen",
+    "Las Juntas Municipales y Vecinales estarán asistidas, para su funcionamiento, por la Intervención municipal, que coordinará las oficinas a través del Área de Participación Ciudadana"
+   ],
+   1,
+   "Art. 43 · Reglamento de Órganos Territoriales: Las Juntas Municipales y Vecinales estarán asistidas, para su funcionamiento, por oficinas administrativas suficientemente dotadas, coordinadas a través del Consejo de Distrito al que pertenecen.",
+   "rot 43",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-137",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento de Zaragoza no reconoce el derecho de todos a la ciudad, como lugar de convivencia y espacio de realización humana, garantizando la participación ciudadana",
+    "El Ayuntamiento de Zaragoza reconoce el derecho de todos a la ciudad, como lugar de convivencia y espacio de realización humana, garantizando la participación ciudadana",
+    "El Ayuntamiento de Zaragoza reconoce el derecho exclusivo de los empadronados a votar en el Pleno del Ayuntamiento"
+   ],
+   1,
+   "Art. 6 · Reglamento de Órganos Territoriales: El Ayuntamiento de Zaragoza reconoce el derecho de todos a la ciudad, como lugar de convivencia y espacio de realización humana, garantizando la participación ciudadana.",
+   "rot 6",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-018",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 7 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Todos los vecinos no tienen derecho a la Iniciativa Ciudadana, a la Audiencia Pública, a la Consulta Popular, a la Encuesta Ciudadana y a requerir el acceso a los servicios de la Comisión Especial de Sugerencias y Reclamaciones",
+    "Todos los vecinos tienen derecho a la Iniciativa Ciudadana, a la Audiencia Pública, a la Consulta Popular, a la Encuesta Ciudadana y a designar a los miembros del Consejo de la Ciudad de Zaragoza mediante sufragio directo",
+    "Todos los vecinos tienen derecho a la Iniciativa Ciudadana, a la Audiencia Pública, a la Consulta Popular, a la Encuesta Ciudadana y a requerir el acceso a los servicios de la Comisión Especial de Sugerencias y Reclamaciones"
+   ],
+   2,
+   "Art. 7 · Reglamento de Órganos Territoriales: Todos los vecinos tienen derecho a la Iniciativa Ciudadana, a la Audiencia Pública, a la Consulta Popular, a la Encuesta Ciudadana y a requerir el acceso a los servicios de la Comisión Especial de Sugerencias y Reclamaciones.",
+   "rot 7",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-019",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 9 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Consejo de la Ciudad de Zaragoza se compone de representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas",
+    "El Consejo de la Ciudad de Zaragoza se compone de solo concejales de todos los grupos políticos, designados en proporción a su representación en el Pleno",
+    "El Consejo de la Ciudad de Zaragoza se compone de funcionarios municipales designados por el Alcalde para asesorar en materia de desarrollo local"
+   ],
+   0,
+   "Art. 9 · Reglamento de Órganos Territoriales: El Consejo de la Ciudad de Zaragoza se compone de representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas.",
+   "rot 9",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-021",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 45 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento potenciará los medios de comunicación locales y propiciará el acceso a los mismos de solo los grupos políticos municipales",
+    "El Ayuntamiento potenciará los medios de comunicación locales y propiciará el acceso a los mismos de las entidades declaradas de utilidad pública únicamente",
+    "El Ayuntamiento potenciará los medios de comunicación locales y propiciará el acceso a los mismos de los ciudadanos y asociaciones inscritas en el Censo Municipal de Entidades Ciudadanas"
+   ],
+   2,
+   "Art. 45 · Reglamento de Órganos Territoriales: El Ayuntamiento potenciará los medios de comunicación locales y propiciará el acceso a los mismos de los ciudadanos y asociaciones inscritas en el Censo Municipal de Entidades Ciudadanas.",
+   "rot 45",
+   "La afirmación, su negación y otro dato",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-192",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 48 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "A través de la página web municipal, el Ayuntamiento fomentará, entre otras finalidades sustituir las oficinas de atención presencial, de modo que los trámites se realicen solo por vía telemática",
+    "A través de la página web municipal, el Ayuntamiento fomentará, entre otras finalidades facilitar las gestiones con la Administración local, mejorar la transparencia, posibilitar trámites administrativos y facilitar el conocimiento de la red asociativa local",
+    "A través de la página web municipal, el Ayuntamiento fomentará, entre otras finalidades publicar solo las actas del Pleno y las ordenanzas municipales, sin otra información de carácter público"
+   ],
+   1,
+   "Art. 48 · Reglamento de Órganos Territoriales: A través de la página web municipal, el Ayuntamiento fomentará, entre otras finalidades facilitar las gestiones con la Administración local, mejorar la transparencia, posibilitar trámites administrativos y facilitar el conocimiento de la red asociativa local.",
+   "rot 48",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-025",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 55 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las sesiones del Pleno de la Corporación y las de los Plenos de las Juntas Municipales y Vecinales no son públicas",
+    "Las sesiones del Pleno de la Corporación y las de los Plenos de las Juntas Municipales y Vecinales son públicas solo si lo decide el Alcalde",
+    "Las sesiones del Pleno de la Corporación y las de los Plenos de las Juntas Municipales y Vecinales son públicas"
+   ],
+   2,
+   "Art. 55 · Reglamento de Órganos Territoriales: Las sesiones del Pleno de la Corporación y las de los Plenos de las Juntas Municipales y Vecinales son públicas.",
+   "rot 55",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-038",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 57 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento reconocerá las actividades, realizaciones o trayectorias de personas y entidades que constituyan respetables ejemplos de excelencia profesional en el ámbito municipal",
+    "El Ayuntamiento reconocerá las actividades, realizaciones o trayectorias de personas y entidades que constituyan respetables ejemplos de colaboración económica con el Ayuntamiento",
+    "El Ayuntamiento reconocerá las actividades, realizaciones o trayectorias de personas y entidades que constituyan respetables ejemplos de dignidad cívica, por su diligente cumplimiento de la Ley, la defensa de los derechos propios y ajenos y su respeto a las Instituciones Públicas"
+   ],
+   2,
+   "Art. 57 · Reglamento de Órganos Territoriales: El Ayuntamiento reconocerá las actividades, realizaciones o trayectorias de personas y entidades que constituyan respetables ejemplos de dignidad cívica, por su diligente cumplimiento de la Ley, la defensa de los derechos propios y ajenos y su respeto a las Instituciones Públicas.",
+   "rot 57",
+   "La afirmación, su negación y otro dato",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-194",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento, a través del Área de Participación Ciudadana, fomentará el asociacionismo y el voluntariado en entidades que tengan fines estatutarios de interés social",
+    "El Ayuntamiento, a través del Área de Participación Ciudadana, fomentará solo el asociacionismo vecinal, quedando excluido el voluntariado en entidades de interés social",
+    "El Ayuntamiento, a través del Área de Participación Ciudadana, fomentará la creación de partidos políticos locales y de asociaciones con fines lucrativos"
+   ],
+   0,
+   "Art. 58 · Reglamento de Órganos Territoriales: El Ayuntamiento, a través del Área de Participación Ciudadana, fomentará el asociacionismo y el voluntariado en entidades que tengan fines estatutarios de interés social.",
+   "rot 58",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-040",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 66 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Censo Municipal de Entidades Ciudadanas no será único, dependerá del Área de Participación Ciudadana y sus datos generales serán públicos; anualmente se elaborará un Fichero de Entidades Ciudadanas",
+    "El Censo Municipal de Entidades Ciudadanas será reservado, dependerá de la Alcaldía y sus datos no serán públicos",
+    "El Censo Municipal de Entidades Ciudadanas será único, dependerá del Área de Participación Ciudadana y sus datos generales serán públicos; anualmente se elaborará un Fichero de Entidades Ciudadanas"
+   ],
+   2,
+   "Art. 66 · Reglamento de Órganos Territoriales: El Censo Municipal de Entidades Ciudadanas será único, dependerá del Área de Participación Ciudadana y sus datos generales serán públicos; anualmente se elaborará un Fichero de Entidades Ciudadanas.",
+   "rot 66",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-048",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 72 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "La declaración de Interés ciudadano supone, entre otros derechos tener preferencia respecto de las entidades sin esta declaración en el acceso a las subvenciones municipales y a la utilización de locales públicos y espacios en Centros Cívicos",
+    "La declaración de Interés ciudadano supone, entre otros derechos acceso exclusivo a las subvenciones municipales y a los espacios de los Centros Cívicos",
+    "La declaración de Interés ciudadano supone, entre otros derechos participar con voto en las Comisiones del Pleno y recibir órdenes del día y actas de los órganos de decisión"
+   ],
+   0,
+   "Art. 72 · Reglamento de Órganos Territoriales: La declaración de Interés ciudadano supone, entre otros derechos tener preferencia respecto de las entidades sin esta declaración en el acceso a las subvenciones municipales y a la utilización de locales públicos y espacios en Centros Cívicos.",
+   "rot 72",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-053",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 80 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las entidades ciudadanas inscritas no podrán intervenir ante el Pleno del Ayuntamiento en relación con un punto del orden del día de la parte resolutiva mediante escrito a la Secretaría General del Pleno dirigido al Alcalde, a través de un único representante y con autorización del Alcalde",
+    "Las entidades ciudadanas inscritas podrán intervenir ante el Pleno del Ayuntamiento en relación con un punto del orden del día de la parte resolutiva mediante escrito a la Secretaría General del Pleno dirigido al Alcalde, a través de un único representante y con autorización del Alcalde",
+    "Las entidades ciudadanas inscritas podrán intervenir ante el Pleno del Ayuntamiento en relación con un punto del orden del día de la parte resolutiva mediante varios representantes sin autorización, que podrán intervenir tras el debate y la votación"
+   ],
+   1,
+   "Art. 80 · Reglamento de Órganos Territoriales: Las entidades ciudadanas inscritas podrán intervenir ante el Pleno del Ayuntamiento en relación con un punto del orden del día de la parte resolutiva mediante escrito a la Secretaría General del Pleno dirigido al Alcalde, a través de un único representante y con autorización del Alcalde.",
+   "rot 80",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-058",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 81 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las entidades ciudadanas inscritas podrán intervenir ante los Plenos de las Juntas Municipales y Vecinales a las que pertenezcan solicitándolo al Concejal Presidente o al Alcalde de Barrio, con autorización y a través de un único representante",
+    "Las entidades ciudadanas inscritas no podrán intervenir ante los Plenos de las Juntas Municipales y Vecinales a las que pertenezcan solicitándolo al Concejal Presidente o al Alcalde de Barrio, con autorización y a través de un único representante",
+    "Las entidades ciudadanas inscritas podrán intervenir ante los Plenos de las Juntas Municipales y Vecinales a las que pertenezcan sin necesidad de autorización del Presidente, a través de los representantes que designe la entidad"
+   ],
+   0,
+   "Art. 81 · Reglamento de Órganos Territoriales: Las entidades ciudadanas inscritas podrán intervenir ante los Plenos de las Juntas Municipales y Vecinales a las que pertenezcan solicitándolo al Concejal Presidente o al Alcalde de Barrio, con autorización y a través de un único representante.",
+   "rot 81",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-059",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 82 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento podrá promover instrumentos de participación local como los presupuestos y programas de inversión participativos y los talleres de debate sobre propuestas de futuro",
+    "El Ayuntamiento no podrá promover instrumentos de participación local como los presupuestos y programas de inversión participativos y los talleres de debate sobre propuestas de futuro",
+    "El Ayuntamiento podrá promover instrumentos de participación local como la iniciativa legislativa popular, para presentar proposiciones de ley ante las Cortes de Aragón"
+   ],
+   0,
+   "Art. 82 · Reglamento de Órganos Territoriales: El Ayuntamiento podrá promover instrumentos de participación local como los presupuestos y programas de inversión participativos y los talleres de debate sobre propuestas de futuro.",
+   "rot 82",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-060",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 85 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Son funciones del Consejo de la Ciudad, entre otras dirigir la política municipal y aprobar las ordenanzas sectoriales de los consejos sectoriales",
+    "Son funciones del Consejo de la Ciudad, entre otras coordinar y dirigir la participación sectorial de la ciudad, constituir consejos sectoriales y comisiones, presentar iniciativas, sugerencias y propuestas y proponer soluciones a problemas de la ciudad",
+    "Son funciones del Consejo de la Ciudad, entre otras aprobar el presupuesto municipal y resolver los recursos de alzada que se interpongan contra el Ayuntamiento"
+   ],
+   1,
+   "Art. 85 · Reglamento de Órganos Territoriales: Son funciones del Consejo de la Ciudad, entre otras coordinar y dirigir la participación sectorial de la ciudad, constituir consejos sectoriales y comisiones, presentar iniciativas, sugerencias y propuestas y proponer soluciones a problemas de la ciudad.",
+   "rot 85",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-063",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90.1 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Entre las funciones de la Presidencia del Consejo de la Ciudad figura aprobar los acuerdos del Pleno del Ayuntamiento",
+    "Entre las funciones de la Presidencia del Consejo de la Ciudad figura presidir y coordinar la actuación del Consejo de la Ciudad",
+    "Entre las funciones de la Presidencia del Consejo de la Ciudad figura resolver las quejas de la Comisión de Sugerencias"
+   ],
+   1,
+   "Art. 90.1 · Reglamento de Órganos Territoriales: Entre las funciones de la Presidencia del Consejo de la Ciudad figura presidir y coordinar la actuación del Consejo de la Ciudad.",
+   "rot 90.1",
+   "La afirmación, su negación y otro dato",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-198",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 91 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Presidente nombrará Vicepresidente del Consejo de la Ciudad al Secretario General del Pleno de la Corporación, que asistirá a las sesiones del Consejo",
+    "El Presidente nombrará Vicepresidente del Consejo de la Ciudad al Concejal más antiguo de la Corporación, que asumirá la Vicepresidencia por ministerio de la ley",
+    "El Presidente nombrará Vicepresidente del Consejo de la Ciudad al Teniente de Alcalde de Participación Ciudadana"
+   ],
+   2,
+   "Art. 91 · Reglamento de Órganos Territoriales: El Presidente nombrará Vicepresidente del Consejo de la Ciudad al Teniente de Alcalde de Participación Ciudadana.",
+   "rot 91",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-068",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 96 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El número, funciones o composición de las Comisiones, grupos de estudio y Consejos Sectoriales será determinado en cada caso por el Pleno del Consejo de la Ciudad",
+    "El número, funciones o composición de las Comisiones, grupos de estudio y Consejos Sectoriales no será determinado en cada caso por el Pleno del Consejo de la Ciudad",
+    "El número, funciones o composición de las Comisiones, grupos de estudio y Consejos Sectoriales será determinado en cada caso por el Pleno del Ayuntamiento"
+   ],
+   0,
+   "Art. 96 · Reglamento de Órganos Territoriales: El número, funciones o composición de las Comisiones, grupos de estudio y Consejos Sectoriales será determinado en cada caso por el Pleno del Consejo de la Ciudad.",
+   "rot 96",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-073",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Consejo de la Ciudad dispondrá de una Oficina Técnica adscrita al Área de Participación Ciudadana, con las funciones de órgano de soporte técnico y administrativo",
+    "El Consejo de la Ciudad dispondrá de una Oficina Técnica adscrita a la Secretaría General del Pleno, con funciones de soporte técnico y administrativo",
+    "El Consejo de la Ciudad dispondrá de una Oficina Técnica adscrita a la Alcaldía, que podrá encomendar sus funciones a entidades con ánimo de lucro"
+   ],
+   0,
+   "Art. 98 · Reglamento de Órganos Territoriales: El Consejo de la Ciudad dispondrá de una Oficina Técnica adscrita al Área de Participación Ciudadana, con las funciones de órgano de soporte técnico y administrativo.",
+   "rot 98",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-075",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 101 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Se perderá la condición de miembro del Consejo de la Ciudad, entre otros casos por acuerdo del Alcalde, aunque no medie renuncia ni declaración judicial que afecte a su capacidad",
+    "Se perderá la condición de miembro del Consejo de la Ciudad, entre otros casos por renuncia del interesado, por declaración judicial que afecte su capacidad de obrar y por cese en el cargo público representado",
+    "Se perderá la condición de miembro del Consejo de la Ciudad, entre otros casos por inasistencia a una sola sesión del Pleno o por decisión del Alcalde de la Corporación"
+   ],
+   1,
+   "Art. 101 · Reglamento de Órganos Territoriales: Se perderá la condición de miembro del Consejo de la Ciudad, entre otros casos por renuncia del interesado, por declaración judicial que afecte su capacidad de obrar y por cese en el cargo público representado.",
+   "rot 101",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-078",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 108.1 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento adscribirá al Área de Participación Ciudadana una Oficina Técnica de la Comisión Especial de Sugerencias y Reclamaciones que le no prestará apoyo técnico y administrativo en el desempeño de sus funciones",
+    "El Ayuntamiento adscribirá al Área de Participación Ciudadana una Oficina Técnica de la Comisión Especial de Sugerencias y Reclamaciones que le prestará apoyo técnico y administrativo en el desempeño de sus funciones",
+    "El Ayuntamiento adscribirá al Área de Participación Ciudadana una Oficina Técnica de la Comisión Especial de Sugerencias y Reclamaciones que le prestará representación ante los tribunales"
+   ],
+   1,
+   "Art. 108.1 · Reglamento de Órganos Territoriales: El Ayuntamiento adscribirá al Área de Participación Ciudadana una Oficina Técnica de la Comisión Especial de Sugerencias y Reclamaciones que le prestará apoyo técnico y administrativo en el desempeño de sus funciones.",
+   "rot 108.1",
+   "La afirmación, su negación y otro dato",
+   "h-comision-sugerencias",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-200",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 110 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las quejas o reclamaciones y sugerencias no podrán ser presentadas a elección del interesado, por los medios habituales utilizados en la Administración Pública",
+    "Las quejas o reclamaciones y sugerencias podrán ser presentadas solo por medios electrónicos, a través de la sede electrónica del Ayuntamiento de Zaragoza",
+    "Las quejas o reclamaciones y sugerencias podrán ser presentadas a elección del interesado, por los medios habituales utilizados en la Administración Pública"
+   ],
+   2,
+   "Art. 110 · Reglamento de Órganos Territoriales: Las quejas o reclamaciones y sugerencias podrán ser presentadas a elección del interesado, por los medios habituales utilizados en la Administración Pública.",
+   "rot 110",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-087",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 12 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las Juntas Municipales y Vecinales ejercerán las competencias todas las del Ayuntamiento, sin sujeción a los Planes de Desconcentración vigentes en cada momento",
+    "Las Juntas Municipales y Vecinales ejercerán las competencias solo las competencias de control sobre los órganos de gobierno municipal, no las de gestión",
+    "Las Juntas Municipales y Vecinales ejercerán las competencias asignables y desconcentrables por ley que les sean conferidas por los órganos municipales, con arreglo a los Planes de Desconcentración vigentes"
+   ],
+   2,
+   "Art. 12 · Reglamento de Órganos Territoriales: Las Juntas Municipales y Vecinales ejercerán las competencias asignables y desconcentrables por ley que les sean conferidas por los órganos municipales, con arreglo a los Planes de Desconcentración vigentes.",
+   "rot 12",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-095",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Corresponde al Presidente de la Junta Municipal, entre otras funciones dirigir el gobierno y la administración de la Junta, convocar y presidir las sesiones del Consejo Rector y del Pleno con voto de calidad y ejercer la dirección del personal de la Junta",
+    "Corresponde al Presidente de la Junta Municipal, entre otras funciones dirigir los servicios y obras de la Junta sin informar al Pleno de la Junta de las actuaciones",
+    "Corresponde al Presidente de la Junta Municipal, entre otras funciones aprobar el Manual de Funcionamiento Interno y el Programa de Actuación y de Gastos de la Junta"
+   ],
+   0,
+   "Art. 16 · Reglamento de Órganos Territoriales: Corresponde al Presidente de la Junta Municipal, entre otras funciones dirigir el gobierno y la administración de la Junta, convocar y presidir las sesiones del Consejo Rector y del Pleno con voto de calidad y ejercer la dirección del personal de la Junta.",
+   "rot 16",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-101",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "Su constitución se realizará por Juntas Municipales completas",
+    "El cargo de Presidente del Concejo Local será honorífico, sin perjuicio de las compensaciones, indemnizaciones o dietas que pueda percibir por los gastos de representación u otros de naturaleza análoga, en la cuantía y condiciones que apruebe la Junta de Gobierno Local de la Corporación",
+    "La actuación de los Consejos de Distrito podrá ajustarse a los principios de unidad de gobierno, eficacia, coordinación y solidaridad"
+   ],
+   0,
+   "La correcta es «Su constitución se realizará por Juntas Municipales completas». Las otras dos son falsas: lo correcto es «El cargo de Presidente del Concejo Local será honorífico, sin perjuicio de las compensaciones, indemnizaciones o dietas que pueda percibir por los gastos de representación u otros de naturaleza análoga, en la cuantía y condiciones que apruebe el Pleno de la Corporación» (la otra frase cambia «el P",
+   "rot 38",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 42 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Consejo Rector del Consejo de Distrito está formado por solo los Presidentes de las Juntas, sin representación de los grupos municipales ni del movimiento vecinal",
+    "El Consejo Rector del Consejo de Distrito está formado por el Alcalde y los Concejales Delegados, con voz y voto, junto con los Presidentes de las Juntas",
+    "El Consejo Rector del Consejo de Distrito está formado por el Presidente del Consejo de Distrito y los Presidentes de las Juntas; con voz y sin voto, un Vocal por cada grupo municipal y un representante del movimiento vecinal"
+   ],
+   2,
+   "Art. 42 · Reglamento de Órganos Territoriales: El Consejo Rector del Consejo de Distrito está formado por el Presidente del Consejo de Distrito y los Presidentes de las Juntas; con voz y sin voto, un Vocal por cada grupo municipal y un representante del movimiento vecinal.",
+   "rot 42",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-136",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 4 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Los Consejos de Distrito no son órganos territoriales de gestión desconcentrada para la prestación de servicios y el acercamiento del Ayuntamiento a los ciudadanos, que sirven de apoyo y cauce para la tramitación de los asuntos derivados de la gestión de las Juntas",
+    "Los Consejos de Distrito son órganos territoriales de gestión desconcentrada para la prestación de servicios y el acercamiento del Ayuntamiento a los ciudadanos, que sirven de apoyo y cauce para la tramitación de los asuntos derivados de la gestión de las Juntas",
+    "Los Consejos de Distrito son órganos consultivos de la ciudad para la prestación de servicios y el acercamiento a los ciudadanos"
+   ],
+   1,
+   "Art. 4 · Reglamento de Órganos Territoriales: Los Consejos de Distrito son órganos territoriales de gestión desconcentrada para la prestación de servicios y el acercamiento del Ayuntamiento a los ciudadanos, que sirven de apoyo y cauce para la tramitación de los asuntos derivados de la gestión de las Juntas.",
+   "rot 4",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-016",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 8 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El instrumento básico para las relaciones de la Administración municipal con las entidades ciudadanas no es el Censo Municipal de Entidades Ciudadanas",
+    "El instrumento básico para las relaciones de la Administración municipal con las entidades ciudadanas es el Censo Municipal de Entidades Ciudadanas",
+    "El instrumento básico para las relaciones de la Administración municipal con las entidades ciudadanas es el Consejo de la Ciudad"
+   ],
+   1,
+   "Art. 8 · Reglamento de Órganos Territoriales: El instrumento básico para las relaciones de la Administración municipal con las entidades ciudadanas es el Censo Municipal de Entidades Ciudadanas.",
+   "rot 8",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-020",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "El acceso a la Comisión Especial de Sugerencias y Reclamaciones cuya finalidad no es la defensa de los derechos de los vecinos ante la Administración municipal",
+    "En el consejo de redacción del boletín podrán estar representados todos los grupos políticos municipales y el Consejo de la Ciudad de Zaragoza",
+    "Todos los servicios municipales estarán obligados a informar estas peticiones, sin que ello suponga detrimento de su actividad y sin más limitación que las previstas en la legislación básica procedimental"
+   ],
+   2,
+   "La correcta es «Todos los servicios municipales estarán obligados a informar estas peticiones, sin que ello suponga detrimento de su actividad y sin más limitación que las previstas en la legislación básica procedimental». Las otras dos son falsas: lo correcto es «El acceso a la Comisión Especial de Sugerencias y Reclamaciones cuya finalidad es la defensa de los derechos de los vecinos ante la Administración municipa",
+   "rot 44",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 63 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las entidades inscritas están obligadas a comunicar al Ayuntamiento cualquier modificación de los datos incluidos en la documentación de inscripción dentro de los quince días siguientes al de la fecha en que dicha modificación se haya producido",
+    "Las entidades inscritas están obligadas a comunicar al Ayuntamiento cualquier modificación de los datos incluidos en la documentación de inscripción dentro del trimestre siguiente al de la fecha en que dicha modificación se haya producido",
+    "Las entidades inscritas están obligadas a comunicar al Ayuntamiento cualquier modificación de los datos incluidos en la documentación de inscripción dentro del mes siguiente al de la fecha en que dicha modificación se haya producido"
+   ],
+   2,
+   "Art. 63 · Reglamento de Órganos Territoriales: Las entidades inscritas están obligadas a comunicar al Ayuntamiento cualquier modificación de los datos incluidos en la documentación de inscripción dentro del mes siguiente al de la fecha en que dicha modificación se haya producido.",
+   "rot 63",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-045",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 64 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las entidades inscritas, cuando sean requeridas por el Censo, están obligadas a presentar un balance contable auditado del ejercicio anterior y la relación de subvenciones recibidas",
+    "Las entidades inscritas, cuando sean requeridas por el Censo, están obligadas a presentar una declaración responsable sobre el cumplimiento de los requisitos de inscripción en el Censo",
+    "Las entidades inscritas, cuando sean requeridas por el Censo, están obligadas a presentar una memoria de las actividades del año anterior y acreditar el número de asociados y los nombramientos de sus cargos directivos"
+   ],
+   2,
+   "Art. 64 · Reglamento de Órganos Territoriales: Las entidades inscritas, cuando sean requeridas por el Censo, están obligadas a presentar una memoria de las actividades del año anterior y acreditar el número de asociados y los nombramientos de sus cargos directivos.",
+   "rot 64",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-046",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 65 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Los datos del Censo deberán ser enviados a la totalidad de las Áreas Municipales una vez por trimestre y siempre que un órgano lo solicite verbalmente al Departamento responsable del Censo",
+    "Los datos del Censo deberán ser enviados a la totalidad de las Áreas Municipales una vez por trimestre y siempre que un órgano lo solicite de forma tácita al Departamento responsable del Censo",
+    "Los datos del Censo deberán ser enviados a la totalidad de las Áreas Municipales una vez por trimestre y siempre que un órgano lo solicite por escrito al Departamento responsable del Censo"
+   ],
+   2,
+   "Art. 65 · Reglamento de Órganos Territoriales: Los datos del Censo deberán ser enviados a la totalidad de las Áreas Municipales una vez por trimestre y siempre que un órgano lo solicite por escrito al Departamento responsable del Censo. Las otras dos frases cambian «por escrito» por «verbalmente» y «de forma tácita».",
+   "rot 65",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-047",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 74 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Las entidades declaradas de Interés ciudadano deberán presentar todos los años, antes del 1 de marzo la actualización de los documentos presentados para su solicitud; la falta de presentación deberá dar lugar a la pérdida de la declaración",
+    "Las entidades declaradas de Interés ciudadano deberán presentar todos los años, antes del 1 de marzo la actualización de los documentos presentados para su solicitud; la falta de presentación podrá dar lugar a la pérdida de la declaración",
+    "Las entidades declaradas de Interés ciudadano deberán presentar todos los años, antes del 1 de marzo la actualización de los documentos presentados para su solicitud; la falta de presentación no podrá dar lugar a la pérdida de la declaración"
+   ],
+   1,
+   "Art. 74 · Reglamento de Órganos Territoriales: Las entidades declaradas de Interés ciudadano deberán presentar todos los años, antes del 1 de marzo la actualización de los documentos presentados para su solicitud; la falta de presentación podrá dar lugar a la pérdida de la declaración. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "rot 74",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-054",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 93 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Corresponde al Pleno del Consejo realizar las funciones del artículo 85 y las que le encomiende el Pleno Municipal",
+    "Corresponde al Pleno del Consejo aprobar los presupuestos del Consejo y las ordenanzas sectoriales que afecten a la participación",
+    "Corresponde al Pleno del Consejo nombrar al Presidente del Consejo y a los miembros de las comisiones de estudio"
+   ],
+   0,
+   "Art. 93 · Reglamento de Órganos Territoriales: Corresponde al Pleno del Consejo realizar las funciones del artículo 85 y las que le encomiende el Pleno Municipal.",
+   "rot 93",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-070",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 95 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Consejo de la Ciudad no podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter temporal o permanente",
+    "El Consejo de la Ciudad podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter siempre permanente",
+    "El Consejo de la Ciudad podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter temporal o permanente"
+   ],
+   2,
+   "Art. 95 · Reglamento de Órganos Territoriales: El Consejo de la Ciudad podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter temporal o permanente.",
+   "rot 95",
+   "La afirmación, su negación y otro dato",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-199",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 97 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "El Consejo Municipal de Niños/as deberá crearse como órgano de participación ciudadana para tratar los asuntos relativos a la situación de los niños de la ciudad",
+    "El Consejo Municipal de Niños/as podrá crearse como órgano de participación ciudadana para tratar los asuntos relativos a la situación de los niños de la ciudad",
+    "El Consejo Municipal de Niños/as no podrá crearse como órgano de participación ciudadana para tratar los asuntos relativos a la situación de los niños de la ciudad"
+   ],
+   1,
+   "Art. 97 · Reglamento de Órganos Territoriales: El Consejo Municipal de Niños/as podrá crearse como órgano de participación ciudadana para tratar los asuntos relativos a la situación de los niños de la ciudad. Las otras dos frases cambian «Podrá» por «Deberá» y «no podrá».",
+   "rot 97",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-074",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "Sus miembros serán nombrados por la Junta de Gobierno Local a propuesta de sus respectivos grupos políticos",
+    "Si la aplicación de una norma legítimamente acordada fuere la que condujere a resultados injustos o dañosos, la Comisión deberá recomendar su modificación o derogación",
+    "Las contestaciones o decisiones emanadas de la Comisión Especial de Sugerencias y Reclamaciones no serán susceptibles de recurso alguno"
+   ],
+   2,
+   "La correcta es «Las contestaciones o decisiones emanadas de la Comisión Especial de Sugerencias y Reclamaciones no serán susceptibles de recurso alguno». Las otras dos son falsas: lo correcto es «Sus miembros serán nombrados por el Alcalde a propuesta de sus respectivos grupos políticos» (la otra frase cambia «el Alcalde») y «Si la aplicación de una norma legítimamente acordada fuere la que condujere a resultados inj",
+   "rot 103",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 114 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Cuando una queja presentada en la Comisión esté tramitándose por el Justicia de Aragón la Comisión se abstendrá de continuar sus actuaciones a resultas de la decisión tomada por el Justicia",
+    "Cuando una queja presentada en la Comisión esté tramitándose por el Justicia de Aragón la Comisión resolverá antes que el Justicia, que se abstendrá de continuar sus actuaciones",
+    "Cuando una queja presentada en la Comisión esté tramitándose por el Justicia de Aragón la Comisión continuará paralelamente su investigación, para contrastar el resultado con el del Justicia"
+   ],
+   0,
+   "Art. 114 · Reglamento de Órganos Territoriales: Cuando una queja presentada en la Comisión esté tramitándose por el Justicia de Aragón la Comisión se abstendrá de continuar sus actuaciones a resultas de la decisión tomada por el Justicia.",
+   "rot 114",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-090",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Todas las sesiones de las Juntas respetarán el principio de publicidad restringida, de modo que solo asistan los miembros y los representantes de las entidades",
+    "Todas las sesiones de las Juntas respetarán el principio de duración máxima de dos horas, finalizando la sesión aunque queden asuntos del orden del día",
+    "Todas las sesiones de las Juntas respetarán el principio de unidad de acto, procurándose que finalicen el mismo día que comiencen"
+   ],
+   2,
+   "Art. 26 · Reglamento de Órganos Territoriales: Todas las sesiones de las Juntas respetarán el principio de unidad de acto, procurándose que finalicen el mismo día que comiencen.",
+   "rot 26",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-116",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 39 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El acuerdo de creación de cada uno de los Consejos de Distrito no corresponde al Pleno del Ayuntamiento de Zaragoza",
+    "El acuerdo de creación de cada uno de los Consejos de Distrito corresponde al Pleno del Ayuntamiento de Zaragoza",
+    "El acuerdo de creación de cada uno de los Consejos de Distrito corresponde a la Junta de Gobierno Local"
+   ],
+   1,
+   "Art. 39 · Reglamento de Órganos Territoriales: El acuerdo de creación de cada uno de los Consejos de Distrito corresponde al Pleno del Ayuntamiento de Zaragoza.",
+   "rot 39",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-132",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Son órganos de los Consejos de Distrito el Presidente y el Consejo Rector",
+    "Son órganos de los Consejos de Distrito el Vicepresidente y el Consejo Rector",
+    "Son órganos de los Consejos de Distrito el Secretario y el Consejo Rector"
+   ],
+   0,
+   "Art. 40 · Reglamento de Órganos Territoriales: Son órganos de los Consejos de Distrito el Presidente y el Consejo Rector. Las otras dos frases cambian «El Presidente» por «el Vicepresidente» y «el Secretario».",
+   "rot 40",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-133",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 60 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Las entidades con estructura muy descentralizada y suficientemente autónoma deberán inscribir por separado a cada uno de sus grupos en las Juntas Municipales o Vecinales correspondientes",
+    "Las entidades con estructura muy descentralizada y suficientemente autónoma podrán inscribir por separado a cada uno de sus grupos en las Juntas Municipales o Vecinales correspondientes",
+    "Las entidades con estructura muy descentralizada y suficientemente autónoma no podrán inscribir por separado a cada uno de sus grupos en las Juntas Municipales o Vecinales correspondientes"
+   ],
+   1,
+   "Art. 60 · Reglamento de Órganos Territoriales: Las entidades con estructura muy descentralizada y suficientemente autónoma podrán inscribir por separado a cada uno de sus grupos en las Juntas Municipales o Vecinales correspondientes. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "rot 60",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 71 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las entidades ciudadanas que lleven inscritas más de dos años en el Censo no podrán solicitar la declaración de Interés ciudadano, de carácter vecinal, ambiental, deportivo, cultural, social u otras análogas",
+    "Las entidades ciudadanas que lleven inscritas más de dos años en el Censo podrán solicitar la declaración de utilidad pública supramunicipal, que concede el Ayuntamiento tras el informe del Consejo",
+    "Las entidades ciudadanas que lleven inscritas más de dos años en el Censo podrán solicitar la declaración de Interés ciudadano, de carácter vecinal, ambiental, deportivo, cultural, social u otras análogas"
+   ],
+   2,
+   "Art. 71 · Reglamento de Órganos Territoriales: Las entidades ciudadanas que lleven inscritas más de dos años en el Censo podrán solicitar la declaración de Interés ciudadano, de carácter vecinal, ambiental, deportivo, cultural, social u otras análogas.",
+   "rot 71",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-052",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 87 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Cumplimentar los acuerdos adoptados, previo el cúmplase de la Presidencia, así como su notificación en forma",
+    "Cumplimentar los acuerdos adoptados, posterior el cúmplase de la Presidencia, así como su notificación en forma",
+    "Cumplimentar los acuerdos adoptados, simultáneo el cúmplase de la Presidencia, así como su notificación en forma"
+   ],
+   0,
+   "Art. 87 · Reglamento de Órganos Territoriales: Cumplimentar los acuerdos adoptados, previo el cúmplase de la Presidencia, así como su notificación en forma. Las otras dos frases cambian «previo» por «posterior» y «simultáneo».",
+   "rot 87",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 111 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Todas las quejas, reclamaciones y sugerencias formuladas en soporte papel no deberán ser tramitadas en la Oficina Técnica de la Comisión",
+    "Todas las quejas, reclamaciones y sugerencias formuladas en soporte papel deberán ser tramitadas en la Oficina Técnica de la Comisión",
+    "Todas las quejas, reclamaciones y sugerencias formuladas en soporte papel deberán ser tramitadas en la Alcaldía"
+   ],
+   1,
+   "Art. 111 · Reglamento de Órganos Territoriales: Todas las quejas, reclamaciones y sugerencias formuladas en soporte papel deberán ser tramitadas en la Oficina Técnica de la Comisión.",
+   "rot 111",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-088",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Corresponden al Pleno de la Junta Municipal, en todo caso dictar bandos y disponer gastos dentro de los límites de los decretos de delegación de la Alcaldía",
+    "Corresponden al Pleno de la Junta Municipal, en todo caso el control de la gestión del Presidente y la reprobación de ésta, la aprobación del Manual de Funcionamiento Interno y del Programa de Actuación y de Gastos",
+    "Corresponden al Pleno de la Junta Municipal, en todo caso dirigir los servicios y obras de la Junta y ejecutar los acuerdos del Consejo Rector"
+   ],
+   1,
+   "Art. 18 · Reglamento de Órganos Territoriales: Corresponden al Pleno de la Junta Municipal, en todo caso el control de la gestión del Presidente y la reprobación de ésta, la aprobación del Manual de Funcionamiento Interno y del Programa de Actuación y de Gastos.",
+   "rot 18",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-105",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 3 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "La actuación de las Juntas Municipales y de las Juntas Vecinales debe regirse por los principios de unidad de gobierno, jerarquía, eficiencia y solidaridad",
+    "La actuación de las Juntas Municipales y de las Juntas Vecinales debe regirse por los principios de jerarquía y desconcentración",
+    "La actuación de las Juntas Municipales y de las Juntas Vecinales debe regirse por los principios de unidad de gobierno, eficacia, coordinación y solidaridad"
+   ],
+   2,
+   "Art. 3 · Reglamento de Órganos Territoriales: La actuación de las Juntas Municipales y de las Juntas Vecinales debe regirse por los principios de unidad de gobierno, eficacia, coordinación y solidaridad.",
+   "rot 3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-015",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 46 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Ayuntamiento promoverá la edición de un boletín municipal con periodicidad semestral",
+    "El Ayuntamiento promoverá la edición de un boletín municipal con periodicidad trimestral",
+    "El Ayuntamiento promoverá la edición de un boletín municipal con periodicidad mensual"
+   ],
+   1,
+   "Art. 46 · Reglamento de Órganos Territoriales: El Ayuntamiento promoverá la edición de un boletín municipal con periodicidad trimestral.",
+   "rot 46",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-024",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 68 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "La declaración de interés público municipal la acuerda la Junta de Gobierno por mayoría simple",
+    "La declaración de interés público municipal la acuerda el Alcalde",
+    "La declaración de interés público municipal la acuerda el Pleno por mayoría absoluta"
+   ],
+   2,
+   "Art. 68 · Reglamento de Órganos Territoriales: La declaración de interés público municipal la acuerda el Pleno por mayoría absoluta.",
+   "rot 68",
+   "La afirmación, su negación y otro dato",
+   "h-entidades",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-154",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 13 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "La atribución de competencias a los Distritos deberá hacerse con carácter general para todos los Distritos; el Alcalde podrá establecer actividades que, por su carácter experimental o específico, solo puedan ser ejercidas por uno o más Distritos",
+    "La atribución de competencias a los Distritos deberá hacerse con carácter general para todos los Distritos; la Junta de Gobierno Local podrá establecer actividades que, por su carácter experimental o específico, solo puedan ser ejercidas por uno o más Distritos",
+    "La atribución de competencias a los Distritos deberá hacerse con carácter general para todos los Distritos; el Pleno podrá establecer actividades que, por su carácter experimental o específico, solo puedan ser ejercidas por uno o más Distritos"
+   ],
+   2,
+   "Art. 13 · Reglamento de Órganos Territoriales: La atribución de competencias a los Distritos deberá hacerse con carácter general para todos los Distritos; el Pleno podrá establecer actividades que, por su carácter experimental o específico, solo puedan ser ejercidas por uno o más Distritos. Las otras dos frases cambian «el Pleno» por «el Alcalde» y «la Junta de Gobierno Local».",
+   "rot 13",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-096",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 5 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El proceso de desconcentración municipal en sus órganos territoriales no será continuo y uniforme en todo el ámbito municipal; pueden aprobarse programas de desconcentración como experiencias piloto en una o varias Juntas",
+    "El proceso de desconcentración municipal en sus órganos territoriales será voluntario para cada Junta Municipal y Vecinal, que decidirá si acepta las competencias desconcentradas",
+    "El proceso de desconcentración municipal en sus órganos territoriales será continuo y uniforme en todo el ámbito municipal; pueden aprobarse programas de desconcentración como experiencias piloto en una o varias Juntas"
+   ],
+   2,
+   "Art. 5 · Reglamento de Órganos Territoriales: El proceso de desconcentración municipal en sus órganos territoriales será continuo y uniforme en todo el ámbito municipal; pueden aprobarse programas de desconcentración como experiencias piloto en una o varias Juntas.",
+   "rot 5",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-017",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 51 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Se reconoce la iniciativa para proponer reglamentos y ordenanzas cuando la promueva un número de ciudadanos mayores de edad empadronados que represente el 12 % del padrón municipal",
+    "Se reconoce la iniciativa para proponer reglamentos y ordenanzas cuando la promueva un número de ciudadanos mayores de edad empadronados que represente el 10 % del padrón municipal",
+    "Se reconoce la iniciativa para proponer reglamentos y ordenanzas cuando la promueva un número de ciudadanos mayores de edad empadronados que represente el 6 % del padrón municipal"
+   ],
+   1,
+   "Art. 51 · Reglamento de Órganos Territoriales: Se reconoce la iniciativa para proponer reglamentos y ordenanzas cuando la promueva un número de ciudadanos mayores de edad empadronados que represente el 10 % del padrón municipal. Las otras dos frases cambian «10» por «12» y «6».",
+   "rot 51",
+   "Una sola palabra cambia el sentido",
+   "h-zaragoza",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-009",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "Las Actas de las sesiones, una vez aprobadas, se transcribirán en el libro de Actas que se habilitará a este efecto, y deberá llevar en todas sus hojas, debidamente foliadas, la firma del Presidente y sello de la Junta",
+    "Las mociones no tendrán ordinariamente por objeto el pronunciamiento del Pleno sobre la necesidad de iniciar actuaciones con una o más finalidades determinadas",
+    "El órgano colegiado de gobierno, en caso de confirmación de la suspensión de un acuerdo, podrá solicitar el alzamiento en interpelación escrita a la Junta de Gobierno Local del Ayuntamiento"
+   ],
+   0,
+   "La correcta es «Las Actas de las sesiones, una vez aprobadas, se transcribirán en el libro de Actas que se habilitará a este efecto, y deberá llevar en todas sus hojas, debidamente foliadas, la firma del Presidente y sello de la Junta». Las otras dos son falsas: lo correcto es «Las mociones tendrán ordinariamente por objeto el pronunciamiento del Pleno sobre la necesidad de iniciar actuaciones con una o más finalidad",
+   "rot 27",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 37 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Los Consejos de Distrito son órganos de ámbito territorial para la desconcentración administrativa que sirven de cauce para la tramitación de los asuntos derivados de la gestión municipal en su ámbito territorial",
+    "Los Consejos de Distrito no son órganos de ámbito territorial para la desconcentración administrativa que sirven de cauce para la tramitación de los asuntos derivados de la gestión municipal en su ámbito territorial",
+    "Los Consejos de Distrito son órganos de la Comunidad Autónoma de Aragón para la tramitación de asuntos de gestión municipal"
+   ],
+   0,
+   "Art. 37 · Reglamento de Órganos Territoriales: Los Consejos de Distrito son órganos de ámbito territorial para la desconcentración administrativa que sirven de cauce para la tramitación de los asuntos derivados de la gestión municipal en su ámbito territorial.",
+   "rot 37",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-130",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "No será necesario aportar más de 5.000 firmas en el caso de las Juntas Municipales ni más de 500 en el de las Juntas Vecinales",
+    "El ámbito de trabajo de la Oficina Municipal de Apoyo al Ciudadano no es de Junta Municipal o Vecinal",
+    "La Oficina Municipal de Apoyo al Ciudadano no es un servicio que el Ayuntamiento presta a los ciudadanos y colectivos para el desarrollo de demandas de servicios, proyectos u obras de interés general, para que sean prestados por el Consistorio"
+   ],
+   0,
+   "La correcta es «No será necesario aportar más de 5.000 firmas en el caso de las Juntas Municipales ni más de 500 en el de las Juntas Vecinales». Las otras dos son falsas: lo correcto es «El ámbito de trabajo de la Oficina Municipal de Apoyo al Ciudadano es de Junta Municipal o Vecinal» (la otra frase la niega) y «La Oficina Municipal de Apoyo al Ciudadano es un servicio que el Ayuntamiento presta a los ciudadanos y c",
+   "rot 54",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "Las preguntas serán contestadas por escrito en el plazo máximo de veinte días, salvo que el preguntado quiera dar respuesta inmediata",
+    "Todas las entidades inscritas podrán formar parte del Consejo de la Ciudad de Zaragoza a través de la Asamblea Ciudadana",
+    "Los ruegos y preguntas deberán ser formulados ante el Alcalde con brevedad, ajustándose a lo solicitado previamente"
+   ],
+   1,
+   "La correcta es «Todas las entidades inscritas podrán formar parte del Consejo de la Ciudad de Zaragoza a través de la Asamblea Ciudadana». Las otras dos son falsas: lo correcto es «Las preguntas serán contestadas por escrito en el plazo máximo de treinta días, salvo que el preguntado quiera dar respuesta inmediata» (la otra frase cambia «treinta días») y «Los ruegos y preguntas deberán ser formulados ante el Pleno co",
+   "rot 59",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 73 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Se publicarán en el Boletín Oficial del Estado y en el tablón de anuncios de la Corporación",
+    "Se publicarán en el Boletín Oficial de Aragón y en el tablón de anuncios de la Corporación",
+    "Se publicarán en el Boletín Oficial de la Provincia y en el tablón de anuncios de la Corporación"
+   ],
+   1,
+   "Art. 73 · Reglamento de Órganos Territoriales: Se publicarán en el Boletín Oficial de Aragón y en el tablón de anuncios de la Corporación. Las otras dos frases cambian «Boletín Oficial de Aragón» por «Boletín Oficial del Estado» y «Boletín Oficial de la Provincia».",
+   "rot 73",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 115 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "La Comisión Especial de Sugerencias y Reclamaciones dará cuenta al Pleno de la gestión realizada en una sesión extraordinaria convocada al efecto, mediante informe o memoria anual presentado por el Presidente de la Comisión",
+    "La Comisión Especial de Sugerencias y Reclamaciones dará cuenta al Pleno de la gestión realizada en una sesión extraordinaria convocada al efecto, mediante informe o memoria anual presentado por el Vicepresidente de la Comisión",
+    "La Comisión Especial de Sugerencias y Reclamaciones dará cuenta al Pleno de la gestión realizada en una sesión extraordinaria convocada al efecto, mediante informe o memoria anual presentado por el Secretario de la Comisión"
+   ],
+   0,
+   "Art. 115 · Reglamento de Órganos Territoriales: La Comisión Especial de Sugerencias y Reclamaciones dará cuenta al Pleno de la gestión realizada en una sesión extraordinaria convocada al efecto, mediante informe o memoria anual presentado por el Presidente de la Comisión. Las otras dos frases cambian «el Presidente» por «el Vicepresidente» y «el Secretario».",
+   "rot 115",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-091",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Son órganos necesarios de las Juntas Municipales el Presidente y el Alcalde",
+    "Son órganos necesarios de las Juntas Municipales el Presidente y la Junta de Gobierno Local",
+    "Son órganos necesarios de las Juntas Municipales el Presidente y el Pleno"
+   ],
+   2,
+   "Art. 14 · Reglamento de Órganos Territoriales: Son órganos necesarios de las Juntas Municipales el Presidente y el Pleno. Las otras dos frases cambian «el Pleno» por «el Alcalde» y «la Junta de Gobierno Local».",
+   "rot 14",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-098",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Alcalde podrá delegar en un concejal la presidencia efectiva del Distrito Rural, que comprende los catorce barrios rurales regidos por sus respectivas Juntas Vecinales",
+    "El Alcalde podrá delegar en un concejal la presidencia efectiva del Distrito Rural, que comprende los dieciséis distritos de la ciudad, regidos por sus Juntas Municipales y Vecinales",
+    "El Alcalde podrá delegar en un concejal la presidencia efectiva del Distrito Rural, que comprende los barrios urbanos del sur de la ciudad, regidos por sus respectivas Juntas Municipales"
+   ],
+   0,
+   "Art. 29 · Reglamento de Órganos Territoriales: El Alcalde podrá delegar en un concejal la presidencia efectiva del Distrito Rural, que comprende los catorce barrios rurales regidos por sus respectivas Juntas Vecinales.",
+   "rot 29",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-119",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Son órganos necesarios de cada Barrio Rural el Vicepresidente, que recibe el nombre tradicional de Alcalde del Barrio, y el Pleno",
+    "Son órganos necesarios de cada Barrio Rural el Presidente, que recibe el nombre tradicional de Alcalde del Barrio, y el Pleno",
+    "Son órganos necesarios de cada Barrio Rural el Secretario, que recibe el nombre tradicional de Alcalde del Barrio, y el Pleno"
+   ],
+   1,
+   "Art. 31 · Reglamento de Órganos Territoriales: Son órganos necesarios de cada Barrio Rural el Presidente, que recibe el nombre tradicional de Alcalde del Barrio, y el Pleno. Las otras dos frases cambian «El Presidente» por «el Vicepresidente» y «el Secretario».",
+   "rot 31",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-122",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 35.1 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "En las Juntas Vecinales se podrán crear Comisiones de Trabajo de carácter permanente para llevar a cabo estudios y actividades, por iniciativa propia o por encargo de los órganos de gobierno; su número, denominación y composición los establece libremente el Pleno de la Junta",
+    "En las Juntas Vecinales se podrán crear Comisiones de Trabajo de carácter permanente para llevar a cabo estudios y actividades, por iniciativa propia o por encargo de los órganos de gobierno; su número, denominación y composición los establece libremente el Alcalde de la Junta",
+    "En las Juntas Vecinales se podrán crear Comisiones de Trabajo de carácter permanente para llevar a cabo estudios y actividades, por iniciativa propia o por encargo de los órganos de gobierno; su número, denominación y composición los establece libremente la Junta de Gobierno Local de la Junta"
+   ],
+   0,
+   "Art. 35.1 · Reglamento de Órganos Territoriales: En las Juntas Vecinales se podrán crear Comisiones de Trabajo de carácter permanente para llevar a cabo estudios y actividades, por iniciativa propia o por encargo de los órganos de gobierno; su número, denominación y composición los establece libremente el Pleno de la Junta. Las otras dos frases cambian «El Pleno» por «el Alcalde» y «la Junta de Gobierno Local».",
+   "rot 35.1",
+   "Una sola palabra cambia el sentido",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t15-202",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "La propuesta de resolución deberá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza",
+    "La propuesta de resolución podrá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza",
+    "La propuesta de resolución no deberá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza"
+   ],
+   0,
+   "Art. 69 · Reglamento de Órganos Territoriales: La propuesta de resolución deberá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "rot 69",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "Respetando los criterios de preferencia por razón de Interés público municipal o de Interés ciudadano, las entidades no podrán acceder a utilizar locales cedidos por el Ayuntamiento",
+    "Las entidades inscritas en el Censo Municipal de Entidades Ciudadanas tendrán acceso a los medios de comunicación locales para la difusión de sus programas y actividades",
+    "Las entidades y organizaciones ciudadanas sin ánimo de lucro deberán participar en la gestión de servicios o equipamientos cuya titularidad corresponda al Municipio"
+   ],
+   1,
+   "La correcta es «Las entidades inscritas en el Censo Municipal de Entidades Ciudadanas tendrán acceso a los medios de comunicación locales para la difusión de sus programas y actividades». Las otras dos son falsas: lo correcto es «Respetando los criterios de preferencia por razón de Interés público municipal o de Interés ciudadano, las entidades podrán acceder a utilizar locales cedidos por el Ayuntamiento» (la otra f",
+   "rot 78",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 102 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Sus miembros serán nombrados por el Pleno a propuesta de sus respectivos grupos políticos",
+    "Sus miembros serán nombrados por el Alcalde a propuesta de sus respectivos grupos políticos",
+    "Sus miembros serán nombrados por la Junta de Gobierno Local a propuesta de sus respectivos grupos políticos"
+   ],
+   1,
+   "Art. 102 · Reglamento de Órganos Territoriales: Sus miembros serán nombrados por el Alcalde a propuesta de sus respectivos grupos políticos. Las otras dos frases cambian «el Alcalde» por «el Pleno» y «la Junta de Gobierno Local».",
+   "rot 102",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 105 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones no supondrán por sí mismas la modificación o anulación de actos o resoluciones administrativas, ni podrá interponer acciones judiciales",
+    "Las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones obligan al Alcalde a modificar los actos, y la Comisión puede interponer acciones ante los Tribunales",
+    "Las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones anulan los actos administrativos objeto de queja cuando aprecien que existe un error de derecho"
+   ],
+   0,
+   "Art. 105 · Reglamento de Órganos Territoriales: Las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones no supondrán por sí mismas la modificación o anulación de actos o resoluciones administrativas, ni podrá interponer acciones judiciales.",
+   "rot 105",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-082",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Presidente de la Junta Municipal, de entre los vocales propuestos por los grupos municipales será sustituido por el Secretario de la Junta, en los órganos colegiados y en los demás actos",
+    "El Presidente de la Junta Municipal, de entre los vocales propuestos por los grupos municipales será sustituido por el vocal más antiguo de la Junta, que asumirá la presidencia en funciones",
+    "El Presidente de la Junta Municipal, de entre los vocales propuestos por los grupos municipales designará libremente un Vicepresidente que le sustituirá en caso de vacante, ausencia o enfermedad en los órganos colegiados de la Junta y en aquellos otros actos que la legislación local lo permita"
+   ],
+   2,
+   "Art. 15 · Reglamento de Órganos Territoriales: El Presidente de la Junta Municipal, de entre los vocales propuestos por los grupos municipales designará libremente un Vicepresidente que le sustituirá en caso de vacante, ausencia o enfermedad en los órganos colegiados de la Junta y en aquellos otros actos que la legislación local lo permita.",
+   "rot 15",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-100",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "El Consejo Rector de la Junta Municipal se crea por decreto de la Alcaldía y se reúne como mínimo una vez al trimestre, sin funciones de gestión",
+    "El Consejo Rector de la Junta Municipal se crea potestativamente conforme al Manual de Funcionamiento Interno y se reunirá, como mínimo, una vez al mes ejerciendo funciones de iniciativa, gestión y coordinación",
+    "El Consejo Rector de la Junta Municipal es órgano necesario de la Junta, que se reúne como mínimo una vez al trimestre"
+   ],
+   1,
+   "Art. 19 · Reglamento de Órganos Territoriales: El Consejo Rector de la Junta Municipal se crea potestativamente conforme al Manual de Funcionamiento Interno y se reunirá, como mínimo, una vez al mes ejerciendo funciones de iniciativa, gestión y coordinación.",
+   "rot 19",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-106",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus conclusiones al Alcalde de la Junta Municipal",
+    "El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus conclusiones a la Junta de Gobierno Local de la Junta Municipal",
+    "El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus conclusiones al Pleno de la Junta Municipal"
+   ],
+   2,
+   "Art. 20 · Reglamento de Órganos Territoriales: El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus conclusiones al Pleno de la Junta Municipal. Las otras dos frases cambian «al Pleno» por «al Alcalde» y «a la Junta de Gobierno Local».",
+   "rot 20",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición correcta:",
+   [
+    "Las Juntas Vecinales con menos de 2.000 habitantes tendrán cuatro Vocales, y seis Vocales las restantes",
+    "Las Juntas Vecinales con menos de 2.000 habitantes no tendrán cuatro Vocales, y seis Vocales las restantes",
+    "Las Juntas Vecinales con menos de 2.000 habitantes tendrán dos Vocales, y cuatro las restantes"
+   ],
+   0,
+   "Art. 33 · Reglamento de Órganos Territoriales: Las Juntas Vecinales con menos de 2.000 habitantes tendrán cuatro Vocales, y seis Vocales las restantes.",
+   "rot 33",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t15-125",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 75 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la opción correcta:",
+   [
+    "Las entidades y organizaciones ciudadanas sin ánimo de lucro deberán participar en la gestión de servicios o equipamientos cuya titularidad corresponda al Municipio",
+    "Las entidades y organizaciones ciudadanas sin ánimo de lucro podrán participar en la gestión de servicios o equipamientos cuya titularidad corresponda al Municipio",
+    "Las entidades y organizaciones ciudadanas sin ánimo de lucro no podrán participar en la gestión de servicios o equipamientos cuya titularidad corresponda al Municipio"
+   ],
+   1,
+   "Art. 75 · Reglamento de Órganos Territoriales: Las entidades y organizaciones ciudadanas sin ánimo de lucro podrán participar en la gestión de servicios o equipamientos cuya titularidad corresponda al Municipio. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "rot 75",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición CORRECTA:",
+   [
+    "Los interesados podrán manifestar, en el plazo de doce días, su disconformidad con la solución que se les comunique, en escrito dirigido a la Comisión Especial de Sugerencias y Reclamaciones",
+    "El acuerdo de creación de cada Consejo será adoptado por la Junta de Gobierno Local Municipal, previo informe del Área o Áreas competentes y del Consejo de la Ciudad, en razón al Consejo que se constituya y dictamen de la Delegación de Participación Ciudadana",
+    "Su finalidad y objetivos es la de facilitar la participación de los ciudadanos y canalizar la información de las entidades asociativas en los asuntos municipales"
+   ],
+   2,
+   "La correcta es «Su finalidad y objetivos es la de facilitar la participación de los ciudadanos y canalizar la información de las entidades asociativas en los asuntos municipales». Las otras dos son falsas: lo correcto es «Los interesados podrán manifestar, en el plazo de quince días, su disconformidad con la solución que se les comunique, en escrito dirigido a la Comisión Especial de Sugerencias y Reclamaciones» (la ",
+   "rot 116",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El orden del día y las actas de las sesiones no serán remitidas a los miembros del Consejo Territorial de Alcaldes y a las Federaciones y Uniones de Asociaciones de Vecinos inscritas en el Censo Municipal de Entidades Ciudadanas",
+    "El Alcalde de la ciudad podrá suspender los acuerdos de los órganos de las Juntas Municipales cuando su contenido o manifestaciones vulneren el ordenamiento jurídico o para garantizar la unidad de gobierno y gestión del municipio",
+    "El acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del Pleno deberá ser adoptado por la mayoría absoluta del número legal de los miembros del órgano colegiado de gobierno, y se comunicará en el plazo de veinticuatro horas al Alcalde"
+   ],
+   0,
+   "La incorrecta es «El orden del día y las actas de las sesiones no serán remitidas a los miembros del Consejo Territorial de Alcaldes y a las Federaciones y Uniones de Asociaciones de Vecinos inscritas en el Censo Municipal de Entidades Ciudadanas»: niega lo que dice la ley. Lo correcto: «El orden del día y las actas de las sesiones serán remitidas a los miembros del Consejo Territorial de Alcaldes y a las Federacione",
+   "rot 30",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Todas las entidades inscritas podrán formar parte del Consejo de la Ciudad de Zaragoza a través de la Asamblea Ciudadana",
+    "El Ayuntamiento adoptará las medidas necesarias para garantizar el derecho de participación de todos los electores y la transparencia de la consulta",
+    "Los ruegos y preguntas deberán ser formulados ante el Alcalde con brevedad, ajustándose a lo solicitado previamente"
+   ],
+   2,
+   "La incorrecta es «Los ruegos y preguntas deberán ser formulados ante el Alcalde con brevedad, ajustándose a lo solicitado previamente»: cambia «el Pleno». Lo correcto: «Los ruegos y preguntas deberán ser formulados ante el Pleno con brevedad, ajustándose a lo solicitado previamente».",
+   "rot 56",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El Consejo Rector, si así lo establece el Manual de Funcionamiento Interno",
+    "El órgano colegiado de gobierno, en caso de confirmación de la suspensión de un acuerdo, podrá solicitar el alzamiento en interpelación escrita a la Junta de Gobierno Local del Ayuntamiento",
+    "El Concejal Presidente del Distrito Rural deberá conformar y tramitar los acuerdos y gastos acordados por los Alcaldes de Barrio dentro de sus competencias, salvo que conste tacha de legalidad de la Intervención General"
+   ],
+   1,
+   "La incorrecta es «El órgano colegiado de gobierno, en caso de confirmación de la suspensión de un acuerdo, podrá solicitar el alzamiento en interpelación escrita a la Junta de Gobierno Local del Ayuntamiento»: cambia «al Pleno». Lo correcto: «El órgano colegiado de gobierno, en caso de confirmación de la suspensión de un acuerdo, podrá solicitar el alzamiento en interpelación escrita al Pleno del Ayuntamiento».",
+   "rot 28",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "La propuesta de resolución podrá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza",
+    "Beneficiarios de los servicios o actividades que realiza la entidad y los requisitos establecidos para recibir sus atenciones o prestaciones",
+    "Se publicarán en el Boletín Oficial de Aragón y en el tablón de anuncios de la Corporación"
+   ],
+   0,
+   "La incorrecta es «La propuesta de resolución podrá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza»: cambia «deberá». Lo correcto: «La propuesta de resolución deberá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Conse",
+   "rot 69",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "En el Manual de Funcionamiento Interno de la Junta se establecerá el orden de los debates en los Plenos, así como los sistemas de difusión publica del desarrollo de las sesiones",
+    "No se podrá invocar, para la no aprobación del acta, la disconformidad con los acuerdos adoptados por mayoría",
+    "Salvo casos de reconocida urgencia, que deberá ser necesariamente motivada y ratificada por los miembros del Pleno por mayoría de dos tercios, en las sesiones ordinarias no se tratarán otros asuntos que los incluidos en el orden del día"
+   ],
+   2,
+   "La incorrecta es «Salvo casos de reconocida urgencia, que deberá ser necesariamente motivada y ratificada por los miembros del Pleno por mayoría de dos tercios, en las sesiones ordinarias no se tratarán otros asuntos que los incluidos en el orden del día»: cambia «mayoría simple». Lo correcto: «Salvo casos de reconocida urgencia, que deberá ser necesariamente motivada y ratificada por los miembros del Pleno por mayor",
+   "rot 25",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Los vecinos pueden solicitar una consulta popular con un número de firmas de 10.000 más el 5 % de los habitantes que excedan de 100.000",
+    "Las sesiones plenarias de las Juntas serán convocadas por el Presidente del Distrito o Alcalde de Barrio, al menos con cinco días hábiles de antelación a la fecha prevista, salvo las extraordinarias urgentes",
+    "En el término municipal de Zaragoza se asientan dieciséis distritos, incluido el Distrito Rural, que comprende catorce barrios rurales"
+   ],
+   1,
+   "La incorrecta es «las sesiones plenarias de las Juntas serán convocadas por el Presidente del Distrito o Alcalde de Barrio, al menos con cinco días hábiles de antelación a la fecha prevista, salvo las extraordinarias urgentes». Lo correcto: las sesiones plenarias de las Juntas serán convocadas por el Presidente del Distrito o Alcalde de Barrio, al menos con dos días hábiles de antelación a la fecha prevista, salvo la",
+   "rot 24",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El Ayuntamiento de Zaragoza reconoce el derecho de todos a la ciudad, como lugar de convivencia y espacio de realización humana, garantizando la participación ciudadana",
+    "La Comisión Especial de Sugerencias y Reclamaciones no estará sujeta a mandato imperativo alguno ni recibirá instrucciones de ninguna Autoridad",
+    "El proceso de desconcentración municipal en sus órganos territoriales será gradual y diferenciado según los distritos, con experiencias piloto que no podrán extenderse a otras Juntas"
+   ],
+   2,
+   "La incorrecta es «el proceso de desconcentración municipal en sus órganos territoriales será gradual y diferenciado según los distritos, con experiencias piloto que no podrán extenderse a otras Juntas». Lo correcto: el proceso de desconcentración municipal en sus órganos territoriales será continuo y uniforme en todo el ámbito municipal; pueden aprobarse programas de desconcentración como experiencias piloto en una o",
+   "rot 5",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Las relaciones con el Ayuntamiento de Zaragoza de las entidades que desarrollan su actividad principal en todo el ámbito de la ciudad se realizará a través del Área de Participación Ciudadana",
+    "Las entidades con estructura muy descentralizada y suficientemente autónoma podrán inscribir por separado a cada uno de sus grupos en las Juntas Municipales o Vecinales correspondientes",
+    "Por resolución motivada del Alcalde o del Teniente de Alcalde competente y posterior informe del Consejo de la Ciudad de Zaragoza podrá denegarse la inscripción de las entidades que no tengan fines estatutarios de interés social o un funcionamiento democrático"
+   ],
+   2,
+   "La incorrecta es «Por resolución motivada del Alcalde o del Teniente de Alcalde competente y posterior informe del Consejo de la Ciudad de Zaragoza podrá denegarse la inscripción de las entidades que no tengan fines estatutarios de interés social o un funcionamiento democrático»: cambia «previo». Lo correcto: «Por resolución motivada del Alcalde o del Teniente de Alcalde competente y previo informe del Consejo de la ",
+   "rot 62",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Los Consejos de Distrito podrán constituirse conforme a los siguientes criterios por Juntas Municipales completas, limítrofes territorialmente, que podrán estar formadas por barrios urbanos y rurales",
+    "Los Consejos de Distrito son órganos consultivos de la ciudad para la prestación de servicios y el acercamiento a los ciudadanos",
+    "En las dependencias de las Áreas Centrales y en las de Administración Desconcentrada, Juntas Municipales y Vecinales, existirá una Oficina de Información que canalizará la información de la gestión del Ayuntamiento y la participación de los ciudadanos"
+   ],
+   1,
+   "La incorrecta es «los Consejos de Distrito son órganos consultivos de la ciudad para la prestación de servicios y el acercamiento a los ciudadanos». Lo correcto: los Consejos de Distrito son órganos territoriales de gestión desconcentrada para la prestación de servicios y el acercamiento del Ayuntamiento a los ciudadanos, que sirven de apoyo y cauce para la tramitación de los asuntos derivados de la gestión de las Ju",
+   "rot 4",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "La Comisión Especial de Sugerencias y Reclamaciones estará sujeta a las directrices del Pleno, que podrá avocar cualquier asunto en tramitación",
+    "El Ayuntamiento podrá promover instrumentos de participación local como los presupuestos y programas de inversión participativos y los talleres de debate sobre propuestas de futuro",
+    "La solicitud de declaración de interés ciudadano la dirige la entidad al Alcalde, con una memoria suscrita por el Presidente y el Secretario sobre el número de socios, los beneficiarios, los medios, las actividades de los dos últimos años, los resultados y el nivel o grado de cumplimiento de los fines estatutarios"
+   ],
+   0,
+   "La incorrecta es «la Comisión Especial de Sugerencias y Reclamaciones estará sujeta a las directrices del Pleno, que podrá avocar cualquier asunto en tramitación». Lo correcto: la Comisión Especial de Sugerencias y Reclamaciones no estará sujeta a mandato imperativo alguno ni recibirá instrucciones de ninguna Autoridad.",
+   "rot 103",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "No será necesario aportar más de 5.000 firmas en el caso de las Juntas Municipales ni más de 500 en el de las Juntas Vecinales",
+    "El ámbito de la Audiencia Pública puede ser de ciudad o de Junta Municipal o Vecinal",
+    "El Alcalde, previo acuerdo del Pleno por mayoría simple, podrá someter a Consulta Popular los asuntos de la competencia propia municipal y de carácter local que sean de especial importancia para los intereses de los vecinos, salvo los relativos a las Haciendas Locales"
+   ],
+   2,
+   "La incorrecta es «El Alcalde, previo acuerdo del Pleno por mayoría simple, podrá someter a Consulta Popular los asuntos de la competencia propia municipal y de carácter local que sean de especial importancia para los intereses de los vecinos, salvo los relativos a las Haciendas Locales»: cambia «mayoría absoluta». Lo correcto: «El Alcalde, previo acuerdo del Pleno por mayoría absoluta, podrá someter a Consulta Popula",
+   "rot 53",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Dentro de las sugerencias que formule la Comisión no podrá encontrarse la proposición de fórmulas de conciliación o acuerdo para solventar un problema determinado",
+    "Las contestaciones o decisiones emanadas de la Comisión Especial de Sugerencias y Reclamaciones no serán susceptibles de recurso alguno",
+    "Todos los órganos de Gobierno y de la Administración Municipal están obligados a colaborar con la Comisión para el desarrollo de sus funciones"
+   ],
+   0,
+   "La incorrecta es «Dentro de las sugerencias que formule la Comisión no podrá encontrarse la proposición de fórmulas de conciliación o acuerdo para solventar un problema determinado»: cambia «podrá». Lo correcto: «Dentro de las sugerencias que formule la Comisión podrá encontrarse la proposición de fórmulas de conciliación o acuerdo para solventar un problema determinado».",
+   "rot 105",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios como mesas de trabajo y otros similares, que elevarán sus conclusiones a la Junta de Gobierno Local de la Junta Vecinal",
+    "El cargo de miembro del Pleno de la Junta, con voz y sin voto, deberá ser aceptado expresamente por su titular y será honorífico",
+    "La actuación de los Consejos de Distrito deberá ajustarse a los principios de unidad de gobierno, eficacia, coordinación y solidaridad"
+   ],
+   0,
+   "La incorrecta es «El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios como mesas de trabajo y otros similares, que elevarán sus conclusiones a la Junta de Gobierno Local de la Junta Vecinal»: cambia «al Pleno». Lo correcto: «El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios como mesas de trabajo y otros similares, que elevarán sus concl",
+   "rot 35",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Excepcionalmente se podrá nombrar para el cargo de vocal a funcionarios y trabajadores municipales que no sean altos cargos municipales o desempeñen su trabajo en el Area de Participación Ciudadana",
+    "El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus conclusiones a la Junta de Gobierno Local de la Junta Municipal",
+    "El Presidente de la Junta Municipal nombrará a los miembros del Consejo Rector a propuesta de los Grupos Políticos Municipales, que deberán ser Vocales del Pleno de la Junta conforme se regula en este Reglamento"
+   ],
+   1,
+   "La incorrecta es «El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus conclusiones a la Junta de Gobierno Local de la Junta Municipal»: cambia «al Pleno». Lo correcto: «El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus c",
+   "rot 20",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "En el ejercicio de esta delegación, el Alcalde tendrá en consideración los resultados de las elecciones municipales en los territorios de las Juntas, procurando que, al menos, un Concejal de cada Grupo Municipal sea presidente de una Junta Municipal",
+    "No se podrá nombrar Vocal a quienes sean inelegibles o incompatibles para el cargo de concejal, según lo previsto en la legislación electoral vigente",
+    "El cargo de Vocal será honorífico, sin perjuicio de las compensaciones, indemnizaciones o dietas que pueda percibir por los gastos de representación u otros de naturaleza análoga, en la cuantía y condiciones que apruebe la Junta de Gobierno Local de la Corporación"
+   ],
+   2,
+   "La incorrecta es «El cargo de Vocal será honorífico, sin perjuicio de las compensaciones, indemnizaciones o dietas que pueda percibir por los gastos de representación u otros de naturaleza análoga, en la cuantía y condiciones que apruebe la Junta de Gobierno Local de la Corporación»: cambia «el Pleno». Lo correcto: «El cargo de Vocal será honorífico, sin perjuicio de las compensaciones, indemnizaciones o dietas que p",
+   "rot 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Cada Área Municipal deberá proponer su creación en su ámbito competencial siempre y cuando tengan la finalidad señalada en este Título",
+    "El acuerdo de creación de cada Consejo será adoptado por el Pleno Municipal, previo informe del Área o Áreas competentes y del Consejo de la Ciudad, en razón al Consejo que se constituya y dictamen de la Delegación de Participación Ciudadana",
+    "Los Consejos Sectoriales son órganos de participación, información, control y asesoramiento, de naturaleza consultiva en el ámbito municipal"
+   ],
+   0,
+   "La incorrecta es «Cada Área Municipal deberá proponer su creación en su ámbito competencial siempre y cuando tengan la finalidad señalada en este Título»: cambia «podrá». Lo correcto: «Cada Área Municipal podrá proponer su creación en su ámbito competencial siempre y cuando tengan la finalidad señalada en este Título».",
+   "rot 116",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El acceso a la Comisión Especial de Sugerencias y Reclamaciones cuya finalidad no es la defensa de los derechos de los vecinos ante la Administración municipal",
+    "Se podrán aprobar programas de desconcentración que supongan experiencias piloto en una o varias Juntas Municipales y Vecinales, con el fin de evaluar su impacto, aplicar criterios de mejora y posterior extensión a otras Juntas Municipales y Vecinales",
+    "Todos los servicios municipales estarán obligados a informar estas peticiones, sin que ello suponga detrimento de su actividad y sin más limitación que las previstas en la legislación básica procedimental"
+   ],
+   0,
+   "La incorrecta es «El acceso a la Comisión Especial de Sugerencias y Reclamaciones cuya finalidad no es la defensa de los derechos de los vecinos ante la Administración municipal»: niega lo que dice la ley. Lo correcto: «El acceso a la Comisión Especial de Sugerencias y Reclamaciones cuya finalidad es la defensa de los derechos de los vecinos ante la Administración municipal».",
+   "rot 8",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El órgano colegiado de gobierno, en caso de confirmación de la suspensión de un acuerdo, podrá solicitar el alzamiento en interpelación escrita al Pleno del Ayuntamiento",
+    "El Alcalde de la ciudad podrá suspender los acuerdos de los órganos de las Juntas Municipales cuando su contenido o manifestaciones vulneren el ordenamiento jurídico o para garantizar la unidad de gobierno y gestión del municipio",
+    "El acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del Pleno deberá ser adoptado por la mayoría de tres quintos del número legal de los miembros del órgano colegiado de gobierno, y se comunicará en el plazo de veinticuatro horas al Alcalde"
+   ],
+   2,
+   "La incorrecta es «El acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del Pleno deberá ser adoptado por la mayoría de tres quintos del número legal de los miembros del órgano colegiado de gobierno, y se comunicará en el plazo de veinticuatro horas al Alcalde»: cambia «mayoría absoluta». Lo correcto: «El acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del ",
+   "rot 28",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "La solicitud de declaración de interés ciudadano la dirige la entidad al Alcalde, con una memoria suscrita por el Presidente y el Secretario sobre el número de socios, los beneficiarios, los medios, las actividades de los dos últimos años, los resultados y el nivel o grado de cumplimiento de los fines estatutarios",
+    "Las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones anulan los actos administrativos objeto de queja cuando aprecien que existe un error de derecho",
+    "El Pleno del Consejo de la Ciudad se reúne en sesión ordinaria cuatro veces al año"
+   ],
+   1,
+   "La incorrecta es «las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones anulan los actos administrativos objeto de queja cuando aprecien que existe un error de derecho». Lo correcto: las resoluciones de la Comisión Especial de Sugerencias y Reclamaciones no supondrán por sí mismas la modificación o anulación de actos o resoluciones administrativas, ni podrá interponer acciones judiciales.",
+   "rot 105",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios, como mesas de trabajo y otros similares, que elevarán sus conclusiones al Pleno de la Junta Municipal",
+    "Los órganos colegiados de gobierno se constituirán válidamente con la asistencia de la mitad del número legal de sus miembros con derecho a voto, que nunca podrán ser menos de tres",
+    "Ningún vocal de la Junta Municipal o Vecinal podrá solicitar más de tres sesiones extraordinarias de la Junta al año"
+   ],
+   1,
+   "La incorrecta es «Los órganos colegiados de gobierno se constituirán válidamente con la asistencia de la mitad del número legal de sus miembros con derecho a voto, que nunca podrán ser menos de tres»: cambia «un tercio». Lo correcto: «Los órganos colegiados de gobierno se constituirán válidamente con la asistencia de un tercio del número legal de sus miembros con derecho a voto, que nunca podrán ser menos de tres».",
+   "rot 21",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El Pleno del Consejo de la Ciudad podrá crear comisiones de estudio, grupos de trabajo o consejos sectoriales, que tendrán una finalidad concreta, una composición determinada y una duración prefijada",
+    "El Consejo de la Ciudad de Zaragoza tendrá necesariamente la siguiente estructura Alcalde, Junta de Gobierno y comisiones, asistidos por el Área de Participación Ciudadana",
+    "El acuerdo de creación de cada uno de los Consejos de Distrito corresponde al Pleno del Ayuntamiento de Zaragoza"
+   ],
+   1,
+   "La incorrecta es «el Consejo de la Ciudad de Zaragoza tendrá necesariamente la siguiente estructura Alcalde, Junta de Gobierno y comisiones, asistidos por el Área de Participación Ciudadana». Lo correcto: el Consejo de la Ciudad de Zaragoza tendrá necesariamente la siguiente estructura presidencia, Vicepresidencia, Pleno del Consejo, Comisiones del Consejo y Oficina Técnica.",
+   "rot 87",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del Pleno deberá ser adoptado por la mayoría simple del número legal de los miembros del órgano colegiado de gobierno, y se comunicará en el plazo de veinticuatro horas al Alcalde",
+    "Las sesiones son públicas, pero no se permitirá el acceso al salón de sesiones a más personas que las que su capacidad pueda acomodar",
+    "El Alcalde de la ciudad podrá suspender los acuerdos de los órganos de las Juntas Municipales cuando su contenido o manifestaciones vulneren el ordenamiento jurídico o para garantizar la unidad de gobierno y gestión del municipio"
+   ],
+   0,
+   "La incorrecta es «El acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del Pleno deberá ser adoptado por la mayoría simple del número legal de los miembros del órgano colegiado de gobierno, y se comunicará en el plazo de veinticuatro horas al Alcalde»: cambia «mayoría absoluta». Lo correcto: «El acuerdo de reprobación de la gestión del Presidente o de los Vocales y miembros del Pleno deb",
+   "rot 28",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "La actividad de las Juntas Vecinales de los Barrios Rurales está basada en los mismos fines, objetivos fundamentales y funciones que se establecen para las Juntas Municipales, con las especialidades que se regulan en esta sección",
+    "El Vicepresidente podrá invitar a las sesiones a Concejales Delegados y técnicos para que informen y asesoren sobre los asuntos del orden del día",
+    "Las Actas de las sesiones, una vez aprobadas, se transcribirán en el libro de Actas que se habilitará a este efecto, y deberá llevar en todas sus hojas, debidamente foliadas, la firma del Presidente y sello de la Junta"
+   ],
+   1,
+   "La incorrecta es «el Vicepresidente podrá invitar a las sesiones a Concejales Delegados y técnicos para que informen y asesoren sobre los asuntos del orden del día»: cambia «El Presidente». Lo correcto: «El Presidente podrá invitar a las sesiones a Concejales Delegados y técnicos para que informen y asesoren sobre los asuntos del orden del día».",
+   "rot 30",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Las resoluciones serán siempre motivadas y se notificarán al interesado y al Consejo de la Ciudad de Zaragoza",
+    "La propuesta de resolución deberá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza",
+    "Se publicarán en el Boletín Oficial de la Provincia y en el tablón de anuncios de la Corporación"
+   ],
+   2,
+   "La incorrecta es «Se publicarán en el Boletín Oficial de la Provincia y en el tablón de anuncios de la Corporación»: cambia «Boletín Oficial de Aragón». Lo correcto: «Se publicarán en el Boletín Oficial de Aragón y en el tablón de anuncios de la Corporación».",
+   "rot 69",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 69 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Las resoluciones no serán siempre motivadas y se notificarán al interesado y al Consejo de la Ciudad de Zaragoza",
+    "Beneficiarios de los servicios o actividades que realiza la entidad y los requisitos establecidos para recibir sus atenciones o prestaciones",
+    "La propuesta de resolución deberá ser informada por los servicios municipales que gestionen las actividades cuyo fin público persigue la entidad solicitante y por el Consejo de la Ciudad de Zaragoza"
+   ],
+   0,
+   "La incorrecta es «Las resoluciones no serán siempre motivadas y se notificarán al interesado y al Consejo de la Ciudad de Zaragoza»: niega lo que dice la ley. Lo correcto: «Las resoluciones serán siempre motivadas y se notificarán al interesado y al Consejo de la Ciudad de Zaragoza».",
+   "rot 69",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Las sesiones de la Comisión Especial de Sugerencias y Reclamaciones no serán públicas",
+    "El acta de cada sesión deberá recoger, como mínimo lugar, fecha y hora, asistentes, carácter de la sesión y convocatoria, relación de asuntos tratados, votos emitidos y acuerdos adoptados, y sucintamente las opiniones emitidas",
+    "Los vecinos pueden solicitar una consulta popular con un número de firmas de 50.000 en todo caso"
+   ],
+   2,
+   "La incorrecta es «los vecinos pueden solicitar una consulta popular con un número de firmas de 50.000 en todo caso». Lo correcto: los vecinos pueden solicitar una consulta popular con un número de firmas de 10.000 más el 5 % de los habitantes que excedan de 100.000.",
+   "rot 53",
+   "Proposición negativa",
+   "h-participacion-individual",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El Alcalde someterá al Pleno las solicitudes de Consulta Popular cuando se suscriban por un número de vecinos que, como mínimo, sea de 10.000 habitantes más el 5 % de los habitantes que excedan de los 100.000",
+    "Los Consejos de Distrito son órganos de la Comunidad Autónoma de Aragón para la tramitación de asuntos de gestión municipal",
+    "Las Juntas Municipales y Vecinales estarán asistidas, para su funcionamiento, por oficinas administrativas suficientemente dotadas, coordinadas a través del Consejo de Distrito al que pertenecen"
+   ],
+   1,
+   "La incorrecta es «los Consejos de Distrito son órganos de la Comunidad Autónoma de Aragón para la tramitación de asuntos de gestión municipal». Lo correcto: los Consejos de Distrito son órganos de ámbito territorial para la desconcentración administrativa que sirven de cauce para la tramitación de los asuntos derivados de la gestión municipal en su ámbito territorial.",
+   "rot 37",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 116 de Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El acuerdo de creación de cada Consejo será adoptado por el Pleno Municipal, previo informe del Área o Áreas competentes y del Consejo de la Ciudad, en razón al Consejo que se constituya y dictamen de la Delegación de Participación Ciudadana",
+    "Los Consejos Sectoriales son órganos de participación, información, control y asesoramiento, de naturaleza consultiva en el ámbito municipal",
+    "Cada Área Municipal no podrá proponer su creación en su ámbito competencial siempre y cuando tengan la finalidad señalada en este Título"
+   ],
+   2,
+   "La incorrecta es «Cada Área Municipal no podrá proponer su creación en su ámbito competencial siempre y cuando tengan la finalidad señalada en este Título»: cambia «podrá». Lo correcto: «Cada Área Municipal podrá proponer su creación en su ámbito competencial siempre y cuando tengan la finalidad señalada en este Título».",
+   "rot 116",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Las entidades inscritas en el Censo no podrán ejercer la Iniciativa Ciudadana en los términos previstos en este Reglamento",
+    "El Ayuntamiento Pleno, a la vista de la documentación y de los informes del Consejo de la Ciudad de Zaragoza, resolverá de forma discrecional la solicitud, sin perjuicio de los recursos legales que procedan",
+    "Las entidades y organizaciones ciudadanas sin ánimo de lucro podrán participar en la gestión de servicios o equipamientos cuya titularidad corresponda al Municipio"
+   ],
+   0,
+   "La incorrecta es «Las entidades inscritas en el Censo no podrán ejercer la Iniciativa Ciudadana en los términos previstos en este Reglamento»: cambia «podrán». Lo correcto: «Las entidades inscritas en el Censo podrán ejercer la Iniciativa Ciudadana en los términos previstos en este Reglamento».",
+   "rot 75",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "La actuación de Concejos Locales debe ajustarse a los principios de unidad de gobierno, eficacia, coordinación y solidaridad y no se regirá por las normas previstas para los Consejos Rectores de las Juntas Municipales y Vecinales",
+    "El Pleno podrá crear para el debate y estudio de asuntos concretos, órganos complementarios como mesas de trabajo y otros similares, que elevarán sus conclusiones al Pleno de la Junta Vecinal",
+    "El cargo de miembro del Pleno de la Junta, con voz y sin voto, deberá ser aceptado expresamente por su titular y será honorífico"
+   ],
+   0,
+   "La incorrecta es «La actuación de Concejos Locales debe ajustarse a los principios de unidad de gobierno, eficacia, coordinación y solidaridad y no se regirá por las normas previstas para los Consejos Rectores de las Juntas Municipales y Vecinales»: niega lo que dice la ley. Lo correcto: «La actuación de Concejos Locales debe ajustarse a los principios de unidad de gobierno, eficacia, coordinación y solidaridad y se ",
+   "rot 36",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "El Consejo de la Ciudad de Zaragoza se compone de representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas",
+    "En el plazo de diez días desde la presentación de las quejas en la Oficina Técnica, la Comisión, por resolución de su Presidente archivará las quejas no admitidas y resolverá definitivamente las demás en el plazo de un mes",
+    "Las entidades declaradas de Interés público municipal podrán, entre otros derechos participar en las sesiones del Pleno y en las Comisiones del Pleno por razón de la materia, promover iniciativas ciudadanas de aprobación de disposiciones generales y promover la Audiencia Pública"
+   ],
+   1,
+   "La incorrecta es «en el plazo de diez días desde la presentación de las quejas en la Oficina Técnica, la Comisión, por resolución de su Presidente archivará las quejas no admitidas y resolverá definitivamente las demás en el plazo de un mes». Lo correcto: en el plazo de diez días desde la presentación de las quejas en la Oficina Técnica, la Comisión, por resolución de su Presidente recabará la información precisa y r",
+   "rot 113",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Para regular las formas de promoción de la radio y televisión locales se elaborará un reglamento interno, garantizando la representación de todos los grupos políticos municipales y del Consejo de la Ciudad en los planes de difusión",
+    "En el término municipal de Zaragoza se asientan dieciséis distritos, incluido el Distrito Rural, que comprende catorce barrios rurales",
+    "El Consejo de la Ciudad podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter siempre permanente"
+   ],
+   2,
+   "La incorrecta es «el Consejo de la Ciudad podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter siempre permanente». Lo correcto: el Consejo de la Ciudad podrá proponer la constitución de Consejos Sectoriales, Comisiones de estudio y grupos de trabajo, con carácter temporal o permanente.",
+   "rot 95",
+   "Proposición negativa",
+   "h-consejo-ciudad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Salvo casos de reconocida urgencia, que deberá ser necesariamente motivada y ratificada por los miembros del Pleno por mayoría absoluta, en las sesiones ordinarias no se tratarán otros asuntos que los incluidos en el orden del día",
+    "El Alcalde de la ciudad en un plazo de setenta y dos horas, a partir de la recepción del acuerdo de suspensión, deberá ratificarla expresamente",
+    "En ningún caso podrá modificarse el fondo de los acuerdos adoptados y solo cabrá subsanar los meros errores materiales o de hecho"
+   ],
+   0,
+   "La incorrecta es «Salvo casos de reconocida urgencia, que deberá ser necesariamente motivada y ratificada por los miembros del Pleno por mayoría absoluta, en las sesiones ordinarias no se tratarán otros asuntos que los incluidos en el orden del día»: cambia «mayoría simple». Lo correcto: «Salvo casos de reconocida urgencia, que deberá ser necesariamente motivada y ratificada por los miembros del Pleno por mayoría sim",
+   "rot 25",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Reglamento de Órganos Territoriales y Participación Ciudadana del Ayuntamiento de Zaragoza, señale la proposición INCORRECTA:",
+   [
+    "Dentro de las sugerencias que formule la Comisión podrá encontrarse la proposición de fórmulas de conciliación o acuerdo para solventar un problema determinado",
+    "Todos los órganos de Gobierno y de la Administración Municipal están obligados a colaborar con la Comisión para el desarrollo de sus funciones",
+    "Si la aplicación de una norma legítimamente acordada fuere la que condujere a resultados injustos o dañosos, la Comisión deberá recomendar su modificación o derogación"
+   ],
+   2,
+   "La incorrecta es «Si la aplicación de una norma legítimamente acordada fuere la que condujere a resultados injustos o dañosos, la Comisión deberá recomendar su modificación o derogación»: cambia «podrá». Lo correcto: «Si la aplicación de una norma legítimamente acordada fuere la que condujere a resultados injustos o dañosos, la Comisión podrá recomendar su modificación o derogación».",
+   "rot 105",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
    }
   ]
  ]

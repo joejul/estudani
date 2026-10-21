@@ -893,7 +893,8 @@
    "h-plazos",
    [
     "sábados, los domingos y los declarados festivos"
-   ]
+   ],
+   {}
   ],
   [
    "Los plazos expresados en días se contarán:",
@@ -909,7 +910,8 @@
    "h-plazos",
    [
     "día siguiente"
-   ]
+   ],
+   {}
   ],
   [
    "Si el último día del plazo es inhábil:",
@@ -925,7 +927,8 @@
    "h-plazos",
    [
     "primer día hábil siguiente"
-   ]
+   ],
+   {}
   ],
   [
    "Los plazos señalados por horas, ¿cuánto pueden durar como máximo?",
@@ -941,7 +944,8 @@
    "h-plazos",
    [
     "veinticuatro horas"
-   ]
+   ],
+   {}
   ],
   [
    "La Administración podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos, que no exceda:",
@@ -957,7 +961,8 @@
    "h-plazos",
    [
     "mitad"
-   ]
+   ],
+   {}
   ],
   [
    "La tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a:",
@@ -973,7 +978,8 @@
    "h-plazos",
    [
     "presentación de solicitudes y recursos"
-   ]
+   ],
+   {}
   ],
   [
    "Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento:",
@@ -989,7 +995,8 @@
    "h-plazos",
    [
     "No cabrá recurso alguno"
-   ]
+   ],
+   {}
   ],
   [
    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos:",
@@ -1005,7 +1012,8 @@
    "h-resolver",
    [
     "cualquiera que sea su forma de iniciación"
-   ]
+   ],
+   {}
   ],
   [
    "El plazo máximo en el que debe notificarse la resolución expresa no podrá exceder, como regla, de:",
@@ -1021,7 +1029,8 @@
    "h-resolver",
    [
     "seis meses"
-   ]
+   ],
+   {}
   ],
   [
    "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificarse resolución expresa legitima, como regla general, para entender la solicitud:",
@@ -1037,7 +1046,8 @@
    "h-resolver",
    [
     "estimada por silencio"
-   ]
+   ],
+   {}
   ],
   [
    "¿Quiénes están obligados a relacionarse a través de medios electrónicos con las Administraciones (art. 14.2)?",
@@ -1053,7 +1063,8 @@
    "h-registro",
    [
     "personas jurídicas"
-   ]
+   ],
+   {}
   ],
   [
    "Los documentos que los interesados dirijan a los órganos de las Administraciones podrán presentarse, entre otros lugares:",
@@ -1069,7 +1080,8 @@
    "h-registro",
    [
     "oficinas de Correos"
-   ]
+   ],
+   {}
   ],
   [
    "Los registros electrónicos se regirán, a efectos de cómputo de plazos, por:",
@@ -1085,7 +1097,8 @@
    "h-registro",
    [
     "fecha y hora oficial"
-   ]
+   ],
+   {}
   ],
   [
    "De acuerdo con el artículo 14.2 de la Ley 39/2015, de 1 de octubre, están obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas, en todo caso:",
@@ -1137,7 +1150,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1313,7 +1327,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1348,7 +1363,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1383,7 +1399,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1559,7 +1576,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1667,7 +1685,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1834,7 +1853,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1907,7 +1927,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -1960,7 +1981,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -2289,7 +2311,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3080,7 +3103,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3239,7 +3263,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3527,7 +3552,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3545,7 +3571,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -3690,7 +3717,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4026,6 +4054,2815 @@
    {
     "nuevo": 1,
     "neg": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 29 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los términos y plazos establecidos en la Ley obligan a las autoridades y personal al servicio de las Administraciones, así como a los interesados",
+    "Los términos y plazos establecidos en la Ley obligan solo a la Administración tramitadora, sin que alcancen a los interesados en el procedimiento",
+    "Los términos y plazos establecidos en la Ley obligan solo a los interesados en el procedimiento, sin que vinculen a las autoridades ni al personal tramitador"
+   ],
+   0,
+   "Art. 29 · Ley 39/2015: Los términos y plazos establecidos en la Ley obligan a las autoridades y personal al servicio de las Administraciones, así como a los interesados.",
+   "lpac 29",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-043",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 23.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior al establecido para la tramitación del procedimiento",
+    "La ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior a tres meses, en todo caso, cualquiera que sea el plazo máximo del procedimiento",
+    "La ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior a la mitad del plazo inicialmente fijado para resolver y notificar, con carácter general"
+   ],
+   0,
+   "Art. 23.1 · Ley 39/2015: La ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior al establecido para la tramitación del procedimiento.",
+   "lpac 23.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-033",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos",
+    "La tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la notificación de resoluciones",
+    "La tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a los informes preceptivos"
+   ],
+   0,
+   "Art. 33 · Ley 39/2015: La tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+   "lpac 33",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-006",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los interesados no podrán solicitar la exigencia de responsabilidad del personal que tramita un asunto a la Administración Pública de que dependa el personal afectado",
+    "Los interesados podrán solicitar la exigencia de responsabilidad del personal que tramita un asunto al Defensor del Pueblo exclusivamente",
+    "Los interesados podrán solicitar la exigencia de responsabilidad del personal que tramita un asunto a la Administración Pública de que dependa el personal afectado"
+   ],
+   2,
+   "Art. 20.2 · Ley 39/2015: Los interesados podrán solicitar la exigencia de responsabilidad del personal que tramita un asunto a la Administración Pública de que dependa el personal afectado.",
+   "lpac 20.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-024",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando proceda la comparecencia, la citación hará constar expresamente el lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla",
+    "Cuando proceda la comparecencia, la citación hará constar expresamente solo la fecha y el lugar de la comparecencia, sin indicar su objeto ni los efectos de no atenderla",
+    "Cuando proceda la comparecencia, la citación hará constar expresamente el lugar y la hora de la comparecencia, sin necesidad de expresar el objeto ni los medios disponibles"
+   ],
+   0,
+   "Art. 19.2 · Ley 39/2015: Cuando proceda la comparecencia, la citación hará constar expresamente el lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.",
+   "lpac 19.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-023",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la caducidad, con el archivo de las actuaciones",
+    "En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la prescripción, con el archivo de las actuaciones",
+    "En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la revocación, con el archivo de las actuaciones"
+   ],
+   0,
+   "Art. 25.1.b · Ley 39/2015: En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la caducidad, con el archivo de las actuaciones. Las otras dos frases cambian «caducidad» por «prescripción» y «revocación».",
+   "lpac 25.1.b",
+   "Una sola palabra cambia el sentido",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t05-120",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La eliminación de documentos electrónicos no deberá ser autorizada de acuerdo con la normativa aplicable",
+    "La eliminación de documentos electrónicos puede acordarla cualquier funcionario",
+    "La eliminación de documentos electrónicos deberá ser autorizada de acuerdo con la normativa aplicable"
+   ],
+   2,
+   "Art. 17.2 · Ley 39/2015: La eliminación de documentos electrónicos deberá ser autorizada de acuerdo con la normativa aplicable.",
+   "lpac 17.2",
+   "La afirmación, su negación y otro dato",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-079",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Tienen la consideración de copia auténtica las realizadas por los órganos competentes en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido",
+    "Tienen la consideración de copia auténtica las realizadas por los órganos competentes en las que quede garantizada la conformidad del interesado",
+    "Tienen la consideración de copia auténtica las realizadas por los órganos competentes en las que quede garantizada el pago de la tasa correspondiente"
+   ],
+   0,
+   "Art. 27.2 · Ley 39/2015: Tienen la consideración de copia auténtica las realizadas por los órganos competentes en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido.",
+   "lpac 27.2",
+   "La afirmación, su negación y otro dato",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-129",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los procedimientos de las Comunidades Autónomas y Entidades Locales, el uso de la lengua se ajustará a la legislación autonómica correspondiente",
+    "En los procedimientos de las Comunidades Autónomas y Entidades Locales, el uso de la lengua se ajustará a la Ley 39/2015 exclusivamente",
+    "En los procedimientos de las Comunidades Autónomas y Entidades Locales, el uso de la lengua se ajustará al reglamento orgánico de cada entidad"
+   ],
+   0,
+   "Art. 15.2 · Ley 39/2015: En los procedimientos de las Comunidades Autónomas y Entidades Locales, el uso de la lengua se ajustará a la legislación autonómica correspondiente.",
+   "lpac 15.2",
+   "La afirmación, su negación y otro dato",
+   "h-derechos-art13",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-066",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Los documentos dirigidos a la Administración podrán presentarse, entre otros lugares en el registro civil, oficinas de Correos, representaciones diplomáticas o consulares de España en el extranjero y oficinas de asistencia en materia de registros",
+    "Los documentos dirigidos a la Administración podrán presentarse, entre otros lugares en el registro mercantil, oficinas de Correos, representaciones diplomáticas o consulares de España en el extranjero y oficinas de asistencia en materia de registros",
+    "Los documentos dirigidos a la Administración podrán presentarse, entre otros lugares en el registro electrónico, oficinas de Correos, representaciones diplomáticas o consulares de España en el extranjero y oficinas de asistencia en materia de registros"
+   ],
+   2,
+   "Art. 16.4 · Ley 39/2015: Los documentos dirigidos a la Administración podrán presentarse, entre otros lugares en el registro electrónico, oficinas de Correos, representaciones diplomáticas o consulares de España en el extranjero y oficinas de asistencia en materia de registros. Las otras dos frases cambian «registro electrónico» por «registro civil» y «registro mercantil».",
+   "lpac 16.4",
+   "Una sola palabra cambia el sentido",
+   "h-registro",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t05-076",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Se exceptúan de la obligación de resolver la terminación por pacto o convenio y los procedimientos sobre derechos sometidos solo a declaración responsable o comunicación",
+    "El recibo que se emite en el registro electrónico consiste en una copia autenticada del documento con fecha, hora y número de entrada, que garantiza integridad y no repudio",
+    "La ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior a tres meses, en todo caso, cualquiera que sea el plazo máximo del procedimiento"
+   ],
+   2,
+   "La incorrecta es «la ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior a tres meses, en todo caso, cualquiera que sea el plazo máximo del procedimiento». Lo correcto: la ampliación excepcional del plazo máximo de resolución y notificación no podrá ser superior al establecido para la tramitación del procedimiento.",
+   "lpac 23.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas deberán presentarse en las oficinas de Correos, en la forma que reglamentariamente se establezca",
+    "Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro",
+    "La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley"
+   ],
+   0,
+   "La incorrecta es «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas deberán presentarse en las oficinas de Correos, en la forma que reglamentariamente se establezca»: cambia «podrán». Lo correcto: «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las oficinas de Correos, en la forma que reglamentariamente se estable",
+   "lpac 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación",
+    "El sentido del silencio también será desestimatorio en los procedimientos de impugnación de actos y disposiciones y en los de revisión de oficio iniciados a solicitud de los interesados",
+    "Las Administraciones Públicas emitirán los documentos administrativos de forma tácita, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia"
+   ],
+   2,
+   "La incorrecta es «Las Administraciones Públicas emitirán los documentos administrativos de forma tácita, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia»: cambia «por escrito». Lo correcto: «Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más",
+   "lpac 26",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será voluntaria cuando así esté previsto en una norma con rango de ley",
+    "Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable",
+    "Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia"
+   ],
+   0,
+   "La incorrecta es «La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será voluntaria cuando así esté previsto en una norma con rango de ley»: cambia «obligatoria». Lo correcto: «La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con ra",
+   "lpac 19",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable",
+    "Cuando las Administraciones Públicas expidan copias auténticas electrónicas, no deberá quedar expresamente así indicado en el documento de la copia",
+    "Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente"
+   ],
+   1,
+   "La incorrecta es «Cuando las Administraciones Públicas expidan copias auténticas electrónicas, no deberá quedar expresamente así indicado en el documento de la copia»: cambia «deberá». Lo correcto: «Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia».",
+   "lpac 27",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El vencimiento del plazo máximo en los procedimientos de oficio no exime a la Administración del cumplimiento de la obligación legal de resolver",
+    "La Administración podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos, que no exceda del doble de los mismos",
+    "Cuando el procedimiento tenga por objeto el acceso a actividades, la ley que disponga el silencio desestimatorio deberá fundarse en la concurrencia de razones imperiosas de interés general"
+   ],
+   1,
+   "La incorrecta es «la Administración podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos, que no exceda del doble de los mismos». Lo correcto: la Administración podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos.",
+   "lpac 32",
+   "Proposición negativa",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas no podrán presentarse en cualquier otro que establezcan las disposiciones vigentes",
+    "Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos"
+   ],
+   1,
+   "La incorrecta es «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas no podrán presentarse en cualquier otro que establezcan las disposiciones vigentes»: cambia «podrán». Lo correcto: «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en cualquier otro que establezcan las disposiciones vigentes».",
+   "lpac 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las oficinas de asistencia en materia de registros",
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas deberá ser modificado por aquella en cualquier momento",
+    "La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente"
+   ],
+   1,
+   "La incorrecta es «El medio elegido por la persona para comunicarse con las Administraciones Públicas deberá ser modificado por aquella en cualquier momento»: cambia «podrá». Lo correcto: «El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento».",
+   "lpac 14",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando así esté previsto en una norma con rango de ley",
+    "La citación para comparecer debe hacer constar expresamente únicamente el objeto y la hora",
+    "Las Administraciones entregarán certificación acreditativa de la comparecencia cuando el interesado lo solicite"
+   ],
+   1,
+   "La incorrecta es «la citación para comparecer debe hacer constar expresamente únicamente el objeto y la hora». Lo correcto: la citación para comparecer debe hacer constar expresamente lugar, fecha, hora, medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.",
+   "lpac 19.2",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cada Administración publicará los días y horario en que deban permanecer abiertas las oficinas que presten asistencia para la presentación electrónica de documentos garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos",
+    "El registro electrónico de cada Administración se regirá, a efectos del cómputo de los plazos, por la hora del equipo informático del interesado en el momento de la presentación del documento",
+    "El calendario de días inhábiles aplicable en los registros electrónicos es el que determine la sede electrónica del registro, único para esos efectos, sin que resulte de aplicación el artículo 30.6"
+   ],
+   1,
+   "La incorrecta es «el registro electrónico de cada Administración se regirá, a efectos del cómputo de los plazos, por la hora del equipo informático del interesado en el momento de la presentación del documento». Lo correcto: el registro electrónico de cada Administración se regirá, a efectos del cómputo de los plazos, por la fecha y hora oficial de la sede electrónica de acceso.",
+   "lpac 31.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En los casos de prescripción, renuncia, caducidad, desistimiento o desaparición sobrevenida del objeto, la resolución consistirá en la declaración de la circunstancia que concurra, con indicación de los hechos y las normas aplicables",
+    "El calendario de días inhábiles de las Comunidades Autónomas comprenderá los días inhábiles de las Entidades Locales de su ámbito territorial, a las que será de aplicación",
+    "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables solo en procedimientos sancionadores"
+   ],
+   2,
+   "La incorrecta es «los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables solo en procedimientos sancionadores». Lo correcto: los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables directos de su tramitación.",
+   "lpac 20.1",
+   "Proposición negativa",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Contra el acuerdo que resuelva sobre la ampliación de plazos de resolución no cabrá recurso alguno",
+    "El plazo máximo en el que debe notificarse la resolución expresa no podrá exceder, como regla, de seis meses, salvo que una norma con rango de Ley o el Derecho de la UE establezcan otro mayor",
+    "Los interesados que conozcan datos que identifiquen a otros interesados que no hayan comparecido pueden reservárselos"
+   ],
+   2,
+   "La incorrecta es «los interesados que conozcan datos que identifiquen a otros interesados que no hayan comparecido pueden reservárselos». Lo correcto: los interesados que conozcan datos que identifiquen a otros interesados que no hayan comparecido tienen el deber de proporcionárselos a la Administración actuante.",
+   "lpac 18.2",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas",
+    "Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Para ser considerados válidos, los documentos electrónicos administrativos podrán contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado"
+   ],
+   2,
+   "La incorrecta es «Para ser considerados válidos, los documentos electrónicos administrativos podrán contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado»: cambia «deberán». Lo correcto: «Para ser considerados válidos, los documentos electrónicos administrativos deberán contener información de cualquier na",
+   "lpac 26",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, no se estará a lo dispuesto en el artículo 100",
+    "Para ser considerados válidos, los documentos electrónicos administrativos deberán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en cualquier otro que establezcan las disposiciones vigentes"
+   ],
+   0,
+   "La incorrecta es «Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, no se estará a lo dispuesto en el artículo 100»: niega lo que dice la ley. Lo correcto: «Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, se estará a lo dispuesto en el ",
+   "lpac 18",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación",
+    "Los organismos públicos vinculados o dependientes podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que dependen",
+    "Los interesados tienen derecho a no aportar documentos que ya estén en poder de la Administración actuante o elaborados por otra Administración salvo en los procedimientos de revisión de oficio"
+   ],
+   2,
+   "La incorrecta es «los interesados tienen derecho a no aportar documentos que ya estén en poder de la Administración actuante o elaborados por otra Administración salvo en los procedimientos de revisión de oficio». Lo correcto: los interesados tienen derecho a no aportar documentos que ya estén en poder de la Administración actuante o elaborados por otra Administración salvo que se opongan, sin que quepa oposición en ",
+   "lpac 28.2",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El plazo máximo para resolver podrá suspenderse cuando deba requerirse al interesado la subsanación de deficiencias por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento o, en su defecto, el plazo concedido",
+    "Si el informe preceptivo no se recibe en el plazo máximo de suspensión proseguirá el procedimiento",
+    "El plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando se solicite un informe facultativo y no vinculante a un órgano de la misma Administración"
+   ],
+   2,
+   "La incorrecta es «el plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando se solicite un informe facultativo y no vinculante a un órgano de la misma Administración». Lo correcto: el plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando los interesados promuevan la recusación, desde que se plantee hasta que sea resuelta por el superior jerárquico.",
+   "lpac 22.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los documentos electrónicos deberán conservarse en un formato que garantice autenticidad, integridad y conservación, así como su consulta con independencia del tiempo transcurrido",
+    "Si en el mes de vencimiento no hubiera día equivalente al de inicio del cómputo, el plazo expira el último día del mes",
+    "Las Administraciones no exigirán a los interesados la presentación de documentos que acrediten su identidad"
+   ],
+   2,
+   "La incorrecta es «las Administraciones no exigirán a los interesados la presentación de documentos que acrediten su identidad». Lo correcto: las Administraciones no exigirán a los interesados la presentación de documentos originales, salvo que la normativa establezca lo contrario con carácter excepcional.",
+   "lpac 28.3",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin notificarse resolución expresa legitima, como regla general, para entender la solicitud estimada por silencio administrativo",
+    "Si el recurso de alzada se ha interpuesto contra la desestimación por silencio de una solicitud se entenderá inadmitido",
+    "Los actos producidos por silencio administrativo se pueden hacer valer ante la Administración y ante cualquier persona física o jurídica, pública o privada"
+   ],
+   1,
+   "La incorrecta es «si el recurso de alzada se ha interpuesto contra la desestimación por silencio de una solicitud se entenderá inadmitido». Lo correcto: si el recurso de alzada se ha interpuesto contra la desestimación por silencio de una solicitud se entenderá estimado si no se dicta y notifica resolución expresa en plazo, salvo en las materias de silencio negativo.",
+   "lpac 24.1",
+   "Proposición negativa",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La lengua de los procedimientos tramitados por la Administración Local será el castellano",
+    "Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas",
+    "Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión"
+   ],
+   0,
+   "La incorrecta es «La lengua de los procedimientos tramitados por la Administración Local será el castellano»: cambia «Administración General del Estado». Lo correcto: «La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano».",
+   "lpac 15",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación",
+    "Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia",
+    "Para ser considerados válidos, los documentos electrónicos administrativos podrán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico"
+   ],
+   2,
+   "La incorrecta es «Para ser considerados válidos, los documentos electrónicos administrativos podrán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico»: cambia «deberán». Lo correcto: «Para ser considerados válidos, los documentos electrónicos administrativos deberán disponer de los datos de identificación que permitan su in",
+   "lpac 26",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las copias electrónicas de un documento electrónico original deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento",
+    "Las copias auténticas de documentos privados surten efectos judiciales plenos",
+    "Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos correspondientes a procedimientos finalizados"
+   ],
+   1,
+   "La incorrecta es «las copias auténticas de documentos privados surten efectos judiciales plenos». Lo correcto: las copias auténticas de documentos privados surten únicamente efectos administrativos.",
+   "lpac 27.1",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los Organismos públicos vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las oficinas de Correos, en la forma que reglamentariamente se establezca",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas no podrán presentarse en las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+   ],
+   2,
+   "La incorrecta es «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas no podrán presentarse en las representaciones diplomáticas u oficinas consulares de España en el extranjero»: cambia «podrán». Lo correcto: «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las representaciones diplomáticas u oficinas consulares de ",
+   "lpac 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las oficinas de asistencia en materia de registros",
+    "Cada Administración no deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable",
+    "Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión"
+   ],
+   1,
+   "La incorrecta es «Cada Administración no deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable»: cambia «deberá». Lo correcto: «Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los término",
+   "lpac 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables directos de su tramitación",
+    "Contra el acuerdo que declare la tramitación de urgencia no cabe recurso alguno",
+    "El plazo de resolución puede suspenderse cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano consultivo autonómico"
+   ],
+   2,
+   "La incorrecta es «el plazo de resolución puede suspenderse cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano consultivo autonómico». Lo correcto: el plazo de resolución puede suspenderse cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, por el tiempo que medie entre la petición y la notificación del pronunciamiento.",
+   "lpac 22.1.b",
+   "Proposición negativa",
+   "h-suspension-plazo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en cualquier otro que establezcan las disposiciones vigentes",
+    "Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos",
+    "Los documentos electrónicos no deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión"
+   ],
+   2,
+   "La incorrecta es «Los documentos electrónicos no deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión»: cambia «deberán». Lo correcto: «Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento,",
+   "lpac 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno",
+    "La estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento",
+    "Los actos administrativos producidos por silencio administrativo no se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada"
+   ],
+   2,
+   "La incorrecta es «Los actos administrativos producidos por silencio administrativo no se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada»: niega lo que dice la ley. Lo correcto: «Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o pri",
+   "lpac 24",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, exclusivamente en el ámbito de la actividad de las Administraciones Públicas",
+    "Las copias auténticas realizadas por una Administración Pública no tendrán validez en las restantes Administraciones",
+    "Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas"
+   ],
+   1,
+   "La incorrecta es «Las copias auténticas realizadas por una Administración Pública no tendrán validez en las restantes Administraciones»: niega lo que dice la ley. Lo correcto: «Las copias auténticas realizadas por una Administración Pública tendrán validez en las restantes Administraciones».",
+   "lpac 27",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado",
+    "Los interesados no deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable",
+    "Las copias auténticas realizadas por una Administración Pública tendrán validez en las restantes Administraciones"
+   ],
+   1,
+   "La incorrecta es «Los interesados no deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable»: cambia «deberán». Lo correcto: «Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicab",
+   "lpac 28",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El plazo se suspende cuando sea indispensable un pronunciamiento previo de un órgano jurisdiccional desde que se solicita, comunicándolo a los interesados, hasta que la Administración tenga constancia del mismo",
+    "Tanto la petición de ampliación de plazo como la decisión sobre la misma deberán producirse antes del vencimiento del plazo de que se trate; nunca se puede ampliar un plazo ya vencido",
+    "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano sin excepción alguna"
+   ],
+   2,
+   "La incorrecta es «la lengua de los procedimientos tramitados por la Administración General del Estado será el castellano sin excepción alguna». Lo correcto: la lengua de los procedimientos tramitados por la Administración General del Estado será el castellano; los interesados con sede en una CA con lengua cooficial pueden usar también ésta.",
+   "lpac 15.1",
+   "Proposición negativa",
+   "h-derechos-art13",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Para ser considerados válidos, los documentos electrónicos administrativos deberán contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado",
+    "Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado",
+    "Para ser considerados válidos, los documentos electrónicos administrativos no deberán incorporar una referencia temporal del momento en que han sido emitidos"
+   ],
+   2,
+   "La incorrecta es «Para ser considerados válidos, los documentos electrónicos administrativos no deberán incorporar una referencia temporal del momento en que han sido emitidos»: cambia «deberán». Lo correcto: «Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar una referencia temporal del momento en que han sido emitidos».",
+   "lpac 26",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El plazo se suspende cuando sea indispensable un pronunciamiento previo de un órgano jurisdiccional durante seis meses",
+    "Si concurren varios interesados con discrepancia sobre la lengua, el procedimiento se tramitará en castellano, expidiéndose los documentos o testimonios en la lengua elegida por quien los solicite",
+    "El plazo máximo para resolver podrá suspenderse cuando deba requerirse al interesado la subsanación de deficiencias por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento o, en su defecto, el plazo concedido"
+   ],
+   0,
+   "La incorrecta es «el plazo se suspende cuando sea indispensable un pronunciamiento previo de un órgano jurisdiccional durante seis meses». Lo correcto: el plazo se suspende cuando sea indispensable un pronunciamiento previo de un órgano jurisdiccional desde que se solicita, comunicándolo a los interesados, hasta que la Administración tenga constancia del mismo.",
+   "lpac 22.1.g",
+   "Proposición negativa",
+   "h-suspension-plazo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los dirigidos a los interesados que expresamente lo soliciten",
+    "La tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a los informes preceptivos",
+    "Si el recurso de alzada se ha interpuesto contra la desestimación por silencio de una solicitud se entenderá estimado si no se dicta y notifica resolución expresa en plazo, salvo en las materias de silencio negativo"
+   ],
+   1,
+   "La incorrecta es «la tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a los informes preceptivos». Lo correcto: la tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+   "lpac 33",
+   "Proposición negativa",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En los casos de estimación por silencio, la resolución expresa posterior al vencimiento solo podrá dictarse de ser confirmatoria del mismo",
+    "El registro electrónico emitirá automáticamente un recibo consistente en una copia simple del documento sin fecha ni hora de presentación, a retirar por el interesado en la oficina de registro",
+    "Cada Administración dispondrá de un Registro Electrónico General en el que se hará asiento de todo documento presentado o recibido"
+   ],
+   1,
+   "La incorrecta es «el registro electrónico emitirá automáticamente un recibo consistente en una copia simple del documento sin fecha ni hora de presentación, a retirar por el interesado en la oficina de registro». Lo correcto: el registro electrónico emitirá automáticamente un recibo consistente en una copia autenticada del documento, con fecha y hora de presentación y número de entrada de registro.",
+   "lpac 16.3",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada",
+    "La declaración de dos días como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas",
+    "En ningún caso podrá ser objeto de ampliación un plazo ya vencido"
+   ],
+   1,
+   "La incorrecta es «La declaración de dos días como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas»: cambia «un día». Lo correcto: «La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sol",
+   "lpac 30",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento no cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento",
+    "El calendario de días inhábiles deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda y en otros medios de difusión",
+    "La Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma en todo caso, sin excepción"
+   ],
+   2,
+   "La incorrecta es «la Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma en todo caso, sin excepción». Lo correcto: la Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma salvo que deban surtir efectos en un territorio donde sea cooficial esa misma lengua.",
+   "lpac 15.3",
+   "Proposición negativa",
+   "h-derechos-art13",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas no podrá ser modificado por aquella en cualquier momento",
+    "Los Organismos públicos vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende",
+    "Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas"
+   ],
+   0,
+   "La incorrecta es «El medio elegido por la persona para comunicarse con las Administraciones Públicas no podrá ser modificado por aquella en cualquier momento»: cambia «podrá». Lo correcto: «El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento».",
+   "lpac 14",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en cualquier otro que establezcan las disposiciones vigentes",
+    "Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro podrá estar disponible para consulta en la sede electrónica de acceso al registro"
+   ],
+   2,
+   "La incorrecta es «Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro podrá estar disponible para consulta en la sede electrónica de acceso al registro»: cambia «deberá». Lo correcto: «Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro deberá estar disponible par",
+   "lpac 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno",
+    "Las Administraciones Públicas no deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto",
+    "Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente"
+   ],
+   1,
+   "La incorrecta es «Las Administraciones Públicas no deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto»: cambia «deberán». Lo correcto: «Las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a ",
+   "lpac 28",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano",
+    "La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas deberán presentarse en las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+   ],
+   2,
+   "La incorrecta es «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas deberán presentarse en las representaciones diplomáticas u oficinas consulares de España en el extranjero»: cambia «podrán». Lo correcto: «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las representaciones diplomáticas u oficinas consulares de Es",
+   "lpac 16",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando los plazos se señalen por horas, se entiende que éstas son hábiles, formando parte de un día hábil, y no pueden superar las veinticuatro horas",
+    "Para ser válidos, los documentos electrónicos administrativos deberán contener información en soporte electrónico identificable, datos de individualización, referencia temporal, metadatos mínimos y firmas electrónicas correspondientes",
+    "La citación para comparecer debe hacer constar expresamente solo el lugar y la fecha"
+   ],
+   2,
+   "La incorrecta es «la citación para comparecer debe hacer constar expresamente solo el lugar y la fecha». Lo correcto: la citación para comparecer debe hacer constar expresamente lugar, fecha, hora, medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.",
+   "lpac 19.2",
+   "Proposición negativa",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "En los casos de desestimación por silencio, la resolución expresa posterior se adopta sin vinculación alguna al sentido del silencio",
+    "El silencio es desestimatorio también en los procedimientos de impugnación de actos y disposiciones y de revisión de oficio iniciados a solicitud de los interesados",
+    "En los casos de estimación por silencio, la resolución expresa posterior al vencimiento no puede dictarse nunca"
+   ],
+   2,
+   "La incorrecta es «en los casos de estimación por silencio, la resolución expresa posterior al vencimiento no puede dictarse nunca». Lo correcto: en los casos de estimación por silencio, la resolución expresa posterior al vencimiento solo podrá dictarse de ser confirmatoria del mismo.",
+   "lpac 24.3.a",
+   "Proposición negativa",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos",
+    "La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será potestativa cuando así esté previsto en una norma con rango de ley",
+    "Para ser considerados válidos, los documentos electrónicos administrativos deberán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico"
+   ],
+   1,
+   "La incorrecta es «La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será potestativa cuando así esté previsto en una norma con rango de ley»: cambia «obligatoria». Lo correcto: «La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con r",
+   "lpac 19",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, se estará a lo dispuesto en el artículo 100",
+    "Los documentos electrónicos podrán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión",
+    "Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable"
+   ],
+   1,
+   "La incorrecta es «Los documentos electrónicos podrán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión»: cambia «deberán». Lo correcto: «Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así",
+   "lpac 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento",
+    "La Administración Pública instructora no deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente",
+    "Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, se estará a lo dispuesto en el artículo 100"
+   ],
+   1,
+   "La incorrecta es «La Administración Pública instructora no deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente»: cambia «deberá». Lo correcto: «La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o ",
+   "lpac 15",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Las copias auténticas de documentos privados surten únicamente efectos administrativos",
+    "Para ser considerados válidos, los documentos electrónicos administrativos podrán incorporar una referencia temporal del momento en que han sido emitidos",
+    "Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración"
+   ],
+   1,
+   "La incorrecta es «Para ser considerados válidos, los documentos electrónicos administrativos podrán incorporar una referencia temporal del momento en que han sido emitidos»: cambia «deberán». Lo correcto: «Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar una referencia temporal del momento en que han sido emitidos».",
+   "lpac 26",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en la concurrencia de razones imperiosas de interés general",
+    "La estimación por silencio administrativo no tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento",
+    "Cuando los plazos se hayan señalado por días naturales por declararlo así una ley o por el Derecho de la Unión Europea, se hará constar esta circunstancia en las correspondientes notificaciones"
+   ],
+   1,
+   "La incorrecta es «La estimación por silencio administrativo no tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento»: niega lo que dice la ley. Lo correcto: «La estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento».",
+   "lpac 24",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Se exceptúan de la obligación de resolver los procedimientos iniciados de oficio",
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación",
+    "En los procedimientos iniciados a solicitud del interesado, el plazo máximo para resolver se cuenta desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación"
+   ],
+   0,
+   "La incorrecta es «se exceptúan de la obligación de resolver los procedimientos iniciados de oficio». Lo correcto: se exceptúan de la obligación de resolver la terminación por pacto o convenio y los procedimientos sobre derechos sometidos solo a declaración responsable o comunicación.",
+   "lpac 21.1",
+   "Proposición negativa",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si concurren varios interesados con discrepancia sobre la lengua, el procedimiento se tramitará en la lengua del primer interesado",
+    "El calendario de días inhábiles deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda y en otros medios de difusión",
+    "Tendrán efecto desestimatorio por silencio, entre otros, los procedimientos de responsabilidad patrimonial de las Administraciones Públicas"
+   ],
+   0,
+   "La incorrecta es «si concurren varios interesados con discrepancia sobre la lengua, el procedimiento se tramitará en la lengua del primer interesado». Lo correcto: si concurren varios interesados con discrepancia sobre la lengua, el procedimiento se tramitará en castellano, expidiéndose los documentos o testimonios en la lengua elegida por quien los solicite.",
+   "lpac 15.1",
+   "Proposición negativa",
+   "h-derechos-art13",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "A efectos del cumplimiento de plazos por los interesados, la presentación en un día inhábil en el registro electrónico se entenderá realizada el mismo día inhábil, a las cero horas, con efectos desde ese instante a efectos de cómputo",
+    "La eliminación de documentos electrónicos deberá ser autorizada de acuerdo con la normativa aplicable",
+    "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos"
+   ],
+   0,
+   "La incorrecta es «a efectos del cumplimiento de plazos por los interesados, la presentación en un día inhábil en el registro electrónico se entenderá realizada el mismo día inhábil, a las cero horas, con efectos desde ese instante a efectos de cómputo». Lo correcto: a efectos del cumplimiento de plazos por los interesados, la presentación en un día inhábil en el registro electrónico se entenderá realizada en la prime",
+   "lpac 31.2",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición INCORRECTA:",
+   [
+    "Si en el mes de vencimiento no hubiera día equivalente al de inicio del cómputo, el plazo expira el último día del mes",
+    "La obligación de dictar resolución expresa no existe en los supuestos de terminación del procedimiento por pacto o convenio",
+    "Cuando los plazos se señalen por días naturales por declararlo así una ley o el Derecho de la Unión se entenderá implícito en el cómputo"
+   ],
+   2,
+   "La incorrecta es «cuando los plazos se señalen por días naturales por declararlo así una ley o el Derecho de la Unión se entenderá implícito en el cómputo». Lo correcto: cuando los plazos se señalen por días naturales por declararlo así una ley o el Derecho de la Unión se hará constar esta circunstancia en las correspondientes notificaciones.",
+   "lpac 30.2",
+   "Proposición negativa",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La ampliación de plazos concedida de oficio o a petición del interesado no puede exceder de la mitad del plazo, y requiere que no se perjudiquen derechos de tercero",
+    "La ampliación de plazos concedida de oficio o a petición del interesado puede ser igual al plazo original",
+    "La ampliación de plazos concedida de oficio o a petición del interesado debe ser siempre a petición del interesado"
+   ],
+   0,
+   "Art. 32.1 · Ley 39/2015: La ampliación de plazos concedida de oficio o a petición del interesado no puede exceder de la mitad del plazo, y requiere que no se perjudiquen derechos de tercero.",
+   "lpac 32.1",
+   "La afirmación, su negación y otro dato",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-154",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Cuando las Administraciones Públicas expidan copias auténticas electrónicas, no deberá quedar expresamente así indicado en el documento de la copia",
+    "Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar los metadatos mínimos exigidos",
+    "Para ser considerados válidos, los documentos electrónicos administrativos no deberán incorporar una referencia temporal del momento en que han sido emitidos"
+   ],
+   1,
+   "La correcta es «Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar los metadatos mínimos exigidos». Las otras dos son falsas: lo correcto es «Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia» (la otra frase cambia «deberá») y «Para ser considerados válidos, los documentos electrón",
+   "lpac 26",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables subsidiarios",
+    "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables directos de su tramitación",
+    "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables solo en procedimientos sancionadores"
+   ],
+   1,
+   "Art. 20.1 · Ley 39/2015: Los titulares de las unidades administrativas y el personal al servicio de las Administraciones que tengan a su cargo el despacho de asuntos son responsables directos de su tramitación.",
+   "lpac 20.1",
+   "Opciones casi idénticas",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-087",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Cada Administración podrá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable",
+    "Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable",
+    "Cada Administración no deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable"
+   ],
+   1,
+   "Art. 17 · Ley 39/2015: Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "lpac 17",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Las Administraciones Públicas no deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en cualquier otro que establezcan las disposiciones vigentes",
+    "Los documentos electrónicos no deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión"
+   ],
+   1,
+   "La correcta es «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en cualquier otro que establezcan las disposiciones vigentes». Las otras dos son falsas: lo correcto es «Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos» (la ",
+   "lpac 16",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos",
+    "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que son hábiles, excluyéndose del cómputo solo los domingos y festivos",
+    "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que son hábiles, excluyéndose del cómputo únicamente los festivos nacionales"
+   ],
+   0,
+   "Art. 30 · Ley 39/2015: Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+   "lpac 30",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-001",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente",
+    "Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, no se estará a lo dispuesto en el artículo 100",
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas deberá ser modificado por aquella en cualquier momento"
+   ],
+   0,
+   "La correcta es «La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente». Las otras dos son falsas: lo correcto es «Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes",
+   "lpac 15",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los documentos dirigidos a la Administración no podrán presentarse, entre otros lugares en el registro electrónico, oficinas de Correos, representaciones diplomáticas o consulares de España en el extranjero y oficinas de asistencia en materia de registros",
+    "Los documentos dirigidos a la Administración podrán presentarse, entre otros lugares solo en el registro electrónico",
+    "Los documentos dirigidos a la Administración podrán presentarse, entre otros lugares en el registro electrónico, oficinas de Correos, representaciones diplomáticas o consulares de España en el extranjero y oficinas de asistencia en materia de registros"
+   ],
+   2,
+   "Art. 16.4 · Ley 39/2015: Los documentos dirigidos a la Administración podrán presentarse, entre otros lugares en el registro electrónico, oficinas de Correos, representaciones diplomáticas o consulares de España en el extranjero y oficinas de asistencia en materia de registros.",
+   "lpac 16.4",
+   "La afirmación, su negación y otro dato",
+   "h-registro",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-076",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses",
+    "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de seis meses",
+    "Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de un mes"
+   ],
+   0,
+   "Art. 21.3 · Ley 39/2015: Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.",
+   "lpac 21.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-026",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.1.e de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El plazo se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos de oficio por el órgano instructor",
+    "El plazo se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes solicitados por terceros ajenos al procedimiento",
+    "El plazo se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados, durante el tiempo necesario para incorporar los resultados al expediente"
+   ],
+   2,
+   "Art. 22.1.e · Ley 39/2015: El plazo se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados, durante el tiempo necesario para incorporar los resultados al expediente.",
+   "lpac 22.1.e",
+   "La afirmación, su negación y otro dato",
+   "h-suspension-plazo",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-104",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando los interesados promuevan la recusación, desde que se plantee hasta que sea resuelta por el superior jerárquico",
+    "El plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando se presente un recurso de reposición contra un acto de trámite del propio procedimiento",
+    "El plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando se solicite un informe facultativo y no vinculante a un órgano de la misma Administración"
+   ],
+   0,
+   "Art. 22.2 · Ley 39/2015: El plazo máximo para resolver se suspenderá (no «se podrá», sino que se suspende) cuando los interesados promuevan la recusación, desde que se plantee hasta que sea resuelta por el superior jerárquico.",
+   "lpac 22.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-032",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los casos de prescripción, renuncia, caducidad, desistimiento o desaparición sobrevenida del objeto, la resolución consistirá en la declaración de la circunstancia que concurra, con indicación de los hechos y las normas aplicables",
+    "En los casos de prescripción, renuncia, caducidad, desistimiento o desaparición sobrevenida del objeto, la resolución consistirá en una resolución sobre el fondo del asunto",
+    "En los casos de prescripción, renuncia, caducidad, desistimiento o desaparición sobrevenida del objeto, la resolución consistirá en el archivo sin necesidad de resolución"
+   ],
+   0,
+   "Art. 21.1 · Ley 39/2015: En los casos de prescripción, renuncia, caducidad, desistimiento o desaparición sobrevenida del objeto, la resolución consistirá en la declaración de la circunstancia que concurra, con indicación de los hechos y las normas aplicables.",
+   "lpac 21.1",
+   "La afirmación, su negación y otro dato",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-090",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Las Administraciones Públicas emitirán los documentos administrativos verbalmente, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Las Administraciones Públicas emitirán los documentos administrativos de forma tácita, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia"
+   ],
+   0,
+   "Art. 26 · Ley 39/2015: Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia. Las otras dos frases cambian «por escrito» por «verbalmente» y «de forma tácita».",
+   "lpac 26",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Los documentos administrativos se emitirán verbalmente, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada",
+    "Los documentos administrativos se emitirán de forma tácita, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada",
+    "Los documentos administrativos se emitirán por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada"
+   ],
+   2,
+   "Art. 26.1 · Ley 39/2015: Los documentos administrativos se emitirán por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada. Las otras dos frases cambian «Por escrito» por «verbalmente» y «de forma tácita».",
+   "lpac 26.1",
+   "Una sola palabra cambia el sentido",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t05-123",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Los interesados deberán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas",
+    "El plazo mínimo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento",
+    "Las copias auténticas realizadas por una Administración Pública tendrán validez en las restantes Administraciones"
+   ],
+   2,
+   "La correcta es «Las copias auténticas realizadas por una Administración Pública tendrán validez en las restantes Administraciones». Las otras dos son falsas: lo correcto es «Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas» (la otra frase cambia «podrán») y «El pla",
+   "lpac 27",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo sin resolución legitima para entender desestimada la solicitud en todo caso",
+    "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo sin resolución legitima para entender estimada solo con certificado administrativo",
+    "En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo sin resolución legitima para entender estimada la solicitud por silencio administrativo, salvo que una norma con rango de ley o de Derecho de la Unión Europea establezca lo contrario"
+   ],
+   2,
+   "Art. 24.1 · Ley 39/2015: En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo sin resolución legitima para entender estimada la solicitud por silencio administrativo, salvo que una norma con rango de ley o de Derecho de la Unión Europea establezca lo contrario.",
+   "lpac 24.1",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-109",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Para ser considerados válidos, los documentos electrónicos administrativos podrán incorporar los metadatos mínimos exigidos",
+    "Las copias auténticas realizadas por una Administración Pública no tendrán validez en las restantes Administraciones",
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación"
+   ],
+   2,
+   "La correcta es «La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación». Las otras dos son falsas: lo correcto es «Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar los metadatos mínimos exigidos» (la otra frase cambia «deberán») y «Las copias auténticas realizadas por una Administrac",
+   "lpac 21",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando los plazos se señalen por días naturales por declararlo así una ley o el Derecho de la Unión se hará constar esta circunstancia en las correspondientes notificaciones",
+    "Cuando los plazos se señalen por días naturales por declararlo así una ley o el Derecho de la Unión se advertirá solo si el interesado lo pide",
+    "Cuando los plazos se señalen por días naturales por declararlo así una ley o el Derecho de la Unión se entenderá implícito en el cómputo"
+   ],
+   0,
+   "Art. 30.2 · Ley 39/2015: Cuando los plazos se señalen por días naturales por declararlo así una ley o el Derecho de la Unión se hará constar esta circunstancia en las correspondientes notificaciones.",
+   "lpac 30.2",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-140",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.7 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El calendario de días inhábiles no deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda y en otros medios de difusión",
+    "El calendario de días inhábiles deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda y en otros medios de difusión",
+    "El calendario de días inhábiles deberá publicarse solo en la sede electrónica"
+   ],
+   1,
+   "Art. 30.7 · Ley 39/2015: El calendario de días inhábiles deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda y en otros medios de difusión.",
+   "lpac 30.7",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-147",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos u otras situaciones favorables, el vencimiento del plazo máximo permite a los interesados que hubieren comparecido entender desestimadas sus pretensiones por silencio administrativo",
+    "En los procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos u otras situaciones favorables, el vencimiento del plazo máximo permite a los interesados que hubieren comparecido entenderlas estimadas por silencio positivo, al haberse agotado el plazo máximo para resolver",
+    "En los procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos u otras situaciones favorables, el vencimiento del plazo máximo permite a los interesados que hubieren comparecido solicitar la declaración de caducidad del procedimiento por haber transcurrido el plazo máximo"
+   ],
+   0,
+   "Art. 25.1 · Ley 39/2015: En los procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos u otras situaciones favorables, el vencimiento del plazo máximo permite a los interesados que hubieren comparecido entender desestimadas sus pretensiones por silencio administrativo.",
+   "lpac 25.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-042",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 14 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento",
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas deberá ser modificado por aquella en cualquier momento",
+    "El medio elegido por la persona para comunicarse con las Administraciones Públicas no podrá ser modificado por aquella en cualquier momento"
+   ],
+   0,
+   "Art. 14 · Ley 39/2015: El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   "lpac 14",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los plazos señalados por días se cuentan desde el mismo día de la notificación",
+    "Los plazos señalados por días se cuentan desde el día del acuerdo",
+    "Los plazos señalados por días se cuentan a partir del día siguiente a aquel en que tenga lugar la notificación o publicación, o desde el siguiente a aquel en que se produzca el silencio"
+   ],
+   2,
+   "Art. 30.3 · Ley 39/2015: Los plazos señalados por días se cuentan a partir del día siguiente a aquel en que tenga lugar la notificación o publicación, o desde el siguiente a aquel en que se produzca el silencio.",
+   "lpac 30.3",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-141",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas deberán presentarse en las oficinas de Correos, en la forma que reglamentariamente se establezca",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas no podrán presentarse en las oficinas de Correos, en la forma que reglamentariamente se establezca",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las oficinas de Correos, en la forma que reglamentariamente se establezca"
+   ],
+   2,
+   "Art. 16 · Ley 39/2015: Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las oficinas de Correos, en la forma que reglamentariamente se establezca. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lpac 16",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.3.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los casos de desestimación por silencio, la resolución expresa posterior debe ser confirmatoria del silencio",
+    "En los casos de desestimación por silencio, la resolución expresa posterior se adopta sin vinculación alguna al sentido del silencio",
+    "En los casos de desestimación por silencio, la resolución expresa posterior debe notificarse en diez días"
+   ],
+   1,
+   "Art. 24.3.b · Ley 39/2015: En los casos de desestimación por silencio, la resolución expresa posterior se adopta sin vinculación alguna al sentido del silencio.",
+   "lpac 24.3.b",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-117",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se considerará hábil para el interesado",
+    "Cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se aplicará el calendario del órgano",
+    "Cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se considerará inhábil en todo caso"
+   ],
+   2,
+   "Art. 30.6 · Ley 39/2015: Cuando un día sea hábil en el municipio de residencia del interesado e inhábil en la sede del órgano, o a la inversa se considerará inhábil en todo caso.",
+   "lpac 30.6",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-145",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El silencio no tendrá efecto desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición, los que transfieran facultades sobre dominio público o servicio público, actividades que puedan dañar el medio ambiente y responsabilidad patrimonial",
+    "El silencio tendrá efecto desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición, los que transfieran facultades sobre dominio público o servicio público, actividades que puedan dañar el medio ambiente y responsabilidad patrimonial",
+    "El silencio tendrá efecto desestimatorio, entre otros, en los procedimientos relativos a las solicitudes de certificaciones"
+   ],
+   1,
+   "Art. 24.1 · Ley 39/2015: El silencio tendrá efecto desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición, los que transfieran facultades sobre dominio público o servicio público, actividades que puedan dañar el medio ambiente y responsabilidad patrimonial.",
+   "lpac 24.1",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-111",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate",
+    "Tanto la petición de los interesados como la decisión sobre la ampliación podrán producirse, en todo caso, antes del vencimiento del plazo de que se trate",
+    "Tanto la petición de los interesados como la decisión sobre la ampliación no deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate"
+   ],
+   0,
+   "Art. 32 · Ley 39/2015: Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "lpac 32",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación",
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos solo en los iniciados de oficio",
+    "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos solo en los iniciados a solicitud"
+   ],
+   0,
+   "Art. 21 · Ley 39/2015: La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.",
+   "lpac 21",
+   "La afirmación, su negación y otro dato",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-008",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento",
+    "Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio no deberá fundarse en la concurrencia de razones imperiosas de interés general",
+    "Los interesados no deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable"
+   ],
+   0,
+   "La correcta es «El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento». Las otras dos son falsas: lo correcto es «Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en la concurrencia de razones imperiosas de interés general» (la ",
+   "lpac 21",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 22.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El plazo máximo para resolver se podrá suspender cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, sin que la suspensión pueda exceder de seis meses",
+    "El plazo máximo para resolver se podrá suspender cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, sin que la suspensión pueda exceder de un mes",
+    "El plazo máximo para resolver se podrá suspender cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, sin que la suspensión pueda exceder de tres meses"
+   ],
+   2,
+   "Art. 22.1 · Ley 39/2015: El plazo máximo para resolver se podrá suspender cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, sin que la suspensión pueda exceder de tres meses.",
+   "lpac 22.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-030",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 18.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Si las inspecciones requieren la entrada en el domicilio del afectado no se estará a lo dispuesto en el artículo 100",
+    "Si las inspecciones requieren la entrada en el domicilio del afectado se estará a lo dispuesto en el artículo 100",
+    "Si las inspecciones requieren la entrada en el domicilio del afectado basta la orden del instructor"
+   ],
+   1,
+   "Art. 18.3 · Ley 39/2015: Si las inspecciones requieren la entrada en el domicilio del afectado se estará a lo dispuesto en el artículo 100.",
+   "lpac 18.3",
+   "La afirmación, su negación y otro dato",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-083",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Para ser válidos, los documentos electrónicos administrativos no deberán contener información en soporte electrónico identificable, datos de individualización, referencia temporal, metadatos mínimos y firmas electrónicas correspondientes",
+    "Para ser válidos, los documentos electrónicos administrativos deberán contener información en soporte electrónico identificable, datos de individualización, referencia temporal, metadatos mínimos y firmas electrónicas correspondientes",
+    "Para ser válidos, los documentos electrónicos administrativos deberán estar visados por la Secretaría"
+   ],
+   1,
+   "Art. 26.2 · Ley 39/2015: Para ser válidos, los documentos electrónicos administrativos deberán contener información en soporte electrónico identificable, datos de individualización, referencia temporal, metadatos mínimos y firmas electrónicas correspondientes.",
+   "lpac 26.2",
+   "La afirmación, su negación y otro dato",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-124",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.6 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado e inhábil en la sede del órgano administrativo, o a la inversa, se considerará hábil en todo caso",
+    "Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado e inhábil en la sede del órgano administrativo, o a la inversa, se considerará hábil solo para el interesado",
+    "Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso"
+   ],
+   2,
+   "Art. 30.6 · Ley 39/2015: Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso.",
+   "lpac 30.6",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-048",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando el procedimiento tenga por objeto el acceso a actividades, la ley que disponga el silencio desestimatorio deberá fundarse en la concurrencia de razones imperiosas de interés general",
+    "Cuando el procedimiento tenga por objeto el acceso a actividades, la ley que disponga el silencio desestimatorio no deberá fundarse en la concurrencia de razones imperiosas de interés general",
+    "Cuando el procedimiento tenga por objeto el acceso a actividades, la ley que disponga el silencio desestimatorio deberá fundarse en la conveniencia de la Administración"
+   ],
+   0,
+   "Art. 24.1 · Ley 39/2015: Cuando el procedimiento tenga por objeto el acceso a actividades, la ley que disponga el silencio desestimatorio deberá fundarse en la concurrencia de razones imperiosas de interés general.",
+   "lpac 24.1",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-110",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En los procedimientos iniciados a solicitud del interesado, el plazo máximo para resolver se cuenta desde la fecha en que el interesado firma la solicitud, aunque se presente posteriormente en el registro",
+    "En los procedimientos iniciados a solicitud del interesado, el plazo máximo para resolver se cuenta desde la fecha en que el instructor admite a trámite la solicitud tras comprobar que reúne los requisitos",
+    "En los procedimientos iniciados a solicitud del interesado, el plazo máximo para resolver se cuenta desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación"
+   ],
+   2,
+   "Art. 21.3 · Ley 39/2015: En los procedimientos iniciados a solicitud del interesado, el plazo máximo para resolver se cuenta desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+   "lpac 21.3",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-027",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente",
+    "Para ser considerados válidos, los documentos electrónicos administrativos no deberán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico",
+    "Las Administraciones Públicas no deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto"
+   ],
+   0,
+   "La correcta es «Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente». Las otras dos son falsas: lo correcto es «Para ser considerados válidos, los documentos electrónicos administrativos deberán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico» ",
+   "lpac 28",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo no se producirá la caducidad, con el archivo de las actuaciones",
+    "En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la caducidad, con el archivo de las actuaciones",
+    "En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la prórroga automática del plazo"
+   ],
+   1,
+   "Art. 25.1.b · Ley 39/2015: En procedimientos de ejercicio de potestades sancionadoras o de intervención con efectos desfavorables, vencido el plazo se producirá la caducidad, con el archivo de las actuaciones.",
+   "lpac 25.1.b",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-120",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Para ser considerados válidos, los documentos electrónicos administrativos no deberán incorporar los metadatos mínimos exigidos",
+    "Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable",
+    "Para ser considerados válidos, los documentos electrónicos administrativos podrán incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable"
+   ],
+   1,
+   "La correcta es «Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable». Las otras dos son falsas: lo correcto es «Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar los metadatos mínimos exigidos» (la otra frase cambia «deberán») y «Para ser consi",
+   "lpac 28",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio podrá fundarse en la concurrencia de razones imperiosas de interés general",
+    "La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas",
+    "Tanto la petición de los interesados como la decisión sobre la ampliación no deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate"
+   ],
+   1,
+   "La correcta es «La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas». Las otras dos son falsas: lo correcto es «Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que d",
+   "lpac 30",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.4 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los actos producidos por silencio administrativo solo ante la Administración que no resolvió",
+    "Los actos producidos por silencio administrativo se pueden hacer valer ante la Administración y ante cualquier persona física o jurídica, pública o privada",
+    "Los actos producidos por silencio administrativo solo ante los tribunales"
+   ],
+   1,
+   "Art. 24.4 · Ley 39/2015: Los actos producidos por silencio administrativo se pueden hacer valer ante la Administración y ante cualquier persona física o jurídica, pública o privada.",
+   "lpac 24.4",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-118",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El silencio es desestimatorio también en los procedimientos de impugnación de actos y disposiciones y de revisión de oficio iniciados a solicitud de los interesados",
+    "El silencio no es desestimatorio también en los procedimientos de impugnación de actos y disposiciones y de revisión de oficio iniciados a solicitud de los interesados",
+    "El silencio es desestimatorio también en los procedimientos de concesión de ayudas públicas"
+   ],
+   0,
+   "Art. 24.1 · Ley 39/2015: El silencio es desestimatorio también en los procedimientos de impugnación de actos y disposiciones y de revisión de oficio iniciados a solicitud de los interesados.",
+   "lpac 24.1",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-112",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La lengua de los procedimientos tramitados por la Administración General del Estado no será el castellano; los interesados con sede en una CA con lengua cooficial pueden usar también ésta",
+    "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano sin excepción alguna",
+    "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano; los interesados con sede en una CA con lengua cooficial pueden usar también ésta"
+   ],
+   2,
+   "Art. 15.1 · Ley 39/2015: La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano; los interesados con sede en una CA con lengua cooficial pueden usar también ésta.",
+   "lpac 15.1",
+   "La afirmación, su negación y otro dato",
+   "h-derechos-art13",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-064",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La estimación por silencio administrativo tiene, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento",
+    "La estimación por silencio administrativo no tiene, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento",
+    "La estimación por silencio administrativo tiene, a todos los efectos, la consideración de propuesta de resolución que debe ser ratificada por el órgano competente para producir efectos"
+   ],
+   0,
+   "Art. 24.2 · Ley 39/2015: La estimación por silencio administrativo tiene, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento.",
+   "lpac 24.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-037",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 20 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Los interesados deberán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado",
+    "Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado",
+    "Los interesados no podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado"
+   ],
+   1,
+   "Art. 20 · Ley 39/2015: Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "lpac 20",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las disposiciones de creación de registros electrónicos se publicarán únicamente en la sede electrónica",
+    "Las disposiciones de creación de registros electrónicos se publicarán en el diario oficial correspondiente, con su texto íntegro disponible en la sede electrónica",
+    "Las disposiciones de creación de registros electrónicos se publicarán solo en el tablón de anuncios"
+   ],
+   1,
+   "Art. 16.1 · Ley 39/2015: Las disposiciones de creación de registros electrónicos se publicarán en el diario oficial correspondiente, con su texto íntegro disponible en la sede electrónica.",
+   "lpac 16.1",
+   "La afirmación, su negación y otro dato",
+   "h-registro",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-071",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando así esté previsto en una norma con rango de ley",
+    "La comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando lo disponga cualquier reglamento municipal",
+    "La comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando lo decida el instructor del procedimiento"
+   ],
+   0,
+   "Art. 19.1 · Ley 39/2015: La comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando así esté previsto en una norma con rango de ley.",
+   "lpac 19.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-022",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Los interesados podrán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable",
+    "Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable",
+    "Los interesados no deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable"
+   ],
+   1,
+   "Art. 28 · Ley 39/2015: Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "lpac 28",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas deberán presentarse en las oficinas de asistencia en materia de registros",
+    "Las Administraciones Públicas podrán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos",
+    "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano"
+   ],
+   2,
+   "La correcta es «La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano». Las otras dos son falsas: lo correcto es «Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en las oficinas de asistencia en materia de registros» (la otra frase cambia «podrán») y «Las Administraciones Públicas deberán hacer pública y mant",
+   "lpac 15",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Se exceptúan de la obligación de resolver los procedimientos iniciados de oficio",
+    "Se exceptúan de la obligación de resolver los procedimientos con más de un interesado",
+    "Se exceptúan de la obligación de resolver la terminación por pacto o convenio y los procedimientos sobre derechos sometidos solo a declaración responsable o comunicación"
+   ],
+   2,
+   "Art. 21.1 · Ley 39/2015: Se exceptúan de la obligación de resolver la terminación por pacto o convenio y los procedimientos sobre derechos sometidos solo a declaración responsable o comunicación.",
+   "lpac 21.1",
+   "La afirmación, su negación y otro dato",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-091",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 25.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El vencimiento del plazo máximo en los procedimientos de oficio obliga a iniciar un nuevo procedimiento",
+    "El vencimiento del plazo máximo en los procedimientos de oficio no exime a la Administración del cumplimiento de la obligación legal de resolver",
+    "El vencimiento del plazo máximo en los procedimientos de oficio exime de resolver al órgano instructor"
+   ],
+   1,
+   "Art. 25.1 · Ley 39/2015: El vencimiento del plazo máximo en los procedimientos de oficio no exime a la Administración del cumplimiento de la obligación legal de resolver.",
+   "lpac 25.1",
+   "La afirmación, su negación y otro dato",
+   "h-silencio-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-121",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento no cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento",
+    "Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento cabe recurso de reposición en un mes",
+    "Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento cabe recurso de alzada"
+   ],
+   0,
+   "Art. 33 · Ley 39/2015: Contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento no cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+   "lpac 33",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-007",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento",
+    "Las Administraciones Públicas emitirán los documentos administrativos de forma tácita, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",
+    "Para ser considerados válidos, los documentos electrónicos administrativos no deberán contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado"
+   ],
+   0,
+   "La correcta es «El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento». Las otras dos son falsas: lo correcto es «Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia» (la otra frase cambia «",
+   "lpac 21",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 19.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La citación para comparecer debe hacer constar expresamente lugar, fecha, hora, medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla",
+    "La citación para comparecer debe hacer constar expresamente únicamente el objeto y la hora",
+    "La citación para comparecer debe hacer constar expresamente solo el lugar y la fecha"
+   ],
+   0,
+   "Art. 19.2 · Ley 39/2015: La citación para comparecer debe hacer constar expresamente lugar, fecha, hora, medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.",
+   "lpac 19.2",
+   "La afirmación, su negación y otro dato",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-085",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 21.5 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente podrá habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo",
+    "Cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente no podrá habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo",
+    "Cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente podrá archivar las solicitudes sobrantes"
+   ],
+   0,
+   "Art. 21.5 · Ley 39/2015: Cuando el número de solicitudes pudiera suponer incumplimiento del plazo, el órgano competente podrá habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.",
+   "lpac 21.5",
+   "La afirmación, su negación y otro dato",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-098",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La Administración instructora no deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma salvo que deban surtir efectos en un territorio donde sea cooficial esa misma lengua",
+    "La Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma salvo que deban surtir efectos en un territorio donde sea cooficial esa misma lengua",
+    "La Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma solo si lo pide el órgano destinatario"
+   ],
+   1,
+   "Art. 15.3 · Ley 39/2015: La Administración instructora deberá traducir al castellano los documentos que deban surtir efecto fuera de la Comunidad Autónoma salvo que deban surtir efectos en un territorio donde sea cooficial esa misma lengua.",
+   "lpac 15.3",
+   "La afirmación, su negación y otro dato",
+   "h-derechos-art13",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-067",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Cuando la norma del procedimiento no fije plazo máximo para resolver, este es de dos meses",
+    "Cuando la norma del procedimiento no fije plazo máximo para resolver, este es de un mes",
+    "Cuando la norma del procedimiento no fije plazo máximo para resolver, este es de tres meses"
+   ],
+   2,
+   "Art. 21 · Ley 39/2015: Cuando la norma del procedimiento no fije plazo máximo para resolver, este es de tres meses. Las otras dos frases cambian «Tres meses» por «Dos meses» y «Un mes».",
+   "lpac 21",
+   "Una sola palabra cambia el sentido",
+   "h-resolver",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t05-062",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "En ningún caso podrá ser objeto de ampliación un plazo ya vencido",
+    "Tanto la petición de los interesados como la decisión sobre la ampliación podrán producirse, en todo caso, antes del vencimiento del plazo de que se trate",
+    "El acuerdo de ampliación no deberá ser notificado a los interesados"
+   ],
+   0,
+   "La correcta es «En ningún caso podrá ser objeto de ampliación un plazo ya vencido». Las otras dos son falsas: lo correcto es «Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate» (la otra frase cambia «deberán») y «El acuerdo de ampliación deberá ser notificado a los interesados» (la otra frase cambia «deberá»).",
+   "lpac 32",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "El acuerdo de ampliación podrá ser notificado a los interesados",
+    "El acuerdo de ampliación no deberá ser notificado a los interesados",
+    "El acuerdo de ampliación deberá ser notificado a los interesados"
+   ],
+   2,
+   "Art. 32 · Ley 39/2015: El acuerdo de ampliación deberá ser notificado a los interesados. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "lpac 32",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 15 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano",
+    "La lengua de los procedimientos tramitados por la Administración Local será el castellano",
+    "La lengua de los procedimientos tramitados por la Administración de la Comunidad Autónoma será el castellano"
+   ],
+   0,
+   "Art. 15 · Ley 39/2015: La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano. Las otras dos frases cambian «Administración General del Estado» por «Administración Local» y «Administración de la Comunidad Autónoma».",
+   "lpac 15",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los asientos de registro se anotarán por orden alfabético del interesado",
+    "Los asientos de registro se anotarán respetando el orden temporal de recepción o salida, indicando la fecha del día en que se produzcan",
+    "Los asientos de registro se anotarán por la urgencia del asunto"
+   ],
+   1,
+   "Art. 16.2 · Ley 39/2015: Los asientos de registro se anotarán respetando el orden temporal de recepción o salida, indicando la fecha del día en que se produzcan.",
+   "lpac 16.2",
+   "La afirmación, su negación y otro dato",
+   "h-registro",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-073",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Cada Administración no deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable",
+    "Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante",
+    "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas no podrán presentarse en cualquier otro que establezcan las disposiciones vigentes"
+   ],
+   1,
+   "La correcta es «Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante». Las otras dos son falsas: lo correcto es «Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos esta",
+   "lpac 18",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 33 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Contra el acuerdo que declare la tramitación de urgencia cabe recurso de alzada",
+    "Contra el acuerdo que declare la tramitación de urgencia cabe recurso de reposición",
+    "Contra el acuerdo que declare la tramitación de urgencia no cabe recurso alguno"
+   ],
+   2,
+   "Art. 33 · Ley 39/2015: Contra el acuerdo que declare la tramitación de urgencia no cabe recurso alguno.",
+   "lpac 33",
+   "Opciones casi idénticas",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-061",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Los interesados no podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas",
+    "Para ser considerados válidos, los documentos electrónicos administrativos podrán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico",
+    "Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración"
+   ],
+   2,
+   "La correcta es «Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración». Las otras dos son falsas: lo correcto es «Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administr",
+   "lpac 28",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 31.2.b de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada el último día hábil anterior",
+    "La presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada el mismo día inhábil a las 24 horas",
+    "La presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada en la primera hora del primer día hábil siguiente"
+   ],
+   2,
+   "Art. 31.2.b · Ley 39/2015: La presentación en un día inhábil, a efectos de cumplimiento de plazos por los interesados, se entenderá realizada en la primera hora del primer día hábil siguiente.",
+   "lpac 31.2.b",
+   "La afirmación, su negación y otro dato",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-151",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "El Registro Electrónico General de cada Administración funcionará como un portal que facilitará el acceso a los registros electrónicos de cada Organismo",
+    "El Registro Electrónico General de cada Administración funcionará como un registro exclusivo de salida",
+    "El Registro Electrónico General de cada Administración funcionará como un archivo definitivo de expedientes"
+   ],
+   0,
+   "Art. 16.1 · Ley 39/2015: El Registro Electrónico General de cada Administración funcionará como un portal que facilitará el acceso a los registros electrónicos de cada Organismo.",
+   "lpac 16.1",
+   "La afirmación, su negación y otro dato",
+   "h-registro",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-070",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 32.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La ampliación por el tiempo máximo permitido se aplicará en todo caso a procedimientos tramitados por misiones diplomáticas y oficinas consulares, o que exijan trámites en el extranjero o con interesados residentes fuera de España",
+    "La ampliación por el tiempo máximo permitido se aplicará en todo caso a procedimientos con más de tres interesados",
+    "La ampliación por el tiempo máximo permitido se aplicará en todo caso a procedimientos iniciados de oficio"
+   ],
+   0,
+   "Art. 32.2 · Ley 39/2015: La ampliación por el tiempo máximo permitido se aplicará en todo caso a procedimientos tramitados por misiones diplomáticas y oficinas consulares, o que exijan trámites en el extranjero o con interesados residentes fuera de España.",
+   "lpac 32.2",
+   "La afirmación, su negación y otro dato",
+   "h-plazos-detalle",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-155",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro podrá estar disponible para consulta en la sede electrónica de acceso al registro",
+    "Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro no deberá estar disponible para consulta en la sede electrónica de acceso al registro",
+    "Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro"
+   ],
+   2,
+   "Art. 16 · Ley 39/2015: Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "lpac 16",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 28.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los interesados tienen derecho a no aportar documentos que se encuentren en poder de otras Administraciones, siempre que no hayan sido elaborados por éstas",
+    "Los interesados tienen derecho a no aportar documentos que hayan sido elaborados por los propios interesados y se encuentren en poder de entidades privadas",
+    "Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración"
+   ],
+   2,
+   "Art. 28.2 · Ley 39/2015: Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.",
+   "lpac 28.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-055",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 26 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la opción correcta:",
+   [
+    "Para ser considerados válidos, los documentos electrónicos administrativos podrán incorporar una referencia temporal del momento en que han sido emitidos",
+    "Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar una referencia temporal del momento en que han sido emitidos",
+    "Para ser considerados válidos, los documentos electrónicos administrativos no deberán incorporar una referencia temporal del momento en que han sido emitidos"
+   ],
+   1,
+   "Art. 26 · Ley 39/2015: Para ser considerados válidos, los documentos electrónicos administrativos deberán incorporar una referencia temporal del momento en que han sido emitidos. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   "lpac 26",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición CORRECTA:",
+   [
+    "Los interesados no podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado",
+    "Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante",
+    "Las Administraciones Públicas emitirán los documentos administrativos verbalmente, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia"
+   ],
+   1,
+   "La correcta es «Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante». Las otras dos son falsas: lo correcto es «Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado» (la otra frase cambia «podrán",
+   "lpac 18",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.1 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Cuando los plazos se señalen por horas, se entiende que éstas son hábiles solo de lunes a viernes",
+    "Cuando los plazos se señalen por horas, se entiende que éstas son hábiles, formando parte de un día hábil, y no pueden superar las veinticuatro horas",
+    "Cuando los plazos se señalen por horas, se entiende que éstas son naturales"
+   ],
+   1,
+   "Art. 30.1 · Ley 39/2015: Cuando los plazos se señalen por horas, se entiende que éstas son hábiles, formando parte de un día hábil, y no pueden superar las veinticuatro horas.",
+   "lpac 30.1",
+   "La afirmación, su negación y otro dato",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-138",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 24.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo",
+    "La desestimación por silencio administrativo no tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo",
+    "La desestimación por silencio administrativo tiene los efectos de un acto finalizador del procedimiento, equiparable a una resolución expresa estimatoria"
+   ],
+   0,
+   "Art. 24.2 · Ley 39/2015: La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo.",
+   "lpac 24.2",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-038",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 30.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los plazos señalados por días se entienden hábiles, excluyéndose del cómputo solo los domingos y festivos",
+    "Los plazos señalados por días se entienden hábiles, excluyéndose del cómputo los sábados, domingos y los declarados festivos",
+    "Los plazos señalados por días se entienden hábiles, excluyéndose del cómputo los sábados y domingos, pero no los festivos"
+   ],
+   1,
+   "Art. 30.2 · Ley 39/2015: Los plazos señalados por días se entienden hábiles, excluyéndose del cómputo los sábados, domingos y los declarados festivos.",
+   "lpac 30.2",
+   "Opciones casi idénticas",
+   "h-plazos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-139",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27.3 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Las copias electrónicas de un documento electrónico original no deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento",
+    "Las copias electrónicas de un documento electrónico original deberán incluir la firma manuscrita del funcionario",
+    "Las copias electrónicas de un documento electrónico original deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento"
+   ],
+   2,
+   "Art. 27.3 · Ley 39/2015: Las copias electrónicas de un documento electrónico original deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.",
+   "lpac 27.3",
+   "La afirmación, su negación y otro dato",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-131",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 17.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la proposición correcta:",
+   [
+    "Los documentos electrónicos no deberán conservarse en un formato que garantice autenticidad, integridad y conservación, así como su consulta con independencia del tiempo transcurrido",
+    "Los documentos electrónicos deberán conservarse en un formato que garantice solo la confidencialidad",
+    "Los documentos electrónicos deberán conservarse en un formato que garantice autenticidad, integridad y conservación, así como su consulta con independencia del tiempo transcurrido"
+   ],
+   2,
+   "Art. 17.2 · Ley 39/2015: Los documentos electrónicos deberán conservarse en un formato que garantice autenticidad, integridad y conservación, así como su consulta con independencia del tiempo transcurrido.",
+   "lpac 17.2",
+   "La afirmación, su negación y otro dato",
+   "h-documentos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t05-078",
+    "tc": 1
    }
   ]
  ]
