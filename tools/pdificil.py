@@ -579,6 +579,15 @@ def construir(n, aplicar=False, verbose=True):
         pool.sort(key=lambda c: (-c['puntos'] if c['tipo'] == 'ex' else 0, rnd.random()))
         elegir(pool[0])
     sin = [k for k in fichas if k not in cubiertas]
+    OBJ = max(OBJETIVO, len(elegidas))   # si hay más fichas que preguntas objetivo (p. ej. T20), manda «una por artículo»
+    # con más fichas que preguntas objetivo (T20) no hay relleno: se cambian ~50 mínimas por «INCORRECTA» de la misma ficha
+    if len(elegidas) > OBJETIVO:
+        for c in list(elegidas):
+            if sum(1 for e in elegidas if es_neg(e)) >= 50: break
+            if c['tipo'] != 'mp': continue
+            alt = [d for d in cand if d['tipo'] == 'neg' and d['cubre'] == c['cubre'] and d not in elegidas and not (d['src'] & usadas_src)]
+            if alt:
+                elegidas[elegidas.index(c)] = alt[0]; usadas_src.update(alt[0]['src'])
     # --- relleno hasta 150: ~1/3 de «INCORRECTA», el resto mínimas y existentes de nivel alto ---
     def libres(tipo, neg_ok=None):
         l = [c for c in cand if c not in elegidas and c['tipo'] == tipo and not (c['src'] & usadas_src) and (neg_ok is None or es_neg(c) == neg_ok)]
@@ -586,22 +595,22 @@ def construir(n, aplicar=False, verbose=True):
     n_neg = lambda: sum(1 for c in elegidas if es_neg(c))
     OBJ_NEG = 50
     for c in libres('neg') + libres('ex', True):
-        if len(elegidas) >= OBJETIVO or n_neg() >= OBJ_NEG: break
+        if len(elegidas) >= OBJ or n_neg() >= OBJ_NEG: break
         elegir(c)
     resto = libres('mp') + libres('pos') + libres('ex', False)
     rnd.shuffle(resto)
     for c in resto:
-        if len(elegidas) >= OBJETIVO: break
+        if len(elegidas) >= OBJ: break
         elegir(c)
     for c in libres('neg') + libres('ex', True):
-        if len(elegidas) >= OBJETIVO: break
+        if len(elegidas) >= OBJ: break
         elegir(c)
     # si aún faltan, se permite repetir fuente con otra formulación
-    if len(elegidas) < OBJETIVO:
+    if len(elegidas) < OBJ:
         for c in sorted([c for c in cand if c not in elegidas], key=lambda c: -c['puntos']):
-            if len(elegidas) >= OBJETIVO: break
+            if len(elegidas) >= OBJ: break
             elegidas.append(c)
-    elegidas = elegidas[:OBJETIVO] if len(elegidas) > OBJETIVO and not sin else elegidas
+    elegidas = elegidas[:OBJ] if len(elegidas) > OBJ and not sin else elegidas
     res = dict(n=n, fichas=len(fichas), elegidas=len(elegidas), sin_cubrir=sin,
                neg=sum(1 for c in elegidas if c['tipo'] == 'neg' or (c['tipo'] == 'ex' and c['puntos'] == 5)),
                mp=sum(1 for c in elegidas if c['tipo'] in ('mp', 'pos')), ex=sum(1 for c in elegidas if c['tipo'] == 'ex'),

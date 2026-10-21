@@ -2753,7 +2753,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4482,7 +4483,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4500,8 +4502,7 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3,
-    "tc": 1
+    "dif": 3
    }
   ],
   [
@@ -4842,8 +4843,7 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3,
-    "tc": 1
+    "dif": 3
    }
   ],
   [
@@ -4913,7 +4913,8 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3
+    "dif": 3,
+    "tc": 1
    }
   ],
   [
@@ -4931,8 +4932,7 @@
    [],
    {
     "nuevo": 1,
-    "dif": 3,
-    "tc": 1
+    "dif": 3
    }
   ],
   [
@@ -5715,44 +5715,58 @@
    }
   ],
   [
-   "De acuerdo con el artículo 40.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 48 bis de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, se entiende por prudencia financiera el conjunto de condiciones que deben cumplir las operaciones financieras para:",
    [
-    "Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios no podrán ser aplicadas a atenciones distintas de aquellas para las que fueron otorgadas, salvo sobrantes no reintegrables cuya utilización no estuviese prevista en la concesión",
-    "Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios podrán aplicarse libremente a cualquier atención de la entidad, aunque difiera de la concedida",
-    "Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios solo podrán destinarse a gasto corriente, y no a inversiones, de la entidad local"
+    "Minimizar su riesgo y coste",
+    "Maximizar su rentabilidad a corto plazo",
+    "Garantizar su amortización en el mismo ejercicio presupuestario"
    ],
    0,
-   "Art. 40.1 · RDLeg 2/2004 (TRLRHL): Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios no podrán ser aplicadas a atenciones distintas de aquellas para las que fueron otorgadas, salvo sobrantes no reintegrables cuya utilización no estuviese prevista en la concesión.",
-   "trlrhl 40.1",
-   "La afirmación, su negación y otro dato",
+   "Art. 48 bis · RDLeg 2/2004 (TRLRHL): Art. 48 bis.1: todas las operaciones financieras de las Corporaciones Locales están sujetas a este principio; busca minimizar riesgo y coste.",
+   "trlrhl 48 bis",
+   "Minimizar riesgo y coste",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 128 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, los ayuntamientos podrán imponer la prestación personal y de transporte para obras de su competencia cuando su población de derecho no sea superior a:",
+   [
+    "5.000 habitantes",
+    "20.000 habitantes",
+    "1.000 habitantes"
+   ],
+   0,
+   "Art. 128 · RDLeg 2/2004 (TRLRHL): Art. 128.1: ayuntamientos de hasta 5.000 habitantes de derecho.",
+   "trlrhl 128",
+   "5.000 habitantes",
    "",
    [],
    {
     "nuevo": 1,
     "dif": 3,
-    "hard": "pos",
-    "src": "t12-077",
     "tc": 1
    }
   ],
   [
-   "De acuerdo con el artículo 55 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 130 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la prestación de transportes con vehículos de tracción mecánica no excederá de:",
    [
-    "El Ministerio de Hacienda mantendrá un registro de ordenanzas fiscales aprobadas por las entidades locales de todo el territorio",
-    "El Ministerio de Hacienda mantendrá una central de riesgos que provea información sobre las operaciones de crédito concertadas por las entidades locales y las cargas financieras que supongan",
-    "El Ministerio de Hacienda mantendrá un registro de tasas y precios públicos locales con las cuantías vigentes en cada municipio"
+    "Cinco días al año, sin que pueda ser consecutivo ninguno de ellos",
+    "Diez días al año, sin que puedan ser consecutivos más de dos",
+    "Quince días al año, consecutivos o no"
    ],
-   1,
-   "Art. 55 · RDLeg 2/2004 (TRLRHL): El Ministerio de Hacienda mantendrá una central de riesgos que provea información sobre las operaciones de crédito concertadas por las entidades locales y las cargas financieras que supongan.",
-   "trlrhl 55",
-   "La afirmación, su negación y otro dato",
+   0,
+   "Art. 130 · RDLeg 2/2004 (TRLRHL): Art. 130.2: tracción mecánica, 5 días al año no consecutivos; en los demás casos, 10 días al año y no más de dos consecutivos.",
+   "trlrhl 130",
+   "5 días (mecánica) / 10 días (resto)",
    "",
    [],
    {
     "nuevo": 1,
     "dif": 3,
-    "hard": "pos",
-    "src": "t12-083",
     "tc": 1
    }
   ],
@@ -5799,44 +5813,23 @@
    }
   ],
   [
-   "De acuerdo con el artículo 57 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 64.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "Los ayuntamientos no podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal",
-    "Los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal",
-    "Los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la participación en los tributos del Estado"
+    "En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI los bienes inmuebles quedan afectos al pago de la totalidad de la cuota tributaria, en régimen de responsabilidad subsidiaria",
+    "En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI las deudas se extinguen automáticamente al transmitirse el inmueble, sin responsabilidad alguna del adquirente",
+    "En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI el nuevo titular queda exento de las deudas anteriores, que se extinguen para el inmueble transmitido"
    ],
-   1,
-   "Art. 57 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal.",
-   "trlrhl 57",
+   0,
+   "Art. 64.1 · RDLeg 2/2004 (TRLRHL): En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI los bienes inmuebles quedan afectos al pago de la totalidad de la cuota tributaria, en régimen de responsabilidad subsidiaria.",
+   "trlrhl 64.1",
    "La afirmación, su negación y otro dato",
-   "h-potestad",
+   "",
    [],
    {
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-192",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 58 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "Los ayuntamientos no podrán establecer y exigir contribuciones especiales por la realización de obras o por el establecimiento o ampliación de servicios municipales",
-    "Los ayuntamientos podrán establecer y exigir contribuciones especiales por la realización de obras o por el aprovechamiento de los bienes comunales",
-    "Los ayuntamientos podrán establecer y exigir contribuciones especiales por la realización de obras o por el establecimiento o ampliación de servicios municipales"
-   ],
-   2,
-   "Art. 58 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán establecer y exigir contribuciones especiales por la realización de obras o por el establecimiento o ampliación de servicios municipales.",
-   "trlrhl 58",
-   "La afirmación, su negación y otro dato",
-   "h-potestad",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-193",
+    "src": "t12-093",
     "tc": 1
    }
   ],
@@ -5883,27 +5876,6 @@
    }
   ],
   [
-   "De acuerdo con el artículo 85.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por Ley de Presupuestos de cada año",
-    "Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por Real decreto legislativo del Gobierno",
-    "Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por ordenanza fiscal de cada ayuntamiento"
-   ],
-   1,
-   "Art. 85.1 · RDLeg 2/2004 (TRLRHL): Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por Real decreto legislativo del Gobierno.",
-   "trlrhl 85.1",
-   "La afirmación, su negación y otro dato",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-117",
-    "tc": 1
-   }
-  ],
-  [
    "De acuerdo con el artículo 86 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
     "Sobre las cuotas fijadas en las tarifas del IAE se aplicará, en todo caso, un coeficiente de ponderación determinado en función del número de empleados del sujeto pasivo, con independencia de su cifra de negocios",
@@ -5925,15 +5897,15 @@
    }
   ],
   [
-   "De acuerdo con el artículo 121 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 120.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten la población del municipio entre el año base y el año de la participación",
-    "El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base",
-    "El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten los ingresos de las haciendas locales entre dos ejercicios consecutivos"
+    "La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de la cesión del rendimiento de impuestos estatales (IRPF, IVA e impuestos especiales)",
+    "La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de la recaudación de los tributos locales del ejercicio 2003",
+    "La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de las subvenciones recibidas de la Comunidad Autónoma"
    ],
-   1,
-   "Art. 121 · RDLeg 2/2004 (TRLRHL): El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base.",
-   "trlrhl 121",
+   0,
+   "Art. 120.1 · RDLeg 2/2004 (TRLRHL): La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de la cesión del rendimiento de impuestos estatales (IRPF, IVA e impuestos especiales).",
+   "trlrhl 120.1",
    "La afirmación, su negación y otro dato",
    "h-potestad",
    [],
@@ -5941,28 +5913,49 @@
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-203",
+    "src": "t12-214",
     "tc": 1
    }
   ],
   [
-   "De acuerdo con el artículo 6 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 123.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de gravar bienes situados en otros municipios cuando sus titulares estén empadronados en la entidad impositora",
-    "Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de gravar actividades desarrolladas fuera del municipio, siempre que beneficien a los vecinos del mismo",
-    "Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de no someter a gravamen bienes situados, actividades desarrolladas, rendimientos originados ni gastos realizados fuera del territorio de la respectiva entidad"
+    "En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina repartiendo el Fondo en proporción a la población",
+    "En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina según la recaudación propia de cada municipio",
+    "En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina aplicando un índice de evolución a la participación del año base"
    ],
    2,
-   "Art. 6 · RDLeg 2/2004 (TRLRHL): Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de no someter a gravamen bienes situados, actividades desarrolladas, rendimientos originados ni gastos realizados fuera del territorio de la respectiva entidad.",
-   "trlrhl 6",
+   "Art. 123.1 · RDLeg 2/2004 (TRLRHL): En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina aplicando un índice de evolución a la participación del año base.",
+   "trlrhl 123.1",
    "La afirmación, su negación y otro dato",
-   "",
+   "h-potestad",
    [],
    {
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-030",
+    "src": "t12-215",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 126 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Con carácter cuatrienal se revisará el importe del Fondo Complementario de Financiación",
+    "Con carácter cuatrienal se revisará los tipos de gravamen de los impuestos municipales",
+    "Con carácter cuatrienal se revisará el conjunto de municipios que se incluirán en cada uno de los modelos de participación"
+   ],
+   2,
+   "Art. 126 · RDLeg 2/2004 (TRLRHL): Con carácter cuatrienal se revisará el conjunto de municipios que se incluirán en cada uno de los modelos de participación.",
+   "trlrhl 126",
+   "La afirmación, su negación y otro dato",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-204",
     "tc": 1
    }
   ],
@@ -6072,6 +6065,48 @@
    }
   ],
   [
+   "De acuerdo con el artículo 39 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las entidades locales participarán en los tributos propios de las comunidades autónomas en la cuantía que fije el Estado mediante la Ley de Presupuestos Generales de cada ejercicio",
+    "Las entidades locales participarán en los tributos propios de las comunidades autónomas en la forma y cuantía que se determine por las leyes de sus respectivos Parlamentos",
+    "Las entidades locales participarán en los tributos propios de las comunidades autónomas en la cuantía que acuerde cada Ayuntamiento atendiendo a su capacidad fiscal y a sus necesidades"
+   ],
+   1,
+   "Art. 39 · RDLeg 2/2004 (TRLRHL): Las entidades locales participarán en los tributos propios de las comunidades autónomas en la forma y cuantía que se determine por las leyes de sus respectivos Parlamentos.",
+   "trlrhl 39",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-076",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 40.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios no podrán ser aplicadas a atenciones distintas de aquellas para las que fueron otorgadas, salvo sobrantes no reintegrables cuya utilización no estuviese prevista en la concesión",
+    "Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios podrán aplicarse libremente a cualquier atención de la entidad, aunque difiera de la concedida",
+    "Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios solo podrán destinarse a gasto corriente, y no a inversiones, de la entidad local"
+   ],
+   0,
+   "Art. 40.1 · RDLeg 2/2004 (TRLRHL): Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios no podrán ser aplicadas a atenciones distintas de aquellas para las que fueron otorgadas, salvo sobrantes no reintegrables cuya utilización no estuviese prevista en la concesión.",
+   "trlrhl 40.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-077",
+    "tc": 1
+   }
+  ],
+  [
    "De acuerdo con el artículo 48 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
     "Pueden concertar operaciones de crédito en todas sus modalidades, tanto a corto como a largo plazo, así como operaciones de cobertura del riesgo de tipo de interés y de cambio solo los ayuntamientos de más de 50.000 habitantes, y no sus organismos autónomos ni sociedades",
@@ -6089,6 +6124,27 @@
     "dif": 3,
     "hard": "pos",
     "src": "t12-078",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 55 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "El Ministerio de Hacienda mantendrá un registro de ordenanzas fiscales aprobadas por las entidades locales de todo el territorio",
+    "El Ministerio de Hacienda mantendrá una central de riesgos que provea información sobre las operaciones de crédito concertadas por las entidades locales y las cargas financieras que supongan",
+    "El Ministerio de Hacienda mantendrá un registro de tasas y precios públicos locales con las cuantías vigentes en cada municipio"
+   ],
+   1,
+   "Art. 55 · RDLeg 2/2004 (TRLRHL): El Ministerio de Hacienda mantendrá una central de riesgos que provea información sobre las operaciones de crédito concertadas por las entidades locales y las cargas financieras que supongan.",
+   "trlrhl 55",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-083",
     "tc": 1
    }
   ],
@@ -6114,27 +6170,6 @@
    }
   ],
   [
-   "De acuerdo con el artículo 29.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "Tendrán la consideración de obras y servicios locales los que realicen las entidades locales a título de dueños de sus bienes patrimoniales",
-    "Tendrán la consideración de obras y servicios locales solo los servicios de competencia exclusiva de la entidad local prestados por sus propios medios",
-    "Tendrán la consideración de obras y servicios locales los que realicen las entidades locales dentro del ámbito de sus competencias, excepto los que ejecuten a título de dueños de sus bienes patrimoniales"
-   ],
-   2,
-   "Art. 29.1 · RDLeg 2/2004 (TRLRHL): Tendrán la consideración de obras y servicios locales los que realicen las entidades locales dentro del ámbito de sus competencias, excepto los que ejecuten a título de dueños de sus bienes patrimoniales.",
-   "trlrhl 29.1",
-   "La afirmación, su negación y otro dato",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-065",
-    "tc": 1
-   }
-  ],
-  [
    "De acuerdo con el artículo 30.2 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
     "En las contribuciones especiales por obras o servicios que afecten a bienes inmuebles, se considerarán personas especialmente beneficiadas los propietarios de los bienes inmuebles",
@@ -6156,23 +6191,44 @@
    }
   ],
   [
-   "De acuerdo con el artículo 64.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 57 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI los bienes inmuebles quedan afectos al pago de la totalidad de la cuota tributaria, en régimen de responsabilidad subsidiaria",
-    "En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI las deudas se extinguen automáticamente al transmitirse el inmueble, sin responsabilidad alguna del adquirente",
-    "En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI el nuevo titular queda exento de las deudas anteriores, que se extinguen para el inmueble transmitido"
+    "Los ayuntamientos no podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal",
+    "Los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal",
+    "Los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la participación en los tributos del Estado"
    ],
-   0,
-   "Art. 64.1 · RDLeg 2/2004 (TRLRHL): En caso de cambio en la titularidad de los derechos que constituyen el hecho imponible del IBI los bienes inmuebles quedan afectos al pago de la totalidad de la cuota tributaria, en régimen de responsabilidad subsidiaria.",
-   "trlrhl 64.1",
+   1,
+   "Art. 57 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y por la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal.",
+   "trlrhl 57",
    "La afirmación, su negación y otro dato",
-   "",
+   "h-potestad",
    [],
    {
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-093",
+    "src": "t12-192",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 58 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Los ayuntamientos no podrán establecer y exigir contribuciones especiales por la realización de obras o por el establecimiento o ampliación de servicios municipales",
+    "Los ayuntamientos podrán establecer y exigir contribuciones especiales por la realización de obras o por el aprovechamiento de los bienes comunales",
+    "Los ayuntamientos podrán establecer y exigir contribuciones especiales por la realización de obras o por el establecimiento o ampliación de servicios municipales"
+   ],
+   2,
+   "Art. 58 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán establecer y exigir contribuciones especiales por la realización de obras o por el establecimiento o ampliación de servicios municipales.",
+   "trlrhl 58",
+   "La afirmación, su negación y otro dato",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-193",
     "tc": 1
    }
   ],
@@ -6261,15 +6317,15 @@
    }
   ],
   [
-   "De acuerdo con el artículo 105.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 85.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "Están exentos del IIVTNU los incrementos de valor derivados de las compraventas de terrenos urbanos, cuando el transmitente sea persona física",
-    "Están exentos del IIVTNU los incrementos de valor derivados de la constitución y transmisión de derechos de servidumbre",
-    "Están exentos del IIVTNU los incrementos de valor derivados de las herencias de terrenos urbanos cuando los herederos sean descendientes del causante"
+    "Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por Ley de Presupuestos de cada año",
+    "Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por Real decreto legislativo del Gobierno",
+    "Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por ordenanza fiscal de cada ayuntamiento"
    ],
    1,
-   "Art. 105.1 · RDLeg 2/2004 (TRLRHL): Están exentos del IIVTNU los incrementos de valor derivados de la constitución y transmisión de derechos de servidumbre.",
-   "trlrhl 105.1",
+   "Art. 85.1 · RDLeg 2/2004 (TRLRHL): Las tarifas del IAE, en las que se fijarán las cuotas mínimas, se aprobarán por Real decreto legislativo del Gobierno.",
+   "trlrhl 85.1",
    "La afirmación, su negación y otro dato",
    "",
    [],
@@ -6277,7 +6333,28 @@
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-145",
+    "src": "t12-117",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 94 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Son sujetos pasivos del IVTM las personas físicas o jurídicas y entidades a cuyo nombre conste el vehículo en el permiso de circulación",
+    "Son sujetos pasivos del IVTM los conductores habituales del vehículo, aunque no consten como titulares en el permiso de circulación",
+    "Son sujetos pasivos del IVTM los propietarios de garajes o plazas de aparcamiento en que estacione el vehículo"
+   ],
+   0,
+   "Art. 94 · RDLeg 2/2004 (TRLRHL): Son sujetos pasivos del IVTM las personas físicas o jurídicas y entidades a cuyo nombre conste el vehículo en el permiso de circulación.",
+   "trlrhl 94",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-129",
     "tc": 1
    }
   ],
@@ -6324,15 +6401,15 @@
    }
   ],
   [
-   "De acuerdo con el artículo 120.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 121 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de la cesión del rendimiento de impuestos estatales (IRPF, IVA e impuestos especiales)",
-    "La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de la recaudación de los tributos locales del ejercicio 2003",
-    "La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de las subvenciones recibidas de la Comunidad Autónoma"
+    "El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten la población del municipio entre el año base y el año de la participación",
+    "El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base",
+    "El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten los ingresos de las haciendas locales entre dos ejercicios consecutivos"
    ],
-   0,
-   "Art. 120.1 · RDLeg 2/2004 (TRLRHL): La participación en el Fondo Complementario del año base se calcula deduciendo de la participación total (la de 2003 incrementada por el índice de evolución) el importe de la cesión del rendimiento de impuestos estatales (IRPF, IVA e impuestos especiales).",
-   "trlrhl 120.1",
+   1,
+   "Art. 121 · RDLeg 2/2004 (TRLRHL): El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base.",
+   "trlrhl 121",
    "La afirmación, su negación y otro dato",
    "h-potestad",
    [],
@@ -6340,49 +6417,7 @@
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-214",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 123.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina repartiendo el Fondo en proporción a la población",
-    "En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina según la recaudación propia de cada municipio",
-    "En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina aplicando un índice de evolución a la participación del año base"
-   ],
-   2,
-   "Art. 123.1 · RDLeg 2/2004 (TRLRHL): En el modelo de los municipios no incluidos en el artículo 111, la participación total de cada ejercicio se determina aplicando un índice de evolución a la participación del año base.",
-   "trlrhl 123.1",
-   "La afirmación, su negación y otro dato",
-   "h-potestad",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-215",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 126 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "Con carácter cuatrienal se revisará el importe del Fondo Complementario de Financiación",
-    "Con carácter cuatrienal se revisará los tipos de gravamen de los impuestos municipales",
-    "Con carácter cuatrienal se revisará el conjunto de municipios que se incluirán en cada uno de los modelos de participación"
-   ],
-   2,
-   "Art. 126 · RDLeg 2/2004 (TRLRHL): Con carácter cuatrienal se revisará el conjunto de municipios que se incluirán en cada uno de los modelos de participación.",
-   "trlrhl 126",
-   "La afirmación, su negación y otro dato",
-   "h-potestad",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-204",
+    "src": "t12-203",
     "tc": 1
    }
   ],
@@ -6429,15 +6464,15 @@
    }
   ],
   [
-   "De acuerdo con el artículo 3.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 3.3 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "Constituyen ingresos de derecho privado de las entidades locales los rendimientos o productos de cualquier naturaleza derivados de su patrimonio, así como las adquisiciones a título de herencia, legado o donación",
-    "Constituyen ingresos de derecho privado de las entidades locales las participaciones en los tributos del Estado y de las comunidades autónomas y las subvenciones recibidas",
-    "Constituyen ingresos de derecho privado de las entidades locales los obtenidos por las tasas por la utilización privativa de bienes de dominio público local"
+    "En ningún caso tendrán la consideración de ingresos de derecho privado los procedentes del arrendamiento de bienes patrimoniales no afectos al uso o servicio público",
+    "En ningún caso tendrán la consideración de ingresos de derecho privado los derivados de donaciones, herencias o legados recibidos por la entidad local",
+    "En ningún caso tendrán la consideración de ingresos de derecho privado los que procedan, por cualquier concepto, de los bienes de dominio público local"
    ],
-   0,
-   "Art. 3.1 · RDLeg 2/2004 (TRLRHL): Constituyen ingresos de derecho privado de las entidades locales los rendimientos o productos de cualquier naturaleza derivados de su patrimonio, así como las adquisiciones a título de herencia, legado o donación.",
-   "trlrhl 3.1",
+   2,
+   "Art. 3.3 · RDLeg 2/2004 (TRLRHL): En ningún caso tendrán la consideración de ingresos de derecho privado los que procedan, por cualquier concepto, de los bienes de dominio público local.",
+   "trlrhl 3.3",
    "La afirmación, su negación y otro dato",
    "",
    [],
@@ -6445,7 +6480,28 @@
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-026",
+    "src": "t12-027",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 6 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de gravar bienes situados en otros municipios cuando sus titulares estén empadronados en la entidad impositora",
+    "Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de gravar actividades desarrolladas fuera del municipio, siempre que beneficien a los vecinos del mismo",
+    "Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de no someter a gravamen bienes situados, actividades desarrolladas, rendimientos originados ni gastos realizados fuera del territorio de la respectiva entidad"
+   ],
+   2,
+   "Art. 6 · RDLeg 2/2004 (TRLRHL): Los tributos que establezcan las entidades locales respetarán, en todo caso, el principio de no someter a gravamen bienes situados, actividades desarrolladas, rendimientos originados ni gastos realizados fuera del territorio de la respectiva entidad.",
+   "trlrhl 6",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-030",
     "tc": 1
    }
   ],
@@ -6513,48 +6569,6 @@
    }
   ],
   [
-   "De acuerdo con el artículo 39 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "Las entidades locales participarán en los tributos propios de las comunidades autónomas en la cuantía que fije el Estado mediante la Ley de Presupuestos Generales de cada ejercicio",
-    "Las entidades locales participarán en los tributos propios de las comunidades autónomas en la forma y cuantía que se determine por las leyes de sus respectivos Parlamentos",
-    "Las entidades locales participarán en los tributos propios de las comunidades autónomas en la cuantía que acuerde cada Ayuntamiento atendiendo a su capacidad fiscal y a sus necesidades"
-   ],
-   1,
-   "Art. 39 · RDLeg 2/2004 (TRLRHL): Las entidades locales participarán en los tributos propios de las comunidades autónomas en la forma y cuantía que se determine por las leyes de sus respectivos Parlamentos.",
-   "trlrhl 39",
-   "La afirmación, su negación y otro dato",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-076",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 54 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
-   [
-    "Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo la posterior autorización del Pleno de la corporación e informe de la Intervención",
-    "Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo la previa autorización del Pleno de la corporación e informe de la Intervención",
-    "Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo la simultánea autorización del Pleno de la corporación e informe de la Intervención"
-   ],
-   1,
-   "Art. 54 · RDLeg 2/2004 (TRLRHL): Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo la previa autorización del Pleno de la corporación e informe de la Intervención. Las otras dos frases cambian «previa» por «posterior» y «simultánea».",
-   "trlrhl 54",
-   "Una sola palabra cambia el sentido",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "mp",
-    "src": "t12-082",
-    "tc": 1
-   }
-  ],
-  [
    "De acuerdo con el artículo 47.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
     "El establecimiento o modificación de los precios públicos corresponderá al Alcalde en todo caso, sin posibilidad de delegación en la Comisión de Gobierno",
@@ -6597,6 +6611,26 @@
    }
   ],
   [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "Las cantidades recaudadas por contribuciones especiales sólo podrán destinarse a sufragar los gastos de la obra o del servicio por cuya razón se hubiesen exigido",
+    "La base imponible de las contribuciones especiales está constituida, como máximo, por el 30 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios",
+    "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades deberán exigir el depósito previo de su importe total o parcial"
+   ],
+   0,
+   "La correcta es «Las cantidades recaudadas por contribuciones especiales sólo podrán destinarse a sufragar los gastos de la obra o del servicio por cuya razón se hubiesen exigido». Las otras dos son falsas: lo correcto es «La base imponible de las contribuciones especiales está constituida, como máximo, por el 90 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento",
+   "trlrhl 29",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
    "De acuerdo con el artículo 92.2 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
     "Se considera vehículo apto para la circulación el que hubiera sido matriculado en los registros públicos correspondientes y mientras no haya causado baja en éstos",
@@ -6614,130 +6648,6 @@
     "dif": 3,
     "hard": "pos",
     "src": "t12-125",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 94 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
-   [
-    "Son sujetos pasivos del IVTM las personas jurídicas o jurídicas y entidades a cuyo nombre conste el vehículo en el permiso de circulación",
-    "Son sujetos pasivos del IVTM las entidades públicas o jurídicas y entidades a cuyo nombre conste el vehículo en el permiso de circulación",
-    "Son sujetos pasivos del IVTM las personas físicas o jurídicas y entidades a cuyo nombre conste el vehículo en el permiso de circulación"
-   ],
-   2,
-   "Art. 94 · RDLeg 2/2004 (TRLRHL): Son sujetos pasivos del IVTM las personas físicas o jurídicas y entidades a cuyo nombre conste el vehículo en el permiso de circulación. Las otras dos frases cambian «personas físicas» por «personas jurídicas» y «entidades públicas».",
-   "trlrhl 94",
-   "Una sola palabra cambia el sentido",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "mp",
-    "src": "t12-129",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 106 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "La potestad reglamentaria tributaria local no se ejerce mediante ordenanzas fiscales y ordenanzas generales de gestión, recaudación e inspección",
-    "La potestad reglamentaria tributaria local se ejerce mediante ordenanzas fiscales y ordenanzas generales de gestión, recaudación e inspección",
-    "La potestad reglamentaria tributaria local se ejerce mediante bandos del Alcalde"
-   ],
-   1,
-   "Art. 106 · RDLeg 2/2004 (TRLRHL): La potestad reglamentaria tributaria local se ejerce mediante ordenanzas fiscales y ordenanzas generales de gestión, recaudación e inspección.",
-   "trlrhl 106",
-   "La afirmación, su negación y otro dato",
-   "h-potestad",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-165",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
-   [
-    "Las bases o rendimientos sobre los que se aplicará el porcentaje, así como el alcance y condiciones específicas de la cesión, se determinarán con arreglo a lo dispuesto en el apartado 2 del artículo 113 y el artículo 117, respectivamente",
-    "A los municipios turísticos les no será de aplicación lo dispuesto en el apartado 3 del artículo 112",
-    "La prestación personal no excederá de 12 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional"
-   ],
-   0,
-   "La correcta es «Las bases o rendimientos sobre los que se aplicará el porcentaje, así como el alcance y condiciones específicas de la cesión, se determinarán con arreglo a lo dispuesto en el apartado 2 del artículo 113 y el artículo 117, respectivamente». Las otras dos son falsas: lo correcto es «A los municipios turísticos les será de aplicación lo dispuesto en el apartado 3 del artículo 112» (la otra frase la niega",
-   "trlrhl 125",
-   "Frases casi idénticas",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
-   [
-    "Si el objeto de la actividad del organismo autónomo o sociedad mercantil local, no es la construcción de viviendas, el cálculo del ahorro neto se obtendrá tomando la media de los dos últimos ejercicios",
-    "Los órganos competentes del Ministerio de Hacienda habrán de tener conocimiento de las operaciones de crédito autorizadas por las comunidades autónomas, así como de las que no requieran autorización, en la forma en que reglamentariamente se establezca",
-    "Los Ayuntamientos deberán establecer una tasa para la celebración de los matrimonios en forma civil"
-   ],
-   1,
-   "La correcta es «Los órganos competentes del Ministerio de Hacienda habrán de tener conocimiento de las operaciones de crédito autorizadas por las comunidades autónomas, así como de las que no requieran autorización, en la forma en que reglamentariamente se establezca». Las otras dos son falsas: lo correcto es «Si el objeto de la actividad del organismo autónomo o sociedad mercantil local, es la construcción de vivien",
-   "trlrhl 53",
-   "Frases casi idénticas",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 97 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "La gestión, liquidación, inspección y recaudación del IVTM no corresponde al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo",
-    "La gestión, liquidación, inspección y recaudación del IVTM corresponde al ayuntamiento donde se matriculó el vehículo, con independencia del domicilio de su titular",
-    "La gestión, liquidación, inspección y recaudación del IVTM corresponde al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo"
-   ],
-   2,
-   "Art. 97 · RDLeg 2/2004 (TRLRHL): La gestión, liquidación, inspección y recaudación del IVTM corresponde al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo.",
-   "trlrhl 97",
-   "La afirmación, su negación y otro dato",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-134",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 100 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización de una construcción, instalación u obra que exija licencia o declaración responsable, se haya obtenido o no la licencia",
-    "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización de obras solo cuando se haya obtenido la licencia",
-    "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es ninguna de las respuestas anteriores es correcta"
-   ],
-   0,
-   "Art. 100 · RDLeg 2/2004 (TRLRHL): El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización de una construcción, instalación u obra que exija licencia o declaración responsable, se haya obtenido o no la licencia.",
-   "trlrhl 100",
-   "La afirmación, su negación y otro dato",
-   "h-impuestos",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-021",
     "tc": 1
    }
   ],
@@ -6763,15 +6673,15 @@
    }
   ],
   [
-   "De acuerdo con el artículo 27 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 105.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "Las entidades locales no podrán exigir las tasas en régimen de autoliquidación",
-    "Las entidades locales podrán exigir las tasas solo mediante liquidación practicada por la Administración",
-    "Las entidades locales podrán exigir las tasas en régimen de autoliquidación"
+    "Están exentos del IIVTNU los incrementos de valor derivados de las compraventas de terrenos urbanos, cuando el transmitente sea persona física",
+    "Están exentos del IIVTNU los incrementos de valor derivados de la constitución y transmisión de derechos de servidumbre",
+    "Están exentos del IIVTNU los incrementos de valor derivados de las herencias de terrenos urbanos cuando los herederos sean descendientes del causante"
    ],
-   2,
-   "Art. 27 · RDLeg 2/2004 (TRLRHL): Las entidades locales podrán exigir las tasas en régimen de autoliquidación.",
-   "trlrhl 27",
+   1,
+   "Art. 105.1 · RDLeg 2/2004 (TRLRHL): Están exentos del IIVTNU los incrementos de valor derivados de la constitución y transmisión de derechos de servidumbre.",
+   "trlrhl 105.1",
    "La afirmación, su negación y otro dato",
    "",
    [],
@@ -6779,7 +6689,91 @@
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-056",
+    "src": "t12-145",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 106 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "La potestad tributaria de las Entidades Locales no es secundaria: establecen tributos ya creados por ley",
+    "La potestad tributaria de las Entidades Locales es originaria, igual que la del Estado",
+    "La potestad tributaria de las Entidades Locales es secundaria: establecen tributos ya creados por ley"
+   ],
+   2,
+   "Art. 106 · RDLeg 2/2004 (TRLRHL): La potestad tributaria de las Entidades Locales es secundaria: establecen tributos ya creados por ley.",
+   "trlrhl 106",
+   "La afirmación, su negación y otro dato",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-164",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 125.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Se considerarán municipios turísticos aquellos que tengan una población de derecho superior a 20.000 habitantes y cuyo número de plazas hoteleras supere al de habitantes de derecho, según el último Censo",
+    "Se considerarán municipios turísticos aquellos que tengan una población de derecho superior a 20.000 habitantes y que sean capitales de provincia con población superior a 20.000 habitantes y vocación turística",
+    "Se considerarán municipios turísticos aquellos que tengan una población de derecho superior a 20.000 habitantes y cuyo número de viviendas de segunda residencia supere al de viviendas principales, según el último Censo"
+   ],
+   2,
+   "Art. 125.1 · RDLeg 2/2004 (TRLRHL): Se considerarán municipios turísticos aquellos que tengan una población de derecho superior a 20.000 habitantes y cuyo número de viviendas de segunda residencia supere al de viviendas principales, según el último Censo.",
+   "trlrhl 125.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-158",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 53.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   [
+    "No se podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales por las entidades locales que presten servicios que no se financien mayoritariamente con ingresos de mercado sin posterior autorización de los órganos competentes del Ministerio de Hacienda y Administraciones Públicas",
+    "No se podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales por las entidades locales que presten servicios que no se financien mayoritariamente con ingresos de mercado sin previa autorización de los órganos competentes del Ministerio de Hacienda y Administraciones Públicas",
+    "No se podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales por las entidades locales que presten servicios que no se financien mayoritariamente con ingresos de mercado sin simultánea autorización de los órganos competentes del Ministerio de Hacienda y Administraciones Públicas"
+   ],
+   1,
+   "Art. 53.1 · RDLeg 2/2004 (TRLRHL): No se podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales por las entidades locales que presten servicios que no se financien mayoritariamente con ingresos de mercado sin previa autorización de los órganos competentes del Ministerio de Hacienda y Administraciones Públicas. Las otras dos frases cambian «previa» por «posterior» y «simultánea».",
+   "trlrhl 53.1",
+   "Una sola palabra cambia el sentido",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t12-206",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 54 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo la autorización del Ministerio de Hacienda, sin intervención del Pleno de la corporación",
+    "Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo solo informe del Secretario de la corporación, sin autorización del Pleno ni informe de Intervención",
+    "Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo la previa autorización del Pleno de la corporación e informe de la Intervención"
+   ],
+   2,
+   "Art. 54 · RDLeg 2/2004 (TRLRHL): Los organismos autónomos y entes y sociedades mercantiles dependientes precisarán, para concertar operaciones de crédito a largo plazo la previa autorización del Pleno de la corporación e informe de la Intervención.",
+   "trlrhl 54",
+   "Opciones casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-082",
     "tc": 1
    }
   ],
@@ -6805,76 +6799,15 @@
    }
   ],
   [
-   "De acuerdo con el artículo 66 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   "De acuerdo con el artículo 33 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "La base liquidable se publicará conjuntamente con la base imponible en los procedimientos de valoración colectiva",
-    "La base liquidable se notificará conjuntamente con la base imponible en los procedimientos de valoración colectiva",
-    "La base liquidable se comunicará verbalmente conjuntamente con la base imponible en los procedimientos de valoración colectiva"
-   ],
-   1,
-   "Art. 66 · RDLeg 2/2004 (TRLRHL): La base liquidable se notificará conjuntamente con la base imponible en los procedimientos de valoración colectiva. Las otras dos frases cambian «notificará» por «publicará» y «comunicará verbalmente».",
-   "trlrhl 66",
-   "Una sola palabra cambia el sentido",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "mp",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 98 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
-   [
-    "Los ayuntamientos deberán exigir este impuesto en régimen de autoliquidación",
-    "Los ayuntamientos no podrán exigir este impuesto en régimen de autoliquidación",
-    "Los ayuntamientos podrán exigir este impuesto en régimen de autoliquidación"
+    "Las contribuciones especiales se devengan cuando se acuerda la imposición",
+    "Las contribuciones especiales se devengan el 1 de enero de cada año",
+    "Las contribuciones especiales se devengan cuando las obras se hayan ejecutado o el servicio haya comenzado a prestarse"
    ],
    2,
-   "Art. 98 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán exigir este impuesto en régimen de autoliquidación. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
-   "trlrhl 98",
-   "Una sola palabra cambia el sentido",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "mp",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 33.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "Las contribuciones especiales se devengan al aprobarse el proyecto de la obra o del servicio por el órgano competente de la entidad",
-    "Las contribuciones especiales se devengan al aprobarse la ordenanza general de contribuciones especiales por el Pleno de la corporación",
-    "Las contribuciones especiales se devengan en el momento en que las obras se hayan ejecutado o el servicio haya comenzado a prestarse"
-   ],
-   2,
-   "Art. 33.1 · RDLeg 2/2004 (TRLRHL): Las contribuciones especiales se devengan en el momento en que las obras se hayan ejecutado o el servicio haya comenzado a prestarse.",
-   "trlrhl 33.1",
-   "La afirmación, su negación y otro dato",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-069",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 36 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por mayoría simple de los vecinos",
-    "Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por mayoría absoluta de los afectados que representen al menos dos tercios de las cuotas",
-    "Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por unanimidad de los afectados"
-   ],
-   1,
-   "Art. 36 · RDLeg 2/2004 (TRLRHL): Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por mayoría absoluta de los afectados que representen al menos dos tercios de las cuotas.",
-   "trlrhl 36",
+   "Art. 33 · RDLeg 2/2004 (TRLRHL): Las contribuciones especiales se devengan cuando las obras se hayan ejecutado o el servicio haya comenzado a prestarse.",
+   "trlrhl 33",
    "La afirmación, su negación y otro dato",
    "h-contrib",
    [],
@@ -6882,20 +6815,20 @@
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-184",
+    "src": "t12-013",
     "tc": 1
    }
   ],
   [
-   "De acuerdo con el artículo 59.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   "De acuerdo con el artículo 59.2 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "Los ayuntamientos exigirán, de acuerdo con la ley, los siguientes impuestos el Impuesto sobre Bienes Inmuebles y el Impuesto sobre Construcciones, Instalaciones y Obras",
-    "Los ayuntamientos exigirán, de acuerdo con la ley, los siguientes impuestos el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos",
-    "Los ayuntamientos exigirán, de acuerdo con la ley, los siguientes impuestos impuesto sobre Bienes Inmuebles, Impuesto sobre Actividades Económicas e Impuesto sobre Vehículos de Tracción Mecánica"
+    "Los ayuntamientos no podrán establecer y exigir (potestativos) el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana",
+    "Los ayuntamientos podrán establecer y exigir (potestativos) el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana",
+    "Los ayuntamientos podrán establecer y exigir (potestativos) el Impuesto sobre Actividades Económicas, que es de exigencia potestativa para los ayuntamientos"
    ],
-   2,
-   "Art. 59.1 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos exigirán, de acuerdo con la ley, los siguientes impuestos impuesto sobre Bienes Inmuebles, Impuesto sobre Actividades Económicas e Impuesto sobre Vehículos de Tracción Mecánica.",
-   "trlrhl 59.1",
+   1,
+   "Art. 59.2 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán establecer y exigir (potestativos) el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+   "trlrhl 59.2",
    "La afirmación, su negación y otro dato",
    "",
    [],
@@ -6903,21 +6836,145 @@
     "nuevo": 1,
     "dif": 3,
     "hard": "pos",
-    "src": "t12-084",
+    "src": "t12-085",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 100.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   [
+    "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija licencia de obras o urbanística (o declaración responsable o comunicación posterior), se haya obtenido o no",
+    "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija licencia de obras o urbanística (o declaración responsable o comunicación simultánea), se haya obtenido o no",
+    "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija licencia de obras o urbanística (o declaración responsable o comunicación previa), se haya obtenido o no"
+   ],
+   2,
+   "Art. 100.1 · RDLeg 2/2004 (TRLRHL): El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija licencia de obras o urbanística (o declaración responsable o comunicación previa), se haya obtenido o no. Las otras dos frases cambian «previa» por «posterior» y «simu",
+   "trlrhl 100.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t12-136",
+    "tc": 1
+   }
+  ],
+  [
+   "Señale la opción correcta:",
+   [
+    "Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por mayoría simple de los afectados que representen al menos dos tercios de las cuotas",
+    "Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por mayoría de tres quintos de los afectados que representen al menos dos tercios de las cuotas",
+    "Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por mayoría absoluta de los afectados que representen al menos dos tercios de las cuotas"
+   ],
+   2,
+   "Art. 36 · RDLeg 2/2004 (TRLRHL): Las asociaciones administrativas de contribuyentes en contribuciones especiales se constituyen por mayoría absoluta de los afectados que representen al menos dos tercios de las cuotas. Las otras dos frases cambian «Mayoría absoluta» por «mayoría simple» y «mayoría de tres quintos».",
+   "trlrhl 36",
+   "Una sola palabra cambia el sentido",
+   "h-contrib",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t12-184",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "La base liquidable se notificará conjuntamente con la base imponible en los procedimientos de valoración colectiva",
+    "El coeficiente reductor no tendrá el valor de 0,9 el primer año de su aplicación e irá disminuyendo en 0,1 anualmente hasta su desaparición",
+    "El componente individual de la reducción no será, en cada año, la diferencia positiva entre el nuevo valor catastral que corresponda al inmueble en el primer ejercicio de su vigencia y su valor base"
+   ],
+   0,
+   "La correcta es «La base liquidable se notificará conjuntamente con la base imponible en los procedimientos de valoración colectiva». Las otras dos son falsas: lo correcto es «El coeficiente reductor tendrá el valor de 0,9 el primer año de su aplicación e irá disminuyendo en 0,1 anualmente hasta su desaparición» (la otra frase la niega) y «El componente individual de la reducción será, en cada año, la diferencia posit",
+   "trlrhl 66",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "Los ayuntamientos no podrán exigir este impuesto en régimen de autoliquidación",
+    "La gestión, liquidación, inspección y recaudación, así como la revisión de los actos dictados en vía de gestión tributaria corresponde al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo",
+    "El cuadro de cuotas deberá ser modificado por la Ley de Presupuestos Generales del Estado"
+   ],
+   1,
+   "La correcta es «La gestión, liquidación, inspección y recaudación, así como la revisión de los actos dictados en vía de gestión tributaria corresponde al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo». Las otras dos son falsas: lo correcto es «Los ayuntamientos podrán exigir este impuesto en régimen de autoliquidación» (la otra frase cambia «podrán») y «El cuadro de cuotas podrá ser ",
+   "trlrhl 97",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 98.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Los ayuntamientos no podrán exigir el Impuesto sobre Construcciones, Instalaciones y Obras en régimen de autoliquidación",
+    "Los ayuntamientos podrán exigir el Impuesto sobre Construcciones, Instalaciones y Obras en régimen de autoliquidación",
+    "Los ayuntamientos podrán exigir el Impuesto sobre Construcciones, Instalaciones y Obras en régimen de liquidación única de oficio"
+   ],
+   1,
+   "Art. 98.1 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán exigir el Impuesto sobre Construcciones, Instalaciones y Obras en régimen de autoliquidación.",
+   "trlrhl 98.1",
+   "La afirmación, su negación y otro dato",
+   "h-potestad",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-197",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 27 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las entidades locales no podrán exigir las tasas en régimen de autoliquidación",
+    "Las entidades locales podrán exigir las tasas solo mediante liquidación practicada por la Administración",
+    "Las entidades locales podrán exigir las tasas en régimen de autoliquidación"
+   ],
+   2,
+   "Art. 27 · RDLeg 2/2004 (TRLRHL): Las entidades locales podrán exigir las tasas en régimen de autoliquidación.",
+   "trlrhl 27",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-056",
     "tc": 1
    }
   ],
   [
    "De acuerdo con el artículo 60 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "El Impuesto sobre Bienes Inmuebles no es un tributo directo de carácter real que grava el valor de los bienes inmuebles",
     "El Impuesto sobre Bienes Inmuebles es un tributo indirecto de carácter personal que grava el patrimonio de los titulares de inmuebles",
+    "El Impuesto sobre Bienes Inmuebles es un tributo directo de carácter personal que grava la renta obtenida por la titularidad de inmuebles",
     "El Impuesto sobre Bienes Inmuebles es un tributo directo de carácter real que grava el valor de los bienes inmuebles"
    ],
    2,
    "Art. 60 · RDLeg 2/2004 (TRLRHL): El Impuesto sobre Bienes Inmuebles es un tributo directo de carácter real que grava el valor de los bienes inmuebles.",
    "trlrhl 60",
-   "La afirmación, su negación y otro dato",
+   "Opciones casi idénticas",
    "",
    [],
    {
@@ -6929,22 +6986,63 @@
    }
   ],
   [
-   "De acuerdo con el artículo 99 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   "De acuerdo con el artículo 99 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo, deberán acreditar previamente el pago del impuesto",
-    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo, podrán acreditar previamente el pago del impuesto",
-    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo, no deberán acreditar previamente el pago del impuesto"
+    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo no deberán acreditar previamente el pago del impuesto",
+    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo deberán acreditar previamente el pago del impuesto",
+    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo deberán acreditar el pago del seguro"
    ],
-   0,
-   "Art. 99 · RDLeg 2/2004 (TRLRHL): Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo, deberán acreditar previamente el pago del impuesto. Las otras dos frases cambian «deberán» por «podrán» y «no deberán».",
+   1,
+   "Art. 99 · RDLeg 2/2004 (TRLRHL): Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo deberán acreditar previamente el pago del impuesto.",
    "trlrhl 99",
-   "Una sola palabra cambia el sentido",
+   "La afirmación, su negación y otro dato",
    "",
    [],
    {
     "nuevo": 1,
     "dif": 3,
-    "hard": "mp",
+    "hard": "pos",
+    "src": "t12-135",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "El crédito deberá instrumentarse mediante conversión y sustitución total o parcial de operaciones preexistentes",
+    "Las corporaciones locales también podrán conceder avales a sociedades mercantiles participadas por personas o entidades privadas, en las que tengan una cuota de participación en el capital social no inferior al 20 por ciento",
+    "Se entiende por prudencia financiera el conjunto de condiciones que deben cumplir las operaciones financieras para minimizar su riesgo y coste"
+   ],
+   2,
+   "La correcta es «Se entiende por prudencia financiera el conjunto de condiciones que deben cumplir las operaciones financieras para minimizar su riesgo y coste». Las otras dos son falsas: lo correcto es «El crédito podrá instrumentarse mediante conversión y sustitución total o parcial de operaciones preexistentes» (la otra frase cambia «podrá») y «Las corporaciones locales también podrán conceder avales a sociedades m",
+   "trlrhl 48 bis",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "Las ordenanzas fiscales deberán regular una exención a favor de los bienes de que sean titulares los centros sanitarios de titularidad pública, siempre que estén directamente afectados al cumplimiento de los fines específicos de los referidos centros",
+    "La base liquidable se publicará conjuntamente con la base imponible en los procedimientos de valoración colectiva",
+    "La base imponible de este impuesto estará constituida por el valor catastral de los bienes inmuebles, que se determinará, notificará y será susceptible de impugnación conforme a lo dispuesto en las normas reguladoras del Catastro Inmobiliario"
+   ],
+   2,
+   "La correcta es «La base imponible de este impuesto estará constituida por el valor catastral de los bienes inmuebles, que se determinará, notificará y será susceptible de impugnación conforme a lo dispuesto en las normas reguladoras del Catastro Inmobiliario». Las otras dos son falsas: lo correcto es «Las ordenanzas fiscales podrán regular una exención a favor de los bienes de que sean titulares los centros sanitario",
+   "trlrhl 65",
+   "Frases casi idénticas",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
     "tc": 1
    }
   ],
@@ -6970,22 +7068,23 @@
    }
   ],
   [
-   "De acuerdo con el artículo 65 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   "De acuerdo con el artículo 76.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
    [
-    "La base imponible de este impuesto estará constituida por el valor catastral de los bienes inmuebles, que se determinará, publicará y será susceptible de impugnación conforme a lo dispuesto en las normas reguladoras del Catastro Inmobiliario",
-    "La base imponible de este impuesto estará constituida por el valor catastral de los bienes inmuebles, que se determinará, notificará y será susceptible de impugnación conforme a lo dispuesto en las normas reguladoras del Catastro Inmobiliario",
-    "La base imponible de este impuesto estará constituida por el valor catastral de los bienes inmuebles, que se determinará, comunicará verbalmente y será susceptible de impugnación conforme a lo dispuesto en las normas reguladoras del Catastro Inmobiliario"
+    "Las alteraciones de los bienes inmuebles con trascendencia a efectos del IBI determinan la obligación de los sujetos pasivos de formalizar las declaraciones conducentes a su inscripción en el Catastro Inmobiliario",
+    "Las alteraciones de los bienes inmuebles con trascendencia a efectos del IBI determinan la obligación de los sujetos pasivos de formalizar una comunicación al ayuntamiento en el plazo de un mes",
+    "Las alteraciones de los bienes inmuebles con trascendencia a efectos del IBI determinan la obligación de los sujetos pasivos de formalizar una autoliquidación complementaria del impuesto"
    ],
-   1,
-   "Art. 65 · RDLeg 2/2004 (TRLRHL): La base imponible de este impuesto estará constituida por el valor catastral de los bienes inmuebles, que se determinará, notificará y será susceptible de impugnación conforme a lo dispuesto en las normas reguladoras del Catastro Inmobiliario. Las otras dos frases cambian «notificará» por «publicará» y «comunicará verbalmente».",
-   "trlrhl 65",
-   "Una sola palabra cambia el sentido",
-   "",
+   0,
+   "Art. 76.1 · RDLeg 2/2004 (TRLRHL): Las alteraciones de los bienes inmuebles con trascendencia a efectos del IBI determinan la obligación de los sujetos pasivos de formalizar las declaraciones conducentes a su inscripción en el Catastro Inmobiliario.",
+   "trlrhl 76.1",
+   "La afirmación, su negación y otro dato",
+   "h-potestad",
    [],
    {
     "nuevo": 1,
     "dif": 3,
-    "hard": "mp",
+    "hard": "pos",
+    "src": "t12-210",
     "tc": 1
    }
   ],
@@ -6993,11 +7092,11 @@
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
    [
     "Los anuncios de exposición pública de estos valores medios se publicarán por edictos en el boletín oficial de la provincia, indicándose el lugar y plazo, que no será inferior a 15 días",
-    "La base liquidable se comunicará verbalmente conjuntamente con la base imponible en los procedimientos de valoración colectiva",
-    "El coeficiente reductor no tendrá el valor de 0,9 el primer año de su aplicación e irá disminuyendo en 0,1 anualmente hasta su desaparición"
+    "Cuando el período de desocupación sea superior a un año, los ayuntamientos podrán aumentar el porcentaje de recargo en hasta 50 puntos porcentuales adicionales en el caso de inmuebles pertenecientes a titulares de cuatro o más inmuebles de uso residencial",
+    "El tipo de gravamen mínimo y supletorio no será el 0,4 por ciento cuando se trate de bienes inmuebles urbanos y el 0,3 por ciento cuando se trate de bienes inmuebles rústicos, y el máximo será el 1,10 por ciento para los urbanos y 0,90 por ciento para los rústicos"
    ],
    0,
-   "La correcta es «Los anuncios de exposición pública de estos valores medios se publicarán por edictos en el boletín oficial de la provincia, indicándose el lugar y plazo, que no será inferior a 15 días». Las otras dos son falsas: lo correcto es «La base liquidable se notificará conjuntamente con la base imponible en los procedimientos de valoración colectiva» (la otra frase cambia «notificará») y «El coeficiente reduc",
+   "La correcta es «Los anuncios de exposición pública de estos valores medios se publicarán por edictos en el boletín oficial de la provincia, indicándose el lugar y plazo, que no será inferior a 15 días». Las otras dos son falsas: lo correcto es «Cuando el período de desocupación sea superior a tres años, los ayuntamientos podrán aumentar el porcentaje de recargo en hasta 50 puntos porcentuales adicionales en el caso d",
    "trlrhl 69",
    "Frases casi idénticas",
    "",
@@ -7010,92 +7109,10 @@
    }
   ],
   [
-   "De acuerdo con el artículo 76 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
-   [
-    "Los ayuntamientos deberán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de la licencia que autorice la primera ocupación de los inmuebles",
-    "Los ayuntamientos podrán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de la licencia que autorice la primera ocupación de los inmuebles",
-    "Los ayuntamientos no podrán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de la licencia que autorice la primera ocupación de los inmuebles"
-   ],
-   1,
-   "Art. 76 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos podrán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de la licencia que autorice la primera ocupación de los inmuebles. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
-   "trlrhl 76",
-   "Una sola palabra cambia el sentido",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "mp",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 46.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
-   [
-    "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades deberán exigir el depósito previo de su importe total o parcial",
-    "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades no podrán exigir el depósito previo de su importe total o parcial",
-    "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades podrán exigir el depósito previo de su importe total o parcial"
-   ],
-   2,
-   "Art. 46.1 · RDLeg 2/2004 (TRLRHL): La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades podrán exigir el depósito previo de su importe total o parcial. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
-   "trlrhl 46.1",
-   "Una sola palabra cambia el sentido",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "mp",
-    "src": "t12-061",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 90 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
-   [
-    "La matrícula del Impuesto sobre Actividades Económicas se forma por la Comunidad Autónoma",
-    "La matrícula del Impuesto sobre Actividades Económicas se forma por la Administración tributaria del Estado",
-    "La matrícula del Impuesto sobre Actividades Económicas se forma por el Ayuntamiento"
-   ],
-   1,
-   "Art. 90 · RDLeg 2/2004 (TRLRHL): La matrícula del Impuesto sobre Actividades Económicas se forma por la Administración tributaria del Estado.",
-   "trlrhl 90",
-   "La afirmación, su negación y otro dato",
-   "h-impuestos",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "pos",
-    "src": "t12-179",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 14 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
-   [
-    "Representación y dirección técnica.-Los recurrentes podrán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador",
-    "Representación y dirección técnica.-Los recurrentes deberán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador",
-    "Representación y dirección técnica.-Los recurrentes no podrán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador"
-   ],
-   0,
-   "Art. 14 · RDLeg 2/2004 (TRLRHL): Representación y dirección técnica.-Los recurrentes podrán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
-   "trlrhl 14",
-   "Una sola palabra cambia el sentido",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "hard": "mp",
-    "tc": 1
-   }
-  ],
-  [
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
    [
     "Las deudas por precios públicos deberán exigirse por el procedimiento administrativo de apremio",
-    "Las entidades locales deberán exigir los precios públicos en régimen de autoliquidación",
+    "Las entidades locales no podrán exigir los precios públicos en régimen de autoliquidación",
     "El importe de los precios públicos deberá cubrir como mínimo el coste del servicio prestado o de la actividad realizada"
    ],
    2,
@@ -7112,15 +7129,77 @@
    }
   ],
   [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   "De acuerdo con el artículo 46.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
    [
-    "Contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público de las entidades locales, sólo podrá interponerse el recurso extraordinario de revisión que a continuación se regula",
-    "Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas",
-    "Los acuerdos de aprobación de estas ordenanzas fiscales no deberán adoptarse simultáneamente a los de imposición de los respectivos tributos"
+    "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades podrán exigir el depósito posterior de su importe total o parcial",
+    "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades podrán exigir el depósito simultáneo de su importe total o parcial",
+    "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades podrán exigir el depósito previo de su importe total o parcial"
+   ],
+   2,
+   "Art. 46.1 · RDLeg 2/2004 (TRLRHL): La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad, si bien las entidades podrán exigir el depósito previo de su importe total o parcial. Las otras dos frases cambian «previo» por «posterior» y «simultáneo».",
+   "trlrhl 46.1",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "src": "t12-061",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 90 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
+   [
+    "A continuación se practicará por la Administración competente la liquidación correspondiente, la cual se notificará al sujeto pasivo, quien podrá efectuar el ingreso que proceda",
+    "A continuación se practicará por la Administración competente la liquidación correspondiente, la cual se notificará al sujeto pasivo, quien deberá efectuar el ingreso que proceda",
+    "A continuación se practicará por la Administración competente la liquidación correspondiente, la cual se notificará al sujeto pasivo, quien no deberá efectuar el ingreso que proceda"
    ],
    1,
-   "La correcta es «Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas». Las otras dos son falsas: lo correcto es «Contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público de las entidades locales, sólo podrá interponerse el recurso de reposición que a continuación se regula» (la otra fras",
-   "trlrhl 16",
+   "Art. 90 · RDLeg 2/2004 (TRLRHL): A continuación se practicará por la Administración competente la liquidación correspondiente, la cual se notificará al sujeto pasivo, quien deberá efectuar el ingreso que proceda. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
+   "trlrhl 90",
+   "Una sola palabra cambia el sentido",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "mp",
+    "tc": 1
+   }
+  ],
+  [
+   "De acuerdo con el artículo 16.1 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición correcta:",
+   [
+    "Las ordenanzas fiscales contendrán, al menos solo el hecho imponible y la cuota tributaria, sin necesidad de fijar el devengo ni los regímenes de declaración",
+    "Las ordenanzas fiscales contendrán, al menos la determinación del hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota, período impositivo y devengo, regímenes de declaración e ingreso y fechas de aprobación y comienzo de aplicación",
+    "Las ordenanzas fiscales contendrán, al menos solo la cuota tributaria y el devengo, sin determinar sujetos pasivos ni exenciones o bonificaciones"
+   ],
+   1,
+   "Art. 16.1 · RDLeg 2/2004 (TRLRHL): Las ordenanzas fiscales contendrán, al menos la determinación del hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota, período impositivo y devengo, regímenes de declaración e ingreso y fechas de aprobación y comienzo de aplicación.",
+   "trlrhl 16.1",
+   "La afirmación, su negación y otro dato",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "hard": "pos",
+    "src": "t12-041",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición CORRECTA:",
+   [
+    "El recurso se entenderá desestimado cuando no haya recaído resolución en plazo",
+    "Las entidades locales publicarán, en todo caso, los anuncios de exposición en el Boletín Oficial de Aragón, o, en su caso, en el de la comunidad autónoma uniprovincial",
+    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces permanente, sin necesidad de acuerdo plenario"
+   ],
+   0,
+   "La correcta es «El recurso se entenderá desestimado cuando no haya recaído resolución en plazo». Las otras dos son falsas: lo correcto es «Las entidades locales publicarán, en todo caso, los anuncios de exposición en el boletín oficial de la provincia, o, en su caso, en el de la comunidad autónoma uniprovincial» (la otra frase cambia «boletín oficial de la provincia») y «En el caso de que no se hubieran presentado re",
+   "trlrhl 14",
    "Frases casi idénticas",
    "",
    [],
@@ -7132,35 +7211,34 @@
    }
   ],
   [
-   "Señale la opción correcta:",
+   "De acuerdo con el artículo 34 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
    [
-    "La exacción de las contribuciones especiales precisará la posterior adopción del acuerdo de imposición en cada caso concreto",
-    "La exacción de las contribuciones especiales precisará la previa adopción del acuerdo de imposición en cada caso concreto",
-    "La exacción de las contribuciones especiales precisará la simultánea adopción del acuerdo de imposición en cada caso concreto"
+    "Los interesados podrán formular recurso de reposición ante el ayuntamiento, que podrá versar sobre la procedencia de las contribuciones especiales, el porcentaje del coste que deban satisfacer las personas especialmente beneficiadas o las cuotas asignadas",
+    "Los interesados deberán formular recurso de reposición ante el ayuntamiento, que podrá versar sobre la procedencia de las contribuciones especiales, el porcentaje del coste que deban satisfacer las personas especialmente beneficiadas o las cuotas asignadas",
+    "Los interesados no podrán formular recurso de reposición ante el ayuntamiento, que podrá versar sobre la procedencia de las contribuciones especiales, el porcentaje del coste que deban satisfacer las personas especialmente beneficiadas o las cuotas asignadas"
    ],
-   1,
-   "Art. 34 · RDLeg 2/2004 (TRLRHL): La exacción de las contribuciones especiales precisará la previa adopción del acuerdo de imposición en cada caso concreto. Las otras dos frases cambian «previa» por «posterior» y «simultánea».",
+   0,
+   "Art. 34 · RDLeg 2/2004 (TRLRHL): Los interesados podrán formular recurso de reposición ante el ayuntamiento, que podrá versar sobre la procedencia de las contribuciones especiales, el porcentaje del coste que deban satisfacer las personas especialmente beneficiadas o las cuotas asignadas. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
    "trlrhl 34",
    "Una sola palabra cambia el sentido",
-   "h-contrib",
+   "",
    [],
    {
     "nuevo": 1,
     "dif": 3,
     "hard": "mp",
-    "src": "t12-014",
     "tc": 1
    }
   ],
   [
    "De acuerdo con el artículo 49 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
    [
-    "El crédito podrá instrumentarse mediante cualquier otra apelación al crédito público o privado",
-    "El crédito deberá instrumentarse mediante cualquier otra apelación al crédito público o privado",
-    "El crédito no podrá instrumentarse mediante cualquier otra apelación al crédito público o privado"
+    "El crédito deberá instrumentarse mediante contratación de préstamos o créditos",
+    "El crédito no podrá instrumentarse mediante contratación de préstamos o créditos",
+    "El crédito podrá instrumentarse mediante contratación de préstamos o créditos"
    ],
-   0,
-   "Art. 49 · RDLeg 2/2004 (TRLRHL): El crédito podrá instrumentarse mediante cualquier otra apelación al crédito público o privado. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
+   2,
+   "Art. 49 · RDLeg 2/2004 (TRLRHL): El crédito podrá instrumentarse mediante contratación de préstamos o créditos. Las otras dos frases cambian «podrá» por «deberá» y «no podrá».",
    "trlrhl 49",
    "Una sola palabra cambia el sentido",
    "",
@@ -7175,12 +7253,12 @@
   [
    "De acuerdo con el artículo 74 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la opción correcta:",
    [
-    "Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 95 por ciento de la cuota íntegra del impuesto a favor de inmuebles de organismos públicos de investigación y los de enseñanza universitaria",
-    "Los ayuntamientos mediante ordenanza deberán regular una bonificación de hasta el 95 por ciento de la cuota íntegra del impuesto a favor de inmuebles de organismos públicos de investigación y los de enseñanza universitaria",
-    "Los ayuntamientos mediante ordenanza no podrán regular una bonificación de hasta el 95 por ciento de la cuota íntegra del impuesto a favor de inmuebles de organismos públicos de investigación y los de enseñanza universitaria"
+    "La ordenanza deberá especificar la clase y características de los bienes inmuebles a que afecte, duración, cuantía anual y demás aspectos sustantivos y formales de esta bonificación, así como las condiciones de compatibilidad con otros beneficios fiscales",
+    "La ordenanza podrá especificar la clase y características de los bienes inmuebles a que afecte, duración, cuantía anual y demás aspectos sustantivos y formales de esta bonificación, así como las condiciones de compatibilidad con otros beneficios fiscales",
+    "La ordenanza no deberá especificar la clase y características de los bienes inmuebles a que afecte, duración, cuantía anual y demás aspectos sustantivos y formales de esta bonificación, así como las condiciones de compatibilidad con otros beneficios fiscales"
    ],
    0,
-   "Art. 74 · RDLeg 2/2004 (TRLRHL): Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 95 por ciento de la cuota íntegra del impuesto a favor de inmuebles de organismos públicos de investigación y los de enseñanza universitaria. Las otras dos frases cambian «podrán» por «deberán» y «no podrán».",
+   "Art. 74 · RDLeg 2/2004 (TRLRHL): La ordenanza deberá especificar la clase y características de los bienes inmuebles a que afecte, duración, cuantía anual y demás aspectos sustantivos y formales de esta bonificación, así como las condiciones de compatibilidad con otros beneficios fiscales. Las otras dos frases cambian «deberá» por «podrá» y «no deberá».",
    "trlrhl 74",
    "Una sola palabra cambia el sentido",
    "",
@@ -7195,34 +7273,13 @@
   [
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "El tipo de gravamen del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana no puede exceder del 4 por ciento",
-    "En ningún caso tendrán la consideración de ingresos de derecho privado los que procedan, por cualquier concepto, de los bienes de dominio público local",
-    "La declaración del IIVTNU deberá presentarse, en actos ínter vivos, en el plazo de treinta días hábiles desde la fecha del devengo"
-   ],
-   0,
-   "La incorrecta es «el tipo de gravamen del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana no puede exceder del 4 por ciento». Lo correcto: el tipo de gravamen del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana no puede exceder del 30 por ciento.",
-   "trlrhl 108",
-   "Proposición negativa",
-   "h-impuestos",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "La hacienda de los municipios estará constituida por los recursos enumerados en el artículo 2 de la ley en los términos y con las especialidades que se recogen en el título II",
-    "Se considerarán municipios turísticos aquellos que tengan una población de derecho superior a 20.000 habitantes y cuyo número de viviendas de segunda residencia supere al de viviendas principales, según el último Censo",
-    "Las ordenanzas fiscales podrán regular una bonificación de hasta el 100 por cien en el IVTM para los vehículos de empresas de reparto que realicen su actividad dentro del término municipal"
+    "La potestad reglamentaria tributaria local se ejerce mediante ordenanzas fiscales y ordenanzas generales de gestión, recaudación e inspección",
+    "Los principios de prudencia financiera del art. 48 bis TRLRHL tienen por objeto minimizar el riesgo y el coste de las operaciones financieras",
+    "La competencia para evacuar las consultas tributarias en relación con tributos locales corresponde al Tribunal Económico-Administrativo Regional competente, que resolverá la consulta con carácter vinculante"
    ],
    2,
-   "La incorrecta es «las ordenanzas fiscales podrán regular una bonificación de hasta el 100 por cien en el IVTM para los vehículos de empresas de reparto que realicen su actividad dentro del término municipal». Lo correcto: las ordenanzas fiscales podrán regular una bonificación de hasta el 100 por cien en el IVTM para los vehículos históricos o aquellos que tengan una antigüedad mínima de veinticinco años.",
-   "trlrhl 95.6",
+   "La incorrecta es «la competencia para evacuar las consultas tributarias en relación con tributos locales corresponde al Tribunal Económico-Administrativo Regional competente, que resolverá la consulta con carácter vinculante». Lo correcto: la competencia para evacuar las consultas tributarias en relación con tributos locales corresponde a la entidad que ejerza las funciones de gestión, liquidación, inspección y recau",
+   "trlrhl 13",
    "Proposición negativa",
    "",
    [],
@@ -7237,13 +7294,13 @@
   [
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "Representación y dirección técnica.-Los recurrentes podrán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador",
-    "Forma y contenido de la resolución.-La resolución expresa del recurso se producirá siempre de forma escrita",
-    "Los acuerdos de aprobación de ordenanzas fiscales podrán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas"
+    "La cuantía de la reducción será el resultado de aplicar un coeficiente reductor, único para todos los inmuebles afectados del municipio, a un componente individual de la reducción, calculado para cada inmueble",
+    "La base liquidable se notificará conjuntamente con la base imponible en los procedimientos de valoración colectiva",
+    "Los anuncios de exposición pública de estos valores medios se publicarán por edictos en el boletín oficial de la provincia, indicándose el lugar y plazo, que no será inferior a 12 días"
    ],
    2,
-   "La incorrecta es «Los acuerdos de aprobación de ordenanzas fiscales podrán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas»: cambia «deberán». Lo correcto: «Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas».",
-   "trlrhl 16",
+   "La incorrecta es «Los anuncios de exposición pública de estos valores medios se publicarán por edictos en el boletín oficial de la provincia, indicándose el lugar y plazo, que no será inferior a 12 días»: cambia «15 días». Lo correcto: «Los anuncios de exposición pública de estos valores medios se publicarán por edictos en el boletín oficial de la provincia, indicándose el lugar y plazo, que no será inferior a 15 día",
+   "trlrhl 69",
    "Proposición negativa",
    "",
    [],
@@ -7258,286 +7315,13 @@
   [
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "Tendrán la consideración de obras y servicios locales los que realicen las entidades locales a título de dueños de sus bienes patrimoniales",
-    "El orden en que se determina el hecho imponible del IBI es concesión administrativa, derecho real de superficie, usufructo y propiedad",
-    "Las entidades locales podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como la prestación de servicios públicos o realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos"
-   ],
-   0,
-   "La incorrecta es «tendrán la consideración de obras y servicios locales los que realicen las entidades locales a título de dueños de sus bienes patrimoniales». Lo correcto: tendrán la consideración de obras y servicios locales los que realicen las entidades locales dentro del ámbito de sus competencias, excepto los que ejecuten a título de dueños de sus bienes patrimoniales.",
-   "trlrhl 29.1",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 49 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "El crédito no podrá instrumentarse mediante contratación de préstamos o créditos",
-    "El aval no podrá garantizar un porcentaje del crédito superior al de su participación en la sociedad",
-    "El crédito podrá instrumentarse mediante conversión y sustitución total o parcial de operaciones preexistentes"
-   ],
-   0,
-   "La incorrecta es «El crédito no podrá instrumentarse mediante contratación de préstamos o créditos»: cambia «podrá». Lo correcto: «El crédito podrá instrumentarse mediante contratación de préstamos o créditos».",
-   "trlrhl 49",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "No está sujeto a este impuesto el incremento de valor que experimenten los terrenos que tengan la consideración de rústicos a efectos del Impuesto sobre Bienes Inmuebles",
-    "Los ayuntamientos no podrán establecer en sus ordenanzas fiscales sistemas de gestión conjunta y coordinada de este impuesto y de la tasa correspondiente al otorgamiento de la licencia",
-    "En el caso de que el periodo de generación sea inferior a un año, se prorrateará el coeficiente anual teniendo en cuenta el número de meses completos, es decir, sin tener en cuenta las fracciones de mes"
-   ],
-   1,
-   "La incorrecta es «Los ayuntamientos no podrán establecer en sus ordenanzas fiscales sistemas de gestión conjunta y coordinada de este impuesto y de la tasa correspondiente al otorgamiento de la licencia»: cambia «podrán». Lo correcto: «Los ayuntamientos podrán establecer en sus ordenanzas fiscales sistemas de gestión conjunta y coordinada de este impuesto y de la tasa correspondiente al otorgamiento de la licencia».",
-   "trlrhl 103",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "Cuando los inmuebles tengan atribuidos varios usos se aplicará el tipo correspondiente al uso de la edificación o dependencia principal",
-    "Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del impuesto a favor de cada grupo de bienes inmuebles de características especiales",
-    "El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto cuando el periodo de desocupación sea superior a un año, pudiendo modularse en función del periodo de tiempo de desocupación"
-   ],
-   2,
-   "La incorrecta es «El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto cuando el periodo de desocupación sea superior a un año, pudiendo modularse en función del periodo de tiempo de desocupación»: cambia «tres años». Lo correcto: «El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto cuando el periodo de desocupación sea superior a tres años, pudiendo modularse ",
-   "trlrhl 72",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "Participan de la naturaleza de las subvenciones las participaciones que las Diputaciones Provinciales tienen actualmente en las Apuestas Mutuas Deportivas del Estado",
-    "La prestación personal no excederá de 18 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional",
-    "A los municipios turísticos les será de aplicación lo dispuesto en el apartado 3 del artículo 112"
-   ],
-   1,
-   "La incorrecta es «La prestación personal no excederá de 18 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional»: cambia «15 días». Lo correcto: «La prestación personal no excederá de 15 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional».",
-   "trlrhl 129",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "De acuerdo con el artículo 49 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "El crédito podrá instrumentarse mediante conversión y sustitución total o parcial de operaciones preexistentes",
-    "Las corporaciones locales también podrán conceder avales a sociedades mercantiles participadas por personas o entidades privadas, en las que tengan una cuota de participación en el capital social no inferior al 30 por ciento",
-    "El crédito no podrá instrumentarse mediante emisión pública de deuda"
-   ],
-   2,
-   "La incorrecta es «El crédito no podrá instrumentarse mediante emisión pública de deuda»: cambia «podrá». Lo correcto: «El crédito podrá instrumentarse mediante emisión pública de deuda».",
-   "trlrhl 49",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "El recargo, que no se exigirá a los sujetos pasivos de este tributo, se devengará el 31 de diciembre y se liquidará anualmente por los ayuntamientos",
     "Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 95 por ciento de la cuota íntegra del impuesto a favor de inmuebles de organismos públicos de investigación y los de enseñanza universitaria",
-    "La aplicación de esta bonificación estará condicionada a que las instalaciones dispongan de la correspondiente homologación por la Administración competente"
+    "El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto cuando el periodo de desocupación sea superior a dos años, pudiendo modularse en función del periodo de tiempo de desocupación",
+    "Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del impuesto a favor de cada grupo de bienes inmuebles de características especiales"
    ],
-   0,
-   "La incorrecta es «El recargo, que no se exigirá a los sujetos pasivos de este tributo, se devengará el 31 de diciembre y se liquidará anualmente por los ayuntamientos»: niega lo que dice la ley. Lo correcto: «El recargo, que se exigirá a los sujetos pasivos de este tributo, se devengará el 31 de diciembre y se liquidará anualmente por los ayuntamientos».",
+   1,
+   "La incorrecta es «El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto cuando el periodo de desocupación sea superior a dos años, pudiendo modularse en función del periodo de tiempo de desocupación»: cambia «tres años». Lo correcto: «El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto cuando el periodo de desocupación sea superior a tres años, pudiendo modulars",
    "trlrhl 72",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "En el caso de que el periodo de generación sea inferior a dos años, se prorrateará el coeficiente anual teniendo en cuenta el número de meses completos, es decir, sin tener en cuenta las fracciones de mes",
-    "Si el contrato queda sin efecto por mutuo acuerdo de las partes contratantes, no procederá la devolución del impuesto satisfecho y se considerará como un acto nuevo sujeto a tributación",
-    "La regulación de los restantes aspectos sustantivos y formales de la reducción se establecerá en la ordenanza fiscal"
-   ],
-   0,
-   "La incorrecta es «En el caso de que el periodo de generación sea inferior a dos años, se prorrateará el coeficiente anual teniendo en cuenta el número de meses completos, es decir, sin tener en cuenta las fracciones de mes»: cambia «un año». Lo correcto: «En el caso de que el periodo de generación sea inferior a un año, se prorrateará el coeficiente anual teniendo en cuenta el número de meses completos, es decir, sin",
-   "trlrhl 107",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "El tipo de gravamen supletorio aplicable a los bienes inmuebles de características especiales será el 0,4 por ciento, pudiendo los ayuntamientos fijar tipos no inferiores al 0,3 ni superiores al 1,10 por ciento",
-    "Están exentos del IAE, entre otros el Estado, las comunidades autónomas y las entidades locales, así como los organismos autónomos y entidades de derecho público de análogo carácter",
-    "El plazo para declarar el IIVTNU en transmisiones por causa de muerte es de seis meses, prorrogables hasta un año"
-   ],
-   0,
-   "La incorrecta es «el tipo de gravamen supletorio aplicable a los bienes inmuebles de características especiales será el 0,4 por ciento, pudiendo los ayuntamientos fijar tipos no inferiores al 0,3 ni superiores al 1,10 por ciento». Lo correcto: el tipo de gravamen supletorio aplicable a los bienes inmuebles de características especiales será el 0,6 por ciento, pudiendo los ayuntamientos establecer tipos diferenciados ",
-   "trlrhl 72.2",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "Representación y dirección técnica.-Los recurrentes podrán comparecer por sí mismos o por medio de representante, sin que sea preceptiva la intervención de abogado ni procurador",
-    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces permanente, sin necesidad de acuerdo plenario",
-    "La oficina o dependencia de gestión, bajo la responsabilidad de su jefe, tendrá la obligación de poner de manifiesto al interesado el expediente o las actuaciones administrativas que se requieran"
-   ],
-   1,
-   "La incorrecta es «En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces permanente, sin necesidad de acuerdo plenario»: cambia «provisional». Lo correcto: «En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario».",
-   "trlrhl 17",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "No está sujeto a este impuesto el incremento de valor que experimenten los terrenos que tengan la consideración de rústicos a efectos del Impuesto sobre Bienes Inmuebles",
-    "Los ayuntamientos deberán establecer en sus ordenanzas fiscales sistemas de gestión conjunta y coordinada de este impuesto y de la tasa correspondiente al otorgamiento de la licencia",
-    "La regulación de los restantes aspectos sustantivos y formales de la reducción se establecerá en la ordenanza fiscal"
-   ],
-   1,
-   "La incorrecta es «Los ayuntamientos deberán establecer en sus ordenanzas fiscales sistemas de gestión conjunta y coordinada de este impuesto y de la tasa correspondiente al otorgamiento de la licencia»: cambia «podrán». Lo correcto: «Los ayuntamientos podrán establecer en sus ordenanzas fiscales sistemas de gestión conjunta y coordinada de este impuesto y de la tasa correspondiente al otorgamiento de la licencia».",
-   "trlrhl 103",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "Las entidades locales publicarán, en todo caso, los anuncios de exposición en el boletín oficial de la provincia, o, en su caso, en el de la comunidad autónoma uniprovincial",
-    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario",
-    "Contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público de las entidades locales, sólo podrá interponerse el recurso de alzada que a continuación se regula"
-   ],
-   2,
-   "La incorrecta es «Contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público de las entidades locales, sólo podrá interponerse el recurso de alzada que a continuación se regula»: cambia «recurso de reposición». Lo correcto: «Contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público de las entidades locales, sólo podrá interponerse el",
-   "trlrhl 14",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "La oficina o dependencia de gestión, bajo la responsabilidad de su jefe, tendrá la obligación de poner de manifiesto al interesado el expediente o las actuaciones administrativas que se requieran",
-    "Contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público de las entidades locales, sólo podrá interponerse el recurso de reposición que a continuación se regula",
-    "En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces definitivo, sin necesidad de acuerdo plenario"
-   ],
-   2,
-   "La incorrecta es «En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces definitivo, sin necesidad de acuerdo plenario»: cambia «provisional». Lo correcto: «En el caso de que no se hubieran presentado reclamaciones, se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario».",
-   "trlrhl 17",
-   "Proposición negativa",
-   "",
-   [],
-   {
-    "nuevo": 1,
-    "dif": 3,
-    "neg": 1,
-    "hard": "neg",
-    "tc": 1
-   }
-  ],
-  [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
-   [
-    "Si las obras fueran fraccionables, el devengo se producirá para cada uno de los sujetos pasivos desde que se hayan ejecutado las correspondientes a cada tramo o fracción de la obra",
-    "Los interesados no podrán formular recurso de reposición ante el ayuntamiento, que podrá versar sobre la procedencia de las contribuciones especiales, el porcentaje del coste que deban satisfacer las personas especialmente beneficiadas o las cuotas asignadas",
-    "El acuerdo de ordenación será de inexcusable adopción y contendrá la determinación del coste previsto de las obras y servicios, de la cantidad a repartir entre los beneficiarios y de los criterios de reparto"
-   ],
-   1,
-   "La incorrecta es «Los interesados no podrán formular recurso de reposición ante el ayuntamiento, que podrá versar sobre la procedencia de las contribuciones especiales, el porcentaje del coste que deban satisfacer las personas especialmente beneficiadas o las cuotas asignadas»: cambia «podrán». Lo correcto: «Los interesados podrán formular recurso de reposición ante el ayuntamiento, que podrá versar sobre la proceden",
-   "trlrhl 34",
    "Proposición negativa",
    "",
    [],
@@ -7571,15 +7355,15 @@
    }
   ],
   [
-   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   "De acuerdo con el artículo 49 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "El índice de evolución de la participación en tributos del Estado se determina por el incremento que experimenten los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base",
-    "No se podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales por las entidades locales que presten servicios que no se financien mayoritariamente con ingresos de mercado sin previa autorización de los órganos competentes del Ministerio de Hacienda y Administraciones Públicas",
-    "En las contribuciones especiales por obras o servicios que afecten a bienes inmuebles, se considerarán personas especialmente beneficiadas los titulares de actividades económicas colindantes"
+    "El crédito deberá instrumentarse mediante contratación de préstamos o créditos",
+    "El crédito podrá instrumentarse mediante conversión y sustitución total o parcial de operaciones preexistentes",
+    "El crédito podrá instrumentarse mediante cualquier otra apelación al crédito público o privado"
    ],
-   2,
-   "La incorrecta es «en las contribuciones especiales por obras o servicios que afecten a bienes inmuebles, se considerarán personas especialmente beneficiadas los titulares de actividades económicas colindantes». Lo correcto: en las contribuciones especiales por obras o servicios que afecten a bienes inmuebles, se considerarán personas especialmente beneficiadas los propietarios de los bienes inmuebles.",
-   "trlrhl 30.2",
+   0,
+   "La incorrecta es «El crédito deberá instrumentarse mediante contratación de préstamos o créditos»: cambia «podrá». Lo correcto: «El crédito podrá instrumentarse mediante contratación de préstamos o créditos».",
+   "trlrhl 49",
    "Proposición negativa",
    "",
    [],
@@ -7594,12 +7378,159 @@
   [
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "La ordenanza podrá especificar la clase y características de los bienes inmuebles a que afecte, duración, cuantía anual y demás aspectos sustantivos y formales de esta bonificación, así como las condiciones de compatibilidad con otros beneficios fiscales",
-    "En el caso de titulares de cuatro o más inmuebles de uso residencial, este recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto",
-    "Cuando el período de desocupación sea superior a tres años, los ayuntamientos podrán aumentar el porcentaje de recargo en hasta 50 puntos porcentuales adicionales en el caso de inmuebles pertenecientes a titulares de cuatro o más inmuebles de uso residencial"
+    "La base imponible de las contribuciones especiales está constituida, como máximo, por el 30 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios",
+    "El coste total presupuestado de las obras o servicios tendrá carácter de mera previsión",
+    "Si las obras fueran fraccionables, el devengo se producirá para cada uno de los sujetos pasivos desde que se hayan ejecutado las correspondientes a cada tramo o fracción de la obra"
    ],
    0,
-   "La incorrecta es «La ordenanza podrá especificar la clase y características de los bienes inmuebles a que afecte, duración, cuantía anual y demás aspectos sustantivos y formales de esta bonificación, así como las condiciones de compatibilidad con otros beneficios fiscales»: cambia «deberá». Lo correcto: «La ordenanza deberá especificar la clase y características de los bienes inmuebles a que afecte, duración, cuantía",
+   "La incorrecta es «La base imponible de las contribuciones especiales está constituida, como máximo, por el 30 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios»: cambia «90». Lo correcto: «La base imponible de las contribuciones especiales está constituida, como máximo, por el 90 por ciento del coste que la entidad local soporte po",
+   "trlrhl 31",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Los ayuntamientos podrán exigir este impuesto en régimen de autoliquidación",
+    "No está sujeto a este impuesto el incremento de valor que experimenten los terrenos que tengan la consideración de rústicos a efectos del Impuesto sobre Bienes Inmuebles",
+    "El sustituto no podrá exigir del contribuyente el importe de la cuota tributaria satisfecha"
+   ],
+   2,
+   "La incorrecta es «El sustituto no podrá exigir del contribuyente el importe de la cuota tributaria satisfecha»: cambia «podrá». Lo correcto: «El sustituto podrá exigir del contribuyente el importe de la cuota tributaria satisfecha».",
+   "trlrhl 101",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Las entidades locales podrán exigir las tasas en régimen de autoliquidación",
+    "Si los daños fueran irreparables, la entidad será indemnizada en cuantía igual al valor de los bienes destruidos o el importe del deterioro de los dañados",
+    "Para la determinación de la cuantía de las tasas deberán tenerse en cuenta criterios genéricos de capacidad económica de los sujetos obligados a satisfacerlas"
+   ],
+   2,
+   "La incorrecta es «Para la determinación de la cuantía de las tasas deberán tenerse en cuenta criterios genéricos de capacidad económica de los sujetos obligados a satisfacerlas»: cambia «podrán». Lo correcto: «Para la determinación de la cuantía de las tasas podrán tenerse en cuenta criterios genéricos de capacidad económica de los sujetos obligados a satisfacerlas».",
+   "trlrhl 24",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Como módulos de reparto de las contribuciones especiales se aplicarán, con carácter general, conjunta o separadamente los metros lineales de fachada de los inmuebles, su superficie, su volumen edificable y el valor catastral a efectos del IBI",
+    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo deberán acreditar el pago del seguro",
+    "Los ayuntamientos podrán establecer y exigir (potestativos) el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana"
+   ],
+   1,
+   "La incorrecta es «quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo deberán acreditar el pago del seguro». Lo correcto: quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo deberán acreditar previamente el pago del impuesto.",
+   "trlrhl 99",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Los recargos e intereses de demora en la exacción de los tributos locales se exigirán y determinarán en los mismos casos, forma y cuantía que en la exacción de los tributos del Estado",
+    "La base imponible del ICIO está constituida por el coste real y efectivo de la construcción, instalación u obra, esto es, el coste de ejecución material",
+    "Las ordenanzas fiscales podrán establecer una bonificación de hasta el cinco por ciento de la cuota a favor de los sujetos pasivos que sean personas jurídicas y tengan su domicilio fiscal en el término municipal de la entidad"
+   ],
+   2,
+   "La incorrecta es «las ordenanzas fiscales podrán establecer una bonificación de hasta el cinco por ciento de la cuota a favor de los sujetos pasivos que sean personas jurídicas y tengan su domicilio fiscal en el término municipal de la entidad». Lo correcto: las ordenanzas fiscales podrán establecer una bonificación de hasta el cinco por ciento de la cuota a favor de los sujetos pasivos que domicilien sus deudas de v",
+   "trlrhl 9.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "La reducción en la base imponible del IBI por valoración colectiva se aplicará durante un período de nueve años a contar desde la entrada en vigor de los nuevos valores catastrales",
+    "La gestión, liquidación, inspección y recaudación de los tributos locales se realizará conforme a la normativa de cada comunidad autónoma, que podrá regularlo libremente en su territorio",
+    "Las ordenanzas fiscales podrán regular una bonificación de hasta el 95 por ciento en el ICIO a favor de las construcciones, instalaciones u obras en las que se incorporen sistemas para el aprovechamiento térmico o eléctrico de la energía solar"
+   ],
+   1,
+   "La incorrecta es «la gestión, liquidación, inspección y recaudación de los tributos locales se realizará conforme a la normativa de cada comunidad autónoma, que podrá regularlo libremente en su territorio». Lo correcto: la gestión, liquidación, inspección y recaudación de los tributos locales se realizará de acuerdo con la Ley General Tributaria y las demás leyes del Estado reguladoras de la materia.",
+   "trlrhl 12.1",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Las entidades locales publicarán, en todo caso, los anuncios de exposición en el Boletín Oficial del Estado, o, en su caso, en el de la comunidad autónoma uniprovincial",
+    "Los acuerdos de aprobación de ordenanzas fiscales deberán adoptarse simultáneamente a los de fijación de los elementos regulados en aquéllas",
+    "El recurso se entenderá desestimado cuando no haya recaído resolución en plazo"
+   ],
+   0,
+   "La incorrecta es «Las entidades locales publicarán, en todo caso, los anuncios de exposición en el Boletín Oficial del Estado, o, en su caso, en el de la comunidad autónoma uniprovincial»: cambia «boletín oficial de la provincia». Lo correcto: «Las entidades locales publicarán, en todo caso, los anuncios de exposición en el boletín oficial de la provincia, o, en su caso, en el de la comunidad autónoma uniprovincial».",
+   "trlrhl 17",
+   "Proposición negativa",
+   "",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "Cuando el período de desocupación sea superior a tres años, los ayuntamientos podrán aumentar el porcentaje de recargo en hasta 50 puntos porcentuales adicionales en el caso de inmuebles pertenecientes a titulares de cuatro o más inmuebles de uso residencial",
+    "Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del impuesto a favor de inmuebles de organismos públicos de investigación y los de enseñanza universitaria",
+    "La ordenanza deberá especificar la duración, cuantía anual y demás aspectos sustantivos y formales relativos a esta bonificación"
+   ],
+   1,
+   "La incorrecta es «Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del impuesto a favor de inmuebles de organismos públicos de investigación y los de enseñanza universitaria»: cambia «95». Lo correcto: «Los ayuntamientos mediante ordenanza podrán regular una bonificación de hasta el 95 por ciento de la cuota íntegra del impuesto a favor de inmuebles de",
    "trlrhl 74",
    "Proposición negativa",
    "",
@@ -7615,13 +7546,34 @@
   [
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "En el caso de inmuebles de titularidad de alguna Administración Pública, se considerará también como causa justificada ser objeto el inmueble de un procedimiento de venta o de puesta en explotación mediante arrendamiento",
-    "En el caso de titulares de cuatro o más inmuebles de uso residencial, este recargo podrá ser de hasta el 90 por ciento de la cuota líquida del impuesto",
-    "Las ordenanzas fiscales podrán regular una bonificación de hasta el 50 por ciento de la cuota íntegra del impuesto a favor de los bienes inmuebles en los que se hayan instalado puntos de recarga para vehículos eléctricos"
+    "Las subvenciones que obtengan las entidades locales con destino a sus obras y servicios no podrán ser aplicadas a atenciones distintas de aquellas para las que fueron otorgadas, salvo sobrantes no reintegrables cuya utilización no estuviese prevista en la concesión",
+    "El plazo para declarar el IIVTNU en transmisiones por causa de muerte es de seis meses, prorrogables hasta un año",
+    "El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es ninguna de las respuestas anteriores es correcta"
    ],
-   1,
-   "La incorrecta es «En el caso de titulares de cuatro o más inmuebles de uso residencial, este recargo podrá ser de hasta el 90 por ciento de la cuota líquida del impuesto»: cambia «100». Lo correcto: «En el caso de titulares de cuatro o más inmuebles de uso residencial, este recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto».",
-   "trlrhl 72",
+   2,
+   "La incorrecta es «el Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es ninguna de las respuestas anteriores es correcta». Lo correcto: el Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible es la realización de una construcción, instalación u obra que exija licencia o declaración responsable, se haya obtenido o no la lice",
+   "trlrhl 100",
+   "Proposición negativa",
+   "h-impuestos",
+   [],
+   {
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
+   }
+  ],
+  [
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
+   [
+    "A los municipios turísticos les será de aplicación lo dispuesto en el apartado 3 del artículo 112",
+    "Participan de la naturaleza de las subvenciones las participaciones que las Diputaciones Provinciales tienen actualmente en las Apuestas Mutuas Deportivas del Estado",
+    "La prestación personal no excederá de 12 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional"
+   ],
+   2,
+   "La incorrecta es «La prestación personal no excederá de 12 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional»: cambia «15 días». Lo correcto: «La prestación personal no excederá de 15 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional».",
+   "trlrhl 129",
    "Proposición negativa",
    "",
    [],
@@ -7636,13 +7588,13 @@
   [
    "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "Las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del IBI a favor de bienes inmuebles urbanos ubicados en todos los barrios del municipio, siempre que concurran razones sociales que aconsejen la bonificación",
-    "El Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana es un tributo directo que grava el incremento de valor que experimenten dichos terrenos y se ponga de manifiesto a consecuencia de la transmisión de la propiedad o de la constitución o transmisión de derechos reales de goce limitativos del dominio",
-    "La matrícula del Impuesto sobre Actividades Económicas se forma por la Administración tributaria del Estado"
+    "La gestión, liquidación, inspección y recaudación del IVTM corresponde a la Jefatura Provincial de Tráfico, que recaudará el impuesto por delegación de los ayuntamientos",
+    "Las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del IBI a favor de bienes inmuebles urbanos ubicados en áreas o zonas del municipio que correspondan a asentamientos de población singularizados por su vinculación a actividades primarias y con menor nivel de servicios que las zonas consolidadas",
+    "Están exentos del IAE, entre otros el Estado, las comunidades autónomas y las entidades locales, así como los organismos autónomos y entidades de derecho público de análogo carácter"
    ],
    0,
-   "La incorrecta es «las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del IBI a favor de bienes inmuebles urbanos ubicados en todos los barrios del municipio, siempre que concurran razones sociales que aconsejen la bonificación». Lo correcto: las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del IBI a favor de bienes",
-   "trlrhl 74.1",
+   "La incorrecta es «la gestión, liquidación, inspección y recaudación del IVTM corresponde a la Jefatura Provincial de Tráfico, que recaudará el impuesto por delegación de los ayuntamientos». Lo correcto: la gestión, liquidación, inspección y recaudación del IVTM corresponde al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo.",
+   "trlrhl 97",
    "Proposición negativa",
    "",
    [],
@@ -7655,54 +7607,66 @@
    }
   ],
   [
-   "De acuerdo con el artículo 48 bis de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, se entiende por prudencia financiera el conjunto de condiciones que deben cumplir las operaciones financieras para:",
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "Minimizar su riesgo y coste",
-    "Maximizar su rentabilidad a corto plazo",
-    "Garantizar su amortización en el mismo ejercicio presupuestario"
+    "El Impuesto sobre Vehículos de Tracción Mecánica es un tributo directo que grava la titularidad de los vehículos de esta naturaleza, aptos para circular por las vías públicas",
+    "En las tasas por licencias urbanísticas, son sustitutos del contribuyente los notarios",
+    "Las ordenanzas fiscales contendrán, al menos la determinación del hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota, período impositivo y devengo, regímenes de declaración e ingreso y fechas de aprobación y comienzo de aplicación"
    ],
-   0,
-   "Art. 48 bis · RDLeg 2/2004 (TRLRHL): Art. 48 bis.1: todas las operaciones financieras de las Corporaciones Locales están sujetas a este principio; busca minimizar riesgo y coste.",
-   "trlrhl 48 bis",
-   "Minimizar riesgo y coste",
-   "",
+   1,
+   "La incorrecta es «en las tasas por licencias urbanísticas, son sustitutos del contribuyente los notarios». Lo correcto: en las tasas por licencias urbanísticas, son sustitutos del contribuyente los constructores y contratistas de obras.",
+   "trlrhl 23",
+   "Proposición negativa",
+   "h-cuantia-tasa",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
    }
   ],
   [
-   "De acuerdo con el artículo 128 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, los ayuntamientos podrán imponer la prestación personal y de transporte para obras de su competencia cuando su población de derecho no sea superior a:",
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "5.000 habitantes",
-    "20.000 habitantes",
-    "1.000 habitantes"
+    "Los ayuntamientos deberán exigir este impuesto en régimen de autoliquidación",
+    "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo, deberán acreditar previamente el pago del impuesto",
+    "El sustituto podrá exigir del contribuyente el importe de la cuota tributaria satisfecha"
    ],
    0,
-   "Art. 128 · RDLeg 2/2004 (TRLRHL): Art. 128.1: ayuntamientos de hasta 5.000 habitantes de derecho.",
-   "trlrhl 128",
-   "5.000 habitantes",
+   "La incorrecta es «Los ayuntamientos deberán exigir este impuesto en régimen de autoliquidación»: cambia «podrán». Lo correcto: «Los ayuntamientos podrán exigir este impuesto en régimen de autoliquidación».",
+   "trlrhl 98",
+   "Proposición negativa",
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
    }
   ],
   [
-   "De acuerdo con el artículo 130 de Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, la prestación de transportes con vehículos de tracción mecánica no excederá de:",
+   "En relación con lo establecido en Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales, señale la proposición INCORRECTA:",
    [
-    "Cinco días al año, sin que pueda ser consecutivo ninguno de ellos",
-    "Diez días al año, sin que puedan ser consecutivos más de dos",
-    "Quince días al año, consecutivos o no"
+    "Los ayuntamientos deberán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de la licencia que autorice la primera ocupación de los inmuebles",
+    "Los hechos, actos y negocios que deben ser objeto de declaración o comunicación ante el Catastro Inmobiliario tendrán efectividad en el devengo de este impuesto inmediatamente posterior al momento en que produzcan efectos catastrales",
+    "La ordenanza deberá especificar la duración, cuantía anual y demás aspectos sustantivos y formales relativos a esta bonificación"
    ],
    0,
-   "Art. 130 · RDLeg 2/2004 (TRLRHL): Art. 130.2: tracción mecánica, 5 días al año no consecutivos; en los demás casos, 10 días al año y no más de dos consecutivos.",
-   "trlrhl 130",
-   "5 días (mecánica) / 10 días (resto)",
+   "La incorrecta es «Los ayuntamientos deberán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de la licencia que autorice la primera ocupación de los inmuebles»: cambia «podrán». Lo correcto: «Los ayuntamientos podrán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitaci",
+   "trlrhl 76",
+   "Proposición negativa",
    "",
    [],
    {
-    "nuevo": 1
+    "nuevo": 1,
+    "dif": 3,
+    "neg": 1,
+    "hard": "neg",
+    "tc": 1
    }
   ]
  ]
