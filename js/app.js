@@ -6,6 +6,8 @@ import * as autoglos from './autoglos.js';
 import * as sync from './sync.js';
 import { mapaSvg, ramaHtml, conexionesHtml, hubHtml, leyendaHub, esquemaHtml } from './visual.js';
 
+const negrita = (t) => esc(t).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>'); // definiciones del glosario: solo **negrita**
+
 const $ = (s, r = document) => r.querySelector(s);
 const top = $('#top');
 const view = $('#view');
